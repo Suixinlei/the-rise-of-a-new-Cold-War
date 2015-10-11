@@ -1,0 +1,55 @@
+capital = 6545
+government = commonwealth
+ideology = social_conservative
+alignment = { x = 0 y = 50 }
+neutrality = 80
+national_unity = 70
+head_of_state = 14501
+head_of_government = 71504
+foreign_minister = 71510
+armament_minister = 71512
+minister_of_security = 71514
+minister_of_intelligence = 71522
+chief_of_staff = 71522
+chief_of_army = 71522
+chief_of_navy = 71522
+chief_of_air = 71522
+oob = "SOL_2000.txt"
+
+popularity = { 
+	national_socialist = 0
+	fascistic = 0
+	paternal_autocrat = 0
+	social_conservative = 40
+	market_liberal = 26
+	social_liberal = 24
+	social_democrat = 6
+	left_wing_radical = 2
+	leninist = 0
+	stalinist = 0
+}
+
+organization = { 
+	national_socialist = 0
+	fascistic = 0
+	paternal_autocrat = 0
+	social_conservative = 120
+	market_liberal = 78
+	social_liberal = 72
+	social_democrat = 18
+	left_wing_radical = 6
+	leninist = 0
+	stalinist = 0
+}
+
+conscription_policy = abolished_military
+press_laws = free_press
+mobilisation_level = low_mobilisation
+civil_laws = open_society
+service_length = six_months
+economic_policy = lais_fair
+
+infra_building = 1
+ic_building = 1
+air_base_building = 1
+naval_base_building = 1

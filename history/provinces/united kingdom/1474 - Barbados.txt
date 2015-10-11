@@ -1,0 +1,8 @@
+owner = BAR
+controller = BAR
+add_core = BAR
+
+infra = 6
+
+naval_base = 1 #Bridgetown port
+points = 1

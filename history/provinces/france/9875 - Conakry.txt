@@ -1,0 +1,9 @@
+owner = GUI
+controller = GUI
+add_core = GUI
+infra = 6
+manpower = 3.8
+
+air_base = 1 #Conakry airbase
+naval_base = 1
+points = 1

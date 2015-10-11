@@ -1,0 +1,7 @@
+owner = GHA
+controller = GHA
+add_core = GHA
+
+infra = 6
+leadership = 2.50
+points = 1

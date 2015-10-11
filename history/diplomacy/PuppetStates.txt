@@ -1,0 +1,18 @@
+vassal = {
+	first = SYR
+	second = LEB
+	start_date = 1991.1.1
+	end_date = 2005.4.30
+}
+vassal = {
+	first = USA
+	second = AFG
+	start_date = 2001.1.1
+	end_date = 2013.1.1
+}
+vassal = {
+	first = USA
+	second = JAP
+	start_date = 2001.1.1
+	end_date = 2013.1.1
+}

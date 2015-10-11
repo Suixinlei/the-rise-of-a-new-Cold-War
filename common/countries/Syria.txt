@@ -1,0 +1,401 @@
+color = { 209  229  221 }
+graphical_culture = Generic
+last_election = 1998.11.30
+duration = 48 
+
+default_templates = {
+	generic_infantry = {
+		infantry_brigade
+		infantry_brigade
+		infantry_brigade
+	}
+	generic_milita = {
+		militia_brigade
+		militia_brigade
+		militia_brigade
+	}
+}
+
+unit_names = {
+
+}
+
+ministers = {
+	78501 = {
+		name = "Bashar al-Assad"
+		ideology = fascistic
+		loyalty = 1.00
+		picture = M78501
+		head_of_state = prince_of_terror
+		start_date = 2000.1.1
+	}
+	78502 = {
+		name = "Muhammad Mustafa Mero"
+		ideology = fascistic
+		loyalty = 1.00
+		picture = M78502
+		head_of_government = silent_workhorse
+		start_date = 2000.1.1
+	}
+	78503 = {
+		name = "Muhammad Naji al-Otari"
+		ideology = fascistic
+		loyalty = 1.00
+		picture = M78503
+		head_of_government = elastic_defence_doctrine
+		start_date = 2003.1.1
+	}
+	78504 = {
+		name = "Adel Safar"
+		ideology = fascistic
+		loyalty = 1.00
+		picture = M78504
+		head_of_government = happy_amateur
+		start_date = 2003.1.1
+	}
+	78505 = {
+		name = "Farouk al-Sharaa"
+		ideology = fascistic
+		loyalty = 1.00
+		picture = M78505
+		foreign_minister = compassionate_gentleman
+		start_date = 2000.1.1
+	}
+	78506 = {
+		name = "Walid Muallem"
+		ideology = fascistic
+		loyalty = 1.00
+		picture = M78506
+		foreign_minister = responsive_industrialist
+		start_date = 2006.1.1
+	}
+	78507 = {
+		name = "Mustafa Tlass"
+		ideology = fascistic
+		loyalty = 1.00
+		picture = M78507
+		armament_minister = air_reformer
+		start_date = 2000.1.1
+	}
+	78508 = {
+		name = "Hasan Turkmani"
+		ideology = fascistic
+		loyalty = 1.00
+		picture = M78508
+		armament_minister = political_specialist
+		chief_of_staff = fanatical_academic
+		chief_of_army = school_of_defence
+		start_date = 2000.1.1
+	}
+	78509 = {
+		name = "Ali Habib Mahmud"
+		ideology = fascistic
+		loyalty = 1.00
+		picture = M78509
+		armament_minister = old_general
+		chief_of_staff = elastic_defence_doctrine
+		chief_of_army = military_slob
+		start_date = 2004.1.1
+	}
+	78510 = {
+		name = "Dawoud Rajiha"
+		ideology = fascistic
+		loyalty = 1.00
+		picture = M78510
+		armament_minister = smiling_oilman
+		chief_of_staff = efficient_sociopath
+		chief_of_army = army_aviation_doctrine
+		start_date = 2009.1.1
+	}
+	78511 = {
+		name = "Fahd Jassem al-Freij"
+		ideology = fascistic
+		loyalty = 1.00
+		picture = M78511
+		armament_minister = industrial_beast
+		chief_of_staff = naval_intelligence_specialist
+		chief_of_army = research_specialist
+		start_date = 2011.1.1
+	}
+	78512 = {
+		name = "Ali Hammoud"
+		ideology = fascistic
+		loyalty = 1.00
+		picture = M78512
+		minister_of_security = benevolent_gentleman
+		start_date = 2000.1.1
+	}
+	78513 = {
+		name = "Ghazi Kanaan"
+		ideology = fascistic
+		loyalty = 1.00
+		picture = M78513
+		minister_of_security = embittered
+		start_date = 2004.1.1
+	}
+	78514 = {
+		name = "Bassam Abdel Majeed"
+		ideology = fascistic
+		loyalty = 1.00
+		picture = M78514
+		minister_of_security = service_enforcer
+		start_date = 2006.1.1
+	}
+	78515 = {
+		name = "Said Mohammad Sammour"
+		ideology = fascistic
+		loyalty = 1.00
+		picture = M78515
+		minister_of_security = barking_buffoon
+		start_date = 2009.1.1
+	}
+	78516 = {
+		name = "Mohammad al-Shaar"
+		ideology = fascistic
+		loyalty = 1.00
+		picture = M78516
+		minister_of_security = hazardous_clean
+		start_date = 2011.1.1
+	}
+	78517 = {
+		name = "Munir al-Bitar"
+		ideology = leninist
+		loyalty = 1.00
+		picture = M78517
+		head_of_state = flamboyant_tough_guy
+		start_date = 2000.1.1
+	}
+	78518 = {
+		name = "Safwan al-Qudsi"
+		ideology = leninist
+		loyalty = 1.00
+		picture = M78518
+		head_of_government = devout_muslim
+		start_date = 2000.1.1
+	}
+	78519 = {
+		name = "Hassan Abdelazim"
+		ideology = leninist
+		loyalty = 1.00
+		picture = M78519
+		foreign_minister = administrative_genius
+		start_date = 2000.1.1
+	}
+	78520 = {
+		name = "Wisal Farha Bakdash"
+		ideology = stalinist
+		loyalty = 1.00
+		picture = M78520
+		head_of_state = silent_workhorse
+		start_date = 2000.1.1
+	}
+	78521 = {
+		name = "Ali Haidar"
+		ideology = paternal_autocrat
+		loyalty = 1.00
+		picture = M78521
+		head_of_state = prince_of_terror
+		start_date = 2000.1.1
+	}
+	78522 = {
+		name = "Issam Bagdi"
+		ideology = paternal_autocrat
+		loyalty = 1.00
+		picture = M78522
+		head_of_government = industrial_specialist
+		start_date = 2000.1.1
+	}
+	78523 = {
+		name = "Bushra Massouh"
+		ideology = paternal_autocrat
+		loyalty = 1.00
+		picture = M78523
+		foreign_minister = fanatical_academic
+		start_date = 2000.1.1
+	}
+	78524 = {
+		name = "Joseph Sweid"
+		ideology = paternal_autocrat
+		loyalty = 1.00
+		picture = M78524
+		armament_minister = talented_and_concealed
+		start_date = 2000.1.1
+	}
+	78525 = {
+		name = "Issam Al Mahayri"
+		ideology = paternal_autocrat
+		loyalty = 1.00
+		picture = M78525
+		minister_of_security = ideological_crusader
+		start_date = 2000.1.1
+	}
+	78526 = {
+		name = "Ghias Youn Soud"
+		ideology = stalinist
+		loyalty = 1.00
+		picture = M78526
+		head_of_government = destroyer_lover
+		start_date = 2000.1.1
+	}
+	78527 = {
+		name = "Fateh Jamous"
+		ideology = stalinist
+		loyalty = 1.00
+		picture = M78527
+		armament_minister = air_superiority_doctrine
+		start_date = 2000.1.1
+	}
+	78528 = {
+		name = "Tariq Abu Al-Hassan"
+		ideology = stalinist
+		loyalty = 1.00
+		picture = M78528
+		foreign_minister = industrial_specialist
+		start_date = 2000.1.1
+	}
+	78529 = {
+		name = "Abdul Hafiz Hafiz"
+		ideology = stalinist
+		loyalty = 1.00
+		picture = M78529
+		minister_of_security = back_stabber
+		start_date = 2000.1.1
+	}
+	78530 = {
+		name = "Farid Ghadry"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M78530
+		head_of_state = tempered_speaker
+		start_date = 2000.1.1
+	}
+	78531 = {
+		name = "Ali Sadreddine Al-Bayanouni"
+		ideology = national_socialist
+		loyalty = 1.00
+		picture = M78531
+		head_of_state = devout_muslim
+		start_date = 2000.1.1
+	}
+	78532 = {
+		name = "Mohammad Riad al-Shaqfeh"
+		ideology = national_socialist
+		loyalty = 1.00
+		picture = M78532
+		head_of_government = planning_representative
+		start_date = 2000.1.1
+	}
+	78533 = {
+		name = "Mohammad Farouk Tayfour"
+		ideology = national_socialist
+		loyalty = 1.00
+		picture = M78533
+		armament_minister = research_specialist
+		start_date = 2000.1.1
+	}
+	78534 = {
+		name = "Mohammad Hatem al-Tabshi"
+		ideology = national_socialist
+		loyalty = 1.00
+		picture = M78534
+		minister_of_security = prince_of_terror
+		start_date = 2000.1.1
+	}
+	78535 = {
+		name = "Hassan Abdul Azim"
+		ideology = social_democrat
+		loyalty = 1.00
+		picture = M78535
+		head_of_government = army_reformer
+		start_date = 2000.1.1
+	}
+	78536 = {
+		name = "Abdul Halim Khaddam"
+		ideology = social_liberal
+		loyalty = 1.00
+		picture = M78536
+		foreign_minister = naive_optimist
+		start_date = 2000.1.1
+	}
+	78537 = {
+		name = "Anas Al-Abdah"
+		ideology = market_liberal
+		loyalty = 1.00
+		picture = M78537
+		armament_minister = air_to_ground_proponent
+		start_date = 2000.1.1
+	}
+	78538 = {
+		name = "Hassan Khalil"
+		ideology = fascistic
+		loyalty = 1.00
+		picture = M78538
+		minister_of_intelligence = ambitious_union_boss
+		start_date = 2000.1.1
+	}
+	78539 = {
+		name = "Assef Shawkat"
+		ideology = fascistic
+		loyalty = 1.00
+		picture = M78539
+		minister_of_intelligence = back_stabber
+		start_date = 2005.1.1
+	}
+	78540 = {
+		name = "Abdel-Fatah Qudsiyeh"
+		ideology = fascistic
+		loyalty = 1.00
+		picture = M78540
+		minister_of_intelligence = power_hungry_demagogue
+		start_date = 2009.1.1
+	}
+	78541 = {
+		name = "Rafiq Shahadah"
+		ideology = fascistic
+		loyalty = 1.00
+		picture = M78541
+		minister_of_intelligence = compassionate_gentleman
+		start_date = 2012.1.1
+	}
+	78542 = {
+		name = "Ali Abdullah Ayyoub"
+		ideology = fascistic
+		loyalty = 1.00
+		picture = M78542
+		chief_of_staff = iron_fisted_brute
+		chief_of_army = corrupt_kleptocrat
+		start_date = 2012.1.1
+	}
+	78543 = {
+		name = "Talib al-Barri"
+		ideology = fascistic
+		loyalty = 1.00
+		picture = M78543
+		chief_of_navy = air_to_sea_proponent
+		start_date = 2000.1.1
+	}
+	78544 = {
+		name = "Yusef Othman Ahmad"
+		ideology = fascistic
+		loyalty = 1.00
+		picture = M78544
+		chief_of_air = logistics_specialist
+		start_date = 2000.1.1
+	}
+	78545 = {
+		name = "Ahmad al-Ratyb"
+		ideology = fascistic
+		loyalty = 1.00
+		picture = M78545
+		chief_of_air = master_of_skies
+		start_date = 2006.1.1
+	}
+	78546 = {
+		name = "Issam Hallaq"
+		ideology = fascistic
+		loyalty = 1.00
+		picture = M78546
+		chief_of_air = veteran
+		start_date = 2010.1.1
+	}
+}

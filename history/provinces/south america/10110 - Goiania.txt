@@ -1,0 +1,10 @@
+owner = BRA
+controller = BRA
+add_core = BRA
+industry = 6
+infra = 7
+manpower = 10.00
+rare_materials = 11.00
+air_base = 7 #Brasilia airbase
+leadership = 2.50
+points = 1

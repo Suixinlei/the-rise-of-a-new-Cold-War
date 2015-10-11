@@ -1,0 +1,51 @@
+capital = 9597
+government = absolute_monarchy
+ideology = social_liberal
+alignment = { x = 0 y = 0 }
+neutrality = 80
+national_unity = 75
+head_of_state = 85501
+head_of_government = 85503
+foreign_minister = 85505
+armament_minister = 85504
+minister_of_security = 85507
+minister_of_intelligence = 85508
+chief_of_staff = 85501
+chief_of_army = 85501
+chief_of_air = 85501
+chief_of_navy = 85501
+
+oob = "UAE_2000.txt"
+
+popularity = { 
+	national_socialist = 0
+	fascistic = 0
+	paternal_autocrat = 0
+	social_conservative = 0
+	market_liberal = 0
+	social_liberal = 50
+	social_democrat = 0
+	left_wing_radical = 0
+	leninist = 0
+	stalinist = 0
+}
+
+organization = { 
+	national_socialist = 0
+	fascistic = 0
+	paternal_autocrat = 0
+	social_conservative = 0
+	market_liberal = 0
+	social_liberal = 150
+	social_democrat = 0
+	left_wing_radical = 0
+	leninist = 0
+	stalinist = 0
+}
+
+conscription_policy = volunteer_army
+press_laws = limited_censorship
+mobilisation_level = peace_time
+civil_laws = open_society
+service_length = twelve_months
+economic_policy = lais_fair

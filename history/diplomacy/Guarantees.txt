@@ -1,0 +1,72 @@
+guarantee = {
+	first = USA
+	second = KOR
+	start_date = 2000.1.1
+	end_date = 2020.1.1
+}
+guarantee = {
+	first = USA
+	second = JAP
+	start_date = 2000.1.1
+	end_date = 2020.1.1
+}
+guarantee = {
+	first = USA
+	second = CHI
+	start_date = 2000.1.1
+	end_date = 2020.1.1
+}
+guarantee = {
+	first = USA
+	second = NZL
+	start_date = 2000.1.1
+	end_date = 2020.1.1
+}
+guarantee = {
+	first = USA
+	second = AST
+	start_date = 2000.1.1
+	end_date = 2020.1.1
+}
+guarantee = {
+	first = PHI
+	second = USA
+	start_date = 2000.1.1
+	end_date = 2020.1.1
+}
+guarantee = {
+	first = USA
+	second = PHI
+	start_date = 2000.1.1
+	end_date = 2020.1.1
+}
+guarantee = {
+	first = AST
+	second = ETI
+	start_date = 2000.1.1
+	end_date = 2020.1.1
+}
+guarantee = {
+	first = ENG
+	second = NZL
+	start_date = 1111.1.1
+	end_date = 9999.1.1
+}
+guarantee = {
+	first = ENG
+	second = AST
+	start_date = 1111.1.1
+	end_date = 9999.1.1
+}
+guarantee = {
+	first = CHC
+	second = PRK
+	start_date = 2000.1.1
+	end_date = 2020.1.1
+}
+guarantee = {
+	first = CHC
+	second = CHI
+	start_date = 2000.1.1
+	end_date = 2020.1.1
+}

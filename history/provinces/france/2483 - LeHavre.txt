@@ -1,0 +1,9 @@
+owner = FRA
+controller = FRA
+add_core = FRA
+
+
+infra = 9
+
+
+naval_base = 5 #Le Havre port

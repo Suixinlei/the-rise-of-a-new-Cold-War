@@ -1,0 +1,9 @@
+owner = FIN
+controller = FIN
+add_core = FIN
+
+
+infra = 8
+air_base = 4 #Satakunnan Lennosto and Halli airbase
+points = 1
+industry = 1

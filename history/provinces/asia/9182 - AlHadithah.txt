@@ -1,0 +1,9 @@
+ owner = USA
+
+ controller = USA
+
+add_core = IRQ
+
+infra = 7
+
+air_base = 10 #Al Asad airbase

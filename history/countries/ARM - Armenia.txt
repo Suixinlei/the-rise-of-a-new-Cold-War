@@ -1,0 +1,50 @@
+capital = 7287
+government = autocratic_democracy
+ideology = paternal_autocrat
+alignment = { x = 40 y = 30 }
+neutrality = 80
+national_unity = 70
+
+oob = "ARM_2000.txt"
+
+popularity = { 
+	national_socialist = 0
+	fascistic = 0
+	paternal_autocrat = 41
+	social_conservative = 5
+	market_liberal = 5
+	social_liberal = 1
+	social_democrat = 1
+	left_wing_radical = 0
+	leninist = 8
+	stalinist = 12
+}
+
+organization = { 
+	national_socialist = 0
+	fascistic = 0
+	paternal_autocrat = 123
+	social_conservative = 15
+	market_liberal = 15
+	social_liberal = 3
+	social_democrat = 3
+	left_wing_radical = 0
+	leninist = 24
+	stalinist = 36
+}
+
+conscription_policy = military_service
+press_laws = free_press
+mobilisation_level = peace_time
+civil_laws = open_society
+service_length = eighteen_months
+economic_policy = limit_intervention
+
+
+industrial_facilities = 1
+industral_production = 1
+industral_efficiency = 1
+weapon_design = 1
+the_fuselage_design = 1
+main_battle_tank = 1
+ship_hull = 1

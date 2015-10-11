@@ -1,0 +1,8 @@
+owner = ENG
+controller = ENG
+add_core = ENG
+infra = 8
+crude_oil = 10.00
+
+naval_base = 2 #Grimsby port
+points = 1

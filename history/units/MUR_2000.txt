@@ -1,0 +1,11 @@
+theatre = {
+	name = "Mauritius Police Force"
+	location = 10635
+	regiment = { type = hq_brigade name = "Police Force HQ" historical_model = 0 }
+	division = {
+		is_reserve = yes
+		name = "Special Mobile Force"
+		location = 10635
+		regiment = { type = garrison_brigade name = "Special Mobile Force" historical_model = 0 }
+	}
+}

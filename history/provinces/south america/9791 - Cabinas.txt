@@ -1,0 +1,6 @@
+owner = VEN
+controller = VEN
+add_core = VEN
+crude_oil = 18.7
+infra = 6
+

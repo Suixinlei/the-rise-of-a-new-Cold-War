@@ -1,0 +1,8 @@
+owner = DEN
+controller = DEN
+add_core = DEN
+
+manpower = 0.3
+industry = 1
+infra = 10
+

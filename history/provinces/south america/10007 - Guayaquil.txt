@@ -1,0 +1,7 @@
+owner = ECU
+controller = ECU
+add_core = ECU
+infra = 6
+manpower = 4.9
+air_base = 4 #Guayaquil airport and Ulpiano Paez airbase
+naval_base = 4 #Guayaquil port

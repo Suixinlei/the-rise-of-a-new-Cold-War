@@ -1,0 +1,1279 @@
+127001 = {
+	name = "Águas"
+	country = POR
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L127001
+	add_trait = marine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+127002 = {
+	name = "Alcantara"
+	country = POR
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L127002
+	add_trait = engineer
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+127003 = {
+	name = "Amaral"
+	country = POR
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L127003
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+127004 = {
+	name = "Assunção"
+	country = POR
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L127004
+	add_trait = learners_will
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+127005 = {
+	name = "Azevedo"
+	country = POR
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 0.00
+	picture = L127005
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+127006 = {
+	name = "Baptista"
+	country = POR
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L127006
+	add_trait = old_guard
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+127007 = {
+	name = "Borges"
+	country = POR
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L127007
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+127008 = {
+	name = "Brandão"
+	country = POR
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 0.00
+	picture = L127008
+	add_trait = assaulter
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+127009 = {
+	name = "Cabral"
+	country = POR
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L127009
+	add_trait = landing_specialist
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+127010 = {
+	name = "Carneiro"
+	country = POR
+	type = land
+	skill = 1
+	max_skill = 7
+	loyalty = 1.00
+	picture = L127010
+	add_trait = trainer
+	add_trait = frontline_soldier
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+127011 = {
+	name = "Carvalho"
+	country = POR
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L127011
+	add_trait = hard_defender
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+127012 = {
+	name = "Conceição"
+	country = POR
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 0.00
+	picture = L127012
+	add_trait = frontline_soldier
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+127013 = {
+	name = "Correia"
+	country = POR
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 0.00
+	picture = L127013
+	add_trait = defensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+127014 = {
+	name = "Coutinho"
+	country = POR
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 0.00
+	picture = L127014
+	add_trait = landlubber
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+127015 = {
+	name = "Cruz"
+	country = POR
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L127015
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+127016 = {
+	name = "Dias"
+	country = POR
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L127016
+	add_trait = logistics_wizard
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+127017 = {
+	name = "Fidalgo"
+	country = POR
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 1.00
+	picture = L127017
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+127018 = {
+	name = "Fonseca"
+	country = POR
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L127018
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+127019 = {
+	name = "Furtado"
+	country = POR
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L127019
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+127020 = {
+	name = "Góes"
+	country = POR
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 1.00
+	picture = L127020
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+127021 = {
+	name = "Gonçalves"
+	country = POR
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 0.00
+	picture = L127021
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+127022 = {
+	name = "Gusmão"
+	country = POR
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L127022
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+127023 = {
+	name = "Henriques"
+	country = POR
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 1.00
+	picture = L127023
+	history = {
+		2006.1.1 = { rank = 1 }
+	}
+}
+127024 = {
+	name = "Hernandes"
+	country = POR
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L127024
+	add_trait = assaulter
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+127025 = {
+	name = "Leitão"
+	country = POR
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L127025
+	add_trait = frontline_soldier
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+127026 = {
+	name = "Lima"
+	country = POR
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L127026
+	add_trait = engineer
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+127027 = {
+	name = "Luz"
+	country = POR
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L127027
+	add_trait = commando
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+127028 = {
+	name = "Macedo"
+	country = POR
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L127028
+	add_trait = old_guard
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+127029 = {
+	name = "Magalhães"
+	country = POR
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L127029
+	add_trait = commando
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+127030 = {
+	name = "Medeiros"
+	country = POR
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 1.00
+	picture = L127030
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+127031 = {
+	name = "Menezes"
+	country = POR
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L127031
+	add_trait = hard_defender
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+127032 = {
+	name = "Moniz"
+	country = POR
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L127032
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+127033 = {
+	name = "Moreira"
+	country = POR
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L127033
+	add_trait = trickster
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+127034 = {
+	name = "Nascimento"
+	country = POR
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L127034
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+127035 = {
+	name = "Oliveira"
+	country = POR
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L127035
+	add_trait = defensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+127036 = {
+	name = "Pimentel"
+	country = POR
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 0.00
+	picture = L127036
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+127037 = {
+	name = "Aleixo"
+	country = POR
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L127037
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+127038 = {
+	name = "Berger"
+	country = POR
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L127038
+	add_trait = commando
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+127039 = {
+	name = "Branco"
+	country = POR
+	type = land
+	skill = 2
+	max_skill = 8
+	loyalty = 1.00
+	picture = L127039
+	add_trait = landing_specialist
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+127040 = {
+	name = "Cardoso"
+	country = POR
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L127040
+	add_trait = panzer_leader
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+127041 = {
+	name = "da Cunha"
+	country = POR
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L127041
+	add_trait = offensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+127042 = {
+	name = "de Sousa"
+	country = POR
+	type = land
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L127042
+	add_trait = offensive_doctrine
+	add_trait = trickster
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+127043 = {
+	name = "Jerónimo"
+	country = POR
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L127043
+	add_trait = frontline_soldier
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+127044 = {
+	name = "Lança"
+	country = POR
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L127044
+	add_trait = commando
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+127045 = {
+	name = "Marques"
+	country = POR
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L127045
+	add_trait = panzer_leader
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+127046 = {
+	name = "Marquilhas"
+	country = POR
+	type = land
+	skill = 1
+	max_skill = 7
+	loyalty = 1.00
+	picture = L127046
+	add_trait = frontline_soldier
+	add_trait = commando
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+127047 = {
+	name = "Menezes"
+	country = POR
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L127047
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+127048 = {
+	name = "Miranda"
+	country = POR
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L127048
+	add_trait = fortress_buster
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+127049 = {
+	name = "Pinto"
+	country = POR
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L127049
+	add_trait = offensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+127050 = {
+	name = "Santos"
+	country = POR
+	type = land
+	skill = 1
+	max_skill = 7
+	loyalty = 1.00
+	picture = L127050
+	add_trait = trainer
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+127051 = {
+	name = "Serafino"
+	country = POR
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L127051
+	add_trait = panzer_leader
+	add_trait = assaulter
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+127052 = {
+	name = "Tavares"
+	country = POR
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L127052
+	add_trait = frontline_soldier
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+127053 = {
+	name = "Monteiro"
+	country = POR
+	type = land
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L127053
+	add_trait = hard_defender
+	history = {
+		1995.1.1 = { rank = 1 }
+		1998.1.1 = { rank = 2 }
+		2001.1.1 = { rank = 3 }
+		2003.1.1 = { rank = 4 }
+	}
+}
+127054 = {
+	name = "Ramalho"
+	country = POR
+	type = land
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L127054
+	add_trait = defensive_doctrine
+	add_trait = engineer
+	history = {
+		1995.1.1 = { rank = 1 }
+		1998.1.1 = { rank = 2 }
+		2001.1.1 = { rank = 3 }
+		2003.1.1 = { rank = 4 }
+	}
+}
+127055 = {
+	name = "Cadavez"
+	country = POR
+	type = land
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L127055
+	history = {
+		1998.1.1 = { rank = 1 }
+		2001.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+127056 = {
+	name = "d´Oliveira"
+	country = POR
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L127056
+	add_trait = improvisation
+	history = {
+		1998.1.1 = { rank = 1 }
+		2001.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+127057 = {
+	name = "dos Santos"
+	country = POR
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L127057
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+127058 = {
+	name = "Lemos"
+	country = POR
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L127058
+	history = {
+		1998.1.1 = { rank = 1 }
+		2001.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+127059 = {
+	name = "Pastor"
+	country = POR
+	type = land
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L127059
+	add_trait = old_guard
+	history = {
+		1998.1.1 = { rank = 1 }
+		2001.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+127060 = {
+	name = "Pereira"
+	country = POR
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L127060
+	history = {
+		1998.1.1 = { rank = 1 }
+		2001.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+127061 = {
+	name = "Borges"
+	country = POR
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L127061
+	add_trait = frontline_soldier
+	add_trait = improvisation
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+127062 = {
+	name = "Calçada"
+	country = POR
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L127062
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+127063 = {
+	name = "de Mascarenhas"
+	country = POR
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L127063
+	add_trait = assaulter
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+127064 = {
+	name = "Farina"
+	country = POR
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L127064
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+127065 = {
+	name = "Ferreira"
+	country = POR
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L127065
+	add_trait = commando
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+127066 = {
+	name = "Horta"
+	country = POR
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L127066
+	add_trait = panzer_leader
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+127067 = {
+	name = "Neves"
+	country = POR
+	type = land
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L127067
+	add_trait = old_guard
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+127068 = {
+	name = "Rosa"
+	country = POR
+	type = land
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L127068
+	add_trait = improvisation
+	add_trait = learners_will
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+127069 = {
+	name = "Vieira"
+	country = POR
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L127069
+	add_trait = improvisation
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+127070 = {
+	name = "Saldanha"
+	country = POR
+	type = air
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L127070
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+127071 = {
+	name = "Rodrigues"
+	country = POR
+	type = air
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L127071
+	add_trait = night_flyer
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+127072 = {
+	name = "Pinheiro"
+	country = POR
+	type = air
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L127072
+	add_trait = superior_air_tactician
+	history = {
+		1998.1.1 = { rank = 1 }
+		2001.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+127073 = {
+	name = "Borrego"
+	country = POR
+	type = air
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L127073
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+127074 = {
+	name = "Camisa"
+	country = POR
+	type = air
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L127074
+	add_trait = tank_buster
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+127075 = {
+	name = "da Silva"
+	country = POR
+	type = air
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L127075
+	add_trait = fleet_destroyer
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+127076 = {
+	name = "de Almeida"
+	country = POR
+	type = air
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L127076
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+127077 = {
+	name = "dos Ramos"
+	country = POR
+	type = air
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L127077
+	add_trait = superior_air_tactician
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+127078 = {
+	name = "Duarte"
+	country = POR
+	type = air
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L127078
+	add_trait = night_flyer
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+127079 = {
+	name = "Gonçalves"
+	country = POR
+	type = air
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L127079
+	add_trait = tank_buster
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+127080 = {
+	name = "Lopes"
+	country = POR
+	type = air
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L127080
+	add_trait = tank_buster
+	add_trait = superior_air_tactician
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+127081 = {
+	name = "Borges"
+	country = POR
+	type = sea
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L127081
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+127082 = {
+	name = "Brito"
+	country = POR
+	type = sea
+	skill = 0
+	max_skill = 5
+	loyalty = 1.00
+	picture = L127082
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+127083 = {
+	name = "Albuquerque"
+	country = POR
+	type = sea
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L127083
+	add_trait = spotter
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+127084 = {
+	name = "Alvim"
+	country = POR
+	type = sea
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L127084
+	add_trait = blockade_runner
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+127085 = {
+	name = "Seixas"
+	country = POR
+	type = sea
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L127085
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+127086 = {
+	name = "Siqueira"
+	country = POR
+	type = sea
+	skill = 0
+	max_skill = 5
+	loyalty = 1.00
+	picture = L127086
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+127087 = {
+	name = "Tavares"
+	country = POR
+	type = sea
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L127087
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+127088 = {
+	name = "Lopes"
+	country = POR
+	type = sea
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L127088
+	add_trait = spotter
+	history = {
+		1995.1.1 = { rank = 1 }
+		1998.1.1 = { rank = 2 }
+		2001.1.1 = { rank = 3 }
+		2003.1.1 = { rank = 4 }
+	}
+}
+127089 = {
+	name = "Cabeçadas"
+	country = POR
+	type = sea
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L127089
+	history = {
+		1998.1.1 = { rank = 1 }
+		2001.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+127090 = {
+	name = "Domingues"
+	country = POR
+	type = sea
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L127090
+	add_trait = seawolf
+	history = {
+		1998.1.1 = { rank = 1 }
+		2001.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+127091 = {
+	name = "Montenegro"
+	country = POR
+	type = sea
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L127091
+	add_trait = spotter
+	history = {
+		1998.1.1 = { rank = 1 }
+		2001.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+127092 = {
+	name = "Maciel"
+	country = POR
+	type = sea
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L127092
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+127093 = {
+	name = "Mendez"
+	country = POR
+	type = sea
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L127093
+	add_trait = blockade_runner
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+127094 = {
+	name = "Vasconcelos"
+	country = POR
+	type = sea
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L127094
+	add_trait = superior_tactician
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+127095 = {
+	name = "Valente"
+	country = POR
+	type = sea
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L127095
+	add_trait = seawolf
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+127096 = {
+	name = "Siqueira"
+	country = POR
+	type = sea
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L127096
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+127097 = {
+	name = "Ribeiro"
+	country = POR
+	type = sea
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L127097
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}

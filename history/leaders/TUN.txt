@@ -1,0 +1,283 @@
+166001 = {
+	name = "al-Schalal"
+	country = TUN
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L166001
+	add_trait = defensive_doctrine
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+166002 = {
+	name = "Ammar"
+	country = TUN
+	type = land
+	skill = 4
+	max_skill = 8
+	loyalty = 1.00
+	picture = L166002
+	add_trait = logistics_wizard
+	history = {
+		2000.1.1 = { rank = 4 }
+	}
+}
+166003 = {
+	name = "Rachid"
+	country = TUN
+	type = land
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = L166003
+	add_trait = panzer_leader
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+166004 = {
+	name = "R. Ammar"
+	country = TUN
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L166004
+	add_trait = logistics_wizard
+	add_trait = hard_defender
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+166005 = {
+	name = "Yedeas"
+	country = TUN
+	type = land
+	skill = 3
+	max_skill = 6
+	loyalty = 1.00
+	picture = L166005
+	add_trait = versatile
+	history = {
+		2000.1.1 = { rank = 3 }
+	}
+}
+166006 = {
+	name = "Saidani"
+	country = TUN
+	type = land
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = L166006
+	add_trait = panzer_leader
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+166007 = {
+	name = "Sidani"
+	country = TUN
+	type = land
+	skill = 1
+	max_skill = 4
+	loyalty = 0.00
+	picture = L166007
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+166008 = {
+	name = "al-Ammoun"
+	country = TUN
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L166008
+	add_trait = defensive_doctrine
+	history = {
+		2000.1.1 = { rank = 2 }
+	}
+}
+166009 = {
+	name = "Said"
+	country = TUN
+	type = land
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = L166009
+	add_trait = hard_defender
+	add_trait = learners_will
+	history = {
+		2000.1.1 = { rank = 2 }
+	}
+}
+166010 = {
+	name = "Sana"
+	country = TUN
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 0.00
+	picture = L166010
+	add_trait = defensive_doctrine
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+166011 = {
+	name = "Travelsi"
+	country = TUN
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 0.00
+	picture = L166011
+	add_trait = commando
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+166012 = {
+	name = "al-Debaki"
+	country = TUN
+	type = land
+	skill = 0
+	max_skill = 6
+	loyalty = 1.00
+	picture = L166012
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+166013 = {
+	name = "Zenati"
+	country = TUN
+	type = land
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = L166013
+	add_trait = trainer
+	history = {
+		2000.1.1 = { rank = 2 }
+	}
+}
+166014 = {
+	name = "Ben Khalifa"
+	country = TUN
+	type = land
+	skill = 1
+	max_skill = 4
+	loyalty = 1.00
+	picture = L166014
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+166015 = {
+	name = "Ben Ali"
+	country = TUN
+	type = land
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = L166015
+	add_trait = assaulter
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+166016 = {
+	name = "Ben Ahmed"
+	country = TUN
+	type = land
+	skill = 1
+	max_skill = 7
+	loyalty = 1.00
+	picture = L166016
+	add_trait = commando
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+166017 = {
+	name = "Hannachi"
+	country = TUN
+	type = air
+	skill = 2
+	max_skill = 4
+	loyalty = 1.00
+	picture = L166017
+	history = {
+		2000.1.1 = { rank = 2 }
+	}
+}
+166018 = {
+	name = "Falvy"
+	country = TUN
+	type = air
+	skill = 2
+	max_skill = 4
+	loyalty = 0.00
+	picture = L166018
+	add_trait = tank_buster
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+166019 = {
+	name = "Lamine"
+	country = TUN
+	type = air
+	skill = 2
+	max_skill = 8
+	loyalty = 1.00
+	picture = L166019
+	add_trait = carpet_bomber
+    add_trait = tank_buster
+	history = {
+		2000.1.1 = { rank = 4 }
+	}
+}
+166020 = {
+	name = "Ben Ali"
+	country = TUN
+	type = sea
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L166020
+	add_trait = spotter
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+166021 = {
+	name = "Ben Zenati"
+	country = TUN
+	type = sea
+	skill = 2
+	max_skill = 8
+	loyalty = 0.00
+	picture = L166021
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+166022 = {
+	name = "Mohamed"
+	country = TUN
+	type = sea
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = L166022
+	history = {
+		2000.1.1 = { rank = 4 }
+	}
+}

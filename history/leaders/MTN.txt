@@ -1,0 +1,84 @@
+182001 = {
+	name = "Sanardzic"
+	country = MTN
+	type = sea
+	skill = 1
+	max_skill = 4
+	loyalty = 1.00
+	picture = L182001
+	history = {
+		2000.1.1 = { rank = 2 }
+	}
+}
+182002 = {
+	name = "Lazarevic"
+	country = MTN
+	type = land
+	skill = 0
+	max_skill = 2
+	loyalty = 1.00
+	picture = L182002
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+182003 = {
+	name = "Medojevic"
+	country = MTN
+	type = land
+	skill = 0
+	max_skill = 2
+	loyalty = 1.00
+	picture = L182003
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+182004 = {
+	name = "Dakic"
+	country = MTN
+	type = land
+	skill = 0
+	max_skill = 2
+	loyalty = 1.00
+	picture = L182004
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+182005 = {
+	name = "Zegarac"
+	country = MTN
+	type = land
+	skill = 0
+	max_skill = 2
+	loyalty = 1.00
+	picture = L182005
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+182006 = {
+	name = "Pejovic"
+	country = MTN
+	type = air
+	skill = 0
+	max_skill = 2
+	loyalty = 1.00
+	picture = L182006
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+182007 = {
+	name = "Vukovic"
+	country = MTN
+	type = sea
+	skill = 0
+	max_skill = 2
+	loyalty = 1.00
+	picture = L182007
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}

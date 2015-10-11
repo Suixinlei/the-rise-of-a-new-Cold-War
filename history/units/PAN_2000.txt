@@ -1,0 +1,5 @@
+theatre =  {
+	name = "Panamanian Public Forces"
+	location = 7722
+	regiment = { type = hq_brigade name = "Panamanian Public Forces" historical_model = 0 }
+}

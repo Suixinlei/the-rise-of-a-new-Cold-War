@@ -1,0 +1,9 @@
+owner = JAP
+controller = JAP
+add_core = JAP
+
+infra = 8
+
+air_base = 3 #Kanoya airbase
+points = 1
+rocket_test = 1

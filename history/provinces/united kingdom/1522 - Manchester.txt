@@ -1,0 +1,10 @@
+owner = ENG
+controller = ENG
+add_core = ENG
+
+infra = 9
+industry = 10
+manpower = 1.5
+air_base = 6 #Manchester airport
+leadership = 1.50
+energy = 35.00

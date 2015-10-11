@@ -1,0 +1,8 @@
+owner = GUY
+controller = GUY
+add_core = GUY
+manpower = 0.3
+infra = 6
+
+naval_base = 2 #Georgetown port
+points = 1

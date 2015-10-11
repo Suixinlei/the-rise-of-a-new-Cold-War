@@ -1,0 +1,8 @@
+owner = BLR
+controller = BLR
+add_core = BLR
+infra = 7
+
+
+air_base = 3 #Pribytki airbase
+points = 1

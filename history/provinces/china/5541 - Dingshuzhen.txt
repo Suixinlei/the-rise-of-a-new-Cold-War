@@ -1,0 +1,11 @@
+owner = CHC
+
+controller = CHC
+add_core = CHC
+infra = 8
+industry = 10
+manpower = 17.00
+rare_materials = 4.00
+metal = 15.00
+air_base = 4 #Wuxi airbase
+points = 1

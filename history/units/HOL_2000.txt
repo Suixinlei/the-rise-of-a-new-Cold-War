@@ -1,0 +1,86 @@
+theatre = {
+	name = "Nederlandse Krijgsmacht"
+	location = 1910
+	regiment = { type = hq_brigade name = "Nederlandse Krijgsmacht" historical_model = 2 }
+	corps = {
+		name = "Koninklijke Landmacht"
+		location = 1910
+		regiment = { type = hq_brigade name = "Koninklijke Landmacht" historical_model = 2 }
+		division = {
+			is_reserve = yes
+			name = "11 Luchtmobiele Brigade"
+			location = 2025
+			regiment = { type = air_cavalry_brigade name = "11 'Grenadiers en Jagers' Bataljon" historical_model = 2 }
+			regiment = { type = air_cavalry_brigade name = "12 'Van Heutsz' Bataljon" historical_model = 2 }
+			regiment = { type = air_cavalry_brigade name = "13 'Stoot-troepen Prins Bernhard' Bataljon" historical_model = 2 }
+		}
+		division = {
+			is_reserve = yes
+			name = "13 Gemechaniseerde Brigade"
+			location = 2139
+			regiment = { type = mechanized_brigade name = "17 'Fuseliers Prinses Irene' Bataljon" historical_model = 1 }
+			regiment = { type = mechanized_brigade name = "42 'Limburgse Jagers' Bataljon" historical_model = 1 }
+		}
+		division = {
+			is_reserve = yes
+			name = "43 Gemechaniseerde Brigade"
+			location = 1792
+			regiment = { type = mechanized_brigade name = "44 'Johan Willem Friso' Bataljon" historical_model = 1 }
+			regiment = { type = mechanized_brigade name = "45 'Oranje Gelderland' Bataljon" historical_model = 1 }
+		}
+	}
+	
+	division = {
+		is_reserve = yes
+		name = "Nederland Marine Corps"
+		location = 1673
+		regiment = { type = marine_brigade name = "1 Mariniersbataljon" historical_model = 2 }
+		regiment = { type = marine_brigade name = "2 Mariniersbataljon" historical_model = 2 }
+	}
+	
+	navy = {
+		name = "Marine-eskader"
+		base = 1910
+		location = 1910
+		ship = { type = destroyer name = "Hr. Ms. De Zeven Provinciën" historical_model = 3 }
+		ship = { type = destroyer name = "Hr. Ms. Tromp" historical_model = 3 }
+		ship = { type = destroyer name = "Hr. Ms. De Ruyter" historical_model = 3 }
+		ship = { type = destroyer name = "Hr. Ms. Evertsen" historical_model = 3 }
+		ship = { type = heavy_cruiser name = "Hr. Ms. Van Amstel" historical_model = 1 }
+		ship = { type = heavy_cruiser name = "Hr. Ms. Van Speijk" historical_model = 1 }
+		ship = { type = heavy_cruiser name = "Hr. Ms. Tjerk Hides" historical_model = 1 }
+		ship = { type = heavy_cruiser name = "Hr. Ms. Willem van der Zaan" historical_model = 1 }
+		ship = { type = heavy_cruiser name = "Hr. Ms. Karel Doorman" historical_model = 1 }
+		ship = { type = heavy_cruiser name = "Hr. Ms. Abraham van der Hulst" historical_model = 1 }
+		ship = { type = heavy_cruiser name = "Hr. Ms. Van Nes" historical_model = 1 }
+		ship = { type = heavy_cruiser name = "Hr. Ms. Van Galen" historical_model = 1 }
+		ship = { type = assault_ship name = "Hr. Ms. Rotterdam" historical_model = 2 }
+	}
+	
+	navy = {
+		name = "Onderzeeër Dienst"
+		base = 2081
+		location = 2081
+		ship = { type = submarine name = "Hr. Ms. Walrus" historical_model = 0 }
+		ship = { type = submarine name = "Hr. Ms. Zeeleeuw" historical_model = 0 }
+		ship = { type = submarine name = "Hr. Ms. Dolfijn" historical_model = 0 }
+		ship = { type = submarine name = "Hr. Ms. Bruinvis" historical_model = 0 }
+	}
+	
+	air = {
+		name = "322nd Escadron"
+		base = 1672
+		location = 1672
+		wing = { type = multi_role name = "322nd Escardron" historical_model = 0 }
+	}
+	
+	air = {
+		name = "312th Escadron"
+		base = 2083
+		location = 2083
+		wing = { type = multi_role name = "312th Escardron" historical_model = 0 }
+	}	
+	
+}
+		
+			

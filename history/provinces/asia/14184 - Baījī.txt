@@ -1,0 +1,9 @@
+ owner = USA
+
+ controller = USA
+add_core = IRQ
+industry = 4
+infra = 6
+crude_oil = 40.00
+energy = 40.00
+leadership = 1.00

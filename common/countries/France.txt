@@ -1,0 +1,493 @@
+color = { 110  142  190 }
+graphical_culture = French
+last_election = 2002.6.9
+duration = 60
+major = yes
+
+
+default_templates = {
+	FRA_infantry = {
+		infantry_brigade
+		infantry_brigade
+		infantry_brigade
+	}
+	FRA_cavalry = {
+		cavalry_brigade
+		motorized_brigade
+	}
+	FRA_motorized = {
+		infantry_brigade
+		infantry_brigade
+		infantry_brigade
+		armored_car_brigade
+	}
+	FRA_light_mechanised = {
+		light_armor_brigade
+		motorized_brigade
+		armored_car_brigade
+	}
+	FRA_reserve_tank = {
+		armor_brigade
+		light_armor_brigade
+		motorized_brigade
+	}
+}
+
+
+unit_names = {
+	
+}
+
+
+ministers = {
+        92101 = {
+		name = "雅克·勒内·希拉克"
+		ideology = market_liberal
+		loyalty = 1.00
+		picture = FRA1
+                head_of_state = great_compromiser
+                head_of_government = resource_industrialist
+		start_date = 2000.1.1
+        }
+        92102 = {
+		name = "让-皮埃尔.拉法兰"
+		ideology = market_liberal
+		loyalty = 1.00
+		picture = FRA2
+                head_of_government = political_protege
+		start_date = 2000.1.1
+        }
+        92103 = {
+		name = "德维尔潘"
+		ideology = market_liberal
+		loyalty = 1.00
+		picture = FRA3
+                foreign_minister = biased_intellectual
+		start_date = 2000.1.1
+        }
+        92104 = {
+		name = "米歇尔 阿里奥特-玛丽"
+		ideology = market_liberal
+		loyalty = 1.00
+		picture = FRA4
+                armament_minister = battle_fleet_proponent
+		start_date = 2000.1.1
+        }
+        92105 = {
+		name = "尼古拉斯.萨科齐"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = FRA5
+                minister_of_security = crime_fighter
+                head_of_state = corporate_suit
+		start_date = 2000.1.1
+        }
+        92106 = {
+		name = "达蒂"
+		ideology = market_liberal
+		loyalty = 1.00
+		picture = FRA6
+                minister_of_intelligence = technical_specialist
+		start_date = 2000.1.1
+        }
+        92107   = {
+		name = "亨利·邦特加"
+		ideology = market_liberal
+		loyalty = 1.00
+		picture = FRA7
+                chief_of_staff = school_of_manoeuvre
+		start_date = 2000.1.1
+        }
+        92108 = {
+		name = "贝尔纳·多雷特"
+		ideology = market_liberal
+		loyalty = 1.00
+		picture = FRA8
+                chief_of_army = armoured_spearhead_doctrine
+		start_date = 2000.1.1
+        }
+        92109 = {
+		name = "让－路易·巴泰"
+		ideology = market_liberal
+		loyalty = 1.00
+		picture = FRA9
+                chief_of_navy = open_seas_doctrine
+		start_date = 2000.1.1
+        }
+        92110 = {
+		name = "里夏尔·沃尔西坦斯基"
+		ideology = market_liberal
+		loyalty = 1.00
+		picture = FRA10
+                chief_of_air = air_superiority_doctrine
+		start_date = 2000.1.1
+        }	 
+        92111 = {
+		name = "弗朗索瓦.奥朗德"
+		ideology = market_liberal
+		loyalty = 1.00
+		picture = FRA11
+                head_of_state = corporate_suit
+		start_date = 2012.1.1
+        } 
+	92112 = {
+		name = "塞戈莱纳·罗亚尔"
+		ideology = social_democrat
+		loyalty = 1.00
+		picture = FRA12
+                head_of_state = silent_lawyer
+		start_date = 2007.1.1
+        92113 = {
+		name = "玛丽·勒庞"
+		ideology = fascistic
+		loyalty = 1.00
+		picture = FRA13
+                head_of_state = ideological_crusader
+		start_date = 2003.1.1
+        }
+        92114 = {
+		name = "玛丽-乔治·比费"
+		ideology = leninist
+		loyalty = 1.00
+		picture = FRA14
+                head_of_state = man_of_the_people
+		start_date = 2003.1.1
+        }
+        92115 = {
+		name = "德维尔潘"
+		ideology = market_liberal
+		loyalty = 1.00
+		picture = FRA3
+                head_of_government = apologetic_clerk
+		start_date = 2000.1.1
+        }
+        92116 = {
+		name = "瓦乐丽皮克斯"
+		ideology = market_liberal
+		loyalty = 1.00
+		picture = FRA16
+                head_of_government = technical_specialist
+		start_date = 2012.1.1
+        }
+        92117 = {
+		name = "洛朗·法比尤斯"
+		ideology = social_democrat
+		loyalty = 1.00
+		picture = FRA17
+                head_of_government = laissez_faires_capitalist
+		start_date = 2003.1.1
+        }
+        92118 = {
+		name = "布鲁诺·哥尔尼奇"
+		ideology = fascistic
+		loyalty = 1.00
+		picture = FRA18
+                head_of_government = silent_lawyer
+		start_date = 2003.1.1
+        }
+        92119 = {
+		name = "让-克劳德·盖索"
+		ideology = leninist
+		loyalty = 1.00
+		picture = FRA19
+                head_of_government = apologetic_clerk
+		start_date = 2003.1.1
+        }
+        92120 = {
+		name = "Carl Lang"
+		ideology = fascistic
+		loyalty = 1.00
+		picture = FRA20
+                foreign_minister = great_compromiser
+		start_date = 2003.1.1
+        } 
+        92121 = {
+		name = "菲利普·德维利耶"
+		ideology = paternal_autocrat
+		loyalty = 1.00
+		picture = FRA21
+                foreign_minister = biased_intellectual
+		start_date = 2003.1.1
+        } 
+        92122 = {
+		name = "奥利维-贝赞司诺"
+		ideology = leninist
+		loyalty = 1.00
+		picture = FRA22
+                foreign_minister = ideological_crusader
+		start_date = 2003.1.1
+        } 
+        92123 = {
+		name = "米歇尔巴尔涅"
+		ideology = market_liberal
+		loyalty = 1.00
+		picture = FRA23
+                foreign_minister = biased_intellectual
+		start_date = 2004.1.1
+        } 
+        92124 = {
+		name = "菲利普·杜斯特-布拉齐"
+		ideology = market_liberal
+		loyalty = 1.00
+		picture = FRA24
+                foreign_minister = great_compromiser
+		start_date = 2005.1.1
+        } 
+        92125 = {
+		name = "贝尔纳·库什内"
+		ideology = market_liberal
+		loyalty = 1.00
+		picture = FRA25
+                foreign_minister = great_compromiser
+		start_date = 2005.1.1
+        } 
+        92126 = {
+		name = "贝特朗·德拉诺埃"
+		ideology = social_democrat
+		loyalty = 1.00
+		picture = FRA26
+                foreign_minister = great_compromiser
+		start_date = 2003.1.1
+        } 
+        92127 = {
+		name = "布鲁诺·梅格雷"
+		ideology = fascistic
+		loyalty = 1.00
+		picture = FRA27
+                foreign_minister = resource_industrialist
+		start_date = 2003.1.1
+        } 
+        92128 = {
+		name = "席阿兰·柯利里文纳"
+		ideology = leninist
+		loyalty = 1.00
+		picture = FRA28
+                armament_minister = corrupt_kleptocrat
+		start_date = 2003.1.1
+        } 
+        92129 = {
+		name = "埃尔韦·莫兰"
+		ideology = market_liberal
+		loyalty = 1.00
+		picture = FRA29
+                armament_minister = administrative_genius
+		start_date = 2005.1.1
+        }
+        92130 = {
+		name = "施特劳斯-卡恩"
+		ideology = social_democrat
+		loyalty = 1.00
+		picture = FRA30
+                armament_minister = administrative_genius
+		start_date = 2003.1.1
+        } 
+        92131 = {
+		name = "玛丽·勒庞"
+		ideology = paternal_autocrat
+		loyalty = 1.00
+		picture = FRA13
+                minister_of_security = compassionate_gentleman
+		start_date = 2003.1.1
+        } 
+        92132 = {
+		name = "亨利·埃玛纽埃利"
+		ideology = social_democrat
+		loyalty = 1.00
+		picture = FRA32
+                minister_of_security = compassionate_gentleman
+		start_date = 2003.1.1
+        } 
+        92133 = {
+		name = "罗贝尔·于"
+		ideology = leninist
+		loyalty = 1.00
+		picture = FRA33
+                minister_of_security = crime_fighter
+		start_date = 2003.1.1
+        } 
+        92134 = {
+		name = "德维尔潘"
+		ideology = market_liberal
+		loyalty = 1.00
+		picture = FRA3
+                minister_of_security = prince_of_terror
+		start_date = 2003.1.1
+        } 
+        92135 = {
+		name = "巴胡安"
+		ideology = social_democrat
+		loyalty = 1.00
+		picture = FRA35
+                minister_of_security = undistinguished_suit
+		start_date = 2005.1.1
+        } 
+        92136 = {
+		name = "米歇尔 阿里奥特-玛丽"
+		ideology = market_liberal
+		loyalty = 1.00
+		picture = FRA4
+                minister_of_security = crime_fighter
+		start_date = 2006.1.1
+        } 
+        92137 = {
+		name = "乔吉林"
+		ideology = market_liberal
+		loyalty = 1.00
+		picture = FRA37
+                chief_of_staff = school_of_psychology
+		start_date = 2005.1.1
+        } 
+        92138 = {
+		name = "凯勒什"
+		ideology = social_democrat
+		loyalty = 1.00
+		picture = FRA38
+                chief_of_army = armoured_spearhead_doctrine
+		start_date = 2003.1.1
+        } 
+        92139 = {
+		name = "阿兰-乌铎·德丹维尔"
+		ideology = market_liberal
+		loyalty = 1.00
+		picture = FRA39
+                chief_of_navy = power_projection_doctrine
+		start_date = 2003.1.1
+        } 
+        92140 = {
+		name = "霍特菲克斯"
+		ideology = market_liberal
+		loyalty = 1.00
+		picture = FRA40
+                minister_of_security = silent_lawyer
+		start_date = 2003.1.1
+        } 
+        92141 = {
+		name = "勒鲁什"
+		ideology = market_liberal
+		loyalty = 1.00
+		picture = FRA41
+                armament_minister = laissez_faires_capitalist
+		start_date = 2003.1.1
+        } 
+        92142 = {
+		name = "让马可·埃伊洛"
+		ideology = social_democrat
+		loyalty = 1.00
+		picture = FRA42
+                minister_of_security = crime_fighter
+		start_date = 2003.1.1
+        } 
+        92143 = {
+		name = "格拉瓦尼"
+		ideology = social_democrat
+		loyalty = 1.00
+		picture = FRA43
+                armament_minister = resource_industrialist
+		start_date = 2003.1.1
+        } 
+        92144 = {
+		name = "亨利齐布拉耶尔"
+		ideology = social_democrat
+		loyalty = 1.00
+		picture = FRA44
+                foreign_minister = great_compromiser
+		start_date = 2003.1.1
+        } 
+        92145 = {
+		name = "阿尔诺蒙特布尔"
+		ideology = social_democrat
+		loyalty = 1.00
+		picture = FRA45
+                foreign_minister = apologetic_clerk
+		start_date = 2006.1.1
+        } 
+        92146 = {
+		name = "阿兰·理查德"
+		ideology = social_democrat
+		loyalty = 1.00
+		picture = FRA46
+                armament_minister = laissez_faires_capitalist
+		start_date = 2003.1.1
+        } 
+        92147 = {
+		name = "阿兰鲁塞"
+		ideology = social_democrat
+		loyalty = 1.00
+		picture = FRA47
+                minister_of_security = man_of_the_people
+		start_date = 2003.1.1
+        } 
+        92148 = {
+		name = "Elrick Irastorza"
+		ideology = national_socialist
+		loyalty = 1.00
+		picture = FRA48
+                chief_of_army = air_superiority_doctrine
+		start_date = 2007.1.1
+        } 
+        92149 = {
+		name = "Elrick Irastorza"
+		ideology = national_socialist
+		loyalty = 1.00
+		picture = FRA48
+                chief_of_staff = school_of_psychology
+		start_date = 2007.1.1
+        } 
+        92150 = {
+		name = "Pierre-Francois Forissier"
+		ideology = national_socialist
+		loyalty = 1.00
+		picture = FRA50
+                chief_of_navy = indirect_approach_doctrine
+		start_date = 2007.1.1
+        } 
+        92151 = {
+		name = "斯特凡·阿布里亚尔"
+		ideology = national_socialist
+		loyalty = 1.00
+		picture = FRA51
+                chief_of_air = naval_aviation_doctrine
+		start_date = 2005.1.1
+        } 
+        92152 = {
+		name = "霍特菲克斯"
+		ideology = market_liberal
+		loyalty = 1.00
+		picture = FRA40
+                chief_of_navy = battle_fleet_proponent
+		start_date = 2003.1.1
+        } 
+        92153 = {
+		name = "格拉瓦尼"
+		ideology = social_democrat
+		loyalty = 1.00
+		picture = FRA43
+                chief_of_air = air_to_ground_proponent
+		start_date = 2003.1.1
+        } 
+        92154 = {
+		name = "乔吉林"
+		ideology = market_liberal
+		loyalty = 1.00
+		picture = FRA37
+                chief_of_air = air_to_sea_proponent
+		start_date = 2005.1.1
+        } 
+        92155 = {
+		name = "贝尔纳·库什内"
+		ideology = market_liberal
+		loyalty = 1.00
+		picture = FRA25
+                chief_of_air = strategic_air_proponent
+		start_date = 2005.1.1
+        } 
+        92156 = {
+		name = "阿兰·理查德"
+		ideology = social_democrat
+		loyalty = 1.00
+		picture = FRA46
+                chief_of_army = tank_proponent
+		start_date = 2003.1.1
+        }
+}
+

@@ -1,0 +1,8 @@
+owner = TUR
+controller = TUR
+add_core = TUR
+add_core = SYR
+infra = 6
+naval_base = 2 #Iskenderum port
+leadership = 2.50
+points = 1

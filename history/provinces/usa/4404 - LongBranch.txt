@@ -1,0 +1,7 @@
+owner = USA
+controller = USA
+add_core = USA
+
+infra = 10
+naval_base = 2 #Cape May port
+points = 1

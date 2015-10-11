@@ -1,0 +1,12 @@
+owner = LBY
+controller = LBY
+add_core = LBY
+industry = 3
+infra = 7
+manpower = 1.9
+energy = 3.00
+air_base = 5 #Tripoli airbase and airport
+naval_base = 6 #Tripoli port
+ 
+leadership = 1.00
+points = 1

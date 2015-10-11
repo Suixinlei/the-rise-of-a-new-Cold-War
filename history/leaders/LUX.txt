@@ -1,0 +1,77 @@
+94001 = {
+	name = "Daubenfeld"
+	country = LUX
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = LUX1
+	add_trait = frontline_soldier
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+94002 = {
+	name = "Varoteaux"
+	country = LUX
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = LUX2
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+94003 = {
+	name = "Reinig"
+	country = LUX
+	type = land
+	skill = 4
+	max_skill = 9
+	loyalty = 1.00
+	picture = LUX3
+	add_trait = offensive_doctrine
+	add_trait = assaulter
+	add_trait = learners_will
+	history = {
+		2000.1.1 = { rank = 3 }
+	}
+}
+94004 = {
+	name = "von Luxemburg"
+	country = LUX
+	type = land
+	skill = 1
+	max_skill = 7
+	loyalty = 1.00
+	picture = LUX4
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+94005 = {
+	name = "Glodt"
+	country = LUX
+	type = land
+	skill = 1
+	max_skill = 4
+	loyalty = 1.00
+	picture = LUX5
+	add_trait = panzer_leader
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+94006 = {
+	name = "Haupert"
+	country = LUX
+	type = air
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = LUX6
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}

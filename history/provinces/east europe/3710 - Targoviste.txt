@@ -1,0 +1,6 @@
+owner = ROM
+controller = ROM
+add_core = ROM
+
+infra = 8
+crude_oil = 2.00

@@ -1,0 +1,12 @@
+owner = IND
+controller = IND
+add_core = IND
+industry = 6
+infra = 6
+manpower = 20.00
+energy = 30.00
+metal = 30.00
+air_base = 3 #Calcutta airbase and Barrackpore airforce station
+naval_base = 10 #Kolkata port
+leadership = 2.00
+points = 1

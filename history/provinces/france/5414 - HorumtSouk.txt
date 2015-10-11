@@ -1,0 +1,8 @@
+owner = TUN
+controller = TUN
+add_core = TUN
+
+infra = 6
+
+air_base = 3 #Djerba and Remada airbase
+points = 1

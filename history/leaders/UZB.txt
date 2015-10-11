@@ -1,0 +1,221 @@
+175001 = {
+	name = "Kasymov"
+	country = UZB
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 0.00
+	picture = tulkun
+	add_trait = trickster
+	add_trait = defensive_doctrine
+	history = {
+ 1990.1.1 = { rank = 1 }
+ 1990.1.1 = { rank = 2 }
+ 1999.1.1 = { rank = 3 }
+ 2030.1.1 = { rank = 0 }
+ }
+}
+
+175002 = {
+	name = "Agzamov D."
+	country = UZB
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 0.00
+	picture = djura
+	add_trait = defensive_doctrine
+	history = {
+		1999.1.1 = { rank = 1 }
+		2030.1.1 = { rank = 0 }
+	}
+}
+175003 = {
+	name = "Berdiew"
+	country = UZB
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 0.00
+	picture = uzberdiev
+	history = {
+		1999.1.1 = { rank = 1 }
+		2030.1.1 = { rank = 0 }
+	}
+}
+175004 = {
+	name = "Inoyatov"
+	country = UZB
+	type = land
+	skill = 0
+	max_skill = 3
+	loyalty = 0.00
+	picture = inoyatov
+	history = {
+		1999.1.1 = { rank = 1 }
+		1999.1.1 = { rank = 1 }
+		2030.1.1 = { rank = 0 }
+	}
+}
+175005 = {
+	name = "Rahimov"
+	country = UZB
+	type = land
+	skill = 1
+	max_skill = 4
+	loyalty = 1.00
+	picture = UZ05
+	add_trait = old_guard
+	history = {
+		1990.1.1 = { rank = 1 }
+		2030.1.1 = { rank = 0 }
+	}
+}
+175006 = {
+	name = "Karimov R."
+	country = UZB
+	type = land
+	skill = 1
+	max_skill = 4
+	loyalty = 0.00
+	picture = UZ06
+	add_trait = old_guard
+	history = {
+		1999.1.1 = { rank = 1 }
+		2030.1.1 = { rank = 0 }
+	}
+}
+175007 = {
+	name = "Mulladjanov"
+	country = UZB
+	type = land
+	skill = 0
+	max_skill = 4
+	loyalty = 0.00
+	picture = UZ07
+	history = {
+		1999.1.1 = { rank = 1 }
+		2030.1.1 = { rank = 0 }
+	}
+}
+175008 = {
+	name = "Kamalhodjaev"
+	country = UZB
+	type = land
+	skill = 0
+	max_skill = 4
+	loyalty = 0.00
+	picture = UZ08
+	history = {
+		1999.1.1 = { rank = 1 }
+		2030.1.1 = { rank = 0 }
+	}
+}
+175009 = {
+	name = "Kadyrov"
+	country = UZB
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = UZ09
+	history = {
+		1990.1.1 = { rank = 1 }
+		2030.1.1 = { rank = 0 }
+	}
+}
+175010 = {
+	name = "Hudaibergenov"
+	country = UZB
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = UZ10
+	add_trait = defensive_doctrine
+	history = {
+		1990.1.1 = { rank = 1 }
+		2030.1.1 = { rank = 0 }
+	}
+}
+175011 = {
+	name = "Haidarov"
+	country = UZB
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 0.00
+	picture = UZ11
+	add_trait = offensive_doctrine
+	history = {
+		1999.1.1 = { rank = 1 }
+		2030.1.1 = { rank = 0 }
+	}
+}
+175012 = {
+	name = "Agzamov Y."
+	country = UZB
+	type = land
+	skill = 2
+	max_skill = 9
+	loyalty = 0.00
+	picture = UZ12
+	add_trait = panzer_leader
+	history = {
+		1999.1.1 = { rank = 1 }
+		2030.1.1 = { rank = 0 }
+	}
+}
+175013 = {
+	name = "Ahmedov"
+	country = UZB
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 0.00
+	picture = UZ13
+	history = {
+		1999.1.1 = { rank = 1 }
+		1999.1.1 = { rank = 2 }
+		2030.1.1 = { rank = 0 }
+	}
+}
+175014 = {
+	name = "Hidiraliew"
+	country = UZB
+	type = land
+	skill = 0
+	max_skill = 4
+	loyalty = 0.00
+	picture = UZ14
+	history = {
+		1999.1.1 = { rank = 1 }
+		2030.1.1 = { rank = 0 }
+	}
+}
+175015 = {
+	name = "Sattarov"
+	country = UZB
+	type = land
+	skill = 0
+	max_skill = 4
+	loyalty = 0.00
+	picture = UZ15
+	history = {
+		1999.1.1 = { rank = 1 }
+		2030.1.1 = { rank = 0 }
+	}
+}
+175016 = {
+	name = "Parpiev"
+	country = UZB
+	type = land
+	skill = 0
+	max_skill = 4
+	loyalty = 0.00
+	picture = UZ16
+	history = {
+		1999.1.1 = { rank = 1 }
+		2030.1.1 = { rank = 0 }
+	}
+}

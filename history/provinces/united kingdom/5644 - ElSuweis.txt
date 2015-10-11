@@ -1,0 +1,9 @@
+owner = EGY
+controller = EGY
+add_core = EGY
+infra = 7
+manpower = 2.00
+naval_base = 7 #Suez port
+ 
+leadership = 0.50
+points = 1

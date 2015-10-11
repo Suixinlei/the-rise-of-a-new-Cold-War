@@ -1,0 +1,7 @@
+owner = COL
+controller = COL
+add_core = COL
+
+infra = 6
+naval_base = 4 #Buenaventura port
+points = 1

@@ -1,0 +1,63 @@
+theatre = {
+	name = "Belgisch Leger"
+	location = 2311
+	regiment = { type = hq_brigade name = "Belgisch Leger" historical_model = 2 }
+	corps = {
+		name = "Landcomponent"
+		location = 2311
+		regiment = { type = hq_brigade name = "COMOPSLAND" historical_model = 2 }
+		division = {
+			is_reserve = yes
+			name = "1st Mechanised Brigade"
+			location = 10685
+			regiment = { type = mechanized_brigade name = "Regiment Carabiniers Prins Boudewijn - Grenadiers" historical_model = 0 }
+			regiment = { type = mechanized_brigade name = "Regiment Bevrijding – 5 Linie" historical_model = 0 }
+			regiment = { type = mechanized_brigade name = "1/3 Bataillon de Lanciers" historical_model = 0 }
+			regiment = { type = mechanized_brigade name = "Bataillon de Chasseurs Ardennais" historical_model = 0 }
+		}
+		division = {
+			is_reserve = yes
+			name = "7th Mechanised Brigade"
+			location = 2369
+			regiment = { type = infantry_brigade name = "Bataljon 12 Linie Prins Léopold - 13 Linie" historical_model = 2 }
+		}
+		division = {
+			is_reserve = yes
+			name = "Immediate Reaction Cell"
+			location = 2311
+			regiment = { type = paratrooper_brigade name = "2 Bataillon de Commandos" historical_model = 2 }
+			regiment = { type = paratrooper_brigade name = "3 Bataljon Parachutisten" historical_model = 2 }
+		}
+		division = {
+			is_reserve = yes
+			name = "Special Forces Group"
+			location = 2254
+			regiment = { type = special_forces_brigade name = "Special Forces Group" historical_model = 2 }
+		}
+	}
+	
+	navy = {
+		name = "Marine"
+		base = 2137
+		location = 2137
+		ship = { type = heavy_cruiser name = "Wielingen" historical_model = 0 }
+		ship = { type = heavy_cruiser name = "Westdiep" historical_model = 0 }
+		ship = { type = heavy_cruiser name = "Wandelaar" historical_model = 0 }
+	}
+	
+	
+	air = {
+		name = "Vleugel van de Vechter"
+		base = 2311
+		location = 2311
+		wing = { type = multi_role name = "1e Vleugel" historical_model = 0 }
+		wing = { type = multi_role name = "2e Vleugel" historical_model = 0 }
+	}
+	
+	air = {
+		name = "Vervoer Vleugel"
+		base = 2196
+		location = 2196
+		wing = { type = transport_plane name = "1e Vervoer Vleugel" historical_model = 0 }
+	}
+}	

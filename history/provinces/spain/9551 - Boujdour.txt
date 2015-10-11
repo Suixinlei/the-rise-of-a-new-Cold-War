@@ -1,0 +1,6 @@
+owner = MOR
+controller = MOR
+add_core = MOR
+add_core = SAH
+infra = 4
+

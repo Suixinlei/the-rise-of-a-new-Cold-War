@@ -1,0 +1,40 @@
+capital = 10298
+government = autocratic_democracy
+ideology = leninist
+alignment = { x = 0 y = 50 }
+neutrality = 80
+national_unity = 60
+oob = "ZIM_2000.txt"
+
+popularity = { 
+	national_socialist = 0
+	fascistic = 0
+	paternal_autocrat = 5
+	social_conservative = 20
+	market_liberal = 15
+	social_liberal = 10
+	social_democrat = 0
+	left_wing_radical = 0
+	leninist = 50
+	stalinist = 0
+}
+
+organization = { 
+	national_socialist = 0
+	fascistic = 0
+	paternal_autocrat = 15
+	social_conservative = 60
+	market_liberal = 45
+	social_liberal = 30
+	social_democrat = 0
+	left_wing_radical = 0
+	leninist = 150
+	stalinist = 0
+}
+
+conscription_policy = volunteer_army
+press_laws = censorship
+mobilisation_level = low_mobilisation
+civil_laws = restrictions
+service_length = six_months
+economic_policy = limit_intervention

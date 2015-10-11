@@ -1,0 +1,10 @@
+owner = URU
+controller = URU
+add_core = URU
+infra = 6
+manpower = 0.8
+energy = 1.00
+air_base = 6 #Curbelo and Santa Bernardina airbase
+naval_base = 6 #Montevideo port
+leadership = 3.00
+points = 1

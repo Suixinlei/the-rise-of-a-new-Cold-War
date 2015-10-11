@@ -1,0 +1,10 @@
+owner = YEM
+
+controller = YEM
+
+add_core = YEM
+add_core = SOM
+
+infra = 4
+air_base = 3 #Socotra airbase
+naval_base = 1

@@ -1,0 +1,10 @@
+owner = SAU
+
+controller = SAU
+
+add_core = SAU
+
+manpower = 1.00
+infra = 5
+energy = 5.00
+

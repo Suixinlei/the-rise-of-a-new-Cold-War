@@ -1,0 +1,41 @@
+capital = 9749
+government = dictatorship
+ideology = paternal_autocrat
+alignment = { x = 0 y = 50 }
+neutrality = 80
+national_unity = 70
+oob = "ERI_2000.txt"
+
+popularity = { 
+	national_socialist = 0
+	fascistic = 0
+	paternal_autocrat = 40
+	social_conservative = 20
+	market_liberal = 20
+	social_liberal = 20
+	social_democrat = 0
+	left_wing_radical = 0
+	leninist = 0
+	stalinist = 0
+}
+
+organization = { 
+	national_socialist = 0
+	fascistic = 0
+	paternal_autocrat = 120
+	social_conservative = 60
+	market_liberal = 60
+	social_liberal = 60
+	social_democrat = 0
+	left_wing_radical = 0
+	leninist = 0
+	stalinist = 0
+}
+
+conscription_policy = military_service
+press_laws = censorship
+mobilisation_level = peace_time
+civil_laws = restrictions
+service_length = eighteen_months
+economic_policy = limit_intervention
+

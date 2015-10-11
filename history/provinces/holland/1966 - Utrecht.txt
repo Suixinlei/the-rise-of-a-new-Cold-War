@@ -1,0 +1,7 @@
+owner = HOL
+controller = HOL
+add_core = HOL
+manpower = 0.6
+industry = 3
+infra = 9
+

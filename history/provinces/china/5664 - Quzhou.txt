@@ -1,0 +1,10 @@
+owner = CHC
+
+controller = CHC
+
+ 
+add_core = CHC
+
+infra = 8
+
+

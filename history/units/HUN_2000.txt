@@ -1,0 +1,45 @@
+theatre = {
+	name = "Magyar Honvédség"
+	location = 3164
+	regiment = { type = hq_brigade name = "Magyar Honvédség" historical_model = 2 }
+	corps = {
+		name = "Magyar Szárazföldi Erok"
+		location = 3297
+		regiment = { type = hq_brigade name = "Magyar Szárazföldi Erok" historical_model = 2 }
+		division = {
+			is_reserve = yes
+			name = "5. Lövészdandár 'István Bocskai'"
+			location = 3300
+			regiment = { type = mechanized_brigade name = "1. Könnyu Gyalogos Zászlóalj" historical_model = 0 }
+			regiment = { type = mechanized_brigade name = "2. Könnyu Gyalogos Zászlóalj" historical_model = 0 }
+			regiment = { type = mechanized_brigade name = "3. Könnyu Gyalogos Zászlóalj" historical_model = 0 }
+			regiment = { type = mechanized_brigade name = "62. Könnyu Gyalogos Zászlóalj" historical_model = 0 }
+		}
+		division = {
+			is_reserve = yes
+			name = "25. Lövészdandár 'György Klapka'"
+			location = 3163
+			regiment = { type = mechanized_brigade name = "Könnyu Gyalogos Zászlóalj" historical_model = 0 }
+			regiment = { type = anti_air_brigade name = "12. Légvédelmi Rakéta Ezred" historical_model = 0 }
+		}
+		division = {
+			is_reserve = yes
+			name = "34. Különleges Erok Zászlóalj 'László Bercsényi'"
+			location = 3299
+			regiment = { type = special_forces_brigade name = "34. Különleges Erok Zászlóalj 'László Bercsényi'" historical_model = 2 }
+		}
+		division = {
+			is_reserve = yes
+			name = "25./88. Könnyu Vegyes Zászlóalj"
+			location = 3299
+			regiment = { type = paratrooper_brigade name = "25./88. Könnyu Vegyes Zászlóalj" historical_model = 2 }
+		}
+	}
+	
+	air = {
+		name = "59. 'Szentgyörgyi Dezso' Harcászati Repülobázis"
+		base = 3299
+		location = 3299
+		wing = { type = multi_role name = "'Puma' Harcászati Repüloszázad" historical_model = 0 }
+	}
+}

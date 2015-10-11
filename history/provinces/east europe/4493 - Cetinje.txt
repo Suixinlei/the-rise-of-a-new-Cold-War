@@ -1,0 +1,8 @@
+owner = SER
+controller = SER
+add_core = SER
+add_core = MTN
+infra = 6
+terrain = hills
+
+

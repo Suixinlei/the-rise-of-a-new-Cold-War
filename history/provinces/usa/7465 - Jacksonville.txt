@@ -1,0 +1,10 @@
+owner = USA
+controller = USA
+add_core = USA
+infra = 8
+energy = 35.00
+rare_materials = 5.00
+metal = 5.00
+naval_base = 10 #Jacksonville port
+points = 1
+leadership = 1.00

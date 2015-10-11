@@ -1,0 +1,42 @@
+capital = 9943
+government = autocratic_democracy
+ideology = social_democrat
+alignment = { x = -20 y = 70 }
+neutrality = 80
+national_unity = 70
+oob = "ETH_2000.txt"
+
+
+popularity = { 
+	national_socialist = 0
+	fascistic = 0
+	paternal_autocrat = 0
+	social_conservative = 26
+	market_liberal = 20
+	social_liberal = 0
+	social_democrat = 33
+	left_wing_radical = 7
+	leninist = 0
+	stalinist = 0
+}
+
+organization = { 
+	national_socialist = 0
+	fascistic = 0
+	paternal_autocrat = 0
+	social_conservative = 78
+	market_liberal = 60
+	social_liberal = 0
+	social_democrat = 99
+	left_wing_radical = 21
+	leninist = 0
+	stalinist = 0
+}
+
+conscription_policy = volunteer_army
+press_laws = free_press
+mobilisation_level = peace_time
+civil_laws = open_society
+economic_policy = lais_fair
+service_length = six_months
+

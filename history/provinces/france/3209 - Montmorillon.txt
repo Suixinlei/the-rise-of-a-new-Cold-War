@@ -1,0 +1,5 @@
+owner = FRA
+controller = FRA
+add_core = FRA
+energy = 3.00
+infra = 9

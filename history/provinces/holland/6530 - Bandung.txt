@@ -1,0 +1,7 @@
+owner = INO
+controller = INO
+add_core = INO
+infra = 6
+industry = 6
+manpower = 10.00
+air_base = 2 #Bandung airbase

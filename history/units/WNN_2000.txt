@@ -1,0 +1,5 @@
+theatre = {
+	name = "World News HQ"
+	location = 10320
+	regiment = { type = hq_brigade name = "World News HQ" historical_model = 0 }
+}

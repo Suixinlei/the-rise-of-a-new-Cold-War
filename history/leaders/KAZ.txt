@@ -1,0 +1,488 @@
+83001 = {
+	name = "Altynbaev M.K."
+	country = KAZ
+	type = land
+	skill = 1
+	max_skill = 4
+	loyalty = 0.00
+	picture = KZ01
+	add_trait = defensive_doctrine
+	add_trait = old_guard
+	history = {
+ 1990.1.1 = { rank = 1 }
+ 1990.1.1 = { rank = 2 }
+ 1999.1.1 = { rank = 3 }
+ 2030.1.1 = { rank = 0 }
+ }
+}
+
+83002 = {
+	name = "Ertaev"
+	country = KAZ
+	type = land
+	skill = 0
+	max_skill = 4
+	loyalty = 0.00
+	picture = KZ02
+	add_trait = commando
+	add_trait = old_guard
+	history = {
+		1990.1.1 = { rank = 1 }
+		1999.1.1 = { rank = 2 }
+		2030.1.1 = { rank = 0 }
+	}
+}
+83003 = {
+	name = "Pospelov"
+	country = KAZ
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 0.00
+	picture = KZ03
+	add_trait = panzer_leader
+	history = {
+		1990.1.1 = { rank = 1 }
+		1999.1.1 = { rank = 2 }
+		2030.1.1 = { rank = 0 }
+	}
+}
+83004 = {
+	name = "Tasbulatov A.B."
+	country = KAZ
+	type = land
+	skill = 1
+	max_skill = 7
+	loyalty = 0.00
+	picture = KZ04
+	history = {
+		1990.1.1 = { rank = 1 }
+		2030.1.1 = { rank = 0 }
+	}
+}
+83005 = {
+	name = "Djulamanov"
+	country = KAZ
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = KZ05
+	add_trait = offensive_doctrine
+	history = {
+		1990.1.1 = { rank = 1 }
+		1999.1.1 = { rank = 2 }
+		2030.1.1 = { rank = 0 }
+	}
+}
+83006 = {
+	name = "Djanasaev"
+	country = KAZ
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 0.00
+	picture = djansaev
+	history = {
+		1990.1.1 = { rank = 1 }
+		1999.1.1 = { rank = 2 }
+		2030.1.1 = { rank = 0 }
+	}
+}
+83007 = {
+	name = "Zhasuzakov"
+	country = KAZ
+	type = land
+	skill = 1
+	max_skill = 7
+	loyalty = 0.00
+	picture = KZ07
+	history = {
+		1999.1.1 = { rank = 1 }
+		2030.1.1 = { rank = 0 }
+	}
+}
+83008 = {
+	name = "Zhanzhumenov"
+	country = KAZ
+	type = land
+	skill = 1
+	max_skill = 7
+	loyalty = 0.00
+	picture = kz08
+	history = {
+		1999.1.1 = { rank = 1 }
+		2030.1.1 = { rank = 0 }
+	}
+}
+83009 = {
+	name = "Aldarbergenov"
+	country = KAZ
+	type = land
+	skill = 0
+	max_skill = 3
+	loyalty = 1.00
+	picture = KZ09
+	add_trait = defensive_doctrine
+	history = {
+		1990.1.1 = { rank = 1 }
+		2030.1.1 = { rank = 0 }
+	}
+}
+83010 = {
+	name = "Darbekov"
+	country = KAZ
+	type = land
+	skill = 2
+	max_skill = 9
+	loyalty = 0.00
+	picture = darbekov
+	history = {
+		1992.1.1 = { rank = 1 }
+		1992.1.1 = { rank = 2 }
+		2030.1.1 = { rank = 0 }
+	}
+}
+83011 = {
+	name = "Djarbulov"
+	country = KAZ
+	type = land
+	skill = 1
+	max_skill = 3
+	loyalty = 0.00
+	picture = KZ11
+	add_trait = old_guard
+	history = {
+		1990.1.1 = { rank = 1 }
+		2030.1.1 = { rank = 0 }
+	}
+}
+83012 = {
+	name = "Shatskov"
+	country = KAZ
+	type = land
+	skill = 1
+	max_skill = 7
+	loyalty = 0.00
+	picture = KZ12
+	add_trait = defensive_doctrine
+	history = {
+		1990.1.1 = { rank = 1 }
+		2030.1.1 = { rank = 0 }
+	}
+}
+83013 = {
+	name = "Sihimov"
+	country = KAZ
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 0.00
+	picture = KZ13
+	add_trait = panzer_leader
+	history = {
+		1990.1.1 = { rank = 1 }
+		2030.1.1 = { rank = 0 }
+	}
+}
+83014 = {
+	name = "Erniyazov"
+	country = KAZ
+	type = land
+	skill = 1
+	max_skill = 7
+	loyalty = 0.00
+	picture = KZ14
+	add_trait = offensive_doctrine
+	history = {
+		1990.1.1 = { rank = 1 }
+		2030.1.1 = { rank = 0 }
+	}
+}
+83015 = {
+	name = "Elamanov"
+	country = KAZ
+	type = land
+	skill = 1
+	max_skill = 4
+	loyalty = 0.00
+	picture = KZ15
+	history = {
+		1990.1.1 = { rank = 1 }
+		2030.1.1 = { rank = 0 }
+	}
+}
+83016 = {
+	name = "Altynbaev M.M."
+	country = KAZ
+	type = land
+	skill = 0
+	max_skill = 4
+	loyalty = 0.00
+	picture = KZ16
+	history = {
+		1999.1.1 = { rank = 1 }
+		2030.1.1 = { rank = 0 }
+	}
+}
+83017 = {
+	name = "Tokpakbaev"
+	country = KAZ
+	type = land
+	skill = 0
+	max_skill = 3
+	loyalty = 0.00
+	picture = KZ17
+	add_trait = trickster
+	history = {
+		1990.1.1 = { rank = 1 }
+		1999.1.1 = { rank = 2 }
+		2030.1.1 = { rank = 0 }
+	}
+}
+83018 = {
+	name = "Shabdarbaev"
+	country = KAZ
+	type = land
+	skill = 0
+	max_skill = 3
+	loyalty = 0.00
+	picture = shabd
+	history = {
+		2000.1.1 = { rank = 1 }
+		2030.1.1 = { rank = 0 }
+	}
+}
+83019 = {
+	name = "Iskakov"
+	country = KAZ
+	type = land
+	skill = 1
+	max_skill = 4
+	loyalty = 0.00
+	picture = KZ19
+	history = {
+		1999.1.1 = { rank = 1 }
+		2030.1.1 = { rank = 0 }
+	}
+}
+83020 = {
+	name = "Aubaev"
+	country = KAZ
+	type = land
+	skill = 0
+	max_skill = 4
+	loyalty = 1.00
+	picture = KZ20
+	history = {
+		2000.1.1 = { rank = 1 }
+		2030.1.1 = { rank = 0 }
+	}
+}
+83021 = {
+	name = "Saparov"
+	country = KAZ
+	type = land
+	skill = 1
+	max_skill = 7
+	loyalty = 0.00
+	picture = KZ21
+	add_trait = trickster
+	add_trait = offensive_doctrine
+	history = {
+		1990.1.1 = { rank = 1 }
+		2001.1.1 = { rank = 2 }
+		2030.1.1 = { rank = 0 }
+	}
+}
+83022 = {
+	name = "Rysbaev"
+	country = KAZ
+	type = land
+	skill = 1
+	max_skill = 7
+	loyalty = 0.00
+	picture = KZ22
+	add_trait = offensive_doctrine
+	history = {
+		1999.1.1 = { rank = 1 }
+		2030.1.1 = { rank = 0 }
+	}
+}
+83023 = {
+	name = "Syzdykov"
+	country = KAZ
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 0.00
+	picture = KZ23
+	add_trait = fortress_buster
+	history = {
+		1990.1.1 = { rank = 1 }
+		2030.1.1 = { rank = 0 }
+	}
+}
+83024 = {
+	name = "Maermanov"
+	country = KAZ
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 0.00
+	picture = KZ24
+	add_trait = fortress_buster
+	history = {
+		1999.1.1 = { rank = 1 }
+		2009.1.1 = { rank = 0 }
+	}
+}
+83025 = {
+	name = "Maikeev B.A."
+	country = KAZ
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 0.00
+	picture = KZ25
+	history = {
+		2000.1.1 = { rank = 1 }
+		2030.1.1 = { rank = 0 }
+	}
+}
+83026 = {
+	name = "Maikeev M.J."
+	country = KAZ
+	type = land
+	skill = 1
+	max_skill = 7
+	loyalty = 0.00
+	picture = KZ26
+	add_trait = offensive_doctrine
+	history = {
+		1990.1.1 = { rank = 1 }
+		1999.1.1 = { rank = 2 }
+		2030.1.1 = { rank = 0 }
+	}
+}
+83027 = {
+	name = "Sembinov"
+	country = KAZ
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 0.00
+	picture = KZ27
+	history = {
+		1995.1.1 = { rank = 1 }
+		2030.1.1 = { rank = 0 }
+	}
+}
+83028 = {
+	name = "Komratov"
+	country = KAZ
+	type = sea
+	skill = 0
+	max_skill = 3
+	loyalty = 0.00
+	picture = ratmir
+	history = {
+		1999.1.1 = { rank = 1 }
+		2030.1.1 = { rank = 0 }
+	}
+}
+83029 = {
+	name = "Zhanzakov"
+	country = KAZ
+	type = sea
+	skill = 1
+	max_skill = 5
+	loyalty = 0.00
+	picture = zhanzakov
+	history = {
+		2005.1.1 = { rank = 1 }
+		2030.1.1 = { rank = 0 }
+	}
+}
+83030 = {
+	name = "Sorokin"
+	country = KAZ
+	type = air
+	skill = 1
+	max_skill = 5
+	loyalty = 0.00
+	picture = KZ30
+	history = {
+		1999.1.1 = { rank = 1 }
+		2030.1.1 = { rank = 0 }
+	}
+}
+83031 = {
+	name = "Akhmadiev"
+	country = KAZ
+	type = air
+	skill = 1
+	max_skill = 5
+	loyalty = 0.00
+	picture = akhmadiev
+	history = {
+		1999.1.1 = { rank = 1 }
+		2030.1.1 = { rank = 0 }
+	}
+}
+83032 = {
+	name = "Tasbulatov A.K."
+	country = KAZ
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 0.00
+	picture = KZ32
+	add_trait = winter_specialist
+	add_trait = old_guard
+	history = {
+		1990.1.1 = { rank = 1 }
+		2030.1.1 = { rank = 0 }
+	}
+}
+83033 = {
+	name = "Kuatov"
+	country = KAZ
+	type = land
+	skill = 1
+	max_skill = 9
+	loyalty = 0.00
+	picture = KZ33
+	add_trait = panzer_leader
+	history = {
+		1999.1.1 = { rank = 1 }
+		2030.1.1 = { rank = 0 }
+	}
+}
+83034 = {
+	name = "Dairov"
+	country = KAZ
+	type = land
+	skill = 0
+	max_skill = 4
+	loyalty = 0.00
+	picture = KZ34
+	add_trait = engineer
+	history = {
+		1999.1.1 = { rank = 1 }
+		2030.1.1 = { rank = 0 }
+	}
+}
+83035 = {
+	name = "Kudaibergenov"
+	country = KAZ
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 0.00
+	picture = KZ35
+	history = {
+		1990.1.1 = { rank = 1 }
+		2030.1.1 = { rank = 0 }
+	}
+}

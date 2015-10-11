@@ -1,0 +1,12 @@
+owner = COL
+controller = COL
+add_core = COL
+infra = 6
+industry = 5
+manpower = 8.00
+energy = 6.00
+rare_materials = 1.00
+air_base = 10 #Bogota airbases
+ 
+leadership = 2.50
+points = 1

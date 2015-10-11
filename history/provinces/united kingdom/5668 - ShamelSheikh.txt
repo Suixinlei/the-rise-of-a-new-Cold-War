@@ -1,0 +1,7 @@
+owner = EGY
+controller = EGY
+add_core = EGY
+infra = 5
+
+air_base = 2 #Sharm el Sheikh airport
+points = 1

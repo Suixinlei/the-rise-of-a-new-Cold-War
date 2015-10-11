@@ -1,0 +1,51 @@
+theatre = {	
+	name = "Forces Armées et de Sécurité du Mali"
+	location = 9758
+	regiment = { type = hq_brigade name = "Forces Armées et de Sécurité du Mali" historical_model = 0 }
+	corps = {
+		name = "Malian Army"
+		location = 9758
+		regiment = { type = hq_brigade name = "Malian Army HQ" historical_model = 0 }
+		division = {
+			is_reserve = yes
+			name = "Armoured Battalions 1&2"
+			location = 9776
+			regiment = { type = armor_brigade name = "1st Armoured Battalion" historical_model = 0 }
+			regiment = { type = armor_brigade name = "2nd Armoured Battalion" historical_model = 0 }
+		}
+		division = {
+			is_reserve = yes
+			name = "Infantry Battalions 3&4"
+			location = 9744
+			regiment = { type = infantry_brigade name = "3rd Infantry Battalion" historical_model = 0 }
+			regiment = { type = infantry_brigade name = "4th Infantry Battalion" historical_model = 0 }
+		}
+		division = {
+			is_reserve = yes
+			name = "Infantry Battalions 5&6"
+			location = 9759
+			regiment = { type = infantry_brigade name = "5th Infantry Battalion" historical_model = 0 }
+			regiment = { type = infantry_brigade name = "6th Infantry Battalion" historical_model = 0 }
+		}
+		division = {
+			is_reserve = yes
+			name = "Special Forces Battalion"
+			location = 9758
+			regiment = { type = special_forces_brigade name = "Special Forces Battalion" historical_model = 0 }
+		}
+		division = {
+			is_reserve = yes
+			name = "33rd Parachute Infantry Regiment"
+			location = 9758
+			regiment = { type = paratrooper_brigade name = "33rd Parachute Infantry Regiment" historical_model = 0 }
+		}
+	}
+	
+	air = {
+	name = "Malian Airforce"
+	base = 9758
+	location = 9758
+	wing = { type = interceptor name = "1st Fighter Wing" historical_model = 0 }
+	}
+	
+}

@@ -1,0 +1,6 @@
+owner = BRA
+controller = BRA
+add_core = BRA
+
+infra = 6
+air_base = 3 #Santa Maria airbase

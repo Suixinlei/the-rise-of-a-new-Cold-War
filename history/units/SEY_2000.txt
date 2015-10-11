@@ -1,0 +1,5 @@
+theatre = {
+	name = "Seychelles People's Defence Force"
+	location = 10195
+	regiment = { type = hq_brigade name = "Seychelles People's Defence Force" historical_model = 1 }
+}

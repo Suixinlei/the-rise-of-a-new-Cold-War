@@ -1,0 +1,5 @@
+owner = ANG
+controller = ANG
+add_core = ANG
+crude_oil = 22.00
+infra = 4

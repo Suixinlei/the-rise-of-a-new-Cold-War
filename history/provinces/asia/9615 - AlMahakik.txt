@@ -1,0 +1,2 @@
+owner = SAUcontroller = SAUadd_core = SAUinfra = 6
+crude_oil = 80.00

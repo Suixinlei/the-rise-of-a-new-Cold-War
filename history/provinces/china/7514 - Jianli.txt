@@ -1,0 +1,9 @@
+controller = CHC
+owner = CHC
+
+
+ 
+add_core = CHC
+
+infra = 6
+

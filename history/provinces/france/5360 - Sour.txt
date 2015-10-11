@@ -1,0 +1,6 @@
+owner = LEB
+controller = LEB
+add_core = LEB
+infra = 6
+
+infra = 6

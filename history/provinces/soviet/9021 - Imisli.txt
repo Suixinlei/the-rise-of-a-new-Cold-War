@@ -1,0 +1,6 @@
+owner = AZB
+controller = AZB
+add_core = AZB
+infra = 7
+air_base = 2 #Kyurdamir airbase
+points = 1

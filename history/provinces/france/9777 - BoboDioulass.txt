@@ -1,0 +1,5 @@
+owner = BUF
+controller = BUF
+add_core = BUF
+manpower = 2.00
+infra = 6

@@ -1,0 +1,115 @@
+color = { 183  129  124 }
+graphical_culture = Generic
+last_election = 2002.2.3
+duration = 48
+
+default_templates = {
+	generic_infantry = {
+		infantry_brigade
+		infantry_brigade
+		infantry_brigade
+	}
+	generic_milita = {
+		militia_brigade
+		militia_brigade
+		militia_brigade
+	}
+	generic_armoured = {
+		armor_brigade
+		motorized_brigade
+		motorized_brigade
+	}
+	generic_cavalry = {
+		cavalry_brigade
+		cavalry_brigade
+	}
+}
+
+unit_names = {
+	infantry_brigade = {
+		"División de Infantería Nro. 1" "División de Infantería Nro. 2" "División de Infantería Nro. 3" "División de Infantería Nro. 4" "División de Infantería Nro. 5" "División de Infantería Nro. 6" "División de Infantería Nro. 7" "División de Infantería Nro. 8" "División de Infantería Nro. 9" "División de Infantería Nro. 10" 
+	}
+	cavalry_brigade = {
+		"1. División de Caballería" "2. División de Caballería" "3. División de Caballería" "4. División de Caballería" "5. División de Caballería" 
+	}
+	motorized_brigade = {
+		"I División Móvil" "II División Móvil" "III División Móvil" "IV División Móvil" "V División Móvil" 
+	}
+	mechanized_brigade = {
+		"I División Mecanizada" "II División Mecanizada" "III División Mecanizada" "IV División Mecanizada" "V División Mecanizada" 
+	}
+	light_armor_brigade = {
+		"1a División Blindada de Costa Rica" "2a División Blindada de Costa Rica" "3a División Blindada de Costa Rica" "4a División Blindada de Costa Rica" "5a División Blindada de Costa Rica" 
+	}
+	armor_brigade = {
+		"1a División Blindada de Costa Rica" "2a División Blindada de Costa Rica" "3a División Blindada de Costa Rica" "4a División Blindada de Costa Rica" "5a División Blindada de Costa Rica" 
+	}
+	paratrooper_brigade = {
+		"División Paracaidista nro. 1" "División Paracaidista nro. 2" "División Paracaidista nro. 3" "División Paracaidista nro. 4" "División Paracaidista nro. 5" 
+	}
+	marine_brigade = {
+		"1a División de Infantería Naval" "2a División de Infantería Naval" "3a División de Infantería Naval" "4a División de Infantería Naval" "5a División de Infantería Naval" 
+	}
+	bergsjaeger_brigade = {
+		"1a División de Montaña" "2a División de Montaña" "3a División de Montaña" "4a División de Montaña" "5a División de Montaña" 
+	}
+	garrison_brigade = {
+		"División de Infantería Nro. 1" "División de Infantería Nro. 2" "División de Infantería Nro. 3" "División de Infantería Nro. 4" "División de Infantería Nro. 5" "División de Infantería Nro. 6" "División de Infantería Nro. 7" "División de Infantería Nro. 8" "División de Infantería Nro. 9" "División de Infantería Nro. 10" 
+	}
+	hq_brigade = {
+		"Cuartel General 1er Ejército" "Cuartel General 2o Ejército" "Cuartel General 3er Ejército" 
+	}
+	militia_brigade = {
+		"I División de Infantería Popular" "II División de Infantería Popular" "III División de Infantería Popular" "IV División de Infantería Popular" "V División de Infantería Popular" "VI División de Infantería Popular" "VII División de Infantería Popular" "VIII División de Infantería Popular" "IX División de Infantería Popular" "X División de Infantería Popular" 
+	}
+	multi_role = {
+		"1. Grupo Aéreo de Caza" "2. Grupo Aéreo de Caza" "3. Grupo Aéreo de Caza" "4. Grupo Aéreo de Caza" "5. Grupo Aéreo de Caza" 
+	}
+	interceptor = {
+		"1. Grupo Aéreo de Caza" "2. Grupo Aéreo de Caza" "3. Grupo Aéreo de Caza" "4. Grupo Aéreo de Caza" "5. Grupo Aéreo de Caza" 
+	}
+	strategic_bomber = {
+		"1. Grupo Aéreo Estratégico" "2. Grupo Aéreo Estratégico" "3. Grupo Aéreo Estratégico" "4. Grupo Aéreo Estratégico" "5. Grupo Aéreo Estratégico" 
+	}
+	tactical_bomber = {
+		"1. Grupo Aéreo Táctico del Ejército" "2. Grupo Aéreo Táctico del Ejército" "3. Grupo Aéreo Táctico del Ejército" "4. Grupo Aéreo Táctico del Ejército" "5. Grupo Aéreo Táctico del Ejército" 
+	}
+	naval_bomber = {
+		"1. Grupo Aeronaval" "2. Grupo Aeronaval" "3. Grupo Aeronaval" "4. Grupo Aeronaval" "5. Grupo Aeronaval" "1. Grupo Aéreo Torpedero" "2. Grupo Aéreo Torpedero" "3. Grupo Aéreo Torpedero" "4. Grupo Aéreo Torpedero" 
+	}
+	cas = {
+		"1. Grupo Aéreo de Asalto" "2. Grupo Aéreo de Asalto" "3. Grupo Aéreo de Asalto" "4. Grupo Aéreo de Asalto" "5. Grupo Aéreo de Asalto" 
+	}
+	transport_plane = {
+		"1. Transporte Aéreo del Ejército" "2. Transporte Aéreo del Ejército" "3. Transporte Aéreo del Ejército" 
+	}
+	battleship = {
+		"ARCR San José" "ARCR Limón" 
+	}
+	light_cruiser = {
+		"ARCR Punta Arenas" "ARCR Nicoya" "ARCR Liberia" "ARCR Bagaces" "ARCR Puerto Jesús" 
+	}
+	heavy_cruiser = {
+		"ARCR Punta Arenas" "ARCR Nicoya" "ARCR Liberia" "ARCR Bagaces" "ARCR Puerto Jesús" 
+	}
+	battlecruiser = {
+		"ARCR San José" "ARCR Limón" 
+	}
+	destroyer = {
+		"Grupo Santa Cruz" "Grupo Cabo Velás" "Grupo Filadelhá" "Grupo Liberia" "Grupo Cañas" 
+	}
+	carrier = {
+		"ARCR República de Costa Rica" "ARCR Bahia Coronado" 
+	}
+	submarine = {
+		"I Flotilla de Submarinos" "II Flotilla de Submarinos" "III Flotilla de Submarinos" "IV Flotilla de Submarinos" "V Flotilla de Submarinos" 
+	}
+	transport_ship = {
+		"I Transporte Naval" "II Transporte Naval" "III Transporte Naval" "IV Transporte Naval" "V Transporte Naval" 
+	}
+
+}
+
+ministers = {
+	
+}

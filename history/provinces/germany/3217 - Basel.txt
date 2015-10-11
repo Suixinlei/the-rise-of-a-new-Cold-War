@@ -1,0 +1,8 @@
+owner = SCH
+controller = SCH
+add_core = SCH
+manpower = 0.5
+infra = 8
+
+air_base = 1 #EuroAirport
+ 

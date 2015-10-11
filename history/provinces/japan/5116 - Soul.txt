@@ -1,0 +1,16 @@
+owner = KOR
+
+controller = KOR
+
+add_core = KOR
+add_core = PRK
+infra = 10
+land_fort = 5
+industry = 10
+manpower = 8.00
+crude_oil = 1.00
+metal = 7.00
+energy = 50.00
+air_base = 9 #Seoul airbase and airport
+leadership = 3.00
+points = 1

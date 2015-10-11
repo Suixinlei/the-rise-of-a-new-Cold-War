@@ -1,0 +1,7 @@
+owner = AZB
+controller = AZB
+add_core = AZB
+add_core = ARM
+infra = 6
+air_base = 7 #Nakhchivan and Stepanakert airbase
+points = 1

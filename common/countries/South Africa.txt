@@ -1,0 +1,146 @@
+color = { 180  158  127 }
+graphical_culture = Generic
+last_election = 1999.6.2
+duration = 60
+
+default_templates = {
+	ENG_infantry = {
+		motorized_brigade
+		motorized_brigade
+		motorized_brigade
+	}
+	ENG_motorized = {
+		motorized_brigade
+		motorized_brigade
+	}
+	ENG_armoured_1936 = {
+		armor_brigade
+		light_armor_brigade
+		light_armor_brigade
+		motorized_brigade
+	}
+	ENG_armoured_1940 = {
+		armor_brigade
+		armor_brigade
+		motorized_brigade
+	}
+	ENG_airborne = {
+		paratrooper_brigade
+		paratrooper_brigade
+		paratrooper_brigade
+	}
+}
+
+
+unit_names = {
+	infantry_brigade = {
+		"1st SA Infantry Division" "2nd SA Infantry Division" "3rd SA Infantry Division" "4th SA Infantry Division" "5th SA Infantry Division" "6th SA Infantry Division" "7th SA Infantry Division" "8th SA Infantry Division" "9th SA Infantry Division" "10th SA Infantry Division" "11th SA Infantry Division" 
+		"12th SA Infantry Division" "13th SA Infantry Division" "14th SA Infantry Division" "15th SA Infantry Division" "16th SA Infantry Division" "17th SA Infantry Division" "18th SA Infantry Division" "19th SA Infantry Division" "20th SA Infantry Division" 
+	}
+	cavalry_brigade = {
+		"1st SA Cavalry Division" "2nd SA Cavalry Division" "3rd SA Cavalry Division" "4th SA Cavalry Division" "5th SA Cavalry Division" "6th SA Cavalry Division" "7th SA Cavalry Division" "8th SA Cavalry Division" "9th SA Cavalry Division" "10th SA Cavalry Division" 
+	}
+	motorized_brigade = {
+		"1st SA Motorized Inf. Div." "2nd SA Motorized Inf. Div." "3rd SA Motorized Inf. Div." "4th SA Motorized Inf. Div." "5th SA Motorized Inf. Div." "6th SA Motorized Inf. Div." "7th SA Motorized Inf. Div." "8th SA Motorized Inf. Div." "9th SA Motorized Inf. Div." "10th SA Motorized Inf. Div." "11th SA Motorized Inf. Div." 
+		"12th SA Motorized Inf. Div." "13th SA Motorized Inf. Div." "14th SA Motorized Inf. Div." "15th SA Motorized Inf. Div." 
+	}
+	mechanized_brigade = {
+		"1st SA Half-Track Inf. Div." "2nd SA Half-Track Inf. Div." "3rd SA Half-Track Inf. Div." "4th SA Half-Track Inf. Div." "5th SA Half-Track Inf. Div." "6th SA Half-Track Inf. Div." "7th SA Half-Track Inf. Div." "8th SA Half-Track Inf. Div." "9th SA Half-Track Inf. Div." "10th SA Half-Track Inf. Div." "11th SA Half-Track Inf. Div." 
+		"12th SA Half-Track Inf. Div." "13th SA Half-Track Inf. Div." "14th SA Half-Track Inf. Div." "15th SA Half-Track Inf. Div." 
+	}
+	light_armor_brigade = {
+		"6th SA Armoured Division" "1st SA Armoured Division" "2nd SA Armoured Division" "3rd SA Armoured Division" "4th SA Armoured Division" "5th SA Armoured Division" "6th SA Armoured Division" "7th SA Armoured Division" "8th SA Armoured Division" "9th SA Armoured Division" "10th SA Armoured Division" 
+			}
+	armor_brigade = {
+		"6th SA Armoured Division" "1st SA Armoured Division" "2nd SA Armoured Division" "3rd SA Armoured Division" "4th SA Armoured Division" "5th SA Armoured Division" "6th SA Armoured Division" "7th SA Armoured Division" "8th SA Armoured Division" "9th SA Armoured Division" "10th SA Armoured Division" 
+			}
+	paratrooper_brigade = {
+		"1st SA Airborne Commando Division" "2nd SA Airborne Commando Division" "3rd SA Airborne Commando Division" "4th SA Airborne Commando Division" "5th SA Airborne Commando Division" "6th SA Airborne Commando Division" "7th SA Airborne Commando Division" "8th SA Airborne Commando Division" "9th SA Airborne Commando Division" "10th SA Airborne Commando Division" 
+	}
+	marine_brigade = {
+		"1st SA Marine Commando Division" "2nd SA Marine Commando Division" "3rd SA Marine Commando Division" "4th SA Marine Commando Division" "5th SA Marine Commando Division" "6th SA Marine Commando Division" "7th SA Marine Commando Division" "8th SA Marine Commando Division" "9th SA Marine Commando Division" "10th SA Marine Commando Division" 
+	}
+	bergsjaeger_brigade = {
+		"1st SA Mountain Rangers Div." "2nd SA Mountain Rangers Div." "3rd SA Mountain Rangers Div." "4th SA Mountain Rangers Div." "5th SA Mountain Rangers Div." "6th SA Mountain Rangers Div." "7th SA Mountain Rangers Div." "8th SA Mountain Rangers Div." "9th SA Mountain Rangers Div." "10th SA Mountain Rangers Div." "11th SA Mountain Rangers Div." 
+		"12th SA Mountain Rangers Div." "13th SA Mountain Rangers Div." "14th SA Mountain Rangers Div." "15th SA Mountain Rangers Div." 
+	}
+	garrison_brigade = {
+		"1st SA Infantry Division" "2nd SA Infantry Division" "3rd SA Infantry Division" "4th SA Infantry Division" "5th SA Infantry Division" "6th SA Infantry Division" "7th SA Infantry Division" "8th SA Infantry Division" "9th SA Infantry Division" "10th SA Infantry Division" "11th SA Infantry Division" 
+		"12th SA Infantry Division" "13th SA Infantry Division" "14th SA Infantry Division" "15th SA Infantry Division" "16th SA Infantry Division" "17th SA Infantry Division" "18th SA Infantry Division" "19th SA Infantry Division" "20th SA Infantry Division" 
+	}
+	hq_brigade = {
+		"Active Citizen Force" "South African Mobile Field Force" "1st South African Army" "2nd South African Army" "1st South African Army Group" "3rd South African Army" "4th South African Army" "2nd South African Army Group" 
+	}
+	militia_brigade = {
+		"1st Active Citizen Force" "2nd Active Citizen Force" "3rd Active Citizen Force" "4th Active Citizen Force" "5th Active Citizen Force" "6th Active Citizen Force" "7th Active Citizen Force" "8th Active Citizen Force" "9th Active Citizen Force" "10th Active Citizen Force" "11th Active Citizen Force" 
+		"12th Active Citizen Force" "13th Active Citizen Force" "14th Active Citizen Force" "15th Active Citizen Force" "16th Active Citizen Force" "17th Active Citizen Force" "18th Active Citizen Force" "19th Active Citizen Force" "20th Active Citizen Force" 
+	}
+	multi_role = {
+		"No.1 SAAF Fighter Group" "No.2 SAAF Fighter Group" "No.3 SAAF Fighter Group" "No.4 SAAF Fighter Group" "No.5 SAAF Fighter Group" "No.7 SAAF Fighter Group" "No.8 SAAF Fighter Group" "No.9 SAAF Fighter Group" "No.10 SAAF Fighter Group" "No.11 SAAF Fighter Group" "No.12 SAAF Fighter Group" 
+		"No.13 SAAF Fighter Group" "No.14 SAAF Fighter Group" "No.15 SAAF Fighter Group" "No.16 SAAF Fighter Group" "No.17 SAAF Fighter Group" "No.18 SAAF Fighter Group" "No.19 SAAF Fighter Group" "No.20 SAAF Fighter Group" 
+	}
+	interceptor = {
+		"No.1 SAAF Fighter Group" "No.2 SAAF Fighter Group" "No.3 SAAF Fighter Group" "No.4 SAAF Fighter Group" "No.5 SAAF Fighter Group" "No.7 SAAF Fighter Group" "No.8 SAAF Fighter Group" "No.9 SAAF Fighter Group" "No.10 SAAF Fighter Group" "No.11 SAAF Fighter Group" "No.12 SAAF Fighter Group" 
+		"No.13 SAAF Fighter Group" "No.14 SAAF Fighter Group" "No.15 SAAF Fighter Group" "No.16 SAAF Fighter Group" "No.17 SAAF Fighter Group" "No.18 SAAF Fighter Group" "No.19 SAAF Fighter Group" "No.20 SAAF Fighter Group" 
+	}
+	strategic_bomber = {
+		"No.1 SAAF Strategic Bomb Group" "No.2 SAAF Strategic Bomb Group" "No.6 SAAF Strategic Bomb Group" "No.3 SAAF Strategic Bomb Group" "No.4 SAAF Strategic Bomb Group" "No.7 SAAF Strategic Bomb Group" "No.8 SAAF Strategic Bomb Group" "No.9 SAAF Strategic Bomb Group" "No.10 SAAF Strategic Bomb Group" "No.11 SAAF Strategic Bomb Group" "No.12 SAAF Strategic Bomb Group" 
+		"No.13 SAAF Strategic Bomb Group" "No.14 SAAF Strategic Bomb Group" "No.15 SAAF Strategic Bomb Group" "No.16 SAAF Strategic Bomb Group" "No.17 SAAF Strategic Bomb Group" "No.18 SAAF Strategic Bomb Group" "No.19 SAAF Strategic Bomb Group" "No.20 SAAF Strategic Bomb Group" 
+	}
+	tactical_bomber = {
+		"No.1 SAAF Tactical Bomb Group" "No.2 SAAF Tactical Bomb Group" "No.6 SAAF Tactical Bomb Group" "No.3 SAAF Tactical Bomb Group" "No.4 SAAF Tactical Bomb Group" "No.7 SAAF Tactical Bomb Group" "No.8 SAAF Tactical Bomb Group" "No.9 SAAF Tactical Bomb Group" "No.10 SAAF Tactical Bomb Group" "No.11 SAAF Tactical Bomb Group" "No.12 SAAF Tactical Bomb Group" 
+		"No.13 SAAF Tactical Bomb Group" "No.14 SAAF Tactical Bomb Group" "No.15 SAAF Tactical Bomb Group" "No.16 SAAF Tactical Bomb Group" "No.17 SAAF Tactical Bomb Group" "No.18 SAAF Tactical Bomb Group" "No.19 SAAF Tactical Bomb Group" "No.20 SAAF Tactical Bomb Group" 
+	}
+	naval_bomber = {
+		"No.1 SAAF Marine Bomb Group" "No.2 SAAF Marine Bomb Group" "No.3 SAAF Marine Bomb Group" "No.4 SAAF Marine Bomb Group" "No.5 SAAF Marine Bomb Group" "No.7 SAAF Marine Bomb Group" "No.8 SAAF Marine Bomb Group" "No.9 SAAF Marine Bomb Group" "No.10 SAAF Marine Bomb Group" "No.11 SAAF Marine Bomb Group" "No.12 SAAF Marine Bomb Group" 
+		"No.13 SAAF Marine Bomb Group" "No.14 SAAF Marine Bomb Group" "No.15 SAAF Marine Bomb Group" "No.16 SAAF Marine Bomb Group" "No.17 SAAF Marine Bomb Group" "No.18 SAAF Marine Bomb Group" "No.19 SAAF Marine Bomb Group" "No.20 SAAF Marine Bomb Group" "No.1 SAAF Torpedo Attack Group" "No.2 SAAF Torpedo Attack Group" "No.3 SAAF Torpedo Attack Group" 
+		"No.4 SAAF Torpedo Attack Group" "No.5 SAAF Torpedo Attack Group" "No.7 SAAF Torpedo Attack Group" "No.8 SAAF Torpedo Attack Group" "No.9 SAAF Torpedo Attack Group" "No.10 SAAF Torpedo Attack Group" "No.11 SAAF Torpedo Attack Group" "No.12 SAAF Torpedo Attack Group" "No.13 SAAF Torpedo Attack Group" "No.14 SAAF Torpedo Attack Group" "No.15 SAAF Torpedo Attack Group" 
+		"No.16 SAAF Torpedo Attack Group" "No.17 SAAF Torpedo Attack Group" "No.18 SAAF Torpedo Attack Group" "No.19 SAAF Torpedo Attack Group" "No.20 SAAF Torpedo Attack Group" 
+	}
+	cas = {
+		"No.1 SAAF Dive Bomb Group" "No.2 SAAF Dive Bomb Group" "No.3 SAAF Dive Bomb Group" "No.4 SAAF Dive Bomb Group" "No.6 SAAF Dive Bomb Group" "No.7 SAAF Dive Bomb Group" "No.8 SAAF Dive Bomb Group" "No.9 SAAF Dive Bomb Group" "No.10 SAAF Dive Bomb Group" "No.11 SAAF Dive Bomb Group" "No.12 SAAF Dive Bomb Group" 
+		"No.13 SAAF Dive Bomb Group" "No.14 SAAF Dive Bomb Group" "No.15 SAAF Dive Bomb Group" "No.16 SAAF Dive Bomb Group" "No.17 SAAF Dive Bomb Group" "No.18 SAAF Dive Bomb Group" "No.19 SAAF Dive Bomb Group" "No.20 SAAF Dive Bomb Group" 
+	}
+	transport_plane = {
+		"No.1 SAAF Army Transport" "No.2 SAAF Army Transport" "No.3 SAAF Army Transport" "No.4 SAAF Army Transport" "No.5 SAAF Army Transport" "No.7 SAAF Army Transport" "No.8 SAAF Army Transport" "No.9 SAAF Army Transport" "No.10 SAAF Army Transport" 
+	}
+	battleship = {
+		"HMSAS South Africa" "HMSAS Good Hope" "HMSAS Natal" "HMSAS Transvaal" "HMSAS Orange Free State" "HMSAS Cape Town" "HMSAS Johannesburg" "HMSAS Port Elizabeth" "HMSAS East London" "HMSAS Bloemfontein" "HMSAS Durban" 
+		"HMSAS Pretoria" 
+	}
+	light_cruiser = {
+		"HMSAS Good Hope" "HMSAS Natal" "HMSAS Transvaal" "HMSAS Orange Free State" "HMSAS Cape Town" "HMSAS Johannesburg" "HMSAS Port Elizabeth" "HMSAS East London" "HMSAS Bloemfontein" "HMSAS Durban" "HMSAS Pretoria" 
+			}
+	heavy_cruiser = {
+		"HMSAS Good Hope" "HMSAS Natal" "HMSAS Transvaal" "HMSAS Orange Free State" "HMSAS Cape Town" "HMSAS Johannesburg" "HMSAS Port Elizabeth" "HMSAS East London" "HMSAS Bloemfontein" "HMSAS Durban" "HMSAS Pretoria" 
+			}
+	battlecruiser = {
+		"HMSAS South Africa" "HMSAS Good Hope" "HMSAS Natal" "HMSAS Transvaal" "HMSAS Orange Free State" "HMSAS Cape Town" "HMSAS Johannesburg" "HMSAS Port Elizabeth" "HMSAS East London" "HMSAS Bloemfontein" "HMSAS Durban" 
+		"HMSAS Pretoria" 
+	}
+	destroyer = {
+		"1st SAN Destroyer Flotilla" "2nd SAN Destroyer Flotilla" "3rd SAN Destroyer Flotilla" "4th SAN Destroyer Flotilla" "5th SAN Destroyer Flotilla" "6th SAN Destroyer Flotilla" "7th SAN Destroyer Flotilla" "8th SAN Destroyer Flotilla" "9th SAN Destroyer Flotilla" "10th SAN Destroyer Flotilla" "11th SAN Destroyer Flotilla" 
+		"12th SAN Destroyer Flotilla" "13th SAN Destroyer Flotilla" "14th SAN Destroyer Flotilla" "15th SAN Destroyer Flotilla" "16th SAN Destroyer Flotilla" "17th SAN Destroyer Flotilla" "18th SAN Destroyer Flotilla" "19th SAN Destroyer Flotilla" "20th SAN Destroyer Flotilla" 
+	}
+	carrier = {
+		"HMSAS South Africa" "HMSAS Good Hope" "HMSAS Natal" "HMSAS Transvaal" "HMSAS Orange Free State" "HMSAS Cape Town" "HMSAS Johannesburg" "HMSAS Port Elizabeth" "HMSAS East London" "HMSAS Bloemfontein" "HMSAS Durban" 
+		"HMSAS Pretoria" 
+	}
+	escort_carrier = {
+		"HMSAS Lion" "HMSAS Cheetah" "HMSAS Leopard" "HMSAS Serval" "HMSAS Caracal" "HMSAS Genet" "HMSAS Jackal" "HMSAS Mongoose" "HMSAS Hyena" "HMSAS Wild Dog" 
+	}
+	submarine = {
+		"1st SAN Submarine Flotilla" "2nd SAN Submarine Flotilla" "3rd SAN Submarine Flotilla" "4th SAN Submarine Flotilla" "5th SAN Submarine Flotilla" "6th SAN Submarine Flotilla" "7th SAN Submarine Flotilla" "8th SAN Submarine Flotilla" "9th SAN Submarine Flotilla" "10th SAN Submarine Flotilla" "11th SAN Submarine Flotilla" 
+		"12th SAN Submarine Flotilla" "13th SAN Submarine Flotilla" "14th SAN Submarine Flotilla" "15th SAN Submarine Flotilla" 
+	}
+	transport_ship = {
+		"1st SAN Transport Flotilla" "2nd SAN Transport Flotilla" "3rd SAN Transport Flotilla" "4th SAN Transport Flotilla" "5th SAN Transport Flotilla" "6th SAN Transport Flotilla" "7th SAN Transport Flotilla" "8th SAN Transport Flotilla" "9th SAN Transport Flotilla" "10th SAN Transport Flotilla" "11th SAN Transport Flotilla" 
+		"12th SAN Transport Flotilla" "13th SAN Transport Flotilla" "14th SAN Transport Flotilla" "15th SAN Transport Flotilla" 
+	}
+
+}
+
+
+ministers = {
+	
+}

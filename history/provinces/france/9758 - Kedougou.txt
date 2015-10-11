@@ -1,0 +1,7 @@
+owner = MAL
+controller = MAL
+add_core = MAL
+infra = 6
+manpower = 5.1
+air_base = 2 #Bamako airbase
+points = 1

@@ -1,0 +1,138 @@
+theatre = {
+	name = "Försvarsmakten"
+	location = 862
+	regiment = { type = hq_brigade name = "Försvarsmakten" historical_model = 2 }
+	army = {
+		name = "Armén"
+		location = 862
+		regiment = { type = hq_brigade name = "Högkvarteret" historical_model = 2 }
+		division = {
+			is_reserve = yes
+			name = "Livgardet"
+			location = 862
+			regiment = { type = mechanized_brigade name = "Livbataljon" historical_model = 1 }
+		}
+		division = {
+			is_reserve = yes
+			name = "Norbottens Regemente"
+			location = 192
+			regiment = { type = armor_brigade name = "Norrbottens Pansarbataljon" historical_model = 0 }
+		}
+		division = {
+			is_reserve = yes
+			name = "Livregementets Husarer"
+			location = 192
+			regiment = { type = air_cavalry_brigade name = "Livregementets Husarer" historical_model = 2 }
+		}
+		division = {
+			is_reserve = yes
+			name = "Arméns Jägarbataljon"
+			location = 204
+			regiment = { type = special_forces_brigade name = "Arméns Jägarbataljon" historical_model = 2 }
+		}
+		division = {
+			is_reserve = yes
+			name = "Skaraborgs Regemente"
+			location = 1056
+			regiment = { type = armor_brigade name = "Skaraborgs Regemente" historical_model = 0 }
+		}		
+		division = {
+			is_reserve = yes
+			name = "Södra Skånska Regementet"
+			location = 1438
+			regiment = { type = mechanized_brigade name = "Södra Skånska Regementet" historical_model = 1 }
+		}
+	}
+	
+	division = {
+		is_reserve = yes
+		name = "Kustjägarna"
+		location = 862
+		regiment = { type = marine_brigade name = "Kustjägarna" historical_model = 2 }
+	}
+
+	navy = {
+		name = "Första Ubåtsflottiljen"
+		base = 1483
+		location = 1483
+		ship = { type = submarine name = "HMS Gotland" historical_model = 1 }
+		ship = { type = submarine name = "HMS Uppland" historical_model = 1 }
+		ship = { type = submarine name = "HMS Halland" historical_model = 1 }
+		ship = { type = submarine name = "HMS Södermanland" historical_model = 0 }
+		ship = { type = submarine name = "HMS Östergötland" historical_model = 0 }
+	}
+
+	navy = {
+		name = "Tredje Sjöstridsflottiljen"
+		base = 1483
+		location = 1483
+		ship = { type = light_cruiser name = "HMS Stockholm" historical_model = 1 }
+		ship = { type = light_cruiser name = "HMS Malmö" historical_model = 1 }
+		ship = { type = patrol_boat name = "Tapper" historical_model = 1 }
+		ship = { type = patrol_boat name = "Dristig" historical_model = 1 }
+		ship = { type = patrol_boat name = "Trygg" historical_model = 1 }
+		ship = { type = patrol_boat name = "Modig" historical_model = 1 }
+		ship = { type = patrol_boat name = "Rapp" historical_model = 1 }
+		ship = { type = patrol_boat name = "Stolt" historical_model = 1 }
+	}
+
+	navy = {
+		name = "Fjärde Sjöstridsflottiljen"
+		base = 862
+		location = 862
+		ship = { type = light_cruiser name = "HMS Gävle" historical_model = 1 }
+		ship = { type = light_cruiser name = "HMS Sundsvall" historical_model = 1 }
+		ship = { type = patrol_boat name = "HMS Djärv" historical_model = 0 }
+		ship = { type = patrol_boat name = "HMS Händig" historical_model = 0 }	
+		ship = { type = patrol_boat name = "HMS Hurtig" historical_model = 0 }
+		ship = { type = patrol_boat name = "Ärlig" historical_model = 1 }
+		ship = { type = patrol_boat name = "Munter" historical_model = 1 }
+		ship = { type = patrol_boat name = "Orädd" historical_model = 1 }
+	}
+	
+	navy = {
+		name = "HMS Sleipner"
+		base = 862
+		location = 862
+		ship = { type = transport_ship name = "HMS Sleipner" historical_model = 0 }
+	}
+	
+	air = {
+		name = "Skaraborgs Flygflottilj"
+		base = 1020
+		location = 1020
+		wing = { type = multi_role name = "Första Gripen-flottilj" historical_model = 1 }
+		wing = { type = multi_role name = "Tredje Gripen-flottilj" historical_model = 1 }
+	}
+	
+	air = {
+		name = "Blekinge Flygflottilj"
+		base = 1349
+		location = 1349
+		wing = { type = multi_role name = "Fjärde Gripen-flottilj" historical_model = 1 }
+	}
+	
+	air = {
+		name = "Norrbottens Flygflottilj"
+		base = 193
+		location = 193
+		wing = { type = multi_role name = "Femte Gripen-flottilj" historical_model = 1 }
+	}
+	
+	air = {
+		name = "Transportflottilj"
+		base = 862
+		location = 862
+		wing = { type = transport_plane name = "Första Transportflottilj" historical_model = 0 }
+	}
+	
+	air = {
+		name = "Attackflottilj"
+		base = 862
+		location = 862
+		wing = { type = cas name = "Första Attackflottilj" historical_model = 0 }
+	}
+}
+
+	
+		

@@ -1,0 +1,6 @@
+owner = PAK
+controller = PAK
+add_core = PAK
+infra = 5
+
+air_base = 3 #Minhas airbase

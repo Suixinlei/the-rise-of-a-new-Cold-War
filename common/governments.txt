@@ -1,0 +1,272 @@
+islamic_republic = {
+	#acceptable ideologies
+
+        national_socialist = yes
+        fascistic = yes
+	paternal_autocrat = yes
+	social_conservative = yes
+	market_liberal = yes
+	social_liberal = yes
+	social_democrat = yes
+	left_wing_radical = yes
+	leninist = yes
+	stalinist = yes
+
+	# positions changed by elections
+	head_of_state = no
+	head_of_government = no
+	minister_of_foreign = yes
+	minister_of_defence = yes
+	minister_of_intelligence = yes
+	minister_of_finance = no
+	
+	election = yes
+	duration = 48
+	
+	peace_consumer_goods_demand = -0.05
+}
+
+republic = {
+	#acceptable ideologies
+
+        national_socialist = yes
+        fascistic = yes
+	paternal_autocrat = yes
+	social_conservative = yes
+	market_liberal = yes
+	social_liberal = yes
+	social_democrat = yes
+	left_wing_radical = yes
+	leninist = yes
+	stalinist = yes
+
+	# positions changed by elections
+	head_of_state = yes
+	head_of_government = yes
+	minister_of_foreign = yes
+	minister_of_defence = yes
+	minister_of_intelligence = yes
+	minister_of_finance = no	
+	
+	election = yes
+	duration = 48
+	
+	peace_consumer_goods_demand = -0.05
+}
+
+republic_president = {
+	#acceptable ideologies
+
+        national_socialist = yes
+        fascistic = yes
+	paternal_autocrat = yes
+	social_conservative = yes
+	market_liberal = yes
+	social_liberal = yes
+	social_democrat = yes
+	left_wing_radical = yes
+	leninist = yes
+	stalinist = yes
+
+	# positions changed by elections
+	head_of_state = yes
+	head_of_government = yes
+	minister_of_foreign = yes
+	minister_of_defence = yes
+	minister_of_intelligence = yes
+	minister_of_finance = no	
+	
+	election = yes
+	duration = 48
+	
+	peace_consumer_goods_demand = -0.05
+}
+
+federation = {
+	#acceptable ideologies
+
+        national_socialist = yes
+        fascistic = yes
+	paternal_autocrat = yes
+	social_conservative = yes
+	market_liberal = yes
+	social_liberal = yes
+	social_democrat = yes
+	left_wing_radical = yes
+	leninist = yes
+	stalinist = yes
+
+	# positions changed by elections
+	head_of_state = no
+	head_of_government = yes
+	minister_of_foreign = yes
+	minister_of_defence = yes
+	minister_of_intelligence = yes
+	minister_of_finance = no	
+	
+	election = yes
+	duration = 48
+	
+	global_ic = 0.05
+}
+
+constitutional_monarchy = {
+	#acceptable ideologies
+
+	paternal_autocrat = yes
+	social_conservative = yes
+	market_liberal = yes
+	social_liberal = yes
+	social_democrat = yes
+	left_wing_radical = yes
+	stalinist = yes
+
+	# positions changed by elections
+	head_of_state = no
+	head_of_government = yes
+	minister_of_foreign = yes
+	minister_of_defence = yes
+	minister_of_intelligence = yes
+	minister_of_finance = no	
+	
+	election = yes
+	duration = 48
+	
+	officer_recruitment = 0.10
+}
+
+commonwealth = {
+	#acceptable ideologies
+
+	paternal_autocrat = yes
+	social_conservative = yes
+	market_liberal = yes
+	social_liberal = yes
+	social_democrat = yes
+	left_wing_radical = yes
+	leninist = yes
+	stalinist = yes
+
+	# positions changed by elections
+	head_of_state = no
+	head_of_government = no
+	minister_of_foreign = yes
+	minister_of_defence = yes
+	minister_of_intelligence = yes
+	minister_of_finance = no
+	
+	election = yes
+	duration = 48
+	
+	research_efficiency = 0.05
+}
+
+autocratic_democracy = {
+	#acceptable ideologies
+
+	fascistic = yes
+	paternal_autocrat = yes
+	social_conservative = yes
+	market_liberal = yes
+	social_liberal = yes
+	social_democrat = yes
+	left_wing_radical = yes
+	leninist = yes
+	stalinist = yes
+
+	# positions changed by elections
+	head_of_state = yes
+	head_of_government = yes
+	minister_of_foreign = yes
+	minister_of_defence = yes
+	minister_of_intelligence = yes
+	minister_of_finance = no	
+	
+	election = yes
+	duration = 48
+	
+	ruling_party_support = 0.05
+}
+
+islamic_dictatorship = {
+	#acceptable ideologies
+
+	national_socialist = yes
+
+	# positions changed by elections
+	head_of_state = no
+	head_of_government = no
+	minister_of_foreign = no
+	minister_of_defence = no
+	minister_of_intelligence = no
+	minister_of_finance = no
+	
+	election = no
+}
+
+absolute_monarchy = {
+	#acceptable ideologies
+
+	fascistic = yes
+	paternal_autocrat = yes
+	social_conservative = yes
+	market_liberal = yes
+	social_liberal = yes
+	social_democrat = yes
+	stalinist = yes
+
+	# positions changed by elections
+	head_of_state = no
+	head_of_government = no
+	minister_of_foreign = no
+	minister_of_defence = no
+	minister_of_intelligence = no
+	minister_of_finance = no	
+	
+	election = no
+	
+	global_manpower_modifier = 0.05
+}
+
+dictatorship = {
+	#acceptable ideologies
+
+	fascistic = yes
+	paternal_autocrat = yes
+	social_conservative = yes
+	market_liberal = yes
+	social_liberal = yes
+	social_democrat = yes
+	left_wing_radical = yes
+	leninist = yes
+	stalinist = yes
+
+	# positions changed by elections
+	head_of_state = no
+	head_of_government = no
+	minister_of_foreign = no
+	minister_of_defence = no
+	minister_of_intelligence = no
+	minister_of_finance = no	
+	
+	election = no
+}
+
+The_system_of_people's_Congress = {
+	#acceptable ideologies
+
+	stalinist = yes
+
+	# positions changed by elections
+	head_of_state = yes
+	head_of_government = yes
+	minister_of_foreign = yes
+	minister_of_defence = yes
+	minister_of_intelligence = yes
+	minister_of_finance = yes
+	
+	election = yes
+	duration = 120
+
+        ruling_party_support = 1
+}

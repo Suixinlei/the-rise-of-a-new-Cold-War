@@ -1,0 +1,7 @@
+owner = FRA
+controller = FRA
+add_core = FRA
+
+infra = 9
+air_base = 4 #Phalsbourg airbase
+points = 1

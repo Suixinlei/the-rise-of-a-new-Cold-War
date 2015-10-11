@@ -1,0 +1,14 @@
+owner = FRA
+controller = FRA
+add_core = FRA
+
+
+
+infra = 9
+
+
+
+air_base = 2 #Lanveoc airbase
+naval_base = 10 #Brest port
+leadership = 1.50
+points = 1

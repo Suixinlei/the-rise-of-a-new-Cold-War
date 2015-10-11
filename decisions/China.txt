@@ -1,0 +1,46 @@
+diplomatic_decisions = {
+#######################################
+#赤色黎明
+#######################################
+Red_dawn = {
+    
+      potential = {
+      tag = CHC
+      not = { has_country_flag = Red_dawn }
+      has_country_flag = Preparation_for_the_counter
+	  }
+		allow = {
+                 date = 2015.6.10
+		}
+		effect = {	
+		  set_country_flag = Red_dawn
+                  CHC = { country_event = 10063 }
+                  manpower = 1500	
+		}
+		ai_will_do = {
+			factor = 1
+		}
+}
+#######################################
+#解放台湾
+#######################################
+The_Democratic_Progressive_Party_was_elected = {
+    
+      potential = {
+      tag = CHC
+      not = { has_country_flag = The_Democratic_Progressive_Party_was_elected }
+      CHI = { ideology = paternal_autocrat }
+      NOT = { USA = { guarantee = CHI }
+	  }
+		allow = {
+                 war = no
+		}
+		effect = {	
+		  set_country_flag = The_Democratic_Progressive_Party_was_elected
+                  war = { target = CHI }
+                  remove_country_modifier = "筹备奥运会"
+		}
+		ai_will_do = {
+			factor = 1
+		}
+}

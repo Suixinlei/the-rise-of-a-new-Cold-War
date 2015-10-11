@@ -1,0 +1,10 @@
+owner = BUL
+controller = BUL
+add_core = BUL
+
+manpower = 0.2
+infra = 8
+
+naval_base = 6 #Varna port
+leadership = 2.50
+points = 1

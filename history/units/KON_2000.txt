@@ -1,0 +1,34 @@
+theatre = {
+	name = "Forces Armées de la République du Congo"
+	location = 10028
+	regiment = { type = hq_brigade name = "Forces Armées de la République du Congo" historical_model = 0 }
+	corps = {
+		name = "Congolese Army"
+		location = 10028
+		regiment = { type = hq_brigade name = "Army HQ" historical_model = 0 }
+		division = {
+			is_reserve = yes
+			name = "1st Infantry Brigade"
+			location = 10028
+			regiment = { type = infantry_brigade name = "11th Infantry Battalion" historical_model = 0 }
+			regiment = { type = infantry_brigade name = "12th Infantry Battalion" historical_model = 0 }
+			regiment = { type = infantry_brigade name = "13th Infantry Battalion" historical_model = 0 }
+		}
+		division = {
+			is_reserve = yes
+			name = "2nd Infantry Brigade"
+			location = 10028
+			regiment = { type = infantry_brigade name = "21st Infantry Battalion" historical_model = 0 }
+			regiment = { type = infantry_brigade name = "22nd Infantry Battalion" historical_model = 0 }
+		}
+		division = {
+			is_reserve = yes
+			name = "3rd Armoured Brigade"
+			location = 10028
+			regiment = { type = armor_brigade name = "31st Armoured Battalion" historical_model = 0 }
+			regiment = { type = armor_brigade name = "32nd Armoured Battalion" historical_model = 0 }
+			regiment = { type = armor_brigade name = "33rd Armoured Battalion" historical_model = 0 }
+		}
+	}
+	
+}

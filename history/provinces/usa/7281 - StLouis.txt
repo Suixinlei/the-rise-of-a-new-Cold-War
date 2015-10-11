@@ -1,0 +1,11 @@
+owner = USA
+controller = USA
+add_core = USA
+infra = 8
+energy = 20.00
+manpower = 10.00
+rare_materials = 10.00
+crude_oil = 11.1
+air_base = 7 #Scott airbase and St Louis airport
+points = 1
+leadership = 1.00

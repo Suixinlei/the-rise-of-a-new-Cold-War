@@ -1,0 +1,38 @@
+theatre = {
+	name = "Armija na Republika Makedonija"
+	location = 4555
+	regiment = { type = hq_brigade name = "Armija na Republika Makedonija" historical_model = 1 }
+	division = {
+		is_reserve = yes
+		name = "Specijalni Sili Komanda"
+		location = 4555
+		regiment = { type = special_forces_brigade name = "Posebna Akcija Edinica 'Volci'" historical_model = 1 }
+	}
+	corps = {
+		name = "Armija"
+		location = 4555
+		regiment = { type = hq_brigade name = "Armija" historical_model = 1 }
+		division = {
+			is_reserve = yes
+			name = "1 Mehanizirana Brigada"
+			location = 4555
+			regiment = { type = mechanized_brigade name = "1 Mehaniziraniot Pešadiski Bataljon" historical_model = 0 }
+			regiment = { type = mechanized_brigade name = "2 Mehaniziraniot Pešadiski Bataljon" historical_model = 0 }
+			regiment = { type = mechanized_brigade name = "3 Mehaniziraniot Pešadiski Bataljon" historical_model = 0 }
+		}
+		division = {
+			is_reserve = yes
+			name = "2 Mehanizirana Brigada"
+			location = 4555
+			regiment = { type = mechanized_brigade name = "1 Mehaniziraniot Pešadiski Bataljon" historical_model = 0 }
+			regiment = { type = mechanized_brigade name = "2 Mehaniziraniot Pešadiski Bataljon" historical_model = 0 }
+			regiment = { type = mechanized_brigade name = "3 Mehaniziraniot Pešadiski Bataljon" historical_model = 0 }
+		}
+		division = {
+			is_reserve = yes
+			name = "Oklopni Bataljon"
+			location = 4555
+			regiment = { type = armor_brigade name = "Oklopni Bataljon" historical_model = 0 }
+		}
+	}
+}

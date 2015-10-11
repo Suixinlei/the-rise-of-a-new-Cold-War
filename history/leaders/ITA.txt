@@ -1,0 +1,1308 @@
+79001 = {
+	name = "Bellacicco"
+	country = ITA
+	type = land
+	skill = 3
+	max_skill = 9
+	loyalty = 1.00
+	picture = ITA1
+	add_trait = sturmer
+	add_trait = offensive_doctrine
+	history = {
+		2000.1.1 = { rank = 2 }
+	}
+}
+79002 = {
+	name = "Mazzini"
+	country = ITA
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = ITA3
+	add_trait = improvisation
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+79003 = {
+	name = "Goffreddu"
+	country = ITA
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = ITA4
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+79004 = {
+	name = "Errico"
+	country = ITA
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = ITA5
+	add_trait = logistics_wizard
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+79005 = {
+	name = "Amico"
+	country = ITA
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = ITA6
+	add_trait = marine
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+79006 = {
+	name = "Perretti"
+	country = ITA
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = ITA9
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+79007 = {
+	name = "Patalano"
+	country = ITA
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = ITA10
+	add_trait = panzer_leader
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+79008 = {
+	name = "Mora"
+	country = ITA
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = ITA11
+	add_trait = commando
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+79009 = {
+	name = "Cizzani"
+	country = ITA
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = ITA12
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+79010 = {
+	name = "Babini"
+	country = ITA
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 0.00
+	picture = ITA13
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+79011 = {
+	name = "Falcone"
+	country = ITA
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = ITA14
+	add_trait = panzer_leader
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+79012 = {
+	name = "Liccardi"
+	country = ITA
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 0.00
+	picture = ITA15
+		history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+79013 = {
+	name = "Balisti"
+	country = ITA
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = ITA16
+	add_trait = trickster
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+79014 = {
+	name = "Balbo"
+	country = ITA
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = ITA17
+	history = {	
+		2000.1.1 = { rank = 1 }
+	}
+}
+79015 = {
+	name = "Zanchetti"
+	country = ITA
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = ITA18
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+79016 = {
+	name = "di Valpecca"
+	country = ITA
+	type = land
+	skill = 3
+	max_skill = 7
+	loyalty = 0.00
+	picture = ITA19
+	add_trait = logistics_wizard
+	add_trait = panzer_leader
+	2000.1.1 = { rank = 2 }
+	}
+}
+79017 = {
+	name = "Emilio"
+	country = ITA
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = ITA20
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+79018 = {
+	name = "Fungo"
+	country = ITA
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L79018
+	add_trait = offensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+79019 = {
+	name = "Bertolini"
+	country = ITA
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = ITA21
+	add_trait = winter_specialist
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+79020 = {
+	name = "Cipullo"
+	country = ITA
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = ITA22
+				history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+79021 = {
+	name = "Temperini"
+	country = ITA
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = ITA23
+	add_trait = panzer_leader
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+79022 = {
+	name = "Berti"
+	country = ITA
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = ITA24
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+79023 = {
+	name = "Satta"
+	country = ITA
+	type = land
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = ITA25
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+79024 = {
+	name = "Tricarso"
+	country = ITA
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = ITA26
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+79025 = {
+	name = "Chiarini"
+	country = ITA
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = ITA27
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+79026 = {
+	name = "Cigna"
+	country = ITA
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = ITA28
+	add_trait = panzer_leader
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+79027 = {
+	name = "Falsaperna"
+	country = ITA
+	type = land
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = ITA29
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+79028 = {
+	name = "Emiliani"
+	country = ITA
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = ITA30
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+79029 = {
+	name = "Piccariello"
+	country = ITA
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = ITA31
+	add_trait = panzer_leader
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+79030 = {
+	name = "Fabris"
+	country = ITA
+	type = land
+	skill = 1
+	max_skill = 7
+	loyalty = 1.00
+	picture = ITA32
+	add_trait = defensive_doctrine
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+79031 = {
+	name = "Adriano"
+	country = ITA
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = ITA33
+	add_trait = marine
+	add_trait = offensive_doctrine
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+79032 = {
+	name = "Tricarico"
+	country = ITA
+	type = air
+	skill = 2
+	max_skill = 8
+	loyalty = 1.00
+	picture = ITA34
+	add_trait = carpet_bomber
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+79033 = {
+	name = "Canale"
+	country = ITA
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = ITA35
+	add_trait = commando
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+79034 = {
+	name = "Gagliano"
+	country = ITA
+	type = air
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = ITA36
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+79035 = {
+	name = "Carboni"
+	country = ITA
+	type = air
+	skill = 0
+	max_skill = 6
+	loyalty = 1.00
+	picture = ITA37
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+79036 = {
+	name = "Cavallero"
+	country = ITA
+	type = land
+	skill = 3
+	max_skill = 9
+	loyalty = 1.00
+	picture = ITA38
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+79037 = {
+	name = "Bacchetti"
+	country = ITA
+	type = air
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = ITA39
+	add_trait = tank_buster
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+79038 = {
+	name = "Camporini"
+	country = ITA
+	type = air
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = ITA40
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+79039 = {
+	name = "Castellano"
+	country = ITA
+	type = sea
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = ITA41
+	add_trait = blockade_runner
+	history = {
+	2000.1.1 = { rank = 1 }
+	}
+}
+79040 = {
+	name = "Mantelli"
+	country = ITA
+	type = sea
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = ITA42
+	add_trait = seawolf
+	history = {
+		2000.1.1 = { rank = 2 }
+	}
+}
+79041 = {
+	name = "Baffi"
+	country = ITA
+	type = sea
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = ITA43
+	history = {
+	2000.1.1 = { rank = 1 }
+	}
+}
+79042 = {
+	name = "Matacena"
+	country = ITA
+	type = sea
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = ITA44
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+79043 = {
+	name = "De Giorgi"
+	country = ITA
+	type = sea
+	skill = 5
+	max_skill = 8
+	loyalty = 1.00
+	picture = ITA45
+	add_trait = spotter
+	add_trait = superior_tactician
+	history = {
+		2000.1.1 = { rank = 4 }
+	}
+}
+79044 = {
+	name = "Cerio"
+	country = ITA
+	type = sea
+	skill = 1
+	max_skill = 4
+	loyalty = 1.00
+	picture = ITA46
+	add_trait = spotter
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+79045 = {
+	name = "Cigala-Fulgosi"
+	country = ITA
+	type = sea
+	skill = 0
+	max_skill = 4
+	loyalty = 1.00
+	picture = ITA47
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+79046 = {
+	name = "Gramsci"
+	country = ITA
+	type = sea
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = ITA48
+	add_trait = spotter
+		2003.1.1 = { rank = 1 }
+	}
+}
+79047 = {
+	name = "Castagnetti"
+	country = ITA
+	type = land
+	skill = 4
+	max_skill = 8
+	loyalty = 1.00
+	picture = L79047
+	add_trait = engineer
+	history = {
+		1995.1.1 = { rank = 1 }
+		1998.1.1 = { rank = 2 }
+		2001.1.1 = { rank = 3 }
+		2003.1.1 = { rank = 4 }
+	}
+}
+79048 = {
+	name = "Cecchi"
+	country = ITA
+	type = land
+	skill = 4
+	max_skill = 8
+	loyalty = 1.00
+	picture = L79048
+	add_trait = offensive_doctrine
+	history = {
+		1998.1.1 = { rank = 1 }
+		2000.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+79049 = {
+	name = "Di Paolo"
+	country = ITA
+	type = land
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L79049
+	history = {
+		1998.1.1 = { rank = 1 }
+		2000.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+79050 = {
+	name = "Gottardo"
+	country = ITA
+	type = land
+	skill = 3
+	max_skill = 6
+	loyalty = 1.00
+	picture = L79050
+	add_trait = hard_defender
+	history = {
+		1998.1.1 = { rank = 1 }
+		2000.1.1 = { rank = 2 }
+	}
+}
+79051 = {
+	name = "Graziano"
+	country = ITA
+	type = land
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L79051
+	add_trait = assaulter
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+79052 = {
+	name = "Muraro"
+	country = ITA
+	type = land
+	skill = 3
+	max_skill = 6
+	loyalty = 1.00
+	picture = L79052
+	add_trait = frontline_soldier
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+79053 = {
+	name = "Siazzu"
+	country = ITA
+	type = land
+	skill = 4
+	max_skill = 7
+	loyalty = 1.00
+	picture = L79053
+	add_trait = defensive_doctrine
+	history = {
+		1997.1.1 = { rank = 1 }
+		2000.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+79054 = {
+	name = "Speciale"
+	country = ITA
+	type = land
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L79054
+	add_trait = defensive_doctrine
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+79055 = {
+	name = "Valotto"
+	country = ITA
+	type = land
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L79055
+	add_trait = panzer_leader
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+79056 = {
+	name = "Bisogniero"
+	country = ITA
+	type = land
+	skill = 2
+	max_skill = 4
+	loyalty = 1.00
+	picture = L79056
+	add_trait = old_guard
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+79057 = {
+	name = "Capolupo"
+	country = ITA
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L79057
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+79058 = {
+	name = "Cucchi"
+	country = ITA
+	type = land
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L79058
+	add_trait = fortress_buster
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+79059 = {
+	name = "D'Arrigo"
+	country = ITA
+	type = land
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L79059
+	add_trait = hard_defender
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+79060 = {
+	name = "Gallitelli"
+	country = ITA
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L79060
+	add_trait = frontline_soldier
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+79061 = {
+	name = "Gasparri"
+	country = ITA
+	type = land
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L79061
+	add_trait = trickster
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+79062 = {
+	name = "Gualdi"
+	country = ITA
+	type = land
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L79062
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+79063 = {
+	name = "Masiello"
+	country = ITA
+	type = land
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L79063
+	add_trait = commando
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+79064 = {
+	name = "Mencagli"
+	country = ITA
+	type = land
+	skill = 4
+	max_skill = 8
+	loyalty = 1.00
+	picture = L79064
+	add_trait = commando
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+79065 = {
+	name = "Orlando"
+	country = ITA
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L79065
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+79066 = {
+	name = "Rossi"
+	country = ITA
+	type = land
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L79066
+	add_trait = offensive_doctrine
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+79067 = {
+	name = "Santini"
+	country = ITA
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L79067
+	add_trait = landing_specialist
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+79068 = {
+	name = "Sgarlata"
+	country = ITA
+	type = land
+	skill = 3
+	max_skill = 5
+	loyalty = 1.00
+	picture = L79068
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+79069 = {
+	name = "Siracusa"
+	country = ITA
+	type = land
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = L79069
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+79070 = {
+	name = "Tozzi"
+	country = ITA
+	type = land
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L79070
+	add_trait = offensive_doctrine
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+79071 = {
+	name = "Abrate"
+	country = ITA
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L79071
+	add_trait = engineer
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+79072 = {
+	name = "Cabigiosu"
+	country = ITA
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L79072
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+79073 = {
+	name = "Corcione"
+	country = ITA
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L79073
+	add_trait = old_guard
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+79074 = {
+	name = "Del Vecchio"
+	country = ITA
+	type = land
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L79074
+	add_trait = offensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+79075 = {
+	name = "Gerometta"
+	country = ITA
+	type = land
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L79075
+	add_trait = offensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+79076 = {
+	name = "Loi"
+	country = ITA
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L79076
+	add_trait = commando
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+79077 = {
+	name = "Piccirillo"
+	country = ITA
+	type = land
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = L79077
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+79078 = {
+	name = "Pollari"
+	country = ITA
+	type = land
+	skill = 2
+	max_skill = 8
+	loyalty = 1.00
+	picture = L79078
+	add_trait = trainer
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+79079 = {
+	name = "Portolano"
+	country = ITA
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L79079
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+79080 = {
+	name = "Scopigno"
+	country = ITA
+	type = land
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L79080
+	add_trait = commando
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+79081 = {
+	name = "Serra"
+	country = ITA
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L79081
+	add_trait = landing_specialist
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+79082 = {
+	name = "Spiazzi"
+	country = ITA
+	type = land
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = L79082
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+79083 = {
+	name = "Subranni"
+	country = ITA
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L79083
+	add_trait = old_guard
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+79084 = {
+	name = "Tesser"
+	country = ITA
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L79084
+	add_trait = assaulter
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+79085 = {
+	name = "Vacca"
+	country = ITA
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L79085
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+79086 = {
+	name = "Marchetti"
+	country = ITA
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L79086
+	add_trait = defensive_doctrine
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+79087 = {
+	name = "Ferracuti"
+	country = ITA
+	type = air
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L79087
+	add_trait = carpet_bomber
+	history = {
+		1998.1.1 = { rank = 1 }
+		2000.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+79088 = {
+	name = "Bernardis"
+	country = ITA
+	type = air
+	skill = 3
+	max_skill = 6
+	loyalty = 1.00
+	picture = L79088
+	add_trait = superior_air_tactician
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+79089 = {
+	name = "Arpino"
+	country = ITA
+	type = air
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = L79089
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+79090 = {
+	name = "Debertolis"
+	country = ITA
+	type = air
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L79090
+	add_trait = fleet_destroyer
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+79091 = {
+	name = "Nardini"
+	country = ITA
+	type = air
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L79091
+	add_trait = tank_buster
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+79092 = {
+	name = "Preziosa"
+	country = ITA
+	type = air
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L79092
+	add_trait = carpet_bomber
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+79093 = {
+	name = "Tei"
+	country = ITA
+	type = air
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L79093
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+79094 = {
+	name = "Biraghi"
+	country = ITA
+	type = sea
+	skill = 3
+	max_skill = 6
+	loyalty = 1.00
+	picture = L79094
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+79095 = {
+	name = "Pollastrini"
+	country = ITA
+	type = sea
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = L79095
+	add_trait = superior_tactician
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+79096 = {
+	name = "Trevisani"
+	country = ITA
+	type = sea
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L79096
+	add_trait = seawolf
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+79097 = {
+	name = "Veri"
+	country = ITA
+	type = sea
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L79097
+	add_trait = spotter
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+79098 = {
+	name = "Binelli Mantelli"
+	country = ITA
+	type = sea
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L79098
+	add_trait = superior_tactician
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+79099 = {
+	name = "Branciforte"
+	country = ITA
+	type = sea
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = L79099
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+79100 = {
+	name = "Di Paola"
+	country = ITA
+	type = sea
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L79100
+	add_trait = seawolf
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+79101 = {
+	name = "Venturoni"
+	country = ITA
+	type = sea
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L79101
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}

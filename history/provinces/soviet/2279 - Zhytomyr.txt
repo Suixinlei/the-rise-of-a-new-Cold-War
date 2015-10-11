@@ -1,0 +1,7 @@
+owner = UKR
+controller = UKR
+add_core = UKR
+infra = 5
+
+air_base = 3 #Ozerne airbase
+points = 1

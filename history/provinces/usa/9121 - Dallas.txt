@@ -1,0 +1,9 @@
+owner = USA
+controller = USA
+add_core = USA
+infra = 8
+industry = 10
+crude_oil = 11.1
+energy = 29.00
+air_base = 10 #Dallas airport and Barksdale airbase
+points = 1

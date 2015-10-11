@@ -1,0 +1,334 @@
+color = { 66  113  69 }
+graphical_culture = Generic
+last_election = 2001.6.17
+duration = 48
+
+default_templates = {
+	generic_infantry = {
+		infantry_brigade
+		infantry_brigade
+		infantry_brigade
+	}
+	generic_milita = {
+		militia_brigade
+		militia_brigade
+		militia_brigade
+	}
+	generic_armoured = {
+		armor_brigade
+		motorized_brigade
+		motorized_brigade
+	}
+	generic_cavalry = {
+		cavalry_brigade
+		cavalry_brigade
+	}
+}
+
+unit_names = {
+	
+
+}
+
+
+ministers = {
+	12001 = {
+		name = "Georgi Parvanov"
+		ideology = left_wing_radical
+		loyalty = 1.00
+		picture = M12001
+		head_of_state = committed_socialist
+		start_date = 2000.1.1
+	}
+	12002 = {
+		name = "Petar Stoyanov"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M12002
+		head_of_state = crime_fighter
+		start_date = 2000.1.1
+	}
+	12003 = {
+		name = "Bogomil Bonev"
+		ideology = stalinist
+		loyalty = 1.00
+		picture = M12003
+		minister_of_security = crime_fighter
+		head_of_state = stern_imperialist
+		start_date = 2000.1.1
+	}
+	12004 = {
+		name = "Reneta Indzhova"
+		ideology = social_liberal
+		loyalty = 1.00
+		picture = M12004
+		head_of_state = administrative_genius
+		start_date = 2000.1.1
+	}
+	12005 = {
+		name = "Volen Siderov"
+		ideology = paternal_autocrat
+		loyalty = 1.00
+		picture = M12005
+		head_of_state = autocratic_charmer
+		start_date = 2000.1.1 #2005
+	}
+	12006 = {
+		name = "Nedelcho Beronov"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M12006
+		head_of_state = silent_lawyer
+		start_date = 2006.1.1
+	}
+	12007 = {
+		name = "Rosen Plevneliev"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M12007
+		head_of_state = hidden_leftist
+		start_date = 2009.1.1
+	}
+	12008 = {
+		name = "Ivaylo Kalfin"
+		ideology = left_wing_radical
+		loyalty = 1.00
+		picture = M12008
+		head_of_state = good_connections
+		foreign_minister = talented_and_concealed
+		start_date = 2005.1.1
+	}
+	12009 = {
+		name = "Meglena Kuneva"
+		ideology = market_liberal
+		loyalty = 1.00
+		picture = M12009
+		head_of_state = ideological_crusader
+		start_date = 2000.1.1 #2011
+	}
+	12010 = {
+		name = "Simeon Saxe-Coburg-Gotha"
+		ideology = market_liberal
+		loyalty = 1.00
+		picture = M12010
+		head_of_government = majestic
+		start_date = 2000.1.1
+	}
+	12011 = {
+		name = "Sergei Stanishev"
+		ideology = left_wing_radical
+		loyalty = 1.00
+		picture = M12011
+		head_of_government = intellectualist
+		start_date = 2000.1.1
+	}
+	12012 = {
+		name = "Boyko Borisov"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M12012
+		head_of_government = silent_workhorse
+		start_date = 2000.1.1
+	}
+	12013 = {
+		name = "Solomon Passy"
+		ideology = market_liberal
+		loyalty = 1.00
+		picture = M12013
+		foreign_minister = pig_headed_isolationist
+		start_date = 2000.1.1
+	}
+	12014 = {
+		name = "Rumiana Jeleva"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M12014
+		foreign_minister = apologetic_clerk
+		start_date = 2000.1.1
+	}
+	12015 = {
+		name = "Nikolay Mladenov"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M12015
+		foreign_minister = naval_intelligence_specialist
+		armament_minister = air_superiority_proponent
+		start_date = 2009.1.1
+	}
+	12016 = {
+		name = "Nikolay Svinarov"
+		ideology = market_liberal
+		loyalty = 1.00
+		picture = M12016
+		armament_minister = guns_and_butter_doctrine
+		start_date = 2000.1.1
+	}
+	12017 = {
+		name = "Veselin Bliznakov"
+		ideology = market_liberal
+		loyalty = 1.00
+		picture = M12017
+		armament_minister = submarine_lover
+		start_date = 2001.1.1
+	}
+	12018 = {
+		name = "Nikolay Tsonev"
+		ideology = market_liberal
+		loyalty = 1.00
+		picture = M12018
+		armament_minister = submarine_lover
+		start_date = 2008.1.1
+	}
+	12019 = {
+		name = "Anyu Angelov"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M12019
+		armament_minister = economic_expert
+		start_date = 2010.1.1
+	}
+	12020 = {
+		name = "Georgi Petkanov"
+		ideology = market_liberal
+		loyalty = 1.00
+		picture = M12020
+		minister_of_security = flamboyant_tough_guy
+		start_date = 2000.1.1
+	}
+	12021 = {
+		name = "Rumen Petkov"
+		ideology = left_wing_radical
+		loyalty = 1.00
+		picture = M12021
+		minister_of_security = industrial_beast
+		start_date = 2000.1.1
+	}
+	12022 = {
+		name = "Mihail Mikov"
+		ideology = left_wing_radical
+		loyalty = 1.00
+		picture = M12022
+		minister_of_security = army_reformer
+		start_date = 2008.1.1
+	}
+	12023 = {
+		name = "Tsvetan Tsvetanov"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M12023
+		minister_of_security = scandalous
+		start_date = 2000.1.1
+	}
+	12024 = {
+		name = "Georgi Anastasov"
+		ideology = social_democrat
+		loyalty = 1.00
+		picture = M12024
+		head_of_state = general_staffer
+		start_date = 2000.1.1
+	}
+	12025 = {
+		name = "Ahmed Dogan"
+		ideology = social_liberal
+		loyalty = 1.00
+		picture = M12025
+		head_of_government = untalented_nerd
+		start_date = 2000.1.1
+	}
+	12026 = {
+		name = "Lyutvi Mestan"
+		ideology = social_liberal
+		loyalty = 1.00
+		picture = M12026
+		foreign_minister = pig_headed_isolationist
+		start_date = 2000.1.1
+	}
+	12027 = {
+		name = "Boyan Kirov"
+		ideology = leninist
+		loyalty = 1.00
+		picture = M12027
+		head_of_state = ruthless_powermonger
+		start_date = 2000.1.1
+	}
+	12028 = {
+		name = "Aleksandar Karakachanov"
+		ideology = left_wing_radical
+		loyalty = 1.00
+		picture = M12028
+		armament_minister = die_hard_reformer
+		start_date = 2000.1.1
+	}
+	12029 = {
+		name = "Krasimir Karakachanov"
+		ideology = paternal_autocrat
+		loyalty = 1.00
+		picture = M12029
+		head_of_government = efficient_sociopath
+		start_date = 2000.1.1
+	}
+	12030 = {
+		name = "Slavcho Atanasov"
+		ideology = paternal_autocrat
+		loyalty = 1.00
+		picture = M12030
+		foreign_minister = political_specialist
+		start_date = 2000.1.1
+	}
+	12031 = {
+		name = "Stefan Sofiyanski"
+		ideology = social_liberal
+		loyalty = 1.00
+		picture = M12031
+		foreign_minister = tempered_speaker
+		start_date = 2000.1.1
+	}
+	12032 = {
+		name = "Dragomir Dimitrov"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M12032
+		minister_of_intelligence = prince_of_terror
+		start_date = 2000.1.1
+	}
+	12033 = {
+		name = "Simeon Simeonov"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M12033
+		chief_of_staff = talented_recruiter
+		start_date = 2000.1.1
+	}
+	12034 = {
+		name = "Andrey Botsev"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M12034
+		chief_of_army = service_enforcer
+		start_date = 2000.1.1
+	}
+	12035 = {
+		name = "Constantin Popov"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M12035
+		chief_of_air = carpet_bombing_doctrine
+		start_date = 2000.1.1
+	}
+	12036 = {
+		name = "Rumen Radev"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M12036
+		chief_of_air = old_air_marshal
+		start_date = 2000.1.1
+	}
+	12037 = {
+		name = "Rumen Nikolov"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M12037
+		chief_of_navy = air_to_sea_proponent
+		start_date = 2000.1.1
+	}
+}

@@ -1,0 +1,7 @@
+owner = PRK
+controller = PRK
+add_core = PRK
+infra = 6
+
+infra = 6
+land_fort = 5

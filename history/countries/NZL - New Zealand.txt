@@ -1,0 +1,40 @@
+capital = 8070
+government = commonwealth
+ideology = social_liberal
+alignment = { x = 0 y = -111 }
+neutrality = 80
+national_unity = 80
+oob = "NZL_2000.txt"
+
+popularity = { 
+	national_socialist = 0
+	fascistic = 0
+	paternal_autocrat = 10
+	social_conservative = 21
+	market_liberal = 7
+	social_liberal = 41
+	social_democrat = 2
+	left_wing_radical = 7
+	leninist = 0
+	stalinist = 0
+}
+
+organization = {
+	national_socialist = 0
+	fascistic = 0
+	paternal_autocrat = 30
+	social_conservative = 63
+	market_liberal = 21
+	social_liberal = 123
+	social_democrat = 6
+	left_wing_radical = 21
+	leninist = 0
+	stalinist = 0
+}
+
+conscription_policy = volunteer_army
+press_laws = free_press
+mobilisation_level = peace_time
+civil_laws = open_society
+economic_policy = lais_fair
+service_length = six_months

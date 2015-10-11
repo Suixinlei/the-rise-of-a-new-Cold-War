@@ -1,0 +1,7 @@
+owner = ARG
+controller = ARG
+add_core = ARG
+
+infra = 6
+air_base = 2 #Enrique Mosconi airbase
+points = 1

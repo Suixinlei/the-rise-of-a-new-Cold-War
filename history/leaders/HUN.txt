@@ -1,0 +1,1115 @@
+71001 = {
+	name = "Baráth"
+	country = HUN
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L71001
+	add_trait = panzer_leader
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+71002 = {
+	name = "Bokor"
+	country = HUN
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L71002
+	add_trait = defensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+71003 = {
+	name = "Aczél"
+	country = HUN
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 0.00
+	picture = L71003
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+71004 = {
+	name = "Böröndi"
+	country = HUN
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L71004
+	add_trait = engineer
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+71005 = {
+	name = "Czeba"
+	country = HUN
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L71005
+	add_trait = offensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+71006 = {
+	name = "Dömény"
+	country = HUN
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L71006
+	add_trait = hard_defender
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+71007 = {
+	name = "Drahos"
+	country = HUN
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L71007
+	add_trait = old_guard
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+71008 = {
+	name = "Géczi"
+	country = HUN
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L71008
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+71009 = {
+	name = "Hajdu"
+	country = HUN
+	type = land
+	skill = 2
+	max_skill = 8
+	loyalty = 1.00
+	picture = L71009
+	add_trait = commando
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+71010 = {
+	name = "Hankocz"
+	country = HUN
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L71010
+	add_trait = trainer
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+71011 = {
+	name = "Horvath"
+	country = HUN
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 0.00
+	picture = L71011
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+71012 = {
+	name = "Huszár"
+	country = HUN
+	type = land
+	skill = 1
+	max_skill = 7
+	loyalty = 1.00
+	picture = L71012
+	add_trait = panzer_leader
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+71013 = {
+	name = "Ipcsics"
+	country = HUN
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 0.00
+	picture = L71013
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+71014 = {
+	name = "Isaszegi"
+	country = HUN
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L71014
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+71015 = {
+	name = "Jákob"
+	country = HUN
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L71015
+	add_trait = assaulter
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+71016 = {
+	name = "Jambrik"
+	country = HUN
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L71016
+	add_trait = defensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+71017 = {
+	name = "Kiss"
+	country = HUN
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L71017
+	add_trait = panzer_leader
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+71018 = {
+	name = "Kovacs"
+	country = HUN
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L71018
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+71019 = {
+	name = "Kun Szabó"
+	country = HUN
+	type = land
+	skill = 2
+	max_skill = 8
+	loyalty = 1.00
+	picture = L71019
+	add_trait = frontline_soldier
+	add_trait = learners_will
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+71020 = {
+	name = "László"
+	country = HUN
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L71020
+	add_trait = fortress_buster
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+71021 = {
+	name = "Lippai"
+	country = HUN
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 0.00
+	picture = L71021
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+71022 = {
+	name = "Márkus"
+	country = HUN
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L71022
+	add_trait = old_guard
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+71023 = {
+	name = "Meszaros"
+	country = HUN
+	type = land
+	skill = 2
+	max_skill = 8
+	loyalty = 1.00
+	picture = L71023
+	add_trait = offensive_doctrine
+	add_trait = trickster
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+71024 = {
+	name = "Michl"
+	country = HUN
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 0.00
+	picture = L71024
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+71025 = {
+	name = "Oláh"
+	country = HUN
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 0.00
+	picture = L71025
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+71026 = {
+	name = "Némedi"
+	country = HUN
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L71026
+	add_trait = panzer_leader
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+71027 = {
+	name = "Padanyij"
+	country = HUN
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L71027
+	add_trait = improvisation
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+71028 = {
+	name = "Pongracz"
+	country = HUN
+	type = land
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = L71028
+	add_trait = old_guard
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+71029 = {
+	name = "Revesz"
+	country = HUN
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L71029
+	add_trait = offensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+71030 = {
+	name = "Sági"
+	country = HUN
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L71030
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+71031 = {
+	name = "Sándor"
+	country = HUN
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L71031
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+71032 = {
+	name = "Schandl"
+	country = HUN
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L71032
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+71033 = {
+	name = "Szabó"
+	country = HUN
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L71033
+	add_trait = frontline_soldier
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+71034 = {
+	name = "Szántó"
+	country = HUN
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L71034
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+71035 = {
+	name = "Szekeres"
+	country = HUN
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L71035
+	add_trait = commando
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+71036 = {
+	name = "Takacs"
+	country = HUN
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 0.00
+	picture = L71036
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+71037 = {
+	name = "Talpas"
+	country = HUN
+	type = land
+	skill = 2
+	max_skill = 8
+	loyalty = 1.00
+	picture = L71037
+	add_trait = commando
+	add_trait = learners_will
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+71038 = {
+	name = "Tamás"
+	country = HUN
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L71038
+	add_trait = commando
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+71039 = {
+	name = "Tarcsa"
+	country = HUN
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L71039
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+71040 = {
+	name = "Töll"
+	country = HUN
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L71040
+	add_trait = panzer_leader
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+71041 = {
+	name = "Török"
+	country = HUN
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L71041
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+71042 = {
+	name = "Vanyur"
+	country = HUN
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L71042
+	add_trait = assaulter
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+71043 = {
+	name = "Varga"
+	country = HUN
+	type = land
+	skill = 1
+	max_skill = 7
+	loyalty = 1.00
+	picture = L71043
+	add_trait = frontline_soldier
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+71044 = {
+	name = "Venekei"
+	country = HUN
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L71044
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+71045 = {
+	name = "Veres"
+	country = HUN
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L71045
+	add_trait = engineer
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+71046 = {
+	name = "Zsámboki"
+	country = HUN
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L71046
+	add_trait = logistics_wizard
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+71047 = {
+	name = "Ajtai"
+	country = HUN
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 0.00
+	picture = L71047
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+71048 = {
+	name = "Apponyi"
+	country = HUN
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L71048
+	add_trait = trickster
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+71049 = {
+	name = "Bagoly"
+	country = HUN
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L71049
+	add_trait = improvisation
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+71050 = {
+	name = "Bollobás"
+	country = HUN
+	type = land
+	skill = 0
+	max_skill = 4
+	loyalty = 0.00
+	picture = L71050
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+71051 = {
+	name = "Csillag"
+	country = HUN
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L71051
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+71052 = {
+	name = "Draskovich"
+	country = HUN
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L71052
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+71053 = {
+	name = "Eötvös"
+	country = HUN
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 1.00
+	picture = L71053
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+71054 = {
+	name = "Fricsay"
+	country = HUN
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L71054
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+71055 = {
+	name = "Janikovszky"
+	country = HUN
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L71055
+	add_trait = winter_specialist
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+71056 = {
+	name = "Kecskés"
+	country = HUN
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L71056
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+71057 = {
+	name = "Ötvös"
+	country = HUN
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L71057
+	add_trait = assaulter
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+71058 = {
+	name = "Pulszky"
+	country = HUN
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L71058
+	add_trait = offensive_doctrine
+	add_trait = assaulter
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+71059 = {
+	name = "Roskoványi"
+	country = HUN
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L71059
+	add_trait = learners_will
+	add_trait = engineer
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+71060 = {
+	name = "Mikita"
+	country = HUN
+	type = land
+	skill = 4
+	max_skill = 8
+	loyalty = 1.00
+	picture = L71060
+	history = {
+		1995.1.1 = { rank = 1 }
+		1998.1.1 = { rank = 2 }
+		2001.1.1 = { rank = 3 }
+		2003.1.1 = { rank = 4 }
+	}
+}
+71061 = {
+	name = "Benko"
+	country = HUN
+	type = land
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L71061
+	add_trait = defensive_doctrine
+	add_trait = frontline_soldier
+	history = {
+		1998.1.1 = { rank = 1 }
+		2001.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+71062 = {
+	name = "Braun"
+	country = HUN
+	type = land
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L71062
+	history = {
+		1998.1.1 = { rank = 1 }
+		2001.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+71063 = {
+	name = "Madarász"
+	country = HUN
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L71063
+	add_trait = frontline_soldier
+	history = {
+		1998.1.1 = { rank = 1 }
+		2001.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+71064 = {
+	name = "Békési"
+	country = HUN
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L71064
+	add_trait = hard_defender
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+71065 = {
+	name = "Csak"
+	country = HUN
+	type = land
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L71065
+	add_trait = panzer_leader
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+71066 = {
+	name = "Domjan"
+	country = HUN
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L71066
+	add_trait = engineer
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+71067 = {
+	name = "Gresnyer"
+	country = HUN
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L71067
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+71068 = {
+	name = "Isaszegi"
+	country = HUN
+	type = land
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L71068
+	add_trait = winter_specialist
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+71069 = {
+	name = "Kovácsics"
+	country = HUN
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L71069
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+71070 = {
+	name = "Kozsa"
+	country = HUN
+	type = land
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L71070
+	add_trait = commando
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+71071 = {
+	name = "Tóth"
+	country = HUN
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L71071
+	add_trait = offensive_doctrine
+	add_trait = assaulter
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+71072 = {
+	name = "Berec"
+	country = HUN
+	type = air
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L71072
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+71073 = {
+	name = "Hatala"
+	country = HUN
+	type = air
+	skill = 1
+	max_skill = 5
+	loyalty = 0.00
+	picture = L71073
+	add_trait = night_flyer
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+71074 = {
+	name = "Horváth"
+	country = HUN
+	type = air
+	skill = 0
+	max_skill = 5
+	loyalty = 0.00
+	picture = L71074
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+71075 = {
+	name = "Nagy"
+	country = HUN
+	type = air
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L71075
+	add_trait = tank_buster
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+71076 = {
+	name = "Nándor"
+	country = HUN
+	type = air
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L71076
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+71077 = {
+	name = "Petö"
+	country = HUN
+	type = air
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L71077
+	add_trait = superior_air_tactician
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+71078 = {
+	name = "Pócsik"
+	country = HUN
+	type = air
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L71078
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+71079 = {
+	name = "Polyák"
+	country = HUN
+	type = air
+	skill = 1
+	max_skill = 5
+	loyalty = 0.00
+	picture = L71079
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+71080 = {
+	name = "Réti"
+	country = HUN
+	type = air
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L71080
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+71081 = {
+	name = "Sáfár"
+	country = HUN
+	type = air
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = L71081
+	add_trait = superior_air_tactician
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+71082 = {
+	name = "Szabadfi"
+	country = HUN
+	type = air
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L71082
+	add_trait = carpet_bomber
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+71083 = {
+	name = "Tóth"
+	country = HUN
+	type = air
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L71083
+	add_trait = superior_air_tactician
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+71084 = {
+	name = "Zsámboki"
+	country = HUN
+	type = air
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L71084
+	add_trait = fleet_destroyer
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+71085 = {
+	name = "Havril"
+	country = HUN
+	type = air
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L71085
+	add_trait = superior_air_tactician
+	history = {
+		1995.1.1 = { rank = 1 }
+		1998.1.1 = { rank = 2 }
+		2001.1.1 = { rank = 3 }
+		2003.1.1 = { rank = 4 }
+	}
+}
+71086 = {
+	name = "László"
+	country = HUN
+	type = air
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L71086
+	add_trait = night_flyer
+	add_trait = tank_buster
+	history = {
+		1995.1.1 = { rank = 1 }
+		1998.1.1 = { rank = 2 }
+		2001.1.1 = { rank = 3 }
+		2003.1.1 = { rank = 4 }
+	}
+}

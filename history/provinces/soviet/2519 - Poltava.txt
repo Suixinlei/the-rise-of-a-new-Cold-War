@@ -1,0 +1,10 @@
+owner = UKR
+controller = UKR
+add_core = UKR
+add_core = NOV
+infra = 6
+metal = 10.00
+air_base = 4 #Poltava airbase
+leadership = 2.50
+points = 1
+industry = 1

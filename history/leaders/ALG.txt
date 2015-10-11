@@ -1,0 +1,1041 @@
+2001 = {
+	name = "Aamer"
+	country = ALG
+	type = land
+	skill = 0
+	max_skill = 4
+	loyalty = 1.00
+	picture = L2001
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+2002 = {
+	name = "Salah"
+	country = ALG
+	type = land
+	skill = 4
+	max_skill = 8
+	loyalty = 1.00
+	picture = L2002
+	add_trait = hard_defender
+	history = {
+		1995.1.1 = { rank = 1 }
+		1998.1.1 = { rank = 2 }
+		2000.1.1 = { rank = 3 }
+		2003.1.1 = { rank = 4 }
+	}
+}
+2003 = {
+	name = "Amrani"
+	country = ALG
+	type = land
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L2003
+	add_trait = frontline_soldier
+	add_trait = improvisation
+	history = {
+		1998.1.1 = { rank = 1 }
+		2000.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+2004 = {
+	name = "Bousteila"
+	country = ALG
+	type = land
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L2004
+	add_trait = panzer_leader
+	history = {
+		1997.1.1 = { rank = 1 }
+		2000.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+2005 = {
+	name = "Lamari"
+	country = ALG
+	type = land
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L2005
+	add_trait = defensive_doctrine
+	history = {
+		1997.1.1 = { rank = 1 }
+		2000.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+2006 = {
+	name = "Marzoukine"
+	country = ALG
+	type = land
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L2006
+	add_trait = offensive_doctrine
+	history = {
+		1997.1.1 = { rank = 1 }
+		1999.1.1 = { rank = 2 }
+		2002.1.1 = { rank = 3 }
+	}
+}
+2007 = {
+	name = "Ahmed"
+	country = ALG
+	type = land
+	skill = 2
+	max_skill = 8
+	loyalty = 1.00
+	picture = L2007
+	add_trait = learners_will
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+2008 = {
+	name = "Ejaz"
+	country = ALG
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L2008
+	add_trait = landing_specialist
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+2009 = {
+	name = "Hamel"
+	country = ALG
+	type = land
+	skill = 2
+	max_skill = 8
+	loyalty = 1.00
+	picture = L2009
+	add_trait = panzer_leader
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+2010 = {
+	name = "Senjadji"
+	country = ALG
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L2010
+	add_trait = commando
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+2011 = {
+	name = "Tafer"
+	country = ALG
+	type = land
+	skill = 2
+	max_skill = 8
+	loyalty = 1.00
+	picture = L2011
+	add_trait = learners_will
+	add_trait = offensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+2012 = {
+	name = "Zerrad"
+	country = ALG
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L2012
+	add_trait = panzer_leader
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+2013 = {
+	name = "Abulafia"
+	country = ALG
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L2013
+	add_trait = defensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+2014 = {
+	name = "Ahsan"
+	country = ALG
+	type = land
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = L2014
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+2015 = {
+	name = "Atif"
+	country = ALG
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L2015
+	add_trait = landing_specialist
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+2016 = {
+	name = "Atwi"
+	country = ALG
+	type = land
+	skill = 0
+	max_skill = 7
+	loyalty = 1.00
+	picture = L2016
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+2017 = {
+	name = "Badawi"
+	country = ALG
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L2017
+	add_trait = panzer_leader
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+2018 = {
+	name = "Baha"
+	country = ALG
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L2018
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+2019 = {
+	name = "Balochi"
+	country = ALG
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L2019
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+2020 = {
+	name = "Bilel"
+	country = ALG
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 1.00
+	picture = L2020
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+2021 = {
+	name = "Bseiso"
+	country = ALG
+	type = land
+	skill = 1
+	max_skill = 7
+	loyalty = 1.00
+	picture = L2021
+	add_trait = learners_will
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+2022 = {
+	name = "Damji"
+	country = ALG
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L2022
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+2023 = {
+	name = "Darwish"
+	country = ALG
+	type = land
+	skill = 0
+	max_skill = 4
+	loyalty = 1.00
+	picture = L2023
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+2024 = {
+	name = "Fahmi"
+	country = ALG
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L2024
+	add_trait = frontline_soldier
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+2025 = {
+	name = "Farooq"
+	country = ALG
+	type = land
+	skill = 0
+	max_skill = 6
+	loyalty = 1.00
+	picture = L2025
+	add_trait = landing_specialist
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+2026 = {
+	name = "Fattah"
+	country = ALG
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L2026
+	add_trait = landing_specialist
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+2027 = {
+	name = "Ghali"
+	country = ALG
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L2027
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+2028 = {
+	name = "Ghanem"
+	country = ALG
+	type = land
+	skill = 0
+	max_skill = 3
+	loyalty = 1.00
+	picture = L2028
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+2029 = {
+	name = "Gheisari"
+	country = ALG
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L2029
+	add_trait = defensive_doctrine
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+2030 = {
+	name = "Hamawi"
+	country = ALG
+	type = land
+	skill = 1
+	max_skill = 4
+	loyalty = 1.00
+	picture = L2030
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+2031 = {
+	name = "Hannachi"
+	country = ALG
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L2031
+	add_trait = panzer_leader
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+2032 = {
+	name = "Hawass"
+	country = ALG
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L2032
+	add_trait = landing_specialist
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+2033 = {
+	name = "Husseini"
+	country = ALG
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L2033
+	add_trait = offensive_doctrine
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+2034 = {
+	name = "Iqbal"
+	country = ALG
+	type = land
+	skill = 0
+	max_skill = 3
+	loyalty = 1.00
+	picture = L2034
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+2035 = {
+	name = "Islambouli"
+	country = ALG
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L2035
+	add_trait = frontline_soldier
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+2036 = {
+	name = "Ismat"
+	country = ALG
+	type = land
+	skill = 0
+	max_skill = 4
+	loyalty = 1.00
+	picture = L2036
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+2037 = {
+	name = "Jaber"
+	country = ALG
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L2037
+	add_trait = defensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+2038 = {
+	name = "Jahani"
+	country = ALG
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L2038
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+2039 = {
+	name = "Jarrar"
+	country = ALG
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L2039
+	add_trait = landlubber
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+2040 = {
+	name = "Juhani"
+	country = ALG
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L2040
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+2041 = {
+	name = "Kahveci"
+	country = ALG
+	type = land
+	skill = 2
+	max_skill = 8
+	loyalty = 1.00
+	picture = L2041
+	add_trait = improvisation
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+2042 = {
+	name = "Kashgari"
+	country = ALG
+	type = land
+	skill = 1
+	max_skill = 7
+	loyalty = 1.00
+	picture = L2042
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+2043 = {
+	name = "Khouri"
+	country = ALG
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L2043
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+2044 = {
+	name = "Lalji"
+	country = ALG
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L2044
+	add_trait = commando
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+2045 = {
+	name = "Lutfi"
+	country = ALG
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L2045
+	add_trait = defensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+2046 = {
+	name = "Majid"
+	country = ALG
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L2046
+	add_trait = landing_specialist
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+2047 = {
+	name = "Moeen"
+	country = ALG
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L2047
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+2048 = {
+	name = "Mukhtar"
+	country = ALG
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L2048
+	add_trait = panzer_leader
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+2049 = {
+	name = "Mzali"
+	country = ALG
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L2049
+	add_trait = trickster
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+2050 = {
+	name = "Nabih"
+	country = ALG
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L2050
+	add_trait = commando
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+2051 = {
+	name = "Naeemi"
+	country = ALG
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L2051
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+2052 = {
+	name = "Najibullah"
+	country = ALG
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L2052
+	add_trait = panzer_leader
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+2053 = {
+	name = "Nur"
+	country = ALG
+	type = land
+	skill = 1
+	max_skill = 7
+	loyalty = 1.00
+	picture = L2053
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+2054 = {
+	name = "Obaidullah"
+	country = ALG
+	type = land
+	skill = 1
+	max_skill = 8
+	loyalty = 1.00
+	picture = L2054
+	add_trait = trainer
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+2055 = {
+	name = "Pachachi"
+	country = ALG
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L2055
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+2056 = {
+	name = "Qayyum"
+	country = ALG
+	type = land
+	skill = 1
+	max_skill = 7
+	loyalty = 1.00
+	picture = L2056
+	add_trait = learners_will
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+2057 = {
+	name = "Ramzan"
+	country = ALG
+	type = land
+	skill = 2
+	max_skill = 8
+	loyalty = 1.00
+	picture = L2057
+	add_trait = panzer_leader
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+2058 = {
+	name = "al-Samarrai"
+	country = ALG
+	type = land
+	skill = 1
+	max_skill = 7
+	loyalty = 1.00
+	picture = L2058
+	add_trait = offensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+2059 = {
+	name = "Tayfur"
+	country = ALG
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L2059
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+2060 = {
+	name = "Yakub"
+	country = ALG
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L2060
+	add_trait = fortress_buster
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+2061 = {
+	name = "Wardi"
+	country = ALG
+	type = air
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L2061
+	add_trait = night_flyer
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+2062 = {
+	name = "al-Tusi"
+	country = ALG
+	type = air
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L2062
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+2063 = {
+	name = "Tantawi"
+	country = ALG
+	type = air
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L2063
+	add_trait = tank_buster
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+2064 = {
+	name = "Sidqi"
+	country = ALG
+	type = air
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L2064
+	add_trait = superior_air_tactician
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+2065 = {
+	name = "Shakeel"
+	country = ALG
+	type = air
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L2065
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+2066 = {
+	name = "Sajjad"
+	country = ALG
+	type = air
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = L2066
+	add_trait = tank_buster
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+2067 = {
+	name = "Omar"
+	country = ALG
+	type = air
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L2067
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+2068 = {
+	name = "Nawfal"
+	country = ALG
+	type = air
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L2068
+	add_trait = fleet_destroyer
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+2069 = {
+	name = "Labib"
+	country = ALG
+	type = air
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L2069
+	add_trait = tank_buster
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+2070 = {
+	name = "Kanso"
+	country = ALG
+	type = air
+	skill = 1
+	max_skill = 7
+	loyalty = 1.00
+	picture = L2070
+	add_trait = night_flyer
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+2071 = {
+	name = "Ashraff"
+	country = ALG
+	type = air
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L2071
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+2072 = {
+	name = "al-Atassi"
+	country = ALG
+	type = air
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L2072
+	add_trait = carpet_bomber
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+2073 = {
+	name = "Necib"
+	country = ALG
+	type = sea
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L2073
+	add_trait = superior_tactician
+	history = {
+		1998.1.1 = { rank = 1 }
+		2000.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+2074 = {
+	name = "Ali"
+	country = ALG
+	type = sea
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L2074
+	add_trait = seawolf
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+2075 = {
+	name = "Badri"
+	country = ALG
+	type = sea
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L2075
+	add_trait = spotter
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+2076 = {
+	name = "Darbi"
+	country = ALG
+	type = sea
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L2076
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+2077 = {
+	name = "Fadel"
+	country = ALG
+	type = sea
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L2077
+	add_trait = seawolf
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+2078 = {
+	name = "Ghazali"
+	country = ALG
+	type = sea
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L2078
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+2079 = {
+	name = "Hatem"
+	country = ALG
+	type = sea
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L2079
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+2080 = {
+	name = "Isa"
+	country = ALG
+	type = sea
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L2080
+	add_trait = superior_tactician
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}

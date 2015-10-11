@@ -1,0 +1,6 @@
+owner = TUN
+controller = TUN
+add_core = TUN
+manpower = 0.9
+infra = 6
+

@@ -1,0 +1,729 @@
+in_war = {
+	
+	allow = {
+		industrial_facilities = 1
+	}
+
+	research_bonus_from = {
+		land_doctrine_practical = 1.0
+	}
+	
+	on_completion = land_doctrine_practical
+	
+	difficulty = 20
+	start_year = 2000
+	folder = industry_folder
+}
+
+combat_medicine = {
+
+	casualty_trickleback = 0.01
+
+	allow = {
+		in_war = 1
+	}
+	
+	research_bonus_from = {
+		land_doctrine_practical = 1.0
+	}
+	
+	on_completion = land_doctrine_practical
+	
+	difficulty = 10
+	start_year = 2005
+	first_offset = 2008
+	additional_offset = 2
+	max_level = 15
+	folder = industry_folder
+}	
+
+first_aid = {
+
+	maximum_attrition = -0.05
+
+	allow = {
+		in_war = 1
+	}
+	
+	research_bonus_from = {
+		land_doctrine_practical = 1.0
+	}
+	
+	on_completion = land_doctrine_practical
+	
+	difficulty = 10
+	start_year = 2005
+	first_offset = 2008
+	additional_offset = 2
+	max_level = 15
+	folder = industry_folder
+}	
+
+agriculture_machinery = {
+	
+	research_bonus_from = {
+		mechanicalengineering_theory = 1.0
+	}	
+
+	on_completion = mechanicalengineering_theory
+	
+	difficulty = 20
+	start_year = 2000
+	folder = industry_folder
+}
+
+fertilizers = {
+
+	manpower_gain = 0.05
+	
+	allow = {
+		agriculture_machinery = 1
+	}
+
+	research_bonus_from = {
+		mechanicalengineering_theory = 1.0
+	}
+	
+	on_completion = mechanicalengineering_theory
+	
+	difficulty = 10
+	start_year = 2008
+	first_offset = 2010
+	additional_offset = 2
+	max_level = 15
+	folder = industry_folder
+}	
+
+industrial_facilities = {
+
+	activate_building = industry
+	
+	research_bonus_from = {
+		mechanicalengineering_theory = 0.5
+		construction_practical = 0.5
+	}
+	
+
+	on_completion = mechanicalengineering_theory
+	
+	difficulty = 10
+	start_year = 2000
+	folder = industry_folder
+}
+
+industral_production = {
+
+	ic_modifier = 0.025
+
+	allow = {
+		industrial_facilities = 1
+	}
+	
+	research_bonus_from = {
+		mechanicalengineering_theory = 0.5
+		construction_practical = 0.5
+	}
+	
+	on_completion = mechanicalengineering_theory
+	
+	difficulty = 10
+	start_year = 2005
+	first_offset = 2008
+	additional_offset = 2
+	max_level = 12
+	folder = industry_folder
+}	
+
+industral_efficiency = {
+
+	ic_efficiency = 0.025
+
+	allow = {
+		industrial_facilities = 1
+	}
+	
+	research_bonus_from = {
+		mechanicalengineering_theory = 0.5
+		construction_practical = 0.5
+	}
+	
+	on_completion = mechanicalengineering_theory
+	
+	difficulty = 10
+	start_year = 2005
+	first_offset = 2008
+	additional_offset = 2
+	max_level = 12
+	folder = industry_folder
+}	
+
+military_supplies_production = {
+
+	ic_to_supplies = 0.05
+
+	allow = {
+		industrial_facilities = 1
+	}
+	
+	research_bonus_from = {
+		mechanicalengineering_theory = 1.0
+	}
+	
+	on_completion = mechanicalengineering_theory
+	
+	difficulty = 10
+	start_year = 2005
+	first_offset = 2008
+	additional_offset = 2
+	max_level = 12
+	folder = industry_folder
+}	
+
+radio_surveillance = {
+	
+	activate_building = radar_station	
+	listening_station = yes
+
+	research_bonus_from = {
+		electornicegineering_theory = 0.5
+		mechanicalengineering_theory = 0.5
+	}
+	
+	allow = {
+		industrialization = 1.0
+	}
+
+	on_completion = electornicegineering_theory
+
+	difficulty = 20
+	start_year = 2000
+	folder = industry_folder
+}
+
+computers = {
+
+	research_efficiency = 0.02
+
+	allow = {
+		radio_surveillance = 1
+	}
+	
+	research_bonus_from = {
+		electornicegineering_theory = 1.0
+	}
+	
+	on_completion = electornicegineering_theory
+	
+	difficulty = 10
+	start_year = 2005
+	first_offset = 2008
+	additional_offset = 2
+	max_level = 12
+	folder = industry_folder
+}	
+
+encryption_devices = {
+
+	encryption = 0.1
+	
+	allow = {
+		computers = 1
+		radio_surveillance = 1
+	}
+	
+	research_bonus_from = {
+		electornicegineering_theory = 1.0
+	}
+	
+	on_completion = electornicegineering_theory
+
+	difficulty = 10
+	start_year = 2000
+	first_offset = 2003
+	additional_offset = 2
+	max_level = 12
+	folder = industry_folder
+}
+
+decryption_devices = {
+
+	decryption = 0.1
+	
+	allow = {
+		computers = 1
+		radio_surveillance = 1
+	}
+	
+	research_bonus_from = {
+		electornicegineering_theory = 1.0
+	}
+	
+	on_completion = electornicegineering_theory
+
+	difficulty = 10
+	start_year = 2000
+	first_offset = 2003
+	additional_offset = 2
+	max_level = 12
+	folder = industry_folder
+}		
+
+radios = {
+	
+	combat_efficiency = 0.1
+	encryption = -0.1
+	
+	allow = {
+		radio_surveillance = 1
+	}
+	
+	allow = {
+		industrialization = 1.0
+	}
+
+	research_bonus_from = {
+		electornicegineering_theory  = 0.5
+		mechanicalengineering_theory = 0.5
+	}
+	
+	on_completion = electornicegineering_theory
+
+	difficulty = 10
+	start_year = 2000
+	first_offset = 2003
+	additional_offset = 5
+	max_level = 3
+	folder = industry_folder
+}
+
+radar = {
+
+	radar_efficiency = 0.05
+	
+	allow = {
+		radio_surveillance = 1
+	}
+
+	research_bonus_from = {
+		electornicegineering_theory  = 0.5
+		electornicegineering_practical = 0.5
+	}
+
+	on_completion = electornicegineering_theory
+
+	difficulty = 10
+	start_year = 2000
+	first_offset = 2003
+	additional_offset = 2
+	max_level = 12
+	folder = industry_folder
+}
+
+education = {
+	
+	leadership_gain = 0.02
+	
+	research_bonus_from = {
+		land_doctrine_practical = 1.0
+	}
+	
+	on_completion = land_doctrine_practical
+	
+	difficulty = 10
+	start_year = 2005
+	first_offset = 2008
+	additional_offset = 2
+	max_level = 12
+	folder = industry_folder
+}
+
+
+energy_production = {
+
+	energy_production = 0.05
+
+	allow = {
+		industrial_facilities = 1
+	}
+	
+	research_bonus_from = {
+		chemical_engineering = 1.0
+	}
+
+	on_completion = chemical_engineering
+	
+        difficulty = 10
+	start_year = 2008
+	first_offset = 2010
+	additional_offset = 2
+	max_level = 12
+	folder = industry_folder
+}
+
+oil_refining = {
+
+	refinery_efficiency = 0.1
+
+	allow = {
+		industrial_facilities = 1
+	}
+	
+	research_bonus_from = {
+		chemical_engineering = 1.0
+	}
+
+	on_completion = chemical_engineering
+	
+        difficulty = 10
+	start_year = 2008
+	first_offset = 2010
+	additional_offset = 2
+	max_level = 12
+	folder = industry_folder
+}
+
+rare_metal_production = {
+
+	rares_production = 0.05
+
+	allow = {
+		industrial_facilities = 1
+	}
+	
+	research_bonus_from = {
+		chemical_engineering = 1.0
+	}
+
+	on_completion = chemical_engineering
+	
+        difficulty = 10
+	start_year = 2008
+	first_offset = 2010
+	additional_offset = 2
+	max_level = 12
+	folder = industry_folder
+}
+
+steel_production = {
+
+	metal_production = 0.05
+
+	allow = {
+		industrial_facilities = 1
+	}
+	
+	research_bonus_from = {
+		chemical_engineering = 1.0
+	}
+
+	on_completion = chemical_engineering
+	
+        difficulty = 10
+	start_year = 2008
+	first_offset = 2010
+	additional_offset = 2
+	max_level = 12
+	folder = industry_folder
+}
+
+synthetic_oil = {
+
+	energy_to_oil_conversion = 0.1
+
+	allow = {
+		industrial_facilities = 1
+	}
+	
+	research_bonus_from = {
+		chemical_engineering = 1.0
+	}
+
+	on_completion = chemical_engineering
+
+        difficulty = 16
+	start_year = 2008
+	first_offset = 2010
+	additional_offset = 2
+	max_level = 12
+	folder = industry_folder
+}
+
+
+infra_building = {
+
+	activate_building = infra
+
+	allow = {
+		industrialization = 1
+	}
+	
+	research_bonus_from = {
+		mechanicalengineering_theory = 0.5
+		construction_practical = 0.5
+	}
+
+	on_completion = mechanicalengineering_theory
+
+	difficulty = 20
+	start_year = 2000
+	folder = industry_folder
+}
+
+air_base_building = {
+
+	activate_building = air_base
+
+	allow = {
+		industrialization = 1
+	}
+	
+	research_bonus_from = {
+		mechanicalengineering_theory = 0.5
+		construction_practical = 0.5
+	}
+
+	on_completion = mechanicalengineering_theory
+
+	difficulty = 20
+	start_year = 2000
+	folder = industry_folder
+}	
+
+naval_base_building = {
+
+	activate_building = naval_base
+
+	allow = {
+		industrialization = 1
+	}
+	
+	research_bonus_from = {
+		mechanicalengineering_theory = 0.5
+		construction_practical = 0.5
+	}
+
+	on_completion = mechanicalengineering_theory
+
+	difficulty = 20
+	start_year = 2000
+	folder = industry_folder
+}	
+
+land_fort_building = {
+
+	activate_building = land_fort
+
+	allow = {
+		industrialization = 1
+	}
+	
+	research_bonus_from = {
+		mechanicalengineering_theory = 0.5
+		construction_practical = 0.5
+	}
+
+	on_completion = mechanicalengineering_theory
+
+	difficulty = 20
+	start_year = 2000
+	folder = industry_folder
+}	
+
+coastal_fort_building = {
+
+	activate_building = coastal_fort
+
+	allow = {
+		industrialization = 1
+	}
+	
+	research_bonus_from = {
+		mechanicalengineering_theory = 0.5
+		construction_practical = 0.5
+	}
+
+	on_completion = mechanicalengineering_theory
+
+	difficulty = 20
+	start_year = 2000
+	folder = industry_folder
+}		
+
+supply_transportation = {
+	supply_transfer_cost = -0.01
+
+	allow = {
+		in_war = 1
+	}
+
+	research_bonus_from = {
+		land_doctrine_practical = 1.0
+	}
+
+	on_completion = land_doctrine_practical
+
+        difficulty = 10
+	start_year = 2003
+	first_offset = 2008
+	additional_offset = 2
+	max_level = 12
+	folder = industry_folder	
+}
+
+supply_organisation = {
+	supply_throughput = 0.05
+
+	allow = {
+		in_war = 1
+	}
+
+	research_bonus_from = {
+		land_doctrine_practical = 1.0
+	}
+
+	on_completion = land_doctrine_practical
+	
+        difficulty = 10
+	start_year = 2003
+	first_offset = 2008
+	additional_offset = 2
+	max_level = 12
+	folder = industry_folder	
+}
+
+civil_defence = {
+	repair_rate = 0.05 
+
+	allow = {
+		in_war = 1
+	}	
+
+	research_bonus_from = {
+		land_doctrine_practical = 1.0
+	}
+
+	on_completion = land_doctrine_practical
+
+        difficulty = 10
+	start_year = 2003
+	first_offset = 2008
+	additional_offset = 2
+	max_level = 12
+	folder = industry_folder	
+}
+
+industrialization = {
+	
+	allow = {
+		industral_efficiency = 2
+                industral_production = 2
+	}
+
+	research_bonus_from = {
+		mechanicalengineering_theory = 1.0
+		construction_practical = 1.0
+	}
+	
+	on_completion = mechanicalengineering_theory
+	
+	difficulty = 20
+	start_year = 2000
+	folder = industry_folder
+}
+
+promotion_of_information_technology = {
+	
+	allow = {
+                military_satellite_network = 1
+		industrialization = 1.0
+	}
+
+	research_bonus_from = {
+		electornicegineering_theory = 1.0
+                electornicegineering_practical = 1.0
+	}
+
+	on_completion = electornicegineering_theory
+	
+	difficulty = 30
+	start_year = 2010
+	folder = industry_folder
+}
+
+nuclear_science_and_technology = {
+	
+	research_bonus_from = {
+		nuclear_physics = 1.0
+                nuclear_bomb = 1.0
+	}
+	
+	allow = {
+		industrialization = 1.0
+	}
+
+	on_completion = nuclear_physics
+	
+	difficulty = 30
+	start_year = 2000
+	folder = industry_folder
+}
+
+the_nuclear_industry = {
+
+	allow = {
+		nuclear_science_and_technology = 1
+	}	
+
+	research_bonus_from = {
+		nuclear_physics = 0.5
+                nuclear_bomb = 0.5
+	}
+
+	on_completion = nuclear_physics
+
+        difficulty = 20
+	start_year = 2000
+	first_offset = 2003
+	additional_offset = 2
+	max_level = 12
+	folder = industry_folder	
+}
+
+the_civil_nuclear_power_station = {
+
+	energy_production = 0.30
+
+	allow = {
+		the_nuclear_industry = 2
+	}	
+	
+	research_bonus_from = {
+		nuclear_physics = 1.0
+                nuclear_bomb = 1.0
+	}
+	
+	on_completion = nuclear_physics
+	
+	difficulty = 20
+	start_year = 2000
+	folder = industry_folder
+}
+
+nuclear_reactors = {
+
+	allow = {
+		the_nuclear_industry = 4
+                nuclear_science_and_technology = 1
+	}	
+	
+	research_bonus_from = {
+		nuclear_physics = 1.0
+                nuclear_bomb = 1.0
+	}
+	
+	on_completion = nuclear_physics
+	
+	difficulty = 30
+	start_year = 2000
+	folder = industry_folder
+}

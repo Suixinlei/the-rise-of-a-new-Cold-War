@@ -1,0 +1,9 @@
+owner = AST
+controller = AST
+add_core = AST
+infra = 6
+
+air_base = 4 #RAAF Darwin
+naval_base = 5 #Darwin port
+leadership = 2.50
+points = 1

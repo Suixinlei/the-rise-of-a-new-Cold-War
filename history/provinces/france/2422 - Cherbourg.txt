@@ -1,0 +1,9 @@
+owner = FRA
+controller = FRA
+add_core = FRA
+energy = 3.00
+
+infra = 9
+
+naval_base = 8 #Cherbourg naval base
+points = 1

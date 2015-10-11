@@ -1,0 +1,33 @@
+theatre = {
+	name = "Slovenska Vojska"
+	location = 3565
+	regiment = { type = hq_brigade name = "Slovenska Vojska" historical_model = 2 }
+	corps = {
+		name = "Slovenska Vojska"
+		location = 3631
+		regiment = { type = hq_brigade name = "Slovenska Vojska" historical_model = 2 }
+		division = {
+			is_reserve = yes
+			name = "Posebna Skupina Sile"
+			location = 3698
+			regiment = { type = special_forces_brigade name = "Posebna Skupina Sile" historical_model = 2 }
+		}
+		division = {
+			is_reserve = yes
+			name = "1. Brigada"
+			location = 3565
+			regiment = { type = mechanized_brigade name = "10. Motoriziranega Bataljona 'Sokoli'" historical_model = 0 }
+			regiment = { type = mechanized_brigade name = "20. Motoriziranega Bataljona 'Vitezi'" historical_model = 0 }
+			regiment = { type = mechanized_brigade name = "74. Motoriziranega Bataljona 'Predporocna Hrošci'" historical_model = 0 }
+		}
+		division = {
+			is_reserve = yes
+			name = "72. Brigada"
+			location = 3363
+			regiment = { type = armor_brigade name = "45. Oklepni Bataljon" historical_model = 0 }
+			regiment = { type = mountain_brigade name = "132. Gorski Pehote Bataljon" historical_model = 2 }
+		}
+	}
+	
+}
+			

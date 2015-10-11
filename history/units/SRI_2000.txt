@@ -1,0 +1,538 @@
+theatre = {
+	name = "Sri Lanka Armed Forces"
+	location = 6320
+	regiment = { type = hq_brigade name = "Armed Forces HQ" historical_model = 1 }
+	armygroup = {
+		name = "Sri Lanka Army"
+		location = 6320
+		regiment = { type = hq_brigade name = "Army HQ" historical_model = 1 }
+		army = { 
+			name = "Security Forces Headquarters – Jaffna"
+			location = 6273
+			regiment = { type = hq_brigade name = "SFHQ-J" historical_model = 1 }
+			corps = {
+				name = "51 Division"
+				location = 6273
+				regiment = { type = hq_brigade name = "51 Division HQ" historical_model = 1 }
+				division = {
+					is_reserve = yes
+					name = "51-1 Brigade"
+					location = 6273
+					regiment = { type = infantry_brigade name = "51-1-1 Battalion" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "51-1-2 Battalion" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "51-1-3 Battalion" historical_model = 1 }
+				}
+				division = {
+					is_reserve = yes
+					name = "51-2 Brigade"
+					location = 6273
+					regiment = { type = infantry_brigade name = "51-2-1 Battalion" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "51-2-2 Battalion" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "51-2-3 Battalion" historical_model = 1 }
+				}
+				division = {
+					is_reserve = yes
+					name = "51-3 Brigade"
+					location = 6273
+					regiment = { type = infantry_brigade name = "51-3-1 Battalion" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "51-3-2 Battalion" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "51-3-3 Battalion" historical_model = 1 }
+				}
+				division = {
+					is_reserve = yes
+					name = "51-5 Brigade"
+					location = 6273
+					regiment = { type = infantry_brigade name = "51-5-1 Battalion" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "51-5-2 Battalion" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "51-5-3 Battalion" historical_model = 1 }
+				}
+			}
+			corps = {
+				name = "52 Division"
+				location = 6273
+				regiment = { type = hq_brigade name = "52 Division HQ" historical_model = 1 }
+				division = {
+					is_reserve = yes
+					name = "52-1 Brigade"
+					location = 6273
+					regiment = { type = infantry_brigade name = "52-1-1 Battalion" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "52-1-2 Battalion" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "52-1-3 Battalion" historical_model = 1 }
+				}
+				division = {
+					is_reserve = yes
+					name = "52-2 Brigade"
+					location = 6273
+					regiment = { type = infantry_brigade name = "52-2-1 Battalion" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "52-2-2 Battalion" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "52-2-3 Battalion" historical_model = 1 }
+				}
+				division = {
+					is_reserve = yes
+					name = "52-3 Brigade"
+					location = 6273
+					regiment = { type = infantry_brigade name = "52-3-1 Battalion" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "52-3-2 Battalion" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "52-3-3 Battalion" historical_model = 1 }
+				}
+			}
+			corps = {
+				name = "55 Division"
+				location = 6273
+				regiment = { type = hq_brigade name = "55 Division HQ" historical_model = 1 }
+				division = {
+					is_reserve = yes
+					name = "55-1 Brigade"
+					location = 6273
+					regiment = { type = infantry_brigade name = "55-1-1 Battalion" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "55-1-2 Battalion" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "55-1-3 Battalion" historical_model = 1 }
+				}
+				division = {
+					is_reserve = yes
+					name = "55-2 Brigade"
+					location = 6273
+					regiment = { type = infantry_brigade name = "55-2-1 Battalion" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "55-2-2 Battalion" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "55-2-3 Battalion" historical_model = 1 }
+				}
+				division = {
+					is_reserve = yes
+					name = "55-3 Brigade"
+					location = 6273
+					regiment = { type = infantry_brigade name = "55-3-1 Battalion" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "55-3-2 Battalion" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "55-3-3 Battalion" historical_model = 1 }
+				}
+			}
+		}
+		army = {
+			name = "Security Forces Headquarters – Wanni"
+			location = 6282
+			regiment = { type = hq_brigade name = "SFHQ-W" historical_model = 1 }
+			corps = {
+				name = "56 Division"
+				location = 6282
+				regiment = { type = hq_brigade name = "56 Division HQ" historical_model = 1 }
+				division = {
+					is_reserve = yes
+					name = "56-1 Brigade"
+					location = 6282
+					regiment = { type = infantry_brigade name = "56-1-1 Battalion" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "56-1-2 Battalion" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "56-1-3 Battalion" historical_model = 1 }
+				}
+				division = {
+					is_reserve = yes
+					name = "55-2 Brigade"
+					location = 6282
+					regiment = { type = infantry_brigade name = "56-2-1 Battalion" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "56-2-2 Battalion" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "56-2-3 Battalion" historical_model = 1 }
+				}
+				division = {
+					is_reserve = yes
+					name = "55-3 Brigade"
+					location = 6282
+					regiment = { type = infantry_brigade name = "56-3-1 Battalion" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "56-3-2 Battalion" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "56-3-3 Battalion" historical_model = 1 }
+				}
+			}
+			corps = {
+				name = "61 Division"
+				location = 6282
+				regiment = { type = hq_brigade name = "61 Division HQ" historical_model = 1 }
+				division = {
+					is_reserve = yes
+					name = "61-1 Brigade"
+					location = 6282
+					regiment = { type = infantry_brigade name = "61-1-1 Battalion" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "61-1-2 Battalion" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "61-1-3 Battalion" historical_model = 1 }
+				}
+				division = {
+					is_reserve = yes
+					name = "61-2 Brigade"
+					location = 6282
+					regiment = { type = infantry_brigade name = "61-2-1 Battalion" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "61-2-2 Battalion" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "61-2-3 Battalion" historical_model = 1 }
+				}
+				division = {
+					is_reserve = yes
+					name = "61-3 Brigade"
+					location = 6282
+					regiment = { type = infantry_brigade name = "61-3-1 Battalion" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "61-3-2 Battalion" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "61-3-3 Battalion" historical_model = 1 }
+				}
+			}
+			corps = {
+				name = "21 Division"
+				location = 6282
+				regiment = { type = hq_brigade name = "21 Division HQ" historical_model = 1 }
+				division = {
+					is_reserve = yes
+					name = "21-1 Brigade"
+					location = 6282
+					regiment = { type = infantry_brigade name = "21-1-1 Battalion" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "21-1-2 Battalion" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "21-1-3 Battalion" historical_model = 1 }
+				}
+				division = {
+					is_reserve = yes
+					name = "21-2 Brigade"
+					location = 6282
+					regiment = { type = infantry_brigade name = "21-2-1 Battalion" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "21-2-2 Battalion" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "21-2-3 Battalion" historical_model = 1 }
+				}
+				division = {
+					is_reserve = yes
+					name = "21-3 Brigade"
+					location = 6282
+					regiment = { type = infantry_brigade name = "21-3-1 Battalion" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "21-3-2 Battalion" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "21-3-3 Battalion" historical_model = 1 }
+				}
+			}
+		}
+		army = {
+			name = "Security Forces Headquarters – East"
+			location = 6283
+			regiment = { type = hq_brigade name = "SFQH-E" historical_model = 1 }
+			corps = {
+				name = "22 Division"
+				location = 6283
+				regiment = { type = hq_brigade name = "22 Division HQ" historical_model = 1 }
+				division = {
+					is_reserve = yes
+					name = "22-1 Brigade"
+					location = 6283
+					regiment = { type = infantry_brigade name = "22-1-1 Battalion" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "22-1-2 Battalion" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "22-1-3 Battalion" historical_model = 1 }
+				}
+				division = {
+					is_reserve = yes
+					name = "22-2 Brigade"
+					location = 6283
+					regiment = { type = infantry_brigade name = "22-2-1 Battalion" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "22-2-2 Battalion" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "22-2-3 Battalion" historical_model = 1 }
+				}
+				division = {
+					is_reserve = yes
+					name = "22-3 Brigade"
+					location = 6283
+					regiment = { type = infantry_brigade name = "22-3-1 Battalion" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "22-3-2 Battalion" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "22-3-3 Battalion" historical_model = 1 }
+				}
+			}
+			corps = {
+				name = "23 Division"
+				location = 6304
+				regiment = { type = hq_brigade name = "23 Division HQ" historical_model = 1 }
+				division = {
+					is_reserve = yes
+					name = "23-1 Brigade"
+					location = 6304
+					regiment = { type = infantry_brigade name = "23-1-1 Battalion" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "23-1-2 Battalion" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "23-1-3 Battalion" historical_model = 1 }
+				}
+				division = {
+					is_reserve = yes
+					name = "23-2 Brigade"
+					location = 6304
+					regiment = { type = infantry_brigade name = "23-2-1 Battalion" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "23-2-2 Battalion" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "23-2-3 Battalion" historical_model = 1 }
+				}
+				division = {
+					is_reserve = yes
+					name = "23-3 Brigade"
+					location = 6304
+					regiment = { type = infantry_brigade name = "23-3-1 Battalion" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "23-3-2 Battalion" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "23-3-3 Battalion" historical_model = 1 }
+				}
+			}
+		}
+		army = {
+			name = "Security Forces Headquarters – Kilinochchi"
+			location = 6273
+			regiment = { type = hq_brigade name = "SFHQ-KLN" historical_model = 1 }
+			corps = {
+				name = "57 Division"
+				location = 6273
+				regiment = { type = hq_brigade name = "57 Division HQ" historical_model = 1 }
+				division = {
+					is_reserve = yes
+					name = "57-1 Brigade"
+					location = 6273
+					regiment = { type = infantry_brigade name = "57-1-1 Battalion" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "57-1-2 Battalion" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "57-1-3 Battalion" historical_model = 1 }
+				}
+				division = {
+					is_reserve = yes
+					name = "57-2 Brigade"
+					location = 6273
+					regiment = { type = infantry_brigade name = "57-2-1 Battalion" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "57-2-2 Battalion" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "57-2-3 Battalion" historical_model = 1 }
+				}
+				division = {
+					is_reserve = yes
+					name = "57-3 Brigade"
+					location = 6273
+					regiment = { type = infantry_brigade name = "57-3-1 Battalion" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "57-3-2 Battalion" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "57-3-3 Battalion" historical_model = 1 }
+				}
+			}
+			corps = {
+				name = "66 Division"
+				location = 6273
+				regiment = { type = hq_brigade name = "66 Division HQ" historical_model = 1 }
+				division = {
+					is_reserve = yes
+					name = "66-1 Brigade"
+					location = 6273
+					regiment = { type = infantry_brigade name = "66-1-1 Battalion" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "66-1-2 Battalion" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "66-1-3 Battalion" historical_model = 1 }
+				}
+				division = {
+					is_reserve = yes
+					name = "66-2 Brigade"
+					location = 6273
+					regiment = { type = infantry_brigade name = "66-2-1 Battalion" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "66-2-2 Battalion" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "66-2-3 Battalion" historical_model = 1 }
+				}
+				division = {
+					is_reserve = yes
+					name = "66-3 Brigade"
+					location = 6273
+					regiment = { type = infantry_brigade name = "66-3-1 Battalion" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "66-3-2 Battalion" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "66-3-3 Battalion" historical_model = 1 }
+				}
+			}
+			corps = {
+				name = "68 Division"
+				location = 6273
+				regiment = { type = hq_brigade name = "68 Division HQ" historical_model = 1 }
+				division = {
+					is_reserve = yes
+					name = "68-1 Brigade"
+					location = 6273
+					regiment = { type = infantry_brigade name = "68-1-1 Battalion" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "68-1-2 Battalion" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "68-1-3 Battalion" historical_model = 1 }
+				}
+				division = {
+					is_reserve = yes
+					name = "68-2 Brigade"
+					location = 6273
+					regiment = { type = infantry_brigade name = "68-2-1 Battalion" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "68-2-2 Battalion" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "68-2-3 Battalion" historical_model = 1 }
+				}
+				division = {
+					is_reserve = yes
+					name = "68-3 Brigade"
+					location = 6273
+					regiment = { type = infantry_brigade name = "68-3-1 Battalion" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "68-3-2 Battalion" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "68-3-3 Battalion" historical_model = 1 }
+				}
+			}
+		}
+		army = {
+			name = "Security Forces Headquarters – Mullaittivu"
+			location = 6273
+			regiment = { type = hq_brigade name = "SFHQ-MLT" historical_model = 1 }
+			corps = {
+				name = "59 Division"
+				location = 6273
+				regiment = { type = hq_brigade name = "59 Division HQ" historical_model = 1 }
+				division = {
+					is_reserve = yes
+					name = "59-1 Brigade"
+					location = 6273
+					regiment = { type = infantry_brigade name = "59-1-1 Battalion" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "59-1-2 Battalion" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "59-1-3 Battalion" historical_model = 1 }
+				}
+				division = {
+					is_reserve = yes
+					name = "59-2 Brigade"
+					location = 6273
+					regiment = { type = infantry_brigade name = "59-2-1 Battalion" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "59-2-2 Battalion" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "59-2-3 Battalion" historical_model = 1 }
+				}
+				division = {
+					is_reserve = yes
+					name = "59-3 Brigade"
+					location = 6273
+					regiment = { type = infantry_brigade name = "59-3-1 Battalion" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "59-3-2 Battalion" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "59-3-3 Battalion" historical_model = 1 }
+				}
+			}
+			corps = {
+				name = "64 Division"
+				location = 6273
+				regiment = { type = hq_brigade name = "64 Division HQ" historical_model = 1 }
+				division = {
+					is_reserve = yes
+					name = "64-1 Brigade"
+					location = 6273
+					regiment = { type = infantry_brigade name = "64-1-1 Battalion" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "64-1-2 Battalion" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "64-1-3 Battalion" historical_model = 1 }
+				}
+				division = {
+					is_reserve = yes
+					name = "64-2 Brigade"
+					location = 6273
+					regiment = { type = infantry_brigade name = "64-2-1 Battalion" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "64-2-2 Battalion" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "64-2-3 Battalion" historical_model = 1 }
+				}
+				division = {
+					is_reserve = yes
+					name = "64-3 Brigade"
+					location = 6273
+					regiment = { type = infantry_brigade name = "64-3-1 Battalion" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "64-3-2 Battalion" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "64-3-3 Battalion" historical_model = 1 }
+				}
+			}
+			corps = {
+				name = "65 Division"
+				location = 6273
+				regiment = { type = hq_brigade name = "65 Division HQ" historical_model = 1 }
+				division = {
+					is_reserve = yes
+					name = "65-1 Brigade"
+					location = 6273
+					regiment = { type = infantry_brigade name = "65-1-1 Battalion" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "65-1-2 Battalion" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "65-1-3 Battalion" historical_model = 1 }
+				}
+				division = {
+					is_reserve = yes
+					name = "65-2 Brigade"
+					location = 6273
+					regiment = { type = infantry_brigade name = "65-2-1 Battalion" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "65-2-2 Battalion" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "65-2-3 Battalion" historical_model = 1 }
+				}
+				division = {
+					is_reserve = yes
+					name = "65-3 Brigade"
+					location = 6273
+					regiment = { type = infantry_brigade name = "65-3-1 Battalion" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "65-3-2 Battalion" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "65-3-3 Battalion" historical_model = 1 }
+				}
+			}
+		}
+		army = {
+			name = "Security Forces Headquarters – South"
+			location = 6320
+			regiment = { type = hq_brigade name = "SFHQ-S" historical_model = 1 }
+			corps = {
+				name = "11 Division"
+				location = 6320
+				regiment = { type = hq_brigade name = "11 Division HQ" historical_model = 1 }
+				division = {
+					is_reserve = yes
+					name = "11-1 Brigade"
+					location = 6320
+					regiment = { type = infantry_brigade name = "11-1-1 Battalion" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "11-1-2 Battalion" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "11-1-3 Battalion" historical_model = 1 }
+				}
+				division = {
+					is_reserve = yes
+					name = "11-2 Brigade"
+					location = 6320
+					regiment = { type = infantry_brigade name = "11-2-1 Battalion" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "11-2-2 Battalion" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "11-2-3 Battalion" historical_model = 1 }
+				}
+				division = {
+					is_reserve = yes
+					name = "11-3 Brigade"
+					location = 6320
+					regiment = { type = infantry_brigade name = "11-3-1 Battalion" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "11-3-2 Battalion" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "11-3-3 Battalion" historical_model = 1 }
+				}
+			}
+		}
+		division = {
+			is_reserve = yes
+			name = "Air Mobile Brigade"
+			location = 6320
+			regiment = { type = air_cavalry_brigade name = "1st Battalion" historical_model = 1 }
+			regiment = { type = air_cavalry_brigade name = "5th/7th Battalion" historical_model = 1 }
+		}
+		division = {
+			is_reserve = yes
+			name = "Mechanized Brigade"
+			location = 6320
+			regiment = { type = mechanized_brigade name = "1st Battalion" historical_model = 0 }
+			regiment = { type = mechanized_brigade name = "2nd Battalion" historical_model = 0 }
+			regiment = { type = mechanized_brigade name = "3rd Battalion" historical_model = 0 }
+		}
+		division = {
+			is_reserve = yes
+			name = "Armored Brigade"
+			location = 6320
+			regiment = { type = armor_brigade name = "1st Battalion" historical_model = 0 }
+			regiment = { type = armor_brigade name = "2nd Battalion" historical_model = 0 }
+			regiment = { type = armor_brigade name = "3rd Battalion" historical_model = 0 }
+		}
+		division = {
+			is_reserve = yes
+			name = "Special Forces Brigade"
+			location = 6320
+			regiment = { type = special_forces_brigade name = "1st Battalion" historical_model = 1 }
+			regiment = { type = special_forces_brigade name = "2nd Battalion" historical_model = 1 }
+			regiment = { type = special_forces_brigade name = "3rd Battalion" historical_model = 1 }
+		}
+		division = {
+			is_reserve = yes
+			name = "Commando Brigade"
+			location = 6320
+			regiment = { type = special_forces_brigade name = "1st Battalion" historical_model = 1 }
+			regiment = { type = special_forces_brigade name = "2nd Battalion" historical_model = 1 }
+			regiment = { type = special_forces_brigade name = "3rd Battalion" historical_model = 1 }
+		}
+	}
+	
+	air = {
+	name = "No. 5 'Jet' Squadron"
+	base = 6320
+	location = 6320
+	wing = { type = interceptor name = "No. 5 'Jet' Squadron" historical_model = 0 }
+	}
+	
+	navy = {
+	name = "Sri Lankan Navy"
+	base = 6320
+	location = 6320
+	ship = { type = patrol_boat name = "SLNS Nandimithra" historical_model = 0 }
+	ship = { type = patrol_boat name = "SLNS Suranimala" historical_model = 0 }
+	}
+}
+			

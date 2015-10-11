@@ -1,0 +1,9 @@
+owner = SER
+controller = SER
+add_core = SER
+add_core = CRO
+
+infra = 7
+
+air_base = 1 #Sombor airbase
+points = 1

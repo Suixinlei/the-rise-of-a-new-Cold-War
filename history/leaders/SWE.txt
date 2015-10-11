@@ -1,0 +1,486 @@
+155001 = {
+	name = "Anderberg"
+	country = SWE
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L155001
+	history = {
+		2000.1.1 = { rank = 2 }
+	}
+}
+155002 = {
+	name = "Andersson B"
+	country = SWE
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L155002
+	history = {
+		2000.1.1 = { rank = 2 }
+	}
+}
+155003 = {
+	name = "Andersson J"
+	country = SWE
+	type = air
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L155003
+	add_trait = carpet_bomber
+	history = {
+		2000.1.1 = { rank = 2 }
+	}
+}
+155004 = {
+	name = "Berndtson"
+	country = SWE
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L155004
+	history = {
+		2000.1.1 = { rank = 3 }
+	}
+}
+155005 = {
+	name = "Brännström"
+	country = SWE
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L155005
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+155006 = {
+	name = "Carell"
+	country = SWE
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L155006
+	add_trait = winter_specialist
+	history = {
+		2009.1.1 = { rank = 1 }
+	}
+}
+155007 = {
+	name = "Engelbrektson"
+	country = SWE
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L155007
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+155008 = {
+	name = "Fant"
+	country = SWE
+	type = air
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L155007
+	history = {
+		2003.1.1 = { rank = 2 }
+		2006.1.1 = { rank = 3 }
+	}
+}
+155009 = {
+	name = "Frank"
+	country = SWE
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L155009
+	add_trait = swamp_fox
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+155010 = {
+	name = "Green"
+	country = SWE
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L155010
+	history = {
+		2000.1.1 = { rank = 3 }
+	}
+}
+155011 = {
+	name = "Grundevik"
+	country = SWE
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L155011
+	history = {
+		2005.1.1 = { rank = 1 }
+		2007.1.1 = { rank = 2 }
+	}
+}
+155012 = {
+	name = "Hallin"
+	country = SWE
+	type = land
+	skill = 2
+	max_skill = 6
+	picture = L155012
+	loyalty = 1.00
+	add_trait = tank_buster
+	history = {
+		2013.1.1 = { rank = 1 }
+	}
+}
+155013 = {
+	name = "Hedén"
+	country = SWE
+	type = land
+	skill = 2
+	max_skill = 6
+	picture = L155013
+	loyalty = 1.00
+	add_trait = marine
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+155014 = {
+	name = "Isberg"
+	country = SWE
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L155014
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+155015 = {
+	name = "Jonsson"
+	country = SWE
+	type = air
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L155015
+	add_trait = fleet_destroyer
+	history = {
+		2000.1.1 = { rank = 3 }
+	}
+}
+155016 = {
+	name = "Karlson"
+	country = SWE
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L155016
+	history = {
+		2000.1.1 = { rank = 2 }
+	}
+}
+155017 = {
+	name = "Koserius"
+	country = SWE
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L155017
+	history = {
+		2000.1.1 = { rank = 2 }
+	}
+}
+155018 = {
+	name = "Kristiansson"
+	country = SWE
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L155018
+	add_trait = landlubber
+	history = {
+		2000.1.1 = { rank = 2 }
+	}
+}
+155019 = {
+	name = "Lindström"
+	country = SWE
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L15019
+	history = {
+		2000.1.1 = { rank = 3 }
+	}
+}
+155020 = {
+	name = "Lodin"
+	country = SWE
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L15020
+	history = {
+		2008.1.1 = { rank = 2 }
+	}
+}
+155021 = {
+	name = "Melin"
+	country = SWE
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L155021
+	add_trait = frontline_soldier
+	history = {
+		2000.1.1 = { rank = 3 }
+	}
+}
+155022 = {
+	name = "Moore"
+	country = SWE
+	type = air
+	skill = 2 
+	max_skill = 6
+	loyalty = 1.00
+	picture = L155022
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+155023 = {
+	name = "Neretnieks"
+	country = SWE
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L155023
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+155024 = {
+	name = "Nilsson"
+	country = SWE
+	type = air
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L155024
+	add_trait = fleet_destroyer
+	history = {
+		2000.1.1 = { rank = 3 }
+	}
+}
+155025 = {
+	name = "Salestrand"
+	country = SWE
+	type = air
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L155025
+	history = {
+		2003.1.1 = { rank = 1 }
+		2005.1.1 = { rank = 2 }
+		2007.1.1 = { rank = 3 }
+	}
+}
+155026 = {
+	name = "Sandqvist"
+	country = SWE
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L155026
+	history = {
+		2000.1.1 = { rank = 2 }
+	}
+}
+155027 = {
+	name = "Stigsson"
+	country = SWE
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L155027
+	add_trait = marine
+	history = {
+		2000.1.1 = { rank = 2 }
+	}
+}
+155028 = {
+	name = "Björkman"
+	country = SWE
+	type = sea
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L155028
+	history = {
+		2000.1.1 = { rank = 2 }
+	}
+}
+155029 = {
+	name = "Engdahl"
+	country = SWE
+	type = sea
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L155029
+	history = {
+		2000.1.1 = { rank = 2 }
+	}
+}
+155030 = {
+	name = "Ericsson"
+	country = SWE
+	type = sea
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L155030
+	add_trait = superior_tactician
+	history = {
+		2000.1.1 = { rank = 2 }
+	}
+}
+155031 = {
+	name = "Grenstad"
+	country = SWE
+	type = sea
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L155031
+	history = {
+		2000.1.1 = { rank = 2 }
+	}
+}
+155032 = {
+	name = "Larsbrink"
+	country = SWE
+	type = sea
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L155032
+	history = {
+		2000.1.1 = { rank = 2 }
+	}
+}
+155033 = {
+	name = "Nylander"
+	country = SWE
+	type = sea
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L155033
+	add_trait = blockade_runner
+	history = {
+		2000.1.1 = { rank = 2 }
+	}
+}
+155034 = {
+	name = "Rosenius"
+	country = SWE
+	type = sea
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L155034
+	history = {
+		2000.1.1 = { rank = 3 }
+	}
+}
+155035 = {
+	name = "Thörnqvist"
+	country = SWE
+	type = sea
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L155035
+	add_trait = blockade_runner
+	history = {
+		2010.1.1 = { rank = 1 }
+	}
+}
+155036 = {
+	name = "Sagrén"
+	country = SWE
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L155036
+	history = {
+		2000.1.1 = { rank = 3 }
+	}
+}
+155037 = {
+	name = "Axelsson"
+	country = SWE
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L155037
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+155038 = {
+	name = "Bengtsson"
+	country = SWE
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L155038
+	add_trait = ranger
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+155039 = {
+	name = "Claesson"
+	country = SWE
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L155039
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}

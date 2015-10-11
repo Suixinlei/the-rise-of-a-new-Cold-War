@@ -1,0 +1,7 @@
+owner = PAA
+controller = PAA
+add_core = PAA
+
+infra = 3
+naval_base = 1
+points = 2

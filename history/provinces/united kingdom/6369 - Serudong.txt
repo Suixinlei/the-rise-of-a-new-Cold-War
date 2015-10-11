@@ -1,0 +1,6 @@
+owner = MLY
+controller = MLY
+add_core = MLY
+crude_oil = 15.00
+infra = 4
+

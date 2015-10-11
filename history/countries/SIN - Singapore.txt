@@ -1,0 +1,50 @@
+capital = 6394
+government = republic
+ideology = social_conservative
+head_of_state = 80600
+head_of_government = 80601
+foreign_minister = 80604
+armament_minister = 80603
+minister_of_security = 80602
+minister_of_intelligence = 80602
+chief_of_staff = 80601
+chief_of_army = 80601
+chief_of_navy = 80605
+chief_of_air = 80606
+alignment = { x = 0 y = 50 }
+neutrality = 80
+national_unity = 70
+oob = "SIN_2000.txt"
+
+popularity = { 
+	national_socialist = 0
+	fascistic = 0
+	paternal_autocrat = 0
+	social_conservative = 75
+	market_liberal = 8
+	social_liberal = 6
+	social_democrat = 3
+	left_wing_radical = 6
+	leninist = 0
+	stalinist = 0
+}
+
+organization = { 
+	national_socialist = 0
+	fascistic = 0
+	paternal_autocrat = 0
+	social_conservative = 150
+	market_liberal = 24
+	social_liberal = 18
+	social_democrat = 9
+	left_wing_radical = 18
+	leninist = 0
+	stalinist = 0
+}
+
+conscription_policy = military_service
+press_laws = limited_censorship
+mobilisation_level = peace_time
+civil_laws = open_society
+service_length = eighteen_months
+economic_policy = lais_fair

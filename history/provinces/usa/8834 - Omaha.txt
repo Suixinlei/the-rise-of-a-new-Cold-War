@@ -1,0 +1,7 @@
+owner = USA
+controller = USA
+add_core = USA
+infra = 8
+air_base = 3 #Offut airbase
+points = 1
+rare_materials = 5.00

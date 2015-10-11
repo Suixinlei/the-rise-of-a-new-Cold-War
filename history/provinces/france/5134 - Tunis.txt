@@ -1,0 +1,12 @@
+owner = TUN
+controller = TUN
+add_core = TUN
+industry = 2
+infra = 7
+manpower = 2.00
+leadership = 2.50
+energy = 1.00
+
+air_base = 2 #Tunis airport and Sidi Ahmed airbase
+naval_base = 4 #Tunis port
+points = 1

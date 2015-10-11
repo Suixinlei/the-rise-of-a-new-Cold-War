@@ -1,0 +1,8 @@
+#Philipville
+owner = BEL
+controller = BEL
+add_core = BEL
+
+terrain = forest
+
+infra = 6

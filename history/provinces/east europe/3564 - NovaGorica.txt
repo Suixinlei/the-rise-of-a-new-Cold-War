@@ -1,0 +1,7 @@
+owner = SLV
+controller = SLV
+add_core = SLV
+
+
+infra = 8
+

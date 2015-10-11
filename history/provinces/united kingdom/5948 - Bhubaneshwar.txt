@@ -1,0 +1,6 @@
+owner = IND
+controller = IND
+add_core = IND
+infra = 6
+naval_base = 9 #Paradip port
+points = 1

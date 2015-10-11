@@ -1,0 +1,7 @@
+owner = UAE
+
+controller = UAE
+
+add_core = UAE
+
+infra = 4

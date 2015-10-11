@@ -1,0 +1,9 @@
+owner = NZL
+controller = NZL
+add_core = NZL
+infra = 8
+
+air_base = 1 #Christchurch airport
+naval_base = 2 #Lyttelton port
+leadership = 2.50
+points = 1

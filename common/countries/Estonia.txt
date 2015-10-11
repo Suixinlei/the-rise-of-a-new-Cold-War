@@ -1,0 +1,469 @@
+color = { 76  157  195 }
+graphical_culture = Generic
+last_election = 1999.3.7
+duration = 48
+
+default_templates = {
+	generic_infantry = {
+		infantry_brigade
+		infantry_brigade
+		infantry_brigade
+	}
+	generic_milita = {
+		militia_brigade
+		militia_brigade
+		militia_brigade
+	}
+	generic_armoured = {
+		armor_brigade
+		motorized_brigade
+		motorized_brigade
+	}
+	generic_cavalry = {
+		cavalry_brigade
+		cavalry_brigade
+	}
+}
+
+unit_names = {
+
+}
+
+
+ministers = {
+	26501 = {
+		name = "Arnold Rüütel"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M26501
+		head_of_state = hazardous_clean
+		start_date = 2000.1.1
+	}
+	26502 = {
+		name = "Toomas Savi"
+		ideology = market_liberal
+		loyalty = 1.00
+		picture = M26502
+		head_of_state = industrial_specialist
+		start_date = 2000.1.1
+	}
+	26503 = {
+		name = "Ene Ergma"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M26503
+		head_of_state = theoretical_scientist
+		start_date = 2003.1.1
+	}
+	26504 = {
+		name = "Toomas Hendrik Ilves"
+		ideology = social_democrat
+		loyalty = 1.00
+		picture = M26504
+		head_of_state = indecisive_politician
+		start_date = 2000.1.1
+	}
+	26505 = {
+		name = "Indrek Tarand"
+		ideology = social_liberal
+		loyalty = 1.00
+		picture = M26505
+		head_of_state = backroom_backstabber
+		start_date = 2000.1.1
+	}
+	26506 = {
+		name = "Siim Kallas"
+		ideology = market_liberal
+		loyalty = 1.00
+		picture = M26506
+		head_of_government = logistics_specialist
+		foreign_minister = talented_and_concealed
+		start_date = 2000.1.1
+	}
+	26507 = {
+		name = "Juhan Parts"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M26507
+		head_of_government = corporate_suit
+		start_date = 2000.1.1
+	}
+	26508 = {
+		name = "Andrus Ansip"
+		ideology = market_liberal
+		loyalty = 1.00
+		picture = M26508
+		head_of_government = apologetic_clerk
+		start_date = 2004.1.1
+	}
+	26509 = {
+		name = "Kristiina Ojuland"
+		ideology = market_liberal
+		loyalty = 1.00
+		picture = M26509
+		foreign_minister = good_connections
+		start_date = 2000.1.1
+	}
+	26510 = {
+		name = "Rein Lang"
+		ideology = market_liberal
+		loyalty = 1.00
+		picture = M26510
+		foreign_minister = prince_of_terror
+		start_date = 2005.1.1
+	}
+	26511 = {
+		name = "Urmas Paet"
+		ideology = market_liberal
+		loyalty = 1.00
+		picture = M26511
+		foreign_minister = biased_intellectual
+		start_date = 2005.1.1
+	}
+	26512 = {
+		name = "Sven Mikser"
+		ideology = social_liberal
+		loyalty = 1.00
+		picture = M26512
+		armament_minister = autocratic_charmer
+		start_date = 2000.1.1
+	}
+	26513 = {
+		name = "Margus Hanson"
+		ideology = market_liberal
+		loyalty = 1.00
+		picture = M26513
+		armament_minister = service_enforcer
+		start_date = 2000.1.1
+	}
+	26514 = {
+		name = "Jaak Jõerüüt"
+		ideology = market_liberal
+		loyalty = 1.00
+		picture = M26514
+		armament_minister = silent_workhorse
+		start_date = 2004.1.1
+	}
+	26515 = {
+		name = "Jürgen Ligi"
+		ideology = market_liberal
+		loyalty = 1.00
+		picture = M26515
+		armament_minister = efficient_sociopath
+		start_date = 2005.1.1
+	}
+	26516 = {
+		name = "Jaak Aaviksoo"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M26516
+		armament_minister = service_enforcer
+		start_date = 2007.1.1
+	}
+	26517 = {
+		name = "Mart Laar"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M26517
+		armament_minister = elastic_defence_doctrine
+		start_date = 2000.1.1
+	}
+	26518 = {
+		name = "Urmas Reinsalu"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M26518
+		armament_minister = man_of_the_people
+		start_date = 2012.1.1
+	}
+	26519 = {
+		name = "Ain Seppik"
+		ideology = social_liberal
+		loyalty = 1.00
+		picture = M26519
+		minister_of_security = technical_specialist
+		start_date = 2000.1.1
+	}
+	26520 = {
+		name = "Toomas Varek"
+		ideology = social_liberal
+		loyalty = 1.00
+		picture = M26520
+		minister_of_security = weary_stiff_neck
+		start_date = 2003.1.1
+	}
+	26521 = {
+		name = "Margus Leivo"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M26521
+		minister_of_security = political_protege
+		start_date = 2000.1.1
+	}
+	26522 = {
+		name = "Kalle Laanet"
+		ideology = social_liberal
+		loyalty = 1.00
+		picture = M26522
+		minister_of_security = laissez_faires_capitalist
+		start_date = 2005.1.1
+	}
+	26523 = {
+		name = "Jüri Pihl"
+		ideology = social_democrat
+		loyalty = 1.00
+		picture = M26523
+		minister_of_security = backroom_backstabber
+		minister_of_intelligence = biased_intellectual
+		start_date = 2000.1.1
+	}
+	26524 = {
+		name = "Marko Pomerants"
+		ideology = market_liberal
+		loyalty = 1.00
+		picture = M26524
+		minister_of_security = prince_of_terror
+		start_date = 2000.1.1
+	}
+	26525 = {
+		name = "Ken-Marti Vaher"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M26525
+		minister_of_security = political_specialist
+		start_date = 2011.1.1
+	}
+	26526 = {
+		name = "Jüri Ratas"
+		ideology = social_liberal
+		loyalty = 1.00
+		picture = M26526
+		head_of_government = tempered_speaker
+		start_date = 2000.1.1
+	}
+	26527 = {
+		name = "Edgar Savisaar"
+		ideology = social_liberal
+		loyalty = 1.00
+		picture = M26527
+		foreign_minister = undistinguished_suit
+		start_date = 2000.1.1
+	}
+	26528 = {
+		name = "Tunne Kelam"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M26528
+		foreign_minister = man_of_the_people
+		start_date = 2000.1.1
+	}
+	26529 = {
+		name = "Ivari Padar"
+		ideology = social_democrat
+		loyalty = 1.00
+		picture = M26529
+		head_of_government = prince_of_terror
+		start_date = 2000.1.1
+	}
+	26530 = {
+		name = "Peeter Kreitzberg"
+		ideology = social_democrat 
+		loyalty = 1.00
+		picture = M26530
+		armament_minister = flamboyant_tough_guy
+		start_date = 2000.1.1
+	}
+	26531 = {
+		name = "Mark Soosaar"
+		ideology = social_democrat
+		loyalty = 1.00
+		picture = M26531
+		foreign_minister = industry_servant
+		start_date = 2000.1.1
+	}
+	26532 = {
+		name = "Tiit Toomsalu"
+		ideology = leninist
+		loyalty = 1.0
+		picture = M26532
+		head_of_state = research_specialist
+		start_date = 2000.1.1
+	}
+	26533 = {
+		name = "Sirje Kingsepp"
+		ideology = leninist
+		loyalty = 1.00
+		picture = M26533
+		head_of_government = iron_fisted_brute
+		start_date = 2000.1.1
+	}
+	26534 = {
+		name = "Sergei Jürgens"
+		ideology = leninist
+		loyalty = 1.00
+		picture = M26534
+		foreign_minister = flamboyant_tough_guy
+		start_date = 2000.1.1
+	}
+	26535 = {
+		name = "Heino Rüütel"
+		ideology = leninist
+		loyalty = 1.00
+		picture = M26535
+		armament_minister = army_aviation_doctrine
+		start_date = 2000.1.1
+	}
+	26536 = {
+		name = "Vello Leito"
+		ideology = fascistic
+		loyalty = 1.00
+		picture = M26536
+		head_of_state = silent_workhorse
+		start_date = 2000.1.1
+	}
+	26537 = {
+		name = "Tauno Rahnu"
+		ideology = fascistic
+		loyalty = 1.00
+		picture = M26537
+		head_of_government = unexperienced_diplomat
+		start_date = 2000.1.1
+	}
+	26538 = {
+		name = "Risto Teinonen"
+		ideology = fascistic
+		loyalty = 1.00
+		picture = M26538
+		minister_of_security = staunch_capitalist
+		start_date = 2000.1.1
+	}
+	26539 = {
+		name = "Stanislav Tšerepanov"
+		ideology = paternal_autocrat
+		loyalty = 1.00
+		picture = M26539
+		head_of_government = fanatical_academic
+		start_date = 2000.1.1
+	}
+	26540 = {
+		name = "Aldis Alus"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M26540
+		minister_of_intelligence = ruthless_powermonger
+		start_date = 2003.1.1
+	}
+	26541 = {
+		name = "Raivo Aeg"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M26541
+		minister_of_intelligence = popular_figurehead
+		start_date = 2008.1.1
+	}
+	26542 = {
+		name = "Arnold Sinisalu"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M26542
+		minister_of_intelligence = benevolent_gentleman
+		start_date = 2013.1.1
+	}
+	26543 = {
+		name = "Tarmo Kõuts"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M26543
+		chief_of_staff = patriot
+		start_date = 2000.1.1
+	}
+	26544 = {
+		name = "Ants Laaneots"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M26544
+		chief_of_staff = logistics_specialist
+		start_date = 2006.1.1
+	}
+	26545 = {
+		name = "Riho Terras"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M26545
+		chief_of_staff = service_enforcer
+		start_date = 2011.1.1
+	}
+	26546 = {
+		name = "Indrek Sirel"
+		ideology = social_conservative 
+		loyalty = 1.00
+		picture = M26546
+		chief_of_army = school_of_mass_combat
+		start_date = 2000.1.1
+	}
+	26547 = {
+		name = "Artur Tiganik"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M26547
+		chief_or_army = school_of_defence
+		start_date = 2008.1.1
+	}
+	26548 = {
+		name = "Teo Krüüner"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M26548
+		chief_of_air = vertical_envelopment_doctrine
+		start_date = 2000.1.1
+	}
+	26549 = {
+		name = "Mart Vendla"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M26549
+		chief_of_air = strategic_air_proponent
+		start_date = 2004.1.1
+	}
+	26550 = {
+		name = "Valeri Saar"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M26550
+		chief_of_air = air_superiority_proponent
+		start_date = 2005.1.1
+	}
+	26551 = {
+		name = "Rauno Sirk"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M26551
+		chief_of_air = talented_recruiter
+		start_date = 2006.1.1
+	}
+	26552 = {
+		name = "Jaak Tarien"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M26552
+		chief_of_air = guns_and_butter_doctrine
+		start_date = 2012.1.1
+	}
+	26553 = {
+		name = "Igor Schvede"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M26553
+		chief_of_navy = battle_fleet_proponent
+		start_date = 2000.1.1
+	}
+	26554 = {
+		name = "Sten Sepper"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M26554
+		chief_of_navy = naval_aviation_doctrine
+		start_date = 2013.1.1
+	}
+}
+

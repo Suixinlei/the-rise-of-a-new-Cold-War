@@ -1,0 +1,13 @@
+owner = POL
+controller = POL
+add_core = POL
+metal = 4.00
+industry = 10.00
+infra = 10
+manpower = 1.10
+air_base = 5 #Chopin airport
+leadership = 2.50
+points = 1
+energy = 40.00
+metal = 20.00
+rare_materials = 15.00

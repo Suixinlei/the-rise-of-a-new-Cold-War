@@ -1,0 +1,10 @@
+owner = SLO
+controller = SLO
+add_core = SLO
+industry = 2
+infra = 10
+manpower = 0.5
+metal = 4.00
+air_base = 2 #Malacky airbase
+leadership = 2.50
+points = 1

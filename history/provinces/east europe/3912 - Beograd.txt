@@ -1,0 +1,10 @@
+owner = SER
+controller = SER
+add_core = SER
+energy = 4.00
+manpower = 0.5
+infra = 8
+
+air_base = 10 #Nikola Tesla airport and Batajnica and Kovin airbase
+leadership = 2.50
+points = 1

@@ -1,0 +1,10 @@
+owner = SUD
+controller = SUD
+add_core = SUD
+infra = 6
+manpower = 5.00
+air_base = 1 #Port Sudan airbase
+naval_base = 6 #Port Sudan
+leadership = 0.50
+points = 1
+industry = 2

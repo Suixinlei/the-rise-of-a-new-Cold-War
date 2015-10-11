@@ -1,0 +1,96 @@
+color = { 62  129  155 }
+graphical_culture = Generic
+
+last_election = 1999.3.8
+duration = 48
+
+default_templates = {
+	generic_infantry = {
+		infantry_brigade
+		infantry_brigade
+		infantry_brigade
+	}
+	generic_milita = {
+		militia_brigade
+		militia_brigade
+		militia_brigade
+	}
+	generic_armoured = {
+		armor_brigade
+		motorized_brigade
+		motorized_brigade
+	}
+	generic_cavalry = {
+		cavalry_brigade
+		cavalry_brigade
+	}
+}
+
+unit_names = {
+	infantry_brigade = {
+		"1. Infanteridivisjon" "2. Infanteridivisjon" "3. Infanteridivisjon" "4. Infanteridivisjon" "5. Infanteridivisjon" "6. Infanteridivisjon" "7. Infanteridivisjon" "8. Infanteridivisjon" "9. Infanteridivisjon" "10. Infanteridivisjon" 
+	}
+	cavalry_brigade = {
+		"1. Dragondivisjon" "2. Dragondivisjon" "3. Dragondivisjon" "4. Dragondivisjon" "5. Dragondivisjon" "6. Dragondivisjon" 
+	}
+	motorized_brigade = {
+		"1. Motoriserte Infanteridivisjon" "2. Motoriserte Infanteridivisjon" "3. Motoriserte Infanteridivisjon" "4. Motoriserte Infanteridivisjon" "5. Motoriserte Infanteridivisjon" "6. Motoriserte Infanteridivisjon" 
+	}
+	mechanized_brigade = {
+		"1. Mekaniserte Infanteridivisjon" "2. Mekaniserte Infanteridivisjon" "3. Mekaniserte Infanteridivisjon" "4. Mekaniserte Infanteridivisjon" "5. Mekaniserte Infanteridivisjon" "6. Mekaniserte Infanteridivisjon" 
+	}
+	light_armor_brigade = {
+		"1. Panser Divisjon" "2. Panser Divisjon" "3. Panser Divisjon" "4. Panser Divisjon" "5. Panser Divisjon" 
+	}
+	armor_brigade = {
+		"1. Panser Divisjon" "2. Panser Divisjon" "3. Panser Divisjon" "4. Panser Divisjon" "5. Panser Divisjon" 
+	}
+	paratrooper_brigade = {
+		"1. Fallskjermsjegerdivisjon" "2. Fallskjermsjegerdivisjon" "3. Fallskjermsjegerdivisjon" "4. Fallskjermsjegerdivisjon" "5. Fallskjermsjegerdivisjon" 
+	}
+	marine_brigade = {
+		"1. Marineinfanteri Divisjon" "2. Marineinfanteri Divisjon" "3. Marineinfanteri Divisjon" "4. Marineinfanteri Divisjon" "5. Marineinfanteri Divisjon" 
+	}
+	bergsjaeger_brigade = {
+		"1. Bergdivisjon" "2. Bergdivisjon" "3. Bergdivisjon" "4. Bergdivisjon" "5. Bergdivisjon" 
+	}
+	garrison_brigade = {
+		"1. Infanteridivisjon" "2. Infanteridivisjon" "3. Infanteridivisjon" "4. Infanteridivisjon" "5. Infanteridivisjon" "6. Infanteridivisjon" "7. Infanteridivisjon" "8. Infanteridivisjon" "9. Infanteridivisjon" "10. Infanteridivisjon" 
+	}
+	hq_brigade = {
+		"1. Hær" "2. Hær" 
+	}
+	militia_brigade = {
+		"Heimevernets 1. Divisjon" "Heimevernets 2. Divisjon" "Heimevernets 3. Divisjon" "Heimevernets 4. Divisjon" "Heimevernets 5. Divisjon" 
+	}
+	multi_role = {
+		"1. Jagergruppe" "2. Jagergruppe" "3. Jagergruppe" "4. Jagergruppe" "5. Jagergruppe" 
+	}
+	interceptor = {
+		"1. Jagergruppe" "2. Jagergruppe" "3. Jagergruppe" "4. Jagergruppe" "5. Jagergruppe" 
+	}
+	strategic_bomber = {
+		"1. Strategiske Flyvegruppe" "2. Strategiske Flyvegruppe" "3. Strategiske Flyvegruppe" "4. Strategiske Flyvegruppe" "5. Strategiske Flyvegruppe" 
+	}
+	tactical_bomber = {
+		"1. Taktiske Flyvegruppe" "2. Taktiske Flyvegruppe" "3. Taktiske Flyvegruppe" "4. Taktiske Flyvegruppe" "5. Taktiske Flyvegruppe" 
+	}
+	naval_bomber = {
+		"Marinens 1. Bombeflygruppe" "Marinens 2. Bombeflygruppe" "Marinens 3. Bombeflygruppe" "Marinens 4. Bombeflygruppe" "Marinens 5. Bombeflygruppe" 
+	}
+	cas = {
+		"Hærens 1. Bombeflygruppe" "Hærens 2. Bombeflygruppe" "Hærens 3. Bombeflygruppe" "Hærens 4. Bombeflygruppe" "Hærens 5. Bombeflygruppe" 
+	}
+	transport_plane = {
+		"Hærens 1. Transportgruppe" "Hærens 2. Transportgruppe" "Hærens 3. Transportgruppe" "Hærens 4. Transportgruppe" "Hærens 5. Transportgruppe" 
+	}
+	destroyer = {
+		"1. Destroyereskadre" "2. Destroyereskadre" "3. Destroyereskadre" "4. Destroyereskadre" "5. Destroyereskadre" 
+	}
+	transport_ship = {
+		"Marinens 1. Transporteskadre" "Marinens 2. Transporteskadre" "Marinens 3. Transporteskadre" "Marinens 4. Transporteskadre" "Marinens 5. Transporteskadre" 
+	}
+
+}
+
+ministers = { }

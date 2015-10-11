@@ -1,0 +1,81 @@
+theatre = {
+	name = "Forças Armadas Portuguesas"
+	location = 4644
+	regiment = { type = hq_brigade name = "Forças Armadas Portuguesas" historical_model = 2 }
+	corps = {
+		name = "Exército Português"
+		location = 4644
+		regiment = { type = hq_brigade name = "Exército Português" historical_model = 2 }
+		division = {
+			is_reserve = yes
+			name = "Brigada Mecanizada"
+			location = 4645
+			regiment = { type = armor_brigade name = "Grupo de Carros de Combate" historical_model = 0 }
+			regiment = { type = mechanized_brigade name = "1º Batalhão de Infantaria Mecanizada" historical_model = 0 }
+			regiment = { type = mechanized_brigade name = "2º Batalhão de Infantaria Mecanizada" historical_model = 0 }
+		}
+		division = {
+			is_reserve = yes
+			name = "Brigada de Intervenção"
+			location = 4405
+			regiment = { type = armor_brigade name = "Grupo de Auto-Metralhadoras" historical_model = 0 }
+			regiment = { type = mechanized_brigade name = "1º Batalhão de Infantaria" historical_model = 0 }
+			regiment = { type = mechanized_brigade name = "2º Batalhão de Infantaria" historical_model = 0 }
+		}
+		division = {
+			is_reserve = yes
+			name = "Brigada de Reação Rápida"
+			location = 4645
+			regiment = { type = special_forces_brigade name = "Força de Operações Especiais" historical_model = 2 }
+			regiment = { type = paratrooper_brigade name = "1º Batalhão de Infantaria Paraquedista" historical_model = 2 }
+			regiment = { type = paratrooper_brigade name = "2º Batalhão de Infantaria Paraquedista" historical_model = 2 }
+		}
+		division = {
+			is_reserve = yes
+			name = "Zona Militar dos Açores"
+			location = 8970
+			regiment = { type = garrison_brigade name = "Regimento de Guarnição nº 1" historical_model = 2 }
+			regiment = { type = garrison_brigade name = "Regimento de Guarnição nº 2" historical_model = 2 }
+		}
+		division = {
+			is_reserve = yes
+			name = "Zona Militar da Madeira"
+			location = 11384
+			regiment = { type = garrison_brigade name = "Regimento de Guarnição nº 3" historical_model = 2 }
+		}
+	}
+	
+	navy = {
+	name = "Marinha Portuguesa"
+	base = 4644
+	location = 4644
+	ship = { type = heavy_cruiser name = "NRP Vasco da Gama" historical_model = 1 }
+	ship = { type = heavy_cruiser name = "NRP Álvares Cabral" historical_model = 1 }
+	ship = { type = heavy_cruiser name = "NRP Corte-Real" historical_model = 1 }
+	ship = { type = light_cruiser name = "NRP Baptista de Andrade" historical_model = 0 }
+	ship = { type = light_cruiser name = "NRP João Roby" historical_model = 0 }
+	ship = { type = light_cruiser name = "NRP Afonso Cerqueira" historical_model = 0 }
+	ship = { type = light_cruiser name = "NRP António Enes" historical_model = 0 }
+	ship = { type = light_cruiser name = "NRP João Coutinho" historical_model = 0 }
+	ship = { type = light_cruiser name = "NRP Jacinto Cândido" historical_model = 0 }
+	ship = { type = light_cruiser name = "NRP General Pereira D'Eça" historical_model = 0 }
+	ship = { type = invasion_transport_ship name = "NRP Bombarda" historical_model = 0 }
+	}
+	
+	air = {
+	name = "Air Base No. 6"
+	base = 4750
+	location = 4750
+	wing = { type = transport_plane name = "Esquadra 501 'Bisontes'" historical_model = 0 }
+	}
+	
+	air = {
+	name = "Air Base No. 5"
+	base = 4406
+	location = 4406
+	wing = { type = multi_role name = "Esquadra 201 'Falcões'" historical_model = 0 }
+	wing = { type = multi_role name = "Esquadra 301 'Jaguares'" historical_model = 0 }
+	}
+}
+	
+	

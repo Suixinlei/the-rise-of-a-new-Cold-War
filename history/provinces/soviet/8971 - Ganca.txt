@@ -1,0 +1,5 @@
+owner = AZB
+controller = AZB
+add_core = AZB
+infra = 6
+air_base = 6 #Ganja and Dollyar airbase

@@ -1,0 +1,426 @@
+77001 = {
+	name = "Finn"
+	country = IRE
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L77001
+	add_trait = marine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+77002 = {
+	name = "Bowie"
+	country = IRE
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L77002
+	add_trait = commando
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+77003 = {
+	name = "Burns"
+	country = IRE
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L77003
+	add_trait = old_guard
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+77004 = {
+	name = "Corcoran"
+	country = IRE
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L77004
+	add_trait = frontline_soldier
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+77005 = {
+	name = "Doohan"
+	country = IRE
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 0.00
+	picture = L77005
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+77006 = {
+	name = "Gallagher"
+	country = IRE
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L77006
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+77007 = {
+	name = "Gordon"
+	country = IRE
+	type = land
+	skill = 1
+	max_skill = 7
+	loyalty = 1.00
+	picture = L77007
+	add_trait = landing_specialist
+	add_trait = learners_will
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+77008 = {
+	name = "Campbell"
+	country = IRE
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L77008
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+77009 = {
+	name = "Aherne"
+	country = IRE
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L77009
+	add_trait = engineer
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+77010 = {
+	name = "Hanly"
+	country = IRE
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L77010
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+77011 = {
+	name = "Hegarty"
+	country = IRE
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L77011
+	add_trait = trickster
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+77012 = {
+	name = "James"
+	country = IRE
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L77012
+	add_trait = offensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+77013 = {
+	name = "McGuire"
+	country = IRE
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L77013
+	add_trait = offensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+77014 = {
+	name = "Pakenham"
+	country = IRE
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L77014
+	add_trait = hard_defender
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+77015 = {
+	name = "Hanrahan"
+	country = IRE
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 1.00
+	picture = L77015
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+77016 = {
+	name = "Hyland"
+	country = IRE
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L77016
+	add_trait = engineer
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+77017 = {
+	name = "O'Boyle"
+	country = IRE
+	type = land
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L77017
+	history = {
+		1995.1.1 = { rank = 1 }
+		1998.1.1 = { rank = 2 }
+		2001.1.1 = { rank = 3 }
+		2003.1.1 = { rank = 4 }
+	}
+}
+77018 = {
+	name = "Kilworth"
+	country = IRE
+	type = land
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L77018
+	add_trait = defensive_doctrine
+	history = {
+		1998.1.1 = { rank = 1 }
+		2001.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+77019 = {
+	name = "McCann"
+	country = IRE
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L77019
+	add_trait = assaulter
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+77020 = {
+	name = "Trousdell"
+	country = IRE
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L77020
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+77021 = {
+	name = "McAtee"
+	country = IRE
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 1.00
+	picture = L77021
+	add_trait = landlubber
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+77022 = {
+	name = "McLaughlin"
+	country = IRE
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 0.00
+	picture = L77022
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+77023 = {
+	name = "Nevin"
+	country = IRE
+	type = land
+	skill = 1
+	max_skill = 7
+	loyalty = 1.00
+	picture = L77023
+	add_trait = learners_will
+	add_trait = logistics_wizard
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+77024 = {
+	name = "Ormond"
+	country = IRE
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 1.00
+	picture = L77024
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+77025 = {
+	name = "Phelan"
+	country = IRE
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 0.00
+	picture = L77025
+	add_trait = commando
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+77026 = {
+	name = "Sweeney"
+	country = IRE
+	type = air
+	skill = 0
+	max_skill = 5
+	loyalty = 1.00
+	picture = L77026
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+77027 = {
+	name = "Paterson"
+	country = IRE
+	type = air
+	skill = 1
+	max_skill = 6
+	loyalty = 0.00
+	picture = L77027
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+77028 = {
+	name = "Fry"
+	country = IRE
+	type = air
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L77028
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+77029 = {
+	name = "Mains"
+	country = IRE
+	type = air
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L77029
+	add_trait = night_flyer
+	add_trait = superior_air_tactician
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+77030 = {
+	name = "McGeachie"
+	country = IRE
+	type = sea
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L77030
+	add_trait = spotter
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+77031 = {
+	name = "Keogh"
+	country = IRE
+	type = sea
+	skill = 1
+	max_skill = 6
+	loyalty = 0.00
+	picture = L77031
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+77032 = {
+	name = "Kavanagh"
+	country = IRE
+	type = sea
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L77032
+	add_trait = blockade_runner
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+77033 = {
+	name = "Mellett"
+	country = IRE
+	type = sea
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L77033
+	add_trait = superior_tactician
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}

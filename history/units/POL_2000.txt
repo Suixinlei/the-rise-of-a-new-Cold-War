@@ -1,0 +1,208 @@
+theatre = {
+	name = "Sily Zbrojne Rzeczypospolitej Polskiej"
+	location = 1928
+	regiment = { type = hq_brigade name = "Sily Zbrojne Rzeczypospolitej Polskiej" historical_model = 2 }
+	army = {
+		name = "Wojska Ladowe"
+		location = 1928
+		regiment = { type = hq_brigade name = "Wojska Ladowe" historical_model = 2 }
+		division = {
+			is_reserve = yes
+			name = "Rekonesans Brygada"
+			location = 1810
+			regiment = { type = mechanized_brigade name = "18-ta Rekonesans Pulk" historical_model = 0 }
+			regiment = { type = mechanized_brigade name = "2-ga Rekonesans Pulk" historical_model = 0 }
+			regiment = { type = mechanized_brigade name = "9-ga Rekonesans Pulk" historical_model = 0 }
+		}
+		division = {
+			is_reserve = yes
+			name = "Niezalezne Pulki Wsparcia"
+			location = 1629
+			regiment = { type = infantry_brigade name = "1 Batalion" historical_model = 2 }
+			regiment = { type = artillery_brigade name = "11 Pulk Artylerii" historical_model = 0 }
+			regiment = { type = engineer_brigade name = "1-cia Inzynier Pulk" historical_model = 0 }
+		}
+		division = {
+			is_reserve = yes
+			name = "6-gi Brygada Spadochronowa"
+			location = 2445
+			regiment = { type = paratrooper_brigade name = "6-gi Powietrzu Batalionu" historical_model = 2 }
+			regiment = { type = paratrooper_brigade name = "16-ty Powietrzu Batalionu" historical_model = 2 }
+			regiment = { type = paratrooper_brigade name = "18-ta Powietrzu Batalionu" historical_model = 2 }
+		}
+		division = {
+			is_reserve = yes
+			name = "21-gie Brygady Podhalanskiej Karabiny"
+			location = 2507
+			regiment = { type = armor_brigade name = "1-cia Tank Batalion" historical_model = 0 }
+			regiment = { type = mountain_brigade name = "1-cia Podhale Batalion Karabinów" historical_model = 2 }
+			regiment = { type = mountain_brigade name = "5-szy Podhale Batalion Karabinów" historical_model = 2 }
+		}	
+		division = {
+			is_reserve = yes
+			name = "25-sza Powietrze Brygada Kawalerii"
+			location = 2216
+			regiment = { type = air_cavalry_brigade name = "1-cia Chevauleger Eskadra" historical_model = 2 }
+			regiment = { type = air_cavalry_brigade name = "7-sze Ulan 'Lublin' Eskadra" historical_model = 2 }
+			regiment = { type = air_cavalry_brigade name = "11 Ulan 'Legion' Eskadra" historical_model = 2 }
+			regiment = { type = attack_helicopter_brigade name = "49-cie Pulk Smiglowiec Bojowy" historical_model = 0 }
+		}	
+		corps = {
+			name = "11 Dywizja Pancerna Kawaleria"
+			location = 2210
+			regiment = { type = hq_brigade name = "11 Dywizja Pancerna Kawaleria" historical_model = 2 }
+			division = {
+				is_reserve = yes
+				name = "10-ga Pancerna Brygada Kawalerii"
+				location = 2210
+				regiment = { type = armor_brigade name = "1-cia Tank Batalion" historical_model = 0 }
+				regiment = { type = armor_brigade name = "24-ta Ulan Szwadronu" historical_model = 0 }
+				regiment = { type = mechanized_brigade name = "10-ga Dragonów Zmechanizowanych Szwadronów" historical_model = 0 }
+			}
+			division = {
+				is_reserve = yes
+				name = "34-ci Pancerna Brygada Kawalerii"
+				location = 2210
+				regiment = { type = armor_brigade name = "1-cia Tank Batalion" historical_model = 0 }
+				regiment = { type = armor_brigade name = "2-ga Tank Batalion" historical_model = 0 }
+				regiment = { type = mechanized_brigade name = "Batalion Zmechanizowany" historical_model = 0 }
+			}
+			division = {
+				is_reserve = yes
+				name = "17-gi Brygada Zmechanizowana"
+				location = 2036
+				regiment = { type = mechanized_brigade name = "1-cia Zmotoryzowany Batalion Piechoty" historical_model = 0 }
+				regiment = { type = mechanized_brigade name = "7-sze Zamontowany Batalion Strzelców" historical_model = 0 }
+				regiment = { type = mechanized_brigade name = "15-sza Ulan Szwadronu" historical_model = 0 }
+			}
+		}
+		corps = {
+			name = "12 Dywizja Zmechanizowana"
+			location = 1742
+			regiment = { type = hq_brigade name = "12 Dywizja Zmechanizowana" historical_model = 2 }
+			division = {
+				is_reserve = yes
+				name = "2-ga 'Legion' Brygada Zmechanizowana"
+				location = 1863
+				regiment = { type = armor_brigade name = "Tank Batalion" historical_model = 0 }
+				regiment = { type = mechanized_brigade name = "1-cia Batalion Zmechanizowany" historical_model = 0 }
+				regiment = { type = mechanized_brigade name = "2-ga Batalion Zmechanizowany" historical_model = 0 }
+			}
+			division = {
+				is_reserve = yes
+				name = "7-sze Brygady Obrony Wybrzeza"
+				location = 1684
+				regiment = { type = mechanized_brigade name = "1-cia Batalion Zmechanizowany" historical_model = 0 }
+				regiment = { type = mechanized_brigade name = "1-cia Batalion Zmechanizowany 'Leborski'" historical_model = 0 }
+				regiment = { type = mechanized_brigade name = "3-cia Batalion Zmechanizowany" historical_model = 0 }
+			}
+			division = {
+				is_reserve = yes
+				name = "12. Brygady Zmechanizowanej"
+				location = 2036
+				regiment = { type = mechanized_brigade name = "1-cia Zmotoryzowany Batalion Piechoty" historical_model = 0 }
+				regiment = { type = mechanized_brigade name = "3-cia Zmotoryzowany Batalion Piechoty" historical_model = 0 }
+				regiment = { type = mechanized_brigade name = "14-ci Ulan Szwadronu" historical_model = 0 }
+			}
+		}
+		corps = {
+			name = "16 Dywizja Zmechanizowana"
+			location = 1686
+			regiment = { type = hq_brigade name = "16 Dywizja Zmechanizowana" historical_model = 2 }
+			division = {
+				is_reserve = yes
+				name = "1-cia 'Warszawa' Brygada Pancerna"
+				location = 1928
+				regiment = { type = armor_brigade name = "1-cia Tank Batalion" historical_model = 0 }
+				regiment = { type = mechanized_brigade name = "1-cia Batalion Zmechanizowany" historical_model = 0 }
+				regiment = { type = mechanized_brigade name = "3-cia Batalion Zmechanizowany" historical_model = 0 }
+			}
+			division = {
+				is_reserve = yes
+				name = "9-ga Pancerna Brygada Kawalerii"
+				location = 1627
+				regiment = { type = armor_brigade name = "1-cia Tank Batalion" historical_model = 0 }
+				regiment = { type = armor_brigade name = "2-ga Tank Batalion" historical_model = 0 }
+				regiment = { type = mechanized_brigade name = "3-cia Batalion Zmechanizowany" historical_model = 0 }
+			}
+			division = {
+				is_reserve = yes
+				name = "15-sza Brygada Zmechanizowana"
+				location = 1628
+				regiment = { type = armor_brigade name = "1-cia Tank Batalion" historical_model = 0 }
+				regiment = { type = mechanized_brigade name = "1-cia Batalion Zmechanizowany" historical_model = 0 }
+				regiment = { type = mechanized_brigade name = "2-ga Batalion Zmechanizowany" historical_model = 0 }
+			}
+			division = {
+				is_reserve = yes
+				name = "20-te Brygada Zmechanizowana"
+				location = 1574
+				regiment = { type = armor_brigade name = "1-cia Tank Batalion" historical_model = 0 }
+				regiment = { type = mechanized_brigade name = "1-cia Batalion Zmechanizowany" historical_model = 0 }
+				regiment = { type = mechanized_brigade name = "16-ty Batalion Zmechanizowany" historical_model = 0 }
+			}
+		}
+	}
+	
+	navy = {
+		name = "Flotylla Statków 3-cia"
+		base = 1626
+		location = 1626
+		ship = { type = heavy_cruiser name = "ORP General Tadeusz Kosciuszko" historical_model = 0 }
+		ship = { type = heavy_cruiser name = "ORP General Kazimierz Pulaski" historical_model = 0 }
+		ship = { type = submarine name = "ORP Kondor" historical_model = 0 }
+		ship = { type = submarine name = "ORP Sep" historical_model = 0 }
+		ship = { type = submarine name = "ORP Sokol" historical_model = 0 }
+		ship = { type = submarine name = "ORP Bielik" historical_model = 0 }
+		ship = { type = submarine name = "ORP Orzel" historical_model = 0 }
+		ship = { type = patrol_boat name = "ORP Grom" historical_model = 1 }
+		ship = { type = patrol_boat name = "ORP Orkan" historical_model = 1 }
+		ship = { type = patrol_boat name = "ORP Piorun" historical_model = 1 }
+		ship = { type = light_cruiser name = "ORP Metalowiec" historical_model = 0 }
+		ship = { type = light_cruiser name = "ORP Rolnik" historical_model = 0 }
+		ship = { type = light_cruiser name = "ORP Kaszub" historical_model = 0 }
+	}
+	
+	navy = {
+		name = "Flotylla Obrony Wybrzeza 8-sza"
+		base = 1742
+		location = 1742
+		ship = { type = assault_ship name = "ORP Lublin" historical_model = 0 }
+		ship = { type = assault_ship name = "ORP Gniezno" historical_model = 0 }
+		ship = { type = assault_ship name = "ORP Krakow" historical_model = 0 }
+		ship = { type = assault_ship name = "ORP Poznan" historical_model = 0 }
+		ship = { type = assault_ship name = "ORP Torun" historical_model = 0 }
+		ship = { type = invasion_transport_ship name = "Deba I" historical_model = 0 }
+		ship = { type = invasion_transport_ship name = "Deba II" historical_model = 0 }
+		ship = { type = invasion_transport_ship name = "Deba III" historical_model = 0 }
+	}
+	
+	air = {
+		name = "Wielo Ról Grupa"
+		base = 1744
+		location = 1744
+		wing = { type = multi_role name = "1-cia Mysliwiec Skrzydlo" historical_model = 0 }
+		wing = { type = multi_role name = "2-ga Mysliwiec Skrzydlo" historical_model = 0 }
+	}
+	
+	air = {
+		name = "Przechwytujacych Grupa"
+		base = 1626
+		location = 1626
+		wing = { type = interceptor name = "3-cia Mysliwiec Skrzydlo" historical_model = 0 }
+	}
+	
+	air = {
+		name = "Grupa Wsparcia Powietrze"
+		base = 1863
+		location = 1863
+		wing = { type = cas name = "Skrzydlo Wsparcie z Powietrza" historical_model = 0 }
+	}
+	
+	air = {
+		name = "Transport Skrzydlo"
+		base = 2036
+		location = 2036
+		wing = { type = transport_plane name = "Transport Skrzydlo" historical_model = 0 }
+	}
+}

@@ -1,0 +1,6 @@
+owner = VIE
+controller = VIE
+add_core = VIE
+infra = 6
+air_base = 2 #Thanh Hoa and Anh Soa airbase
+points = 1

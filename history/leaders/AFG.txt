@@ -1,0 +1,979 @@
+1 = {
+	name = "Kareem"
+	country = AFG
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 0.00
+	picture = L1
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+2 = {
+	name = "Kahn"
+	country = AFG
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L2
+	add_trait = logistics_wizard
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+3 = {
+	name = "Hamid"
+	country = AFG
+	type = land
+	skill = 2
+	max_skill = 8
+	loyalty = 1.00
+	picture = L3
+	add_trait = trainer
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+4 = {
+	name = "Faizi"
+	country = AFG
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L4
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+5 = {
+	name = "Ghori"
+	country = AFG
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 0.00
+	picture = L5
+	add_trait = hard_defender
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+6 = {
+	name = "Habibi"
+	country = AFG
+	type = land
+	skill = 1
+	max_skill = 7
+	loyalty = 1.00
+	picture = L6
+	add_trait = commando
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+7 = {
+	name = "Barat"
+	country = AFG
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L7
+	add_trait = frontline_soldier
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+8 = {
+	name = "Basir"
+	country = AFG
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 0.00
+	picture = L8
+	add_trait = old_guard
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+9 = {
+	name = "Amarkhel"
+	country = AFG
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L9
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+10 = {
+	name = "Kowbandi"
+	country = AFG
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L10
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+11 = {
+	name = "Malouk"
+	country = AFG
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L11
+	add_trait = fortress_buster
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+12 = {
+	name = "Agah"
+	country = AFG
+	type = land
+	skill = 1
+	max_skill = 7
+	loyalty = 1.00
+	picture = L12
+	add_trait = panzer_leader
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+13 = {
+	name = "Mohammed"
+	country = AFG
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L13
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+14 = {
+	name = "Naiz"
+	country = AFG
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L14
+	add_trait = learners_will
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+15 = {
+	name = "Noorzai"
+	country = AFG
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L15
+	add_trait = improvisation
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+16 = {
+	name = "Tullah"
+	country = AFG
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L16
+	add_trait = engineer
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+17 = {
+	name = "Waisa"
+	country = AFG
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L17
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+18 = {
+	name = "Razik"
+	country = AFG
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 0.00
+	picture = L18
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+19 = {
+	name = "Shah"
+	country = AFG
+	type = land
+	skill = 1
+	max_skill = 7
+	loyalty = 1.00
+	picture = L19
+	add_trait = panzer_leader
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+20 = {
+	name = "Z. Kahn"
+	country = AFG
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L20
+	add_trait = offensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+21 = {
+	name = "Zarifi"
+	country = AFG
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L21
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+22 = {
+	name = "Zarzai"
+	country = AFG
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L22
+	add_trait = old_guard
+	add_trait = frontline_soldier
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+23 = {
+	name = "Zia"
+	country = AFG
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 0.00
+	picture = L23
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+24 = {
+	name = "A. Karim"
+	country = AFG
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L24
+	add_trait = assaulter
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+25 = {
+	name = "Bromand"
+	country = AFG
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L25
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+26 = {
+	name = "D. Kahn"
+	country = AFG
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 0.00
+	picture = L26
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+27 = {
+	name = "D. Mohammad"
+	country = AFG
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L27
+	add_trait = commando
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+28 = {
+	name = "Mustafa"
+	country = AFG
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L28
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+29 = {
+	name = "Naibi"
+	country = AFG
+	type = land
+	skill = 1
+	max_skill = 7
+	loyalty = 1.00
+	picture = L29
+	add_trait = learners_will
+	add_trait = panzer_leader
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+30 = {
+	name = "Shujaee"
+	country = AFG
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L30
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+31 = {
+	name = "Jabarkhil"
+	country = AFG
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 1.00
+	picture = L31
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+32 = {
+	name = "Samadi"
+	country = AFG
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 0.00
+	picture = L32
+	add_trait = frontline_soldier
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+33 = {
+	name = "Qazi"
+	country = AFG
+	type = land
+	skill = 0
+	max_skill = 6
+	loyalty = 1.00
+	picture = L33
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34 = {
+	name = "Hashimi"
+	country = AFG
+	type = land
+	skill = 0
+	max_skill = 6
+	loyalty = 1.00
+	picture = L34
+	add_trait = panzer_leader
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+35 = {
+	name = "Qureshi"
+	country = AFG
+	type = land
+	skill = 0
+	max_skill = 6
+	loyalty = 0.00
+	picture = L35
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+36 = {
+	name = "Siddiqi"
+	country = AFG
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 0.00
+	picture = L36
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+37 = {
+	name = "Ahmadi"
+	country = AFG
+	type = land
+	skill = 0
+	max_skill = 6
+	loyalty = 1.00
+	picture = L37
+	add_trait = frontline_soldier
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+38 = {
+	name = "Jamalzadah"
+	country = AFG
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 0.00
+	picture = L38
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+39 = {
+	name = "A. Sherzai"
+	country = AFG
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 0.00
+	picture = L39
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+40 = {
+	name = "M. Sherzai"
+	country = AFG
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L40
+	add_trait = improvisation
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+41 = {
+	name = "Ali"
+	country = AFG
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 1.00
+	picture = L41
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+42 = {
+	name = "Azizi"
+	country = AFG
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 0.00
+	picture = L42
+	add_trait = assaulter
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+43 = {
+	name = "Abdul"
+	country = AFG
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L43
+	add_trait = trickster
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+44 = {
+	name = "Sherzai"
+	country = AFG
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L44
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+45 = {
+	name = "Gul"
+	country = AFG
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 0.00
+	picture = L45
+	add_trait = defensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+46 = {
+	name = "Badakhshi"
+	country = AFG
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L46
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+47 = {
+	name = "Hotaki"
+	country = AFG
+	type = land
+	skill = 0
+	max_skill = 6
+	loyalty = 0.00
+	picture = L47
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+48 = {
+	name = "A. Karzai"
+	country = AFG
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 0.00
+	picture = L48
+	add_trait = old_guard
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+49 = {
+	name = "M. Karzai"
+	country = AFG
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L49
+	add_trait = engineer
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+50 = {
+	name = "Sadati"
+	country = AFG
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 0.00
+	picture = L50
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+51 = {
+	name = "H. Shinwari"
+	country = AFG
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 0.00
+	picture = L51
+	add_trait = defensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+52 = {
+	name = "Popalzai"
+	country = AFG
+	type = land
+	skill = 1
+	max_skill = 7
+	loyalty = 1.00
+	picture = L52
+	add_trait = trainer
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+53 = {
+	name = "Qaderi"
+	country = AFG
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 1.00
+	picture = L53
+	add_trait = improvisation
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+54 = {
+	name = "Nazari"
+	country = AFG
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 0.00
+	picture = L54
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+55 = {
+	name = "Sohal"
+	country = AFG
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L55
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+56 = {
+	name = "Afridi"
+	country = AFG
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L56
+	add_trait = fortress_buster
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+57 = {
+	name = "Afghan"
+	country = AFG
+	type = land
+	skill = 1
+	max_skill = 7
+	loyalty = 1.00
+	picture = L57
+	add_trait = hard_defender
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+58 = {
+	name = "Akram"
+	country = AFG
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 0.00
+	picture = L58
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+59 = {
+	name = "Ansary"
+	country = AFG
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 1.00
+	picture = L59
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+60 = {
+	name = "Rahmani"
+	country = AFG
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 0.00
+	picture = L60
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+61 = {
+	name = "Breshna"
+	country = AFG
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 0.00
+	picture = L61
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+62 = {
+	name = "Baktash"
+	country = AFG
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 0.00
+	picture = L62
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+63 = {
+	name = "Ehsanmand"
+	country = AFG
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L63
+	add_trait = logistics_wizard
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+64 = {
+	name = "Fani"
+	country = AFG
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L64
+	add_trait = trickster
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+65 = {
+	name = "Ghubar"
+	country = AFG
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 0.00
+	picture = L65
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+66 = {
+	name = "Hosseini"
+	country = AFG
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L66
+	add_trait = frontline_soldier
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+67 = {
+	name = "Jalal"
+	country = AFG
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L67
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+68 = {
+	name = "Karimi"
+	country = AFG
+	type = land
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L68
+	add_trait = frontline_soldier
+	add_trait = engineer
+	history = {
+		1995.1.1 = { rank = 1 }
+		1999.1.1 = { rank = 2 }
+		2001.1.1 = { rank = 3 }
+		2003.1.1 = { rank = 4 }
+	}
+}
+69 = {
+	name = "Patyani"
+	country = AFG
+	type = land
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L69
+	add_trait = trickster
+	history = {
+		1998.1.1 = { rank = 1 }
+		2001.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+70 = {
+	name = "Daud"
+	country = AFG
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L70
+	add_trait = defensive_doctrine
+	history = {
+		1998.1.1 = { rank = 1 }
+		2001.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+71 = {
+	name = "Hamdard"
+	country = AFG
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L71
+	add_trait = improvisation
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+72 = {
+	name = "Wardak"
+	country = AFG
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L72
+	add_trait = logistics_wizard
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+73 = {
+	name = "Jawed"
+	country = AFG
+	type = air
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L73
+	add_trait = night_flyer
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+74 = {
+	name = "Khalili"
+	country = AFG
+	type = air
+	skill = 0
+	max_skill = 5
+	loyalty = 1.00
+	picture = L74
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+75 = {
+	name = "Parwani"
+	country = AFG
+	type = air
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L75
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+76 = {
+	name = "Uberti"
+	country = AFG
+	type = air
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L76
+	add_trait = tank_buster
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+77 = {
+	name = "Dawran"
+	country = AFG
+	type = air
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L77
+	add_trait = superior_air_tactician
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}

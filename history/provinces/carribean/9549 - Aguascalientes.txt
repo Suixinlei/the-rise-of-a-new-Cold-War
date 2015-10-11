@@ -1,0 +1,10 @@
+owner = MEX
+controller = MEX
+add_core = MEX
+
+metal = 10.00
+infra = 7
+industry = 7
+manpower = 10.00
+terrain = urban
+air_base = 2 #Guadalajara airport

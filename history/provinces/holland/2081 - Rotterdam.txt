@@ -1,0 +1,13 @@
+owner = HOL
+controller = HOL
+add_core = HOL
+manpower = 0.7
+infra = 9
+industry = 3
+rare_materials = 3.00
+terrain = plains
+
+ 
+naval_base = 10 #Rotterdam port
+leadership = 2.50
+points = 1

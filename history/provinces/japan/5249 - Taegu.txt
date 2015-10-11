@@ -1,0 +1,10 @@
+owner = KOR
+
+controller = KOR
+
+add_core = KOR
+energy = 5.00
+infra = 6
+leadership = 1.00
+air_base = 6 #Daegu airbase
+industry = 5

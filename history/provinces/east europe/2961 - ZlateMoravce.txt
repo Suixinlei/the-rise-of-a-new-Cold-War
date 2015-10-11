@@ -1,0 +1,9 @@
+owner = SLO
+controller = SLO
+add_core = SLO
+
+infra = 7
+
+air_base = 2 #Sliac airbase
+leadership = 2.50
+points = 1

@@ -1,0 +1,9 @@
+owner = EGU
+controller = EGU
+add_core = EGU
+
+infra = 4
+
+air_base = 3 #Malabo airbase
+naval_base = 1 #Malabo port
+points = 1

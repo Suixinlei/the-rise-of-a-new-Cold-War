@@ -1,0 +1,8 @@
+owner = CAN
+controller = CAN
+add_core = CAN
+infra = 6
+
+naval_base = 3 #Saint John port
+leadership = 2.50
+points = 1

@@ -1,0 +1,43 @@
+capital = 4429
+government = republic
+ideology = social_liberal
+alignment = { x = 0 y = -20 }
+neutrality = 80
+national_unity = 80
+
+popularity = { 
+	national_socialist = 0
+	fascistic = 9
+	paternal_autocrat = 26
+	social_conservative = 16
+	market_liberal = 0
+	social_liberal = 26
+	social_democrat = 20
+	left_wing_radical = 13
+	leninist = 13
+	stalinist = 0
+}
+
+organization = { 
+	national_socialist = 0
+	fascistic = 27
+	paternal_autocrat = 78
+	social_conservative = 48
+	market_liberal = 0
+	social_liberal = 78
+	social_democrat = 60
+	left_wing_radical = 39
+	leninist = 39
+	stalinist = 0
+}
+
+service_length = six_months
+
+
+industrial_facilities = 1
+industral_production = 1
+industral_efficiency = 1
+weapon_design = 1
+the_fuselage_design = 1
+main_battle_tank = 1
+ship_hull = 1

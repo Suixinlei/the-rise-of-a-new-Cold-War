@@ -1,0 +1,5 @@
+owner = NAM
+controller = NAM
+add_core = NAM
+rare_materials = 1.00
+infra = 4

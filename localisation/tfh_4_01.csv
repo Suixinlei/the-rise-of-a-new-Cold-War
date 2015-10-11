@@ -1,0 +1,143 @@
+OFFERLLTITLE;提供工业援助;;;;;;;;;;X
+STOPLLTITLE;停止工业援助;;;;;;;;;;X
+OFFERLL_DESCRIPTION;向该国提供工业援助.;;;;;;;;;;X
+STOPLL_DESCRIPTION;停止向该国提供工业援助.;;;;;;;;;;X
+OFFERLL_REFUSED;取消我们正在提供的工业援助.;;;;;;;;;;X
+LENDOFFERREFUSED_SETUP;当一个国家拒绝我们的工业援助.;;;;;;;;;;X
+LENDOFFERREFUSED_HEADER;$minister_of_foreign$报告;;;;;;;;;;X
+LENDOFFERREFUSED_1;工业援助遭拒!;;;;;;;;;;X
+LENDOFFERREFUSED_2;$MONARCHTITLE$;;;;;;;;;;X
+LENDOFFERREFUSED_3;$RECIPIENT$;;;;;;;;;;X
+LENDOFFERREFUSED_4;拒绝了;;;;;;;;;;X
+LENDOFFERREFUSED_5;我们的工业援助.;;;;;;;;;;X
+LENDOFFERREFUSED_6;*;;;;;;;;;;X
+LENDOFFERREFUSED_LOG;$RECIPIENT$拒绝了我们的工业援助.;;;;;;;;;;X
+LENDOFFERREFUSED_BTN1;好的;;;;;;;;;;X
+LENDOFFERREFUSED_BTN2;好的;;;;;;;;;;X
+LENDOFFERREFUSED_BTN3;转到;;;;;;;;;;X
+LENDOFFERREFUSED_MAP;*;;;;;;;;;;X
+LENDOFFERACCEPT_SETUP;当一个国家接受我们的工业援助.;;;;;;;;;;X
+LENDOFFERACCEPT_HEADER;$minister_of_foreign$报告;;;;;;;;;;X
+LENDOFFERACCEPT_1;接受工业援助!;;;;;;;;;;X
+LENDOFFERACCEPT_2;$MONARCHTITLE$;;;;;;;;;;X
+LENDOFFERACCEPT_3;$RECIPIENT$;;;;;;;;;;X
+LENDOFFERACCEPT_4;接受了;;;;;;;;;;X
+LENDOFFERACCEPT_5;我们的工业援助.;;;;;;;;;;X
+LENDOFFERACCEPT_6;*;;;;;;;;;;X
+LENDOFFERACCEPT_LOG;$RECIPIENT$接受了我们的工业援助.;;;;;;;;;;X
+LENDOFFERACCEPT_BTN1;好的;;;;;;;;;;X
+LENDOFFERACCEPT_BTN2;好的;;;;;;;;;;X
+LENDOFFERACCEPT_BTN3;转到;;;;;;;;;;X
+LENDOFFERACCEPT_MAP;*;;;;;;;;;;X
+LEND_LEASE_CONVOY_OWNER_DESC;这支护航船队属于 $COUNTRY$?，由该国管理。;;;;;;;;;;X
+CANCEL_LL_PROMPT;你确定要取消给$TARGET$?的工业援助吗?;;;;;;;;;;X
+OFFER_LEND_LEASE_DESC;$ACTOR$? 向我国提供工业援助.\n 他们将租借一些工业生产能力给我们.;;;;;;;;;;X
+ACT_LENDLEASE_OUR_NEUTRALITY;我们的中立度必须低于$LIMIT$?，现值为$VAL$?;;;;;;;;;;X
+ACT_LENDLEASE_THEM_ONLY_AT_WAR;他们必须处于战争状态才能获得工业援助;;;;;;;;;;X
+ACT_LENDLEASE_ANY_GOI;$ACTOR$? 和$RECIPIENT$? 必须是派系成员;;;;;;;;;;X
+SWM_GRAPH_TOTAL_VAL;总计: $TOT$;;;;;;;;;;X
+SWM_GRAPH_TOTAL_DAMAGE_VAL;总伤害: $TOT$;;;;;;;;;;X
+BP_FAILED_SAVE_FILE;保存战役计划失败.;;;;;;;;;;X
+BP_ILLEGAL_FILE_NAME;文件名包含非法字符!;;;;;;;;;;X
+SWM_OUR_PROV_IC_LOSS_DESC_1;本月对我国国土的轰炸造成了$IC$ IC?的损失.;;;;;;;;;;X
+SWM_OUR_PROV_IC_LOSS_DESC_2;今年对我国国土的轰炸造成了$IC$ IC?的损失.;;;;;;;;;;X
+SWM_OUR_PROV_IC_LOSS_DESC_3;对我国国土的轰炸总共造成了$IC$ IC?的损失.;;;;;;;;;;X
+SWM_THEIR_PROV_IC_LOSS_DESC_1;本月对该国国土的轰炸造成了$IC$ IC?的损失.;;;;;;;;;;X
+SWM_THEIR_PROV_IC_LOSS_DESC_2;今年对该国国土的轰炸造成了$IC$ IC?的损失.;;;;;;;;;;X
+SWM_THEIR_PROV_IC_LOSS_DESC_3;对该国国土的轰炸总共造成了$IC$ IC?的损失.;;;;;;;;;;X
+SWM_OUR_BOMBERS_IC_LOSS_DESC_1;本月我国轰炸机遭受的损失约合$IC$ IC?.;;;;;;;;;;X
+SWM_OUR_BOMBERS_IC_LOSS_DESC_2;今年我国轰炸机遭受的损失约合$IC$ IC?.;;;;;;;;;;X
+SWM_OUR_BOMBERS_IC_LOSS_DESC_3;我国轰炸机遭受的损失总计约合$IC$ IC?.;;;;;;;;;;X
+SWM_THEIR_BOMBERS_IC_LOSS_DESC_1;本月该国轰炸机遭受的损失约合$IC$ IC?.;;;;;;;;;;X
+SWM_THEIR_BOMBERS_IC_LOSS_DESC_2;今年该国轰炸机遭受的损失约合$IC$ IC?.;;;;;;;;;;X
+SWM_THEIR_BOMBERS_IC_LOSS_DESC_3;该国轰炸机遭受的损失总计约合$IC$ IC?.;;;;;;;;;;X
+SWM_GRAPH_MAX_IC_VAL2;最大IC:$MAX$;;;;;;;;;;X
+organized_partisans_title;游击队;;;;;;;;;;X
+organized_partisans_name;游击队;;;;;;;;;;X
+organized_partisans_desc;游击队反抗外国入侵者，矢志将侵略者赶出祖国。;;;;;;;;;;X
+organized_partisans_army;$COUNTRY$游击队;;;;;;;;;;X
+HAVE_CB_FROM;有$CB$?来自$ACTOR$?;;;;;;;;;;X
+HAVE_NO_CB_FROM;没有$CB$?来自$ACTOR$?;;;;;;;;;;X
+HAVE_CB_FROM_ANYONE;有$CB$?来自任何人?;;;;;;;;;;X
+HAVE_NO_CB_FROM_ANYONE;没有$CB$? 来自任何人?;;;;;;;;;;X
+CA_BONUS_DETAILS_TOTAL;混合兵种加成: $VAL$%?;;;;;;;;;;X
+CA_BONUS_DETAILS_BASE;基础值: $VAL$%?;;;;;;;;;;X
+CA_BONUS_DETAILS_TECH;来自科技: $VAL$%?;;;;;;;;;;X
+CA_BONUS_DETAILS_TRAIT;来自将领: $VAL$%?;;;;;;;;;;X
+WE_STEAL_TECH_ONCE_SETUP;当间谍窃取一项科技蓝图;;;;;;;;;;X
+WE_STEAL_TECH_ONCE_HEADER;$TYPE$;;;;;;;;;;X
+WE_STEAL_TECH_ONCE_1;$TARGET_ADJ$科技蓝图窃取成功!;;;;;;;;;;X
+WE_STEAL_TECH_ONCE_2;$TITLE$，我国间谍窃取了$TYPE$蓝图，给我们带来下列影响;;;;;;;;;;X
+WE_STEAL_TECH_ONCE_3;$EFFECT$;;;;;;;;;;X
+WE_STEAL_TECH_ONCE_4;*;;;;;;;;;;X
+WE_STEAL_TECH_ONCE_5;*;;;;;;;;;;X
+WE_STEAL_TECH_ONCE_6;*;;;;;;;;;;X
+WE_STEAL_TECH_ONCE_LOG;$TYPE$蓝图窃取成功.;;;;;;;;;;X
+WE_STEAL_TECH_ONCE_BTN1;好的;;;;;;;;;;X
+WE_STEAL_TECH_ONCE_BTN2;好的;;;;;;;;;;X
+WE_STEAL_TECH_ONCE_BTN3;详细;;;;;;;;;;X
+WE_STEAL_TECH_ONCE_MAP;*;;;;;;;;;;X
+WE_STEAL_TECH_REPEAT_SETUP;当间谍窃取一项新科技;;;;;;;;;;X
+WE_STEAL_TECH_REPEAT_HEADER;$TYPE$;;;;;;;;;;X
+WE_STEAL_TECH_REPEAT_1;$TARGET_ADJ$科技蓝图窃取成功!;;;;;;;;;;X
+WE_STEAL_TECH_REPEAT_2;$TITLE$，我国间谍窃取的蓝图使我国研究$LEVEL$级$TYPE$的能力增强，给我们带来下列影响;;;;;;;;;;X
+WE_STEAL_TECH_REPEAT_3;$EFFECT$;;;;;;;;;;X
+WE_STEAL_TECH_REPEAT_4;*;;;;;;;;;;X
+WE_STEAL_TECH_REPEAT_5;*;;;;;;;;;;X
+WE_STEAL_TECH_REPEAT_6;*;;;;;;;;;;X
+WE_STEAL_TECH_REPEAT_LOG;通过窃取科技，$TYPE$提高到$LEVEL$级;;;;;;;;;;X
+WE_STEAL_TECH_REPEAT_BTN1;好的;;;;;;;;;;X
+WE_STEAL_TECH_REPEAT_BTN2;好的;;;;;;;;;;X
+WE_STEAL_TECH_REPEAT_BTN3;详细;;;;;;;;;;X
+WE_STEAL_TECH_REPEAT_MAP;*;;;;;;;;;;X
+TECH_STOLEN_SETUP;当敌国窃取我国科技被发现;;;;;;;;;;X
+TECH_STOLEN_HEADER;$TYPE$;;;;;;;;;;X
+TECH_STOLEN_1;我国科技蓝图被窃!;;;;;;;;;;X
+TECH_STOLEN_2;$TITLE$，$RESPONSIBLE$间谍窃取我国科技;;;;;;;;;;X
+TECH_STOLEN_3;*;;;;;;;;;;X
+TECH_STOLEN_4;*;;;;;;;;;;X
+TECH_STOLEN_5;*;;;;;;;;;;X
+TECH_STOLEN_6;*;;;;;;;;;;X
+TECH_STOLEN_LOG;$TYPE$被窃.;;;;;;;;;;X
+TECH_STOLEN_BTN1;好的;;;;;;;;;;X
+TECH_STOLEN_BTN2;好的;;;;;;;;;;X
+TECH_STOLEN_BTN3;详细;;;;;;;;;;X
+TECH_STOLEN_MAP;*;;;;;;;;;;X
+TECH_STOLEN_BY_UNKNOWN_SETUP;当不明国家窃取我国科技;;;;;;;;;;X
+TECH_STOLEN_BY_UNKNOWN_HEADER;$TYPE$;;;;;;;;;;X
+TECH_STOLEN_BY_UNKNOWN_1;我国科技蓝图被窃!;;;;;;;;;;X
+TECH_STOLEN_BY_UNKNOWN_2;$TITLE$，不明国家窃取我国科技;;;;;;;;;;X
+TECH_STOLEN_BY_UNKNOWN_3;*;;;;;;;;;;X
+TECH_STOLEN_BY_UNKNOWN_4;*;;;;;;;;;;X
+TECH_STOLEN_BY_UNKNOWN_5;*;;;;;;;;;;X
+TECH_STOLEN_BY_UNKNOWN_6;*;;;;;;;;;;X
+TECH_STOLEN_BY_UNKNOWN_LOG;$TYPE$被窃.;;;;;;;;;;X
+TECH_STOLEN_BY_UNKNOWN_BTN1;好的;;;;;;;;;;X
+TECH_STOLEN_BY_UNKNOWN_BTN2;好的;;;;;;;;;;X
+TECH_STOLEN_BY_UNKNOWN_BTN3;详细;;;;;;;;;;X
+TECH_STOLEN_BY_UNKNOWN_MAP;*;;;;;;;;;;X
+SPYMISSION_TECH_DESC;尝试渗透敌国研究机构，窃取科技蓝图，原型装备和机密文件。;;;;;;;;;;X
+LOCAL_INTEL_BOOST;提高 $PROVINCE$?地区的谍报水平;;;;;;;;;;X
+SCW_SPAaid_desc;怀着对国民军的强烈支持，他们同意给予我们军事援助。;;;;;;;;;;X
+SCW_SPRaid_desc;怀着对共和国的强烈支持，他们同意给予我们军事援助。;;;;;;;;;;X
+SCW_aid_ENG;英国提供援助;;;;;;;;;;X
+SCW_aid_FRA;法国提供援助;;;;;;;;;;X
+SCW_aid_SOV;苏联提供援助;;;;;;;;;;X
+SCW_aid_GER;德国提供援助;;;;;;;;;;X
+SCW_aid_ITA;意大利提供援助;;;;;;;;;;X
+FWW_SOV_title;战斗经验;;;;;;;;;;X
+FWW_SOV_desc;对军官团的大清洗虽然保证了国家的安全，但也影响了红军的战斗能力。战斗经验将会成为最好的老师，使我们的军队状况稳步改善。;;;;;;;;;;X
+Event_ok;好的;;;;;;;;;;X
+Event_ex;很好!;;;;;;;;;;X
+SCWEVTNAME7;控制马德里;;;;;;;;;;X
+SCWEVTDESC7;控制首都使我们在内战中处于有利地位。然而，一旦城市沦入叛军之手，我们在接下来的战争中将失去这些优势。;;;;;;;;;;X
+SCWEVTDESC8;控制首都使我们在内战中处于有利地位。然而，一旦城市沦入敌手，我们在接下来的战争中将失去这些优势。;;;;;;;;;;X
+SCWEVTNAME9;马德里沦陷;;;;;;;;;;X
+SCWEVTDESC9;随着马德里的得而复失，我们失去了首都给予我们的优势;;;;;;;;;;X
+SCWEVTDESC10;随着马德里沦入叛军之手，我们失去了首都给予我们的优势;;;;;;;;;;X
+ITA_Aid;意大利援助;;;;;;;;;;X
+GER_Aid;德国援助;;;;;;;;;;X
+SOV_Aid;苏联援助;;;;;;;;;;X
+ENG_Aid;英国援助;;;;;;;;;;X
+FRA_Aid;法国援助;;;;;;;;;;X
+Controls_Madrid;控制马德里;;;;;;;;;;X

@@ -1,0 +1,8 @@
+owner = PRK
+controller = PRK
+add_core = PRK
+infra = 6
+naval_base = 3 #Sinuiju port
+points = 1
+industry = 6
+leadership = 1.00

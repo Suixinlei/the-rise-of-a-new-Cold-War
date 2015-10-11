@@ -1,0 +1,6 @@
+owner = JAM
+controller = JAM
+add_core = JAM
+
+infra = 6
+air_base = 1 #Sangster airport

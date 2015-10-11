@@ -1,0 +1,8 @@
+owner = USA
+controller = USA
+add_core = USA
+infra = 6
+rare_materials = 7.3
+air_base = 7 #Salt Lake City airport and Hill airbase
+industry = 10
+leadership = 1.00

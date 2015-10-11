@@ -1,0 +1,11 @@
+owner = BRA
+controller = BRA
+add_core = BRA
+infra = 10
+industry = 8
+manpower = 16.3
+crude_oil = 33.2
+rare_materials = 11.00
+air_base = 10 #Sao Paulo airport
+leadership = 2.50
+points = 1

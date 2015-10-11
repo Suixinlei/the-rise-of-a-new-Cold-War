@@ -1,0 +1,9 @@
+owner = DEN
+controller = DEN
+add_core = DEN
+
+infra = 10
+crude_oil = 5.00
+air_base = 3 #Eskadrille 721
+leadership = 2.50
+points = 1

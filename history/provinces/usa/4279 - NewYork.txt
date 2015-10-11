@@ -1,0 +1,14 @@
+owner = USA
+controller = USA
+add_core = USA
+
+infra = 10
+industry = 10
+manpower = 20.00
+energy = 50.00
+metal = 5.00
+rare_materials = 5.00
+air_base = 7 #New York airport
+naval_base = 10 #New York port
+leadership = 3.00
+points = 1

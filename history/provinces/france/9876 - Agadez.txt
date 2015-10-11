@@ -1,0 +1,6 @@
+owner = NIE
+controller = NIE
+add_core = NIE
+
+infra = 2
+

@@ -1,0 +1,8 @@
+owner = SPR
+controller = SPR
+add_core = SPR
+manpower = 0.5
+
+infra = 6
+
+

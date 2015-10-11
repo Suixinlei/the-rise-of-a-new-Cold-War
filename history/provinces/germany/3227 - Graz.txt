@@ -1,0 +1,9 @@
+owner = AUS
+controller = AUS
+add_core = AUS
+industry = 3
+manpower = 0.3
+infra = 10
+energy = 4.00
+air_base = 4 #Nittner airbase
+points = 1

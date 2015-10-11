@@ -1,0 +1,56 @@
+theatre = {
+	name = "Armáda Ceské Republiky"
+	location = 2562
+	regiment = { type = hq_brigade name = "Armáda Ceské Republiky" historical_model = 2 }
+	corps = {
+		name = "Pozemní Síly"
+		location = 2630
+		regiment = { type = hq_brigade name = "Pozemní Síly" historical_model = 2 }
+		division = {
+			is_reserve = yes
+			name = "4. Brigády Rychlého Nasazení"
+			location = 2438
+			regiment = { type = mechanized_brigade name = "41. 'Genéral Jozefa Malého' Mechanizovaný Prapor" historical_model = 0 }
+			regiment = { type = mechanized_brigade name = "42. 'Svatováclavský' Mechanizovaný Prapor" historical_model = 0 }
+			regiment = { type = infantry_brigade name = "44. Lehké Motorizovaného Praporu" historical_model = 2 }
+		}
+		division = {
+			is_reserve = yes
+			name = "43. Výsadkového Praporu"
+			location = 2563
+			regiment = { type = paratrooper_brigade name = "43. Výsadkového Praporu" historical_model = 2 }
+		}
+		division = {
+			is_reserve = yes
+			name = "7. Mechanizované Brigády"
+			location = 2696
+			regiment = { type = mechanized_brigade name = "71. Mechanizovaného Praporu" historical_model = 0 }
+			regiment = { type = mechanized_brigade name = "72. Mechanizovaného Praporu" historical_model = 0 }
+			regiment = { type = armor_brigade name = "73. Tankový Prapor" historical_model = 0 }
+			regiment = { type = infantry_brigade name = "74. Lehké Motorizovaného Praporu" historical_model = 2 }
+		}
+		division = {
+			is_reserve = yes
+			name = "Podpora Brigády"
+			location = 2692
+			regiment = { type = infantry_brigade name = "1. Praporu" historical_model = 2 }
+			regiment = { type = artillery_brigade name = "13. Delostrelecké Brigády" historical_model = 0 }
+			regiment = { type = engineer_brigade name = "15. 'Genéral Karla Husarka' Inženýr Brigády" historical_model = 2 }
+		}
+	}
+	division = {
+		is_reserve = yes
+		name = "601. 'Generál Moravec' Skupiny Speciálních Sil"
+		location = 2630
+		regiment = { type = special_forces_brigade name = "1. Praporu" historical_model = 2 }
+		regiment = { type = special_forces_brigade name = "2. Praporu" historical_model = 2 }
+		regiment = { type = special_forces_brigade name = "3. Praporu" historical_model = 2 }
+	}
+	
+	air = {
+		name = "211. Taktické Letky"
+		base = 2562
+		location = 2562
+		wing = { type = multi_role name = "211. Taktické Letky" historical_model = 0 }
+	}
+}

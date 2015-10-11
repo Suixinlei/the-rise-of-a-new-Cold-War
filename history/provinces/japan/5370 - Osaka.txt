@@ -1,0 +1,12 @@
+owner = JAP
+controller = JAP
+add_core = JAP
+industry = 10
+infra = 10
+manpower = 15.00
+energy = 30.00
+metal = 10.00
+air_base = 3 #Osaka airport
+naval_base = 6 #Kobe port
+leadership = 2.00
+points = 1

@@ -1,0 +1,40 @@
+capital = 5445
+government = dictatorship
+ideology = leninist
+alignment = { x = 100 y = 100 }
+neutrality = 80
+national_unity = 70
+oob = "LBY_2000.txt"
+
+popularity = { 
+	national_socialist = 0
+	fascistic = 0
+	paternal_autocrat = 0
+	social_conservative = 0
+	market_liberal = 0
+	social_liberal = 0
+	social_democrat = 0
+	left_wing_radical = 0
+	leninist = 70
+	stalinist = 0
+}
+
+organization = { 
+	national_socialist = 0
+	fascistic = 0
+	paternal_autocrat = 0
+	social_conservative = 0
+	market_liberal = 0
+	social_liberal = 0
+	social_democrat = 0
+	left_wing_radical = 0
+	leninist = 120
+	stalinist = 0
+}
+
+conscription_policy = military_service
+press_laws = limited_censorship
+mobilisation_level = peace_time
+civil_laws = restrictions
+economic_policy = partial_control
+service_length = eighteen_months

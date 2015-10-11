@@ -1,0 +1,9 @@
+owner = UAE
+
+controller = UAE
+
+add_core = UAE
+
+infra = 8
+air_base = 3 #Abu Dhabi airport
+points = 1

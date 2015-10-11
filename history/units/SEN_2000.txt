@@ -1,0 +1,44 @@
+theatre = {
+	name = "Senegalese Armed Forces"
+	location = 9741
+	regiment = { type = hq_brigade name = "Senegalese Armed Forces HQ" historical_model = 0 }
+	corps = {
+		name = "Operations Division"
+		location = 9741
+		regiment = { type = hq_brigade name = "Operations Division HQ" historical_model = 0 }
+		division = {
+			is_reserve = yes
+			name = "Armoured Brigade"
+			location = 9774
+			regiment = { type = armor_brigade name = "22nd Armoured Battalion" historical_model = 0 }
+			regiment = { type = armor_brigade name = "24th Armoured Battalion" historical_model = 0 }
+			regiment = { type = armor_brigade name = "25th Armoured Battalion" historical_model = 0 }
+		}
+		division = {
+			is_reserve = yes
+			name = "4th Battalion"
+			location = 9742
+			regiment = { type = infantry_brigade name = "4th Battalion" historical_model = 0 }
+		}
+		division = {
+			is_reserve = yes
+			name = "3rd Battalion"
+			location = 9741
+			regiment = { type = infantry_brigade name = "3rd Battalion" historical_model = 0 }
+		}
+		division = {
+			is_reserve = yes
+			name = "Infantry Battalions 1&2"
+			location = 9757
+			regiment = { type = infantry_brigade name = "1st Battalion" historical_model = 0 }
+			regiment = { type = infantry_brigade name = "2nd Battalion" historical_model = 0 }
+		}
+		division = {
+			is_reserve = yes
+			name = "Infantry Battalions 5&6"
+			location = 9774
+			regiment = { type = infantry_brigade name = "5th Battalion" historical_model = 0 }
+			regiment = { type = infantry_brigade name = "6th Battalion" historical_model = 0 }
+		}
+	}
+}

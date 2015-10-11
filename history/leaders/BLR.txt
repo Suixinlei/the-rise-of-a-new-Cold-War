@@ -1,0 +1,648 @@
+14001 = {
+	name = "Loktionov"
+	country = BLR
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = BAL1
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+14002 = {
+	name = "Machin"
+	country = BLR
+	type = land
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = BAL2
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+14003 = {
+	name = "Martynov"
+	country = BLR
+	type = land
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = BAL3
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+14004 = {
+	name = "Maligin"
+	country = BLR
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = BAL4
+	add_trait = offensive_doctrine
+	add_trait = frontline_soldier
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+14005 = {
+	name = "Mironov"
+	country = BLR
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = BAL5
+	add_trait = versatile
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+14006 = {
+	name = "Novikov"
+	country = BLR
+	type = land
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = BAL6
+	add_trait = learners_will
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+14007 = {
+	name = "Oborin"
+	country = BLR
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = BAL7
+	add_trait = hard_defender
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+14008 = {
+	name = "Shestakov"
+	country = BLR
+	type = land
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = BAL8
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+14009 = {
+	name = "Visocki"
+	country = BLR
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = BAL9
+	add_trait = old_guard
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+14010 = {
+	name = "Polynin"
+	country = BLR
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = BAL10
+	add_trait = panzer_leader
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+14011 = {
+	name = "Radchikova"
+	country = BLR
+	type = land
+	skill = 1
+	max_skill = 4
+	loyalty = 1.00
+	picture = BAL11
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+14012 = {
+	name = "Raskova"
+	country = BLR
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 1.00
+	picture = BAL12
+	add_trait = landlubber
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+14013 = {
+	name = "Reshetnikov"
+	country = BLR
+	type = land
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = BAL13
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+14014 = {
+	name = "Umansky"
+	country = BLR
+	type = land
+	skill = 3
+	max_skill = 5
+	loyalty = 1.00
+	picture = BAL14
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+14015 = {
+	name = "Romashkin"
+	country = BLR
+	type = air
+	skill = 1
+	max_skill = 4
+	loyalty = 1.00
+	picture = BAL15
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+14016 = {
+	name = "Rudenko"
+	country = BLR
+	type = air
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = BAL16
+	add_trait = tank_buster
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+14017 = {
+	name = "Rychagov"
+	country = BLR
+	type = air
+	skill = 2
+	max_skill = 8
+	loyalty = 1.00
+	picture = BAL17
+	add_trait = carpet_bomber
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+14018 = {
+	name = "Skripko"
+	country = BLR
+	type = air
+	skill = 4
+	max_skill = 7
+	loyalty = 1.00
+	picture = BAL18
+	history = {
+		2000.1.1 = { rank = 3 }
+	}
+}
+14019 = {
+	name = "Smirnov"
+	country = BLR
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = BAL19
+	add_trait = assaulter
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+14020 = {
+	name = "Smuschkevich"
+	country = BLR
+	type = air
+	skill = 2
+	max_skill = 9
+	loyalty = 1.00
+	picture = BAL20
+	add_trait = tank_buster
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+14021 = {
+	name = "Sudets"
+	country = BLR
+	type = sea
+	skill = 3
+	max_skill = 5
+	loyalty = 1.00
+	picture = BAL21
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+14022 = {
+	name = "Thor"
+	country = BLR
+	type = land
+	skill = 3
+	max_skill = 9
+	loyalty = 1.00
+	picture = BAL22
+	add_trait = trainer
+	history = {
+		2000.1.1 = { rank = 2 }
+	}
+}
+14023 = {
+	name = "Solodchyk"
+	country = BLR
+	type = land
+	skill = 1
+	max_skill = 4
+	loyalty = 1.00
+	picture = BAL23
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+14024 = {
+	name = "Vershinin"
+	country = BLR
+	type = land
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = BAL24
+	add_trait = marine
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+14025 = {
+	name = "Vladimiroch"
+	country = BLR
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 1.00
+	picture = BAL25
+	add_trait = assaulter
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+14026 = {
+	name = "Vorozheikin"
+	country = BLR
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = BAL26
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+14027 = {
+	name = "Yakovlev"
+	country = BLR
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = BAL27
+	add_trait = hard_defender
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+14028 = {
+	name = "Yakushin"
+	country = BLR
+	type = air
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = BAL28
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+14029 = {
+	name = "Sergeyborisyuk"
+	country = BLR
+	type = land
+	skill = 1
+	max_skill = 4
+	loyalty = 1.00
+	picture = BAL29
+	add_trait = engineer
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+14030 = {
+	name = "Zaharkin"
+	country = BLR
+	type = air
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = BAL30
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+14031 = {
+	name = "Zhavoronkov"
+	country = BLR
+	type = land
+	skill = 4
+	max_skill = 8
+	loyalty = 1.00
+	picture = BAL31
+	add_trait = fortress_buster
+	history = {
+		2000.1.1 = { rank = 3 }
+	}
+}
+14032 = {
+	name = "Zhezlov"
+	country = BLR
+	type = land
+	skill = 1
+	max_skill = 4
+	loyalty = 1.00
+	picture = BAL32
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+14033 = {
+	name = "Zhigarev"
+	country = BLR
+	type = air
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = BAL33
+	add_trait = tank_buster
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+14034 = {
+	name = "Filippenko"
+	country = BLR
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = BAL34
+	add_trait = winter_specialist
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+14035 = {
+	name = "Vazetis"
+	country = BLR
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = BAL35
+	add_trait = logistics_wizard
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+14036 = {
+	name = "Unzherov"
+	country = BLR
+	type = land
+	skill = 1
+	max_skill = 4
+	loyalty = 1.00
+	picture = BAL36
+	add_trait = defensive_doctrine
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+14037 = {
+	name = "Kireev"
+	country = BLR
+	type = land
+	skill = 1
+	max_skill = 4
+	loyalty = 1.00
+	picture = BAL37
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+14038 = {
+	name = "Khalatov"
+	country = BLR
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = BAL38
+	add_trait = winter_specialist
+	add_trait = panzer_leader
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+14039 = {
+	name = "Kashirin"
+	country = BLR
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = BAL39
+	add_trait = offensive_doctrine
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+14040 = {
+	name = "Goryahov"
+	country = BLR
+	type = land
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = BAL40
+	add_trait = commando
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+14041 = {
+	name = "Dushenov"
+	country = BLR
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = BAL41
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+14042 = {
+	name = "Krylovich"
+	country = BLR
+	type = land
+	skill = 1
+	max_skill = 8
+	loyalty = 1.00
+	picture = BAL42
+	add_trait = defensive_doctrine
+	add_trait = assaulter
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+14043 = {
+	name = "Tupikov"
+	country = BLR
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = BAL43
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+14044 = {
+	name = "Dudorov"
+	country = BLR
+	type = land
+	skill = 2
+	max_skill = 8
+	loyalty = 1.00
+	picture = BAL44
+	add_trait = trainer
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+14045 = {
+	name = "Pshonka"
+	country = BLR
+	type = land
+	skill = 2
+	max_skill = 8
+	loyalty = 1.00
+	picture = BAL45
+	add_trait = winter_specialist
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+14046 = {
+	name = "Gerasimov"
+	country = BLR
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = BAL46
+	add_trait = improvisation
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+14047 = {
+	name = "Eldashev"
+	country = BLR
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = BAL47
+	add_trait = learners_will
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+14048 = {
+	name = "Borisenok"
+	country = BLR
+	type = land
+	skill = 4
+	max_skill = 10
+	loyalty = 1.00
+	picture = BAL48
+	add_trait = hard_defender
+	add_trait = learners_will
+	history = {
+		2000.1.1 = { rank = 4 }
+	}
+}
+14049 = {
+	name = "Klubov"
+	country = BLR
+	type = air
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = BAL49
+	add_trait = superior_air_tactician
+	history = {
+		2000.1.1 = { rank = 2 }
+	}
+}
+14050 = {
+	name = "Vasilevich"
+	country = BLR
+	type = land
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = BAL50
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+14051 = {
+	name = "Kopets"
+	country = BLR
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 1.00
+	picture = BAL51
+	add_trait = offensive_doctrine
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}

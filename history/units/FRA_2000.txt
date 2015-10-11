@@ -1,0 +1,263 @@
+theatre = {
+	name = "Armée Française"
+	location = 2613
+	regiment = { type = hq_brigade name = "Armée Française" historical_model = 2 }
+	army = {
+		name = "Armée de Terre"
+		location = 2613
+		regiment = { type = hq_brigade name = "Armée de Terre" historical_model = 2 }
+		division = {
+			is_reserve = yes
+			name = "Brigade des Forces Spéciales"
+			location = 3959
+			regiment = { type = special_forces_brigade name = "1er Régiment de Parachutistes" historical_model = 2 }
+			regiment = { type = special_forces_brigade name = "13e Régiment de Dragons Parachutistes" historical_model = 2 }
+		}
+		corps = {
+			name = "Com. Forces Terrestre"
+			location = 2309
+			regiment = { type = hq_brigade name = "Com. Forces Terrestre" historical_model = 2 }
+			division = {
+				is_reserve = yes
+				name = "Corps Réaction Rapide"
+				location = 2309
+				regiment = { type = infantry_brigade name = "43e Régiment d'Infanterie" historical_model = 2 }
+			}
+			division = {
+				is_reserve = yes
+				name = "1re Brigade Mécanisée"
+				location = 2681
+				regiment = { type = mechanized_brigade name = "1er Régiment de Spahis" historical_model = 0 }
+				regiment = { type = mechanized_brigade name = "1er Régiment de Tirailleurs" historical_model = 0 }
+				regiment = { type = mechanized_brigade name = "1er Régiment d'Infanterie" historical_model = 0 }
+			}
+			division = {
+				is_reserve = yes
+				name = "2e Brigade Blindée"
+				location = 2815
+				regiment = { type = armor_brigade name = "12e Régiment de Cuirassiers" historical_model = 0 }
+				regiment = { type = armor_brigade name = "501e Régiment de Chars de Combat" historical_model = 0 }
+				regiment = { type = mechanized_brigade name = "Régiment de marche du Tchad" historical_model = 0 }
+				regiment = { type = mechanized_brigade name = "16e Bataillon de Chasseurs" historical_model = 0 }
+			}
+			division = {
+				is_reserve = yes
+				name = "3e Brigade Mécanisée"
+				location = 3550
+				regiment = { type = mechanized_brigade name = "1er Régiment d'Infanterie de Marine" historical_model = 0 }
+				regiment = { type = mechanized_brigade name = "92e Régiment d'Infanterie" historical_model = 0 }
+				regiment = { type = mechanized_brigade name = "126e Régiment d'Infanterie" historical_model = 0 }
+			}
+			division = {
+				is_reserve = yes
+				name = "6e Brigade Légère Blindée"
+				location = 4034
+				regiment = { type = mechanized_brigade name = "1er Régiment Étranger de Cavalerie" historical_model = 0 }
+				regiment = { type = mechanized_brigade name = "2e Régiment Étranger d’Infanterie" historical_model = 0 }
+				regiment = { type = mechanized_brigade name = "21e Régiment d’Infanterie de Marine" historical_model = 0 }
+			}
+			division = {
+				is_reserve = yes
+				name = "7e Brigade Blindée"
+				location = 3351
+				regiment = { type = armor_brigade name = "1er Régiment de Chasseurs" historical_model = 0 }
+				regiment = { type = armor_brigade name = "4e Régiment de Dragons" historical_model = 0 }
+				regiment = { type = mechanized_brigade name = "35e Régiment d'Infanterie" historical_model = 0 }
+				regiment = { type = mechanized_brigade name = "152e Régiment d'Infanterie" historical_model = 0 }
+			}
+			division = {
+				is_reserve = yes
+				name = "9e Brigade Légère Blindée de Marine"
+				location = 3141
+				regiment = { type = mechanized_brigade name = "Régiment d'Infanterie Chars de Marine" historical_model = 0 }
+				regiment = { type = mechanized_brigade name = "2e Régiment d'Infanterie de Marine" historical_model = 0 }
+				regiment = { type = mechanized_brigade name = "3e Régiment d'Infanterie de Marine" historical_model = 0 }
+			}
+			division = {
+				is_reserve = yes
+				name = "11e Brigade Parachutiste"
+				location = 3961
+				regiment = { type = paratrooper_brigade name = "1er Régiment de Chasseurs Parachutistes" historical_model = 2 }
+				regiment = { type = paratrooper_brigade name = "2e Régiment Etranger de Parachutistes" historical_model = 2 }
+				regiment = { type = paratrooper_brigade name = "3e Régiment de Parachutistes d'Infanterie de Marine" historical_model = 2 }
+				regiment = { type = paratrooper_brigade name = "8e Régiment de Parachutistes d'Infanterie de Marine" historical_model = 2 }
+			}
+			division = {
+				is_reserve = yes
+				name = "27e Brigade d'Infanterie de Montagne"
+				location = 3756
+				regiment = { type = mountain_brigade name = "7e Bataillon de Chasseurs Alpins" historical_model = 2 }
+				regiment = { type = mountain_brigade name = "13e Bataillon de Chasseurs Alpins" historical_model = 2 }
+				regiment = { type = mountain_brigade name = "27e Bataillon de Chasseurs Alpins" historical_model = 2 }
+				regiment = { type = mechanized_brigade name = "4e Régiment de Chasseurs" historical_model = 0 }
+			}
+			division = {
+				is_reserve = yes
+				name = "Brigade Franco-Allemande"
+				location = 2815
+				regiment = { type = mechanized_brigade name = "3e Régiments de Hussards" historical_model = 0 }
+				regiment = { type = mechanized_brigade name = "10e Régiments d'Infanterie" historical_model = 0 }
+			}
+		}
+		corps = {
+			name = "Départements et Territoires d'Outre-Mer Francais"
+			location = 9934
+			regiment = { type = hq_brigade name = "Départements et Territoires d'Outre-Mer Francais" historical_model = 2 }
+			division = {
+				is_reserve = yes
+				name = "3e Régiment de Légion Etranger d'Infanterie"
+				location = 9934
+				regiment = { type = mechanized_brigade name = "3e Régiment de Légion Etranger d'Infanterie" historical_model = 0 }
+			}
+			division = {
+				is_reserve = yes
+				name = "9e Régiment d'Infanterie de Marine"
+				location = 9934
+				regiment = { type = marine_brigade name = "9e Régiment d'Infanterie de Marine" historical_model = 2 }
+			}
+			division = {
+				is_reserve = yes
+				name = "33e Régiment d'Infanterie de Marine"
+				location = 10627
+				regiment = { type = marine_brigade name = "33e Régiment d'Infanterie de Marine" historical_model = 2 }
+			}
+			division = {
+				is_reserve = yes
+				name = "2e Parachutiste Régiment d'Infanterie de Marine"
+				location = 10634
+				regiment = { type = marine_brigade name = "2e Parachutiste Régiment d'Infanterie de Marine" historical_model = 2 }
+			}
+			division = {
+				is_reserve = yes
+				name = "Régiment d'Infanterie de Marine du Pacifique - Nouvelle Caledonie"
+				location = 6616
+				regiment = { type = marine_brigade name = "Régiment d'Infanterie de Marine du Pacifique - Nouvelle Caledonie" historical_model = 2 }
+			}
+			division = {
+				is_reserve = yes
+				name = "Régiment d'Infanterie de Marine du Pacifique - Polynésie"
+				location = 6620
+				regiment = { type = marine_brigade name = "Régiment d'Infanterie de Marine du Pacifique - Polynésie" historical_model = 2 }
+			}
+		}
+		corps = {
+			name = "Pays Africaine"
+			location = 9867
+			regiment = { type = hq_brigade name = "Pays Africaine" historical_model = 2 }
+			division = {
+				is_reserve = yes
+				name = "5e Régiment Interarmes d'Outre-Mer"
+				location = 9867
+				regiment = { type = mechanized_brigade name = "5e Régiment Interarmes d'Outre-Mer" historical_model = 0 }
+			}
+			division = {
+				is_reserve = yes
+				name = "13e Demi-Brigade Legion Etranger"
+				location = 9867
+				regiment = { type = mechanized_brigade name = "13e Demi-Brigade Legion Etranger" historical_model = 0 }
+			}
+		}
+	}
+	
+	navy = {
+	name = "Force Océanique Stratégique"
+	base = 2605
+	location = 2605
+	ship = { type = submarine name = "Triomphant" historical_model = 2 }
+	ship = { type = submarine name = "Téméraire" historical_model = 2 }
+	}
+	
+	navy = {
+	name = "Escadrille des Sous-Marins Nucléaires d'Attaque"
+	base = 4229
+	location = 4229
+	ship = { type = submarine name = "Rubis" historical_model = 0 }
+	ship = { type = submarine name = "Saphir" historical_model = 0 }
+	ship = { type = submarine name = "Casbianca" historical_model = 0 }
+	ship = { type = submarine name = "Émeraude" historical_model = 0 }
+	ship = { type = submarine name = "Améthyste" historical_model = 0 }
+	ship = { type = submarine name = "Perle" historical_model = 0 }
+	}
+	
+	navy = {
+	name = "Marine Nationale"
+	base = 2422
+	location = 2422
+	ship = { type = carrier name = "Charles de Gaulle" historical_model = 1 pride = yes
+		air = {
+			location = 2422
+			wing = { type = cag name = "1st Charles de Gaulle Air Wing" historical_model = 0 }
+			wing = { type = cag name = "2nd Charles de Gaulle Air Wing" historical_model = 0 }
+		}
+	}
+	ship = { type = assault_ship name = "Siroco" historical_model = 1 }
+	ship = { type = heavy_cruiser name = "Cassard" historical_model = 0 }
+	ship = { type = heavy_cruiser name = "Jean Bart" historical_model = 0 }
+	ship = { type = heavy_cruiser name = "De Grasse" historical_model = 0 }
+	ship = { type = heavy_cruiser name = "Georges Leygues" historical_model = 0 }
+	ship = { type = heavy_cruiser name = "Dupleix" historical_model = 0 }
+	ship = { type = heavy_cruiser name = "Montcalm" historical_model = 0 }
+	ship = { type = heavy_cruiser name = "Jean De Vienne" historical_model = 0 }
+	ship = { type = heavy_cruiser name = "Primauget" historical_model = 0 }
+	ship = { type = heavy_cruiser name = "La Motte Picquet" historical_model = 0 }
+	ship = { type = heavy_cruiser name = "Latouche-Tréville" historical_model = 0 }
+	ship = { type = heavy_cruiser name = "La Fayette" historical_model = 1 }
+	ship = { type = heavy_cruiser name = "Surcouf" historical_model = 1 }
+	ship = { type = heavy_cruiser name = "Courbet" historical_model = 1 }
+	ship = { type = heavy_cruiser name = "Aconit" historical_model = 1 }
+	ship = { type = heavy_cruiser name = "Guépratte" historical_model = 1 }
+	ship = { type = heavy_cruiser name = "Floréal" historical_model = 1 }
+	ship = { type = heavy_cruiser name = "Prairial" historical_model = 1 }
+	ship = { type = heavy_cruiser name = "Nivose" historical_model = 1 }
+	ship = { type = heavy_cruiser name = "Ventose" historical_model = 1 }
+	ship = { type = heavy_cruiser name = "Vendémiaire" historical_model = 1 }
+	ship = { type = heavy_cruiser name = "Germinal" historical_model = 1 }
+	ship = { type = light_cruiser name = "Lieutenant de vaisseau Le Hénaff" historical_model = 0 }
+	ship = { type = light_cruiser name = "Lieutenant de vaisseau Lavallée" historical_model = 0 }
+	ship = { type = light_cruiser name = "Commandant L'Herminier" historical_model = 0 }
+	ship = { type = light_cruiser name = "Premier-Maître L'Her" historical_model = 0 }
+	ship = { type = light_cruiser name = "Commandant Blaison" historical_model = 0 }
+	ship = { type = light_cruiser name = "Enseigne de vaisseau Jacoubet" historical_model = 0 }
+	ship = { type = light_cruiser name = "Commandant Ducuing" historical_model = 0 }
+	ship = { type = light_cruiser name = "Commandant Birot" historical_model = 0 }
+	ship = { type = light_cruiser name = "Commandant Bouan" historical_model = 0 }
+	ship = { type = patrol_boat name = "Glaive" historical_model = 0 }
+	ship = { type = invasion_transport_ship name = "Hallebarde" historical_model = 0 }
+	ship = { type = invasion_transport_ship name = "EDA-R 1" historical_model = 0 }
+	ship = { type = invasion_transport_ship name = "EDA-R 2" historical_model = 0 }
+	ship = { type = invasion_transport_ship name = "EDA-R 3" historical_model = 0 }
+	ship = { type = invasion_transport_ship name = "EDA-R 4" historical_model = 0 }
+	}
+	
+	air = {
+	name = "Dassault Rafale"
+	base = 2426
+	location = 2426
+	wing = { type = multi_role name = "1er Escadre de Dassault Rafale" historical_model = 2 }
+	wing = { type = multi_role name = "2e Escadre de Dassault Rafale" historical_model = 2 }
+	}
+	
+	air = {
+	name = "Dassault Mirage 2000"
+	base = 2613
+	location = 2613
+	wing = { type = multi_role name = "1er Escadre de Dassault Mirage" historical_model = 0 }
+	wing = { type = multi_role name = "2e Escadre de Dassault Mirage" historical_model = 0 }
+	wing = { type = multi_role name = "3e Escadre de Dassault Mirage" historical_model = 0 }
+	wing = { type = multi_role name = "4e Escadre de Dassault Mirage" historical_model = 0 }
+	wing = { type = multi_role name = "5e Escadre de Dassault Mirage" historical_model = 0 }
+	}
+	
+	air = {
+	name = "Escadre de Transport"
+	base = 2611
+	location = 2611
+	wing = { type = transport_plane name = "1er Escadre de Transport" historical_model = 0 }
+	wing = { type = transport_plane name = "2e Escadre de Transport" historical_model = 0 }
+	wing = { type = transport_plane name = "3e Escadre de Transport" historical_model = 0 }
+	wing = { type = transport_plane name = "4e Escadre de Transport" historical_model = 0 }
+	wing = { type = transport_plane name = "5e Escadre de Transport" historical_model = 0 }
+	wing = { type = transport_plane name = "6e Escadre de Transport" historical_model = 0 }
+	wing = { type = transport_plane name = "7e Escadre de Transport" historical_model = 0 }
+	}
+}

@@ -1,0 +1,8 @@
+owner = BOS
+controller = BOS
+add_core = BOS
+manpower = 0.3
+infra = 7
+metal = 2.00
+rare_materials = 2.00
+points = 1

@@ -1,0 +1,12 @@
+owner = USA
+controller = USA
+add_core = USA
+
+infra = 10
+manpower = 10.00
+rare_materials = 5.00
+metal = 5.00
+energy = 25.00
+air_base = 4 #Newark airport
+naval_base = 2 #Newark port
+points = 1

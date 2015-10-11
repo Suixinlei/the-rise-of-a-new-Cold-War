@@ -1,0 +1,6 @@
+owner = DJI
+controller = DJI
+add_core = DJI
+add_core = ERI
+infra = 4
+

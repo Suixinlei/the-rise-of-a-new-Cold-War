@@ -1,0 +1,8 @@
+owner = PER
+controller = PER
+add_core = PER
+
+infra = 6
+air_base = 6 #Konarak airbase
+naval_base = 5 #Chabahar port
+points = 1

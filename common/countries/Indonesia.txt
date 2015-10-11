@@ -1,0 +1,99 @@
+color = { 86  106  135 }
+graphical_culture = Japanese
+last_election = 1999.6.7
+duration = 60
+major = yes
+
+default_templates = {
+	generic_infantry = {
+		infantry_brigade
+		infantry_brigade
+		infantry_brigade
+	}
+	generic_milita = {
+		militia_brigade
+		militia_brigade
+		militia_brigade
+	}
+	generic_armoured = {
+		armor_brigade
+		motorized_brigade
+		motorized_brigade
+	}
+	generic_cavalry = {
+		cavalry_brigade
+		cavalry_brigade
+	}
+}
+
+unit_names = {
+
+
+}
+
+ministers = {
+	80700 = {
+		name = "苏西洛·班邦·尤多约诺"
+		ideology = social_democrat
+		loyalty = 1.00
+		picture = L80700
+		head_of_state = apologetic_clerk
+		head_of_government = general_staffer
+		minister_of_security = crime_fighter
+		start_date = 2000.1.1
+	}
+	80701 = {
+		name = "哈达.拉加萨"
+		ideology = social_democrat
+		loyalty = 1.00
+		picture = L80701
+		armament_minister = air_to_ground_proponent
+		start_date = 2000.1.1
+	}
+	80702 = {
+		name = "苏迪.希拉拉西"
+		ideology = social_democrat
+		loyalty = 1.00
+		picture = L80702
+		chief_of_staff = school_of_fire_support
+		start_date = 2000.1.1
+	}
+	80703 = {
+		name = "穆罕默德.马尔迪.穆里亚纳.纳塔勒加瓦"
+		ideology = social_democrat
+		loyalty = 1.00
+		picture = L80703
+		chief_of_staff = school_of_fire_support
+		chief_of_navy = decisive_naval_battle_doctrine
+		chief_of_air = naval_aviation_doctrine
+		start_date = 2000.1.1
+	}
+	80704 = {
+		name = "布尔诺默.尤斯吉安多罗"
+		ideology = social_democrat
+		loyalty = 1.00
+		picture = L80704
+		chief_of_staff = tank_proponent
+		chief_of_army = armoured_spearhead_doctrine
+		start_date = 2000.1.1
+	}
+	80705 = {
+		name = "迪法杜尔.森比林"
+		ideology = social_democrat
+		loyalty = 1.00
+		picture = L80705
+		minister_of_security = corporate_suit
+		minister_of_intelligence = crime_fighter
+		start_date = 2000.1.1
+	}
+	80706 = {
+		name = "苏丹多"
+		ideology = social_democrat
+		loyalty = 1.00
+		picture = L80706
+		minister_of_intelligence = dismal_enigma
+		foreign_minister = barking_buffoon
+		start_date = 2000.1.1
+	}
+
+}

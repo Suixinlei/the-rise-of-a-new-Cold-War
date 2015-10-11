@@ -1,0 +1,19 @@
+head_of_state = {
+	changeable = yes
+}
+
+head_of_government = {
+	changeable = yes
+}
+
+minister_of_foreign = {
+}
+
+minister_of_defence = {
+}
+
+minister_of_finance = {
+}
+
+minister_of_intelligence = {
+}

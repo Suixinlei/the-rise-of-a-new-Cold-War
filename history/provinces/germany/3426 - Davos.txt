@@ -1,0 +1,8 @@
+owner = SCH
+controller = SCH
+add_core = SCH
+
+infra = 6
+
+air_base = 1 #Samedan airbase
+points = 1

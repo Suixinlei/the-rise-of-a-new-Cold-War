@@ -1,0 +1,13 @@
+owner = PER
+controller = PER
+add_core = PER
+
+infra = 4
+air_base = 7 #Mashhad airbase
+points = 1
+industry = 10
+manpower = 5.00
+energy = 30.00
+metal = 20.00
+rare_materials = 10.00
+leadership = 2.00

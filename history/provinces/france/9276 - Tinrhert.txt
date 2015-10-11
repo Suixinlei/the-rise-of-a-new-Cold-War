@@ -1,0 +1,7 @@
+owner = ALG
+controller = ALG
+add_core = ALG
+
+
+infra = 4
+air_base = 1 #Ouargla airbase

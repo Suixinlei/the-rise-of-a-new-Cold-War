@@ -1,0 +1,8 @@
+owner = DEN
+controller = DEN
+add_core = DEN
+
+infra = 10
+
+naval_base = 5 #Esbjerg port
+points = 1

@@ -1,0 +1,7 @@
+owner = MAU
+controller = MAU
+add_core = MAU
+
+infra = 6
+
+

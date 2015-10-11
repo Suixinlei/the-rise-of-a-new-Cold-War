@@ -1,0 +1,74 @@
+theatre = {
+	name = "Mauritaninan Armed Forces"
+	location = 9701
+	regiment = { type = hq_brigade name = "Armed Forces HQ" historical_model = 0 }
+	division = {
+		is_reserve = yes
+		name = "Camel Corps"
+		location = 9716
+		regiment = { type = infantry_brigade name = "1st Camel Corps Battalion" historical_model = 0 }
+		regiment = { type = infantry_brigade name = "2nd Camel Corps Battalion" historical_model = 0 }
+	}
+	division = {
+		is_reserve = yes
+		name = "Tank Battalion"
+		location = 9688
+		regiment = { type = armor_brigade name = "Tank Battalion" historical_model = 0 }
+	}
+	division = {
+		is_reserve = yes
+		name = "Garrison Infantry Battalions 1&2"
+		location = 9729
+		regiment = { type = garrison_brigade name = "1st Garrison Battalion" historical_model = 0 }
+		regiment = { type = garrison_brigade name = "2nd Garrison Battalion" historical_model = 0 }
+	}
+	division = {
+		is_reserve = yes
+		name = "Garrison Infantry Battalions 3&4"
+		location = 9701
+		regiment = { type = garrison_brigade name = "3rd Garrison Battalion" historical_model = 0 }
+		regiment = { type = garrison_brigade name = "4th Garrison Battalion" historical_model = 0 }
+	}
+	division = {
+		is_reserve = yes
+		name = "Garrison Infantry Battalions 5&6"
+		location = 9646
+		regiment = { type = garrison_brigade name = "5th Garrison Battalion" historical_model = 0 }
+		regiment = { type = garrison_brigade name = "6th Garrison Battalion" historical_model = 0 }
+	}
+	division = {
+		is_reserve = yes
+		name = "Garrison Infantry Battalions 7&8"
+		location = 9607
+		regiment = { type = garrison_brigade name = "7th Garrison Battalion" historical_model = 0 }
+		regiment = { type = garrison_brigade name = "8th Garrison Battalion" historical_model = 0 }
+	}
+	division = {
+		is_reserve = yes
+		name = "Commando Battalion"
+		location = 9701
+		regiment = { type = special_forces_brigade name = "Commando Battalion" historical_model = 0 }
+	}
+	division = {
+		is_reserve = yes
+		name = "Infantry Battalions 1&2"
+		location = 9533
+		regiment = { type = infantry_brigade name = "1st Infantry Battalion" historical_model = 0 }
+		regiment = { type = infantry_brigade name = "2nd Infantry Battalion" historical_model = 0 }
+	}
+	division = {
+		is_reserve = yes
+		name = "Infantry Battalions 3&4"
+		location = 9627
+		regiment = { type = infantry_brigade name = "3rd Infantry Battalion" historical_model = 0 }
+		regiment = { type = infantry_brigade name = "4th Infantry Battalion" historical_model = 0 }
+	}
+	division = {
+		is_reserve = yes
+		name = "Infantry Battalions 5-7"
+		location = 9702
+		regiment = { type = infantry_brigade name = "5th Infantry Battalion" historical_model = 0 }
+		regiment = { type = infantry_brigade name = "6th Infantry Battalion" historical_model = 0 }
+		regiment = { type = infantry_brigade name = "7th Infantry Battalion" historical_model = 0 }
+	}
+}

@@ -1,0 +1,12 @@
+owner = NOR
+controller = NOR
+add_core = NOR
+
+industry = 2
+infra = 8
+manpower = 0.2
+
+air_base = 1 #Bergen airport
+naval_base = 7 #Bergen port
+leadership = 2.50
+points = 1

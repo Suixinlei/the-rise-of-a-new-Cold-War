@@ -1,0 +1,13 @@
+owner = INO
+controller = INO
+add_core = INO
+infra = 4
+
+
+
+
+air_base = 1 #Balikpapan airport
+ 
+naval_base = 2
+leadership = 2.50
+points = 1

@@ -1,0 +1,8 @@
+owner = BRA
+controller = BRA
+add_core = BRA
+industry = 6
+infra = 6
+manpower = 10.00
+naval_base = 4 #Fortaleza port
+points = 1

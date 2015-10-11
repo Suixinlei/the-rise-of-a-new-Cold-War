@@ -1,0 +1,6 @@
+owner = MAU
+controller = MAU
+add_core = MAU
+metal = 7.00
+infra = 6
+

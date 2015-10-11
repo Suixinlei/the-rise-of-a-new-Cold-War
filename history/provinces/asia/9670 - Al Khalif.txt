@@ -1,0 +1,6 @@
+owner = OMN
+controller = OMN
+add_core = OMN
+
+infra = 4
+air_base = 5 #Masirah airbase

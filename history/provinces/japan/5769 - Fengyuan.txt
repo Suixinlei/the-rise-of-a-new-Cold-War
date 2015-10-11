@@ -1,0 +1,17 @@
+controller = CHI
+owner = CHI
+
+add_core = CHI
+add_core = CHC
+infra = 8
+manpower = 0.8
+industry = 10.00
+energy = 30.00
+metal = 20.00
+rare_materials = 7.00 
+points = 1
+air_base = 4 #Taichung and Hsinchu airbase
+naval_base = 5 #Taichung port
+anti_air = 5
+terrain = urban
+PROV5769;ЬЈжа;;;;;;;;;;X

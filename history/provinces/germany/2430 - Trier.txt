@@ -1,0 +1,8 @@
+owner = GER
+controller = GER
+add_core = GER
+
+infra = 10
+
+air_base = 1 #Frankfurt Hahn airport
+points = 1

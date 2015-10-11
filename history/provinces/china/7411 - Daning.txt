@@ -1,0 +1,9 @@
+owner = CHC
+controller = CHC
+ 
+add_core = CHC
+infra = 7
+
+air_base = 1 #Wenshui airbase
+points = 1
+industry = 10

@@ -1,0 +1,13 @@
+owner = INO
+controller = INO
+add_core = INO
+industry = 6
+infra = 6
+
+
+
+manpower = 10.00
+air_base = 3 #Polonia airbase
+naval_base = 3
+leadership = 2.50
+points = 1

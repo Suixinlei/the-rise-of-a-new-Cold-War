@@ -1,0 +1,6 @@
+owner = GEO
+controller = GEO
+add_core = GEO
+infra = 6
+naval_base = 4 #Poti port
+points = 1

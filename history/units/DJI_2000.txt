@@ -1,0 +1,47 @@
+theatre = {
+	name = "Djibouti Armed Forces"
+	location = 9867
+	regiment = { type = hq_brigade name = "Armed Forces HQ" historical_model = 0 }
+	corps = {
+		name = "Djibouti Army"
+		location = 9867
+		regiment = { type = hq_brigade name = "Army HQ" historical_model = 0 }
+		division = {
+			is_reserve = yes
+			name = "Régiment Blindé"
+			location = 9867
+			regiment = { type = armor_brigade name = "Régiment Blindé" historical_model = 0 }
+		}
+		division = {
+			is_reserve = yes
+			name = "Régiment d'action Rapide"
+			location = 9867
+			regiment = { type = mechanized_brigade name = "Régiment d'action Rapide" historical_model = 0 }
+		}
+		division = {
+			is_reserve = yes
+			name = "Régiment Interarmes de Dikhil"
+			location = 9867
+			regiment = { type = infantry_brigade name = "Régiment Interarmes de Dikhil" historical_model = 0 }
+		}
+		division = {
+			is_reserve = yes
+			name = "Bataillon Interarmes d'Ali Sabieh"
+			location = 9867
+			regiment = { type = infantry_brigade name = "Bataillon Interarmes d'Ali Sabieh" historical_model = 0 }
+		}
+		division = {
+			is_reserve = yes
+			name = "Régiment interarmes de Tadjourah"
+			location = 9826
+			regiment = { type = infantry_brigade name = "Régiment Interarmes de Tadjourah" historical_model =0 }
+		}
+		division = {
+			is_reserve = yes
+			name = "Régiment Interarmes d'Obock"
+			location = 9826
+			regiment = {type = infantry_brigade name = "Régiment Interarmes d'Obock" historical_model = 0 }
+		}
+	}
+	
+}

@@ -1,0 +1,7 @@
+owner = AST
+controller = AST
+add_core = AST
+metal = 40.00
+infra = 5
+naval_base = 10 #Port Hedland port
+points = 1

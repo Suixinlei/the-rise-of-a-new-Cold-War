@@ -1,0 +1,9 @@
+owner = ROM
+controller = ROM
+add_core = ROM
+
+infra = 6
+
+air_base = 2 #Bacau airbase
+leadership = 2.50
+points = 1

@@ -1,0 +1,13 @@
+owner = CHC
+controller = CHC
+add_core = CHC
+add_core = CHI
+infra = 10
+industry = 10
+manpower = 17.00
+rare_materials = 4.00
+metal = 15.00
+energy = 20.00
+air_base = 10 #Hong Kong airport
+naval_base = 10 #Hong Kong port
+points = 1

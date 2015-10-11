@@ -1,0 +1,6 @@
+owner = SYR
+controller = SYR
+add_core = SYR
+infra = 7
+manpower = 1.00
+naval_base = 6 #Latakia port

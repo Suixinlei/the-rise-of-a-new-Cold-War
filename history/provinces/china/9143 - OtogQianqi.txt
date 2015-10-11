@@ -1,0 +1,8 @@
+owner = CHC
+controller = CHC
+ 
+add_core = CHC
+
+infra = 5
+air_base = 1 #Yinchuan airbase
+points = 1

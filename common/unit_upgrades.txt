@@ -1,0 +1,211 @@
+###################################################################
+# Unit upgrade rules are here
+#
+# If a unit A can upgrade to B and B to C and D,
+# then A will be able to upgrade to B, C and D
+###################################################################
+
+unit_upgrades = {
+
+	upgrade = 
+	{
+		base = garrison_brigade
+		target = infantry_brigade
+	}
+	upgrade = 
+	{
+		base = militia_brigade
+		target = infantry_brigade
+	}
+	upgrade = 
+	{
+		base = infantry_brigade
+		target = mechanized_brigade
+	}
+	upgrade = 
+	{
+		base = paratrooper_brigade
+		target = air_cavalry_brigade
+	}
+	upgrade = 
+	{
+		base = infantry_brigade
+		target = armor_brigade
+	}
+	upgrade = 
+	{
+		base = artillery_brigade
+		target = sp_artillery_brigade
+	}
+	upgrade = 
+	{
+		base = sp_artillery_brigade
+		target = sp_artillery_brigade
+	}
+	upgrade = 
+	{
+		base = artillery_brigade
+		target = artillery_brigade
+	}
+	upgrade = 
+	{
+		base = anti_tank_brigade
+		target = tank_destroyer_brigade
+	}
+	upgrade = 
+	{
+		base = anti_air_brigade
+		target = mobile_aa_brigade
+	}
+	upgrade = 
+	{
+		base = mobile_aa_brigade
+		target = mobile_aa_brigade
+	}
+	upgrade = 
+	{
+		base = anti_air_brigade
+		target = anti_air_brigade
+	}
+	upgrade = 
+	{
+		base = multi_role
+		target = interceptor
+	}
+	upgrade = 
+	{
+		base = ANAS
+		target = ANAS
+	}
+	upgrade = 
+	{
+		base = air_cavalry_brigade
+		target = air_cavalry_brigade
+	}
+	upgrade = 
+	{
+		base = battleship
+		target = battleship
+	}
+	upgrade = 
+	{
+		base = armor_brigade
+		target = armor_brigade
+	}
+	upgrade = 
+	{
+		base = wheeled_vehicles
+		target = wheeled_vehicles
+	}
+	upgrade = 
+	{
+		base = carrier
+		target = carrier
+	}
+	upgrade = 
+	{
+		base = cag
+		target = cag
+	}
+	upgrade = 
+	{
+		base = cas
+		target = cas
+	}
+	upgrade = 
+	{
+		base = destroyer
+		target = destroyer
+	}
+	upgrade = 
+	{
+		base = escort_carrier
+		target = escort_carrier
+	}
+	upgrade = 
+	{
+		base = helicopter_carriers
+		target = helicopter_carriers
+	}
+	upgrade = 
+	{
+		base = battlecruiser
+		target = battlecruiser
+	}
+	upgrade = 
+	{
+		base = stealth_fighter
+		target = stealth_fighter
+	}
+	upgrade = 
+	{
+		base = heavy_cruiser
+		target = heavy_cruiser
+	}
+	upgrade = 
+	{
+		base = multi_role
+		target = multi_role
+	}
+	upgrade = 
+	{
+		base = light_fighter
+		target = light_fighter
+	}
+	upgrade = 
+	{
+		base = light_cruiser
+		target = light_cruiser
+	}
+	upgrade = 
+	{
+		base = interceptor
+		target = interceptor
+	}
+	upgrade = 
+	{
+		base = submarine
+		target = submarine
+	}
+	upgrade = 
+	{
+		base = tank_destroyer_brigade
+		target = tank_destroyer_brigade
+	}
+	upgrade = 
+	{
+		base = strategic_bomber
+		target = strategic_bomber
+	}
+	upgrade = 
+	{
+		base = transport_plane
+		target = transport_plane
+	}
+	upgrade = 
+	{
+		base = attack_helicopter_brigade
+		target = attack_helicopter_brigade
+	}
+	upgrade = 
+	{
+		base = patrol_boat
+		target = patrol_boat
+	}
+	upgrade = 
+	{
+		base = caz
+		target = caz
+	}
+	upgrade = 
+	{
+		base = vtol
+		target = vtol
+	}
+	upgrade = 
+	{
+		base = anti_tank_brigade
+		target = anti_tank_brigade
+	}
+
+}

@@ -1,0 +1,8 @@
+owner = TRK
+controller = TRK
+add_core = TRK
+crude_oil = 4.00
+infra = 6
+air_base = 1 #Balkanabat airbase
+leadership = 2.50
+points = 1

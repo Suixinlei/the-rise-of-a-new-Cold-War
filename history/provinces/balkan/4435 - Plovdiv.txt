@@ -1,0 +1,9 @@
+owner = BUL
+controller = BUL
+add_core = BUL
+
+manpower = 0.2
+infra = 6
+
+air_base = 5 #Graf Ignatievo and Uzundzhovo airbase
+points = 1

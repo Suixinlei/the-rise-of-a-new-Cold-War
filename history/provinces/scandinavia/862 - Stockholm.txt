@@ -1,0 +1,11 @@
+owner = SWE
+controller = SWE
+add_core = SWE
+
+industry = 3
+infra = 9
+manpower = 0.80
+air_base = 5 #Stockholm-Arlanda
+naval_base = 3 #Stockholm port
+leadership = 2.50
+points = 1

@@ -1,0 +1,7 @@
+owner = ITA
+controller = ITA
+add_core = ITA
+
+infra = 8
+
+air_base = 8 #Aviano and Venice airbase

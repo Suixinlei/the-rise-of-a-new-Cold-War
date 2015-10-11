@@ -1,0 +1,87 @@
+capital = 1482
+government = constitutional_monarchy
+ideology = market_liberal
+alignment = { x = 0 y = -140 }
+neutrality = 80
+national_unity = 65
+2008.1.1 = { join_faction = allies } 
+
+oob = "DEN_2000.txt"
+
+popularity = { 
+	national_socialist = 0
+	fascistic = 0
+	paternal_autocrat = 12
+	social_conservative = 9
+	market_liberal = 31
+	social_liberal = 5
+	social_democrat = 29
+	left_wing_radical = 6
+	leninist = 2
+	stalinist = 0
+}
+
+organization = { 
+	national_socialist = 0
+	fascistic = 0
+	paternal_autocrat = 36
+	social_conservative = 27
+	market_liberal = 93
+	social_liberal = 15
+	social_democrat = 87
+	left_wing_radical = 18
+	leninist = 6
+	stalinist = 0
+}
+
+conscription_policy = military_service
+press_laws = free_press
+mobilisation_level = peace_time
+civil_laws = open_society
+economic_policy = limit_intervention
+service_length = six_months
+
+
+education = 2
+in_war = 1
+combat_medicine = 1
+first_aid = 1
+supply_transportation = 1
+supply_organisation = 1
+civil_defence = 2
+fertilizers = 1
+agriculture_machinery = 1
+industrial_facilities = 1
+industral_production = 2
+industral_efficiency = 2
+military_supplies_production = 1
+radio_surveillance = 1
+infra_building = 1
+air_base_building = 1
+naval_base_building = 1
+land_fort_building = 1
+coastal_fort_building = 1
+industrialization = 1
+weapon_design = 1
+automatic_weapons = 1
+a_support_weapon = 2
+precision_weapons = 1
+helmet_improvement = 1
+bulletproof_clothes = 2
+special_equipment = 1
+anti_tank_mines = 2
+anti_tank_rocket = 2
+vehicle_design = 1
+the_body_defense = 1
+gasoline_engine = 2
+the_small_caliber_weapons = 2
+the_large_caliber_weapons = 2
+the_police_force = 1
+professional_engineer = 1
+the_fuselage_design = 1
+main_battle_tank = 1
+a_military_helicopter = 1
+artillery_troops = 1
+mobile_artillery = 1
+artillery_fire = 2
+ship_hull = 1

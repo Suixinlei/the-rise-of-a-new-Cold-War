@@ -1,0 +1,13 @@
+owner = ENG
+controller = ENG
+add_core = ENG
+
+industry = 6
+manpower = 1.5
+
+infra = 10
+energy = 40.00
+metal = 8
+rare_materials = 5
+air_base = 4 #Birmingham airport
+points = 1

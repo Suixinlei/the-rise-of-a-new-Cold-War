@@ -1,0 +1,10 @@
+owner = EGY
+controller = EGY
+add_core = EGY
+manpower = 2.00
+
+infra = 7
+naval_base = 6 #Port Said
+leadership = 0.50
+points = 1
+industry = 4

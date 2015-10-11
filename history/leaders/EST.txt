@@ -1,0 +1,705 @@
+53001 = {
+	name = "Brede"
+	country = EST
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L53001
+	add_trait = marine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+53002 = {
+	name = "Kiili"
+	country = EST
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L53002
+	add_trait = offensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+53003 = {
+	name = "Terras"
+	country = EST
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L53003
+	add_trait = panzer_leader
+	add_trait = assaulter
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+53004 = {
+	name = "Laaneots"
+	country = EST
+	type = land
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L53004
+	add_trait = hard_defender
+	history = {
+		1995.1.1 = { rank = 1 }
+		1998.1.1 = { rank = 2 }
+		2001.1.1 = { rank = 3 }
+		2003.1.1 = { rank = 4 }
+	}
+}
+53005 = {
+	name = "Hoppe"
+	country = EST
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L53005
+	add_trait = offensive_doctrine
+	history = {
+		1995.1.1 = { rank = 1 }
+		2001.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+53006 = {
+	name = "Vaikšnoras"
+	country = EST
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L53006
+	add_trait = logistics_wizard
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+53007 = {
+	name = "Väli"
+	country = EST
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L53007
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+53008 = {
+	name = "Aare"
+	country = EST
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L53008
+	add_trait = commando
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+53009 = {
+	name = "Aasmäe"
+	country = EST
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 0.00
+	picture = L53009
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+53010 = {
+	name = "Alver"
+	country = EST
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 0.00
+	picture = L53010
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+53011 = {
+	name = "Eenpalu"
+	country = EST
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L53011
+	add_trait = improvisation
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+53012 = {
+	name = "Härma"
+	country = EST
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L53012
+	add_trait = defensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+53013 = {
+	name = "Ilves"
+	country = EST
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L53013
+	add_trait = landing_specialist
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+53014 = {
+	name = "Jänes"
+	country = EST
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L53014
+	add_trait = panzer_leader
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+53015 = {
+	name = "Jõgi"
+	country = EST
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 0.00
+	picture = L53015
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+53016 = {
+	name = "Kallas"
+	country = EST
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 0.00
+	picture = L53016
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+53017 = {
+	name = "Kass"
+	country = EST
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L53017
+	add_trait = landlubber
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+53018 = {
+	name = "Keskküla"
+	country = EST
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L53018
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+53019 = {
+	name = "Kirsipuu"
+	country = EST
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L53019
+	add_trait = engineer
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+53020 = {
+	name = "Lepmets"
+	country = EST
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L53020
+	add_trait = fortress_buster
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+53021 = {
+	name = "Lippmaa"
+	country = EST
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L53021
+	add_trait = commando
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+53022 = {
+	name = "Mägi"
+	country = EST
+	type = land
+	skill = 1
+	max_skill = 7
+	loyalty = 1.00
+	picture = L53022
+	add_trait = trainer
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+53023 = {
+	name = "Masing"
+	country = EST
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 1.00
+	picture = L53023
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+53024 = {
+	name = "Nurme"
+	country = EST
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 1.00
+	picture = L53024
+	add_trait = improvisation
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+53025 = {
+	name = "Nurmsalu"
+	country = EST
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L53025
+	add_trait = frontline_soldier
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+53026 = {
+	name = "Olesk"
+	country = EST
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L53026
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+53027 = {
+	name = "Orav"
+	country = EST
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L53027
+	add_trait = landing_specialist
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+53028 = {
+	name = "Pääsuke"
+	country = EST
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L53028
+	add_trait = assaulter
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+53029 = {
+	name = "Pärn"
+	country = EST
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 0.00
+	picture = L53029
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+53030 = {
+	name = "Pütsep"
+	country = EST
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L53030
+	add_trait = offensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+53031 = {
+	name = "Rootare"
+	country = EST
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L53031
+	add_trait = frontline_soldier
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+53032 = {
+	name = "Rüütli"
+	country = EST
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L53032
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+53033 = {
+	name = "Sibul"
+	country = EST
+	type = land
+	skill = 1
+	max_skill = 7
+	loyalty = 1.00
+	picture = L53033
+	add_trait = learners_will
+	add_trait = panzer_leader
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+53034 = {
+	name = "Sisask"
+	country = EST
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L53034
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+53035 = {
+	name = "Soosaar"
+	country = EST
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L53035
+	add_trait = panzer_leader
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+53036 = {
+	name = "Teder"
+	country = EST
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L53036
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+53037 = {
+	name = "Toom"
+	country = EST
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L53037
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+53038 = {
+	name = "Vaher"
+	country = EST
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 0.00
+	picture = L53038
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+53039 = {
+	name = "Vaino"
+	country = EST
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L53039
+	add_trait = improvisation
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+53040 = {
+	name = "Väljas"
+	country = EST
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L53040
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+53041 = {
+	name = "Vesik"
+	country = EST
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L53041
+	add_trait = frontline_soldier
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+53042 = {
+	name = "Viiding"
+	country = EST
+	type = land
+	skill = 0
+	max_skill = 6
+	loyalty = 1.00
+	picture = L53042
+	add_trait = commando
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+53043 = {
+	name = "Aavik"
+	country = EST
+	type = air
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L53043
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+53044 = {
+	name = "Alver"
+	country = EST
+	type = air
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L53044
+	add_trait = tank_buster
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+53045 = {
+	name = "Jakobson"
+	country = EST
+	type = air
+	skill = 1
+	max_skill = 5
+	loyalty = 0.00
+	picture = L53045
+	add_trait = fleet_destroyer
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+53046 = {
+	name = "Lill"
+	country = EST
+	type = air
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L53046
+	add_trait = superior_air_tactician
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+53047 = {
+	name = "Meri"
+	country = EST
+	type = air
+	skill = 1
+	max_skill = 5
+	loyalty = 0.00
+	picture = L53047
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+53048 = {
+	name = "Azacis"
+	country = EST
+	type = air
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L53048
+	add_trait = carpet_bomber
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+53049 = {
+	name = "Palumae"
+	country = EST
+	type = air
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = L53049
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+53050 = {
+	name = "Saar"
+	country = EST
+	type = air
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L53050
+	add_trait = tank_buster
+	add_trait = superior_air_tactician
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+53051 = {
+	name = "Lõoke"
+	country = EST
+	type = sea
+	skill = 0
+	max_skill = 5
+	loyalty = 1.00
+	picture = L53051
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+53052 = {
+	name = "Sokk"
+	country = EST
+	type = sea
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = L53052
+	add_trait = old_guard
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+53053 = {
+	name = "Tamm"
+	country = EST
+	type = sea
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L53053
+	add_trait = seawolf
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+53054 = {
+	name = "Kangro"
+	country = EST
+	type = sea
+	skill = 1
+	max_skill = 5
+	loyalty = 0.00
+	picture = L53054
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+53055 = {
+	name = "Sepper"
+	country = EST
+	type = sea
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L53055
+	add_trait = superior_tactician
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}

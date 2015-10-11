@@ -1,0 +1,7 @@
+owner = RWA
+controller = RWA
+add_core = RWA
+add_core = UGA
+manpower = 3.6
+infra = 5
+points = 1

@@ -1,0 +1,11 @@
+owner = POR
+controller = POR
+add_core = POR
+industry = 3
+manpower = 1.00
+infra = 10
+energy = 4.00
+air_base = 6 #Lisbon airport
+naval_base = 10 #Lisbon port
+leadership = 2.50
+points = 1

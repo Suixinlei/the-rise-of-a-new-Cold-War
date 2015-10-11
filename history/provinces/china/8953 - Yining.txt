@@ -1,0 +1,7 @@
+owner = CHC
+controller = CHC
+add_core = CHC
+ 
+infra = 6
+air_base = 2 #Yining and Aksu airbase
+points = 1

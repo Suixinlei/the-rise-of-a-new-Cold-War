@@ -1,0 +1,9 @@
+owner = CHC
+controller = CHC
+add_core = CHC
+
+infra = 10
+
+air_base = 3 #Macau airbase
+naval_base = 8 #Macau port
+points = 1

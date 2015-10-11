@@ -1,0 +1,242 @@
+90001 = {
+	name = "al-Abboud"
+	country = LEB
+	type = land
+	skill = 1
+	max_skill = 4
+	loyalty = 1.00
+	picture = LEB1
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+90002 = {
+	name = "al-Arab"
+	country = LEB
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = LEB2
+	add_trait = panzer_leader
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+90003 = {
+	name = "Kahwagi"
+	country = LEB
+	type = land
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = LEB3
+	add_trait = logistics_wizard
+	history = {
+		2000.1.1 = { rank = 4 }
+	}
+}
+90004 = {
+	name = "Aoun"
+	country = LEB
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = LEB4
+	add_trait = improvisation
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+90005 = {
+	name = "Azzam"
+	country = LEB
+	type = land
+	skill = 0
+	max_skill = 4
+	loyalty = 1.00
+	picture = LEB5
+	add_trait = commando
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+90006 = {
+	name = "M. Sulaiman"
+	country = LEB
+	type = land
+	skill = 3
+	max_skill = 6
+	loyalty = 1.00
+	picture = LEB6
+	add_trait = defensive_doctrine
+	add_trait = hard_defender
+	history = {
+		2000.1.1 = { rank = 3 }
+	}
+}
+90007 = {
+	name = "Bitar"
+	country = LEB
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = LEB7
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+90008 = {
+	name = "Cartenian"
+	country = LEB
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 1.00
+	picture = LEB8
+	add_trait = fortress_buster
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+90009 = {
+	name = "Kahwaji"
+	country = LEB
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = LEB9
+	add_trait = offensive_doctrine
+	history = {
+		2000.1.1 = { rank = 2 }
+	}
+}
+90010 = {
+	name = "Chehab  A."
+	country = LEB
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 1.00
+	picture = LEB10
+	add_trait = engineer
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+90011 = {
+	name = "El Hajj"
+	country = LEB
+	type = land
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = LEB11
+	history = {
+		2000.1.1 = { rank = 2 }
+	}
+}
+90012 = {
+	name = "Daher"
+	country = LEB
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = LEB12
+	add_trait = learners_will
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+90013 = {
+	name = "al-Arab"
+	country = LEB
+	type = air
+	skill = 0
+	max_skill = 5
+	loyalty = 1.00
+	picture = LEB13
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+90014 = {
+	name = "Fougerat"
+	country = LEB
+	type = air
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = LEB14
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+90015 = {
+	name = "al-Ghanem"
+	country = LEB
+	type = air
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = LEB15
+	add_trait = tank_buster
+	history = {
+		2000.1.1 = { rank = 2 }
+	}
+}
+90016 = {
+	name = "al-Harb"
+	country = LEB
+	type = air
+	skill = 1
+	max_skill = 4
+	loyalty = 1.00
+	picture = LEB16
+	add_trait = night_flyer
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+90017 = {
+	name = "Jad"
+	country = LEB
+	type = sea
+	skill = 0
+	max_skill = 4
+	loyalty = 1.00
+	picture = LEB17
+	add_trait = spotter
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+90018 = {
+	name = "Khlat"
+	country = LEB
+	type = sea
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = LEB18
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+90019 = {
+	name = "Sayyari"
+	country = LEB
+	type = sea
+	skill = 3
+	max_skill = 6
+	loyalty = 1.00
+	picture = LEB19
+	add_trait = superior_tactician
+	history = {
+		2000.1.1 = { rank = 3 }
+	}
+}

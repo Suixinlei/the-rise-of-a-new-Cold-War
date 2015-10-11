@@ -1,0 +1,13 @@
+theatre = {
+	name = "Jamaica Defence Force"
+	location = 7669
+	regiment = { type = hq_brigade name = "Jamaica Defence Force" historical_model = 2 }
+	division = {
+		is_reserve = yes
+		name = "The Jamaica Regiment"
+		location = 7669
+		regiment = { type = infantry_brigade name = "1st Battalion" historical_model = 2 }
+		regiment = { type = infantry_brigade name = "2nd Battalion" historical_model = 2 }
+		regiment = { type = infantry_brigade name = "3rd Battalion" historical_model = 2 }
+	}
+}

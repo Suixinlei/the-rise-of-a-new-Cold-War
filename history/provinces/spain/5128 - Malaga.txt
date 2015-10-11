@@ -1,0 +1,9 @@
+owner = SPR
+controller = SPR
+add_core = SPR
+manpower = 0.5
+infra = 8
+
+air_base = 3 #Malaga airport
+naval_base = 6 #Malaga port
+points = 1

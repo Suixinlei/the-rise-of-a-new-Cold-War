@@ -1,0 +1,41 @@
+capital = 10028
+government = autocratic_democracy
+ideology = leninist
+alignment = { x = 0 y = 50 }
+neutrality = 80
+national_unity = 70
+oob = "KON_2000.txt"
+
+popularity = { 
+	national_socialist = 0
+	fascistic = 0
+	paternal_autocrat = 0
+	social_conservative = 20
+	market_liberal = 0
+	social_liberal = 4
+	social_democrat = 3
+	left_wing_radical = 0
+	leninist = 35
+	stalinist = 0
+}
+
+organization = { 
+	national_socialist = 0
+	fascistic = 0
+	paternal_autocrat = 0
+	social_conservative = 60
+	market_liberal = 0
+	social_liberal = 12
+	social_democrat = 9
+	left_wing_radical = 0
+	leninist = 105
+	stalinist = 0
+}
+
+conscription_policy = volunteer_army
+press_laws = free_press
+mobilisation_level = peace_time
+civil_laws = open_society
+economic_policy = lais_fair
+service_length = six_months
+

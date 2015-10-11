@@ -1,0 +1,1106 @@
+49001 = {
+	name = "Abdelghani"
+	country = EGY
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = EGY1
+	add_trait = versatile
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+49002 = {
+	name = "al-Nasser"
+	country = EGY
+	type = land
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = EGY2
+	add_trait = commando
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+49003 = {
+	name = "Amer"
+	country = EGY
+	type = land
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = EGY3
+	add_trait = offensive_doctrine
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+49004 = {
+	name = "an-Nukraishi"
+	country = EGY
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = EGY4
+	add_trait = logistics_wizard
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+49005 = {
+	name = "as-Sadat"
+	country = EGY
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 1.00
+	picture = EGY5
+	add_trait = landlubber
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+49006 = {
+	name = "Shawky"
+	country = EGY
+	type = land
+	skill = 1
+	max_skill = 4
+	loyalty = 1.00
+	picture = EGY6
+	add_trait = defensive_doctrine
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+49007 = {
+	name = "el-Hakeem Amer"
+	country = EGY
+	type = land
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = EGY7
+	add_trait = old_guard
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+49008 = {
+	name = "el-Hamza Makkawi"
+	country = EGY
+	type = land
+	skill = 2
+	max_skill = 8
+	loyalty = 1.00
+	picture = EGY8
+	add_trait = panzer_leader
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+49009 = {
+	name = "Hommos"
+	country = EGY
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = EGY9
+	add_trait = landlubber
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+49010 = {
+	name = "Fouad"
+	country = EGY
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = EGY10
+	add_trait = old_guard
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+49011 = {
+	name = "Ghayib"
+	country = EGY
+	type = land
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = EGY11
+	add_trait = panzer_leader
+	add_trait = improvisation
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+49012 = {
+	name = "Goktai"
+	country = EGY
+	type = land
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = EGY12
+	add_trait = logistics_wizard
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+49013 = {
+	name = "Hamza"
+	country = EGY
+	type = land
+	skill = 0
+	max_skill = 6
+	loyalty = 1.00
+	picture = EGY13
+	add_trait = trickster
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+49014 = {
+	name = "Kamel"
+	country = EGY
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = EGY14
+	add_trait = defensive_doctrine
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+49015 = {
+	name = "Naguib"
+	country = EGY
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = EGY15
+	add_trait = logistics_wizard
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+49016 = {
+	name = "Nashran"
+	country = EGY
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = EGY16
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+49017 = {
+	name = "Refey"
+	country = EGY
+	type = land
+	skill = 1
+	max_skill = 7
+	loyalty = 1.00
+	picture = EGY17
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+49018 = {
+	name = "Sabry"
+	country = EGY
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = EGY18
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+49019 = {
+	name = "Saleh"
+	country = EGY
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = EGY19
+	add_trait = logistics_wizard
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+49020 = {
+	name = "Salim"
+	country = EGY
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 1.00
+	picture = EGY20
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+49021 = {
+	name = "Sirry"
+	country = EGY
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = EGY21
+	add_trait = defensive_doctrine
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+49022 = {
+	name = "Soliman"
+	country = EGY
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = EGY22
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+49023 = {
+	name = "Tabril"
+	country = EGY
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = EGY23
+	add_trait = landing_specialist
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+49024 = {
+	name = "Tawfik"
+	country = EGY
+	type = land
+	skill = 2
+	max_skill = 8
+	loyalty = 1.00
+	picture = EGY24
+	add_trait = landing_specialist
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+49025 = {
+	name = "Yahya"
+	country = EGY
+	type = land
+	skill = 3
+	max_skill = 9
+	loyalty = 1.00
+	picture = EGY25
+	add_trait = logistics_wizard
+	add_trait = landing_specialist
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+49026 = {
+	name = "el-Hadary"
+	country = EGY
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = EGY26
+	add_trait = panzer_leader
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+49027 = {
+	name = "Aflatan"
+	country = EGY
+	type = land
+	skill = 1
+	max_skill = 4
+	loyalty = 1.00
+	picture = EGY27
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+49028 = {
+	name = "Azmy"
+	country = EGY
+	type = land
+	skill = 4
+	max_skill = 8
+	loyalty = 1.00
+	picture = EGY28
+	add_trait = versatile
+	add_trait = assaulter
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+49029 = {
+	name = "el-Fathi"
+	country = EGY
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = EGY29
+	add_trait = learners_will
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+49030 = {
+	name = "Hamid"
+	country = EGY
+	type = land
+	skill = 0
+	max_skill = 4
+	loyalty = 1.00
+	picture = EGY30
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+49031 = {
+	name = "Ziwar"
+	country = EGY
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = EGY31
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+49032 = {
+	name = "al-Nasser"
+	country = EGY
+	type = land
+	skill = 0
+	max_skill = 4
+	loyalty = 1.00
+	picture = EGY32
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+49033 = {
+	name = "Azmy"
+	country = EGY
+	type = land
+	skill = 0
+	max_skill = 3
+	loyalty = 1.00
+	picture = EGY33
+	add_trait = frontline_soldier
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+49034 = {
+	name = "el-Hamza Makkawi"
+	country = EGY
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = EGY34
+	add_trait = commando
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+49035 = {
+	name = "Soliman"
+	country = EGY
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = EGY35
+	add_trait = frontline_soldier
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+49036 = {
+	name = "Tawfik"
+	country = EGY
+	type = land
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = EGY36
+	add_trait = commando
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+49037 = {
+	name = "Seif-Eldeen"
+	country = EGY
+	type = land
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = EGY37
+	add_trait = defensive_doctrine
+	add_trait = engineer
+	history = {
+		2000.1.1 = { rank = 2 }
+	}
+}
+49038 = {
+	name = "Asif"
+	country = EGY
+	type = land
+	skill = 4
+	max_skill = 9
+	loyalty = 1.00
+	picture = EGY38
+	add_trait = panzer_leader
+	history = {
+		2000.1.1 = { rank = 2 }
+	}
+}
+49039 = {
+	name = "Enan"
+	country = EGY
+	type = land
+	skill = 4
+	max_skill = 8
+	loyalty = 1.00
+	picture = EGY39
+	add_trait = marine
+	history = {
+		2000.1.1 = { rank = 2 }
+	}
+}
+49040 = {
+	name = "Abdallah"
+	country = EGY
+	type = land
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = EGY40
+	add_trait = trickster
+	history = {
+		2000.1.1 = { rank = 2 }
+	}
+}
+49041 = {
+	name = "Badeen"
+	country = EGY
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = EGY41
+	history = {
+		2000.1.1 = { rank = 2 }
+	}
+}
+49042 = {
+	name = "al-Molla"
+	country = EGY
+	type = land
+	skill = 3
+	max_skill = 6
+	loyalty = 1.00
+	picture = EGY42
+	add_trait = logistics_wizard
+	history = {
+		2000.1.1 = { rank = 2 }
+	}
+}
+49043 = {
+	name = "Mamdouh"
+	country = EGY
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = EGY43
+	add_trait = panzer_leader
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+49044 = {
+	name = "Sobhi"
+	country = EGY
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = EGY44
+	add_trait = hard_defender
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+49045 = {
+	name = "Tantawi"
+	country = EGY
+	type = land
+	skill = 3
+	max_skill = 9
+	loyalty = 1.00
+	picture = EGY45
+	add_trait = engineer
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+49046 = {
+	name = "Shahin"
+	country = EGY
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = EGY46
+	add_trait = landing_specialist
+	add_trait = fortress_buster
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+49047 = {
+	name = "el-Roweiny"
+	country = EGY
+	type = land
+	skill = 2
+	max_skill = 8
+	loyalty = 1.00
+	picture = EGY47
+	add_trait = marine
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+49048 = {
+	name = "Annan"
+	country = EGY
+	type = land
+	skill = 3
+	max_skill = 9
+	loyalty = 1.00
+	picture = EGY48
+	add_trait = panzer_leader
+	add_trait = trainer
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+49049 = {
+	name = "Freyc"
+	country = EGY
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = EGY49
+	add_trait = panzer_leader
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+49050 = {
+	name = "Etman"
+	country = EGY
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = EGY50
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+49051 = {
+	name = "el-Morsi"
+	country = EGY
+	type = land
+	skill = 2
+	max_skill = 8
+	loyalty = 1.00
+	picture = EGY51
+	add_trait = versatile
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+49052 = {
+	name = "el-Assar"
+	country = EGY
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = EGY52
+	add_trait = learners_will
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+49053 = {
+	name = "Hazir"
+	country = EGY
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = EGY53
+	add_trait = improvisation
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+49054 = {
+	name = "Kato"
+	country = EGY
+	type = land
+	skill = 5
+	max_skill = 9
+	loyalty = 1.00
+	picture = EGY54
+	history = {
+		2000.1.1 = { rank = 3 }
+	}
+}
+49055 = {
+	name = "Tantawi"
+	country = EGY
+	type = land
+	skill = 5
+	max_skill = 8
+	loyalty = 1.00
+	picture = EGY55
+	add_trait = assaulter
+	history = {
+		2000.1.1 = { rank = 4 }
+	}
+}
+49056 = {
+	name = "al-Sisi"
+	country = EGY
+	type = land
+	skill = 5
+	max_skill = 7
+	loyalty = 1.00
+	picture = EGY56
+	add_trait = frontline_soldier
+	history = {
+		2000.1.1 = { rank = 3 }
+	}
+}
+49057 = {
+	name = "Chalthoum"
+	country = EGY
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = EGY57
+	add_trait = commando
+	add_trait = engineer
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+49058 = {
+	name = "A. Sawalha"
+	country = EGY
+	type = land
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = EGY58
+	add_trait = landing_specialist
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+49059 = {
+	name = "Pakhomios"
+	country = EGY
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = EGY59
+	add_trait = panzer_leader
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+49060 = {
+	name = "al-Busiri"
+	country = EGY
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = EGY60
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+49061 = {
+	name = "el-Shamy"
+	country = EGY
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = EGY61
+	add_trait = commando
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+49062 = {
+	name = "M. Amer"
+	country = EGY
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = EGY62
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+49063 = {
+	name = "al-Karim"
+	country = EGY
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = EGY63
+	add_trait = logistics_wizard
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+49064 = {
+	name = "Eid"
+	country = EGY
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 1.00
+	picture = EGY64
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+49065 = {
+	name = "el-Hadary"
+	country = EGY
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = EGY65
+	add_trait = defensive_doctrine
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+49066 = {
+	name = "Mubarak"
+	country = EGY
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = EGY66
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+49067 = {
+	name = "Emam"
+	country = EGY
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = EGY67
+	add_trait = panzer_leader
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+49068 = {
+	name = "el-Mohamadi"
+	country = EGY
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = EGY68
+	add_trait = hard_defender
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+49069 = {
+	name = "Said"
+	country = EGY
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = EGY69
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+49070 = {
+	name = "Ghayib"
+	country = EGY
+	type = air
+	skill = 1
+	max_skill = 7
+	loyalty = 1.00
+	picture = EGY70
+	add_trait = night_flyer
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+49071 = {
+	name = "el-Goktai"
+	country = EGY
+	type = air
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = EGY71
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+49072 = {
+	name = "Ahmed"
+	country = EGY
+	type = air
+	skill = 3
+	max_skill = 6
+	loyalty = 1.00
+	picture = EGY72
+	add_trait = tank_buster
+	history = {
+		2000.1.1 = { rank = 2 }
+	}
+}
+49073 = {
+	name = "el-Kamel"
+	country = EGY
+	type = air
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = EGY73
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+49074 = {
+	name = "Naguib"
+	country = EGY
+	type = air
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = EGY74
+	add_trait = carpet_bomber
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+49075 = {
+	name = "Fathi"
+	country = EGY
+	type = air
+	skill = 3
+	max_skill = 6
+	loyalty = 1.00
+	picture = EGY75
+	add_trait = fleet_destroyer
+	add_trait = old_guard
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+49076 = {
+	name = "Hossain"
+	country = EGY
+	type = air
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = EGY76
+	add_trait = tank_buster
+	history = {
+		2000.1.1 = { rank = 2 }
+	}
+}
+49077 = {
+	name = "Hafez"
+	country = EGY
+	type = air
+	skill = 4
+	max_skill = 9
+	loyalty = 1.00
+	picture = EGY77
+	add_trait = tank_buster
+	add_trait = carpet_bomber
+	history = {
+		2000.1.1 = { rank = 3 }
+	}
+}
+49078 = {
+	name = "Saleh"
+	country = EGY
+	type = sea
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = EGY78
+	add_trait = seawolf
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+49079 = {
+	name = "Salim"
+	country = EGY
+	type = sea
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = EGY79
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+49080 = {
+	name = "Sirry"
+	country = EGY
+	type = sea
+	skill = 3
+	max_skill = 6
+	loyalty = 1.00
+	picture = EGY80
+	add_trait = old_guard
+	history = {
+		2000.1.1 = { rank = 2 }
+	}
+}
+49081 = {
+	name = "Soliman"
+	country = EGY
+	type = sea
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = EGY81
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+49082 = {
+	name = "Khairy"
+	country = EGY
+	type = sea
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = EGY82
+	add_trait = seawolf
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+49083 = {
+	name = "Hommos"
+	country = EGY
+	type = sea
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = EGY83
+	add_trait = blockade_runner
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+49084 = {
+	name = "Gouda"
+	country = EGY
+	type = sea
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = EGY84
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+49085 = {
+	name = "el-Gendy"
+	country = EGY
+	type = sea
+	skill = 4
+	max_skill = 7
+	loyalty = 1.00
+	picture = EGY85
+	add_trait = superior_tactician
+	history = {
+		2000.1.1 = { rank = 3 }
+	}
+}
+49086 = {
+	name = "Mameesh"
+	country = EGY
+	type = sea
+	skill = 5
+	max_skill = 8
+	loyalty = 1.00
+	picture = EGY86
+	add_trait = superior_tactician
+	add_trait = spotter
+	history = {
+		2000.1.1 = { rank = 3 }
+	}
+}

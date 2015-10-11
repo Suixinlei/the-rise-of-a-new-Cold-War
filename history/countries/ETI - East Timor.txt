@@ -1,0 +1,40 @@
+capital = 6558
+government = republic
+ideology = left_wing_radical
+alignment = { x = 0 y = 50 }
+neutrality = 80
+national_unity = 70
+oob = "ETI_2000.txt"
+
+popularity = { 
+	national_socialist = 0
+	fascistic = 0
+	paternal_autocrat = 2
+	social_conservative = 2
+	market_liberal = 2
+	social_liberal = 1
+	social_democrat = 8
+	left_wing_radical = 57
+	leninist = 2
+	stalinist = 0
+}
+
+organization = { 
+	national_socialist = 0
+	fascistic = 0
+	paternal_autocrat = 6
+	social_conservative = 6
+	market_liberal = 6
+	social_liberal = 3
+	social_democrat = 24
+	left_wing_radical = 150
+	leninist = 6
+	stalinist = 0
+}
+
+conscription_policy = volunteer_army
+press_laws = free_press
+mobilisation_level = peace_time
+civil_laws = open_society
+economic_policy = lais_fair
+service_length = six_months

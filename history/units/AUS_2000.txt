@@ -1,0 +1,60 @@
+theatre = {
+	name = "Österreichisches Bundesheer"
+	location = 3026
+	regiment = { type = hq_brigade name = "Österreichisches Bundesheer" historical_model = 2 }
+	army = {
+		name = "Landstreitkräfte"
+		location = 3227
+		regiment = { type = hq_brigade name = "Landstreitkräfte" historical_model = 2 }
+		division = {
+			is_reserve = yes
+			name = "Jagdkommando"
+			location = 3093
+			regiment = { type = special_forces_brigade name = "Jagdkommando" historical_model = 2 }
+		}
+		division = {
+			is_reserve = yes
+			name = "3. Mechanisierten Infanteriebrigade"
+			location = 3025
+			regiment = { type = armor_brigade name = "33. Panzerbataillon" historical_model = 0 }
+			regiment = { type = mechanized_brigade name = "35. Mechanisierten Infanteriebataillon" historical_model = 1 }
+			regiment = { type = infantry_brigade name = "19. Infanteriebataillon" historical_model = 2 }
+		}
+		division = {
+			is_reserve = yes
+			name = "4. Mechanisierten Infanteriebrigade"
+			location = 2956
+			regiment = { type = armor_brigade name = "14. Panzerbataillon" historical_model = 0 }
+			regiment = { type = mechanized_brigade name = "13. Mechanisierten Infanteriebataillon" historical_model = 1 }
+			regiment = { type = infantry_brigade name = "12. Infanteriebataillon" historical_model = 2 }
+		}
+		division = {
+			is_reserve = yes
+			name = "6. Infanteriebrigade"
+			location = 3289
+			regiment = { type = mountain_brigade name = "23. Infanteriebataillon" historical_model = 2 }
+			regiment = { type = mountain_brigade name = "24. Infanteriebataillon" historical_model = 2 }
+			regiment = { type = mountain_brigade name = "2. Infanteriebataillon" historical_model = 2 }
+		}
+		division = {
+			is_reserve = yes
+			name = "7. Infanteriebrigade"
+			location = 3362
+			regiment = { type = mechanized_brigade name = "17. Infanteriebataillon" historical_model = 1 }
+			regiment = { type = infantry_brigade name = "18. Infanteriebataillon" historical_model = 2 }
+		}
+		division = {
+			is_reserve = yes
+			name = "25. Infanteriebataillon"
+			location = 3362
+			regiment = { type = paratrooper_brigade name = "25. Infanteriebataillon" historical_model = 2 }
+		}
+	}
+	
+	air = {
+		name = "3. Luft Überwachung Geschwader"
+		base = 3227
+		location = 3227
+		wing = { type = multi_role name = "3. Luft Überwachung Geschwader" historical_model = 0 }
+	}
+}

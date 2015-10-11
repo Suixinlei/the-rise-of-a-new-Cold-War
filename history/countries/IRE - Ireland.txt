@@ -1,0 +1,49 @@
+capital = 1563
+government = republic
+ideology = market_liberal
+alignment = { x = 0 y = -111.4 }
+neutrality = 80
+national_unity = 80
+
+oob = "IRE_2000.txt"
+
+popularity = { 
+	national_socialist = 0
+	fascistic = 0
+	paternal_autocrat = 0
+	social_conservative = 19
+	market_liberal = 49
+	social_liberal = 5
+	social_democrat = 13
+	left_wing_radical = 1
+	leninist = 0
+	stalinist = 0
+}
+
+organization = { 
+	national_socialist = 0
+	fascistic = 0
+	paternal_autocrat = 0
+	social_conservative = 57
+	market_liberal = 147
+	social_liberal = 15
+	social_democrat = 39
+	left_wing_radical = 3
+	leninist = 0
+	stalinist = 0
+}
+
+conscription_policy = volunteer_army
+press_laws = free_press
+mobilisation_level = peace_time
+civil_laws = open_society
+service_length = eighteen_months
+economic_policy = lais_fair
+
+industrial_facilities = 1
+industral_production = 1
+industral_efficiency = 1
+weapon_design = 1
+the_fuselage_design = 1
+main_battle_tank = 1
+ship_hull = 1

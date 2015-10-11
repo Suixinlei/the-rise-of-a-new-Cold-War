@@ -1,0 +1,5 @@
+owner = FIN
+controller = FIN
+add_core = FIN
+infra = 7
+naval_base = 3 #Pori port

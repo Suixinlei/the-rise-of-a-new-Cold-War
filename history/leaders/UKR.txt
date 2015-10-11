@@ -1,0 +1,2602 @@
+170001 = {
+	name = "Karakay"
+	country = UKR
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L170001
+	add_trait = panzer_leader
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+170002 = {
+	name = "A. Levchenko"
+	country = UKR
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 0.00
+	picture = L170002
+	add_trait = improvisation
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+170003 = {
+	name = "Alexejevych"
+	country = UKR
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L170003
+	add_trait = commando
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+170004 = {
+	name = "Astapkovych"
+	country = UKR
+	type = land
+	skill = 2
+	max_skill = 5
+	loyalty = 0.00
+	picture = L170004
+	add_trait = panzer_leader
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+170005 = {
+	name = "Dmitrievich"
+	country = UKR
+	type = land
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = L170005
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+170006 = {
+	name = "Goncharov"
+	country = UKR
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L170006
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+170007 = {
+	name = "Kyndarknev"
+	country = UKR
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L170007
+	add_trait = landing_specialist
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+170008 = {
+	name = "Lysovoy"
+	country = UKR
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L170008
+	add_trait = commando
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+170009 = {
+	name = "Markovic"
+	country = UKR
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L170009
+	add_trait = defensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+170010 = {
+	name = "Myroslavovych"
+	country = UKR
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 0.00
+	picture = L170010
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+170011 = {
+	name = "Nikolajevych"
+	country = UKR
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L170011
+	add_trait = offensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+170012 = {
+	name = "Pohibko"
+	country = UKR
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L170012
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+170013 = {
+	name = "Shlyahtyn"
+	country = UKR
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 0.00
+	picture = L170013
+	add_trait = engineer
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+170014 = {
+	name = "Talalay"
+	country = UKR
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L170014
+	add_trait = learners_will
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+170015 = {
+	name = "V. Ivanovych"
+	country = UKR
+	type = land
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L170015
+	add_trait = commando
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+170016 = {
+	name = "Zaika"
+	country = UKR
+	type = land
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = L170016
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+170017 = {
+	name = "Abrahamovsky"
+	country = UKR
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 0.00
+	picture = L170017
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+170018 = {
+	name = "Achtymichuk"
+	country = UKR
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L170018
+	add_trait = fortress_buster
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+170019 = {
+	name = "Adamchuk"
+	country = UKR
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L170019
+	add_trait = defensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+170020 = {
+	name = "Andreychuk"
+	country = UKR
+	type = land
+	skill = 1
+	max_skill = 7
+	loyalty = 1.00
+	picture = L170020
+	add_trait = trainer
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+170021 = {
+	name = "Andriychuk"
+	country = UKR
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 0.00
+	picture = L170021
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+170022 = {
+	name = "Avramenko"
+	country = UKR
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L170022
+	add_trait = logistics_wizard
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+170023 = {
+	name = "Belanov"
+	country = UKR
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L170023
+	add_trait = landing_specialist
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+170024 = {
+	name = "Berkovic"
+	country = UKR
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 0.00
+	picture = L170024
+	add_trait = assaulter
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+170025 = {
+	name = "Berkovits"
+	country = UKR
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L170025
+	add_trait = offensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+170026 = {
+	name = "Bondar"
+	country = UKR
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 0.00
+	picture = L170026
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+170027 = {
+	name = "Bondarchuk"
+	country = UKR
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 0.00
+	picture = L170027
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+170028 = {
+	name = "Brezhnev"
+	country = UKR
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L170028
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+170029 = {
+	name = "Brodsky"
+	country = UKR
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L170029
+	add_trait = trickster
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+170030 = {
+	name = "Brody"
+	country = UKR
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L170030
+	add_trait = engineer
+	add_trait = hard_defender
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+170031 = {
+	name = "Bukowski"
+	country = UKR
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L170031
+	add_trait = panzer_leader
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+170032 = {
+	name = "Burliuk"
+	country = UKR
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L170032
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+170033 = {
+	name = "Butko"
+	country = UKR
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L170033
+	add_trait = offensive_doctrine
+	add_trait = assaulter
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+170034 = {
+	name = "Chalupa"
+	country = UKR
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L170034
+	add_trait = frontline_soldier
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+170035 = {
+	name = "Chernenko"
+	country = UKR
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 0.00
+	picture = L170035
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+170036 = {
+	name = "Chorny"
+	country = UKR
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 0.00
+	picture = L170036
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+170037 = {
+	name = "Chumachenko"
+	country = UKR
+	type = land
+	skill = 2
+	max_skill = 8
+	loyalty = 1.00
+	picture = L170037
+	add_trait = hard_defender
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+170038 = {
+	name = "Derevyanko"
+	country = UKR
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L170038
+	add_trait = landing_specialist
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+170039 = {
+	name = "Dobriansky"
+	country = UKR
+	type = land
+	skill = 2
+	max_skill = 5
+	loyalty = 0.00
+	picture = L170039
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+170040 = {
+	name = "Dovzhenko"
+	country = UKR
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L170040
+	add_trait = learners_will
+	add_trait = offensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+170041 = {
+	name = "Drozd"
+	country = UKR
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L170041
+	add_trait = engineer
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+170042 = {
+	name = "Dziuba"
+	country = UKR
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L170042
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+170043 = {
+	name = "Dzubenko"
+	country = UKR
+	type = land
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L170043
+	add_trait = commando
+	add_trait = assaulter
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+170044 = {
+	name = "Eremenko"
+	country = UKR
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L170044
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+170045 = {
+	name = "Fedorchuk"
+	country = UKR
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L170045
+	add_trait = commando
+	add_trait = trickster
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+170046 = {
+	name = "Fedorenko"
+	country = UKR
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 0.00
+	picture = L170046
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+170047 = {
+	name = "Fomenko"
+	country = UKR
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L170047
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+170048 = {
+	name = "Garmash"
+	country = UKR
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L170048
+	add_trait = fortress_buster
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+170049 = {
+	name = "Honchar"
+	country = UKR
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L170049
+	add_trait = panzer_leader
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+170050 = {
+	name = "Ivanoff"
+	country = UKR
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 0.00
+	picture = L170050
+	add_trait = frontline_soldier
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+170051 = {
+	name = "Ivashko"
+	country = UKR
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L170051
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+170052 = {
+	name = "Kalachnik"
+	country = UKR
+	type = land
+	skill = 1
+	max_skill = 7
+	loyalty = 0.00
+	picture = L170052
+	add_trait = trainer
+	add_trait = defensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+170053 = {
+	name = "Kalashnik"
+	country = UKR
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L170053
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+170054 = {
+	name = "Karpenko"
+	country = UKR
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L170054
+	add_trait = winter_specialist
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+170055 = {
+	name = "Klymenko"
+	country = UKR
+	type = land
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L170055
+	add_trait = panzer_leader
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+170056 = {
+	name = "Kononenko"
+	country = UKR
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L170056
+	add_trait = fortress_buster
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+170057 = {
+	name = "Koval"
+	country = UKR
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L170057
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+170058 = {
+	name = "Krasovsky"
+	country = UKR
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L170058
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+170059 = {
+	name = "Kruk"
+	country = UKR
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 0.00
+	picture = L170059
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+170060 = {
+	name = "Kushnir"
+	country = UKR
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L170060
+	add_trait = learners_will
+	add_trait = offensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+170061 = {
+	name = "Lytvyn"
+	country = UKR
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L170061
+	add_trait = winter_specialist
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+170062 = {
+	name = "Maidanik"
+	country = UKR
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L170062
+	add_trait = frontline_soldier
+	add_trait = improvisation
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+170063 = {
+	name = "Michalka"
+	country = UKR
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L170063
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+170064 = {
+	name = "Moskal"
+	country = UKR
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L170064
+	add_trait = learners_will
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+170065 = {
+	name = "Nesterenko"
+	country = UKR
+	type = land
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L170065
+	add_trait = offensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+170066 = {
+	name = "Okopenko"
+	country = UKR
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L170066
+	add_trait = offensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+170067 = {
+	name = "Panchenko"
+	country = UKR
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L170067
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+170068 = {
+	name = "Pogrebinsky"
+	country = UKR
+	type = land
+	skill = 2
+	max_skill = 5
+	loyalty = 0.00
+	picture = L170068
+	add_trait = old_guard
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+170069 = {
+	name = "Romanchuk"
+	country = UKR
+	type = land
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L170069
+	add_trait = offensive_doctrine
+	add_trait = assaulter
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+170070 = {
+	name = "Rybalka"
+	country = UKR
+	type = land
+	skill = 3
+	max_skill = 6
+	loyalty = 1.00
+	picture = L170070
+	add_trait = defensive_doctrine
+	add_trait = winter_specialist
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+170071 = {
+	name = "Savchenko"
+	country = UKR
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L170071
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+170072 = {
+	name = "Spivak"
+	country = UKR
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 0.00
+	picture = L170072
+	add_trait = logistics_wizard
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+170073 = {
+	name = "Suprun"
+	country = UKR
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 0.00
+	picture = L170073
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+170074 = {
+	name = "Sydor"
+	country = UKR
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L170074
+	add_trait = fortress_buster
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+170075 = {
+	name = "Tchaikovsky"
+	country = UKR
+	type = land
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = L170075
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+170076 = {
+	name = "Tereshchenko"
+	country = UKR
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L170076
+	add_trait = frontline_soldier
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+170077 = {
+	name = "Tereshchuk"
+	country = UKR
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L170077
+	add_trait = commando
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+170078 = {
+	name = "Tkach"
+	country = UKR
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L170078
+	add_trait = panzer_leader
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+170079 = {
+	name = "Tkachenko"
+	country = UKR
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L170079
+	add_trait = panzer_leader
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+170080 = {
+	name = "Tkachuk"
+	country = UKR
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 0.00
+	picture = L170080
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+170081 = {
+	name = "Tsybulenko"
+	country = UKR
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 0.00
+	picture = L170081
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+170082 = {
+	name = "Twersky"
+	country = UKR
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L170082
+	add_trait = landing_specialist
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+170083 = {
+	name = "Tymoshenko"
+	country = UKR
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 0.00
+	picture = L170083
+	add_trait = landlubber
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+170084 = {
+	name = "Vasin"
+	country = UKR
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L170084
+	add_trait = defensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+170085 = {
+	name = "Venherov"
+	country = UKR
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L170085
+	add_trait = panzer_leader
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+170086 = {
+	name = "Vishnevsky"
+	country = UKR
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 0.00
+	picture = L170086
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+170087 = {
+	name = "Vlasenko"
+	country = UKR
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L170087
+	add_trait = offensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+170088 = {
+	name = "Volokh"
+	country = UKR
+	type = land
+	skill = 2
+	max_skill = 8
+	loyalty = 1.00
+	picture = L170088
+	add_trait = landing_specialist
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+170089 = {
+	name = "Voloshin"
+	country = UKR
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 0.00
+	picture = L170089
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+170090 = {
+	name = "Vorobey"
+	country = UKR
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L170090
+	add_trait = commando
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+170091 = {
+	name = "Voytenko"
+	country = UKR
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L170091
+	add_trait = engineer
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+170092 = {
+	name = "Yaremchuk"
+	country = UKR
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L170092
+	add_trait = offensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+170093 = {
+	name = "Yaroshenko"
+	country = UKR
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 1.00
+	picture = L170093
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+170094 = {
+	name = "Yurin"
+	country = UKR
+	type = land
+	skill = 1
+	max_skill = 7
+	loyalty = 1.00
+	picture = L170094
+	add_trait = trainer
+	add_trait = landing_specialist
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+170095 = {
+	name = "Yurkov"
+	country = UKR
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 0.00
+	picture = L170095
+	add_trait = trickster
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+170096 = {
+	name = "Fridrikhovych"
+	country = UKR
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L170096
+	add_trait = engineer
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+170097 = {
+	name = "Heorhiyeshu"
+	country = UKR
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L170097
+	add_trait = frontline_soldier
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+170098 = {
+	name = "Ivanovic"
+	country = UKR
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L170098
+	add_trait = logistics_wizard
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+170099 = {
+	name = "Lishavskomu"
+	country = UKR
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 0.00
+	picture = L170099
+	add_trait = old_guard
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+170100 = {
+	name = "Lysenko"
+	country = UKR
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L170100
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+170101 = {
+	name = "Nikitenko"
+	country = UKR
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 0.00
+	picture = L170101
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+170102 = {
+	name = "Romanchenko"
+	country = UKR
+	type = land
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = L170102
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+170103 = {
+	name = "Sadowski"
+	country = UKR
+	type = land
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = L170103
+	add_trait = offensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+170104 = {
+	name = "Semenovich"
+	country = UKR
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L170104
+	add_trait = assaulter
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+170105 = {
+	name = "Vladimirovych"
+	country = UKR
+	type = land
+	skill = 2
+	max_skill = 5
+	loyalty = 0.00
+	picture = L170105
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+170106 = {
+	name = "W. Shevchenko"
+	country = UKR
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L170106
+	add_trait = improvisation
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+170107 = {
+	name = "Durdynets"
+	country = UKR
+	type = land
+	skill = 4
+	max_skill = 7
+	loyalty = 1.00
+	picture = L170107
+	add_trait = frontline_soldier
+	add_trait = improvisation
+	history = {
+		1995.1.1 = { rank = 1 }
+		1998.1.1 = { rank = 2 }
+		2001.1.1 = { rank = 3 }
+		2003.1.1 = { rank = 4 }
+	}
+}
+170108 = {
+	name = "H. M. Pedchenko"
+	country = UKR
+	type = land
+	skill = 4
+	max_skill = 8
+	loyalty = 1.00
+	picture = L170108
+	add_trait = logistics_wizard
+	history = {
+		1995.1.1 = { rank = 1 }
+		1998.1.1 = { rank = 2 }
+		2000.1.1 = { rank = 3 }
+		2003.1.1 = { rank = 4 }
+	}
+}
+170109 = {
+	name = "Vorobyev"
+	country = UKR
+	type = land
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L170109
+	add_trait = defensive_doctrine
+	history = {
+		1995.1.1 = { rank = 1 }
+		1998.1.1 = { rank = 2 }
+		2001.1.1 = { rank = 3 }
+		2003.1.1 = { rank = 4 }
+	}
+}
+170110 = {
+	name = "Zaman"
+	country = UKR
+	type = land
+	skill = 5
+	max_skill = 8
+	loyalty = 1.00
+	picture = L170110
+	history = {
+		1995.1.1 = { rank = 1 }
+		1998.1.1 = { rank = 2 }
+		2001.1.1 = { rank = 3 }
+		2003.1.1 = { rank = 4 }
+	}
+}
+170111 = {
+	name = "Askarovo"
+	country = UKR
+	type = land
+	skill = 4
+	max_skill = 7
+	loyalty = 1.00
+	picture = L170111
+	add_trait = fortress_buster
+	history = {
+		1998.1.1 = { rank = 1 }
+		2001.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+170112 = {
+	name = "Babenko"
+	country = UKR
+	type = land
+	skill = 3
+	max_skill = 6
+	loyalty = 0.00
+	picture = L170112
+	add_trait = defensive_doctrine
+	history = {
+		1998.1.1 = { rank = 1 }
+		2001.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+170113 = {
+	name = "Borisov"
+	country = UKR
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L170113
+	add_trait = commando
+	history = {
+		1998.1.1 = { rank = 1 }
+		2001.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+170114 = {
+	name = "Huslavskym"
+	country = UKR
+	type = land
+	skill = 4
+	max_skill = 7
+	loyalty = 1.00
+	picture = L170114
+	add_trait = panzer_leader
+	history = {
+		1998.1.1 = { rank = 1 }
+		2001.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+170115 = {
+	name = "Kolesnik"
+	country = UKR
+	type = land
+	skill = 3
+	max_skill = 6
+	loyalty = 0.00
+	picture = L170115
+	history = {
+		1998.1.1 = { rank = 1 }
+		2001.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+170116 = {
+	name = "Kotlyar"
+	country = UKR
+	type = land
+	skill = 3
+	max_skill = 5
+	loyalty = 1.00
+	picture = L170116
+	history = {
+		1998.1.1 = { rank = 1 }
+		2001.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+170117 = {
+	name = "Kycherenko"
+	country = UKR
+	type = land
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L170117
+	add_trait = commando
+	history = {
+		1998.1.1 = { rank = 1 }
+		2001.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+170118 = {
+	name = "Lysytskova"
+	country = UKR
+	type = land
+	skill = 4
+	max_skill = 8
+	loyalty = 1.00
+	picture = L170118
+	add_trait = hard_defender
+	history = {
+		1998.1.1 = { rank = 1 }
+		2001.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+170119 = {
+	name = "Malkov"
+	country = UKR
+	type = land
+	skill = 3
+	max_skill = 6
+	loyalty = 1.00
+	picture = L170119
+	history = {
+		1998.1.1 = { rank = 1 }
+		2001.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+170120 = {
+	name = "Mohylov"
+	country = UKR
+	type = land
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L170120
+	add_trait = landing_specialist
+	history = {
+		1998.1.1 = { rank = 1 }
+		2001.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+170121 = {
+	name = "Muzhenko"
+	country = UKR
+	type = land
+	skill = 2
+	max_skill = 5
+	loyalty = 0.00
+	picture = L170121
+	history = {
+		1998.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+170122 = {
+	name = "Petrenko"
+	country = UKR
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L170122
+	add_trait = panzer_leader
+	history = {
+		1998.1.1 = { rank = 1 }
+		2001.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+170123 = {
+	name = "Popko"
+	country = UKR
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 0.00
+	picture = L170123
+	add_trait = offensive_doctrine
+	history = {
+		1998.1.1 = { rank = 1 }
+		2001.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+170124 = {
+	name = "Pushnyakov"
+	country = UKR
+	type = land
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L170124
+	add_trait = engineer
+	add_trait = hard_defender
+	history = {
+		1998.1.1 = { rank = 1 }
+		2001.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+170125 = {
+	name = "Shapovalov"
+	country = UKR
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 0.00
+	picture = L170125
+	add_trait = defensive_doctrine
+	history = {
+		1998.1.1 = { rank = 1 }
+		2001.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+170126 = {
+	name = "Shulyak"
+	country = UKR
+	type = land
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L170126
+	add_trait = learners_will
+	add_trait = offensive_doctrine
+	history = {
+		1998.1.1 = { rank = 1 }
+		2001.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+170127 = {
+	name = "Vorobyov"
+	country = UKR
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L170127
+	history = {
+		1998.1.1 = { rank = 1 }
+		2001.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+170128 = {
+	name = "Byryukov"
+	country = UKR
+	type = land
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L170128
+	add_trait = offensive_doctrine
+	add_trait = assaulter
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+170129 = {
+	name = "Chumaka"
+	country = UKR
+	type = land
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L170129
+	add_trait = winter_specialist
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+170130 = {
+	name = "Denysenko"
+	country = UKR
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L170130
+	add_trait = panzer_leader
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+170131 = {
+	name = "Derkach"
+	country = UKR
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 0.00
+	picture = L170131
+	add_trait = defensive_doctrine
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+170132 = {
+	name = "Dubliany"
+	country = UKR
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L170132
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+170133 = {
+	name = "Dubovik"
+	country = UKR
+	type = land
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L170133
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+170134 = {
+	name = "Dumansky"
+	country = UKR
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L170134
+	add_trait = defensive_doctrine
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+170135 = {
+	name = "Emelyanov"
+	country = UKR
+	type = land
+	skill = 2
+	max_skill = 5
+	loyalty = 0.00
+	picture = L170135
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+170136 = {
+	name = "G. Ivashchenko"
+	country = UKR
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L170136
+	add_trait = old_guard
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+170137 = {
+	name = "Gordiychuk"
+	country = UKR
+	type = land
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L170137
+	add_trait = logistics_wizard
+	add_trait = offensive_doctrine
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+170138 = {
+	name = "Grinenko"
+	country = UKR
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L170138
+	add_trait = offensive_doctrine
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+170139 = {
+	name = "Homchaku"
+	country = UKR
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L170139
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+170140 = {
+	name = "Kolesnik"
+	country = UKR
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L170140
+	add_trait = frontline_soldier
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+170141 = {
+	name = "Lewtschenko"
+	country = UKR
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L170141
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+170142 = {
+	name = "Ottovych"
+	country = UKR
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L170142
+	add_trait = panzer_leader
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+170143 = {
+	name = "Romanenko"
+	country = UKR
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 0.00
+	picture = L170143
+	add_trait = fortress_buster
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+170144 = {
+	name = "Shulyak"
+	country = UKR
+	type = land
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L170144
+	add_trait = improvisation
+	add_trait = learners_will
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+170145 = {
+	name = "Shutov"
+	country = UKR
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 0.00
+	picture = L170145
+	add_trait = offensive_doctrine
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+170146 = {
+	name = "Skakodub"
+	country = UKR
+	type = land
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L170146
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+170147 = {
+	name = "Tishkov"
+	country = UKR
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L170147
+	add_trait = panzer_leader
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+170148 = {
+	name = "Tkachuk"
+	country = UKR
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L170148
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+170149 = {
+	name = "Volkov"
+	country = UKR
+	type = land
+	skill = 3
+	max_skill = 9
+	loyalty = 1.00
+	picture = L170149
+	add_trait = learners_will
+	add_trait = hard_defender
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+170150 = {
+	name = "Brezhnev"
+	country = UKR
+	type = air
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = L170150
+	add_trait = night_flyer
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+170151 = {
+	name = "Kulesha"
+	country = UKR
+	type = air
+	skill = 1
+	max_skill = 5
+	loyalty = 0.00
+	picture = L170151
+	add_trait = tank_buster
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+170152 = {
+	name = "Savchuk"
+	country = UKR
+	type = air
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L170152
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+170153 = {
+	name = "Bobylev"
+	country = UKR
+	type = air
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = L170153
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+170154 = {
+	name = "Dubovik"
+	country = UKR
+	type = air
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L170154
+	add_trait = carpet_bomber
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+170155 = {
+	name = "Grizak"
+	country = UKR
+	type = air
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L170155
+	add_trait = superior_air_tactician
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+170156 = {
+	name = "Hytrenku"
+	country = UKR
+	type = air
+	skill = 1
+	max_skill = 4
+	loyalty = 0.00
+	picture = L170156
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+170157 = {
+	name = "Kharitonov"
+	country = UKR
+	type = air
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L170157
+	add_trait = fleet_destroyer
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+170158 = {
+	name = "Onischtschenko"
+	country = UKR
+	type = air
+	skill = 2
+	max_skill = 6
+	loyalty = 0.00
+	picture = L170158
+	add_trait = fleet_destroyer
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+170159 = {
+	name = "Osypenka"
+	country = UKR
+	type = air
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L170159
+	add_trait = superior_air_tactician
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+170160 = {
+	name = "Pohotov"
+	country = UKR
+	type = air
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L170160
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+170161 = {
+	name = "Sinenko"
+	country = UKR
+	type = air
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L170161
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+170162 = {
+	name = "Viktorovych"
+	country = UKR
+	type = air
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L170162
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+170163 = {
+	name = "Baidak"
+	country = UKR
+	type = air
+	skill = 3
+	max_skill = 6
+	loyalty = 1.00
+	picture = L170163
+	add_trait = carpet_bomber
+	history = {
+		1998.1.1 = { rank = 1 }
+		2001.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+170164 = {
+	name = "Epur"
+	country = UKR
+	type = air
+	skill = 3
+	max_skill = 6
+	loyalty = 0.00
+	picture = L170164
+	add_trait = fleet_destroyer
+	history = {
+		1998.1.1 = { rank = 1 }
+		2001.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+170165 = {
+	name = "Onischtschenko"
+	country = UKR
+	type = air
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L170165
+	add_trait = superior_air_tactician
+	history = {
+		1998.1.1 = { rank = 1 }
+		2001.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+170166 = {
+	name = "Strutsinskyy"
+	country = UKR
+	type = air
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L170166
+	history = {
+		1998.1.1 = { rank = 1 }
+		2001.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+170167 = {
+	name = "Alexandrowitsch"
+	country = UKR
+	type = air
+	skill = 2
+	max_skill = 6
+	loyalty = 0.00
+	picture = L170167
+	add_trait = carpet_bomber
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+170168 = {
+	name = "Alferov"
+	country = UKR
+	type = air
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L170168
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+170169 = {
+	name = "Artemenko"
+	country = UKR
+	type = air
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L170169
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+170170 = {
+	name = "Baydak"
+	country = UKR
+	type = air
+	skill = 2
+	max_skill = 6
+	loyalty = 0.00
+	picture = L170170
+	add_trait = superior_air_tactician
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+170171 = {
+	name = "Kotlyar"
+	country = UKR
+	type = air
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L170171
+	add_trait = tank_buster
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+170172 = {
+	name = "Kovalenko"
+	country = UKR
+	type = air
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L170172
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+170173 = {
+	name = "Kryzhanovskyy"
+	country = UKR
+	type = air
+	skill = 2
+	max_skill = 6
+	loyalty = 0.00
+	picture = L170173
+	add_trait = superior_air_tactician
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+170174 = {
+	name = "Pavlovich"
+	country = UKR
+	type = air
+	skill = 3
+	max_skill = 6
+	loyalty = 1.00
+	picture = L170174
+	add_trait = carpet_bomber
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+170175 = {
+	name = "Huslavskyy"
+	country = UKR
+	type = air
+	skill = 4
+	max_skill = 7
+	loyalty = 1.00
+	picture = L170175
+	history = {
+		1998.1.1 = { rank = 1 }
+		2000.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+170176 = {
+	name = "Zotov"
+	country = UKR
+	type = air
+	skill = 1
+	max_skill = 4
+	loyalty = 0.00
+	picture = L170176
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+170177 = {
+	name = "Kalasnik"
+	country = UKR
+	type = sea
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L170177
+	add_trait = seawolf
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+170178 = {
+	name = "Onishchenko"
+	country = UKR
+	type = sea
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = L170178
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+170179 = {
+	name = "Netrebko"
+	country = UKR
+	type = sea
+	skill = 1
+	max_skill = 5
+	loyalty = 0.00
+	picture = L170179
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+170180 = {
+	name = "Berezovsky"
+	country = UKR
+	type = sea
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L170180
+	add_trait = seawolf
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+170181 = {
+	name = "Eliseev"
+	country = UKR
+	type = sea
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = L170181
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+170182 = {
+	name = "Ivanovic"
+	country = UKR
+	type = sea
+	skill = 1
+	max_skill = 5
+	loyalty = 0.00
+	picture = L170182
+	add_trait = spotter
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+170183 = {
+	name = "Tenyukh"
+	country = UKR
+	type = sea
+	skill = 4
+	max_skill = 8
+	loyalty = 1.00
+	picture = L170183
+	add_trait = superior_tactician
+	history = {
+		1995.1.1 = { rank = 1 }
+		1998.1.1 = { rank = 2 }
+		2001.1.1 = { rank = 3 }
+		2003.1.1 = { rank = 4 }
+	}
+}
+170184 = {
+	name = "Yezhel"
+	country = UKR
+	type = sea
+	skill = 4
+	max_skill = 7
+	loyalty = 1.00
+	picture = L170184
+	add_trait = spotter
+	add_trait = blockade_runner
+	history = {
+		1995.1.1 = { rank = 1 }
+		1998.1.1 = { rank = 2 }
+		2001.1.1 = { rank = 3 }
+		2003.1.1 = { rank = 4 }
+	}
+}
+170185 = {
+	name = "Ilyina"
+	country = UKR
+	type = sea
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L170185
+	add_trait = seawolf
+	history = {
+		1998.1.1 = { rank = 1 }
+		2001.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+170186 = {
+	name = "Lytvyn"
+	country = UKR
+	type = sea
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L170186
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+170187 = {
+	name = "Zelenko"
+	country = UKR
+	type = sea
+	skill = 0
+	max_skill = 4
+	loyalty = 0.00
+	picture = L170187
+	add_trait = spotter
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+170188 = {
+	name = "Ivanenko"
+	country = UKR
+	type = sea
+	skill = 1
+	max_skill = 5
+	loyalty = 0.00
+	picture = L170188
+	add_trait = blockade_runner
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+170189 = {
+	name = "Kniaz"
+	country = UKR
+	type = sea
+	skill = 3
+	max_skill = 6
+	loyalty = 1.00
+	picture = L170189
+	history = {
+		1998.1.1 = { rank = 1 }
+		2001.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+170190 = {
+	name = "Kozhina"
+	country = UKR
+	type = sea
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L170190
+	add_trait = superior_tactician
+	history = {
+		1998.1.1 = { rank = 1 }
+		2001.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+170191 = {
+	name = "Maksimov"
+	country = UKR
+	type = sea
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L170191
+	add_trait = spotter
+	history = {
+		1998.1.1 = { rank = 1 }
+		2001.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+170192 = {
+	name = "Tenyukh"
+	country = UKR
+	type = sea
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L170192
+	add_trait = seawolf
+	history = {
+		1998.1.1 = { rank = 1 }
+		2001.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+170193 = {
+	name = "Beresowski"
+	country = UKR
+	type = sea
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L170193
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+170194 = {
+	name = "Lebedew"
+	country = UKR
+	type = sea
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L170194
+	add_trait = blockade_runner
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+170195 = {
+	name = "Nosenko"
+	country = UKR
+	type = sea
+	skill = 3
+	max_skill = 6
+	loyalty = 1.00
+	picture = L170195
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+170196 = {
+	name = "Vladimirovich"
+	country = UKR
+	type = sea
+	skill = 2
+	max_skill = 6
+	loyalty = 0.00
+	picture = L170196
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}

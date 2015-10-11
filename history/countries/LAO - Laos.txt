@@ -1,0 +1,50 @@
+capital = 7675
+government = dictatorship
+ideology = stalinist
+alignment = { x = 0 y = 50 }
+neutrality = 80
+head_of_state = 80720
+head_of_government = 80721
+foreign_minister = 80722
+armament_minister = 80723
+minister_of_security = 80725
+minister_of_intelligence = 80725
+chief_of_staff = 80720
+chief_of_army = 80724
+chief_of_navy = 80724
+chief_of_air = 80724
+national_unity = 70
+oob = "LAO_2000.txt"
+
+popularity = { 
+	national_socialist = 0
+	fascistic = 0
+	paternal_autocrat = 0
+	social_conservative = 0
+	market_liberal = 0
+	social_liberal = 0
+	social_democrat = 0
+	left_wing_radical = 10
+	leninist = 20
+	stalinist = 70
+}
+
+organization = { 
+	national_socialist = 0
+	fascistic = 0
+	paternal_autocrat = 0
+	social_conservative = 0
+	market_liberal = 0
+	social_liberal = 0
+	social_democrat = 0
+	left_wing_radical = 50
+	leninist = 100
+	stalinist = 150
+}
+
+conscription_policy = military_service
+press_laws = state_press
+mobilisation_level = peace_time
+civil_laws = police_state
+economic_policy = state_control
+service_length = eighteen_months

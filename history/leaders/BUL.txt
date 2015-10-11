@@ -1,0 +1,1318 @@
+24001 = {
+	name = "Aleksandrov"
+	country = BUL
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L24001
+	add_trait = defensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+24002 = {
+	name = "Kolev"
+	country = BUL
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 0.00
+	picture = L24002
+	add_trait = old_guard
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+24003 = {
+	name = "Choroleeva"
+	country = BUL
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 0.00
+	picture = L24003
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+24004 = {
+	name = "Dimitrova"
+	country = BUL
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 0.00
+	picture = L24004
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+24005 = {
+	name = "Levski"
+	country = BUL
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 0.00
+	picture = L24005
+	add_trait = panzer_leader
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+24006 = {
+	name = "Hadjiivanov"
+	country = BUL
+	type = land
+	skill = 2
+	max_skill = 8
+	loyalty = 1.00
+	picture = L24006
+	add_trait = panzer_leader
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+24007 = {
+	name = "Hadjipetkov"
+	country = BUL
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 0.00
+	picture = L24007
+	add_trait = improvisation
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+24008 = {
+	name = "Iliev"
+	country = BUL
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L24008
+	add_trait = old_guard
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+24009 = {
+	name = "Atanasov"
+	country = BUL
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 0.00
+	picture = L24009
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+24010 = {
+	name = "Iovov"
+	country = BUL
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 0.00
+	picture = L24010
+	add_trait = winter_specialist
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+24011 = {
+	name = "Koptchev"
+	country = BUL
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L24011
+	add_trait = old_guard
+	add_trait = fortress_buster
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+24012 = {
+	name = "Kisiov"
+	country = BUL
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 0.00
+	picture = L24012
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+24013 = {
+	name = "Koptchev"
+	country = BUL
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L24013
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+24014 = {
+	name = "Botev"
+	country = BUL
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 0.00
+	picture = L24014
+	add_trait = assaulter
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+24015 = {
+	name = "Chakarov"
+	country = BUL
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L24015
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+24016 = {
+	name = "Marinkov"
+	country = BUL
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 0.00
+	picture = L24016
+	add_trait = improvisation
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+24017 = {
+	name = "Markov"
+	country = BUL
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L24017
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+24018 = {
+	name = "Martchev"
+	country = BUL
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L24018
+	add_trait = landlubber
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+24019 = {
+	name = "Midilev"
+	country = BUL
+	type = air
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L24019
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+24020 = {
+	name = "Mihov"
+	country = BUL
+	type = air
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L24020
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+24021 = {
+	name = "Mintchev"
+	country = BUL
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L24021
+	add_trait = winter_specialist
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+24022 = {
+	name = "Dobrev"
+	country = BUL
+	type = land
+	skill = 1
+	max_skill = 7
+	loyalty = 1.00
+	picture = L24022
+	add_trait = trainer
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+24023 = {
+	name = "Georgiev"
+	country = BUL
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L24023
+	add_trait = frontline_soldier
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+24024 = {
+	name = "Pironkov"
+	country = BUL
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L24024
+	add_trait = engineer
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+24025 = {
+	name = "Gerov"
+	country = BUL
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L24025
+	add_trait = offensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+24026 = {
+	name = "Radojnov"
+	country = BUL
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L24026
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+24027 = {
+	name = "Rogosarski"
+	country = BUL
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L24027
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+24028 = {
+	name = "Sapov"
+	country = BUL
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 1.00
+	picture = L24028
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+24029 = {
+	name = "Sirakov"
+	country = BUL
+	type = land
+	skill = 2
+	max_skill = 8
+	loyalty = 1.00
+	picture = L24029
+	add_trait = panzer_leader
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+24030 = {
+	name = "Slavkov"
+	country = BUL
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L24030
+	add_trait = trickster
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+24031 = {
+	name = "Hazurov"
+	country = BUL
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L24031
+	add_trait = defensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+24032 = {
+	name = "Terziev"
+	country = BUL
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L24032
+	add_trait = landing_specialist
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+24033 = {
+	name = "Toshev"
+	country = BUL
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L24033
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+24034 = {
+	name = "Vatev"
+	country = BUL
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L24034
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+24035 = {
+	name = "Yanchulev"
+	country = BUL
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L24035
+	add_trait = old_guard
+	add_trait = offensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+24036 = {
+	name = "Zaimov"
+	country = BUL
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L24036
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+24037 = {
+	name = "Zakhariev"
+	country = BUL
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L24037
+	add_trait = landing_specialist
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+24038 = {
+	name = "Zlatev"
+	country = BUL
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L24038
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+24039 = {
+	name = "Ivanov"
+	country = BUL
+	type = sea
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L24039
+	add_trait = seawolf
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+24040 = {
+	name = "Toshev"
+	country = BUL
+	type = sea
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L24040
+	add_trait = blockade_runner
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+24041 = {
+	name = "Petsov"
+	country = BUL
+	type = sea
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = L24041
+	add_trait = old_guard
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+24042 = {
+	name = "Shalapatov"
+	country = BUL
+	type = sea
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L24042
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+24043 = {
+	name = "Hristov"
+	country = BUL
+	type = sea
+	skill = 0
+	max_skill = 5
+	loyalty = 1.00
+	picture = L24043
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+24044 = {
+	name = "Tzanev"
+	country = BUL
+	type = sea
+	skill = 2
+	max_skill = 5
+	loyalty = 0.00
+	picture = L24044
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+24045 = {
+	name = "Zigrafiev"
+	country = BUL
+	type = sea
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L24045
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+24046 = {
+	name = "Ivanoff"
+	country = BUL
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L24046
+	add_trait = engineer
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+24047 = {
+	name = "Ayrjanov"
+	country = BUL
+	type = air
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L24047
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+24048 = {
+	name = "Batanov"
+	country = BUL
+	type = air
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L24048
+	add_trait = superior_air_tactician
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+24049 = {
+	name = "Botsev"
+	country = BUL
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L24049
+	add_trait = panzer_leader
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+24050 = {
+	name = "Genkov"
+	country = BUL
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L24050
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+24051 = {
+	name = "Harizanov"
+	country = BUL
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L24051
+	add_trait = logistics_wizard
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+24052 = {
+	name = "Kanev"
+	country = BUL
+	type = land
+	skill = 2
+	max_skill = 8
+	loyalty = 1.00
+	picture = L24052
+	add_trait = commando
+	add_trait = learners_will
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+24053 = {
+	name = "Mikhailov"
+	country = BUL
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L24053
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+24054 = {
+	name = "Milev"
+	country = BUL
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L24054
+	add_trait = offensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+24055 = {
+	name = "Mladenov"
+	country = BUL
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L24055
+	add_trait = frontline_soldier
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+24056 = {
+	name = "Nikolcev"
+	country = BUL
+	type = land
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L24056
+	add_trait = commando
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+24057 = {
+	name = "Petrov"
+	country = BUL
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L24057
+	add_trait = panzer_leader
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+24058 = {
+	name = "Shivikov"
+	country = BUL
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L24058
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+24059 = {
+	name = "Slaveev"
+	country = BUL
+	type = land
+	skill = 2
+	max_skill = 8
+	loyalty = 1.00
+	picture = L24059
+	add_trait = landing_specialist
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+24060 = {
+	name = "Stanchev"
+	country = BUL
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L24060
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+24061 = {
+	name = "Tihinov"
+	country = BUL
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L24061
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+24062 = {
+	name = "Todorov"
+	country = BUL
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L24062
+	add_trait = offensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+24063 = {
+	name = "Tomchev"
+	country = BUL
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L24063
+	add_trait = panzer_leader
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+24064 = {
+	name = "Torlakov"
+	country = BUL
+	type = land
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L24064
+	add_trait = commando
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+24065 = {
+	name = "Tsvetkov"
+	country = BUL
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L24065
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+24066 = {
+	name = "Vulkov"
+	country = BUL
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L24066
+	add_trait = assaulter
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+24067 = {
+	name = "Naumova"
+	country = BUL
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L24067
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+24068 = {
+	name = "Kirov"
+	country = BUL
+	type = land
+	skill = 4
+	max_skill = 8
+	loyalty = 1.00
+	picture = L24068
+	add_trait = hard_defender
+	add_trait = trickster
+	history = {
+		1995.1.1 = { rank = 1 }
+		1998.1.1 = { rank = 2 }
+		2001.1.1 = { rank = 3 }
+		2003.1.1 = { rank = 4 }
+	}
+}
+24069 = {
+	name = "Milev"
+	country = BUL
+	type = land
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L24069
+	history = {
+		1995.1.1 = { rank = 1 }
+		1998.1.1 = { rank = 2 }
+		2001.1.1 = { rank = 3 }
+		2003.1.1 = { rank = 4 }
+	}
+}
+24070 = {
+	name = "Stoykov"
+	country = BUL
+	type = land
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L24070
+	add_trait = fortress_buster
+	history = {
+		1995.1.1 = { rank = 1 }
+		1998.1.1 = { rank = 2 }
+		2001.1.1 = { rank = 3 }
+		2003.1.1 = { rank = 4 }
+	}
+}
+24071 = {
+	name = "Samandov"
+	country = BUL
+	type = land
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L24071
+	add_trait = panzer_leader
+	history = {
+		1998.1.1 = { rank = 1 }
+		2001.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+24072 = {
+	name = "Vasilev"
+	country = BUL
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L24072
+	history = {
+		1998.1.1 = { rank = 1 }
+		2001.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+24073 = {
+	name = "Pehlivanov"
+	country = BUL
+	type = land
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L24073
+	add_trait = offensive_doctrine
+	history = {
+		1995.1.1 = { rank = 1 }
+		2001.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+24074 = {
+	name = "Alexandrovich"
+	country = BUL
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L24074
+	add_trait = defensive_doctrine
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+24075 = {
+	name = "Borisenok"
+	country = BUL
+	type = land
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L24075
+	add_trait = panzer_leader
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+24076 = {
+	name = "Dvornikov"
+	country = BUL
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L24076
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+24077 = {
+	name = "Goma"
+	country = BUL
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L24077
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+24078 = {
+	name = "Enev"
+	country = BUL
+	type = land
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L24078
+	add_trait = hard_defender
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+24079 = {
+	name = "Kinov"
+	country = BUL
+	type = land
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L24079
+	add_trait = logistics_wizard
+	add_trait = offensive_doctrine
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+24080 = {
+	name = "Kirev"
+	country = BUL
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L24080
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+24081 = {
+	name = "Maykeev"
+	country = BUL
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L24081
+	add_trait = winter_specialist
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+24082 = {
+	name = "Nenov"
+	country = BUL
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L24082
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+24083 = {
+	name = "Sarachev"
+	country = BUL
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L24083
+	add_trait = assaulter
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+24084 = {
+	name = "Slavev"
+	country = BUL
+	type = land
+	skill = 2
+	max_skill = 8
+	loyalty = 1.00
+	picture = L24084
+	add_trait = frontline_soldier
+	add_trait = engineer
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+24085 = {
+	name = "Danev"
+	country = BUL
+	type = air
+	skill = 1
+	max_skill = 5
+	loyalty = 0.00
+	picture = L24085
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+24086 = {
+	name = "Petrov"
+	country = BUL
+	type = air
+	skill = 2
+	max_skill = 8
+	loyalty = 1.00
+	picture = L24086
+	add_trait = tank_buster
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+24087 = {
+	name = "Radev"
+	country = BUL
+	type = air
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = L24087
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+24088 = {
+	name = "Stoykov"
+	country = BUL
+	type = air
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L24088
+	add_trait = superior_air_tactician
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+24089 = {
+	name = "Türkmen"
+	country = BUL
+	type = air
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L24089
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+24090 = {
+	name = "Simeonov"
+	country = BUL
+	type = air
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L24090
+	add_trait = carpet_bomber
+	add_trait = superior_air_tactician
+	history = {
+		1998.1.1 = { rank = 1 }
+		2001.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+24091 = {
+	name = "Angelov"
+	country = BUL
+	type = air
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L24091
+	add_trait = tank_buster
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+24092 = {
+	name = "Popov"
+	country = BUL
+	type = air
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L24092
+	add_trait = superior_air_tactician
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+24093 = {
+	name = "Sabev"
+	country = BUL
+	type = air
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L24093
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+24094 = {
+	name = "Angelov"
+	country = BUL
+	type = sea
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L24094
+	add_trait = blockade_runner
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+24095 = {
+	name = "Eftimov"
+	country = BUL
+	type = sea
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L24095
+	add_trait = superior_tactician
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+24096 = {
+	name = "Fidanov"
+	country = BUL
+	type = sea
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L24096
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+24097 = {
+	name = "Motev"
+	country = BUL
+	type = sea
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L24097
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+24098 = {
+	name = "Petev"
+	country = BUL
+	type = sea
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L24098
+	add_trait = spotter
+	add_trait = superior_tactician
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+24099 = {
+	name = "Popa"
+	country = BUL
+	type = sea
+	skill = 4
+	max_skill = 8
+	loyalty = 1.00
+	picture = L24099
+	history = {
+		1995.1.1 = { rank = 1 }
+		1998.1.1 = { rank = 2 }
+		2001.1.1 = { rank = 3 }
+		2003.1.1 = { rank = 4 }
+	}
+}
+24100 = {
+	name = "Kavaldjiev"
+	country = BUL
+	type = sea
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L24100
+	history = {
+		1998.1.1 = { rank = 1 }
+		2001.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+24101 = {
+	name = "Nikolov"
+	country = BUL
+	type = sea
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L24101
+	add_trait = seawolf
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}

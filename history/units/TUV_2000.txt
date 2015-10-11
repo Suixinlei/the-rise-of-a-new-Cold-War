@@ -1,0 +1,5 @@
+theatre = {
+	name = "Tuvalu Defence Force"
+	location = 10673
+	regiment = { type = hq_brigade name = "Defence Force HQ" historical_model = 0 }
+}

@@ -1,0 +1,931 @@
+air_superiority_doctrine = {
+
+	allow = {
+		OR = {
+			heavy_fighter = 1
+			medium_combat_aircraft = 1
+			light_fighter = 1
+		}
+	}
+	
+	research_bonus_from = {
+		fighter_focus = 0.3
+		air_doctrine_practical = 0.7
+	}
+	
+	change = no
+	on_completion = fighter_focus
+	
+	difficulty = 20
+	start_year = 2005
+	folder = air_doctrine_folder
+}
+
+fighter_pilot_training = {
+
+	interceptor = {
+		default_organisation = 5
+	}
+	multi_role = {
+		default_organisation = 5
+	}
+	vtol = {
+		default_organisation = 5
+	}
+	light_fighter = {
+		default_organisation = 5
+	}
+	
+	allow = { 
+		air_superiority_doctrine = 1
+	}
+
+	research_bonus_from = {
+		fighter_focus = 0.3
+		air_doctrine_practical = 0.7
+	}
+
+	change = no 
+	on_completion = fighter_focus
+
+	difficulty = 10
+	start_year = 2008
+	first_offset = 2010	
+	additional_offset = 2	
+	max_level = 12
+	folder = air_doctrine_folder
+}
+
+fighter_groundcrew_training = {
+
+	interceptor = {
+		default_morale = 0.05
+	}
+	multi_role = {
+		default_morale = 0.05
+	}
+	vtol = {
+		default_morale = 0.05
+	}
+	light_fighter = {
+		default_morale = 0.05
+	}
+
+	allow = { 
+		air_superiority_doctrine = 1
+	}
+
+	research_bonus_from = {
+		fighter_focus = 0.3
+		air_doctrine_practical = 0.7
+	}
+
+	change = no 
+	on_completion = fighter_focus
+
+	difficulty = 10
+	start_year = 2008
+	first_offset = 2010	
+	additional_offset = 2	
+	max_level = 12
+	folder = air_doctrine_folder
+}
+
+interception_tactics = {
+
+	air_intercept = {
+		efficiency = 0.05 
+	}
+	
+
+	allow = { 
+		air_superiority_doctrine = 1
+	}
+
+	research_bonus_from = {
+		fighter_focus = 0.3
+		air_doctrine_practical = 0.7
+	}
+
+	change = no 
+	on_completion = fighter_focus
+
+	difficulty = 10
+	start_year = 2008
+	first_offset = 2010	
+	additional_offset = 2	
+	max_level = 12
+	folder = air_doctrine_folder
+}
+
+fighter_ground_control = {
+
+	radar_impact = 0.05
+	
+	allow = { 
+		air_superiority_doctrine = 1
+	}
+
+	research_bonus_from = {
+		fighter_focus = 0.3
+		air_doctrine_practical = 0.7
+	}
+
+	change = no 
+	on_completion = fighter_focus
+
+	difficulty = 10
+	start_year = 2008
+	first_offset = 2010	
+	additional_offset = 2	
+	max_level = 12
+	folder = air_doctrine_folder
+}
+
+bomber_targerting_focus = {
+
+	bomber_targeting = 0.05
+
+	allow = { 
+		air_superiority_doctrine = 1
+	}
+
+	research_bonus_from = {
+		fighter_focus = 0.3
+		air_doctrine_practical = 0.7
+	}
+
+	change = no 
+	on_completion = fighter_focus
+
+	difficulty = 10
+	start_year = 2008
+	first_offset = 2010	
+	additional_offset = 2	
+	max_level = 12
+	folder = air_doctrine_folder
+}
+
+fighter_targerting_focus = {
+
+	fighter_targeting = 0.05
+
+	allow = { 
+		air_superiority_doctrine = 1
+	}
+
+	research_bonus_from = {
+		fighter_focus = 0.3
+		air_doctrine_practical = 0.7
+	}
+
+	change = no 
+	on_completion = fighter_focus
+
+	difficulty = 10
+	start_year = 2008
+	first_offset = 2010	
+	additional_offset = 2	
+	max_level = 12
+	folder = air_doctrine_folder
+}
+
+cas_doctrine = {
+
+	allow = {
+		attack_aircraft = 1
+	}
+	
+	research_bonus_from = {
+		cas_focus = 0.3
+		air_doctrine_practical = 0.7
+	}
+
+	change = no 
+	on_completion = cas_focus
+
+	difficulty = 20
+	
+
+	start_year = 2005
+	folder = air_doctrine_folder
+}
+
+cas_pilot_training = {
+
+	cas = {
+		default_organisation = 5
+	}
+	allow = { 
+		cas_doctrine = 1
+	}
+
+	research_bonus_from = {
+		cas_focus = 0.3
+		air_doctrine_practical = 0.7
+	}
+
+	change = no 
+	on_completion = cas_focus
+
+	difficulty = 10
+	
+	#common for all techs.
+	
+	start_year = 2008
+	first_offset = 2010	
+	additional_offset = 2	
+	max_level = 12
+	folder = air_doctrine_folder
+}
+
+cas_groundcrew_training = {
+
+	cas = {
+		default_morale = 0.05
+	}
+
+	allow = { 
+		cas_doctrine = 1
+	}
+
+	research_bonus_from = {
+		cas_focus = 0.3
+		air_doctrine_practical = 0.7
+	}
+
+	change = no 
+	on_completion = cas_focus
+
+	difficulty = 10
+	
+	#common for all techs.
+
+	start_year = 2008
+	first_offset = 2010	
+	additional_offset = 2	
+	max_level = 12
+	folder = air_doctrine_folder
+}
+
+ground_attack_tactics = {
+
+	ground_attack = {
+		efficiency = 0.10 #5% greater eff when on on ground attack missions
+	}
+
+	allow = { 
+		cas_doctrine = 1
+	}
+
+	research_bonus_from = {
+		cas_focus = 0.3
+		air_doctrine_practical = 0.7
+	}
+
+	change = no 
+	on_completion = cas_focus
+
+	difficulty = 10
+	
+	#common for all techs.
+
+	start_year = 2008
+	first_offset = 2010	
+	additional_offset = 2	
+	max_level = 12
+	folder = air_doctrine_folder
+}
+
+forward_air_control = {
+
+
+	frontline_focus = 0.05
+	
+
+	allow = { 
+		cas_doctrine = 1
+	}
+
+	research_bonus_from = {
+		cas_focus = 0.3
+		air_doctrine_practical = 0.7
+	}
+
+	change = no 
+	on_completion = cas_focus
+
+	difficulty = 10
+	
+	#common for all techs.
+
+	start_year = 2008
+	first_offset = 2010	
+	additional_offset = 2	
+	max_level = 12
+	folder = air_doctrine_folder
+}
+
+battlefield_interdiction = {
+
+	reserve_focus = 0.05
+
+	allow = { 
+		cas_doctrine = 1
+	}
+
+	research_bonus_from = {
+		cas_focus = 0.3
+		air_doctrine_practical = 0.7
+	}
+
+	change = no 
+	on_completion = cas_focus
+
+	difficulty = 10
+	
+	#common for all techs.
+
+	start_year = 2008
+	first_offset = 2010	
+	additional_offset = 2	
+	max_level = 12
+	folder = air_doctrine_folder
+}
+
+interdiction_tactics = {
+
+	interdiction = {
+		efficiency = 0.05 #5% greater eff when on on intercept mission
+	}
+
+
+	allow = { 
+		cas_doctrine = 1
+	}
+
+	research_bonus_from = {
+		cas_focus = 0.3
+		air_doctrine_practical = 0.7
+	}
+
+	change = no 
+	on_completion = cas_focus
+
+	difficulty = 10
+	
+	#common for all techs.
+
+	start_year = 2008
+	first_offset = 2010
+	additional_offset = 2	
+	max_level = 12
+	folder = air_doctrine_folder
+}
+
+tactical_air_command = {
+
+	ground_attack = {
+		reduction_modifier = -0.05 
+	}
+	interdiction = {
+		reduction_modifier = -0.05 
+	}
+	
+	allow = { 
+		cas_doctrine = 1
+	}
+
+	research_bonus_from = {
+		tac_focus = 0.3
+		air_doctrine_practical = 0.7
+	}
+
+	change = no 
+	on_completion = tac_focus
+
+	difficulty = 10
+	
+	#common for all techs.
+
+	start_year = 2008
+	first_offset = 2010	
+	additional_offset = 2	
+	max_level = 12
+	folder = air_doctrine_folder
+}
+
+bomber_focus_doctrine = {
+
+	allow = { 
+			bomber = 1
+	}
+
+	research_bonus_from = {
+		tac_focus = 0.3
+		air_doctrine_practical = 0.7
+	}
+
+	change = no 
+	on_completion = tac_focus
+
+	difficulty = 20
+	
+	#common for all techs.
+	start_year = 2005
+	folder = air_doctrine_folder
+}
+
+bomber_pilot_training = {
+
+	strategic_bomber = {
+		default_organisation = 5
+	}
+	transport_plane = {
+		default_organisation = 5
+	}
+	allow = { 
+		bomber_focus_doctrine = 1
+	}
+
+	research_bonus_from = {
+		tac_focus = 0.3
+		air_doctrine_practical = 0.7
+	}
+
+	change = no 
+	on_completion = tac_focus
+
+	difficulty = 10
+	
+	#common for all techs.
+
+	start_year = 2008
+	first_offset = 2010	
+	additional_offset = 2	
+	max_level = 12
+	folder = air_doctrine_folder
+}
+
+bomber_groundcrew_training = {
+
+	strategic_bomber = {
+		default_morale = 0.05
+	}
+	transport_plane = {
+		default_morale = 0.05
+	}
+
+	allow = { 
+		bomber_focus_doctrine = 1
+	}
+
+	research_bonus_from = {
+		tac_focus = 0.3
+		air_doctrine_practical = 0.7
+	}
+
+	change = no 
+	on_completion = tac_focus
+
+	difficulty = 10
+	
+	#common for all techs.
+
+	start_year = 2008
+	first_offset = 2010	
+	additional_offset = 2	
+	max_level = 12
+	folder = air_doctrine_folder
+}
+
+logistical_strike_tactics = {
+
+	logistical_strike = {
+		efficiency = 0.05 #5% greater eff when on on logistical strike mission
+	}
+
+
+	allow = { 
+		bomber_focus_doctrine = 1
+	}
+
+	research_bonus_from = {
+		tac_focus = 0.3
+		air_doctrine_practical = 0.7
+	}
+
+	change = no 
+	on_completion = tac_focus
+
+	difficulty = 10
+	
+	#common for all techs.
+
+	start_year = 2008
+	first_offset = 2010
+	additional_offset = 2	
+	max_level = 12
+	folder = air_doctrine_folder
+}
+
+installation_strike_tactics = {
+
+	installation_strike = {
+		efficiency = 0.05 #5% greater eff when on on Installation strike mission
+	}
+	
+
+	allow = { 
+		bomber_focus_doctrine = 1
+	}
+
+	research_bonus_from = {
+		tac_focus = 0.3
+		air_doctrine_practical = 0.7
+	}
+
+	change = no 
+	on_completion = tac_focus
+
+	difficulty = 10
+	
+	#common for all techs.
+
+	start_year = 2008
+	first_offset = 2010
+	additional_offset = 2	
+	max_level = 12
+	folder = air_doctrine_folder
+}
+
+airbase_strike_tactics = {
+
+	runway_cratering = {
+		efficiency = 0.05 #5% greater eff when on on runway_cratering mission
+	}
+	
+	allow = { 
+		bomber_focus_doctrine = 1
+	}
+
+	research_bonus_from = {
+		tac_focus = 0.3
+		air_doctrine_practical = 0.7
+	}
+
+	change = no 
+	on_completion = tac_focus
+
+	difficulty = 10
+	
+	#common for all techs.
+
+	start_year = 2008
+	first_offset = 2010	
+	additional_offset = 2	
+	max_level = 12
+	folder = air_doctrine_folder
+}
+
+
+
+strategic_bombardment_tactics = {
+
+	strategic_bomb = {
+		efficiency = 0.05 #5% greater eff when on on strategic_bomb mission
+	}
+
+	allow = { 
+		bomber_focus_doctrine = 1
+	}
+
+	research_bonus_from = {
+		tac_focus = 0.3
+		air_doctrine_practical = 0.7
+	}
+
+	change = no 
+	on_completion = tac_focus
+	difficulty = 10
+	
+	#common for all techs.
+
+	start_year = 2008
+	first_offset = 2010	
+	additional_offset = 2	
+	max_level = 12
+	folder = air_doctrine_folder
+}
+
+airborne_assault_tactics = {
+
+	paradrop_mission = {
+		efficiency = 0.05	#5% efficinency increase airborne assault missions
+	}
+
+
+	allow = { 
+		bomber_focus_doctrine = 1
+	}
+
+	research_bonus_from = {
+		tac_focus = 0.3
+		air_doctrine_practical = 0.7
+	}
+
+	change = no 
+	on_completion = tac_focus
+	difficulty = 10
+	
+	#common for all techs.
+
+	start_year = 2008
+	first_offset = 2010	
+	additional_offset = 2	
+	max_level = 12
+	folder = air_doctrine_folder
+}
+
+strategic_air_command = {
+
+	strategic_bomb = {
+		reduction_modifier = -0.05 
+	}
+
+	allow = { 
+		bomber_focus_doctrine = 1
+	}
+
+	research_bonus_from = {
+		tac_focus = 0.3
+		air_doctrine_practical = 0.7
+	}
+
+	change = no 
+	on_completion = tac_focus
+	difficulty = 10
+	
+	#common for all techs.
+
+	start_year = 2008
+	first_offset = 2010	
+	additional_offset = 2	
+	max_level = 12
+	folder = air_doctrine_folder
+}
+
+kongjunxinxihua = {
+
+        interceptor = {
+                default_morale = 0.10
+                range = 300
+	}
+	cas = {
+                default_morale = 0.10
+                range = 300
+	}
+	cag = {
+                default_morale = 0.10
+                range = 300
+	}
+	caz = {
+                default_morale = 0.10
+                range = 300
+	}
+	multi_role = {
+                default_morale = 0.10
+                range = 300
+	}
+	vtol = {
+                default_morale = 0.10
+                range = 300
+	}
+	light_fighter = {
+                default_morale = 0.10
+                range = 300
+	}
+	strategic_bomber = {
+                default_morale = 0.10
+                range = 300
+	}
+
+	allow = { 
+		strategic_air_command = 1
+                tactical_air_command = 1
+                promotion_of_information_technology = 1
+	}
+
+	research_bonus_from = {
+		tac_focus = 0.3
+		air_doctrine_practical = 0.7
+	}
+
+	change = no 
+	on_completion = tac_focus
+
+
+	difficulty = 35
+	start_year = 2005
+	folder = air_doctrine_folder
+}
+
+naval_aviation_doctrine = {
+
+	allow = {
+		OR = {
+			heavy_aircraft = 1
+			medium-sized_aircraft = 1
+                        STOL_aircraft = 1
+		}
+	}
+	
+	research_bonus_from = {
+		nav_focus = 0.3
+		air_doctrine_practical = 0.7
+	}
+
+	change = no 
+	on_completion = nav_focus
+	difficulty = 20
+	
+	#common for all techs.
+	start_year = 2005
+	folder = air_doctrine_folder
+}
+
+nav_pilot_training = {
+
+	cas = {
+		default_organisation = 5
+	}
+
+	allow = { 
+		naval_aviation_doctrine = 1
+	}
+
+	research_bonus_from = {
+		nav_focus = 0.3
+		air_doctrine_practical = 0.7
+	}
+
+	change = no 
+	on_completion = nav_focus
+
+	difficulty = 10
+	
+	#common for all techs.
+
+	start_year = 2008
+	first_offset = 2010	
+	additional_offset = 2	
+	max_level = 12
+	folder = air_doctrine_folder
+}
+
+nav_groundcrew_training = {
+
+	cas = {
+		default_morale = 0.05
+	}
+
+	allow = { 
+		naval_aviation_doctrine = 1
+	}
+
+	research_bonus_from = {
+		nav_focus = 0.3
+		air_doctrine_practical = 0.7
+	}
+
+	change = no 
+	on_completion = nav_focus
+	difficulty = 10
+	
+	#common for all techs.
+
+	start_year = 2008
+	first_offset = 2010	
+	additional_offset = 2	
+	max_level = 12
+	folder = air_doctrine_folder
+}
+
+portstrike_tactics = {
+
+	port_strike = {
+		efficiency = 0.05 #5% greater eff when on port strikes mission
+	}
+	
+
+
+	allow = { 
+		naval_aviation_doctrine = 1
+	}
+
+	research_bonus_from = {
+		nav_focus = 0.3
+		air_doctrine_practical = 0.7
+	}
+
+	change = no 
+	on_completion = nav_focus
+	difficulty = 10
+	
+	#common for all techs.
+
+	start_year = 2008
+	first_offset = 2010	
+	additional_offset = 2	
+	max_level = 12
+	folder = air_doctrine_folder
+}
+
+navalstrike_tactics = {
+
+	cas = {
+		efficiency = 0.05 #5% greater eff when on naval strikes mission
+	}
+	carrier_protection = {
+		efficiency  = 0.05 #5% greater eff when on CAG duty mission
+	}
+	
+
+	allow = { 
+		naval_aviation_doctrine = 1
+	}
+
+	research_bonus_from = {
+		nav_focus = 0.3
+		air_doctrine_practical = 0.7
+	}
+
+	change = no 
+	on_completion = nav_focus
+	difficulty = 10
+	
+	#common for all techs.
+
+	start_year = 2008
+	first_offset = 2010	
+	additional_offset = 2	
+	max_level = 12
+	folder = air_doctrine_folder
+}
+
+naval_air_targeting = {
+
+	naval_air_target_chance = 0.05
+	
+	allow = { 
+		naval_aviation_doctrine = 1
+	}
+
+	research_bonus_from = {
+		nav_focus = 0.3
+		air_doctrine_practical = 0.7
+	}
+
+	change = no 
+	on_completion = nav_focus
+	difficulty = 10
+	
+	#common for all techs.
+
+	start_year = 2008
+	first_offset = 2010	
+	additional_offset = 2	
+	max_level = 12
+	folder = air_doctrine_folder
+}
+
+naval_tactics = {
+
+	cas = {
+		reduction_modifier = -0.05 
+	}
+	port_strike = {
+		reduction_modifier = -0.05 
+	}
+
+	allow = { 
+		naval_aviation_doctrine = 1
+	}
+	
+	research_bonus_from = {
+		nav_focus = 0.3
+		air_doctrine_practical = 0.7
+	}
+
+	change = no 
+	on_completion = nav_focus
+	difficulty = 10
+	
+	#common for all techs.
+
+	start_year = 2008
+	first_offset = 2010	
+	additional_offset = 2	
+	max_level = 12
+	folder = air_doctrine_folder
+}

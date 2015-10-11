@@ -1,0 +1,8 @@
+owner = FIN
+controller = FIN
+add_core = FIN
+
+infra = 8
+air_base = 2 #Tikkakoski Military/Civilizan airport
+leadership = 2.50
+points = 1

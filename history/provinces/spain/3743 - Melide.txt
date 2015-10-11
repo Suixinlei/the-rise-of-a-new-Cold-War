@@ -1,0 +1,8 @@
+owner = SPR
+controller = SPR
+add_core = SPR
+
+infra = 6
+
+
+air_base = 3 #Santiago de Compostela airbase

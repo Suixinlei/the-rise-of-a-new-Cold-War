@@ -1,0 +1,11 @@
+owner = ALG
+controller = ALG
+add_core = ALG
+industry = 5
+infra = 7
+manpower = 5.00
+leadership = 1.00
+energy = 5.00
+air_base = 4 #Houari Boumedien airport and Boufarik airbase
+naval_base = 5 #Algiers port
+points = 1

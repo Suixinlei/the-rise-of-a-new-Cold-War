@@ -1,0 +1,8 @@
+owner = FRA
+controller = FRA
+add_core = FRA
+
+infra = 9
+
+air_base = 1 #Cambrai airbase
+points = 1

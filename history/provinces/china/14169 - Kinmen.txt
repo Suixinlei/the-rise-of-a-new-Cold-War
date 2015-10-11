@@ -1,0 +1,8 @@
+owner = CHI
+controller = CHI
+add_core = CHC
+add_core = CHI
+
+infra = 8
+energy = 20.00
+naval_base = 2

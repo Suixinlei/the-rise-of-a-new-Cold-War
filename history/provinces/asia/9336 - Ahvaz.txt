@@ -1,0 +1,13 @@
+owner = PER
+controller = PER
+add_core = PER
+manpower = 2.00
+infra = 6
+crude_oil = 80.00
+energy = 35.00
+metal = 25.00
+rare_materials = 15.00
+air_base = 10 #Omidiyeh airbase
+naval_base = 5 #Bandar port
+points = 1
+leadership = 2.00

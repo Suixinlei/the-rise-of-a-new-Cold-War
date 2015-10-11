@@ -1,0 +1,10 @@
+owner = AUS
+controller = AUS
+add_core = AUS
+industry = 4
+manpower = 0.5
+infra = 10
+energy = 4.00
+air_base = 7 #Vienna airport
+leadership = 2.50
+points = 1

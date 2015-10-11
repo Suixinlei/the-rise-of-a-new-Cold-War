@@ -1,0 +1,5 @@
+owner = IVO
+controller = REB
+add_core = IVO
+
+infra = 2

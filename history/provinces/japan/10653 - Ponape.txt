@@ -1,0 +1,9 @@
+owner = MIC
+
+controller = MIC
+
+add_core = MIC
+
+infra = 6
+naval_base = 1
+points = 1

@@ -1,0 +1,51 @@
+capital = 9213
+government = dictatorship
+ideology = fascistic
+alignment = { x = 0 y = 50 }
+neutrality = 80
+national_unity = 70
+head_of_state = 38001
+head_of_government = 38001
+foreign_minister = 38008
+armament_minister = 38010
+minister_of_security = 38015
+minister_of_intelligence = 38030
+chief_of_staff = 38032
+chief_of_army = 38032
+chief_of_air = 38035
+chief_of_navy = 38032
+
+oob = "IRQ_2000.txt"
+
+popularity = { 
+	national_socialist = 0
+	fascistic = 66
+	paternal_autocrat = 0
+	social_conservative = 0
+	market_liberal = 0
+	social_liberal = 0
+	social_democrat = 0
+	left_wing_radical = 0
+	leninist = 0
+	stalinist = 0
+}
+
+organization = {
+	national_socialist = 0
+	fascistic = 150
+	paternal_autocrat = 0
+	social_conservative = 0
+	market_liberal = 0
+	social_liberal = 0
+	social_democrat = 0
+	left_wing_radical = 0
+	leninist = 0
+	stalinist = 0
+}
+
+conscription_policy = military_service
+press_laws = censorship
+mobilisation_level = l_mobilisation
+civil_laws = restrictions
+service_length = twelve_months
+economic_policy = partial_control

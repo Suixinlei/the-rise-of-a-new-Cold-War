@@ -1,0 +1,60 @@
+capital = 9158
+government = islamic_republic
+ideology = paternal_autocrat
+alignment = { x = 50 y = 100 }
+neutrality = 80
+national_unity = 80
+head_of_state = 37501
+head_of_government = 37502
+foreign_minister = 37516
+armament_minister = 37519
+minister_of_security = 37522
+minister_of_intelligence = 37526
+chief_of_staff = 37549
+chief_of_army = 37550
+chief_of_air = 37552
+chief_of_navy = 37553
+oob = "PER_2000.txt"
+
+
+popularity = { 
+	national_socialist = 54
+	fascistic = 0
+	paternal_autocrat = 13
+	social_conservative = 0
+	market_liberal = 0
+	social_liberal = 10
+	social_democrat = 0
+	left_wing_radical = 0
+	leninist = 0
+	stalinist = 0
+}
+
+organization = { 
+	national_socialist = 150
+	fascistic = 0
+	paternal_autocrat = 39
+	social_conservative = 0
+	market_liberal = 0
+	social_liberal = 30
+	social_democrat = 0
+	left_wing_radical = 0
+	leninist = 0
+	stalinist = 0
+}
+
+conscription_policy = military_service
+press_laws = limited_censorship
+mobilisation_level = peace_time
+civil_laws = restrictions
+service_length = eighteen_months
+economic_policy = partial_control
+
+
+industrial_facilities = 1
+industral_production = 1
+industral_efficiency = 1
+weapon_design = 1
+the_fuselage_design = 1
+main_battle_tank = 1
+ship_hull = 1

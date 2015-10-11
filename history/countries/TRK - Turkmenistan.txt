@@ -1,0 +1,51 @@
+capital = 7335
+government = dictatorship
+ideology = paternal_autocrat
+head_of_state = 84001
+head_of_government = 84001
+foreign_minister = 84003
+armament_minister = 84007
+minister_of_security = 84005
+minister_of_intelligence = 84008
+chief_of_staff = 84004
+chief_of_army = 84004
+chief_of_navy = 84004
+chief_of_air = 84004
+alignment = { x = -30 y = 80 }
+neutrality = 80
+national_unity = 70
+oob = "TRK_2000.txt"
+
+popularity = { 
+	national_socialist = 0
+	fascistic = 0
+	paternal_autocrat = 70
+	social_conservative = 15
+	market_liberal = 15
+	social_liberal = 20
+	social_democrat = 0
+	left_wing_radical = 0
+	leninist = 0
+	stalinist = 50
+}
+
+organization = { 
+	national_socialist = 10
+	fascistic = 0
+	paternal_autocrat = 70
+	social_conservative = 5
+	market_liberal = 5
+	social_liberal = 6
+	social_democrat = 0
+	left_wing_radical = 0
+	leninist = 0
+	stalinist = 15
+}
+
+conscription_policy = military_service
+press_laws = censorship
+mobilisation_level = peace_time
+civil_laws = police_state
+service_length = eighteen_months
+economic_policy = partial_control
+

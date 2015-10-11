@@ -1,0 +1,139 @@
+color = { 235  216  92 }
+graphical_culture = Generic
+
+last_election = 2000.11.26
+duration = 48
+
+default_templates = {
+	generic_infantry = {
+		infantry_brigade
+		infantry_brigade
+		infantry_brigade
+	}
+	generic_milita = {
+		militia_brigade
+		militia_brigade
+		militia_brigade
+	}
+	generic_armoured = {
+		armor_brigade
+		motorized_brigade
+		motorized_brigade
+	}
+	generic_cavalry = {
+		cavalry_brigade
+		cavalry_brigade
+	}
+}
+
+unit_names = {
+	infantry_brigade = {
+		"Divizie 1 Infanterie" "Divizie 2 Infanterie" "Divizie 3 Infanterie" "Divizie 4 Infanterie" "Divizie 5 Infanterie" "Divizie 6 Infanterie" "Divizie 7 Infanterie" "Divizie 8 Infanterie" "Divizie 9 Infanterie" "Divizie 10 Infanterie" "Divizie 11 Infanterie" 
+		"Divizie 12 Infanterie" "Divizie 13 Infanterie" "Divizie 14 Infanterie" "Divizie 15 Infanterie" "Divizie 16 Infanterie" "Divizie 17 Infanterie" "Divizie 18 Infanterie" "Divizie 19 Infanterie" "Divizie 20 Infanterie" "Divizie 21 Infanterie" "Divizie 24 Infanterie" 
+		"Divizie 25 Infanterie" "Divizie 26 Infanterie" "Divizie 27 Infanterie" "Divizie 30 Infanterie" "Divizie 31 Infanterie" "Divizie 32 Infanterie" "Divizie 1 Fortificatii" "Divizie 1 Graniceri" "Divizie 1 Garda" "Divizie 2 Garda" "Divizie 1 Paza" 
+		"Divizie 2 Paza" "Divizie 3 Paza" "Divizie 36 Infanterie" "Divizie 37 Infanterie" "Divizie 38 Infanterie" "Divizie 39 Infanterie" "Divizie 40 Infanterie" "Divizie 41 Infanterie" "Divizie 42 Infanterie" "Divizie 43 Infanterie" "Divizie 44 Infanterie" 
+		"Divizie 45 Infanterie" "Divizie 46 Infanterie" "Divizie 47 Infanterie" "Divizie 48 Infanterie" "Divizie 49 Infanterie" "Divizie 50 Infanterie" "Divizie 51 Infanterie" "Divizie 52 Infanterie" "Divizie 53 Infanterie" "Divizie 54 Infanterie" "Divizie 55 Infanterie" 
+			}
+	cavalry_brigade = {
+		"Divizie 1 Cavalerie" "Divizie 5 Cavalerie" "Divizie 6 Cavalerie" "Divizie 7 Cavalerie" "Divizie 8 Cavalerie" "Divizie 9 Cavalerie" "Divizie 10 Cavalerie" "Divizie 11 Cavalerie" "Divizie 12 Cavalerie" "Divizie 13 Cavalerie" "Divizie 14 Cavalerie" 
+		"Divizie 15 Cavalerie" "Divizie 16 Cavalerie" "Divizie 17 Cavalerie" "Divizie 18 Cavalerie" "Divizie 19 Cavalerie" "Divizie 20 Cavalerie" 
+	}
+	motorized_brigade = {
+		"Div. 1 Infanterie Motorizat" "Div. 2 Infanterie Motorizat" "Div. 3 Infanterie Motorizat" "Div. 4 Infanterie Motorizat" "Div. 5 Infanterie Motorizat" "Div. 6 Infanterie Motorizat" "Div. 7 Infanterie Motorizat" "Div. 8 Infanterie Motorizat" "Div. 9 Infanterie Motorizat" "Div. 10 Infanterie Motorizat" "Div. 11 Infanterie Motorizat" 
+		"Div. 12 Infanterie Motorizat" "Div. 13 Infanterie Motorizat" "Div. 14 Infanterie Motorizat" "Div. 15 Infanterie Motorizat" 
+	}
+	mechanized_brigade = {
+		"Divizie 1 Motomecanizat" "Divizie 2 Motomecanizat" "Divizie 3 Motomecanizat" "Divizie 4 Motomecanizat" "Divizie 5 Motomecanizat" "Divizie 6 Motomecanizat" "Divizie 7 Motomecanizat" "Divizie 8 Motomecanizat" "Divizie 9 Motomecanizat" "Divizie 10 Motomecanizat" "Divizie 11 Motomecanizat" 
+		"Divizie 12 Motomecanizat" "Divizie 13 Motomecanizat" "Divizie 14 Motomecanizat" "Divizie 15 Motomecanizat" 
+	}
+	light_armor_brigade = {
+		"Divizie 1 Armura" "Divizie 2 Armura" "Divizie 3 Armura" "Divizie 4 Armura" "Divizie 5 Armura" "Divizie 6 Armura" "Divizie 7 Armura" "Divizie 8 Armura" "Divizie 9 Armura" "Divizie 10 Armura" "Divizie 11 Armura" 
+		"Divizie 12 Armura" "Divizie 13 Armura" "Divizie 14 Armura" "Divizie 15 Armura" "Divizie 16 Armura" "Divizie 17 Armura" "Divizie 18 Armura" "Divizie 19 Armura" "Divizie 1 Armura Antrenament" 
+	}
+	armor_brigade = {
+		"Divizie 1 Armura" "Divizie 2 Armura" "Divizie 3 Armura" "Divizie 4 Armura" "Divizie 5 Armura" "Divizie 6 Armura" "Divizie 7 Armura" "Divizie 8 Armura" "Divizie 9 Armura" "Divizie 10 Armura" "Divizie 11 Armura" 
+		"Divizie 12 Armura" "Divizie 13 Armura" "Divizie 14 Armura" "Divizie 15 Armura" "Divizie 16 Armura" "Divizie 17 Armura" "Divizie 18 Armura" "Divizie 19 Armura" "Divizie 1 Armura Antrenament" 
+	}
+	paratrooper_brigade = {
+		"Divizie 1 Parasutisti" "Divizie 2 Parasutisti" "Divizie 3 Parasutisti" "Divizie 4 Parasutisti" "Divizie 5 Parasutisti" "Divizie 6 Parasutisti" "Divizie 7 Parasutisti" "Divizie 8 Parasutisti" "Divizie 9 Parasutisti" "Divizie 10 Parasutisti" 
+	}
+	marine_brigade = {
+		"Divizie 1 Infanterie Marinar" "Divizie 2 Infanterie Marinar" "Divizie 3 Infanterie Marinar" "Divizie 4 Infanterie Marinar" "Divizie 5 Infanterie Marinar" "Divizie 6 Infanterie Marinar" "Divizie 7 Infanterie Marinar" "Divizie 8 Infanterie Marinar" "Divizie 9 Infanterie Marinar" "Divizie 10 Infanterie Marinar" 
+	}
+	bergsjaeger_brigade = {
+		"Div. 1 Infanterie Alpinisti" "Div. 2 Infanterie Alpinisti" "Div. 3 Infanterie Alpinisti" "Div. 4 Infanterie Alpinisti" "Div. 18 Infanterie Alpinisti" "Div. 103 Infanterie Alpinisti" "Div. 5 Infanterie Alpinisti" "Div. 6 Infanterie Alpinisti" "Div. 7 Infanterie Alpinisti" "Div. 8 Infanterie Alpinisti" "Div. 9 Infanterie Alpinisti" 
+		"Div. 10 Infanterie Alpinisti" "Div. 11 Infanterie Alpinisti" "Div. 12 Infanterie Alpinisti" "Div. 13 Infanterie Alpinisti" "Div. 14 Infanterie Alpinisti" "Div. 15 Infanterie Alpinisti" "Div. 16 Infanterie Alpinisti" "Div. 17 Infanterie Alpinisti" "Div. 18 Infanterie Alpinisti" "Div. 19 Infanterie Alpinisti" 
+	}
+	garrison_brigade = {
+		"Divizie 1 Fortificatii" "Divizie 1 Graniceri" "Divizie 1 Garda" "Divizie 2 Garda" "Divizie 1 Paza" "Divizie 2 Paza" "Divizie 3 Paza" "Divizie 36 Infanterie" "Divizie 37 Infanterie" "Divizie 38 Infanterie" "Divizie 39 Infanterie" 
+		"Divizie 40 Infanterie" "Divizie 41 Infanterie" "Divizie 42 Infanterie" "Divizie 43 Infanterie" "Divizie 44 Infanterie" "Divizie 45 Infanterie" "Divizie 46 Infanterie" "Divizie 47 Infanterie" "Divizie 48 Infanterie" "Divizie 49 Infanterie" "Divizie 50 Infanterie" 
+		"Divizie 51 Infanterie" "Divizie 52 Infanterie" "Divizie 53 Infanterie" "Divizie 54 Infanterie" "Divizie 55 Infanterie" 
+	}
+	hq_brigade = {
+		"1. Armat Romnesc‹‹" "2. Armat Romnesc‹‹" "3. Armat Romnesc‹‹" "4. Armat Romnesc‹‹" "5. Armat Romnesc‹‹" "6. Armat Romnesc‹‹" "7. Armat Romnesc‹‹" "8. Armat Romnesc‹‹" 
+	}
+	militia_brigade = {
+		"Div. 1 Infanterie Antrenament" "Div. 2 Infanterie Antrenament" "Div. 3 Infanterie Antrenament" "Div. 4 Infanterie Antrenament" "Div. 5 Infanterie Antrenament" "Div. 6 Infanterie Antrenament" "Div. 7 Infanterie Antrenament" "Div. 8 Infanterie Antrenament" "Div. 9 Infanterie Antrenament" "Div. 10 Infanterie Antrenament" "Div. 11 Infanterie Antrenament" 
+		"Div. 13 Infanterie Antrenament" "Div. 14 Infanterie Antrenament" "Div. 15 Infanterie Antrenament" "Div. 18 Infanterie Antrenament" "Div. 19 Infanterie Antrenament" "Div. 20 Infanterie Antrenament" "Div. 21 Infanterie Antrenament" "Div. 1 Garda Antrenament" "Div. 33 Infanterie Rezerva" "Div. 34 Infanterie Rezerva" "Div. 35 Infanterie Rezerva" 
+		"Div. 4 Inf. Alpinisti Antrenament" 
+	}
+	multi_role = {
+		"Grup 1 Avion de Vanatoare" "Grup 2 Avion de Vanatoare" "Grup 3 Avion de Vanatoare" "Grup 4 Avion de Vanatoare" "Grup 5 Avion de Vanatoare" "Grup 6 Avion de Vanatoare" "Grup 7 Avion de Vanatoare" "Grup 8 Avion de Vanatoare" "Grup 9 Avion de Vanatoare" "Grup 10 Avion de Vanatoare" "Grup 11 Avion de Vanatoare" 
+		"Grup 12 Avion de Vanatoare" "Grup 13 Avion de Vanatoare" "Grup 14 Avion de Vanatoare" "Grup 15 Avion de Vanatoare" 
+	}
+	interceptor = {
+		"Grup 1 Avion de Vanatoare" "Grup 2 Avion de Vanatoare" "Grup 3 Avion de Vanatoare" "Grup 4 Avion de Vanatoare" "Grup 5 Avion de Vanatoare" "Grup 6 Avion de Vanatoare" "Grup 7 Avion de Vanatoare" "Grup 8 Avion de Vanatoare" "Grup 9 Avion de Vanatoare" "Grup 10 Avion de Vanatoare" "Grup 11 Avion de Vanatoare" 
+		"Grup 12 Avion de Vanatoare" "Grup 13 Avion de Vanatoare" "Grup 14 Avion de Vanatoare" "Grup 15 Avion de Vanatoare" 
+	}
+	strategic_bomber = {
+		"Grup 1 Strategic Bombardier" "Grup 2 Strategic Bombardier" "Grup 3 Strategic Bombardier" "Grup 4 Strategic Bombardier" "Grup 5 Strategic Bombardier" "Grup 6 Strategic Bombardier" "Grup 7 Strategic Bombardier" "Grup 8 Strategic Bombardier" "Grup 9 Strategic Bombardier" "Grup 10 Strategic Bombardier" 
+	}
+	tactical_bomber = {
+		"Grup 1 Tactic Bombardier" "Grup 2 Tactic Bombardier" "Grup 3 Tactic Bombardier" "Grup 4 Tactic Bombardier" "Grup 5 Tactic Bombardier" "Grup 6 Tactic Bombardier" "Grup 7 Tactic Bombardier" "Grup 8 Tactic Bombardier" "Grup 9 Tactic Bombardier" "Grup 10 Tactic Bombardier" "Grup 11 Tactic Bombardier" 
+		"Grup 12 Tactic Bombardier" "Grup 13 Tactic Bombardier" "Grup 14 Tactic Bombardier" "Grup 15 Tactic Bombardier" 
+	}
+	naval_bomber = {
+		"Grup 1 Hidroavioane" "Grup 2 Hidroavioane" "Grup 3 Hidroavioane" "Grup 4 Hidroavioane" "Grup 5 Hidroavioane" "Grup 6 Hidroavioane" "Grup 7 Hidroavioane" "Grup 8 Hidroavioane" "Grup 9 Hidroavioane" "Grup 10 Hidroavioane" "Grup 1 Avion Torpila" 
+		"Grup 2 Avion Torpila" "Grup 3 Avion Torpila" "Grup 4 Avion Torpila" "Grup 5 Avion Torpila" "Grup 6 Avion Torpila" "Grup 7 Avion Torpila" "Grup 8 Avion Torpila" "Grup 9 Avion Torpila" "Grup 10 Avion Torpila" 
+	}
+	cas = {
+		"Grup 1 Asalt" "Grup 2 Asalt" "Grup 3 Asalt" "Grup 4 Asalt" "Grup 5 Asalt" "Grup 6 Asalt" "Grup 7 Asalt" "Grup 8 Asalt" "Grup 9 Asalt" "Grup 10 Asalt" 
+	}
+	transport_plane = {
+		"Grup 1 Aerostatie" "Grup 2 Aerostatie" "Grup 3 Aerostatie" "Grup 4 Aerostatie" "Grup 5 Aerostatie" 
+	}
+	battleship = {
+		"NMS Constanta" "NMS Tirgu Mures" "NMS Cluj Napoca" 
+	}
+	light_cruiser = {
+		"NMS Timosoara" "NMS Arad" "NMS Oradea" "NMS Baia Mare" "NMS Sighetu Marmatiei" "NMS Bistrita" "NMS Reghin" "NMS Pitesti" "NMS Rosiori de Vede" 
+	}
+	heavy_cruiser = {
+		"NMS Timosoara" "NMS Arad" "NMS Oradea" "NMS Baia Mare" "NMS Sighetu Marmatiei" "NMS Bistrita" "NMS Reghin" "NMS Pitesti" "NMS Rosiori de Vede" 
+	}
+	battlecruiser = {
+		"NMS Constanta" "NMS Tirgu Mures" "NMS Cluj Napoca" 
+	}
+	destroyer = {
+		"'NMS Regele Ferdinand' Flotila" "'NMS Regina Maria' Flotila" "'NMS Marasti' Floti Flotila" "'NMS Marasesti' Flotila" "'NMS Leu' Flotila" "'NMS Tigru' Flotila" "'NMS Gazela' Flotila" "'NMS Bivol' Flotila" "'NMS Sarpe' Flotila" "'NMS Rinocer' Flotila" 
+	}
+	carrier = {
+		"NMS Romania" "NMS Bucuresti" "NMS Banat" 
+	}
+	escort_carrier = {
+		"NMS Constanta" "NMS Mangalia" "NMS Sulina" "NMS Navodari" 
+	}
+	submarine = {
+		"'NMS Delfinul' Flotila" "'NMS Rechinul' Flotila" "'NMS Marsuinul' Flotila" "'NMS Stridie' Flotila" "CB 1 Flotila" "CB 2 Flotila" "CB 3 Flotila" "CB 4 Flotila" "CB 5 Flotila" "CB 6 Flotila" 
+	}
+	transport_ship = {
+		"'Elena' Flotila" "'Oltul' Flotila" "'Muresul' Flotila" "'Arlon' Flotila" "'Ardealul' Flotila" "'Amarilis' Flotila" "'Praid' Flotila" "'Virful Saca' Flotila" "'Blaj' Flotila" "'Aiud' Flotila" "'Buzias' Flotila" 
+		"'Recas' Flotila" "'Otelu Rosu' Flotila" "'Margina' Flotila" "'Corabia' Flotila" 
+	}
+
+}
+
+
+ministers = {
+	}
+

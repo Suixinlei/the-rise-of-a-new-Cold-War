@@ -1,0 +1,12 @@
+theatre = {
+	name = "Trinidad and Tobago Defence Force"
+	location = 1091
+	regiment = { type = hq_brigade name = "Trinidad and Tobago Defence Force" historical_model = 1 }
+	division = {
+		is_reserve = yes
+		name = "Trinidad and Tobago Regiment"
+		location = 1091
+		regiment = { type = infantry_brigade name = "1st Battalion" historical_model = 1 }
+		regiment = { type = infantry_brigade name = "2nd Battalion" historical_model = 1 }
+	}
+}

@@ -1,0 +1,41 @@
+capital = 9699
+government = republic
+ideology = paternal_autocrat
+alignment = { x = 40 y = 10 }
+neutrality = 80
+national_unity = 70
+oob = "SAL_2000.txt"
+
+popularity = { 
+	national_socialist = 0
+	fascistic = 0
+	paternal_autocrat = 32
+	social_conservative = 7
+	market_liberal = 13
+	social_liberal = 0
+	social_democrat = 1
+	left_wing_radical = 34
+	leninist = 0
+	stalinist = 0
+}
+
+organization = { 
+	national_socialist = 0
+	fascistic = 0
+	paternal_autocrat = 96
+	social_conservative = 21
+	market_liberal = 39
+	social_liberal = 0
+	social_democrat = 3
+	left_wing_radical = 102
+	leninist = 0
+	stalinist = 0
+}
+
+conscription_policy = partial_draft
+press_laws = free_press
+mobilisation_level = peace_time
+civil_laws = open_society
+service_length = twelve_months
+economic_policy = limit_intervention
+

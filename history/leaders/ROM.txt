@@ -1,0 +1,1357 @@
+130001 = {
+	name = "Roman"
+	country = ROM
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L130001
+								add_trait = marine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+130002 = {
+	name = "Anghelache"
+	country = ROM
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 0.00
+	picture = L130002
+	add_trait = defensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+130003 = {
+	name = "Basescu"
+	country = ROM
+	type = land
+	skill = 2
+	max_skill = 8
+	loyalty = 1.00
+	picture = L130003
+	add_trait = offensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+130004 = {
+	name = "Birhala"
+	country = ROM
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L130004
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+130005 = {
+	name = "Bîrsan"
+	country = ROM
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L130005
+	add_trait = hard_defender
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+130006 = {
+	name = "Bostos"
+	country = ROM
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L130006
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+130007 = {
+	name = "Buciu"
+	country = ROM
+	type = land
+	skill = 1
+	max_skill = 7
+	loyalty = 1.00
+	picture = L130007
+	add_trait = trainer
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+130008 = {
+	name = "Cislariu"
+	country = ROM
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L130008
+	add_trait = panzer_leader
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+130009 = {
+	name = "Ciuca"
+	country = ROM
+	type = land
+	skill = 2
+	max_skill = 8
+	loyalty = 1.00
+	picture = L130009
+	add_trait = logistics_wizard
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+130010 = {
+	name = "Cojocaru"
+	country = ROM
+	type = land
+	skill = 1
+	max_skill = 7
+	loyalty = 1.00
+	picture = L130010
+	add_trait = commando
+	add_trait = learners_will
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+130011 = {
+	name = "Craciun"
+	country = ROM
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L130011
+	add_trait = commando
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+130012 = {
+	name = "Dula"
+	country = ROM
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L130012
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+130013 = {
+	name = "G. Ionescu"
+	country = ROM
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L130013
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+130014 = {
+	name = "Helman"
+	country = ROM
+	type = land
+	skill = 1
+	max_skill = 7
+	loyalty = 1.00
+	picture = L130014
+	add_trait = trainer
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+130015 = {
+	name = "Adamache"
+	country = ROM
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 0.00
+	picture = L130015
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+130016 = {
+	name = "Apostu"
+	country = ROM
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L130016
+	add_trait = defensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+130017 = {
+	name = "Avramescu"
+	country = ROM
+	type = land
+	skill = 0
+	max_skill = 6
+	loyalty = 1.00
+	picture = L130017
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+130018 = {
+	name = "Baicu"
+	country = ROM
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L130018
+	add_trait = commando
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+130019 = {
+	name = "Balauru"
+	country = ROM
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 0.00
+	picture = L130019
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+130020 = {
+	name = "Bârladeanu"
+	country = ROM
+	type = land
+	skill = 1
+	max_skill = 7
+	loyalty = 1.00
+	picture = L130020
+	add_trait = panzer_leader
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+130021 = {
+	name = "Bogza"
+	country = ROM
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L130021
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+130022 = {
+	name = "Bunea"
+	country = ROM
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 0.00
+	picture = L130022
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+130023 = {
+	name = "Caragiale"
+	country = ROM
+	type = land
+	skill = 1
+	max_skill = 7
+	loyalty = 1.00
+	picture = L130023
+	add_trait = frontline_soldier
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+130024 = {
+	name = "Chivu"
+	country = ROM
+	type = land
+	skill = 0
+	max_skill = 6
+	loyalty = 0.00
+	picture = L130024
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+130025 = {
+	name = "Constantinescu"
+	country = ROM
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L130025
+	add_trait = commando
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+130026 = {
+	name = "Diaconescu"
+	country = ROM
+	type = land
+	skill = 1
+	max_skill = 7
+	loyalty = 1.00
+	picture = L130026
+	add_trait = landing_specialist
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+130027 = {
+	name = "Dumitrescu"
+	country = ROM
+	type = land
+	skill = 1
+	max_skill = 7
+	loyalty = 1.00
+	picture = L130027
+	add_trait = improvisation
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+130028 = {
+	name = "Eminescu"
+	country = ROM
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 0.00
+	picture = L130028
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+130029 = {
+	name = "Epureanu"
+	country = ROM
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L130029
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+130030 = {
+	name = "Florescu"
+	country = ROM
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L130030
+	add_trait = engineer
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+130031 = {
+	name = "Ganea"
+	country = ROM
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L130031
+	add_trait = offensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+130032 = {
+	name = "Gheorghiu"
+	country = ROM
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L130032
+	add_trait = commando
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+130033 = {
+	name = "Goldi?"
+	country = ROM
+	type = land
+	skill = 1
+	max_skill = 7
+	loyalty = 1.00
+	picture = L130033
+	add_trait = landing_specialist
+	add_trait = learners_will
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+130034 = {
+	name = "Hasdeu"
+	country = ROM
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 0.00
+	picture = L130034
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+130035 = {
+	name = "Iacobescu"
+	country = ROM
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L130035
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+130036 = {
+	name = "Iordache"
+	country = ROM
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L130036
+	add_trait = frontline_soldier
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+130037 = {
+	name = "Lahovary"
+	country = ROM
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L130037
+	add_trait = winter_specialist
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+130038 = {
+	name = "Lupescu"
+	country = ROM
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 0.00
+	picture = L130038
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+130039 = {
+	name = "Macedonski"
+	country = ROM
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L130039
+	add_trait = frontline_soldier
+	add_trait = offensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+130040 = {
+	name = "Nicolescu"
+	country = ROM
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L130040
+	add_trait = defensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+130041 = {
+	name = "Olinescu"
+	country = ROM
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L130041
+	add_trait = improvisation
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+130042 = {
+	name = "Pacuraru"
+	country = ROM
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L130042
+	add_trait = logistics_wizard
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+130043 = {
+	name = "Poenaru"
+	country = ROM
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L130043
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+130044 = {
+	name = "Proca"
+	country = ROM
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L130044
+	add_trait = assaulter
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+130045 = {
+	name = "Rebreanu"
+	country = ROM
+	type = land
+	skill = 1
+	max_skill = 7
+	loyalty = 1.00
+	picture = L130045
+	add_trait = frontline_soldier
+	add_trait = engineer
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+130046 = {
+	name = "Rotaru"
+	country = ROM
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L130046
+	add_trait = offensive_doctrine
+	add_trait = assaulter
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+130047 = {
+	name = "?erban"
+	country = ROM
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L130047
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+130048 = {
+	name = "Skutnik"
+	country = ROM
+	type = land
+	skill = 1
+	max_skill = 7
+	loyalty = 1.00
+	picture = L130048
+	add_trait = panzer_leader
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+130049 = {
+	name = "Hermeneanu"
+	country = ROM
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L130049
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+130050 = {
+	name = "Ionel"
+	country = ROM
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L130050
+	add_trait = trickster
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+130051 = {
+	name = "Ionita"
+	country = ROM
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L130051
+	add_trait = panzer_leader
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+130052 = {
+	name = "Lesan"
+	country = ROM
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L130052
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+130053 = {
+	name = "Manci"
+	country = ROM
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L130053
+	add_trait = logistics_wizard
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+130054 = {
+	name = "Olaru"
+	country = ROM
+	type = land
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = L130054
+	add_trait = old_guard
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+130055 = {
+	name = "Pasere"
+	country = ROM
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L130055
+	add_trait = offensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+130056 = {
+	name = "Plavitu"
+	country = ROM
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L130056
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+130057 = {
+	name = "Radu"
+	country = ROM
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L130057
+	add_trait = old_guard
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+130058 = {
+	name = "Seserman"
+	country = ROM
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L130058
+	add_trait = panzer_leader
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+130059 = {
+	name = "Stoian"
+	country = ROM
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L130059
+	add_trait = hard_defender
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+130060 = {
+	name = "Vaduva"
+	country = ROM
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L130060
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+130061 = {
+	name = "Badalan"
+	country = ROM
+	type = land
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L130061
+	add_trait = offensive_doctrine
+	history = {
+		1995.1.1 = { rank = 1 }
+		1998.1.1 = { rank = 2 }
+		2001.1.1 = { rank = 3 }
+		2003.1.1 = { rank = 4 }
+	}
+}
+130062 = {
+	name = "Degeratu"
+	country = ROM
+	type = land
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L130062
+	add_trait = logistics_wizard
+	history = {
+		1995.1.1 = { rank = 1 }
+		1998.1.1 = { rank = 2 }
+		2001.1.1 = { rank = 3 }
+		2003.1.1 = { rank = 4 }
+	}
+}
+130063 = {
+	name = "Oprisor"
+	country = ROM
+	type = land
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L130063
+	add_trait = frontline_soldier
+	add_trait = improvisation
+	history = {
+		1995.1.1 = { rank = 1 }
+		1998.1.1 = { rank = 2 }
+		2001.1.1 = { rank = 3 }
+		2003.1.1 = { rank = 4 }
+	}
+}
+130064 = {
+	name = "Szilágyi"
+	country = ROM
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L130064
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+130065 = {
+	name = "Frunzeti"
+	country = ROM
+	type = land
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L130065
+	history = {
+		1998.1.1 = { rank = 1 }
+		2001.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+130066 = {
+	name = "Ghica-Radu"
+	country = ROM
+	type = land
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L130066
+	add_trait = hard_defender
+	history = {
+		1998.1.1 = { rank = 1 }
+		2001.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+130067 = {
+	name = "Medar"
+	country = ROM
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L130067
+	add_trait = panzer_leader
+	history = {
+		1998.1.1 = { rank = 1 }
+		2001.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+130068 = {
+	name = "Oprea"
+	country = ROM
+	type = land
+	skill = 2
+	max_skill = 8
+	loyalty = 1.00
+	picture = L130068
+	add_trait = offensive_doctrine
+	history = {
+		1998.1.1 = { rank = 1 }
+		2001.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+130069 = {
+	name = "Paraniac"
+	country = ROM
+	type = land
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L130069
+	history = {
+		1998.1.1 = { rank = 1 }
+		2001.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+130070 = {
+	name = "Sorin"
+	country = ROM
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L130070
+	add_trait = defensive_doctrine
+	history = {
+		1998.1.1 = { rank = 1 }
+		2001.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+130071 = {
+	name = "Basescu"
+	country = ROM
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L130071
+	add_trait = engineer
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+130072 = {
+	name = "Dumitru"
+	country = ROM
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L130072
+	add_trait = landlubber
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+130073 = {
+	name = "Finabel"
+	country = ROM
+	type = land
+	skill = 2
+	max_skill = 8
+	loyalty = 1.00
+	picture = L130073
+	add_trait = landing_specialist
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+130074 = {
+	name = "Gabor"
+	country = ROM
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L130074
+	add_trait = panzer_leader
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+130075 = {
+	name = "Hapau"
+	country = ROM
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 0.00
+	picture = L130075
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+130076 = {
+	name = "Ionita"
+	country = ROM
+	type = land
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L130076
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+130077 = {
+	name = "Nastase"
+	country = ROM
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L130077
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+130078 = {
+	name = "Radici"
+	country = ROM
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L130078
+	add_trait = defensive_doctrine
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+130079 = {
+	name = "Savu"
+	country = ROM
+	type = land
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L130079
+	add_trait = landing_specialist
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+130080 = {
+	name = "Ungureanu"
+	country = ROM
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L130080
+	add_trait = winter_specialist
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+130081 = {
+	name = "Tanase"
+	country = ROM
+	type = air
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L130081
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+130082 = {
+	name = "Torje"
+	country = ROM
+	type = air
+	skill = 0
+	max_skill = 5
+	loyalty = 0.00
+	picture = L130082
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+130083 = {
+	name = "Alexandru"
+	country = ROM
+	type = air
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L130083
+	add_trait = superior_air_tactician
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+130084 = {
+	name = "Bas"
+	country = ROM
+	type = air
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L130084
+	add_trait = night_flyer
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+130085 = {
+	name = "Opris"
+	country = ROM
+	type = air
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L130085
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+130086 = {
+	name = "Catrina"
+	country = ROM
+	type = air
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L130086
+	add_trait = tank_buster
+	history = {
+		1995.1.1 = { rank = 1 }
+		1998.1.1 = { rank = 2 }
+		2001.1.1 = { rank = 3 }
+		2003.1.1 = { rank = 4 }
+	}
+}
+130087 = {
+	name = "Croitoru"
+	country = ROM
+	type = air
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L130087
+	add_trait = fleet_destroyer
+	history = {
+		1998.1.1 = { rank = 1 }
+		2001.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+130088 = {
+	name = "Fanica"
+	country = ROM
+	type = air
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L130088
+	add_trait = superior_air_tactician
+	history = {
+		1998.1.1 = { rank = 1 }
+		2001.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+130089 = {
+	name = "Orzeata"
+	country = ROM
+	type = air
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L130089
+	history = {
+		1998.1.1 = { rank = 1 }
+		2001.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+130090 = {
+	name = "Aurel"
+	country = ROM
+	type = air
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L130090
+	add_trait = tank_buster
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+130091 = {
+	name = "Danila"
+	country = ROM
+	type = air
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L130091
+	add_trait = superior_air_tactician
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+130092 = {
+	name = "Strambeanu"
+	country = ROM
+	type = air
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L130092
+	add_trait = carpet_bomber
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+130093 = {
+	name = "Tabarcia"
+	country = ROM
+	type = air
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L130093
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+130094 = {
+	name = "Burhala"
+	country = ROM
+	type = sea
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L130094
+	history = {
+		1995.1.1 = { rank = 1 }
+		1998.1.1 = { rank = 2 }
+		2001.1.1 = { rank = 3 }
+		2003.1.1 = { rank = 4 }
+	}
+}
+130095 = {
+	name = "Marin"
+	country = ROM
+	type = sea
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L130095
+	add_trait = superior_tactician
+	history = {
+		1995.1.1 = { rank = 1 }
+		1998.1.1 = { rank = 2 }
+		2001.1.1 = { rank = 3 }
+		2003.1.1 = { rank = 4 }
+	}
+}
+130096 = {
+	name = "Rudencu"
+	country = ROM
+	type = sea
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = L130096
+	add_trait = old_guard
+	history = {
+		1995.1.1 = { rank = 1 }
+		1998.1.1 = { rank = 2 }
+		2001.1.1 = { rank = 3 }
+		2003.1.1 = { rank = 4 }
+	}
+}
+130097 = {
+	name = "Popa"
+	country = ROM
+	type = sea
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L130097
+	add_trait = seawolf
+	history = {
+		1998.1.1 = { rank = 1 }
+		2001.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+130098 = {
+	name = "Bocai"
+	country = ROM
+	type = sea
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L130098
+	add_trait = blockade_runner
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+130099 = {
+	name = "Danila"
+	country = ROM
+	type = sea
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = L130099
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+130100 = {
+	name = "Hapau"
+	country = ROM
+	type = sea
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = L130100
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+130101 = {
+	name = "Izmene"
+	country = ROM
+	type = sea
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L130101
+	add_trait = spotter
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+130102 = {
+	name = "Mirsu"
+	country = ROM
+	type = sea
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L130102
+	add_trait = seawolf
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}

@@ -1,0 +1,77 @@
+theatre = {
+	name = "Armed Forces of Guatemala"
+	location = 9713
+	regiment = { type = hq_brigade name = "Armed Forces HQ" historical_model = 1 }
+	division = {
+		is_reserve = yes
+		name = "1st Brigade"
+		location = 9713
+		regiment = { type = infantry_brigade name = "11th Battalion" historical_model = 1 }
+		regiment = { type = infantry_brigade name = "12th Battalion" historical_model = 1 }
+		regiment = { type = infantry_brigade name = "13th Battalion" historical_model = 1 }
+	}
+	division = {
+		is_reserve = yes
+		name = "2nd Brigade"
+		location = 9713
+		regiment = { type = infantry_brigade name = "21st Battalion" historical_model = 1 }
+		regiment = { type = infantry_brigade name = "22nd Battalion" historical_model = 1 }
+		regiment = { type = infantry_brigade name = "23rd Battalion" historical_model = 1 }
+	}
+	division = {
+		is_reserve = yes
+		name = "3rd Brigade"
+		location = 9713
+		regiment = { type = infantry_brigade name = "31st Battalion" historical_model = 1 }
+		regiment = { type = infantry_brigade name = "32nd Battalion" historical_model = 1 }
+		regiment = { type = infantry_brigade name = "33rd Battalion" historical_model = 1 }
+	}
+	division = {
+		is_reserve = yes
+		name = "4th Brigade"
+		location = 9713
+		regiment = { type = infantry_brigade name = "41st Battalion" historical_model = 1 }
+		regiment = { type = infantry_brigade name = "42nd Battalion" historical_model = 1 }
+		regiment = { type = infantry_brigade name = "43rd Battalion" historical_model = 1 }
+	}
+	division = {
+		is_reserve = yes
+		name = "5th Brigade"
+		location = 9713
+		regiment = { type = infantry_brigade name = "51st Battalion" historical_model = 1 }
+		regiment = { type = infantry_brigade name = "52nd Battalion" historical_model = 1 }
+		regiment = { type = infantry_brigade name = "53rd Battalion" historical_model = 1 }
+	}
+	division = {
+		is_reserve = yes
+		name = "6th Brigade"
+		location = 9713
+		regiment = { type = infantry_brigade name = "61st Battalion" historical_model = 1 }
+		regiment = { type = infantry_brigade name = "62nd Battalion" historical_model = 1 }
+		regiment = { type = infantry_brigade name = "63rd Battalion" historical_model = 1 }
+	}
+	division = {
+		is_reserve = yes
+		name = "7th Brigade"
+		location = 9713
+		regiment = { type = infantry_brigade name = "71st Battalion" historical_model = 1 }
+		regiment = { type = infantry_brigade name = "72nd Battalion" historical_model = 1 }
+		regiment = { type = infantry_brigade name = "73rd Battalion" historical_model = 1 }
+	}
+	division = {
+		is_reserve = yes
+		name = "8th Brigade"
+		location = 9713
+		regiment = { type = infantry_brigade name = "81st Battalion" historical_model = 1 }
+		regiment = { type = infantry_brigade name = "82nd Battalion" historical_model = 1 }
+		regiment = { type = infantry_brigade name = "83rd Battalion" historical_model = 1 }
+	}
+	division = {
+		is_reserve = yes
+		name = "9th Brigade"
+		location = 9713
+		regiment = { type = infantry_brigade name = "91st Battalion" historical_model = 1 }
+		regiment = { type = infantry_brigade name = "92nd Battalion" historical_model = 1 }
+		regiment = { type = infantry_brigade name = "93rd Battalion" historical_model = 1 }
+	}
+}

@@ -1,0 +1,85 @@
+color = { 151  199  250 }
+graphical_culture = Generic
+
+
+default_templates = {
+	generic_infantry = {
+		infantry_brigade
+		infantry_brigade
+		infantry_brigade
+	}
+	generic_milita = {
+		militia_brigade
+		militia_brigade
+		militia_brigade
+	}
+	generic_armoured = {
+		armor_brigade
+		motorized_brigade
+		motorized_brigade
+	}
+	generic_cavalry = {
+		cavalry_brigade
+		cavalry_brigade
+	}
+}
+
+
+
+
+ministers = {
+        80720 = {
+		name = "朱马里·赛雅颂"
+		ideology = stalinist
+		loyalty = 1.00
+		picture = L80720
+                head_of_state = ideological_crusader
+                chief_of_staff = school_of_mass_combat
+		start_date = 2000.1.1
+        }
+        80721 = {
+		name = "通辛·坦马冯"
+		ideology = stalinist
+		loyalty = 1.00
+		picture = L80721
+                head_of_government = great_compromiser
+		start_date = 2000.1.1
+        }
+        80722 = {
+		name = "阿桑·劳里"
+		ideology = stalinist
+		loyalty = 1.00
+		picture = L80722
+                foreign_minister = biased_intellectual
+                armament_minister = school_of_fire_support
+		start_date = 2000.1.1
+        }
+        80723 = {
+		name = "通伦·西苏里"
+		ideology = stalinist
+		loyalty = 1.00
+		picture = L80723
+                armament_minister = infantry_proponent
+		start_date = 2000.1.1
+        }
+        80724 = {
+		name = "隆再·皮吉"
+		ideology = stalinist
+		loyalty = 1.00
+		picture = L80724
+                chief_of_army = school_of_defence
+                chief_of_navy = decisive_naval_battle_doctrine
+                chief_of_air = army_aviation_doctrine
+		start_date = 2000.1.1
+        }
+        80725 = {
+		name = "西沙瓦.乔本潘"
+		ideology = stalinist
+		loyalty = 1.00
+		picture = L80725
+                minister_of_security = prince_of_terror
+                minister_of_intelligence = naval_intelligence_specialist
+		start_date = 2000.1.1
+        }
+
+}

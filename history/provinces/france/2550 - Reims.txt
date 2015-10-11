@@ -1,0 +1,10 @@
+owner = FRA
+controller = FRA
+add_core = FRA
+
+terrain = plains
+
+infra = 9
+
+air_base = 2 #Reims airbase
+points = 1

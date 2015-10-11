@@ -1,0 +1,11 @@
+owner = CAN
+controller = CAN
+add_core = CAN
+infra = 8
+industry = 6
+energy = 40.00
+rare_materials = 30.00
+metal = 50.00
+air_base = 3 #Montreal airport
+leadership = 2.50
+points = 1

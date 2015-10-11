@@ -1,0 +1,11 @@
+owner = UKR
+controller = UKR
+add_core = UKR
+industry = 3
+infra = 8
+manpower = 5.00
+energy = 50.00
+metal = 30.00
+rare_materials = 20.00
+leadership = 2.50
+points = 1

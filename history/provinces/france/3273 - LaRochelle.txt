@@ -1,0 +1,6 @@
+owner = FRA
+controller = FRA
+add_core = FRA
+
+infra = 9
+naval_base = 3 #La Rochelle port

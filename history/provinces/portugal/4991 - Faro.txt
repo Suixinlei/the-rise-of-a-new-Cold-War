@@ -1,0 +1,10 @@
+owner = POR
+controller = POR
+add_core = POR
+
+
+infra = 7
+
+air_base = 1 #Faro airport
+points = 1
+industry = 1

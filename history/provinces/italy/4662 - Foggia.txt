@@ -1,0 +1,9 @@
+owner = ITA
+controller = ITA
+add_core = ITA
+
+infra = 8
+
+
+air_base = 1 #Foggia airbase
+points = 1

@@ -1,0 +1,5 @@
+theatre = {
+	name = "Kiribati Defence Force"
+	location = 10638
+	regiment = { type = hq_brigade name = "Defene Force HQ" historical_model = 0 }
+}

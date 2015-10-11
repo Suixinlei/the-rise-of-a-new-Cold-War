@@ -1,0 +1,9 @@
+owner = MON
+controller = MON
+add_core = MON
+manpower = 1.00
+infra = 6
+metal = 1.00
+rare_materials = 4.00
+leadership = 1.50
+points = 1

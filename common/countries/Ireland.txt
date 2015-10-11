@@ -1,0 +1,127 @@
+color = { 80  159  90 }
+graphical_culture = British
+
+last_election = 2002.5.17
+duration = 60
+
+default_templates = {
+	generic_infantry = {
+		infantry_brigade
+		infantry_brigade
+		infantry_brigade
+	}
+	generic_milita = {
+		militia_brigade
+		militia_brigade
+		militia_brigade
+	}
+	generic_armoured = {
+		armor_brigade
+		motorized_brigade
+		motorized_brigade
+	}
+	generic_cavalry = {
+		cavalry_brigade
+		cavalry_brigade
+	}
+}
+
+unit_names = {
+	infantry_brigade = {
+		"1st 'Thunderbolt' Division" "2nd 'Spearhead' Division" "3rd Irish Infantry Division" "4th Irish Infantry Division" "5th Irish Infantry Division" "6th Irish Infantry Division" "7th Irish Infantry Division" "8th Irish Infantry Division" "9th Irish Infantry Division" "10th Irish Infantry Division" "11th Irish Infantry Division" 
+		"12th Irish Infantry Division" "13th Irish Infantry Division" "14th Irish Infantry Division" "15th Irish Infantry Division" "16th Irish Infantry Division" "17th Irish Infantry Division" "18th Irish Infantry Division" "19th Irish Infantry Division" "20th Irish Infantry Division" 
+	}
+	cavalry_brigade = {
+		"1st Irish Cavalry Div. 'Parnell'" "2nd Irish Cavalry Division" "3rd Irish Cavalry Division" "4th Irish Cavalry Division" "5th Irish Cavalry Division" "6th Irish Cavalry Division" "7th Irish Cavalry Division" "8th Irish Cavalry Division" "9th Irish Cavalry Division" "10th Irish Cavalry Division" 
+	}
+	motorized_brigade = {
+		"1st Irish Motor Division" "2nd Irish Motor Division" "3rd Irish Motor Division" "4th Irish Motor Division" "5th Irish Motor Division" "6th Irish Motor Division" "7th Irish Motor Division" "8th Irish Motor Division" "9th Irish Motor Division" 
+	}
+	mechanized_brigade = {
+		"1st Irish Mechanized Division" "2nd Irish Mechanized Division" "3rd Irish Mechanized Division" "4th Irish Mechanized Division" "5th Irish Mechanized Division" "6th Irish Mechanized Division" "7th Irish Mechanized Division" "8th Irish Mechanized Division" "9th Irish Mechanized Division" "10th Irish Mechanized Division" 
+	}
+	light_armor_brigade = {
+		"1st Irish Armoured Division" "2nd Irish Armoured Division" "3rd Irish Armoured Division" "4th Irish Armoured Division" "5th Irish Armoured Division" "6th Irish Armoured Division" "7th Irish Armoured Division" "8th Irish Armoured Division" "9th Irish Armoured Division" "10th Irish Armoured Division" "11th Irish Armoured Division" 
+		"12th Irish Armoured Division" "14th Irish Armoured Division" "15th Irish Armoured Division" 
+	}
+	armor_brigade = {
+		"1st Irish Armoured Division" "2nd Irish Armoured Division" "3rd Irish Armoured Division" "4th Irish Armoured Division" "5th Irish Armoured Division" "6th Irish Armoured Division" "7th Irish Armoured Division" "8th Irish Armoured Division" "9th Irish Armoured Division" "10th Irish Armoured Division" "11th Irish Armoured Division" 
+		"12th Irish Armoured Division" "14th Irish Armoured Division" "15th Irish Armoured Division" 
+	}
+	paratrooper_brigade = {
+		"1st Irish Airborne Inf. Division" "2nd Irish Airborne Inf. Division" "3rd Irish Airborne Inf. Division" "4th Irish Airborne Inf. Division" "5th Irish Airborne Inf. Division" "6th Irish Airborne Inf. Division" "7th Irish Airborne Inf. Division" "8th Irish Airborne Inf. Division" "9th Irish Airborne Inf. Division" "10th Irish Airborne Inf. Division" 
+	}
+	marine_brigade = {
+		"1st Irish Marine Inf. Division" "2nd Irish Marine Inf. Division" "3rd Irish Marine Inf. Division" "4th Irish Marine Inf. Division" "5th Irish Marine Inf. Division" "6th Irish Marine Inf. Division" "7th Irish Marine Inf. Division" "8th Irish Marine Inf. Division" "9th Irish Marine Inf. Division" "10th Irish Marine Inf. Division" 
+	}
+	bergsjaeger_brigade = {
+		"1st Irish Mountain Inf. Division" "2nd Irish Mountain Inf. Division" "3rd Irish Mountain Inf. Division" "4th Irish Mountain Inf. Division" "5th Irish Mountain Inf. Division" "8th Irish Mountain Inf. Division" "10th Irish Mountain Inf. Division" "11th Irish Mountain Inf. Division" "12th Irish Mountain Inf. Division" 
+	}
+	garrison_brigade = {
+		"3rd Irish Infantry Division" "4th Irish Infantry Division" "5th Irish Infantry Division" "6th Irish Infantry Division" "7th Irish Infantry Division" "8th Irish Infantry Division" "9th Irish Infantry Division" "10th Irish Infantry Division" "11th Irish Infantry Division" "12th Irish Infantry Division" "13th Irish Infantry Division" 
+		"14th Irish Infantry Division" "15th Irish Infantry Division" "16th Irish Infantry Division" "17th Irish Infantry Division" "18th Irish Infantry Division" "19th Irish Infantry Division" "20th Irish Infantry Division" 
+	}
+	hq_brigade = {
+		"1st Irish Army" "2nd Irish Army" "3rd Irish Army" "4th Irish Army" "5th Irish Army" "1st Irish Army" "2nd Northern Irish Army" "3rd Northern Irish Army" "4th Northern Irish Army" "5th Northern Irish Army" 
+	}
+	militia_brigade = {
+		"1st IRA Militia Division" "2nd IRA Militia Division" "3rd IRA Militia Division" "4th IRA Militia Division" "5th IRA Militia Division" "6th IRA Militia Division" "7th IRA Militia Division" "8th IRA Militia Division" "9th IRA Militia Division" "10th IRA Militia Division" "11th IRA Militia Division" 
+		"12th IRA Militia Division" "13th IRA Militia Division" "14th IRA Militia Division" "15th IRA Militia Division" "16th IRA Militia Division" "17th IRA Militia Division" "18th IRA Militia Division" "19th IRA Militia Division" "20th IRA Militia Division" "21st IRA Militia Division" "22nd IRA Militia Division" 
+		"23rd IRA Militia Division" "24th IRA Militia Division" "25th IRA Militia Division" "26th IRA Militia Division" "27th IRA Militia Division" "28th IRA Militia Division" "29th IRA Militia Division" "30th IRA Militia Division" 
+	}
+	multi_role = {
+		"No.1 IAF Fighter Group" "No.2 IAF Fighter Group" "No.3 IAF Fighter Group" "No.4 IAF Fighter Group" "No.5 IAF Fighter Group" "No.7 IAF Fighter Group" "No.8 IAF Fighter Group" "No.9 IAF Fighter Group" "No.10 IAF Fighter Group" 
+	}
+	interceptor = {
+		"No.1 IAF Fighter Group" "No.2 IAF Fighter Group" "No.3 IAF Fighter Group" "No.4 IAF Fighter Group" "No.5 IAF Fighter Group" "No.7 IAF Fighter Group" "No.8 IAF Fighter Group" "No.9 IAF Fighter Group" "No.10 IAF Fighter Group" 
+	}
+	strategic_bomber = {
+		"No.1 IAF Strategic Group" "No.2 IAF Strategic Group" "No.6 IAF Strategic Group" "No.3 IAF Strategic Group" "No.4 IAF Strategic Group" "No.7 IAF Strategic Group" "No.8 IAF Strategic Group" "No.9 IAF Strategic Group" "No.10 IAF Strategic Group" 
+	}
+	tactical_bomber = {
+		"No.1 IAF Tactical Group" "No.2 IAF Tactical Group" "No.6 IAF Tactical Group" "No.3 IAF Tactical Group" "No.4 IAF Tactical Group" "No.7 IAF Tactical Group" "No.8 IAF Tactical Group" "No.9 IAF Tactical Group" "No.10 IAF Tactical Group" 
+	}
+	naval_bomber = {
+		"No.1 IAF Naval Bomb Group" "No.2 IAF Naval Bomb Group" "No.3 IAF Naval Bomb Group" "No.4 IAF Naval Bomb Group" "No.5 IAF Naval Bomb Group" "No.7 IAF Naval Bomb Group" "No.8 IAF Naval Bomb Group" "No.9 IAF Naval Bomb Group" "No.10 IAF Naval Bomb Group" "No.1 IAF Torpedo Bomb Group" "No.2 IAF Torpedo Bomb Group" 
+		"No.3 IAF Torpedo Bomb Group" "No.4 IAF Torpedo Bomb Group" "No.5 IAF Torpedo Bomb Group" "No.7 IAF Torpedo Bomb Group" "No.8 IAF Torpedo Bomb Group" "No.9 IAF Torpedo Bomb Group" "No.10 IAF Torpedo Bomb Group" 
+	}
+	cas = {
+		"No.1 IAF Dive Bomb Group" "No.2 IAF Dive Bomb Group" "No.6 IAF Dive Bomb Group" "No.3 IAF Dive Bomb Group" "No.4 IAF Dive Bomb Group" "No.7 IAF Dive Bomb Group" "No.8 IAF Dive Bomb Group" "No.9 IAF Dive Bomb Group" "No.10 IAF Dive Bomb Group" 
+	}
+	transport_plane = {
+		"No.1 IAF Transport Group" "No.2 IAF Transport Group" "No.3 IAF Transport Group" "No.4 IAF Transport Group" "No.5 IAF Transport Group" 
+	}
+	battleship = {
+		"LE Eire" "LE Daniel O'Connell" "LE Eamon DeValera" "LE William Smith O'Brien" "LE Donal O'Sullivan Beare" "LE Theobald Wolfe Tone" "LE William Butler Yeats" 
+	}
+	light_cruiser = {
+		"LE Deirdre" "LE Emer" "LE Eithne" "LE Clíona" "LE Meabh" "LE Mucha" "LE William Smith O'Brien" "LE Donal O'Sullivan Beare" "LE Theobald Wolfe Tone" "LE William Butler Yeats" 
+	}
+	heavy_cruiser = {
+		"LE Michael Collins" "LE Arthur Griffith" "LE Charles Stewart Parnell" "LE Daniel O'Connell" "LE Eamon DeValera" "LE William Smith O'Brien" "LE Donal O'Sullivan Beare" "LE Theobald Wolfe Tone" "LE William Butler Yeats" 
+	}
+	battlecruiser = {
+		"LE Daniel O'Connell" "LE Eamon DeValera" "LE William Smith O'Brien" "LE Donal O'Sullivan Beare" "LE Theobald Wolfe Tone" "LE William Butler Yeats" 
+	}
+	destroyer = {
+		"1st Destroyer Flotilla" "2nd Destroyer Flotilla" "3rd Destroyer Flotilla" "4th Destroyer Flotilla" "5th Destroyer Flotilla" "6th Destroyer Flotilla" "7th Destroyer Flotilla" "8th Destroyer Flotilla" "9th Destroyer Flotilla" "10th Destroyer Flotilla" "11th Destroyer Flotilla" 
+		"12th Destroyer Flotilla" "13th Destroyer Flotilla" "14th Destroyer Flotilla" "15th Destroyer Flotilla" "16th Destroyer Flotilla" "17th Destroyer Flotilla" "18th Destroyer Flotilla" "19th Destroyer Flotilla" "20th Destroyer Flotilla" 
+	}
+	carrier = {
+		"LE Eire" "LE Michael Collins" "LE Arthur Griffith" "LE Charles Stewart Parnell" 
+	}
+	escort_carrier = {
+		"LE Banba" "LE Fola" "LE Macha" "LE Maev" "LE Cliona" 
+	}
+	submarine = {
+		"1st Submarine Flotilla" "2nd Submarine Flotilla" "3rd Submarine Flotilla" "4th Submarine Flotilla" "5th Submarine Flotilla" "6th Submarine Flotilla" "7th Submarine Flotilla" "8th Submarine Flotilla" "9th Submarine Flotilla" "10th Submarine Flotilla" "11th Submarine Flotilla" 
+		"12th Submarine Flotilla" "13th Submarine Flotilla" "14th Submarine Flotilla" "15th Submarine Flotilla" 
+	}
+	transport_ship = {
+		"1st Transport Flotilla" "2nd Transport Flotilla" "3rd Transport Flotilla" "4th Transport Flotilla" "5th Transport Flotilla" "6th Transport Flotilla" "7th Transport Flotilla" "8th Transport Flotilla" "9th Transport Flotilla" "10th Transport Flotilla" 
+	}
+
+}
+
+ministers = { }
+

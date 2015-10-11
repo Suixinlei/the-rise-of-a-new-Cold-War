@@ -1,0 +1,6 @@
+owner = POL
+controller = POL
+add_core = POL
+energy = 4.00
+infra = 7
+

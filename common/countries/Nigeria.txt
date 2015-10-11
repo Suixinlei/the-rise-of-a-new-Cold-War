@@ -1,0 +1,471 @@
+color = { 238  251  207 }
+graphical_culture = Generic
+last_election = 1999.2.20
+duration = 48
+
+default_templates = {
+	generic_infantry = {
+		infantry_brigade
+		infantry_brigade
+		infantry_brigade
+	}
+	generic_milita = {
+		militia_brigade
+		militia_brigade
+		militia_brigade
+	}
+	generic_armoured = {
+		armor_brigade
+		motorized_brigade
+		motorized_brigade
+	}
+}
+
+unit_names = {
+}
+
+
+ministers = {
+	58001 = {
+		name = "Olusegun Obasanjo"
+		ideology = market_liberal
+		loyalty = 1.00
+		picture = M58001
+		head_of_state = autocratic_charmer
+		start_date = 2000.1.1
+	}
+	58002 = {
+		name = "Olu Falae"
+		ideology = social_liberal
+		loyalty = 1.00
+		picture = M58002
+		head_of_state = laissez_faires_capitalist
+		start_date = 2000.1.1
+	}
+	58003 = {
+		name = "Muhammadu Buhari"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M58003
+		head_of_state = resigned_generalissimo
+		start_date = 2000.1.1
+	}
+	58004 = {
+		name = "Chukwuemeka Odumegwu Ojukwu"
+		ideology = leninist
+		loyalty = 1.00
+		picture = M58004
+		head_of_state = resigned_generalissimo
+		start_date = 2000.1.1
+	}
+	58005 = {
+		name = "Umaru Yar'Adua"
+		ideology = market_liberal
+		loyalty = 1.00
+		picture = M58005
+		head_of_state = great_compromiser
+		start_date = 2007.1.1
+	}
+	58006 = {
+		name = "Atiku Abubakar"
+		ideology = social_liberal
+		loyalty = 1.00
+		picture = M58006
+		head_of_state = crooked_kleptocrat
+		head_of_government = political_specialist
+		start_date = 2000.1.1
+	}
+	58007 = {
+		name = "Orji Uzor Kalu"
+		ideology = social_liberal
+		loyalty = 1.00
+		picture = M58007
+		head_of_state = corporate_suit
+		start_date = 2007.1.1
+	}
+	58008 = {
+		name = "Goodluck Jonathan"
+		ideology = market_liberal
+		loyalty = 1.00
+		picture = M58008
+		head_of_state = resource_industrialist
+		head_of_government = technical_specialist
+		start_date = 2007.1.1
+	}
+	58009 = {
+		name = "Nuhu Ribadu"
+		ideology = social_liberal
+		loyalty = 1.00
+		picture = M58009
+		head_of_state = crime_fighter
+		start_date = 2011.1.1
+	}
+	58010 = {
+		name = "Ibrahim Shekarau"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M58010
+		head_of_state = intellectualist
+		start_date = 2011.1.1
+	}
+	58011 = {
+		name = "Mahmud Yayale Ahmed"
+		ideology = market_liberal
+		loyalty = 1.00
+		picture = M58011
+		armament_minister = military_slob
+		start_date = 2000.1.1
+	}
+	58012 = {
+		name = "Namadi Sambo"
+		ideology = market_liberal
+		loyalty = 1.00
+		picture = M58012
+		head_of_government = stern_imperialist
+		start_date = 2010.1.1
+	}
+	58013 = {
+		name = "Shettima Mustapha"
+		ideology = market_liberal
+		loyalty = 1.00
+		picture = M58013
+		armament_minister = pro_american
+		minister_of_security = scandalous
+		start_date = 2000.1.1
+	}
+	58014 = {
+		name = "Godwin Abbe"
+		ideology = market_liberal
+		loyalty = 1.00
+		picture = M58014
+		armament_minister = old_general
+		minister_of_security = organisation_genius
+		start_date = 2007.1.1
+	}
+	58015 = {
+		name = "Ojo Maduekwe"
+		ideology = market_liberal
+		loyalty = 1.00
+		picture = M58015
+		foreign_minister = planning_representative
+		start_date = 2000.1.1
+	}
+	58016 = {
+		name = "Adetokunbo Kayode"
+		ideology = market_liberal
+		loyalty = 1.00
+		picture = M58016
+		armament_minister = silent_lawyer
+		start_date = 2007.1.1
+	}
+	58017 = {
+		name = "Henry Odein Ajumogobia"
+		ideology = market_liberal
+		loyalty = 1.00
+		picture = M58017
+		foreign_minister = smiling_oilman
+		start_date = 2010.1.1
+	}
+	58018 = {
+		name = "Emmanuel Iheanacho"
+		ideology = market_liberal
+		loyalty = 1.00
+		picture = M58018
+		minister_of_security = crime_fighter
+		start_date = 2010.1.1
+	}
+	58019 = {
+		name = "Bello Mohammed"
+		ideology = market_liberal
+		loyalty = 1.00
+		picture = M58019
+		armament_minister = fanatical_academic
+		start_date = 2011.1.1
+	}
+	58020 = {
+		name = "Olugbenga Ashiru"
+		ideology = market_liberal
+		loyalty = 1.00
+		picture = M58020
+		foreign_minister = crime_fighter
+		start_date = 2011.1.1
+	}
+	58021 = {
+		name = "Comrade Abba Moro"
+		ideology = market_liberal
+		loyalty = 1.00
+		picture = M58021
+		minister_of_security = planning_representative
+		start_date = 2011.1.1
+	}
+	58022 = {
+		name = "Lawal Kaita"
+		ideology = social_liberal
+		loyalty = 1.00
+		picture = M58022
+		head_of_government = indecisive_politician
+		start_date = 2000.1.1
+	}
+	58023 = {
+		name = "Bashir Dalhatu"
+		ideology = social_liberal
+		loyalty = 1.00
+		picture = M58023
+		foreign_minister = military_entrepreneur
+		start_date = 2000.1.1
+	}
+	58024 = {
+		name = "Audu Ogbeh"
+		ideology = social_liberal
+		loyalty = 1.00
+		picture = M58024
+		armament_minister = crime_fighter
+		start_date = 2000.1.1
+	}
+	58025 = {
+		name = "Bisi Akande"
+		ideology = social_liberal
+		loyalty = 1.00
+		picture = M58025
+		minister_of_security = talented_liar
+		start_date = 2000.1.1
+	}
+	58026 = {
+		name = "Okey Nwosu"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M58026
+		head_of_government = resource_industrialist
+		start_date = 2000.1.1
+	}
+	58027 = {
+		name = "Lawan Shettima Ali"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M58027
+		foreign_minister = military_slob
+		start_date = 2000.1.1
+	}
+	58028 = {
+		name = "Segun Sango"
+		ideology = leninist
+		loyalty = 1.00
+		picture = M58028
+		head_of_government = corrupt_kleptocrat
+		start_date = 2000.1.1
+	}
+	58029 = {
+		name = "Dan Nwanyanwu"
+		ideology = social_democrat
+		loyalty = 1.00
+		picture = M58029
+		head_of_state = iron_fisted_brute
+		start_date = 2000.1.1
+	}
+	58030 = {
+		name = "Alhaji Abdul Salam"
+		ideology = social_democrat
+		loyalty = 1.00
+		picture = M58030
+		head_of_government = insignificant_layman
+		start_date = 2000.1.1
+	}
+	58031 = {
+		name = "Sam Nkire"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M58031
+		armament_minister = flamboyant_tough_guy
+		start_date = 2000.1.1
+	}
+	58032 = {
+		name = "Peter Ojonugwa Ameh"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M58032
+		minister_of_security = sympathetic
+		start_date = 2000.1.1
+	}
+	58033 = {
+		name = "Uche O. Okeke"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M58033
+		minister_of_intelligence = tempered_speaker
+		start_date = 2000.1.1
+	}
+	58034 = {
+		name = "Emmanuel E. Imohe"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M58034
+		minister_of_intelligence = naval_intelligence_specialist
+		start_date = 2007.1.1
+	}
+	58035 = {
+		name = "Olaniyi Oladeji"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M58035
+		minister_of_intelligence = intellectualist
+		start_date = 2009.1.1
+	}
+	58036 = {
+		name = "Ibrahim Ogohi"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M58036
+		chief_of_staff = decisive_battle_doctrine
+		start_date = 2000.1.1
+	}
+	58037 = {
+		name = "Alexander Ogomudia"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M58037
+		chief_of_staff = armoured_spearhead_doctrine
+		chief_of_army = school_of_manoeuvre
+		start_date = 2003.1.1
+	}
+	58038 = {
+		name = "Martin Luther Agwai"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M58038
+		chief_of_staff = benevolent_gentleman
+		chief_of_army = guns_and_butter_doctrine
+		start_date = 2006.1.1
+	}
+	58039 = {
+		name = "Owoye Andrew Azazi"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M58039
+		chief_of_staff = naval_intelligence_specialist
+		chief_of_army = infantry_proponent
+		start_date = 2007.1.1
+	}
+	58040 = {
+		name = "Paul Dike"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M58040
+		chief_of_staff = military_slob
+		chief_of_air = army_aviation_doctrine
+		start_date = 2008.1.1
+	}
+	58041 = {
+		name = "Oluseyi Petinrin"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M58041
+		chief_of_staff = stern_imperialist
+		chief_of_air = air_superiority_doctrine
+		start_date = 2010.1.1
+	}
+	58042 = {
+		name = "Ola Ibrahim"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M58042
+		chief_of_staff = compassionate_gentleman
+		start_date = 2012.1.1
+	}
+	58043 = {
+		name = "Luka Yusuf"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M58043
+		chief_of_army = guns_and_butter_doctrine
+		start_date = 2007.1.1
+	}
+	58044 = {
+		name = "Abdulrahman Bello Dambazau"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M58044
+		chief_of_army = elastic_defence_doctrine
+		start_date = 2008.1.1
+	}
+	58045 = {
+		name = "Onyabor Azubuike Ihejirika"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M58045
+		chief_of_army = school_of_fire_support
+		start_date = 2010.1.1
+	}
+	58046 = {
+		name = "Jonah Wuyep"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M58046
+		chief_of_air = air_superiority_doctrine
+		start_date = 2000.1.1
+	}
+	58047 = {
+		name = "Mohammed Dikko Umar"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M58047
+		chief_of_air = army_aviation_doctrine
+		start_date = 2010.1.1
+	}
+	58048 = {
+		name = "Alex Sabundu Badeh"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M58048
+		chief_of_air = service_enforcer
+		start_date = 2012.1.1
+	}
+	58049 = {
+		name = "Dele Joseph Ezeoba"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M58049
+		chief_of_navy = indirect_approach_doctrine
+		start_date = 2000.1.1
+	}
+	58050 = {
+		name = "Mohammed Yusuf"
+		ideology = national_socialist
+		loyalty = 1.00
+		picture = M58050
+		head_of_state = advertising_figure
+		start_date = 2000.1.1
+	}
+	58051 = {
+		name = "Abubakar Shekau"
+		ideology = national_socialist
+		loyalty = 1.00
+		picture = M58051
+		head_of_government = iron_fisted_brute
+		start_date = 2000.1.1
+	}
+	58052 = {
+		name = "Abu Usmatul al-Ansari"
+		ideology = national_socialist
+		loyalty = 1.00
+		picture = M58052
+		foreign_minister = fanatical_academic
+		start_date = 2000.1.1
+	}
+	58053 = {
+		name = "Abu Jafa’ar"
+		ideology = national_socialist
+		loyalty = 1.00
+		picture = M58053
+		armament_minister = laissez_faires_capitalist
+		start_date = 2000.1.1
+	}
+	58054 = {
+		name = "Abu Qaqa"
+		ideology = national_socialist
+		loyalty = 1.00
+		picture = M58054
+		minister_of_security = untalented_nerd
+		start_date = 2000.1.1
+	}
+	
+}

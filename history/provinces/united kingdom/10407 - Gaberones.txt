@@ -1,0 +1,5 @@
+owner = BOT
+controller = BOT
+add_core = BOT
+manpower = 0.7
+infra = 6

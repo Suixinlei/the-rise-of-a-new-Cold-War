@@ -1,0 +1,10 @@
+owner = SOM
+controller = SOM
+add_core = SOM
+
+manpower = 3.3
+infra = 5
+
+air_base = 4 #Mogadishu airbase
+naval_base = 4 #Mogadishu port
+points = 1

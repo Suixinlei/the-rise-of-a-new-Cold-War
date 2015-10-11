@@ -1,0 +1,11 @@
+owner = JAP
+controller = JAP
+add_core = JAP
+infra = 10
+industry = 10
+energy = 30.00
+metal = 10.00
+air_base = 8 #Chitose airbase and Chitose airport
+naval_base = 5
+points = 1
+leadership = 1.00

@@ -1,0 +1,7 @@
+owner = BRA
+controller = BRA
+add_core = BRA
+infra = 6
+air_base = 3 #Vitoria airbase
+naval_base = 3 #Vitoria port
+points = 1

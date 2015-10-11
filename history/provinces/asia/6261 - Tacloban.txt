@@ -1,0 +1,8 @@
+owner = PHI
+
+controller = PHI
+
+add_core = PHI
+
+infra = 6
+energy = 5.00

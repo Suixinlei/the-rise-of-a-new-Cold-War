@@ -1,0 +1,10 @@
+owner = SUD
+controller = SUD
+add_core = SUD
+manpower = 5.00
+infra = 6
+
+industry = 4
+air_base = 3 #Khartoum airbase
+leadership = 1.50
+points = 1

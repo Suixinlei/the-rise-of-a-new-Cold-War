@@ -1,0 +1,8 @@
+owner = SOV
+controller = SOV
+add_core = SOV
+
+infra = 7
+energy = 10.00
+air_base = 3 #Engels-2 airbase
+points = 1

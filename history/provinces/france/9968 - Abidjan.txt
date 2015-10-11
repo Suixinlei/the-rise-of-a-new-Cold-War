@@ -1,0 +1,10 @@
+owner = IVO
+controller = IVO
+add_core = IVO
+manpower = 4.00
+infra = 6
+crude_oil = 1.00
+
+air_base = 3 #Port Bouet airbase
+naval_base = 8 #Abidjan port
+points = 1

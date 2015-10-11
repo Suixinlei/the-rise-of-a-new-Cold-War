@@ -1,0 +1,12 @@
+owner = IND
+controller = IND
+add_core = IND
+
+infra = 6
+energy = 40.00
+metal = 35.00
+rare_materials = 15.00
+
+air_base = 5 #Tambaram airforce station and Chennai airport
+naval_base = 6 #Chennai port
+points = 1

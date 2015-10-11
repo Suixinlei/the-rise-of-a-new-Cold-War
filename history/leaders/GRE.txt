@@ -1,0 +1,1291 @@
+63001 = {
+	name = "K. Nikolaos"
+	country = GRE
+	type = land
+	skill = 3
+	max_skill = 5
+	loyalty = 1.00
+	picture = GRE1
+	add_trait = panzer_leader
+	history = {
+		2000.1.1 = { rank = 2 }
+	}
+}
+63002 = {
+	name = "Giagkas"
+	country = GRE
+	type = air
+	skill = 3
+	max_skill = 5
+	loyalty = 1.00
+	picture = GRE2
+	history = {
+		2000.1.1 = { rank = 2 }		
+	}
+}
+63003 = {
+	name = "Sophoulis"
+	country = GRE
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 0.00
+	picture = GRE3
+	add_trait = engineer
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+63004 = {
+	name = "Protopapadakis"
+	country = GRE
+	type = land
+	skill = 1
+	max_skill = 4
+	loyalty = 0.00
+	picture = GRE4
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+63005 = {
+	name = "Gonatas"
+	country = GRE
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 0.00
+	picture = GRE5
+	add_trait = assaulter
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+63006 = {
+	name = "Kiousopoulos"
+	country = GRE
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = GRE6
+	add_trait = commando
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+63007 = {
+	name = "Pangalos"
+	country = GRE
+	type = land
+	skill = 1
+	max_skill = 4
+	loyalty = 0.00
+	picture = GRE7
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+63008 = {
+	name = "Pattakos"
+	country = GRE
+	type = sea
+	skill = 2
+	max_skill = 5
+	loyalty = 0.00
+	picture = GRE8
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+63009 = {
+	name = "Papandreou"
+	country = GRE
+	type = land
+	skill = 2
+	max_skill = 4
+	loyalty = 0.00
+	picture = GRE9
+	add_trait = defensive_doctrine
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+63010 = {
+	name = "Rallis"
+	country = GRE
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 0.00
+	picture = GRE10
+	add_trait = offensive_doctrine
+	add_trait = panzer_leader
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+63011 = {
+	name = "Theotokis"
+	country = GRE
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 0.00
+	picture = GRE11
+	add_trait = panzer_leader
+	history = {
+		2001.1.1 = { rank = 1 }
+	}
+}
+63012 = {
+	name = "Kriezis"
+	country = GRE
+	type = land
+	skill = 3
+	max_skill = 6
+	loyalty = 0.00
+	picture = GRE12
+	add_trait = logistics_wizard
+	history = {
+		2001.1.1 = { rank = 1 }
+	}
+}
+63013 = {
+	name = "Kallianis"
+	country = GRE
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = GRE13
+	history = {
+		2001.1.1 = { rank = 1 }
+	}
+}
+63014 = {
+	name = "Papanastasiou"
+	country = GRE
+	type = land
+	skill = 1
+	max_skill = 4
+	loyalty = 1.00
+	picture = GRE14
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+63015 = {
+	name = "Mavromichalis"
+	country = GRE
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = GRE15
+	add_trait = hard_defender
+	history = {
+		2001.1.1 = { rank = 1 }
+	}
+}
+63016 = {
+	name = "Moraitinis"
+	country = GRE
+	type = land
+	skill = 2
+	max_skill = 5
+	loyalty = 0.00
+	picture = GRE16
+	add_trait = panzer_leader
+	history = {
+		2002.1.1 = { rank = 1 }
+	}
+}
+63017 = {
+	name = "Mavros"
+	country = GRE
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 0.00
+	picture = GRE17
+	add_trait = trickster
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+63018 = {
+	name = "Plastiras"
+	country = GRE
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L63018
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+63019 = {
+	name = "Gounaris"
+	country = GRE
+	type = land
+	skill = 0
+	max_skill = 4
+	loyalty = 0.00
+	picture = GRE19
+	history = {
+		2002.1.1 = { rank = 1 }
+	}
+}
+63020 = {
+	name = "K. Gounaris"
+	country = GRE
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 0.00
+	picture = GRE20
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+63021 = {
+	name = "Kountouriotis"
+	country = GRE
+	type = land
+	skill = 1
+	max_skill = 4
+	loyalty = 0.00
+	picture = GRE21
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+63022 = {
+	name = "Mourouzis"
+	country = GRE
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = GRE22
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+63023 = {
+	name = "Verouli"
+	country = GRE
+	type = land
+	skill = 2
+	max_skill = 5
+	loyalty = 0.00
+	picture = L63023
+	add_trait = commando
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+63024 = {
+	name = "Seitaridis"
+	country = GRE
+	type = sea
+	skill = 2
+	max_skill = 5
+	loyalty = 0.00
+	picture = GRE24
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+63025 = {
+	name = "Tziolis"
+	country = GRE
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = GRE25
+	add_trait = engineer
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+63026 = {
+	name = "Gekas"
+	country = GRE
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 0.00
+	picture = GRE26
+	add_trait = trickster
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+63027 = {
+	name = "Basinas"
+	country = GRE
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 0.00
+	picture = GRE27
+	add_trait = defensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+63028 = {
+	name = "Dellas"
+	country = GRE
+	type = land
+	skill = 1
+	max_skill = 7
+	loyalty = 1.00
+	picture = GRE28
+	add_trait = hard_defender
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+63029 = {
+	name = "Christakis-Zografos"
+	country = GRE
+	type = air
+	skill = 2
+	max_skill = 5
+	loyalty = 0.00
+	picture = GRE29
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+63030 = {
+	name = "Rousopoulos"
+	country = GRE
+	type = air
+	skill = 1
+	max_skill = 3
+	loyalty = 0.00
+	picture = GRE30
+	add_trait = spotter 
+								history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+63031 = {
+	name = "Diomidis"
+	country = GRE
+	type = air
+	skill = 2
+	max_skill = 4
+	loyalty = 0.00
+	picture = GRE31
+	add_trait = fleet_destroyer
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+63032 = {
+	name = "Petsalnikos"
+	country = GRE
+	type = air
+	skill = 1
+	max_skill = 5
+	loyalty = 0.00
+	picture = GRE32
+	history = {
+		2002.1.1 = { rank = 1 }
+	}
+}
+63033 = {
+	name = "Balopoulos"
+	country = GRE
+	type = sea
+	skill = 3
+	max_skill = 7
+	loyalty = 0.00
+	picture = L63033
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+63034 = {
+	name = "Fasoulas"
+	country = GRE
+	type = sea
+	skill = 2
+	max_skill = 7
+	loyalty = 0.00
+	picture = L63034
+	add_trait = spotter
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+63035 = {
+	name = "Baboulas"
+	country = GRE
+	type = air
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L63035
+	add_trait = superior_air_tactician
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+63036 = {
+	name = "Atmatzakis"
+	country = GRE
+	type = air
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = GRE33
+	add_trait = fleet_destroyer
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+63037 = {
+	name = "Tsantirakis"
+	country = GRE
+	type = air
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = GRE34
+	history = {
+		2001.1.1 = { rank = 1 }
+	}
+}
+63038 = {
+	name = "Anagnos"
+	country = GRE
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = GRE35
+	add_trait = old_guard
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+63039 = {
+	name = "Tzanakis"
+	country = GRE
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 0.00
+	picture = GRE36
+	add_trait = logistics_wizard
+	add_trait = trickster
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+63040 = {
+	name = "Peleus"
+	country = GRE
+	type = land
+	skill = 1
+	max_skill = 4
+	loyalty = 0.00
+	picture = GRE37
+	add_trait = offensive_doctrine
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+63041 = {
+	name = "Karamalikis"
+	country = GRE
+	type = sea
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L63041
+	history = {
+		2002.1.1 = { rank = 1 }
+	}
+}
+63042 = {
+	name = "Kourkoulis"
+	country = GRE
+	type = sea
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = L63042
+	add_trait = spotter
+	history = {
+		2002.1.1 = { rank = 1 }
+	}
+}
+63043 = {
+	name = "Herodias"
+	country = GRE
+	type = sea
+	skill = 1
+	max_skill = 5
+	loyalty = 0.00
+	picture = GRE40
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+63044 = {
+	name = "Litsas"
+	country = GRE
+	type = sea
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = GRE42
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+63045 = {
+	name = "Kralkos"
+	country = GRE
+	type = sea
+	skill = 3
+	max_skill = 8
+	loyalty = 0.00
+	picture = L63046
+	add_trait = seawolf
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }		
+	}
+}
+63046 = {
+	name = "Stavridis"
+	country = GRE
+	type = sea
+	skill = 3
+	max_skill = 5
+	loyalty = 1.00
+	picture = GRE48
+	add_trait = seawolf
+		2002.1.1 = { rank = 1 }
+	}
+}
+63047 = {
+	name = "Vassiloyannis"
+	country = GRE
+	type = sea
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = GRE49
+	add_trait = seawolf
+	history = {
+		2002.1.1 = { rank = 1 }
+	}
+}
+63048 = {
+	name = "Kosko"
+	country = GRE
+	type = land
+	skill = 2
+	max_skill = 5
+	loyalty = 0.00
+	picture = GRE50
+	history = {
+		2002.1.1 = { rank = 1 }
+	}
+}
+63049 = {
+	name = "Collias"
+	country = GRE
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L63049
+	add_trait = offensive_doctrine
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+63050 = {
+	name = "Glavan"
+	country = GRE
+	type = land
+	skill = 3
+	max_skill = 6
+	loyalty = 1.00
+	picture = GRE51
+	add_trait = offensive_doctrine
+				history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+63051 = {
+	name = "Galanis"
+	country = GRE
+	type = air
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = GRE45
+	add_trait = fleet_destroyer
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+63052 = {
+	name = "Kandake"
+	country = GRE
+	type = air
+	skill = 2
+	max_skill = 4
+	loyalty = 0.00
+	picture = GRE46
+	add_trait = spotter
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+63053 = {
+	name = "Spyropoulos"
+	country = GRE
+	type = air
+	skill = 0
+	max_skill = 3
+	loyalty = 1.00
+	picture = GRE47
+	add_trait = spotter
+	history = {
+		2002.1.1 = { rank = 1 }
+	}
+}
+63054 = {
+	name = "Tsigaras"
+	country = GRE
+	type = air
+	skill = 2
+	max_skill = 4
+	loyalty = 1.00
+	picture = GRE52
+	add_trait = night_flyer
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+63055 = {
+	name = "Nicoli"
+	country = GRE
+	type = air
+	skill = 2
+	max_skill = 4
+	loyalty = 0.00
+	picture = GRE52
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+63056 = {
+	name = "Pavlis"
+	country = GRE
+	type = air
+	skill = 1
+	max_skill = 3
+	loyalty = 0.00
+	picture = GRE53
+	add_trait = superior_air_tactician
+	history = {
+		2002.1.1 = { rank = 1 }
+	}
+}
+63059 = {
+	name = "Asker"
+	country = GRE
+	type = land
+	skill = 0
+	max_skill = 3
+	loyalty = 0.00
+	picture = GRE57
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+63060 = {
+	name = "Tapinos"
+	country = GRE
+	type = land
+	skill = 2
+	max_skill = 4
+	loyalty = 0.00
+	picture = GRE58
+	add_trait = hard_defender
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+63061 = {
+	name = "Frangos"
+	country = GRE
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = GRE59
+	add_trait = trickster
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+63062 = {
+	name = "Manolis"
+	country = GRE
+	type = air
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = GRE60
+	add_trait = improvisation
+		2003.1.1 = { rank = 1 }
+	}
+}
+63063 = {
+	name = "Kailis"
+	country = GRE
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = GRE61
+	add_trait = frontline_soldier
+	add_trait = engineer
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+63064 = {
+	name = "Mundis"
+	country = GRE
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L63064
+	add_trait = offensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+63065 = {
+	name = "Grapsas"
+	country = GRE
+	type = land
+	skill = 4
+	max_skill = 7
+	loyalty = 1.00
+	picture = L63065
+	add_trait = improvisation
+	add_trait = offensive_doctrine
+	history = {
+		1995.1.1 = { rank = 1 }
+		2000.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+63066 = {
+	name = "Karageorgiou"
+	country = GRE
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L63066
+	add_trait = old_guard
+	add_trait = assaulter
+	history = {
+		1995.1.1 = { rank = 1 }
+	}
+}
+63067 = {
+	name = "Kasseris"
+	country = GRE
+	type = land
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = L63067
+	add_trait = assaulter
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+63068 = {
+	name = "Kostarakos"
+	country = GRE
+	type = land
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L63068
+	add_trait = frontline_soldier
+	add_trait = learners_will
+	history = {
+		1995.1.1 = { rank = 1 }
+		2000.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+63069 = {
+	name = "Kostoulas"
+	country = GRE
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L63069
+	add_trait = offensive_doctrine
+	add_trait = panzer_leader
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+63070 = {
+	name = "Koutroumanis"
+	country = GRE
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L63070
+	add_trait = frontline_soldier
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+63071 = {
+	name = "Lilov"
+	country = GRE
+	type = land
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L63071
+	add_trait = landing_specialist
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+63072 = {
+	name = "Manolas"
+	country = GRE
+	type = land
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L63072
+	add_trait = fortress_buster
+	add_trait = logistics_wizard
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+63073 = {
+	name = "Nikolas"
+	country = GRE
+	type = land
+	skill = 4
+	max_skill = 7
+	loyalty = 1.00
+	picture = L63073
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+63074 = {
+	name = "Petridis"
+	country = GRE
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L63074
+	add_trait = trainer
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+63075 = {
+	name = "Seferlis"
+	country = GRE
+	type = land
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L63075
+	add_trait = panzer_leader
+	add_trait = trickster
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+63076 = {
+	name = "Spachidis"
+	country = GRE
+	type = land
+	skill = 2
+	max_skill = 8
+	loyalty = 1.00
+	picture = L63076
+	add_trait = hard_defender
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+63077 = {
+	name = "Tellidis"
+	country = GRE
+	type = land
+	skill = 4
+	max_skill = 9
+	loyalty = 1.00
+	picture = L63077
+	add_trait = commando
+	add_trait = engineer
+	history = {
+		1995.1.1 = { rank = 1 }
+		2000.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+63078 = {
+	name = "Trachanatzis"
+	country = GRE
+	type = land
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L63078
+	add_trait = defensive_doctrine
+	add_trait = frontline_soldier
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+63079 = {
+	name = "Tsalikidis"
+	country = GRE
+	type = land
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L63079
+	add_trait = landing_specialist
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+63080 = {
+	name = "Tselios"
+	country = GRE
+	type = land
+	skill = 4
+	max_skill = 8
+	loyalty = 1.00
+	picture = L63080
+	add_trait = logistics_wizard
+	add_trait = offensive_doctrine
+	history = {
+		1994.1.1 = { rank = 1 }
+		1998.1.1 = { rank = 2 }
+		2000.1.1 = { rank = 3 }
+		2003.1.1 = { rank = 4 }
+	}
+}
+63081 = {
+	name = "Tzioutzios"
+	country = GRE
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L63081
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+63082 = {
+	name = "Moysiadis"
+	country = GRE
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L63082
+	add_trait = commando
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+63083 = {
+	name = "Nevrakis"
+	country = GRE
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L63083
+	add_trait = panzer_leader
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+63084 = {
+	name = "Xenakis"
+	country = GRE
+	type = land
+	skill = 2
+	max_skill = 8
+	loyalty = 1.00
+	picture = L63084
+	add_trait = landing_specialist
+	add_trait = learners_will
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+63085 = {
+	name = "Philippidis"
+	country = GRE
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L63085
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+63086 = {
+	name = "Voulgaris"
+	country = GRE
+	type = land
+	skill = 2
+	max_skill = 8
+	loyalty = 1.00
+	picture = L63086
+	add_trait = panzer_leader
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+63087 = {
+	name = "Venizelos"
+	country = GRE
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L63087
+	add_trait = offensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+63088 = {
+	name = "Doxiadis"
+	country = GRE
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L63088
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+63089 = {
+	name = "Oikonomopoulos"
+	country = GRE
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L63089
+	add_trait = engineer
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+63090 = {
+	name = "Notara"
+	country = GRE
+	type = land
+	skill = 2
+	max_skill = 8
+	loyalty = 1.00
+	picture = L63090
+	add_trait = frontline_soldier
+	add_trait = improvisation
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+63091 = {
+	name = "Theodosiou"
+	country = GRE
+	type = sea
+	skill = 4
+	max_skill = 8
+	loyalty = 1.00
+	picture = L63091
+	add_trait = superior_tactician
+	history = {
+		1995.1.1 = { rank = 1 }
+		2000.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+63092 = {
+	name = "Bobos"
+	country = GRE
+	type = air
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = L63092
+	add_trait = carpet_bomber
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+63093 = {
+	name = "Christodoulou"
+	country = GRE
+	type = air
+	skill = 3
+	max_skill = 6
+	loyalty = 1.00
+	picture = L63093
+	add_trait = superior_air_tactician
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+63094 = {
+	name = "Fourlemadis"
+	country = GRE
+	type = air
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L63094
+	add_trait = carpet_bomber
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+63095 = {
+	name = "Katsaris"
+	country = GRE
+	type = air
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = L63095
+	add_trait = fleet_destroyer
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+63096 = {
+	name = "Nousis"
+	country = GRE
+	type = air
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = L63096
+	add_trait = tank_buster
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+63097 = {
+	name = "Petkos"
+	country = GRE
+	type = air
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L63097
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+63098 = {
+	name = "Tournas"
+	country = GRE
+	type = air
+	skill = 4
+	max_skill = 7
+	loyalty = 1.00
+	picture = L63098
+	add_trait = carpet_bomber
+	add_trait = fleet_destroyer
+	history = {
+		1999.1.1 = { rank = 1 }
+		2002.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+63099 = {
+	name = "Tsioutras"
+	country = GRE
+	type = air
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = L63099
+	add_trait = fleet_destroyer
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+63100 = {
+	name = "Vlachavas"
+	country = GRE
+	type = air
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L63100
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+63101 = {
+	name = "Vrettos"
+	country = GRE
+	type = air
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L63101
+	add_trait = night_flyer
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}

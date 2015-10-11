@@ -1,0 +1,7 @@
+owner = ZAM
+controller = ZAM
+add_core = ZAM
+
+infra = 2
+air_base = 1 #Solwezi airbase
+points = 1

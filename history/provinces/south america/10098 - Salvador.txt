@@ -1,0 +1,10 @@
+owner = BRA
+controller = BRA
+add_core = BRA
+infra = 6
+industry = 6
+manpower = 10.00
+air_base = 4 #Salvador airbase
+naval_base = 6 #Salvador port
+leadership = 2.50
+points = 1

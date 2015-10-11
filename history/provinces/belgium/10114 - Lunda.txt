@@ -1,0 +1,8 @@
+owner = DRC
+controller = DRC
+add_core = DRC
+add_core = ANG
+manpower = 8.5
+
+infra = 2
+

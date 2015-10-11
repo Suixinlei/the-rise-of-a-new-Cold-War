@@ -1,0 +1,9 @@
+owner = MEX
+controller = MEX
+add_core = MEX
+
+infra = 5
+
+terrain = hills
+naval_base = 8 #Acapulco port
+points = 1

@@ -1,0 +1,4 @@
+owner = LAO
+controller = LAO
+add_core = LAO
+infra = 4

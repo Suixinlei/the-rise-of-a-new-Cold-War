@@ -1,0 +1,6 @@
+owner = SUD
+controller = SUD
+add_core = SUD
+crude_oil = 2.00
+infra = 2
+

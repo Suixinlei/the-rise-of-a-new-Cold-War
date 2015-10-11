@@ -1,0 +1,1140 @@
+weapon_design = {
+	
+	activate_unit = infantry_brigade 
+	
+	research_bonus_from = {
+		infantry_theory = 0.3
+		infantry_practical = 0.7
+	}
+	
+
+	on_completion = infantry_theory
+	
+	difficulty = 40
+	start_year = 2000
+	folder = infantry_folder
+}
+
+automatic_weapons = {
+
+	infantry_brigade = {
+		soft_attack = 1.00
+	}
+        mechanized_brigade = {
+		soft_attack = 1.00
+	}
+        special_forces_brigade = {
+		soft_attack = 1.00
+	}
+	air_cavalry_brigade = {
+		soft_attack = 1.00
+	}
+	garrison_brigade = {
+		soft_attack = 1.00
+	}
+        mountain_brigade = {
+		soft_attack = 1.00
+	}
+        paratrooper_brigade = {
+		soft_attack = 1.00
+	}
+        marine_brigade = {
+		soft_attack = 1.00
+	}
+	militia_brigade = {
+		soft_attack = 0.6
+	}
+	partisan_brigade = {
+		soft_attack = 0.6
+	}
+	
+	allow = {
+		weapon_design = 1
+	}
+	
+	research_bonus_from = {
+		infantry_theory = 0.3
+		infantry_practical = 0.7
+	}
+	
+	on_completion = infantry_theory
+	
+	difficulty = 20
+	start_year = 2000
+	first_offset = 2003
+	additional_offset = 5
+	max_level = 6
+	folder = infantry_folder
+}
+
+a_support_weapon = {
+
+	infantry_brigade = {
+		toughness = 1.00
+	}
+        mechanized_brigade = {
+		toughness = 1.00
+	}
+        special_forces_brigade = {
+		toughness = 1.00
+	}
+	air_cavalry_brigade = {
+		toughness = 1.00
+	}
+	garrison_brigade = {
+		toughness = 1.00
+	}
+        mountain_brigade = {
+		toughness = 1.00
+	}
+        paratrooper_brigade = {
+		toughness = 1.00
+	}
+        marine_brigade = {
+		toughness = 1.00
+	}
+	militia_brigade = {
+		toughness = 0.6
+	}
+	partisan_brigade = {
+		toughness = 0.6
+	}
+	
+	allow = {
+		weapon_design = 1
+	}
+	
+	research_bonus_from = {
+		infantry_theory = 0.3
+		infantry_practical = 0.7
+	}
+	
+	on_completion = infantry_theory
+	
+	difficulty = 20
+	start_year = 2000
+	first_offset = 2003
+	additional_offset = 5
+	max_level = 6
+	folder = infantry_folder
+}
+
+precision_weapons = {
+
+        special_forces_brigade = {
+		soft_attack = 0.4
+	}
+	
+	allow = {
+		weapon_design = 1
+	}
+	
+	research_bonus_from = {
+		infantry_theory = 0.3
+		infantry_practical = 0.7
+	}
+	
+	on_completion = infantry_theory
+	
+	difficulty = 20
+	start_year = 2000
+	first_offset = 2003
+	additional_offset = 5
+	max_level = 6
+	folder = infantry_folder
+}
+
+helmet_improvement = {
+
+	infantry_brigade = {
+		defensiveness = 0.3
+	}
+        mechanized_brigade = {
+		defensiveness = 0.3
+	}
+        special_forces_brigade = {
+		defensiveness = 0.3
+	}
+	air_cavalry_brigade = {
+		defensiveness = 0.3
+	}
+	garrison_brigade = {
+		defensiveness = 0.3
+	}
+        mountain_brigade = {
+		defensiveness = 0.3
+	}
+        paratrooper_brigade = {
+		defensiveness = 0.3
+	}
+        marine_brigade = {
+		defensiveness = 0.3
+	}
+	
+	allow = {
+		weapon_design = 1
+	}
+	
+	research_bonus_from = {
+		infantry_theory = 0.3
+		infantry_practical = 0.7
+	}
+	
+	on_completion = infantry_theory
+	
+	difficulty = 20
+	start_year = 2000
+	first_offset = 2003
+	additional_offset = 5
+	max_level = 6
+	folder = infantry_folder
+}
+
+bulletproof_clothes = {
+
+	infantry_brigade = {
+		defensiveness = 0.5
+	}
+        mechanized_brigade = {
+		defensiveness = 0.5
+	}
+        special_forces_brigade = {
+		defensiveness = 0.5
+	}
+	air_cavalry_brigade = {
+		defensiveness = 0.5
+	}
+	garrison_brigade = {
+		defensiveness = 0.5
+	}
+        mountain_brigade = {
+		defensiveness = 0.5
+	}
+        paratrooper_brigade = {
+		defensiveness = 0.5
+	}
+        marine_brigade = {
+		defensiveness = 0.5
+	}
+	militia_brigade = {
+		defensiveness = 0.4
+	}
+	partisan_brigade = {
+		defensiveness = 0.4
+	}
+	
+	allow = {
+		weapon_design = 1
+	}
+	
+	research_bonus_from = {
+		infantry_theory = 0.3
+		infantry_practical = 0.7
+	}
+	
+	on_completion = infantry_theory
+	
+	difficulty = 20
+	start_year = 2000
+	first_offset = 2003
+	additional_offset = 5
+	max_level = 6
+	folder = infantry_folder
+}
+
+special_equipment = {
+
+        special_forces_brigade = {
+		defensiveness = 0.3
+	}
+	
+	allow = {
+		weapon_design = 1
+	}
+	
+	research_bonus_from = {
+		infantry_theory = 0.3
+		infantry_practical = 0.7
+	}
+	
+	on_completion = infantry_theory
+	
+	difficulty = 20
+	start_year = 2000
+	first_offset = 2003
+	additional_offset = 5
+	max_level = 6
+	folder = infantry_folder
+}
+
+anti_tank_mines = {
+
+	militia_brigade = {
+		hard_attack = 0.3
+	}
+	partisan_brigade = {
+		hard_attack = 0.3
+	}
+	
+	allow = {
+		weapon_design = 1
+	}
+	
+	research_bonus_from = {
+		infantry_theory = 0.3
+		infantry_practical = 0.7
+	}
+	
+	on_completion = infantry_theory
+	
+	difficulty = 20
+	start_year = 2000
+	first_offset = 2003
+	additional_offset = 5
+	max_level = 6
+	folder = infantry_folder
+}
+
+anti_tank_rocket = {
+
+	infantry_brigade = {
+		hard_attack = 0.4
+		ap_attack = 1
+	}
+        mechanized_brigade = {
+		hard_attack = 0.4
+		ap_attack = 1
+	}
+        special_forces_brigade = {
+		hard_attack = 0.4
+		ap_attack = 1
+	}
+	air_cavalry_brigade = {
+		hard_attack = 0.4
+		ap_attack = 1
+	}
+	garrison_brigade = {
+		hard_attack = 0.4
+		ap_attack = 1
+	}
+        mountain_brigade = {
+		hard_attack = 0.4
+		ap_attack = 1
+	}
+        paratrooper_brigade = {
+		hard_attack = 0.4
+		ap_attack = 1
+	}
+        marine_brigade = {
+		hard_attack = 0.4
+		ap_attack = 1
+	}
+	
+	allow = {
+		weapon_design = 1
+	}
+	
+	research_bonus_from = {
+		infantry_theory = 0.3
+		infantry_practical = 0.7
+	}
+	
+	on_completion = infantry_theory
+	
+	difficulty = 20
+	start_year = 2000
+	first_offset = 2003
+	additional_offset = 5
+	max_level = 6
+	folder = infantry_folder
+}
+
+vehicle_design = {
+	
+	activate_unit = mechanized_brigade
+	
+	research_bonus_from = {
+		mobile_theory = 0.3
+		mobile_practical = 0.7
+	}
+	
+	allow = {
+		industrialization = 1.0
+	}
+
+	on_completion = mobile_theory
+	
+	difficulty = 40
+	start_year = 2000
+	folder = infantry_folder
+}
+
+the_body_defense = {
+
+        wheeled_vehicles = {
+                armor_value = 0.5
+		toughness = 1.50
+		defensiveness = 0.8
+	}
+        mechanized_brigade = {
+                armor_value = 0.5
+		toughness = 1.50
+		defensiveness = 0.8
+	}
+        sp_artillery_brigade = {
+                armor_value = 0.5
+		toughness = 1.00
+		defensiveness = 0.8
+	}
+        mobile_aa_brigade = {
+                armor_value = 0.5
+		toughness = 0.80
+		defensiveness = 0.8
+	}
+	
+	allow = {
+		vehicle_design = 1
+	}
+	
+	research_bonus_from = {
+		mobile_theory = 0.3
+		mobile_practical = 0.7
+	}
+	
+	on_completion = mobile_theory
+	
+	difficulty = 20
+	start_year = 2000
+	first_offset = 2003
+	additional_offset = 5
+	max_level = 6
+	folder = infantry_folder
+}
+
+gasoline_engine = {
+
+        wheeled_vehicles = {
+		maximum_speed = 3.00
+	}
+	infantry_brigade = {
+		maximum_speed = 2.00
+	}
+        mechanized_brigade = {
+		maximum_speed = 3.00
+	}
+        mountain_brigade = {
+		maximum_speed = 2.00
+	}
+        paratrooper_brigade = {
+		maximum_speed = 2.00
+	}
+        marine_brigade = {
+		maximum_speed = 2.00
+	}
+	garrison_brigade = {
+		maximum_speed = 2.00
+	}
+        artillery_brigade = {
+		maximum_speed = 2.00
+	}
+        mobile_aa_brigade = {
+		maximum_speed = 2.00
+	}
+        anti_tank_brigade = {
+		maximum_speed = 2.00
+	}
+        engineer_brigade = {
+		maximum_speed = 2.00
+	}
+	
+	allow = {
+		vehicle_design = 1
+	}
+	
+	research_bonus_from = {
+		mobile_theory = 0.3
+		mobile_practical = 0.7
+	}
+	
+	on_completion = mobile_theory
+	
+	difficulty = 20
+	start_year = 2000
+	first_offset = 2003
+	additional_offset = 5
+	max_level = 6
+	folder = infantry_folder
+}
+
+the_small_caliber_weapons = {
+
+        mechanized_brigade = {
+		soft_attack = 0.8
+	}
+	
+	allow = {
+		vehicle_design = 1
+	}
+	
+	research_bonus_from = {
+		mobile_theory = 0.3
+		mobile_practical = 0.7
+	}
+	
+	on_completion = mobile_theory
+	
+	difficulty = 20
+	start_year = 2000
+	first_offset = 2003
+	additional_offset = 5
+	max_level = 6
+	folder = infantry_folder
+}
+
+the_large_caliber_weapons = {
+
+        mechanized_brigade = {
+		hard_attack = 0.6
+	}
+	
+	allow = {
+		vehicle_design = 1
+	}
+	
+	research_bonus_from = {
+		mobile_theory = 0.3
+		mobile_practical = 0.7
+	}
+	
+	on_completion = mobile_theory
+	
+	difficulty = 20
+	start_year = 2000
+	first_offset = 2003
+	additional_offset = 5
+	max_level = 6
+	folder = infantry_folder
+}
+
+the_police_force = {
+	
+	activate_unit = police_brigade
+	
+	research_bonus_from = {
+		infantry_theory = 0.3
+		infantry_practical = 0.7
+	}
+	
+	on_completion = infantry_theory
+	
+	difficulty = 30
+	start_year = 2000
+	folder = infantry_folder
+}
+
+the_police_weapons = {
+
+        police_brigade = {
+		soft_attack = 0.1
+		hard_attack = 0.05
+		toughness = 0.2
+		defensiveness = 0.3
+		suppression = 2
+	}
+	
+	allow = {
+		the_police_force = 1
+	}
+	
+	research_bonus_from = {
+		infantry_theory = 0.3
+		infantry_practical = 0.7
+	}
+	
+	on_completion = infantry_theory
+	
+	difficulty = 20
+	start_year = 2000
+	first_offset = 2003
+	additional_offset = 5
+	max_level = 6
+	folder = infantry_folder
+}
+
+police_car = {
+
+        police_brigade = {
+		maximum_speed = 1.00
+	}
+
+	allow = {
+		the_police_force = 1
+	}
+	
+	research_bonus_from = {
+		infantry_theory = 0.3
+		infantry_practical = 0.7
+	}
+	
+	on_completion = infantry_theory
+	
+	difficulty = 20
+	start_year = 2000
+	first_offset = 2003
+	additional_offset = 5
+	max_level = 6
+	folder = infantry_folder
+}
+
+professional_engineer = {
+	
+	activate_unit = engineer_brigade
+	
+	research_bonus_from = {
+		infantry_theory = 0.3
+		infantry_practical = 0.7
+	}
+	
+	allow = {
+		industrialization = 1.0
+	}
+
+	on_completion = infantry_theory
+	
+	difficulty = 40
+	start_year = 2000
+	folder = infantry_folder
+}
+
+field_equipment = {
+
+        engineer_brigade = {
+		soft_attack = 0.1
+		defensiveness = 0.3
+	}
+	
+	allow = {
+		professional_engineer = 1
+	}
+	
+	research_bonus_from = {
+		infantry_theory = 0.3
+		infantry_practical = 0.7
+	}
+	
+	on_completion = infantry_theory
+	
+	difficulty = 20
+	start_year = 2000
+	first_offset = 2003
+	additional_offset = 5
+	max_level = 6
+	folder = infantry_folder
+}
+
+street_fighting_equipment = {
+
+        engineer_brigade = {
+		hard_attack = 0.05
+		toughness = 0.2
+	}
+
+	allow = {
+		professional_engineer = 1
+	}
+	
+	research_bonus_from = {
+		infantry_theory = 0.3
+		infantry_practical = 0.7
+	}
+	
+	on_completion = infantry_theory
+	
+	difficulty = 20
+	start_year = 2000
+	first_offset = 2003
+	additional_offset = 5
+	max_level = 6
+	folder = infantry_folder
+}
+
+special_warfare_equipment = {
+	
+	infantry_brigade = {
+		urban = {
+			attack = 0.2
+			defence = 0.2
+			attrition = -1
+		}
+	}
+	air_cavalry_brigade = {
+		urban = {
+			attack = 0.2
+			defence = 0.2
+			attrition = -1
+		}
+	}
+	garrison_brigade = {
+		urban = {
+			attack = 0.2
+			defence = 0.2
+			attrition = -1
+		}
+	}
+	marine_brigade = {
+		urban = {
+			attack = 0.2
+			defence = 0.2
+			attrition = -1
+		}
+	}
+	paratrooper_brigade = {
+		urban = {
+			attack = 0.2
+			defence = 0.2
+			attrition = -1
+		}
+	}
+
+	special_forces_brigade = {
+		urban = {
+			attack = 0.2
+			defence = 0.2
+			attrition = -1
+		}
+	}
+	mechanized_brigade = {
+		urban = {
+			attack = 0.2
+			defence = 0.2
+			attrition = -1
+		}
+	}
+	armor_brigade = {
+		urban = {
+			attack = 0.2
+			defence = 0.2
+			attrition = -1
+		}
+	}
+	wheeled_vehicles = {
+		urban = {
+			attack = 0.2
+			defence = 0.2
+			attrition = -1
+		}
+	}
+	mountain_brigade = {
+		urban = {
+			attack = 0.2
+			defence = 0.2
+			attrition = -1
+		}
+	}
+	
+	research_bonus_from = {
+		infantry_theory = 0.3
+		infantry_practical = 0.7
+	}
+	
+	allow = {
+		promotion_of_information_technology = 1.0
+	}
+
+
+	on_completion = infantry_theory
+	
+	difficulty = 35
+	start_year = 2000
+	folder = infantry_folder
+}
+
+mountain_equipment = {
+	
+	infantry_brigade = {
+		mountain = {
+			attack = 0.2
+			defence = 0.2
+			attrition = -1
+		}
+	}
+	air_cavalry_brigade = {
+		mountain = {
+			attack = 0.2
+			defence = 0.2
+			attrition = -1
+		}
+	}
+	garrison_brigade = {
+		mountain = {
+			attack = 0.2
+			defence = 0.2
+			attrition = -1
+		}
+	}
+	marine_brigade = {
+		mountain = {
+			attack = 0.2
+			defence = 0.2
+			attrition = -1
+		}
+	}
+	paratrooper_brigade = {
+		mountain = {
+			attack = 0.2
+			defence = 0.2
+			attrition = -1
+		}
+	}
+	special_forces_brigade = {
+		mountain = {
+			attack = 0.2
+			defence = 0.2
+			attrition = -1
+		}
+	}
+	mechanized_brigade = {
+		mountain = {
+			attack = 0.2
+			defence = 0.2
+			attrition = -1
+		}
+	}
+	armor_brigade = {
+		mountain = {
+			attack = 0.2
+			defence = 0.2
+			attrition = -1
+		}
+	}
+	wheeled_vehicles = {
+		mountain = {
+			attack = 0.2
+			defence = 0.2
+			attrition = -1
+		}
+	}
+	
+	research_bonus_from = {
+		infantry_theory = 0.3
+		infantry_practical = 0.7
+	}
+
+	allow = {
+		industrialization = 1.0
+	}
+	
+	on_completion = infantry_theory
+	
+	difficulty = 35
+	start_year = 2000
+	folder = infantry_folder
+}
+
+forest_equipment = {
+	
+	infantry_brigade = {
+		jungle = {
+			attack = 0.2
+			defence = 0.2
+			attrition = -1
+		}
+	}
+	air_cavalry_brigade = {
+		jungle = {
+			attack = 0.2
+			defence = 0.2
+			attrition = -1
+		}
+	}
+	garrison_brigade = {
+		jungle = {
+			attack = 0.2
+			defence = 0.2
+			attrition = -1
+		}
+	}
+	marine_brigade = {
+		jungle = {
+			attack = 0.2
+			defence = 0.2
+			attrition = -1
+		}
+	}
+	paratrooper_brigade = {
+		jungle = {
+			attack = 0.2
+			defence = 0.2
+			attrition = -1
+		}
+	}
+	special_forces_brigade = {
+		jungle = {
+			attack = 0.2
+			defence = 0.2
+			attrition = -1
+		}
+	}
+	mechanized_brigade = {
+		jungle = {
+			attack = 0.2
+			defence = 0.2
+			attrition = -1
+		}
+	}
+	armor_brigade = {
+		jungle = {
+			attack = 0.2
+			defence = 0.2
+			attrition = -1
+		}
+	}
+	wheeled_vehicles = {
+		jungle = {
+			attack = 0.2
+			defence = 0.2
+			attrition = -1
+		}
+	}
+	mountain_brigade = {
+		jungle = {
+			attack = 0.2
+			defence = 0.2
+			attrition = -1
+		}
+	}
+	
+	research_bonus_from = {
+		infantry_theory = 0.3
+		infantry_practical = 0.7
+	}
+
+	allow = {
+		industrialization = 1.0
+	}
+	
+	on_completion = infantry_theory
+	
+	difficulty = 35
+	start_year = 2000
+	folder = infantry_folder
+}
+
+amphibious_equipment = {
+
+	marine_brigade = {
+		amphibious = {
+			attack = 0.2
+			defence = 0.2
+			attrition = -1
+		}
+	}
+	
+	research_bonus_from = {
+		infantry_theory = 0.3
+		infantry_practical = 0.7
+	}
+
+	allow = {
+		industrialization = 1.0
+	}
+	
+	on_completion = infantry_theory
+	
+	difficulty = 35
+	start_year = 2000
+	folder = infantry_folder
+}
+
+parachute_equipment = {
+	
+	paratrooper_brigade = {
+		transport_weight = -1
+		supply_consumption = -0.10
+	}
+	
+	research_bonus_from = {
+		infantry_theory = 0.3
+		infantry_practical = 0.7
+	}
+
+	allow = {
+		industrialization = 1.0
+	}
+	
+	on_completion = infantry_theory
+	
+	difficulty = 35
+	start_year = 2000
+	folder = infantry_folder
+}
+
+night_fighting_equipment = {
+
+	infantry_brigade = {
+		night = {
+			attack = 0.2
+			defence = 0.2
+			attrition = -1
+		}
+	}
+	air_cavalry_brigade = {
+		night = {
+			attack = 0.2
+			defence = 0.2
+			attrition = -1
+		}
+	}
+	garrison_brigade = {
+		night = {
+			attack = 0.2
+			defence = 0.2
+			attrition = -1
+		}
+	}
+	marine_brigade = {
+		night = {
+			attack = 0.2
+			defence = 0.2
+			attrition = -1
+		}
+	}
+	paratrooper_brigade = {
+		night = {
+			attack = 0.2
+			defence = 0.2
+			attrition = -1
+		}
+	}
+	special_forces_brigade = {
+		night = {
+			attack = 0.2
+			defence = 0.2
+			attrition = -1
+		}
+	}
+	mechanized_brigade = {
+		night = {
+			attack = 0.2
+			defence = 0.2
+			attrition = -1
+		}
+	}
+	armor_brigade = {
+		night = {
+			attack = 0.2
+			defence = 0.2
+			attrition = -1
+		}
+	}
+	wheeled_vehicles = {
+		night = {
+			attack = 0.2
+			defence = 0.2
+			attrition = -1
+		}
+	}
+	mountain_brigade = {
+		night = {
+			attack = 0.2
+			defence = 0.2
+			attrition = -1
+		}
+	}	
+	
+	research_bonus_from = {
+		infantry_theory = 0.3
+		infantry_practical = 0.7
+	}
+
+	allow = {
+		promotion_of_information_technology = 1.0
+	}
+
+	
+	on_completion = infantry_theory
+	
+	difficulty = 35
+	start_year = 2000
+	folder = infantry_folder
+}
+
+mountain_infantry = {
+	
+	activate_unit = mountain_brigade
+
+	allow = {
+		mountain_equipment = 1
+	}
+	
+	research_bonus_from = {
+		infantry_theory = 0.3
+		infantry_practical = 0.7
+	}
+	
+	on_completion = infantry_theory
+	
+	difficulty = 35
+	start_year = 2000
+	folder = infantry_folder
+}
+
+amphibious_infantry = {
+	
+	activate_unit = marine_brigade
+
+	allow = {
+		amphibious_equipment = 1
+	}
+	
+	research_bonus_from = {
+		infantry_theory = 0.3
+		infantry_practical = 0.7
+	}
+	
+	on_completion = infantry_theory
+	
+	difficulty = 35
+	start_year = 2000
+	folder = infantry_folder
+}
+
+paratroopers = {
+	
+	activate_unit = paratrooper_brigade
+
+	allow = {
+		parachute_equipment = 1
+	}
+	
+	research_bonus_from = {
+		infantry_theory = 0.3
+		infantry_practical = 0.7
+	}
+	
+	on_completion = infantry_theory
+	
+	difficulty = 35
+	start_year = 2000
+	folder = infantry_folder
+}
+
+the_special_arms = {
+	
+	activate_unit = special_forces_brigade
+	
+        allow = {
+		special_warfare_equipment = 1
+	}
+	
+	research_bonus_from = {
+		infantry_theory = 0.3
+		infantry_practical = 0.7
+	}
+	
+	on_completion = infantry_theory
+	
+	difficulty = 35
+	start_year = 2000
+	folder = infantry_folder
+}

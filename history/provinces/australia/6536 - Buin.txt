@@ -1,0 +1,7 @@
+owner = PNG
+controller = PNG
+add_core = PNG
+
+infra = 4
+naval_base = 1
+points = 1

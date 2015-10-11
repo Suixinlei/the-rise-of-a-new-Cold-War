@@ -1,0 +1,6 @@
+owner = LBY
+controller = LBY
+add_core = LBY
+infra = 4
+air_base = 7 #Al Abraq and Martuba airbase
+points = 1

@@ -1,0 +1,7 @@
+owner = HON
+controller = HON
+add_core = HON
+infra = 6
+manpower = 3.1
+leadership = 3.00
+points = 1

@@ -1,0 +1,8 @@
+owner = TUN
+controller = TUN
+add_core = TUN
+
+infra = 6
+air_base = 1 #Monstir Habib airbase
+  
+points = 1

@@ -1,0 +1,9 @@
+owner = ENG
+controller = ENG
+add_core = ENG
+
+infra = 9
+
+
+
+air_base = 10 #RAF Lakenheath

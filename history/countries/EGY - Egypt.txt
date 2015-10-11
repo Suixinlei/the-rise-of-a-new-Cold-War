@@ -1,0 +1,40 @@
+capital = 5611
+government = dictatorship
+ideology = social_conservative
+alignment = { x = 20 y = 70 }
+neutrality = 80
+national_unity = 65
+oob = "EGY_2000.txt"
+
+popularity = { 
+	national_socialist = 0
+	fascistic = 1
+	paternal_autocrat = 2
+	social_conservative = 78
+	market_liberal = 0
+	social_liberal = 0
+	social_democrat = 0
+	left_wing_radical = 0
+	leninist = 0
+	stalinist = 2
+}
+
+organization = { 
+	national_socialist = 0
+	fascistic = 3
+	paternal_autocrat = 6
+	social_conservative = 150
+	market_liberal = 0
+	social_liberal = 0
+	social_democrat = 0
+	left_wing_radical = 0
+	leninist = 0
+	stalinist = 6
+}
+
+conscription_policy = military_service
+press_laws = free_press
+mobilisation_level = peace_time
+civil_laws = open_society
+service_length = eighteen_months
+economic_policy = limit_intervention

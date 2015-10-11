@@ -1,0 +1,152 @@
+theatre = {
+	name = "Vojska Srbije i Crna Gore"
+	location = 3912
+	regiment = { type = hq_brigade name = "Vojska Srbije i Crna Gore" historical_model = 2 }
+	army = {
+		name = "Kopnena Vojska"
+		location = 4243
+		regiment = { type = hq_brigade name = "Kopnena Vojska" historical_model = 2 }
+		corps = {
+			name = "Regularne Jedinice"
+			location = 4243
+			regiment = { type = hq_brigade name = "Regularne Jedinice" historical_model = 2 }
+			division = {
+				is_reserve = yes
+				name = "1. Brigada"
+				location = 3840
+				regiment = { type = infantry_brigade name = "11. Pešadijski Bataljon" historical_model = 2 }
+				regiment = { type = armor_brigade name = "15. Tank Bataljon" historical_model = 0 }
+				regiment = { type = mechanized_brigade name = "16. Mehanizovana Bataljon" historical_model = 0 }
+				regiment = { type = mechanized_brigade name = "17. Mehanizovana Bataljon" historical_model = 0 }
+			}
+			division = {
+				is_reserve = yes
+				name = "2. Brigada"
+				location = 4177
+				regiment = { type = infantry_brigade name = "21. Pešadijski Bataljon" historical_model = 2 }
+				regiment = { type = infantry_brigade name = "22. Pešadijski Bataljon" historical_model = 2 }
+				regiment = { type = armor_brigade name = "26. Tank Bataljon" historical_model = 0 }
+				regiment = { type = mechanized_brigade name = "27. Mehanizovana Bataljon" historical_model = 0 }
+				regiment = { type = mechanized_brigade name = "28. Mehanizovana Bataljon" historical_model = 0 }
+			}
+			division = {
+				is_reserve = yes
+				name = "3. Brigada"
+				location = 4243
+				regiment = { type = infantry_brigade name = "31. Pešadijski Bataljon" historical_model = 2 }
+				regiment = { type = infantry_brigade name = "32. Pešadijski Bataljon" historical_model = 2 }
+				regiment = { type = armor_brigade name = "36. Tank Bataljon" historical_model = 0 }
+				regiment = { type = mechanized_brigade name = "37. Mehanizovana Bataljon" historical_model = 0 }
+				regiment = { type = mechanized_brigade name = "38. Mehanizovana Bataljon" historical_model = 0 }
+			}
+			division = {
+				is_reserve = yes
+				name = "4. Brigada"
+				location = 4369
+				regiment = { type = infantry_brigade name = "41. Pešadijski Bataljon" historical_model = 2 }
+				regiment = { type = infantry_brigade name = "42. Pešadijski Bataljon" historical_model = 2 }
+				regiment = { type = armor_brigade name = "46. Tank Bataljon" historical_model = 0 }
+				regiment = { type = mechanized_brigade name = "47. Mehanizovana Bataljon" historical_model = 0 }
+				regiment = { type = mechanized_brigade name = "48. Mehanizovana Bataljon" historical_model = 0 }
+			}
+			division = {
+				is_reserve = yes
+				name = "Mešovita Artiljerijska Brigada"
+				location = 4243
+				regiment = { type = infantry_brigade name = "1. Pesadiski Bataljon" historical_model = 2 }
+				regiment = { type = artillery_brigade name = "1. Bataljon Haubica" historical_model = 0 }
+				regiment = { type = artillery_brigade name = "2. Bataljon Haubica" historical_model = 0 }
+			}
+		}
+		corps = {
+			name = "Specijalci"
+			location = 3983
+			regiment = { type = hq_brigade name = "Specijalci" historical_model = 2 }
+			division = {
+				is_reserve = yes
+				name = "Specijalne Snage Brigada"
+				location = 3983
+				regiment = { type = special_forces_brigade name = "72. Izvidacki Komandosa Bataljon" historical_model = 2 }
+				regiment = { type = special_forces_brigade name = "VP Antiteroristicka Bataljon" historical_model = 2 }
+			}
+			division = {
+				is_reserve = yes
+				name = "63. Padobranskog Bataljon"
+				location = 3983
+				regiment = { type = paratrooper_brigade name = "63. Padobranskog Bataljon" historical_model = 2 }
+			}
+		}
+		corps = {
+			name = "Crnogorske Trupe"
+			location = 4429
+			regiment = { type = hq_brigade name = "Crnogorske Trupe" historical_model = 2 }
+			division = {
+				is_reserve = yes
+				name = "Pešadijska Brigada"
+				location = 4429
+				regiment = { type = infantry_brigade name = "1. Pešadijski Bataljon" historical_model = 2 }
+				regiment = { type = infantry_brigade name = "2. Pešadijski Bataljon" historical_model = 2 }
+			}
+			division = {
+				is_reserve = yes
+				name = "Specijalne Operacije Brigada"
+				location = 4429
+				regiment = { type = infantry_brigade name = "Planinski Pešadije Bataljon" historical_model = 2 }
+			}
+		}
+	}
+	
+	navy = {
+		name = "Mornarica"
+		base = 4553
+		location = 4553
+		ship = { type = heavy_cruiser name = "Koni I" historical_model = 0 }
+		ship = { type = heavy_cruiser name = "Koni II" historical_model = 0 }
+		ship = { type = heavy_cruiser name = "Kotor" historical_model = 0 }
+		ship = { type = heavy_cruiser name = "Pula" historical_model = 0 }
+		ship = { type = submarine name = "Heroj I" historical_model = 0 }
+		ship = { type = submarine name = "Heroj II" historical_model = 0 }
+		ship = { type = submarine name = "Heroj III" historical_model = 0 }
+		ship = { type = submarine name = "Sava I" historical_model = 0 }
+		ship = { type = submarine name = "Sava II" historical_model = 0 }
+		ship = { type = submarine name = "Sava III" historical_model = 0 }
+		ship = { type = submarine name = "Sava IV" historical_model = 0 }
+		ship = { type = submarine name = "Una I" historical_model = 0 }
+		ship = { type = submarine name = "Una II" historical_model = 0 }
+		ship = { type = submarine name = "Una III" historical_model = 0 }
+		ship = { type = submarine name = "Una IV" historical_model = 0 }
+		ship = { type = submarine name = "Una V" historical_model = 0 }
+		ship = { type = patrol_boat name = "Koncar I" historical_model = 0 }
+		ship = { type = patrol_boat name = "Koncar II" historical_model = 0 }
+		ship = { type = patrol_boat name = "Koncar III" historical_model = 0 }
+		ship = { type = patrol_boat name = "Koncar IV" historical_model = 0 }
+		ship = { type = patrol_boat name = "Koncar V" historical_model = 0 }
+		ship = { type = patrol_boat name = "Koncar VI" historical_model = 0 }
+		ship = { type = patrol_boat name = "Osa I" historical_model = 0 }
+		ship = { type = patrol_boat name = "Osa II" historical_model = 0 }
+		ship = { type = patrol_boat name = "Osa III" historical_model = 0 }
+		ship = { type = patrol_boat name = "Osa IV" historical_model = 0 }
+		ship = { type = patrol_boat name = "Osa V" historical_model = 0 }
+		ship = { type = patrol_boat name = "Osa VI" historical_model = 0 }
+		ship = { type = patrol_boat name = "Osa VII" historical_model = 0 }
+		ship = { type = patrol_boat name = "Osa VIII" historical_model = 0 }
+		ship = { type = patrol_boat name = "Osa IX" historical_model = 0 }
+		ship = { type = patrol_boat name = "Osa X" historical_model = 0 }
+	}
+	
+	air = {
+		name = "101. Borac Eskadrila"
+		base = 3912
+		location = 3912
+		wing = { type = multi_role name = "101. Borac Eskadrila" historical_model = 0 }
+	}
+	
+	air = { 
+		name = "241. Lovac-Bombarder Eskadrila"
+		base = 4177
+		location = 4177
+		wing = { type = cas name = "241. Lovac-Bombarder Eskadrila" historical_model = 0 }
+	}
+}
+	
+		

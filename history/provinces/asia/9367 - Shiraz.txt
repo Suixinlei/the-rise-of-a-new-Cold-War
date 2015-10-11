@@ -1,0 +1,9 @@
+owner = PER
+controller = PER
+add_core = PER
+
+infra = 4
+manpower = 3.00
+crude_oil = 10.00
+rare_materials = 5.00
+air_base = 7 #Shiraz airbase

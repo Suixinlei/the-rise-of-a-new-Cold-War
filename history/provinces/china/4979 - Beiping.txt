@@ -1,0 +1,15 @@
+owner = CHC
+controller = CHC
+
+ 
+ 
+add_core = CHC
+manpower = 17.00
+infra = 10
+industry = 10
+rare_materials = 4.00
+metal = 20.00
+energy = 40.00
+air_base = 10 #Beijing airport
+leadership = 3.00
+points = 1

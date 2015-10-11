@@ -1,0 +1,1645 @@
+56001 = {
+	name = "Puheloinen"
+	country = FIN
+	type = land
+	skill = 3
+	max_skill = 6
+	loyalty = 1.00
+	picture = L56001
+	add_trait = panzer_leader
+	history = {
+		2000.1.1 = { rank = 2 }
+		2004.12.6 = { rank = 3 }
+		2009.8.1 = { rank = 4 }
+	}	
+}
+56002 = {
+	name = "Rannikko"
+	country = FIN
+	type = sea
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L56002
+	history = {
+		2004.1.1 = { rank = 1 }
+		2006.1.1 = { rank = 2 }
+		2009.1.1 = { rank = 3 }
+	}
+}
+56003 = {
+	name = "Honkamaa"
+	country = FIN
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L56003
+	add_trait = trainer
+	history = {
+		2008.1.1 = { rank = 1 }
+		2012.1.1 = { rank = 2 }
+	}	
+}
+56004 = {
+	name = "Peltonen"
+	country = FIN
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L56004
+	add_trait = commando
+	history = {
+		2005.1.1 = { rank = 1 }
+		2008.1.1 = { rank = 2 }
+		2011.1.1 = { rank = 3 }
+	}	
+}
+56005 = {
+	name = "Lindberg"
+	country = FIN
+	type = air
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L56005
+	history = {
+		2005.1.1 = { rank = 1 }
+		2008.1.1 = { rank = 2 }
+		2011.1.1 = { rank = 3 }
+	}	
+}
+56006 = {
+	name = "Ojala"
+	country = FIN
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L56006
+	history = {
+		2011.1.1 = { rank = 1 }
+	}	
+}
+56007 = {
+	name = "Ohra-Aho"
+	country = FIN
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L56007
+	add_trait = logistics_wizard
+	history = {
+		2011.1.1 = { rank = 1 }
+	}	
+}
+56008 = {
+	name = "Takanen"
+	country = FIN
+	type = sea
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L56008
+	history = {
+		2008.1.1 = { rank = 1 }
+		2012.1.1 = { rank = 2 }
+	}	
+}
+56009 = {
+	name = "Valtonen"
+	country = FIN
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L56009
+	add_trait = learners_will
+	history = {
+		2008.1.1 = { rank = 1 }
+	}	
+}
+56010 = {
+	name = "Ala-Sankila"
+	country = FIN
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L56010
+	add_trait = commando
+	history = {
+		2009.1.1 = { rank = 1 }
+	}	
+}
+56011 = {
+	name = "Toivonen"
+	country = FIN
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L56011
+	history = {
+		2007.1.1 = { rank = 1 }
+		2013.1.1 = { rank = 2 }
+	}	
+}	
+56012 = {
+	name = "Rotonen"
+	country = FIN
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L56012
+	add_trait = logistics_wizard
+	history = {
+		2012.1.1 = { rank = 1 }
+	}	
+}
+56013 = {
+	name = "Korkiamäki"
+	country = FIN
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L56013
+	history = {
+		2013.1.1 = { rank = 1 }
+	}	
+}
+56014 = {
+	name = "Jyväsjärvi"
+	country = FIN
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L56014
+	add_trait = fortress_buster
+	history = {
+		2005.1.1 = { rank = 1 }
+		2009.1.1 = { rank = 2 }
+		2011.1.1 = { rank = 3 }
+	}	
+}
+56015 = {
+	name = "Liikola"
+	country = FIN
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L56015
+	history = {
+		2006.1.1 = { rank = 1 }
+		2010.1.1 = { rank = 2 }
+	}	
+}
+56016 = {
+	name = "Hulkko"
+	country = FIN
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L56016
+	history = {
+		2012.1.1 = { rank = 1 }
+	}	
+}
+56017 = {
+	name = "Halonen"
+	country = FIN
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L56017
+	add_trait = winter_specialist
+	history = {
+		2007.1.1 = { rank = 1 }
+		2013.1.1 = { rank = 2 }
+	}	
+}
+56018 = {
+	name = "Laatikainen"
+	country = FIN
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L56018
+	history = {
+		2012.1.1 = { rank = 1 }
+	}	
+}
+56019 = {
+	name = "Salminen"
+	country = FIN
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L56019
+	history = {
+		2004.1.1 = { rank = 1 }
+		2006.1.1 = { rank = 2 }
+	}	
+}
+56020 = {
+	name = "Parkatti"
+	country = FIN
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L56020
+	add_trait = swamp_fox
+	history = {
+		2009.1.1 = { rank = 1 }
+		2013.1.1 = { rank = 2 }
+	}	
+}
+56021 = {
+	name = "Haaksiala"
+	country = FIN
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L56021
+	add_trait = fortress_buster
+	history = {
+		2007.1.1 = { rank = 1 }
+		2011.1.1 = { rank = 2 }
+	}	
+}
+56022 = {
+	name = "Kivinen"
+	country = FIN
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L56022
+	history = {
+		2010.1.1 = { rank = 1 }
+	}	
+}
+56023 = {
+	name = "Pennala"
+	country = FIN
+	type = sea
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L56023
+	history = {
+		2005.1.1 = { rank = 1 }
+		2011.1.1 = { rank = 2 }
+	}	
+}
+56024 = {
+	name = "Vauhkonen"
+	country = FIN
+	type = sea
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L56024
+	add_trait = blockade_runner
+	history = {
+		2013.1.1 = { rank = 1 }
+	}	
+}
+56025 = {
+	name = "Puranen"
+	country = FIN
+	type = air
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L56025
+	history = {
+		2008.1.1 = { rank = 1 }
+		2012.1.1 = { rank = 2 }
+	}	
+}
+56026 = {
+	name = "Salmi"
+	country = FIN
+	type = air
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L56026
+	history = {
+		2008.1.1 = { rank = 1 }
+	}	
+}
+56027 = {
+	name = "Taipalus"
+	country = FIN
+	type = sea
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L56027
+	add_trait = blockade_runner
+	history = {
+		2011.1.1 = { rank = 1 }
+	}	
+}
+56028 = {
+	name = "Räty"
+	country = FIN
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L56028
+	add_trait = ranger
+	history = {
+		2004.1.1 = { rank = 1 }
+		2007.1.1 = { rank = 2 }
+		2010.1.1 = { rank = 3 }
+	}	
+}
+56029 = {
+	name = "Pulkkinen"
+	country = FIN
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L56029
+	history = {
+		2008.1.1 = { rank = 1 }
+	}	
+}
+56030 = {
+	name = "Pyötsiä"
+	country = FIN
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L56030
+	add_trait = ranger
+	history = {
+		2011.1.1 = { rank = 1 }
+	}	
+}
+56031 = {
+	name = "Kilpiä"
+	country = FIN
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L56031
+	history = {
+		2004.1.1 = { rank = 1 }
+		2006.1.1 = { rank = 2 }
+	}	
+}
+56032 = {
+	name = "Nikkilä"
+	country = FIN
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L56032
+	history = {
+		2006.1.1 = { rank = 1 }
+		2011.1.1 = { rank = 2 }
+	}	
+}
+56033 = {
+	name = "Aatolainen"
+	country = FIN
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L56033
+	add_trait = trickster
+	history = {
+		1993.1.1 = { rank = 1 }
+	}	
+}
+56034 = {
+	name = "Ahola"
+	country = FIN
+	type = air
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L56034
+	history = {
+		1998.1.1 = { rank = 3 }
+	}	
+}
+56035 = {
+	name = "Airio"
+	country = FIN
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L56035
+	history = {
+		2000.1.1 = { rank = 1 }
+	}	
+}
+56036 = {
+	name = "Alafuzoff"
+	country = FIN
+	type = sea
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L56036
+	add_trait = superior_tactician
+	history = {
+		2006.1.1 = { rank = 1 }
+	}	
+}
+56037 = {
+	name = "Alasjärvi"
+	country = FIN
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L56037
+	history = {
+		2002.1.1 = { rank = 1 }
+	}
+}
+56038 = {
+	name = "Alatalo"
+	country = FIN
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L56038
+	history = {
+		1987.1.1 = { rank = 3 }
+	}
+}
+56039 = {
+	name = "Alasjärvi"
+	country = FIN
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L56039
+	add_trait = swamp_fox
+	history = {
+		1983.1.1 = { rank = 3 }
+	}
+}
+56040 = {
+	name = "Anthoni"
+	country = FIN
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L56040
+	history = {
+		1982.1.1 = { rank = 2 }
+	}
+}
+56041 = {
+	name = "Anttila"
+	country = FIN
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L56041
+	history = {
+		1977.1.1 = { rank = 3 }
+	}
+}
+56042 = {
+	name = "Aspara"
+	country = FIN
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L56042
+	add_trait = hill_fighter
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+		2007.1.1 = { rank = 3 }
+	}
+}
+56043 = {
+	name = "Autio"
+	country = FIN
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L56043
+	history = {
+		1989.1.1 = { rank = 3 }
+	}
+}
+56044 = {
+	name = "Christensen"
+	country = FIN
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L56044
+	history = {
+		1987.1.1 = { rank = 2 }
+	}
+}
+56045 = {
+	name = "Engström"
+	country = FIN
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L56039
+	add_trait = hard_defender
+	history = {
+		1995.1.1 = { rank = 1 }
+	}
+}
+56046 = {
+	name = "Haapkylä"
+	country = FIN
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L56046
+	history = {
+		1978.1.1 = { rank = 2 }
+	}
+}
+56047 = {
+	name = "Halonen"
+	country = FIN
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L56047
+	history = {
+		1986.1.1 = { rank = 3 }
+	}
+}
+56048 = {
+	name = "Harjunmaa"
+	country = FIN
+	type = air
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L56048
+	add_trait = tank_buster
+	history = {
+		1996.1.1 = { rank = 1 }
+	}
+}
+56049 = {
+	name = "Hautamäki"
+	country = FIN
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L56049
+	history = {
+		1995.1.1 = { rank = 3 }
+	}
+}
+56050 = {
+	name = "Heiskanen"
+	country = FIN
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L56050
+	history = {
+		1996.1.1 = { rank = 1 }
+	}
+}
+56051 = {
+	name = "Helminen"
+	country = FIN
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L56051
+	add_trait = commando
+	history = {
+		1988.1.1 = { rank = 2 }
+	}
+}
+56052 = {
+	name = "Herranen"
+	country = FIN
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L56052
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+		2005.1.1 = { rank = 3 }
+	}
+}
+56053 = {
+	name = "Hietanen"
+	country = FIN
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L56053
+	history = {
+		1996.1.1 = { rank = 1 }
+	}
+}
+56054 = {
+	name = "Hollo"
+	country = FIN
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L56054
+	add_trait = learners_will
+	history = {
+		1997.1.1 = { rank = 3 }
+	}
+}
+56055 = {
+	name = "Holma"
+	country = FIN
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L56055
+	history = {
+		2003.1.1 = { rank = 2 }
+	}
+}
+56056 = {
+	name = "Holmström"
+	country = FIN
+	type = sea
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L56056
+	history = {
+		2000.1.1 = { rank = 1 }
+		2002.1.1 = { rank = 2 }
+		2004.1.1 = { rank = 3 }
+	}
+}
+56057 = {
+	name = "Hägglund"
+	country = FIN
+	type = land
+	skill = 3
+	max_skill = 6
+	loyalty = 1.00
+	picture = L56057
+	add_trait = spotter
+	history = {
+		1985.1.1 = { rank = 2 }
+		1988.1.1 = { rank = 3 }
+		1994.1.1 = { rank = 4 }
+	}
+}
+56058 = {
+	name = "Ihantola"
+	country = FIN
+	type = air
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L56058
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+56059 = {
+	name = "Iivonen"
+	country = FIN
+	type = sea
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L56059
+	history = {
+		1989.1.1 = { rank = 2 }
+	}
+}
+56060 = {
+	name = "Illi"
+	country = FIN
+	type = sea
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L56060
+	add_trait = spotter
+	history = {
+		1998.1.1 = { rank = 3 }
+	}
+}
+56061 = {
+	name = "Ilmola"
+	country = FIN
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L56061
+	history = {
+		1993.1.1 = { rank = 3 }
+	}
+}
+56062 = {
+	name = "Jokinen"
+	country = FIN
+	type = air
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L56062
+	history = {
+		1990.1.1 = { rank = 3 }
+	}
+}
+56063 = {
+	name = "Juusti"
+	country = FIN
+	type = air
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L56063
+	add_trait = ranger
+	history = {
+		2008.1.1 = { rank = 1 }
+		2010.1.1 = { rank = 2 }
+	}
+}
+56064 = {
+	name = "Jäppilä"
+	country = FIN
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L56064
+	history = {
+		2000.1.1 = { rank = 3 }
+	}
+}
+56065 = {
+	name = "Kainulainen"
+	country = FIN
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L56065
+	history = {
+		1997.1.1 = { rank = 3 }
+	}
+}
+56066 = {
+	name = "Kaisalo"
+	country = FIN
+	type = sea
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L56066
+	add_trait = superior_tactician
+	history = {
+		1983.1.1 = { rank = 2 }
+	}
+}
+56067 = {
+	name = "Kanninen"
+	country = FIN
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L56067
+	history = {
+		1974.1.1 = { rank = 3 }
+	}
+}
+56068 = {
+	name = "Karumaa"
+	country = FIN
+	type = sea
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L56068
+	history = {
+		2007.1.1 = { rank = 1 }
+		2009.1.1 = { rank = 2 }
+	}
+}
+56069 = {
+	name = "Jokinen"
+	country = FIN
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L56062
+	add_trait = assaulter
+	history = {
+		1988.1.1 = { rank = 2 }
+	}
+}
+56070 = {
+	name = "Kaskeala"
+	country = FIN
+	type = sea
+	skill = 4
+	max_skill = 6
+	loyalty = 1.00
+	picture = L56070
+	history = {
+		2001.1.1 = { rank = 4 }
+	}
+}
+56071 = {
+	name = "Kaukanen"
+	country = FIN
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L56071
+	history = {
+		2004.1.1 = { rank = 1 }
+		2006.1.1 = { rank = 2 }
+		2008.1.1 = { rank = 3 }
+	}
+}
+56072 = {
+	name = "Kiianlinna"
+	country = FIN
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L56072
+	history = {
+		2001.1.1 = { rank = 1 }
+	}
+}
+56073 = {
+	name = "Kiljunen"
+	country = FIN
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L56073
+	history = {
+		2006.1.1 = { rank = 1 }
+		2008.1.1 = { rank = 2 }
+		2010.1.1 = { rank = 3 }
+	}
+}
+56074 = {
+	name = "Kilpinen"
+	country = FIN
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L56074
+	history = {
+		1996.1.1 = { rank = 1 }
+	}
+}
+56075 = {
+	name = "Kirjavainen I."
+	country = FIN
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L56075
+	history = {
+		1983.1.1 = { rank = 3 }
+	}
+}
+56076 = {
+	name = "Kirjavainen M."
+	country = FIN
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L56076
+	history = {
+		2004.1.1 = { rank = 1 }
+	}
+}
+56077 = {
+	name = "Klenberg B."
+	country = FIN
+	type = sea
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L56077
+	history = {
+		1977.1.1 = { rank = 2 }
+	}
+}
+56078 = {
+	name = "Klenberg J."
+	country = FIN
+	type = sea
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L56078
+	history = {
+		1990.1.1 = { rank = 4 }
+	}
+}
+56079 = {
+	name = "Kilpinen"
+	country = FIN
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L56079
+	history = {
+		1996.1.1 = { rank = 1 }
+	}
+}
+56080 = {
+	name = "Koho"
+	country = FIN
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L56080
+	history = {
+		1981.1.1 = { rank = 3 }
+	}
+}
+56081 = {
+	name = "Koli"
+	country = FIN
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L56081
+	history = {
+		2004.1.1 = { rank = 1 }
+		2006.1.1 = { rank = 2 }
+		2008.1.1 = { rank = 3 }
+	}
+}
+56082 = {
+	name = "Kopra"
+	country = FIN
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L56082
+	history = {
+		1991.1.1 = { rank = 3 }
+	}
+}
+56083 = {
+	name = "Koskela"
+	country = FIN
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L56083
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+56084 = {
+	name = "Koskelo"
+	country = FIN
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L56084
+	history = {
+		1993.1.1 = { rank = 3 }
+	}
+}
+56085 = {
+	name = "Kylä-Harakka"
+	country = FIN
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L56085
+	history = {
+		2002.1.1 = { rank = 3 }
+	}
+}
+56086 = {
+	name = "Kämäri"
+	country = FIN
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L56086
+	history = {
+		1999.1.1 = { rank = 3 }
+	}
+}
+56087 = {
+	name = "Kääriäinen"
+	country = FIN
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L56087
+	history = {
+		2007.1.1 = { rank = 1 }
+		2009.1.1 = { rank = 2 }
+	}
+}
+56088 = {
+	name = "Laitinen"
+	country = FIN
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L56088
+	history = {
+		2009.1.1 = { rank = 4 }
+	}
+}
+56089 = {
+	name = "Lankinen"
+	country = FIN
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L56089
+	history = {
+		2002.1.1 = { rank = 1 }
+	}
+}
+56090 = {
+	name = "Laukka"
+	country = FIN
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L56090
+	history = {
+		2003.1.1 = { rank = 1 }
+		2005.1.1 = { rank = 2 }
+	}
+}
+56091 = {
+	name = "Lehtimäki"
+	country = FIN
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L56091
+	history = {
+		2000.1.1 = { rank = 3 }
+	}
+}
+56092 = {
+	name = "Luotola"
+	country = FIN
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L56092
+	history = {
+		1998.1.1 = { rank = 1 }
+	}
+}
+56093 = {
+	name = "Lyytinen"
+	country = FIN
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L56093
+	history = {
+		2002.1.1 = { rank = 1 }
+		2004.1.1 = { rank = 2 }
+		2006.1.1 = { rank = 3 }
+	}
+}
+56095 = {
+	name = "Malmberg"
+	country = FIN
+	type = sea
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L56095
+	history = {
+		2002.1.1 = { rank = 2 }
+	}
+}
+56096 = {
+	name = "Merjola"
+	country = FIN
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L56096
+	history = {
+		1995.1.1 = { rank = 3 }
+	}
+}
+56097 = {
+	name = "Multamäki"
+	country = FIN
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L56097
+	history = {
+		2002.1.1 = { rank = 1 }
+		2004.1.1 = { rank = 2 }
+		2006.1.1 = { rank = 3 }
+	}
+}
+56098 = {
+	name = "Mäkipää"
+	country = FIN
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L56098
+	history = {
+		2005.1.1 = { rank = 1 }
+	}
+}
+56099 = {
+	name = "Möttönen"
+	country = FIN
+	type = sea
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L56099
+	history = {
+		2007.1.1 = { rank = 1 }
+		2009.1.1 = { rank = 2 }
+	}
+}
+56100 = {
+	name = "Nepponen"
+	country = FIN
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L56100
+	history = {
+		1996.1.1 = { rank = 1 }
+	}
+}
+56101 = {
+	name = "Nikunen"
+	country = FIN
+	type = air
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L56101
+	history = {
+		1994.1.1 = { rank = 3 }
+	}
+}
+56102 = {
+	name = "Numminen A."
+	country = FIN
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L56102
+	history = {
+		1999.1.1 = { rank = 1 }
+	}
+}
+56103 = {
+	name = "Numminen J."
+	country = FIN
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L56103
+	history = {
+		2005.1.1 = { rank = 1 }
+	}
+}
+56104 = {
+	name = "Nykänen"
+	country = FIN
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L56104
+	history = {
+		1994.1.1 = { rank = 3 }
+	}
+}
+56105 = {
+	name = "Oittinen"
+	country = FIN
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L56105
+	history = {
+		1999.1.1 = { rank = 2 }
+	}
+}
+56106 = {
+	name = "Oksanen"
+	country = FIN
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L56106
+	history = {
+		2004.1.1 = { rank = 1 }
+		2006.1.1 = { rank = 2 }
+	}
+}
+56107 = {
+	name = "Pajunen"
+	country = FIN
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L56107
+	history = {
+		1994.1.1 = { rank = 4 }
+	}
+}
+56108 = {
+	name = "Peltola"
+	country = FIN
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L56108
+	history = {
+		2003.1.1 = { rank = 1 }
+		2005.1.1 = { rank = 2 }
+	}
+}
+56109 = {
+	name = "Pennanen"
+	country = FIN
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L56109
+	history = {
+		2005.1.1 = { rank = 1 }
+		2007.1.1 = { rank = 2 }
+	}
+}
+56110 = {
+	name = "Puonti"
+	country = FIN
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L56110
+	history = {
+		2002.1.1 = { rank = 1 }
+		2004.1.1 = { rank = 2 }
+	}
+}
+56111 = {
+	name = "Pystynen"
+	country = FIN
+	type = air
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L56111
+	history = {
+		2001.1.1 = { rank = 3 }
+	}
+}
+56112 = {
+	name = "Ranta"
+	country = FIN
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L56112
+	history = {
+		1993.1.1 = { rank = 3 }
+	}
+}
+56113 = {
+	name = "Rimpi"
+	country = FIN
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L56113
+	history = {
+		2001.1.1 = { rank = 3 }
+	}
+}
+56113 = {
+	name = "Rimpi"
+	country = FIN
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L56113
+	history = {
+		2001.1.1 = { rank = 3 }
+	}
+}
+56114 = {
+	name = "Ryynänen"
+	country = FIN
+	type = air
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L56113
+	history = {
+		2001.1.1 = { rank = 1 }
+	}
+}
+56115 = {
+	name = "Sandqvist"
+	country = FIN
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L56115
+	history = {
+		1998.1.1 = { rank = 2 }
+	}
+}
+56116 = {
+	name = "Savolainen"
+	country = FIN
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L56116
+	history = {
+		1997.1.1 = { rank = 1 }
+	}
+}
+56117 = {
+	name = "Siiki"
+	country = FIN
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L56117
+	history = {
+		2002.1.1 = { rank = 1 }
+		2004.1.1 = { rank = 2 }
+	}
+}
+56118 = {
+	name = "Simola"
+	country = FIN
+	type = air
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L56118
+	history = {
+		1999.1.1 = { rank = 3 }
+	}
+}
+56119 = {
+	name = "Sipi"
+	country = FIN
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L56119
+	history = {
+		2001.1.1 = { rank = 2 }
+	}
+}
+56120 = {
+	name = "Smolander"
+	country = FIN
+	type = sea
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L56120
+	history = {
+		2000.1.1 = { rank = 1 }
+		2002.1.1 = { rank = 2 }
+		2004.1.1 = { rank = 3 }
+	}
+}
+56121 = {
+	name = "Strang"
+	country = FIN
+	type = sea
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L56121
+	history = {
+		2004.1.1 = { rank = 1 }
+	}
+}
+56122 = {
+	name = "Tanskanen"
+	country = FIN
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L56122
+	history = {
+		1994.1.1 = { rank = 2 }
+	}
+}
+56123 = {
+	name = "Tarvainen"
+	country = FIN
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L56123
+	history = {
+		2000.1.1 = { rank = 1 }
+		2002.1.1 = { rank = 2 }
+		2004.1.1 = { rank = 3 }
+	}
+}
+56124 = {
+	name = "Tuunanen"
+	country = FIN
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L56124
+	history = {
+		1999.1.1 = { rank = 1 }
+	}
+}
+56125 = {
+	name = "Tynkkynen"
+	country = FIN
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L56125
+	history = {
+		2007.1.1 = { rank = 1 }
+		2009.1.1 = { rank = 2 }
+	}
+}
+56126 = {
+	name = "Uitti"
+	country = FIN
+	type = sea
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L56126
+	history = {
+		2007.1.1 = { rank = 1 }
+	}
+}
+56127 = {
+	name = "Vehviläinen"
+	country = FIN
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L56127
+	history = {
+		2001.1.1 = { rank = 2 }
+	}
+}
+56128 = {
+	name = "Wennström"
+	country = FIN
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L56128
+	history = {
+		1998.1.1 = { rank = 1 }
+	}
+}
+56129 = {
+	name = "Viitasaari"
+	country = FIN
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L56129
+	history = {
+		1998.1.1 = { rank = 2 }
+	}
+}
+56130 = {
+	name = "Österlund"
+	country = FIN
+	type = sea
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L56130
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}

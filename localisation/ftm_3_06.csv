@@ -1,0 +1,14 @@
+UNDERGROUND_OWNER_DESC;$COUNTRY$?的地下抵抗基地;;;;;;;;;;X
+CANT_AUTO_NO_AREA;在战区范围外的部队不能自动控制。编辑战区以将这些省份纳入战区范围。;;;;;;;;;;X
+SUPPLY_INFRA_EFFECT_INFO;在 $INFRA$/$MAX$? 基础设施和现有科技条件下我们每天可以运输 $THRU$? 补给和燃料.;;;;;;;;;;X
+SUPPLY_INFRA_CAPITAL_EFFECT_INFO;首都和邻近省份的吞吐量允许每天运输 $THRU$? 补给和燃料.;;;;;;;;;;X
+VALUE_MAX;最大;;;;;;;;;;X
+COMEV_DAMAGE_ATTACKER;进攻方伤害加成;;;;;;;;;;X
+COMEV_DAMAGE_DEFENDER;防御方伤害加成;;;;;;;;;;X
+LEADER_SKILL_AT_MAX;最大;;;;;;;;;;X
+POSITIONING_PENALTY;阵位惩罚: $VAL$;;;;;;;;;;X
+UNIT_RATIO;部队比率: $RAT$;;;;;;;;;;X
+REORG_WND_SHIPS_RATIO_DESC;主力舰?/护卫舰?/运输船? 比例;;;;;;;;;;X
+BRIGADE_UPGRADE_MIL_CON_INFO;这支部队从 $FROM$? 升级为 $TO$?.;;;;;;;;;;X
+BRIGADE_MIL_CON_CUMULATED_EXP;当前部队经验 $EXP$?;;;;;;;;;;X
+BRIGADE_UPGRADE_INHERITED_EXP;升级后的部队将继承原部队至少 $EXP$?% 的经验，甚至更多。;;;;;;;;;;X

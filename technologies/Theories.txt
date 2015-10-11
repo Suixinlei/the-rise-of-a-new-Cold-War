@@ -1,0 +1,197 @@
+naval_engineering_research = {
+
+	
+	decay = { naval_engineering = -0.1 }
+
+	on_completion =naval_engineering
+
+	difficulty = 5
+	start_year = 2000
+	first_offset = 2003
+	additional_offset = 2
+	max_level = 12
+	folder = theory_folder
+}
+
+submarine_engineering_research = {
+
+	
+	decay = { submarine_engineering = -0.1 }
+
+	on_completion = submarine_engineering
+
+	difficulty = 5
+	start_year = 2000
+	first_offset = 2003
+	additional_offset = 2
+	max_level = 12
+	folder = theory_folder
+}
+
+aeronautic_engineering_research = {
+
+	decay = { aeronautic_engineering = -0.1 }
+	
+	on_completion = aeronautic_engineering
+
+	difficulty = 5
+	start_year = 2000
+	first_offset = 2003
+	additional_offset = 2
+	max_level = 12
+	folder = theory_folder
+}
+
+rocket_science_research = {
+
+	decay = { rocket_science = -0.1 }
+	
+	on_completion = rocket_science
+
+	difficulty = 5
+	start_year = 2000
+	first_offset = 2003
+	additional_offset = 2
+	max_level = 12
+	folder = theory_folder
+}
+
+chemical_engineering_research = {
+
+	decay = { chemical_engineering = -0.1 }
+	
+	on_completion = chemical_engineering
+
+	difficulty = 5
+	start_year = 2000
+	first_offset = 2003
+	additional_offset = 2
+	max_level = 12
+	folder = theory_folder
+}
+
+nuclear_physics_research = {
+
+	decay = { nuclear_physics = -0.1 }
+
+	on_completion = nuclear_physics
+
+	difficulty = 5
+	start_year = 2000
+	first_offset = 2003
+	additional_offset = 2
+	max_level = 12
+	folder = theory_folder
+}
+
+jetengine_research = {
+
+	decay = { four_engine_aircraft_practical = -0.1 }
+
+	on_completion = four_engine_aircraft_practical
+
+	difficulty = 5
+	start_year = 2000
+	first_offset = 2003
+	additional_offset = 2
+	max_level = 12
+	folder = theory_folder
+}
+
+mechanicalengineering_research = {
+
+	decay = { mechanicalengineering_theory = -0.1 }
+
+	on_completion = mechanicalengineering_theory
+
+	difficulty = 5
+	start_year = 2000
+	first_offset = 2003
+	additional_offset = 2
+	max_level = 12
+	folder = theory_folder
+}
+
+automotive_research = {
+
+	decay = { automotive_theory = -0.1 }
+
+	on_completion = automotive_theory 
+
+	difficulty = 5
+	start_year = 2000
+	first_offset = 2003
+	additional_offset = 2
+	max_level = 12
+	folder = theory_folder
+}
+
+electornicegineering_research = {
+
+	decay = { electornicegineering_theory = -0.1 }
+
+	on_completion = electornicegineering_theory 
+
+	difficulty = 5
+	start_year = 2000
+	first_offset = 2003
+	additional_offset = 2
+	max_level = 12
+	folder = theory_folder
+}
+
+artillery_research = {
+
+	decay = { artillery_theory = -0.1 }
+
+	on_completion = artillery_theory
+
+	difficulty = 5
+	start_year = 2000
+	first_offset = 2003
+	additional_offset = 2
+	max_level = 12
+	folder = theory_folder
+}
+
+mobile_research = {
+
+	decay = { mobile_theory = -0.1 }
+
+	on_completion = mobile_theory
+
+	difficulty = 5
+	start_year = 2000
+	first_offset = 2003
+	additional_offset = 2
+	max_level = 12
+	folder = theory_folder
+}
+
+militia_research = {
+
+	decay = { militia_practical = -0.1 }
+
+	on_completion = militia_practical
+
+	difficulty = 5
+	start_year = 2000
+	first_offset = 2003
+	additional_offset = 2
+	max_level = 12
+	folder = theory_folder
+}
+
+infantry_research = {
+
+	decay = { infantry_theory = -0.1 }
+
+	on_completion = infantry_theory
+
+	difficulty = 5
+	start_year = 2000
+	first_offset = 2003
+	additional_offset = 2
+	max_level = 12
+	folder = theory_folder
+}

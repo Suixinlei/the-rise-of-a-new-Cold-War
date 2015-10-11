@@ -1,0 +1,3726 @@
+75900 = {
+	name = "马丁·登普西"
+	country = USA
+	type = land
+	skill = 5
+	max_skill = 8
+	loyalty = 1.00
+	picture = USA1
+	add_trait = commando
+	add_trait = fortress_buster
+	add_trait = trickster
+	history = {
+		2003.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+		2003.1.1 = { rank = 4 }
+	}
+}
+75901 = {
+	name = "詹姆斯·温尼菲尔德二世"
+	country = USA
+	type = sea
+	skill = 5
+	max_skill = 7
+	loyalty = 1.00
+	picture = USA2
+	add_trait = blockade_runner
+	add_trait = learners_will
+	history = {
+		2003.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+		2003.1.1 = { rank = 4 }
+	}
+}
+75902 = {
+	name = "大卫·罗德里格斯"
+	country = USA
+	type = land
+	skill = 5
+	max_skill = 8
+	loyalty = 1.00
+	picture = USA3
+	add_trait = trickster
+	add_trait = improvisation
+	history = {
+		2003.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+		2003.1.1 = { rank = 4 }
+	}
+}
+75903 = {
+	name = "劳埃德·奥斯汀三世"
+	country = USA
+	type = land
+	skill = 4
+	max_skill = 8
+	loyalty = 1.00
+	picture = USA4
+	add_trait = commando
+	add_trait = fortress_buster
+	add_trait = marine
+	history = {
+		2003.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+		2003.1.1 = { rank = 4 }
+	}
+}
+75904 = {
+	name = "菲利普·布里德洛夫"
+	country = USA
+	type = air
+	skill = 5
+	max_skill = 9
+	loyalty = 1.00
+	picture = USA5
+	add_trait = tank_buster
+	add_trait = frontline_soldier
+	history = {
+		2003.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+75905 = {
+	name = "查尔斯·雅各比二世"
+	country = USA
+	type = land
+	skill = 4
+	max_skill = 8
+	loyalty = 1.00
+	picture = USA6
+	add_trait = frontline_soldier
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+75906 = {
+	name = "萨缪尔·洛克利尔三世"
+	country = USA
+	type = sea
+	skill = 5
+	max_skill = 8
+	loyalty = 1.00
+	picture = USA7
+	add_trait = blockade_runner
+	add_trait = trainer
+	history = {
+		2003.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+		2003.1.1 = { rank = 4 }
+	}
+}
+75907 = {
+	name = "约翰·凯利"
+	country = USA
+	type = land
+	skill = 3
+	max_skill = 5
+	loyalty = 1.00
+	picture = USA8
+	add_trait = offensive_doctrine
+	add_trait = marine
+	history = {
+		2003.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+		2003.1.1 = { rank = 4 }
+	}
+}
+75908 = {
+	name = "威廉·麦克雷文"
+	country = USA
+	type = sea
+	skill = 5
+	max_skill = 8
+	loyalty = 1.00
+	picture = USA9
+	add_trait = seawolf
+	add_trait = superior_tactician
+	history = {
+		2003.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+		2003.1.1 = { rank = 4 }
+	}
+}
+75909 = {
+	name = "塞西尔·黑尼"
+	country = USA
+	type = sea
+	skill = 5
+	max_skill = 8
+	loyalty = 1.00
+	picture = USA10
+	add_trait = seawolf
+	add_trait = blockade_runner
+	history = {
+		2003.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+		2003.1.1 = { rank = 4 }
+	}
+}
+75910 = {
+	name = "保罗·塞尔瓦"
+	country = USA
+	type = air
+	skill = 5
+	max_skill = 9
+	loyalty = 1.00
+	picture = USA11
+	add_trait = night_flyer
+	add_trait = superior_air_tactician
+	history = {
+		2003.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+75911 = {
+	name = "弗兰克·格拉斯"
+	country = USA
+	type = land
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = USA12
+	add_trait = commando
+	add_trait = hard_defender
+	history = {
+		2003.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+		2003.1.1 = { rank = 4 }
+	}
+}
+75912 = {
+	name = "约瑟夫·邓福德二世"
+	country = USA
+	type = land
+	skill = 4
+	max_skill = 8
+	loyalty = 1.00
+	picture = USA13
+	add_trait = commando
+	add_trait = engineer
+	history = {
+		2003.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+		2003.1.1 = { rank = 4 }
+	}
+}
+75913 = {
+	name = "柯蒂斯·斯卡帕洛蒂"
+	country = USA
+	type = land
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = USA14
+	add_trait = commando
+	add_trait = frontline_soldier
+	history = {
+		2003.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+		2003.1.1 = { rank = 4 }
+	}
+}
+75914 = {
+	name = "迈克尔·罗杰斯"
+	country = USA
+	type = sea
+	skill = 4
+	max_skill = 8
+	loyalty = 1.00
+	picture = USA15
+	add_trait = spotter
+	history = {
+		2003.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+75915 = {
+	name = "雷蒙德·奥迪耶诺"
+	country = USA
+	type = land
+	skill = 3
+	max_skill = 5
+	loyalty = 1.00
+	picture = USA16
+	add_trait = commando
+	add_trait = logistics_wizard
+	history = {
+		2003.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+		2003.1.1 = { rank = 4 }
+	}
+}
+75916 = {
+	name = "约翰·坎贝尔"
+	country = USA
+	type = land
+	skill = 3
+	max_skill = 5
+	loyalty = 1.00
+	picture = USA17
+	add_trait = trickster
+	history = {
+		2003.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+		2003.1.1 = { rank = 4 }
+	}
+}
+75917 = {
+	name = "丹尼尔·阿林"
+	country = USA
+	type = land
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = USA18
+	add_trait = logistics_wizard
+	add_trait = trickster
+	history = {
+		2003.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+		2003.1.1 = { rank = 4 }
+	}
+}
+75918 = {
+	name = "丹尼斯·维亚"
+	country = USA
+	type = land
+	skill = 3
+	max_skill = 5
+	loyalty = 1.00
+	picture = USA19
+	add_trait = trickster
+	add_trait = logistics_wizard
+	history = {
+		2003.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+		2003.1.1 = { rank = 4 }
+	}
+}
+75919 = {
+	name = "大卫·伯金斯"
+	country = USA
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = USA20
+	add_trait = logistics_wizard
+	history = {
+		2003.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+75920 = {
+	name = "文森特·布鲁克斯"
+	country = USA
+	type = land
+	skill = 3
+	max_skill = 5
+	loyalty = 1.00
+	picture = USA21
+	add_trait = frontline_soldier
+	history = {
+		2003.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+75921 = {
+	name = "乔纳森·格林纳特"
+	country = USA
+	type = sea
+	skill = 5
+	max_skill = 7
+	loyalty = 1.00
+	picture = USA22
+	add_trait = superior_tactician
+	add_trait = blockade_runner
+	history = {
+		2003.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+75922 = {
+	name = "马克·弗格森三世"
+	country = USA
+	type = sea
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = USA23
+	add_trait = seawolf
+	add_trait = superior_tactician
+	history = {
+		2003.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+75923 = {
+	name = "威廉·戈特尼"
+	country = USA
+	type = sea
+	skill = 3
+	max_skill = 5
+	loyalty = 1.00
+	picture = USA24
+	add_trait = seawolf
+	add_trait = superior_tactician
+	history = {
+		2003.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+75924 = {
+	name = "布鲁斯·克林根"
+	country = USA
+	type = sea
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = USA25
+	add_trait = seawolf
+	history = {
+		2003.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+75925 = {
+	name = "哈利·哈里斯"
+	country = USA
+	type = land
+	skill = 2
+	max_skill = 4
+	loyalty = 1.00
+	picture = USA26
+	add_trait = winter_specialist
+	history = {
+		2003.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+75926 = {
+	name = "约翰·理查德森"
+	country = USA
+	type = sea
+	skill = 2
+	max_skill = 8
+	loyalty = 1.00
+	picture = USA27
+	add_trait = seawolf
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+75927 = {
+	name = "詹姆斯·阿莫斯"
+	country = USA
+	type = land
+	skill = 3
+	max_skill = 5
+	loyalty = 1.00
+	picture = USA28
+	add_trait = engineer
+	add_trait = fortress_buster
+	history = {
+		2003.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+75928 = {
+	name = "约翰·帕克斯顿二世"
+	country = USA
+	type = land
+	skill = 4
+	max_skill = 5
+	loyalty = 1.00
+	picture = USA29
+	add_trait = winter_specialist
+	add_trait = versatile
+	history = {
+		2003.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+		2003.1.1 = { rank = 4 }
+	}
+}
+75929 = {
+	name = "马克·威尔什三世"
+	country = USA
+	type = air
+	skill = 5
+	max_skill = 8
+	loyalty = 1.00
+	picture = USA30
+	add_trait = tank_buster
+	add_trait = superior_air_tactician
+	history = {
+		2003.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+75930 = {
+	name = "拉里·斯宾塞"
+	country = USA
+	type = air
+	skill = 5
+	max_skill = 9
+	loyalty = 1.00
+	picture = USA31
+	add_trait = superior_air_tactician
+	add_trait = tank_buster
+	history = {
+		2003.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+75931 = {
+	name = "吉尔马里·侯斯塔奇三世"
+	country = USA
+	type = air
+	skill = 4
+	max_skill = 7
+	loyalty = 1.00
+	picture = USA32
+	add_trait = carpet_bomber
+	add_trait = superior_air_tactician
+	history = {
+		2003.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+75932 = {
+	name = "罗宾·兰德"
+	country = USA
+	type = air
+	skill = 4
+	max_skill = 8
+	loyalty = 1.00
+	picture = USA33
+	add_trait = fleet_destroyer
+	add_trait = superior_air_tactician
+	history = {
+		2003.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+75933 = {
+	name = "珍妮特·沃尔芬巴格"
+	country = USA
+	type = air
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = USA34
+	add_trait = carpet_bomber
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+75934 = {
+	name = "威廉·谢尔顿"
+	country = USA
+	type = air
+	skill = 4
+	max_skill = 8
+	loyalty = 1.00
+	picture = USA35
+	add_trait = carpet_bomber
+	add_trait = superior_air_tactician
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+75935 = {
+	name = "达伦·麦克迪"
+	country = USA
+	type = air
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = USA36
+	add_trait = superior_air_tactician
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+75936 = {
+	name = "赫伯特·卡莱尔"
+	country = USA
+	type = air
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = USA37
+	add_trait = superior_air_tactician
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+75937 = {
+	name = "弗兰克·戈伦茨"
+	country = USA
+	type = air
+	skill = 4
+	max_skill = 9
+	loyalty = 1.00
+	picture = USA38
+	add_trait = night_flyer
+	add_trait = superior_air_tactician
+	history = {
+		2003.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+75938 = {
+	name = "罗伯特·帕普"
+	country = USA
+	type = land
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = USA39
+	add_trait = assaulter
+	add_trait = logistics_wizard
+	history = {
+		2003.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+75939 = {
+	name = "高京柱"
+	country = USA
+	type = land
+	skill = 0
+	max_skill = 2
+	loyalty = 1.00
+	picture = USA40
+	add_trait = logistics_wizard
+	history = {
+		2003.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+75940 = {
+	name = "马克·霍华德"
+	country = USA
+	type = sea
+	skill = 3
+	max_skill = 5
+	loyalty = 1.00
+	picture = USA41
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+75941 = {
+	name = "米歇尔·霍华德"
+	country = USA
+	type = sea
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = USA42
+	add_trait = seawolf
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+75942 = {
+	name = "保罗·楚孔夫特"
+	country = USA
+	type = land
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = USA43
+	add_trait = logistics_wizard
+	history = {
+		2003.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+75943 = {
+	name = "约翰·海登"
+	country = USA
+	type = air
+	skill = 5
+	max_skill = 9
+	loyalty = 1.00
+	picture = USA44
+	add_trait = superior_air_tactician
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+75944 = {
+	name = "迈克尔·巴士拉"
+	country = USA
+	type = air
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = USA45
+	add_trait = superior_air_tactician
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+75945 = {
+	name = "斯蒂芬·穆勒"
+	country = USA
+	type = air
+	skill = 4
+	max_skill = 8
+	loyalty = 1.00
+	picture = USA46
+	add_trait = fleet_destroyer
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+75946 = {
+	name = "查尔斯·戴维斯"
+	country = USA
+	type = air
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = USA47
+	add_trait = superior_air_tactician
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+75947 = {
+	name = "斯蒂芬·胡格"
+	country = USA
+	type = air
+	skill = 4
+	max_skill = 7
+	loyalty = 1.00
+	picture = USA48
+	add_trait = superior_air_tactician
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+75948 = {
+	name = "塞缪尔·考克斯"
+	country = USA
+	type = air
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = USA49
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+75949 = {
+	name = "罗伯特·奥托"
+	country = USA
+	type = air
+	skill = 4
+	max_skill = 7
+	loyalty = 1.00
+	picture = USA50
+	add_trait = tank_buster
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+75950 = {
+	name = "伯顿·菲尔德"
+	country = USA
+	type = air
+	skill = 4
+	max_skill = 6
+	loyalty = 1.00
+	picture = USA51
+	add_trait = superior_air_tactician
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+75951 = {
+	name = "朱迪思·菲德尔"
+	country = USA
+	type = air
+	skill = 4
+	max_skill = 8
+	loyalty = 1.00
+	picture = USA52
+	add_trait = tank_buster
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+75952 = {
+	name = "迈克尔·莫勒"
+	country = USA
+	type = air
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = USA53
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+75953 = {
+	name = "理查德·哈定"
+	country = USA
+	type = land
+	skill = 1
+	max_skill = 3
+	loyalty = 1.00
+	picture = USA54
+	add_trait = logistics_wizard
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+75954 = {
+	name = "托马斯·特拉维斯"
+	country = USA
+	type = air
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = USA55
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+75955 = {
+	name = "詹姆斯·杰克逊"
+	country = USA
+	type = air
+	skill = 2
+	max_skill = 8
+	loyalty = 1.00
+	picture = USA56
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+75956 = {
+	name = "斯坦利·克拉克三世"
+	country = USA
+	type = air
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = USA57
+	add_trait = tank_buster
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+75957 = {
+	name = "洛莉·罗宾逊"
+	country = USA
+	type = air
+	skill = 3
+	max_skill = 6
+	loyalty = 1.00
+	picture = USA58
+	add_trait = carpet_bomber
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+75958 = {
+	name = "詹姆斯·霍尔姆斯"
+	country = USA
+	type = air
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = USA59
+	add_trait = trainer
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+75959 = {
+	name = "斯蒂芬·威尔逊"
+	country = USA
+	type = air
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = USA60
+	add_trait = carpet_bomber
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+75960 = {
+	name = "安德鲁·布施"
+	country = USA
+	type = air
+	skill = 2
+	max_skill = 8
+	loyalty = 1.00
+	picture = USA61
+	add_trait = fleet_destroyer
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+75961 = {
+	name = "约翰·海顿"
+	country = USA
+	type = air
+	skill = 4
+	max_skill = 8
+	loyalty = 1.00
+	picture = USA62
+	add_trait = fleet_destroyer
+	add_trait = carpet_bomber
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+75962 = {
+	name = "恩里克·费尔"
+	country = USA
+	type = air
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = USA63
+	add_trait = fleet_destroyer
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+75963 = {
+	name = "布鲁克斯·巴什"
+	country = USA
+	type = air
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = USA64
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+75964 = {
+	name = "斯坦利·克雷斯吉"
+	country = USA
+	type = air
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = USA65
+	add_trait = fleet_destroyer
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+75965 = {
+	name = "诺埃尔·琼斯"
+	country = USA
+	type = air
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = USA66
+	add_trait = night_flyer
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+75966 = {
+	name = "米歇尔·约翰逊"
+	country = USA
+	type = air
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = USA67
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+75967 = {
+	name = "威廉·埃特尔"
+	country = USA
+	type = air
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = USA68
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+75968 = {
+	name = "卡尔·哈特"
+	country = USA
+	type = air
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = USA69
+	add_trait = carpet_bomber
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+75969 = {
+	name = "萨尔瓦托·安杰莱拉"
+	country = USA
+	type = air
+	skill = 3
+	max_skill = 3
+	loyalty = 1.00
+	picture = USA70
+	add_trait = night_flyer
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+75970 = {
+	name = "简-马克·乔亚斯"
+	country = USA
+	type = air
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = USA71
+	add_trait = tank_buster
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+75971 = {
+	name = "拉塞尔·汉迪"
+	country = USA
+	type = air
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = USA72
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+75972 = {
+	name = "托德·沃尔特斯"
+	country = USA
+	type = air
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = USA73
+	add_trait = tank_buster
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+75973 = {
+	name = "约翰·雷蒙德"
+	country = USA
+	type = air
+	skill = 2
+	max_skill = 8
+	loyalty = 1.00
+	picture = USA74
+	add_trait = fleet_destroyer
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+75974 = {
+	name = "芭芭拉·方肯贝里"
+	country = USA
+	type = air
+	skill = 2
+	max_skill = 8
+	loyalty = 1.00
+	picture = USA75
+	add_trait = fleet_destroyer
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+75975 = {
+	name = "约翰·赫斯特曼三世"
+	country = USA
+	type = air
+	skill = 4
+	max_skill = 8
+	loyalty = 1.00
+	picture = USA76
+	add_trait = fleet_destroyer
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+75976 = {
+	name = "布鲁斯·里奇菲尔德"
+	country = USA
+	type = air
+	skill = 4
+	max_skill = 8
+	loyalty = 1.00
+	picture = USA77
+	add_trait = fleet_destroyer
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+75977 = {
+	name = "C·D·摩尔二世"
+	country = USA
+	type = air
+	skill = 4
+	max_skill = 8
+	loyalty = 1.00
+	picture = USA78
+	add_trait = fleet_destroyer
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+75978 = {
+	name = "埃伦·帕里考斯基"
+	country = USA
+	type = air
+	skill = 4
+	max_skill = 8
+	loyalty = 1.00
+	picture = USA79
+	add_trait = fleet_destroyer
+	add_trait = carpet_bomber
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+75979 = {
+	name = "大卫·法多克"
+	country = USA
+	type = air
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = USA80
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+75980 = {
+	name = "约瑟夫·伦吉尔"
+	country = USA
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = USA81
+	add_trait = engineer
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+75981 = {
+	name = "罗尼·霍金斯二世"
+	country = USA
+	type = land
+	skill = 1
+	max_skill = 7
+	loyalty = 1.00
+	picture = USA82
+	add_trait = winter_specialist
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+75982 = {
+	name = "克里斯多夫·博格丹"
+	country = USA
+	type = air
+	skill = 1
+	max_skill = 3
+	loyalty = 1.00
+	picture = USA83
+	add_trait = carpet_bomber
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+75983 = {
+	name = "道格拉斯·罗波"
+	country = USA
+	type = air
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = USA84
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+75984 = {
+	name = "大卫·哥德费恩"
+	country = USA
+	type = air
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = USA85
+	add_trait = frontline_soldier
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+75985 = {
+	name = "马克·拉姆塞"
+	country = USA
+	type = air
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = USA86
+	add_trait = carpet_bomber
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+75986 = {
+	name = "格·拉姆"
+	country = USA
+	type = air
+	skill = 4
+	max_skill = 7
+	loyalty = 1.00
+	picture = USA87
+	add_trait = carpet_bomber
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+75987 = {
+	name = "迈克尔·杜比"
+	country = USA
+	type = air
+	skill = 5
+	max_skill = 9
+	loyalty = 1.00
+	picture = USA88
+	add_trait = carpet_bomber
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+75988 = {
+	name = "迈克尔·舒思勒"
+	country = USA
+	type = air
+	skill = 2
+	max_skill = 8
+	loyalty = 1.00
+	picture = USA89
+	add_trait = tank_buster
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+75989 = {
+	name = "詹姆斯·科瓦尔斯基"
+	country = USA
+	type = air
+	skill = 2
+	max_skill = 8
+	loyalty = 1.00
+	picture = USA90
+	add_trait = tank_buster
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+75990 = {
+	name = "马克·舒思勒"
+	country = USA
+	type = air
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = USA91
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+75991 = {
+	name = "布拉德利·海托尔德"
+	country = USA
+	type = air
+	skill = 1
+	max_skill = 7
+	loyalty = 1.00
+	picture = USA92
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+75992 = {
+	name = "格里高里·比斯科恩"
+	country = USA
+	type = air
+	skill = 1
+	max_skill = 7
+	loyalty = 1.00
+	picture = USA93
+	add_trait = carpet_bomber
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+75993 = {
+	name = "温迪·马谢洛"
+	country = USA
+	type = air
+	skill = 1
+	max_skill = 7
+	loyalty = 1.00
+	picture = USA94
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+75994 = {
+	name = "埃帕里基"
+	country = USA
+	type = air
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = USA95
+	add_trait = tank_buster
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+75995 = {
+	name = "马歇尔·韦伯"
+	country = USA
+	type = air
+	skill = 1
+	max_skill = 7
+	loyalty = 1.00
+	picture = USA96
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+75996 = {
+	name = "詹姆斯"
+	country = USA
+	type = air
+	skill = 2
+	max_skill = 8
+	loyalty = 1.00
+	picture = USA97
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+75997 = {
+	name = "安东尼·罗克"
+	country = USA
+	type = air
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = USA98
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+75998 = {
+	name = "萨缪尔·格里夫斯"
+	country = USA
+	type = air
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = USA99
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+75999 = {
+	name = "卡尔顿·埃弗哈特三世"
+	country = USA
+	type = air
+	skill = 2
+	max_skill = 8
+	loyalty = 1.00
+	picture = USA100
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+76000 = {
+	name = "达瑞尔·罗伯森"
+	country = USA
+	type = air
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = USA101
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+76001 = {
+	name = "约翰·汤普森"
+	country = USA
+	type = air
+	skill = 1
+	max_skill = 8
+	loyalty = 1.00
+	picture = USA102
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+76002 = {
+	name = "克里斯多夫·伯恩"
+	country = USA
+	type = air
+	skill = 1
+	max_skill = 8
+	loyalty = 1.00
+	picture = USA103
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+76003 = {
+	name = "尼·罗克"
+	country = USA
+	type = air
+	skill = 1
+	max_skill = 3
+	loyalty = 1.00
+	picture = USA104
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+76004 = {
+	name = "迪·马洛"
+	country = USA
+	type = air
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = USA105
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+76005 = {
+	name = "拉斯·罗卡波"
+	country = USA
+	type = air
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = USA106
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+76006 = {
+	name = "瑞尔斯.哈"
+	country = USA
+	type = air
+	skill = 1
+	max_skill = 7
+	loyalty = 1.00
+	picture = USA107
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+76007 = {
+	name = "罗伯特·艾布拉姆"
+	country = USA
+	type = land
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = USA108
+	add_trait = offensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+76008 = {
+	name = "雷蒙德·帕伦伯"
+	country = USA
+	type = land
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = USA109
+	add_trait = defensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+76009 = {
+	name = "迈克尔·林宁顿"
+	country = USA
+	type = land
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = USA110
+	add_trait = engineer
+	history = {
+		2003.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+76010 = {
+	name = "斯蒂芬·斯坦利"
+	country = USA
+	type = sea
+	skill = 3
+	max_skill = 6
+	loyalty = 1.00
+	picture = USA111
+	add_trait = seawolf
+	add_trait = superior_tactician
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+76011 = {
+	name = "库尔特·蒂德"
+	country = USA
+	type = sea
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = USA112
+	add_trait = superior_tactician
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+76012 = {
+	name = "约瑟夫·伦吉尔"
+	country = USA
+	type = air
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = USA113
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+76013 = {
+	name = "罗尼·霍金斯二世"
+	country = USA
+	type = air
+	skill = 1
+	max_skill = 3
+	loyalty = 1.00
+	picture = USA114
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+76014 = {
+	name = "迈克尔·弗林"
+	country = USA
+	type = land
+	skill = 1
+	max_skill = 4
+	loyalty = 1.00
+	picture = USA115
+	add_trait = winter_specialist
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+76015 = {
+	name = "迈克尔·威廉姆森"
+	country = USA
+	type = land
+	skill = 0
+	max_skill = 3
+	loyalty = 1.00
+	picture = USA116
+	add_trait = logistics_wizard
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+76016 = {
+	name = "约瑟夫·马特兹"
+	country = USA
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 1.00
+	picture = USA117
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+76017 = {
+	name = "皮特·旺杰尔"
+	country = USA
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = USA118
+	add_trait = commando
+	history = {
+		2003.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+76018 = {
+	name = "托马斯·施珀尔"
+	country = USA
+	type = land
+	skill = 0
+	max_skill = 3
+	loyalty = 1.00
+	picture = USA119
+	add_trait = logistics_wizard
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+76019 = {
+	name = "罗伯特·费雷尔"
+	country = USA
+	type = land
+	skill = 0
+	max_skill = 3
+	loyalty = 1.00
+	picture = USA120
+	add_trait = trickster
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+76020 = {
+	name = "威廉·格里索里"
+	country = USA
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 1.00
+	picture = USA121
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+76021 = {
+	name = "霍华德·布朗伯格"
+	country = USA
+	type = land
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = USA122
+	history = {
+		2003.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+76022 = {
+	name = "玛丽·兰吉尔"
+	country = USA
+	type = land
+	skill = 1
+	max_skill = 3
+	loyalty = 1.00
+	picture = USA123
+	add_trait = trickster
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+76023 = {
+	name = "詹姆斯·哈金斯二世"
+	country = USA
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = USA124
+	add_trait = commando
+	history = {
+		2003.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+76024 = {
+	name = "雷蒙德·梅森"
+	country = USA
+	type = land
+	skill = 0
+	max_skill = 3
+	loyalty = 1.00
+	picture = USA125
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+76025 = {
+	name = "詹姆斯·巴克莱三世"
+	country = USA
+	type = land
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = USA126
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+76026 = {
+	name = "大卫·霍尔沃森"
+	country = USA
+	type = land
+	skill = 1
+	max_skill = 9
+	loyalty = 1.00
+	picture = USA127
+	add_trait = learners_will
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+76027 = {
+	name = "弗罗拉·达皮诺"
+	country = USA
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = USA128
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+76028 = {
+	name = "帕特丽夏·霍若霍"
+	country = USA
+	type = land
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = USA129
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+76029 = {
+	name = "杰弗里·塔利"
+	country = USA
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = USA130
+	add_trait = trainer
+	history = {
+		2003.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+76030 = {
+	name = "贾德·莱昂斯"
+	country = USA
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = USA131
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+76031 = {
+	name = "阿克曼·罗德尼"
+	country = USA
+	type = land
+	skill = 3
+	max_skill = 5
+	loyalty = 1.00
+	picture = USA132
+	add_trait = assaulter
+	history = {
+		2003.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+76032 = {
+	name = "凯文·曼格姆"
+	country = USA
+	type = land
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = USA133
+	history = {
+		2003.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+76033 = {
+	name = "罗伯特·布朗"
+	country = USA
+	type = land
+	skill = 3
+	max_skill = 5
+	loyalty = 1.00
+	picture = USA134
+	history = {
+		2003.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+76034 = {
+	name = "基斯·沃克"
+	country = USA
+	type = land
+	skill = 3
+	max_skill = 5
+	loyalty = 1.00
+	picture = USA135
+	add_trait = offensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+76035 = {
+	name = "帕特丽夏·麦奎森"
+	country = USA
+	type = land
+	skill = 0
+	max_skill = 8
+	loyalty = 1.00
+	picture = USA136
+	add_trait = logistics_wizard
+	history = {
+		2003.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+76036 = {
+	name = "迈克尔·塔克"
+	country = USA
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = USA137
+	history = {
+		2003.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+76037 = {
+	name = "詹姆斯·特里"
+	country = USA
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = USA138
+	history = {
+		2003.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+76038 = {
+	name = "威廉·考德威尔四世"
+	country = USA
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = USA139
+	add_trait = commando
+	history = {
+		2003.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+76039 = {
+	name = "唐纳德·坎贝尔二世"
+	country = USA
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = USA140
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+76040 = {
+	name = "伯纳德·尚普"
+	country = USA
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = USA141
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+76041 = {
+	name = "大卫·曼"
+	country = USA
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = USA142
+	history = {
+		2003.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+76042 = {
+	name = "查尔斯·克利夫兰"
+	country = USA
+	type = land
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = USA143
+	add_trait = commando
+	history = {
+		2003.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+76043 = {
+	name = "爱德华·卡顿"
+	country = USA
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 1.00
+	picture = USA144
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+76044 = {
+	name = "托马斯·博斯蒂克"
+	country = USA
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 1.00
+	picture = USA145
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+76045 = {
+	name = "罗伯特·卡斯伦二世"
+	country = USA
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 1.00
+	picture = USA146
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+76046 = {
+	name = "斯蒂芬·兰萨"
+	country = USA
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 1.00
+	picture = USA147
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+76047 = {
+	name = "马克·米莱"
+	country = USA
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 1.00
+	picture = USA148
+	add_trait = commando
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+76048 = {
+	name = "约瑟夫·安德森"
+	country = USA
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 1.00
+	picture = USA149
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+76049 = {
+	name = "康芒斯·莱斯特"
+	country = USA
+	type = land
+	skill = 3
+	max_skill = 5
+	loyalty = 1.00
+	picture = USA150
+	history = {
+		2003.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+76050 = {
+	name = "埃文·乔治"
+	country = USA
+	type = land
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = USA151
+	history = {
+		2003.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 1 }
+	}
+}
+76051 = {
+	name = "雷蒙德·奎克"
+	country = USA
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = USA152
+	history = {
+		2003.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+76052 = {
+	name = "罗德尼·马南"
+	country = USA
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 1.00
+	picture = USA153
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+76053 = {
+	name = "约翰·约翰逊"
+	country = USA
+	type = land
+	skill = 3
+	max_skill = 5
+	loyalty = 1.00
+	picture = USA154
+	history = {
+		2003.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+76054 = {
+	name = "约翰·贝德纳雷克"
+	country = USA
+	type = land
+	skill = 2
+	max_skill = 3
+	loyalty = 1.00
+	picture = USA155
+	history = {
+		2003.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+76055 = {
+	name = "威廉·梅维尔二世"
+	country = USA
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 1.00
+	picture = USA156
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+76056 = {
+	name = "马克·鲍曼"
+	country = USA
+	type = land
+	skill = 0
+	max_skill = 3
+	loyalty = 1.00
+	picture = USA157
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+76057 = {
+	name = "约瑟夫·沃特尔"
+	country = USA
+	type = land
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = USA158
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+76058 = {
+	name = "约翰·莫尔霍兰二世"
+	country = USA
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = USA159
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+76059 = {
+	name = "肯尼思·托沃"
+	country = USA
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 1.00
+	picture = USA160
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+76060 = {
+	name = "西奥多·尼古拉斯"
+	country = USA
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 1.00
+	picture = USA161
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+76061 = {
+	name = "雷蒙德·托马斯三世"
+	country = USA
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 1.00
+	picture = USA162
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+76062 = {
+	name = "大卫·霍格"
+	country = USA
+	type = land
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = USA163
+	history = {
+		2003.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+76063 = {
+	name = "弗雷德里克·霍奇斯"
+	country = USA
+	type = land
+	skill = 3
+	max_skill = 5
+	loyalty = 1.00
+	picture = USA164
+	history = {
+		2003.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+76064 = {
+	name = "丹尼尔·博尔杰"
+	country = USA
+	type = land
+	skill = 0
+	max_skill = 6
+	loyalty = 1.00
+	picture = USA165
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+76065 = {
+	name = "帕特里克·多纳林"
+	country = USA
+	type = land
+	skill = 0
+	max_skill = 3
+	loyalty = 1.00
+	picture = USA166
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+76066 = {
+	name = "安东尼·克拉奇菲尔德"
+	country = USA
+	type = land
+	skill = 0
+	max_skill = 3
+	loyalty = 1.00
+	picture = USA167
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+76067 = {
+	name = "古斯塔夫·佩纳"
+	country = USA
+	type = land
+	skill = 0
+	max_skill = 4
+	loyalty = 1.00
+	picture = USA168
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+76068 = {
+	name = "詹姆斯·麦康维尔"
+	country = USA
+	type = land
+	skill = 0
+	max_skill = 6
+	loyalty = 1.00
+	picture = USA169
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+76069 = {
+	name = "帕特里克·萨克里克"
+	country = USA
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 1.00
+	picture = USA170
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+76070 = {
+	name = "赫伯特·麦克马斯特二世"
+	country = USA
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 1.00
+	picture = USA171
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+76071 = {
+	name = "威廉·加勒特三世"
+	country = USA
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 1.00
+	picture = USA172
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+76072 = {
+	name = "凯伦·戴森"
+	country = USA
+	type = land
+	skill = 0
+	max_skill = 6
+	loyalty = 1.00
+	picture = USA173
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+76073 = {
+	name = "查普林·塞西尔"
+	country = USA
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 1.00
+	picture = USA174
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+76074 = {
+	name = "扬·克莱夫"
+	country = USA
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 1.00
+	picture = USA175
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+76075 = {
+	name = "韦尔斯.坎贝尔"
+	country = USA
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 1.00
+	picture = USA176
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+76076 = {
+	name = "豪斯.纳尔森"
+	country = USA
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 1.00
+	picture = USA177
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+76077 = {
+	name = "乔叟.库克"
+	country = USA
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 1.00
+	picture = USA178
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+76078 = {
+	name = "福斯特.瓦伦"
+	country = USA
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 1.00
+	picture = USA179
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+76079 = {
+	name = "鲁珀特"
+	country = USA
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 1.00
+	picture = USA180
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+76080 = {
+	name = "杰弗里.克拉克"
+	country = USA
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 1.00
+	picture = USA181
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+76081 = {
+	name = "特温.鲁珀特"
+	country = USA
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 1.00
+	picture = USA182
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+76082 = {
+	name = "安德鲁.伦纳德"
+	country = USA
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 1.00
+	picture = USA183
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+76083 = {
+	name = "史蒂文森.邓肯"
+	country = USA
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = USA184
+	add_trait = engineer
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+76084 = {
+	name = "瓦伦丁.加里"
+	country = USA
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 1.00
+	picture = USA185
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+76085 = {
+	name = "凯南.乔治"
+	country = USA
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 1.00
+	picture = USA186
+	add_trait = engineer
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+76086 = {
+	name = "马塞勒斯.杰拉德"
+	country = USA
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 1.00
+	picture = USA187
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+76087 = {
+	name = "泽弗奈亚.克拉克"
+	country = USA
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 1.00
+	picture = USA188
+	add_trait = offensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+76088 = {
+	name = "安托瓦妮特.莱斯利"
+	country = USA
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 1.00
+	picture = USA189
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+76089 = {
+	name = "吐温.邓肯"
+	country = USA
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 1.00
+	picture = USA190
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+76090 = {
+	name = "布尔韦尔.布尔沃"
+	country = USA
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 1.00
+	picture = USA191
+	add_trait = offensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+76091 = {
+	name = "伯恩斯.杰克逊"
+	country = USA
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 1.00
+	picture = USA192
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+76092 = {
+	name = "拉铁摩尔.威廉姆斯"
+	country = USA
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 1.00
+	picture = USA193
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+76093 = {
+	name = "戴维德"
+	country = USA
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 1.00
+	picture = USA194
+	add_trait = logistics_wizard
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+76094 = {
+	name = "诺厄.瓦伦"
+	country = USA
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 1.00
+	picture = USA195
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+76095 = {
+	name = "杜勒斯.塞西尔 "
+	country = USA
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 1.00
+	picture = USA196
+	add_trait = logistics_wizard
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+76096 = {
+	name = "本森.伦纳德 "
+	country = USA
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 1.00
+	picture = USA197
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+76097 = {
+	name = "丹尼斯.亚当斯"
+	country = USA
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 1.00
+	picture = USA198
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+76098 = {
+	name = "瓦奥莱特.伦纳德"
+	country = USA
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 1.00
+	picture = USA199
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+76099 = {
+	name = "福斯特.泰勒 "
+	country = USA
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 1.00
+	picture = USA200
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+76100 = {
+	name = "杰弗里.哈里斯"
+	country = USA
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 1.00
+	picture = USA201
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+76101 = {
+	name = "沙逊.鲁珀特"
+	country = USA
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 1.00
+	picture = USA202
+	add_trait = old_guard
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+76102 = {
+	name = "多宾.阿诺德"
+	country = USA
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 1.00
+	picture = USA203
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+76103 = {
+	name = "伯特.哈里斯"
+	country = USA
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 1.00
+	picture = USA204
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+76104 = {
+	name = "尤菲米娅.邓肯 "
+	country = USA
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 1.00
+	picture = USA205
+	add_trait = defensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+76105 = {
+	name = "克雷吉.阿诺德"
+	country = USA
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 1.00
+	picture = USA206
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+76106 = {
+	name = "罗伯特·米尔斯特德二世"
+	country = USA
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 1.00
+	picture = USA207
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+76107 = {
+	name = "罗纳德·贝利"
+	country = USA
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 1.00
+	picture = USA208
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+76108 = {
+	name = "威廉·福克纳"
+	country = USA
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 1.00
+	picture = USA209
+	add_trait = defensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+76109 = {
+	name = "格伦·沃尔特斯"
+	country = USA
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 1.00
+	picture = USA210
+	add_trait = desert_fox
+	history = {
+		2003.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+76110 = {
+	name = "罗伯特·施密德尔二世"
+	country = USA
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = USA211
+	add_trait = fortress_buster
+	history = {
+		2003.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+76111 = {
+	name = "肯尼思·格卢克二世"
+	country = USA
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 1.00
+	picture = USA212
+	add_trait = logistics_wizard
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+76112 = {
+	name = "理查德·泰伦"
+	country = USA
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = USA213
+	add_trait = logistics_wizard
+	history = {
+		2003.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+76113 = {
+	name = "托马斯·罗柏林"
+	country = USA
+	type = land
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = USA214
+	add_trait = logistics_wizard
+	add_trait = old_guard
+	history = {
+		2003.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+76114 = {
+	name = "罗伯特·内勒"
+	country = USA
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 1.00
+	picture = USA215
+	add_trait = old_guard
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+76115 = {
+	name = "理查德·米尔斯"
+	country = USA
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = USA216
+	add_trait = old_guard
+	history = {
+		2003.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+76116 = {
+	name = "约翰·图兰二世"
+	country = USA
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 1.00
+	picture = USA217
+	add_trait = engineer
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+76117 = {
+	name = "约翰·惠斯勒"
+	country = USA
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 1.00
+	picture = USA218
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+76118 = {
+	name = "罗伯特·若尔克"
+	country = USA
+	type = land
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = USA219
+	add_trait = logistics_wizard
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+76119 = {
+	name = "托马斯·瓦尔德豪泽"
+	country = USA
+	type = land
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = USA220
+	history = {
+		2003.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+76120 = {
+	name = "托马斯·科南特"
+	country = USA
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 1.00
+	picture = USA221
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+76121 = {
+	name = "斯蒂芬·赫默"
+	country = USA
+	type = land
+	skill = 2
+	max_skill = 8
+	loyalty = 1.00
+	picture = USA222
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+76122 = {
+	name = "约翰·戴维斯"
+	country = USA
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 1.00
+	picture = USA223
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+76123 = {
+	name = "约翰·戴维斯"
+	country = USA
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = USA224
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+76124 = {
+	name = "罗伯特·内勒"
+	country = USA
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = USA225
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+76125 = {
+	name = "约翰·图兰二世"
+	country = USA
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 1.00
+	picture = USA226
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+76126 = {
+	name = "肯尼思·麦肯齐二世"
+	country = USA
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 1.00
+	picture = USA227
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+76127 = {
+	name = "保罗·罗斯克赖格斯"
+	country = USA
+	type = sea
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = USA228
+	add_trait = blockade_runner
+	add_trait = superior_tactician
+	history = {
+		2003.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+76128 = {
+	name = "詹姆斯·考德威尔二世"
+	country = USA
+	type = sea
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = USA229
+	add_trait = seawolf
+	add_trait = superior_tactician
+	history = {
+		2003.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+76129 = {
+	name = "特里·本尼迪克特"
+	country = USA
+	type = sea
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = USA230
+	add_trait = superior_tactician
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+76130 = {
+	name = "斯科特·斯威夫特"
+	country = USA
+	type = sea
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = USA231
+	add_trait = superior_tactician
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+76131 = {
+	name = "威廉·莫兰"
+	country = USA
+	type = sea
+	skill = 2
+	max_skill = 8
+	loyalty = 1.00
+	picture = USA232
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+76132 = {
+	name = "泰德·布兰奇"
+	country = USA
+	type = sea
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = USA233
+	add_trait = superior_tactician
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+76133 = {
+	name = "泰德·莫兰奇"
+	country = USA
+	type = sea
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = USA234
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+76134 = {
+	name = "菲利普·库洛姆"
+	country = USA
+	type = sea
+	skill = 4
+	max_skill = 6
+	loyalty = 1.00
+	picture = USA235
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+76135 = {
+	name = "约瑟夫·穆洛伊"
+	country = USA
+	type = sea
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = USA236
+	add_trait = learners_will
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+76136 = {
+	name = "约瑟夫·奥克英"
+	country = USA
+	type = sea
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = USA237
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+76137 = {
+	name = "马修·纳森"
+	country = USA
+	type = sea
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = USA238
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+76138 = {
+	name = "纳内特·德伦兹"
+	country = USA
+	type = sea
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = USA239
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+76139 = {
+	name = "罗宾·布劳恩"
+	country = USA
+	type = sea
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = USA240
+	add_trait = superior_tactician
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+76140 = {
+	name = "诺拉·泰森"
+	country = USA
+	type = sea
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = USA241
+	history = {
+		2003.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+76141 = {
+	name = "威廉·希拉里戴斯"
+	country = USA
+	type = sea
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = USA242
+	add_trait = blockade_runner
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+76142 = {
+	name = "大卫·达纳韦"
+	country = USA
+	type = sea
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = USA243
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+76143 = {
+	name = "威廉·弗伦奇"
+	country = USA
+	type = sea
+	skill = 2
+	max_skill = 8
+	loyalty = 1.00
+	picture = USA244
+	add_trait = seawolf
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+76144 = {
+	name = "简·泰伊"
+	country = USA
+	type = sea
+	skill = 2
+	max_skill = 8
+	loyalty = 1.00
+	picture = USA245
+	add_trait = seawolf
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+76145 = {
+	name = "肯尼思·佛洛依德"
+	country = USA
+	type = sea
+	skill = 3
+	max_skill = 5
+	loyalty = 1.00
+	picture = USA246
+	add_trait = superior_tactician
+	history = {
+		2003.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+76146 = {
+	name = "约翰·米勒"
+	country = USA
+	type = sea
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = USA247
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+76147 = {
+	name = "菲利普·戴维森"
+	country = USA
+	type = sea
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = USA248
+	add_trait = blockade_runner
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+76148 = {
+	name = "罗伯特·托马斯二世"
+	country = USA
+	type = sea
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = USA249
+	add_trait = seawolf
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+76149 = {
+	name = "汤姆·柯普曼"
+	country = USA
+	type = sea
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = USA250
+	add_trait = superior_tactician
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+76150 = {
+	name = "大卫·巴斯"
+	country = USA
+	type = sea
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = USA251
+	add_trait = spotter
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+76151 = {
+	name = "迈克尔·康纳"
+	country = USA
+	type = sea
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = USA252
+	add_trait = seawolf
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+76152 = {
+	name = "斯彭德.格里芬"
+	country = USA
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = USA253
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+76153 = {
+	name = "布鲁斯特.珀西"
+	country = USA
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = USA254
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+76154 = {
+	name = "泰勒.伊夫林 "
+	country = USA
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = USA255
+	add_trait = defensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+76155 = {
+	name = "福特.加西亚"
+	country = USA
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = USA256
+	add_trait = defensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+76156 = {
+	name = "伍尔夫.贝克"
+	country = USA
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 1.00
+	picture = USA257
+	add_trait = defensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+76157 = {
+	name = "马丁.阿诺德 "
+	country = USA
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = USA258
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+76158 = {
+	name = "克莱尔.基思"
+	country = USA
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = USA259
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+76159 = {
+	name = "吉本.克莱夫"
+	country = USA
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = USA260
+	add_trait = fortress_buster
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+76160 = {
+	name = "罗密欧.伦纳德"
+	country = USA
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = USA261
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+76161 = {
+	name = "梅斯菲尔德.阿诺德 "
+	country = USA
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 1.00
+	picture = USA262
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+76162 = {
+	name = "舍伍德.戴维德"
+	country = USA
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 1.00
+	picture = USA263
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+76163 = {
+	name = "佩恩.克莱夫"
+	country = USA
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 1.00
+	picture = USA264
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+76164 = {
+	name = "斯诺.霍尔"
+	country = USA
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 1.00
+	picture = USA265
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+76165 = {
+	name = "卡拉米.伦纳德"
+	country = USA
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 1.00
+	picture = USA266
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+76166 = {
+	name = "乔丹.坎贝尔"
+	country = USA
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 1.00
+	picture = USA267
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+76167 = {
+	name = "卡罗琳.奎克"
+	country = USA
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = USA268
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+76168 = {
+	name = "休斯敦.珀西"
+	country = USA
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = USA269
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+76169 = {
+	name = "乔舒亚.斯科特"
+	country = USA
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 1.00
+	picture = USA270
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+76170 = {
+	name = "亚历山大.基思"
+	country = USA
+	type = land
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = USA271
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+76171 = {
+	name = "伯克.杰克逊"
+	country = USA
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = USA272
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+76172 = {
+	name = "鲍恩.沃克"
+	country = USA
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = USA273
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+76173 = {
+	name = "德育.沃克"
+	country = USA
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 1.00
+	picture = USA274
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+76174 = {
+	name = "杜鲁门.贾尔斯"
+	country = USA
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 1.00
+	picture = USA275
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+76175 = {
+	name = "杰弗里.查尔斯"
+	country = USA
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 1.00
+	picture = USA276
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+76176 = {
+	name = "尤利塞斯.斯科特"
+	country = USA
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 1.00
+	picture = USA277
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+76177 = {
+	name = "杰弗里.查尔斯"
+	country = USA
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 1.00
+	picture = USA278
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+76178 = {
+	name = "希尔.伊夫林"
+	country = USA
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 1.00
+	picture = USA279
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+76179 = {
+	name = "迪福.弗格斯"
+	country = USA
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 1.00
+	picture = USA280
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+76180 = {
+	name = "吉布森.阿诺德"
+	country = USA
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 1.00
+	picture = USA281
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+76181 = {
+	name = "多萝西娅.查尔斯"
+	country = USA
+	type = air
+	skill = 0
+	max_skill = 5
+	loyalty = 1.00
+	picture = USA282
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+76182 = {
+	name = "亚伯拉罕.欧文"
+	country = USA
+	type = air
+	skill = 0
+	max_skill = 5
+	loyalty = 1.00
+	picture = USA283
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+76183 = {
+	name = "泰勒.安德森"
+	country = USA
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 1.00
+	picture = USA284
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+76184 = {
+	name = "格罗特.加里"
+	country = USA
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 1.00
+	picture = USA285
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+76185 = {
+	name = "凯南.特纳"
+	country = USA
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 1.00
+	picture = USA286
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}

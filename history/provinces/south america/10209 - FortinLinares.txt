@@ -1,0 +1,6 @@
+owner = PAR
+controller = PAR
+add_core = PAR
+infra = 2
+air_base = 3 #Argana airbase
+ 

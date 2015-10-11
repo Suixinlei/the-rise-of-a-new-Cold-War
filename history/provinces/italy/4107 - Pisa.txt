@@ -1,0 +1,7 @@
+owner = ITA
+controller = ITA
+add_core = ITA
+
+infra = 10
+air_base = 6 #Pisa and Sarzana airbase
+points = 1

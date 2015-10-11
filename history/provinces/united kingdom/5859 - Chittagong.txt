@@ -1,0 +1,11 @@
+owner = BAN
+controller = BAN
+add_core = BAN
+
+infra = 6
+
+
+air_base = 1 #Chittagon airbase
+naval_base = 10 #Chittagong port
+leadership = 2.50
+points = 1

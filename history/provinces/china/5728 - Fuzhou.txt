@@ -1,0 +1,15 @@
+owner = CHC
+
+controller = CHC
+
+ 
+add_core = CHC
+
+infra = 9
+
+energy = 20.00
+naval_base = 5
+air_base = 2 #Fuzhou and Longtian airbase
+radar_station = 5
+points = 1
+industry = 10

@@ -1,0 +1,50 @@
+capital = 2562
+government = republic
+ideology = social_democrat
+alignment = { x = -40 y = -59.5 }
+neutrality = 80
+national_unity = 70
+2008.1.1 = { join_faction = allies } 
+
+oob = "CZE_2000.txt"
+
+popularity = { 
+	national_socialist = 0
+	fascistic = 0
+	paternal_autocrat = 1
+	social_conservative = 14
+	market_liberal = 25
+	social_liberal = 1
+	social_democrat = 30
+	left_wing_radical = 0
+	leninist = 0
+	stalinist = 19
+}
+
+organization = { 
+	national_socialist = 0
+	fascistic = 0
+	paternal_autocrat = 3
+	social_conservative = 42
+	market_liberal = 75
+	social_liberal = 3
+	social_democrat = 90
+	left_wing_radical = 0
+	leninist = 0
+	stalinist = 57
+}
+
+conscription_policy = military_service
+press_laws = free_press
+mobilisation_level = peace_time
+civil_laws = open_society
+economic_policy = lais_fair
+service_length = six_months
+
+industrial_facilities = 1
+industral_production = 1
+industral_efficiency = 1
+weapon_design = 1
+the_fuselage_design = 1
+main_battle_tank = 1
+ship_hull = 1

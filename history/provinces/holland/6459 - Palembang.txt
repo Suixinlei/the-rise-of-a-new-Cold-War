@@ -1,0 +1,8 @@
+owner = INO
+controller = INO
+add_core = INO
+
+infra = 6
+
+
+points = 1

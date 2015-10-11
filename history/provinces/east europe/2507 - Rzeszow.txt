@@ -1,0 +1,8 @@
+owner = POL
+controller = POL
+add_core = POL
+
+infra = 8
+
+air_base = 1 #Nowa Deba airbase
+points = 1

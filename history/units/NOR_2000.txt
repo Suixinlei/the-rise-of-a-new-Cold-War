@@ -1,0 +1,99 @@
+theatre = {
+	name = "Forsvaret"
+	location = 812
+	regiment = { type = hq_brigade name = "Forsvaret" historical_model = 2 }
+	corps = {
+		name = "Haeren"
+		location = 812
+		regiment = { type = hq_brigade name = "Haeren Kommando" historical_model = 2 }
+		division = {
+			is_reserve = yes
+			name = "Brigade Nord"
+			location = 38
+			regiment = { type = armor_brigade name = "Panserbataljonen" historical_model = 0 }
+			regiment = { type = mechanized_brigade name = "Telemark Bataljonen" historical_model = 1 }
+			regiment = { type = infantry_brigade name = "2. Bataljon" historical_model = 2 }
+		}
+		division = {
+			is_reserve = yes
+			name = "Hans Majestet Kongens Garde"
+			location = 812
+			regiment = { type = garrison_brigade name = "Hans Majestet Kongens Garde" historical_model = 2 }
+		}
+		division = {
+			is_reserve = yes
+			name = "Haerens Jegerkommando"
+			location = 812
+			regiment = { type = special_forces_brigade name = "Haerens Jegerkommando" historical_model = 2 }
+		}
+	}
+	
+	navy = {
+		name = "Foerste Ubåt Skvadron"
+		base = 812
+		location = 812
+		ship = { type = submarine name = "Ula" historical_model = 0 }
+		ship = { type = submarine name = "Utsira" historical_model = 0 }
+		ship = { type = submarine name = "Utstein" historical_model = 0 }
+		ship = { type = submarine name = "Utvaer" historical_model = 0 }
+		ship = { type = submarine name = "Uthaug" historical_model = 0 }
+		ship = { type = submarine name = "Uredd" historical_model = 0 }
+	}
+	
+	navy = {
+		name = "Norske Fregatter"
+		base = 812
+		location = 812
+		ship = { type = heavy_cruiser name = "Bergen" historical_model = 0 }
+		ship = { type = heavy_cruiser name = "Trondheim" historical_model = 0 }
+		ship = { type = heavy_cruiser name = "Narvik" historical_model = 0 }
+	}
+	
+	navy = {
+		name = "Kystnaere Korvetter"
+		base = 812
+		location = 812
+		ship = { type = patrol_boat name = "Skjold" historical_model = 2 }
+		ship = { type = patrol_boat name = "Glimt" historical_model = 2 }
+		ship = { type = patrol_boat name = "Gnist" historical_model = 2 }
+	}
+	
+	navy = {
+		name = "Hauk Klasse Patruljebåter"
+		base = 812
+		location = 812
+		ship = { type = patrol_boat name = "Hauk" historical_model = 0 }
+		ship = { type = patrol_boat name = "Oern" historical_model = 0 }
+		ship = { type = patrol_boat name = "Terne" historical_model = 0 }
+		ship = { type = patrol_boat name = "Tjeld" historical_model = 0 }
+		ship = { type = patrol_boat name = "Skarv" historical_model = 0 }
+		ship = { type = patrol_boat name = "Teist" historical_model = 0 }
+		ship = { type = patrol_boat name = "Jo" historical_model = 0 }
+		ship = { type = patrol_boat name = "Lom" historical_model = 0 }
+		ship = { type = patrol_boat name = "Stegg" historical_model = 0 }
+		ship = { type = patrol_boat name = "Falk" historical_model = 0 }
+		ship = { type = patrol_boat name = "Ravn" historical_model = 0 }
+		ship = { type = patrol_boat name = "Gribb" historical_model = 0 }
+		ship = { type = patrol_boat name = "Geir" historical_model = 0 }
+		ship = { type = patrol_boat name = "Erle" historical_model = 0 }
+	}
+	
+	air = {
+		name = "132 Luft Floeyen"
+		base = 291
+		location = 291
+		wing = { type = multi_role name = "331 Skvadron" historical_model = 0 }
+		wing = { type = multi_role name = "332 Skvadron" historical_model = 0 }
+	}
+	
+	air = {	
+		name = "133 Luft Floeyen"
+		base = 37
+		location = 37
+		wing = { type = interceptor name = "333 Skvadron" historical_model = 0 }
+	}
+}
+		
+		
+		
+		

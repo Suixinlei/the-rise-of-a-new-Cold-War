@@ -1,0 +1,6 @@
+owner = FRA
+controller = FRA
+add_core = FRA
+crude_oil = 1.00
+infra = 9
+air_base = 5 #Istres-Le Tube Airbase and Marseille airport

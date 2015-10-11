@@ -1,0 +1,5 @@
+owner = VIE
+controller = VIE
+add_core = VIE
+add_core = CMB
+infra = 6

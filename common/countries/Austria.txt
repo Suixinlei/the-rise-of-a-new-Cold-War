@@ -1,0 +1,130 @@
+color = { 124  78  75 }
+graphical_culture = German
+last_election = 1999.10.3
+duration = 48
+
+default_templates = {
+	generic_infantry = {
+		infantry_brigade
+		infantry_brigade
+		infantry_brigade
+	}
+	generic_milita = {
+		militia_brigade
+		militia_brigade
+		militia_brigade
+	}
+	generic_armoured = {
+		armor_brigade
+		motorized_brigade
+		motorized_brigade
+	}
+	generic_cavalry = {
+		cavalry_brigade
+		cavalry_brigade
+	}
+}
+
+unit_names = {
+	infantry_brigade = {
+		"1. Infantriedivision" "2. Infantriedivision" "3. Infantriedivision" "4. Infantriedivision" "5. Infantriedivision" "6. Infantriedivision" "7. Infantriedivision" "8. Infantriedivision" "9. Infantriedivision" "10. Infantriedivision" "11. Infantriedivision" 
+		"12. Infantriedivision" "13. Infantriedivision" "14. Infantriedivision" "15. Infantriedivision" "16. Infantriedivision" "17. Infantriedivision" "18. Infantriedivision" "19. Infantriedivision" "20. Infantriedivision" "21. Infantriedivision" "22. Infantriedivision" 
+		"23. Infantriedivision" "24. Infantriedivision" "25. Infantriedivision" "26. Infantriedivision" "27. Infantriedivision" "28. Infantriedivision" "29. Infantriedivision" "30. Infantriedivision" 
+	}
+	cavalry_brigade = {
+		"1. Kavalleriedivision" "2. Kavalleriedivision" "3. Kavalleriedivision" "4. Kavalleriedivision" "5. Kavalleriedivision" "6. Kavalleriedivision" "7. Kavalleriedivision" "8. Kavalleriedivision" "9. Kavalleriedivision" "10. Kavalleriedivision" 
+	}
+	motorized_brigade = {
+		"Kraftfahrjägerdivision" "2. Kraftfahrjägerdivision" "3. Kraftfahrjägerdivision" "4. Kraftfahrjägerdivision" "5. Kraftfahrjägerdivision" "6. Kraftfahrjägerdivision" "7. Kraftfahrjägerdivision" "8. Kraftfahrjägerdivision" "9. Kraftfahrjägerdivision" "10. Kraftfahrjägerdivision" "11. Kraftfahrjägerdivision" 
+		"12. Kraftfahrjägerdivision" "13. Kraftfahrjägerdivision" "14. Kraftfahrjägerdivision" "15. Kraftfahrjägerdivision" 
+	}
+	mechanized_brigade = {
+		"Schnelledivision" "2. Schnelledivision" "3. Schnelledivision" "4. Schnelledivision" "5. Schnelledivision" "6. Schnelledivision" "7. Schnelledivision" "8. Schnelledivision" "9. Schnelledivision" "10. Schnelledivision" 
+	}
+	light_armor_brigade = {
+		"Panzerwagendivision" "2. Panzerwagendivision" "3. Panzerwagendivision" "4. Panzerwagendivision" "5. Panzerwagendivision" "6. Panzerwagendivision" "7. Panzerwagendivision" "8. Panzerwagendivision" "9. Panzerwagendivision" "10. Panzerwagendivision" "11. Panzerwagendivision" 
+		"12. Panzerwagendivision" "13. Panzerwagendivision" "14. Panzerwagendivision" "15. Panzerwagendivision" 
+	}
+	armor_brigade = {
+		"Panzerwagendivision" "2. Panzerwagendivision" "3. Panzerwagendivision" "4. Panzerwagendivision" "5. Panzerwagendivision" "6. Panzerwagendivision" "7. Panzerwagendivision" "8. Panzerwagendivision" "9. Panzerwagendivision" "10. Panzerwagendivision" "11. Panzerwagendivision" 
+		"12. Panzerwagendivision" "13. Panzerwagendivision" "14. Panzerwagendivision" "15. Panzerwagendivision" 
+	}
+	paratrooper_brigade = {
+		"1. Fallschirmjägerdivision" "2. Fallschirmjägerdivision" "3. Fallschirmjägerdivision" "4. Fallschirmjägerdivision" "5. Fallschirmjägerdivision" "6. Fallschirmjägerdivision" "7. Fallschirmjägerdivision" "8. Fallschirmjägerdivision" "9. Fallschirmjägerdivision" "10. Fallschirmjägerdivision" 
+	}
+	marine_brigade = {
+		"1. Marinestürmdivision" "2. Marinestürmdivision" "3. Marinestürmdivision" "4. Marinestürmdivision" "5. Marinestürmdivision" "6. Marinestürmdivision" "7. Marinestürmdivision" "8. Marinestürmdivision" "9. Marinestürmdivision" "10. Marinestürmdivision" 
+	}
+	bergsjaeger_brigade = {
+		"1. Alpenjägerdivision" "2. Alpenjägerdivision" "3. Alpenjägerdivision" "4. Alpenjägerdivision" "5. Alpenjägerdivision" "6. Alpenjägerdivision" "7. Alpenjägerdivision" "8. Alpenjägerdivision" "9. Alpenjägerdivision" "10. Alpenjägerdivision" "11. Alpenjägerdivision" 
+		"12. Alpenjägerdivision" "13. Alpenjägerdivision" "14. Alpenjägerdivision" "15. Alpenjägerdivision" "16. Alpenjägerdivision" "17. Alpenjägerdivision" "18. Alpenjägerdivision" "19. Alpenjägerdivision" "20. Alpenjägerdivision" 
+	}
+	garrison_brigade = {
+		"1. Infantriedivision" "2. Infantriedivision" "3. Infantriedivision" "4. Infantriedivision" "5. Infantriedivision" "6. Infantriedivision" "7. Infantriedivision" "8. Infantriedivision" "9. Infantriedivision" "10. Infantriedivision" "11. Infantriedivision" 
+		"12. Infantriedivision" "13. Infantriedivision" "14. Infantriedivision" "15. Infantriedivision" "16. Infantriedivision" "17. Infantriedivision" "18. Infantriedivision" "19. Infantriedivision" "20. Infantriedivision" "21. Infantriedivision" "22. Infantriedivision" 
+		"23. Infantriedivision" "24. Infantriedivision" "25. Infantriedivision" "26. Infantriedivision" "27. Infantriedivision" "28. Infantriedivision" "29. Infantriedivision" "30. Infantriedivision" 
+	}
+	hq_brigade = {
+		"Armeegruppe Ostmark" "1. Armee" "2. Armee" "3. Armee" "4. Armee" "5. Armee" "6. Armee" 
+	}
+	militia_brigade = {
+		"1. Landesschützendivision" "2. Landesschützendivision" "3. Landesschützendivision" "4. Landesschützendivision" "5. Landesschützendivision" "6. Landesschützendivision" "7. Landesschützendivision" "8. Landesschützendivision" "9. Landesschützendivision" "10. Landesschützendivision" "11. Landesschützendivision" 
+		"12. Landesschützendivision" "13. Landesschützendivision" "14. Landesschützendivision" "15. Landesschützendivision" "16. Landesschützendivision" "17. Landesschützendivision" "18. Landesschützendivision" "19. Landesschützendivision" "20. Landesschützendivision" 
+	}
+	multi_role = {
+		"Fliegergruppe 1" "Fliegergruppe 2" "Fliegergruppe 3" "Fliegergruppe 4" "Fliegergruppe 5" "Fliegergruppe 6" "Fliegergruppe 7" "Fliegergruppe 8" "Fliegergruppe 9" "Fliegergruppe 10" 
+	}
+	interceptor = {
+		"Fliegergruppe 1" "Fliegergruppe 2" "Fliegergruppe 3" "Fliegergruppe 4" "Fliegergruppe 5" "Fliegergruppe 6" "Fliegergruppe 7" "Fliegergruppe 8" "Fliegergruppe 9" "Fliegergruppe 10" 
+	}
+	strategic_bomber = {
+		"Fernbomben Fliegergruppe 1" "Fernbomben Fliegergruppe 2" "Fernbomben Fliegergruppe 3" "Fernbomben Fliegergruppe 4" "Fernbomben Fliegergruppe 5" "Fernbomben Fliegergruppe 6" "Fernbomben Fliegergruppe 7" "Fernbomben Fliegergruppe 8" "Fernbomben Fliegergruppe 9" "Fernbomben Fliegergruppe 10" 
+	}
+	tactical_bomber = {
+		"Taktische Fliegergruppe 1" "Taktische Fliegergruppe 2" "Taktische Fliegergruppe 3" "Taktische Fliegergruppe 4" "Taktische Fliegergruppe 5" "Taktische Fliegergruppe 6" "Taktische Fliegergruppe 7" "Taktische Fliegergruppe 8" "Taktische Fliegergruppe 9" "Taktische Fliegergruppe 10" 
+	}
+	naval_bomber = {
+		"Marine Bomben Fliegergruppe 1" "Marine Bomben Fliegergruppe 2" "Marine Bomben Fliegergruppe 3" "Marine Bomben Fliegergruppe 4" "Marine Bomben Fliegergruppe 5" "Marine Bomben Fliegergruppe 6" "Marine Bomben Fliegergruppe 7" "Marine Bomben Fliegergruppe 8" "Marine Bomben Fliegergruppe 9" "Marine Bomben Fliegergruppe 10" "Torpedo Fliegergruppe 1" 
+		"Torpedo Fliegergruppe 2" "Torpedo Fliegergruppe 3" "Torpedo Fliegergruppe 4" "Torpedo Fliegergruppe 5" "Torpedo Fliegergruppe 6" "Torpedo Fliegergruppe 7" "Torpedo Fliegergruppe 8" "Torpedo Fliegergruppe 9" "Torpedo Fliegergruppe 10" 
+	}
+	cas = {
+		"Sturzbomben Fliegergruppe 1" "Sturzbomben Fliegergruppe 2" "Sturzbomben Fliegergruppe 3" "Sturzbomben Fliegergruppe 4" "Sturzbomben Fliegergruppe 5" "Sturzbomben Fliegergruppe 6" "Sturzbomben Fliegergruppe 7" "Sturzbomben Fliegergruppe 8" "Sturzbomben Fliegergruppe 9" "Sturzbomben Fliegergruppe 10" 
+	}
+	transport_plane = {
+		"Transport Fliegergruppe 1" "Transport Fliegergruppe 2" "Transport Fliegergruppe 3" "Transport Fliegergruppe 4" "Transport Fliegergruppe 5" "Transport Fliegergruppe 6" "Transport Fliegergruppe 7" "Transport Fliegergruppe 8" "Transport Fliegergruppe 9" "Transport Fliegergruppe 10" 
+	}
+	battleship = {
+		"Radetzky" "Viribus Unitis" "Tegetthoff" "Prinz Eugen" 
+	}
+	light_cruiser = {
+		"Wien" "Zenta" "Aspern" "Sankt Georg" "Saida" 
+	}
+	heavy_cruiser = {
+		"Erzherzog Karl" "Erzherzog Ferdinand Max" "Erzherhog Friedrich" "Erzherzog Franz Ferdinand" 
+	}
+	battlecruiser = {
+		"Radetzky" "Viribus Unitis" "Tegetthoff" "Prinz Eugen" 
+	}
+	destroyer = {
+		"1. Zerstörergeschwader" "2. Zerstörergeschwader" "3. Zerstörergeschwader" "4. Zerstörergeschwader" "5. Zerstörergeschwader" "6. Zerstörergeschwader" "7. Zerstörergeschwader" "8. Zerstörergeschwader" "9. Zerstörergeschwader" "10. Zerstörergeschwader" 
+	}
+	carrier = {
+		"Königin Maria Theresa" "Alpenblume" 
+	}
+	escort_carrier = {
+		"Donau" "Radetzky" "Laudon" "Saida" 
+	}
+	submarine = {
+		"1. Unterseeboots-Flotilla" "2. Unterseeboots-Flotilla" "3. Unterseeboots-Flotilla" "4. Unterseeboots-Flotilla" "5. Unterseeboots-Flotilla" "6. Unterseeboots-Flotilla" "7. Unterseeboots-Flotilla" "8. Unterseeboots-Flotilla" "9. Unterseeboots-Flotilla" "10. Unterseeboots-Flotilla" 
+	}
+	transport_ship = {
+		"1. Truppentransport Flotilla" "2. Truppentransport Flotilla" "3. Truppentransport Flotilla" "4. Truppentransport Flotilla" "5. Truppentransport Flotilla" "6. Truppentransport Flotilla" "7. Truppentransport Flotilla" "8. Truppentransport Flotilla" "9. Truppentransport Flotilla" "10. Truppentransport Flotilla" 
+	}
+
+}
+
+
+ministers = {
+
+}
+

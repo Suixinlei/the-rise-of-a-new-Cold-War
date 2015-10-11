@@ -1,0 +1,14 @@
+owner = LIT
+
+controller = LIT
+
+add_core = LIT
+
+
+
+infra = 8
+
+
+
+naval_base = 7 #Klaipeda port
+points = 1

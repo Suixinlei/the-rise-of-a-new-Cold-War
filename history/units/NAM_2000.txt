@@ -1,0 +1,40 @@
+theatre = {
+	name = "Namibia Defence Force"
+	location = 8021
+	regiment = { type = hq_brigade name = "Namibia Defence Force" historical_model = 0 }
+	division = {
+		is_reserve = yes
+		name = "Motorized Battalions 1&2"
+		location = 10350
+		regiment = { type = infantry_brigade name = "1st Motorized Battalion" historical_model = 0 }
+		regiment = { type = infantry_brigade name = "2nd Motorized Battalion" historical_model = 0 }
+	}
+	division = {
+		is_reserve = yes
+		name = "Motorized Battalions 3&4"
+		location = 8047
+		regiment = { type = infantry_brigade name = "3rd Motorized Battalion" historical_model = 0 }
+		regiment = { type = infantry_brigade name = "4th Motorized Battalion" historical_model = 0 }
+	}
+	division = {
+		is_reserve = yes
+		name = "Motorized Battalions 5&6"
+		location = 7976
+		regiment = { type = infantry_brigade name = "5th Motorized Battalion" historical_model = 0 }
+		regiment = { type = infantry_brigade name = "6th Motorized Battalion" historical_model = 0 }
+	}
+	division = {
+		is_reserve = yes
+		name = "21st Guard Battalion"
+		location = 8021
+		regiment = { type = garrison_brigade name = "21st Guard Battalion" historical_model = 0 }
+	}
+	
+	navy = {
+	name = "Namibian Navy"
+	location = 10350
+	base = 10350
+	ship = { type = light_cruiser name = "Lt Gen Dimo Hamaambo" historical_model = 0 }
+	}
+	
+}

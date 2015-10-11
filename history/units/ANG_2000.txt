@@ -1,0 +1,187 @@
+theatre = {
+	name = "安哥拉陆军"
+	location = 10147
+	regiment = { type = hq_brigade name = "For鏰s Armadas Angolanas" historical_model = 0 }
+	army = {
+		name = "安哥拉集团军"
+		location = 10147
+		regiment = { type = hq_brigade name = "Army HQ" historical_model = 0 }
+		corps = {
+			name = "北部军区"
+			location = 10147
+			regiment = { type = hq_brigade name = "Northern HQ" historical_model = 0 }
+			division = {
+				is_reserve = yes
+				name = "卡宾达卫戍旅"
+				location = 10085
+				regiment = { type = garrison_brigade name = "1st Cabinda Battalion" historical_model = 0 }
+				regiment = { type = garrison_brigade name = "2nd Cabinda Battalion" historical_model = 0 }
+				regiment = { type = garrison_brigade name = "3rd Cabinda Battalion" historical_model = 0 }
+			}
+			division = {
+				is_reserve = yes
+				name = "第1机械化旅"
+				location = 10147
+				regiment = { type = mechanized_brigade name = "11th Mechanized Battalion" historical_model = 0 }
+				regiment = { type = mechanized_brigade name = "12th Mechanized Battalion" historical_model = 0 }
+				regiment = { type = armor_brigade name = "13th Armoured Battalion" historical_model = 0 }
+			}
+			division = {
+				is_reserve = yes
+				name = "第2步兵旅"
+				location = 10147
+				regiment = { type = infantry_brigade name = "21st Infantry Battalion" historical_model = 0 }
+				regiment = { type = infantry_brigade name = "22nd Infantry Battalion" historical_model = 0 }
+				regiment = { type = infantry_brigade name = "23rd Infantry Battalion" historical_model = 0 }
+			}
+			division = {
+				is_reserve = yes
+				name = "第3步兵旅"
+				location = 10127
+				regiment = { type = infantry_brigade name = "31st Infantry Battalion" historical_model = 0 }
+				regiment = { type = infantry_brigade name = "32nd Infantry Battalion" historical_model = 0 }
+				regiment = { type = infantry_brigade name = "33rd Infantry Battalion" historical_model = 0 }
+			}
+			division = {
+				is_reserve = yes
+				name = "第4步兵旅"
+				location = 10139
+				regiment = { type = infantry_brigade name = "41st Infantry Battalion" historical_model = 0 }
+				regiment = { type = infantry_brigade name = "42nd Infantry Battalion" historical_model = 0 }
+				regiment = { type = infantry_brigade name = "43rd Infantry Battalion" historical_model = 0 }
+			}
+			division = {
+				is_reserve = yes
+				name = "第5步兵旅"
+				location = 10160
+				regiment = { type = infantry_brigade name = "51st Infantry Battalion" historical_model = 0 }
+				regiment = { type = infantry_brigade name = "52nd Infantry Battalion" historical_model = 0 }
+				regiment = { type = infantry_brigade name = "53rd Infantry Battalion" historical_model = 0 }
+			}
+		}
+		corps = {
+			name = "中央军区"
+			location = 10194
+			regiment = { type = hq_brigade name = "Central HQ" historical_model = 0 }
+			division = {
+				is_reserve = yes
+				name = "第6机械化旅"
+				location = 10194
+				regiment = { type = mechanized_brigade name = "61st Mechanized Battalion" historical_model = 0 }
+				regiment = { type = mechanized_brigade name = "62nd Mechanized Battalion" historical_model = 0 }
+				regiment = { type = armor_brigade name = "63rd Armoured Battalion" historical_model = 0 }
+			}
+			division = {
+				is_reserve = yes
+				name = "第7步兵旅"
+				location = 10171
+				regiment = { type = infantry_brigade name = "71st Infantry Battalion" historical_model = 0 }
+				regiment = { type = infantry_brigade name = "72nd Infantry Battalion" historical_model = 0 }
+				regiment = { type = infantry_brigade name = "73rd Infantry Battalion" historical_model = 0 }
+			}
+			division = {
+				is_reserve = yes
+				name = "第8步兵旅"
+				location = 10183
+				regiment = { type = infantry_brigade name = "81st Infantry Battalion" historical_model = 0 }
+				regiment = { type = infantry_brigade name = "82nd Infantry Battalion" historical_model = 0 }
+				regiment = { type = infantry_brigade name = "83rd Infantry Battalion" historical_model = 0 }
+			}
+			division = {
+				is_reserve = yes
+				name = "第9步兵旅"
+				location = 7985
+				regiment = { type = infantry_brigade name = "91st Infantry Battalion" historical_model = 0 }
+				regiment = { type = infantry_brigade name = "92nd Infantry Battalion" historical_model = 0 }
+				regiment = { type = infantry_brigade name = "93rd Infantry Battalion" historical_model = 0 }
+			}
+			division = {
+				is_reserve = yes
+				name = "第10步兵旅"
+				location = 7977
+				regiment = { type = infantry_brigade name = "101st Infantry Battalion" historical_model = 0 }
+				regiment = { type = infantry_brigade name = "102nd Infantry Battalion" historical_model = 0 }
+				regiment = { type = infantry_brigade name = "103rd Infantry Battalion" historical_model = 0 }
+			}
+		}
+		corps = {
+			name = "南部军区"
+			location = 10257
+			regiment = { type = hq_brigade name = "Southern HQ" historical_model = 0 }
+			division = {
+				is_reserve = yes
+				name = "第11机械化旅"
+				location = 10257
+				regiment = { type = mechanized_brigade name = "111th Mechanized Battalion" historical_model = 0 }
+				regiment = { type = mechanized_brigade name = "112th Mechanized Battalion" historical_model = 0 }
+				regiment = { type = armor_brigade name = "113th Armoured Battalion" historical_model = 0 }
+			}
+			division = {
+				is_reserve = yes
+				name = "第12步兵旅"
+				location = 10227
+				regiment = { type = infantry_brigade name = "121st Infantry Battalion" historical_model = 0 }
+				regiment = { type = infantry_brigade name = "122nd Infantry Battalion" historical_model = 0 }
+				regiment = { type = infantry_brigade name = "123rd Infantry Battalion" historical_model = 0 }
+			}
+			division = {
+				is_reserve = yes
+				name = "第13步兵旅"
+				location = 10284
+				regiment = { type = infantry_brigade name = "131st Infantry Battalion" historical_model = 0 }
+				regiment = { type = infantry_brigade name = "132nd Infantry Battalion" historical_model = 0 }
+				regiment = { type = infantry_brigade name = "133rd Infantry Battalion" historical_model = 0 }
+			}
+			division = {
+				is_reserve = yes
+				name = "第14步兵旅"
+				location = 7984
+				regiment = { type = infantry_brigade name = "141st Infantry Battalion" historical_model = 0 }
+				regiment = { type = infantry_brigade name = "142nd Infantry Battalion" historical_model = 0 }
+				regiment = { type = infantry_brigade name = "143rd Infantry Battalion" historical_model = 0 }
+			}
+			division = {
+				is_reserve = yes
+				name = "第15步兵旅"
+				location = 8041
+				regiment = { type = infantry_brigade name = "151st Infantry Battalion" historical_model = 0 }
+				regiment = { type = infantry_brigade name = "152nd Infantry Battalion" historical_model = 0 }
+				regiment = { type = infantry_brigade name = "153rd Infantry Battalion" historical_model = 0 }
+			}
+		}
+	}
+		
+	air = {
+	name = "Quattro De Fevero AFB"
+	location = 10147
+	base = 10147
+	wing = { type = interceptor name = "1st Fighter Wing" historical_model = 0 }
+	wing = { type = interceptor name = "2nd Fighter Wing" historical_model = 0 }
+	}
+		
+	air = {
+	name = "Lobito AFB"
+	location = 10194
+	base = 10194
+	wing = { type = cas name = "3rd Attack Wing" historical_model = 0 }
+	}
+	
+	air = {
+	name = "Namibe AFB"
+	location = 10257
+	base = 10257
+	wing = { type = transport_plane name = "4th Transport Wing" historical_model = 0 }
+	}
+	
+	navy = {
+	name = "安哥拉海军"
+	location = 10147
+	base = 10147
+	ship = { type = patrol_boat name = "Osa I" historical_model = 0 }
+	ship = { type = patrol_boat name = "Osa II" historical_model = 0 }
+	ship = { type = patrol_boat name = "Osa III" historical_model = 0 }
+	ship = { type = patrol_boat name = "Osa IV" historical_model = 0 }
+	ship = { type = patrol_boat name = "Osa V" historical_model = 0 }
+	ship = { type = patrol_boat name = "Osa VI" historical_model = 0 }
+	}
+}

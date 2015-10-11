@@ -1,0 +1,115 @@
+color = { 145  188  196 }
+graphical_culture = Generic
+last_election = 2000.5.21
+duration = 36
+
+default_templates = {
+	generic_infantry = {
+		infantry_brigade
+		infantry_brigade
+		infantry_brigade
+	}
+	generic_milita = {
+		militia_brigade
+		militia_brigade
+		militia_brigade
+	}
+	generic_armoured = {
+		armor_brigade
+		motorized_brigade
+		motorized_brigade
+	}
+	generic_cavalry = {
+		cavalry_brigade
+		cavalry_brigade
+	}
+}
+
+unit_names = {
+	infantry_brigade = {
+		"1ère Division d'Infanterie Haitien" "2ème Division d'Infanterie Haitien" "3ème Division d'Infanterie Haitien" "4ème Division d'Infanterie Haitien" "6ème Division d'Infanterie Haitien" 
+	}
+	cavalry_brigade = {
+		"1ère Division de Cavalerie 'Robespierre'" "2ème Division de Cavalerie Haitien" "3ème Division de Cavalerie Haitien" "4ème Division de Cavalerie Haitien" "5ème Division de Cavalerie Haitien" 
+	}
+	motorized_brigade = {
+		"1ère Div. d'Infanterie avec Camion" "2ème Div. d'Infanterie avec Camion" "3ème Div. d'Infanterie avec Camion" "4ème Div. d'Infanterie avec Camion" "5ème Div. d'Infanterie avec Camion" 
+	}
+	mechanized_brigade = {
+		"1ère Division Mécanisée Haitien" "2ème Division Mécanisée Haitien" "3ème Division Mécanisée Haitien" "4ème Division Mécanisée Haitien" "5ème Division Mécanisée Haitien" 
+	}
+	light_armor_brigade = {
+		"1ère Division Cuirassée 'Marat'" "2ème Division Cuirassée Haitien" "3ème Division Cuirassée Haitien" "4ème Division Cuirassée Haitien" "5ème Division Cuirassée Haitien" "6ème Division Cuirassée Haitien" 
+	}
+	armor_brigade = {
+		"1ère Division Cuirassée 'Marat'" "2ème Division Cuirassée Haitien" "3ème Division Cuirassée Haitien" "4ème Division Cuirassée Haitien" "5ème Division Cuirassée Haitien" "6ème Division Cuirassée Haitien" 
+	}
+	paratrooper_brigade = {
+		"1ère Division Parachutistes" "2ème Division Parachutistes" "3ème Division Parachutistes" "4ème Division Parachutistes" "5ème Division Parachutistes" 
+	}
+	marine_brigade = {
+		"1ère Division d'Infanterie Maritimes" "2ème Division d'Infanterie Maritimes" "3ème Division d'Infanterie Maritimes" "4ème Division d'Infanterie Maritimes" "5ème Division d'Infanterie Maritimes" 
+	}
+	bergsjaeger_brigade = {
+		"27ème Div. de Montagné 'Les Jacobins'" "30ème Division de Montagné" "31ème Division de Montagné" "64ème Division de Montagné" "66ème Division de Montagné" "65ème Division de Montagné" 
+	}
+	garrison_brigade = {
+		"10ème Division d'Infanterie Haitien" "11ème Division d'Infanterie Haitien" "13ème Division d'Infanterie Haitien" "16ème Division d'Infanterie Haitien" "18ème Division d'Infanterie Haitien" "19ème Division d'Infanterie Haitien" "20ème Division d'Infanterie Haitien" 
+	}
+	hq_brigade = {
+		"1ère Armée Haitien" "2ème Armée Haitien" "3ème Armée Haitien" 
+	}
+	militia_brigade = {
+		"1ère Division de Citoyens du Haiti" "2ème Division de Citoyens du Haiti" "3ème Division de Citoyens du Haiti" "4ème Division de Citoyens du Haiti" "5ème Division de Citoyens du Haiti" "6ème Division de Citoyens du Haiti" "7ème Division de Citoyens du Haiti" 
+	}
+	multi_role = {
+		"Groupe de Chasse 1" "Groupe de Chasse 2" "Groupe de Chasse 3" "Groupe de Chasse 4" "Groupe de Chasse 5" 
+	}
+	interceptor = {
+		"Groupe de Chasse 1" "Groupe de Chasse 2" "Groupe de Chasse 3" "Groupe de Chasse 4" "Groupe de Chasse 5" 
+	}
+	strategic_bomber = {
+		"Groupe de Bombardèment Stratégique 1" "Groupe de Bombardèment Stratégique 2" "Groupe de Bombardèment Stratégique 3" "Groupe de Bombardèment Stratégique 6" 
+	}
+	tactical_bomber = {
+		"Groupe de Bombardèment Tactique 1" "Groupe de Bombardèment Tactique 2" "Groupe de Bombardèment Tactique 3" "Groupe de Bombardèment Tactique 6" "Groupe de Bombardèment Tactique 10" 
+	}
+	naval_bomber = {
+		"Groupe de Bombardèment Naval 1" "Groupe de Bombardèment Naval 2" "Groupe de Bombardèment Naval 3" "Groupe de Bombardèment Naval 4" "Groupe de Bombardèment Naval 5" 
+	}
+	cas = {
+		"Groupe de Bombardèment d'Assaut 18" "Groupe de Bombardèment d'Assaut 19" "Groupe de Bombardèment d'Assaut 21" "Groupe de Bombardèment d'Assaut 22" "Groupe de Bombardèment d'Assaut 23" 
+	}
+	transport_plane = {
+		"1ère Groupe de Transport Aérien" "2ème Groupe de Transport Aérien" "3ème Groupe de Transport Aérien" "4ème Groupe de Transport Aérien" "5ème Groupe de Transport Aérien" 
+	}
+	battleship = {
+		"Citoyens de Haiti" "Port au Prince" 
+	}
+	light_cruiser = {
+		"Jérémie" "Port Sali" "Cap Haitien" "Port de Paix" "Jean Rabel" 
+	}
+	heavy_cruiser = {
+		"Jérémie" "Port Sali" "Cap Haitien" "Port de Paix" "Jean Rabel" 
+	}
+	battlecruiser = {
+		"Citoyens de Haiti" "Port au Prince" 
+	}
+	destroyer = {
+		"Baron Samedi et Groupe" "Calypso et Groupe" "Reine Mojo et Groupe" "Aywe et Groupe" "Dr.John et Groupe" 
+	}
+	carrier = {
+		"Republique de Haiti" "Napoleon" 
+	}
+	submarine = {
+		"Baka et Groupe" "Osun et Groupe" "Dambala et Groupe" "Ogu Bodagris et Groupe" "Erinle et Groupe" 
+	}
+	transport_ship = {
+		"1ère Flottille de Transport" "2ème Flottille de Transport" "3ème Flottille de Transport" "4ème Flottille de Transport" "5ème Flottille de Transport" 
+	}
+
+}
+
+ministers = {
+	
+}

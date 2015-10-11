@@ -1,0 +1,46 @@
+interceptor = {
+	type = air
+	active = no
+	sprite = Fighter
+	
+	#Size Definitions
+	max_strength = 100
+	default_organisation = 30
+	default_morale = 0.30
+	officers = 0
+
+	#Building Costs
+	build_cost_ic = 12.00
+	build_cost_manpower = 0.30
+	build_time = 260
+	repair_cost_multiplier = 0.05
+
+	#Misc Abilities
+	maximum_speed = 1000.00
+	transport_capability = 0.00
+	supply_consumption = 0.80
+	fuel_consumption = 4.30
+	range = 1000.00
+	radio_strength = 1.25
+
+	#Detection Abilities
+	surface_detection = 3.00
+	air_detection = 3.00
+
+	#Defensive Abilities
+	surface_defence = 1.00
+	air_defence = 4.00
+
+	#Offensive Abilities
+	soft_attack = 1.00
+	hard_attack = 0.00
+	sea_attack = 0.00
+	air_attack = 5.00
+	strategic_attack = 0.00
+	sub_attack = 0.00
+
+	completion_size = 1.0
+	on_completion = single_engine_aircraft_practical
+	
+	priority = 9
+}

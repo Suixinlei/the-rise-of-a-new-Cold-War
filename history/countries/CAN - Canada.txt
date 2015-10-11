@@ -1,0 +1,52 @@
+capital = 3342
+government = commonwealth
+ideology = social_liberal
+alignment = { x = 0 y = -146 }
+neutrality = 80
+national_unity = 90
+head_of_state = 14501
+head_of_government = 14502
+foreign_minister = 14505
+armament_minister = 14511
+minister_of_security = 14515
+minister_of_intelligence = 14542
+chief_of_staff = 14546
+chief_of_army = 14550
+chief_of_air = 14551
+chief_of_navy = 14556
+2008.1.1 = { join_faction = allies } 
+oob = "CAN_2000.txt"
+
+popularity = { 
+	national_socialist = 0
+	fascistic = 0
+	paternal_autocrat = 0
+	social_conservative = 25
+	market_liberal = 0
+	social_liberal = 41
+	social_democrat = 9
+	left_wing_radical = 0
+	leninist = 0
+	stalinist = 0
+}
+
+organization = { 
+	national_socialist = 0
+	fascistic = 0
+	paternal_autocrat = 0
+	social_conservative = 75
+	market_liberal = 0
+	social_liberal = 123
+	social_democrat = 27
+	left_wing_radical = 0
+	leninist = 0
+	stalinist = 0
+}
+
+conscription_policy = volunteer_army
+press_laws = free_press
+mobilisation_level = peace_time
+civil_laws = open_society
+economic_policy = lais_fair
+service_length = eighteen_months
+

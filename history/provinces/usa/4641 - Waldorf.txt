@@ -1,0 +1,7 @@
+owner = USA
+controller = USA
+add_core = USA
+
+infra = 10
+air_base = 4 #Andrews airbase
+points = 1

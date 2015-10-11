@@ -1,0 +1,85 @@
+color = { 144  143  181 }
+graphical_culture = Japanese
+last_election = 2001.5.14
+duration = 36
+
+default_templates = {
+	generic_infantry = {
+		infantry_brigade
+		infantry_brigade
+		infantry_brigade
+	}
+	generic_milita = {
+		militia_brigade
+		militia_brigade
+		militia_brigade
+	}
+	generic_armoured = {
+		armor_brigade
+		motorized_brigade
+		motorized_brigade
+	}
+	generic_cavalry = {
+		cavalry_brigade
+		cavalry_brigade
+	}
+}
+
+unit_names = {
+
+
+}
+
+ministers = {
+	80550 = {
+		name = "玛丽亚·格洛丽亚·马卡帕加尔.阿罗约"
+		ideology = national_socialist
+		loyalty = 1.00
+		picture = L80550
+		head_of_state = biased_intellectual
+		foreign_minister = crime_fighter
+		chief_of_staff = military_entrepreneur
+		start_date = 2000.1.1	
+        }
+	80551 = {
+		name = "贝尼格诺.阿基诺三世"
+		ideology = paternal_autocrat
+		loyalty = 1.00
+		picture = L80551
+		head_of_government = corrupt_kleptocrat
+		foreign_minister = crooked_kleptocrat
+		chief_of_staff = military_slob
+		chief_of_army = military_slob
+		start_date = 2000.1.1	
+        }
+	80552 = {
+		name = "普罗斯培·C·诺格拉雷斯"
+		ideology = paternal_autocrat
+		loyalty = 1.00
+		picture = L80552
+		armament_minister = hazardous_clean
+		minister_of_security = insignificant_layman
+		minister_of_intelligence = insignificant_layman
+		start_date = 2000.1.1	
+        }
+	80553 = {
+		name = "埃斯特拉达"
+		ideology = paternal_autocrat
+		loyalty = 1.00
+		picture = L80553
+		minister_of_intelligence = scandalous
+		chief_of_navy = indirect_approach_doctrine
+		chief_of_air = naval_aviation_doctrine
+		start_date = 2000.1.1	
+        }
+	80554 = {
+		name = "何塞·西逊"
+		ideology = stalinist
+		loyalty = 1.00
+		picture = L80554
+		head_of_government = intellectualist
+		foreign_minister = anti_imperialist
+		chief_of_staff = army_reformer
+		start_date = 2000.1.1	
+        }
+}

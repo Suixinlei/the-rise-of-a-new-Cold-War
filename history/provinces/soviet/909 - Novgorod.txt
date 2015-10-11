@@ -1,0 +1,9 @@
+owner = SOV
+controller = SOV
+add_core = SOV
+
+infra = 8
+
+
+leadership = 2.50
+points = 1

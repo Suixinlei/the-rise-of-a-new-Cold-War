@@ -1,0 +1,10 @@
+owner = ETH
+controller = ETH
+add_core = ETH
+
+infra = 6
+manpower = 10.00
+air_base = 8 #Bole Airport and surrounding aribases
+leadership = 1.50
+points = 1
+industry = 4

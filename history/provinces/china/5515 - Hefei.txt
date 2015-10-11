@@ -1,0 +1,11 @@
+owner = CHC
+controller = CHC
+ 
+add_core = CHC
+manpower = 17.00
+infra = 8
+industry = 5
+energy = 20
+rare_materials = 4.00
+metal = 15.00
+leadership = 1.00

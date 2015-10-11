@@ -1,0 +1,7 @@
+owner = ZAM
+controller = ZAM
+add_core = ZAM
+infra = 6
+manpower = 5.1
+energy = 1.00
+points = 1

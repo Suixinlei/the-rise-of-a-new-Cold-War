@@ -1,0 +1,316 @@
+POS_STACK_PENALTY;舰船数量如果大于$MAX$艘，\n超出部分的每艘舰船将会给予舰队$EACH$%的兵力部署惩罚。\n该舰队总计惩罚为$TOTAL$% ;;;;;;;;;;X
+EFF_POS;有效率的兵力部署 ;;;;;;;;;;X
+LEADER_POSITIONING;兵力部署加成 ;;;;;;;;;;X
+FLEET_POSITIONING;舰队兵力部署。\n该数值太低将导致难以击中正确的目标。\n通过升级学说可以提高舰船的兵力部署。 ;;;;;;;;;;X
+UW_EDIT_THEATRE;编辑战区;;;;;;;;;;X
+UW_EDIT_THEATRE_DRO;为这个战区设定省份。 ;;;;;;;;;;X
+STANCE_AIR_PREPARE;空军准备 ;;;;;;;;;;X
+STANCE_AIR_PREPARE_DESC;我们的空军部队目前只能执行转场以及恢复组织度的任务。 ;;;;;;;;;;X
+STANCE_AIR_DEFEND;空军防御 ;;;;;;;;;;X
+STANCE_AIR_DEFEND_DESC;我们的空军部队将执行转场、\n恢复组织度以及战场截击等任务。 ;;;;;;;;;;X
+STANCE_AIR_ATTACK;空军进攻 ;;;;;;;;;;X
+STANCE_AIR_ATTACK_DESC;我国空军将执行所有任务。 ;;;;;;;;;;X
+STANCE_NAVAL_PREPARE;海军准备 ;;;;;;;;;;X
+STANCE_NAVAL_PREPARE_DESC;我们的海军部队将返回港口恢复组织度。 ;;;;;;;;;;X
+STANCE_NAVAL_DEFEND;海军防御 ;;;;;;;;;;X
+STANCE_NAVAL_DEFEND_DESC;我们的舰队将返回港口恢复组织度并保卫我们的海岸。 ;;;;;;;;;;X
+STANCE_NAVAL_ATTACK;海军进攻 ;;;;;;;;;;X
+STANCE_NAVAL_ATTACK_DESC;我们的舰队已经做好准备执行所有任务。 ;;;;;;;;;;X
+ALLOW_HQ_REORG;允许AI调整编制;;;;;;;;;;X
+LAST_BATTLE_WINNER_LOSSES_LESS;作为胜利方损失少于 ;;;;;;;;;;X
+LAST_BATTLE_WINNER_LOSSES_MORE;作为胜利方损失至少 ;;;;;;;;;;X
+LAST_BATTLE_LOSER_LOSSES_LESS;作为失利方损失少于 ;;;;;;;;;;X
+LAST_BATTLE_LOSER_LOSSES_MORE;作为失利方损失至少 ;;;;;;;;;;X
+LAST_AIR_BATTLE_WINNER_LOSSES_LESS;空军单位胜利而且损失少于 ;;;;;;;;;;X
+LAST_AIR_BATTLE_WINNER_LOSSES_MORE;空军单位胜利但是损失至少 ;;;;;;;;;;X
+LAST_AIR_BATTLE_LOSER_LOSSES_LESS;空军单位失利而且损失少于  ;;;;;;;;;;X
+LAST_AIR_BATTLE_LOSER_LOSSES_MORE;空军单位失利但是损失至少  ;;;;;;;;;;X
+LAST_NAVAL_BATTLE_WINNER_LOSSES_LESS;海军单位胜利而且损失少于 ;;;;;;;;;;X
+LAST_NAVAL_BATTLE_WINNER_LOSSES_MORE;海军单位胜利但是损失至少 ;;;;;;;;;;X
+LAST_NAVAL_BATTLE_LOSER_LOSSES_LESS;海军单位失利而且损失少于 ;;;;;;;;;;X
+LAST_NAVAL_BATTLE_LOSER_LOSSES_MORE;海军单位失利但是损失至少 ;;;;;;;;;;X
+OUT_OF_SUPPLY_DAYS_LESS;补给匮乏程度少于 ;;;;;;;;;;X
+OUT_OF_SUPPLY_DAYS_MORE;补给匮乏程度至少 ;;;;;;;;;;X
+STANCE_WITHDRAW;撤退状态 ;;;;;;;;;;X
+STANCE_WITHDRAW_DESC;我军将从这个待不下去的鬼地方撤退并尝试重整防线。\n此状态下部队不会发动进攻。 ;;;;;;;;;;X
+OOB_COLLAPSE_ALL;收起 ;;;;;;;;;;X
+OOB_GO_TO_SELECTED;跳转 ;;;;;;;;;;X
+ATTACK_ON_THE_WEST_NAME;西线进攻;;;;;;;;;;X
+ATTACK_ON_THE_WEST_DESC;“虚假战争”即将结束，德国已经显露出了其狰狞的面目，张伯伦一个月前还相信战争不会实际降临。不过他错了，德军即将对\n低地三国发动战争，同时绕过法国人的防线实施闪电战，所有这一切将让英国人付出热血，辛劳，眼泪和汗水。\n本汉化包由Paradox工作组和3DM工作室联合汉化制作。;;;;;;;;;;X
+VC_BUTTON_DISABLED_SAVE;当你读取存档的时候无法重新选择胜利条件。 ;;;;;;;;;;X
+VC_BUTTON_DISABLED_INVALID;只有作为阵营领袖的国家才能选择胜利条件。 ;;;;;;;;;;X
+VC_ACCEPT_DISABLED;已经选择 $NUM$ 个胜利条件，将随机添加或删除至 $TOTAL$ 个。 ;;;;;;;;;;X
+VC_ACCEPT;接受 ;;;;;;;;;;X
+VC_CANCEL;取消 ;;;;;;;;;;X
+VC_VICTORY_CONDITIONS;胜利条件 ;;;;;;;;;;X
+VC_ALLIES;同盟国;;;;;;;;;;X
+VC_AXIS;轴心国;;;;;;;;;;X
+VC_COMINTERN;共产国际;;;;;;;;;;X
+VC_YOU_ARE_NOT_PART_OF_ANY_FACTION;你不属于任一阵营 ;;;;;;;;;;X
+FE_VICTORYCONDITIONS;胜利条件 ;;;;;;;;;;X
+OOB_LABEL;$COUNTRY_ADJ$ 部队序列 ;;;;;;;;;;X
+MODIFIERS_ACHIEVMENTS;战略效果 ;;;;;;;;;;X
+##################################################;;;;;;;;;;;X
+# Triggered Modifiers ;;;;;;;;;;;X
+##################################################;;;;;;;;;;;X
+naval_supremacy_in_the_west;西方制海权;;;;;;;;;;X
+desc_naval_supremacy_in_the_west;您控制了西方所有的海军基地 ;;;;;;;;;;X
+naval_supremacy_in_the_east;东方制海权;;;;;;;;;;X
+desc_naval_supremacy_in_the_east;您控制了东方所有的海军基地 ;;;;;;;;;;X
+unexpected_reinforcement;计划外扩军 ;;;;;;;;;;X
+desc_unexpected_reinforcement;扩军导致你与邻国关系发生变化;;;;;;;;;;X
+neutrality;中立;;;;;;;;;;X
+desc_neutrality;$COUNTRYNAME$不是三个大联盟的任何成员;;;;;;;;;;X
+winter_war;冬季战争;;;;;;;;;;X
+desc_winter_war;1939年11月30日至1940年3月13日，苏联与芬兰爆发军事冲突，又称为冬季战争。冬季战争是以苏联的攻势开始，后以双方签订苏联莫斯科和平条约结束。1939年12月14日，冬季战争被国际联盟视为非法的攻击，并驱逐苏联代表;;;;;;;;;;X
+sino_soviet_nonaggression_pact;中苏互不侵犯条约;;;;;;;;;;X
+desc_sino_soviet_nonaggression_pact;在第二次中日战争期间，中国和苏联于1937年8月21日签订了中苏互不侵犯条约.;;;;;;;;;;X
+polish_corridor_pol;波兰走廊;;;;;;;;;;X
+desc_polish_corridor_pol;你控制了波兰走廊;;;;;;;;;;X
+polish_corridor_ger;波兰走廊;;;;;;;;;;X
+desc_polish_corridor_ger;你控制了波兰走廊;;;;;;;;;;X
+polish_corridor;波兰走廊;;;;;;;;;;X
+desc_polish_corridor;你控制了波兰走廊;;;;;;;;;;X
+pact_of_steel;钢铁条约;;;;;;;;;;X
+desc_pact_of_steel;钢铁条约是由法西斯意大利和纳粹德国在1939年5月22日签订的。该条约包括两个部分：第一部分是一个持续的信任与德国和意大利合作的公开表态，第二部分促成了有关军事和经济政策的结合.;;;;;;;;;;X
+lapland_war;拉普兰战役;;;;;;;;;;X
+desc_lapland_war;拉普兰战役(1944年9月和1945年4月)，是芬兰和纳粹德国之间的军事冲突;;;;;;;;;;X
+general_winter;寒冷的冬天;;;;;;;;;;X
+desc_general_winter;寒冷的冬天，使得军队的冬服和其他必需品的缺乏.饥饿和疾病猖獗的摧残着士兵，这给了苏联一个很大的优势。寒冷的冬天可能导致苏联人的胜利.;;;;;;;;;;X
+great_army;大陆军;;;;;;;;;;X
+desc_great_army;坦克，战舰和武装人员...你的军队比以往任何时候都强大，你的敌人在恐惧中颤抖.;;;;;;;;;;X
+great_naval_army;大海军;;;;;;;;;;X
+desc_great_naval_army;眼睛可以看到，海洋里充满了你的战舰。你的敌人在你颤抖，对你的伟大海军恐惧.;;;;;;;;;;X
+great_air_army;大空军;;;;;;;;;;X
+desc_great_air_army;天空充满了你的飞机，你的敌人在空中颤抖.;;;;;;;;;;X
+prosperous_convoy;完善护航;;;;;;;;;;X
+desc_prosperous_convoy;由于大量船只一起航行，船队可以安全地到达目的地.护航系统采用类似系统船队的方法，英国二战期间使用该办法.这种行为最初是自愿的，后来强制几乎所有的商船.每个船队有30-70条手无寸铁的商船.;;;;;;;;;;X
+veteran_army;经验丰富的陆军;;;;;;;;;;X
+desc_veteran_army;无论战斗在何处，都值得你骄傲.因为没有几个国家可以夸耀地赢得了这么多的战斗.;;;;;;;;;;X
+veteran_navy;经验丰富的海军;;;;;;;;;;X
+desc_veteran_navy;无论战斗在何处，都值得你荣幸.因为没有几个国家可以夸耀地赢得了这么多的海战.;;;;;;;;;;X
+veteran_air_force;经验丰富的空军;;;;;;;;;;X
+desc_veteran_air_force;无论战斗在何处，都值得你庆贺.因为没有几个国家可以夸耀地赢得了这么多的空战.;;;;;;;;;;X
+mediterranean_control;控制地中海;;;;;;;;;;X
+desc_mediterranean_control;您控制了整个地中海地区;;;;;;;;;;X
+blockade_mediterranean;地中海被封锁;;;;;;;;;;X
+desc_ blockade_mediterranean;地中海被封锁.船舶与规定的货物和其他载货无法到达封锁的港口，因而被迫改变他们的航线.封锁区的供应很低，这可能会导致暴动.;;;;;;;;;;X
+control_over_panama_channel;控制巴拿马运河;;;;;;;;;;X
+desc_control_over_panama_channel;您控制了巴拿马运河;;;;;;;;;;X
+blockade_panama_channel;巴拿马运河被封锁;;;;;;;;;;X
+desc_blockade_panama_channel;巴拿马运河被封锁.船舶与规定的货物和其他载货无法到达封锁的港口，因而被迫改变他们的航线.封锁区的供应很低，这可能会导致暴动.;;;;;;;;;;X
+control_over_the_black_sea;控制黑海;;;;;;;;;;X
+desc_control_over_the_black_sea;您控制了黑海;;;;;;;;;;X
+blockade_black_sea;封锁黑海;;;;;;;;;;X
+desc_blockade_black_sea;黑海被封锁.船舶与规定的货物和其他载货无法到达封锁的港口，因而被迫改变他们的航线.封锁区的供应很低，这可能会导致暴动.;;;;;;;;;;X
+control_over_suez_channel;控制苏伊士运河;;;;;;;;;;X
+desc_control_over_suez_channel;您控制了苏伊士运河;;;;;;;;;;X
+blockade_suez_channel;封锁苏伊士运河;;;;;;;;;;X
+desc_blockade_suez_channel;地中海被封锁.船舶与规定的货物和其他载货无法到达封锁的港口，因而被迫改变他们的航线.封锁区的供应很低，这可能会导致暴动.;;;;;;;;;;X
+control_over_makassar_strait;控制望加锡海峡;;;;;;;;;;X
+desc_control_over_makassar_strait;您控制了望加锡海峡;;;;;;;;;;X
+blockade_makassar_strait;封锁望加锡海峡;;;;;;;;;;X
+desc_blockade_makassar_strait;望加锡海峡被封锁.船舶与规定的货物和其他载货无法到达封锁的港口，因而被迫改变他们的航线.在封锁区的供应很低，这可能会导致暴动.;;;;;;;;;;X
+control_over_gibraltar;控制直布罗陀;;;;;;;;;;X
+desc_control_over_gibraltar;您控制了直布罗陀;;;;;;;;;;X
+blockade_gibraltar;封锁直布罗陀;;;;;;;;;;X
+desc_blockade_gibraltar;直布罗陀被封锁.船舶与规定的货物和其他载货无法到达封锁的港口，因而被迫改变他们的航线.在封锁区的供应很低，这可能会导致暴动.;;;;;;;;;;X
+control_over_oresund;控制厄勒海峡;;;;;;;;;;X
+desc_control_over_oresund;您控制了厄勒海峡;;;;;;;;;;X
+blockade_oresund;封锁厄勒;;;;;;;;;;X
+desc_blockade_oresund;厄勒被封锁.船舶与规定的货物和其他载货无法到达封锁的港口，因而被迫改变他们的航线.在封锁区的供应很低，这可能会导致暴动.;;;;;;;;;;X
+control_english_channel;控制英吉利海峡;;;;;;;;;;X
+desc_control_english_channel;您控制了英吉利海峡;;;;;;;;;;X
+blockade_english_channel;封锁英吉利海峡;;;;;;;;;;X
+desc_blockade_english_channel;英吉利海峡被封锁.船舶与规定的货物和其他载货无法到达封锁的港口，因而被迫改变他们的航线.在封锁区的供应很低，这可能会导致暴动.;;;;;;;;;;X
+control_over_persian_gulf;控制波斯湾;;;;;;;;;;X
+desc_control_over_persian_gulf;您控制了波斯湾;;;;;;;;;;X
+blockade_persian_gulf;封锁波斯湾;;;;;;;;;;X
+desc_blockade_persian_gulf;波斯湾被封锁.船舶与规定的货物和其他载货无法到达封锁的港口，因而被迫改变他们的航线.在封锁区的供应很低，这可能会导致暴动.;;;;;;;;;;X
+control_over_tonkin_gulf;控制北部湾;;;;;;;;;;X
+desc_control_over_tonkin_gulf;您控制了北部湾;;;;;;;;;;X
+blockade_tonkin_gulf;封锁北部湾;;;;;;;;;;X
+desc_blockade_tonkin_gulf;北部湾被封锁.船舶与规定的货物和其他载货无法到达封锁的港口，因而被迫改变他们的航线.在封锁区的供应很低，这可能会导致暴动.;;;;;;;;;;X
+control_over_mexico_gulf;控制墨西哥湾;;;;;;;;;;X
+desc_control_over_mexico_gulf;您控制了墨西哥湾;;;;;;;;;;X
+blockade_mexico_gulf;封锁墨西哥湾;;;;;;;;;;X
+desc_ blockade_mexico_gulf;墨西哥湾被封锁.船舶与规定的货物和其他载货无法到达封锁的港口，因而被迫改变他们的航线.在封锁区的供应很低，这可能会导致暴动.;;;;;;;;;;X
+control_over_iskenderun_gulf;控制土耳其海峡;;;;;;;;;;X
+desc_control_over_iskenderun_gulf;您控制了土耳其海峡;;;;;;;;;;X
+blockade_iskenderun_gulf;封锁土耳其海峡;;;;;;;;;;X
+desc_blockade_iskenderun_gulf;土耳其海峡被封锁.船舶与规定的货物和其他载货无法到达封锁的港口，因而被迫改变他们的航线.在封锁区的供应很低，这可能会导致暴动.;;;;;;;;;;X
+control_over_chihli_gulf;控制渤海湾;;;;;;;;;;X
+desc_control_over_chihli_gulf;您控制了渤海湾;;;;;;;;;;X
+blockade_chihli_gulf;封锁渤海湾;;;;;;;;;;X
+desc_blockade_chihli_gulf;渤海湾被封锁.船舶与规定的货物和其他载货无法到达封锁的港口，因而被迫改变他们的航线.在封锁区的供应很低，这可能会导致暴动.;;;;;;;;;;X
+control_over_taiwan_strait;控制台湾海峡;;;;;;;;;;X
+desc_control_over_taiwan_strait;您控制了台湾海峡;;;;;;;;;;X
+blockade_taiwan_strait;封锁台湾海峡;;;;;;;;;;X
+desc_blockade_taiwan_strait;台湾海峡被封锁.船舶与规定的货物和其他载货无法到达封锁的港口，因而被迫改变他们的航线.在封锁区的供应很低，这可能会导致暴动.;;;;;;;;;;X
+control_over_mozambique_channel;控制莫桑比克海峡;;;;;;;;;;X
+desc_control_over_mozambique_channel;您控制了莫桑比克海峡;;;;;;;;;;X
+blockade_mozambique_channel;封锁莫桑比克海峡;;;;;;;;;;X
+desc_blockade_mozambique_channel;莫桑比克海峡被封锁.船舶与规定的货物和其他载货无法到达封锁的港口，因而被迫改变他们的航线.在封锁区的供应很低，这可能会导致暴动.;;;;;;;;;;X
+control_finland_gulf;控制芬兰湾;;;;;;;;;;X
+desc_control_finland_gulf;您控制了芬兰湾;;;;;;;;;;X
+blockade_finland_gulf;封锁芬兰湾;;;;;;;;;;X
+desc_blockade_finland_gulf;芬兰湾被封锁.船舶与规定的货物和其他载货无法到达封锁的港口，因而被迫改变他们的航线.在封锁区的供应很低，这可能会导致暴动.;;;;;;;;;;X
+OL_ALLIED_OBJECTIVE;盟军目标 ;;;;;;;;;;X
+OL_AO_WE_REQUEST;我们已经要求  ;;;;;;;;;;X
+OL_AO_THEY_REQUEST;已经要求我们 ;;;;;;;;;;X
+OL_AO_ATTACK; 进攻 ;;;;;;;;;;X
+OL_AO_DEFEND; 防御 ;;;;;;;;;;X
+AO_ALERT;盟军目标;;;;;;;;;;X
+VC_ALERT;胜利条件;;;;;;;;;;X
+VC_DANGER;$FACTION$ 已经完成了 $NUM$ 的胜利条件。 ;;;;;;;;;;X
+CONFIRM_VC_VICTORY;胜利!;;;;;;;;;;X
+CONFIRM_VC_DEFEAT;失败!;;;;;;;;;;X
+CONFIRM_VC_TEXT;$FACTION$ 完成了他们的胜利条件。\n你准备继续还是放弃本次游戏？ ;;;;;;;;;;X
+VC_RESIGN;放弃 ;;;;;;;;;;X
+VC_CONTINUE;继续 ;;;;;;;;;;X
+PRIDE_OF_FLEET;海军骄傲 ;;;;;;;;;;X
+MAKE_PRIDE;命名 ;;;;;;;;;;X
+CONFIRM_MAKE_PRIDE_TITLE;你决定将这艘战舰命名为海军骄傲吗？ ;;;;;;;;;;X
+CONFIRM_MAKE_PRIDE_DESC;一个国家仅能将一艘战列舰或战列巡洋舰命名为海军骄傲。\n$EFFECTS$;;;;;;;;;;X
+MAKE_PRIDE_EXP_EFFECT;- $NAME$ 将获得 $EXP$% 经验\n;;;;;;;;;;X
+MAKE_PRIDE_SUNK_EFFECT;- 如果 $NAME$ 被击沉，我们将招致 2 不满度 \n;;;;;;;;;;X
+MAKE_PRIDE_PREVIOUS_EFFECT;- $OLD_NAME$ 已经不再是海军骄傲\n;;;;;;;;;;X
+MAKE_PRIDE_DISSENT_EFFECT;- 本次命名给我们带来了 $DISSENT$ 不满度\n;;;;;;;;;;X
+EVTNAME400;$PRIDE_SUNK$ 被击沉!;;;;;;;;;;X
+EVTDESC400;$FROMCOUNTRY_ADJ$ 的海军骄傲，令人恐惧的 $PRIDE_SUNK$ 已经被光荣的 $PRIDE_SINKER$ 击沉!这对 $FROMCOUNTRY_ADJ$ 的士气是极大的打击，并提高了我们的士气。 ;;;;;;;;;;X
+EVTOPTA400;好消息! ;;;;;;;;;;X
+EVTNAME401;$PRIDE_SUNK$ 被击沉!;;;;;;;;;;X
+EVTDESC401;海军骄傲，光荣的 $PRIDE_SUNK$ 被 $FROMCOUNTRY_ADJ$ 的 $PRIDE_SINKER$ 击沉，舰上官兵全部牺牲。这对我们的士气是个极大的打击。 ;;;;;;;;;;X
+EVTOPTA401;可恨! ;;;;;;;;;;X
+TS_TECH;科技 ;;;;;;;;;;X
+TS_OUR;我们 ;;;;;;;;;;X
+TS_THEIR;他们 ;;;;;;;;;;X
+COOP_LABEL;盟军任务 ;;;;;;;;;;X
+TS_NO_SELECTED;选择一个科研领域进行共享。\n他们将参考你在这个领域的成就来促进他们自己的研究。 \n当他们的级别赶上我们时会自动取消。 ;;;;;;;;;;X
+TS_SELECTED;将你在 $TECH$ 领域的科研成果共享给 $COUNTRY$ 。这将花费 $COST$ 外交点数并占用 $LEADERSHIP$ 领导力。 ;;;;;;;;;;X
+SHARE_TECHTITLE;共享科技 ;;;;;;;;;;X
+SHARE_TECH_DESC;与这个国家共享某一领域的科学知识。 ;;;;;;;;;;X
+CANCEL_SHARE_TECH_DESC;停止与这个国家共享科学知识。 ;;;;;;;;;;X
+CANCEL_SHARE_TECHTITLE;停止共享科技 ;;;;;;;;;;X
+CANCEL_SHARE_TECH_INFO;是否停止将 $TECH$ 科学知识共享给 $COUNTRY$ ？ ;;;;;;;;;;X
+CANCEL_SHARE_TECH_INFO_NO;是否停止将科学知识共享给 $COUNTRY$ ？ ;;;;;;;;;;X
+SHARE_TECH_TOOLTIP;将 $TECH$ 共享给 $COUNTRY$: -$COST$;;;;;;;;;;X
+TW_SKILL_SHARE;$COUNTRY$ 将这个领域的科学知识共享给了我们。\n他们的级别： $THEIR$\n我们的级别： $OUR$;;;;;;;;;;X
+CANNOT_AFFORD;我们无法负担颁布这项法案的花费 ;;;;;;;;;;X
+UNIT_CAN_UPGRADE_TO;单击以升级这个单位为： ;;;;;;;;;;X
+PEN_UPGRADE;这是一个高级单位，拥有 $EXPERIENCE$% 经验。 ;;;;;;;;;;X
+##################################################;;;;;;;;;;;X
+# Regions ;;;;;;;;;;;X
+##################################################;;;;;;;;;;;X
+polish_germany_region;西普鲁士地区 ;;;;;;;;;;X
+khabarovskiy_kray_region;哈巴罗夫斯克边疆区 ;;;;;;;;;;X
+leningrad_oblast;列宁格勒州 ;;;;;;;;;;X
+bismarck_sea_region;俾斯曼海 ;;;;;;;;;;X
+papua_new_guinea_sea;巴布亚新几内亚 ;;;;;;;;;;X
+maldives_ocean;马尔代夫海 ;;;;;;;;;;X
+western_australia_sea;西澳大利亚海 ;;;;;;;;;;X
+caribbean_ocean;加勒比海 ;;;;;;;;;;X
+skagerrak_kattegatt;斯卡格拉克-卡特加特海峡 ;;;;;;;;;;X
+philippines_sea;菲律宾海 ;;;;;;;;;;X
+coral_sea;珊瑚海 ;;;;;;;;;;X
+northern_philippines_sea;北菲律宾海 ;;;;;;;;;;X
+river_plate;波拉特河 ;;;;;;;;;;X
+denmark_strait;丹麦海峡 ;;;;;;;;;;X
+barents_sea;巴伦支海 ;;;;;;;;;;X
+english_channel;英吉利海峡 ;;;;;;;;;;X
+ceylon_sea;锡兰海 ;;;;;;;;;;X
+solomon_sea;所罗门海 ;;;;;;;;;;X
+makassar_strait;望加锡海峡 ;;;;;;;;;;X
+UPGRADE_CANCEL;取消 ;;;;;;;;;;X
+TECH_AUTOMATED;AI指定科技 ;;;;;;;;;;X
+LEADERSHIP_AUTOMATED;AI分配领导力 ;;;;;;;;;;X
+SURRENDER_INHERIT;$WHO$ 投降了\n;;;;;;;;;;X
+BUILDING_LOWER_THAN; 少于 ;;;;;;;;;;X
+BUILDING_AT_LEAST; 至少 ;;;;;;;;;;X
+MAPMODE_15;空军地图 ;;;;;;;;;;X
+MAPMODE_16;海军地图 ;;;;;;;;;;X
+AIR_TOOLTIP_BOMBING;在过去的一周内此地遭到了 $NUM$ 次轰炸。 ;;;;;;;;;;X
+AIR_TOOLTIP_DOGFIGHT;在过去的一周内此地进行了 $NUM$ 次空战。 ;;;;;;;;;;X
+HAVE_NO_BLOCKADED; 未被封锁;;;;;;;;;;X
+HAVE_BLOCKADE_IN;被封锁;;;;;;;;;;X
+NAVAL_TOOLTIP_RAIDS;在过去的一周内我军在此海域击沉了敌军 $NUM$ 艘运输舰。 ;;;;;;;;;;X
+NAVAL_TOOLTIP_CONVOYS_SUNK;在过去的一周内敌军在此海域击沉了我军 $NUM$ 艘运输舰。 ;;;;;;;;;;X
+TOOLOWINFRA;因基础设施级别过低而无法进行补给 ;;;;;;;;;;X
+CANCELNAP_TOO_SOON_DESC;互不侵犯协议在签订之后 $MONTHS$ 个月之内无法取消。 ;;;;;;;;;;X
+CANCELNAP_TOO_LOW_BALANCE;我们需要 $LIMIT_PERC$% 部队来防御这条国境线。我们现在拥有 $CURR_PERC$% 。 ;;;;;;;;;;X
+SM_COUNTER_SCALE;隐藏命令层级;;;;;;;;;;X
+SM_HIERARCHY;显示命令层级;;;;;;;;;;X
+END_VICTORY_CONDITIONS; 完成$TOTAL$项胜利条件中的$NUM$项 ;;;;;;;;;;X
+END_VICTORY_POINTS;胜利点：$NUM$;;;;;;;;;;X
+WORLD_ORDER;世界秩序! ;;;;;;;;;;X
+STRATEGIC_VICTORY;战略胜利! ;;;;;;;;;;X
+OPERATIONAL_VICTORY;战役胜利! ;;;;;;;;;;X
+TACTICAL_VICTORY;战术胜利! ;;;;;;;;;;X
+STALEMATE;对峙 ;;;;;;;;;;X
+STRATEGIC_DEFEAT;战略失败! ;;;;;;;;;;X
+OPERATIONAL_DEFEAT;战役失败! ;;;;;;;;;;X
+TACTICAL_DEFEAT;战术失败! ;;;;;;;;;;X
+SM_ARCADE_MODE;推演模式 ;;;;;;;;;;X
+AMOUNT_OF_BRIGADES_IS_NOT_TRIGGER;$COUNTRY$ 拥有不超过 $VALUE$个旅级单位。\n;;;;;;;;;;X
+AMOUNT_OF_BRIGADES_IS_ATLEAST_TRIGGER;$COUNTRY$ 拥有至少$VALUE$个旅级单位。\n;;;;;;;;;;X
+MODIFIER_REINFORCEMENT_BONUS;增援加成 ;;;;;;;;;;X
+WEEKLY;每周 ;;;;;;;;;;X
+NAVAL_TOOLTIP_RAIDER_ATTACKED;在过去的一周中我军在此海域防御了敌军 $NUM$ 次护航袭击。 ;;;;;;;;;;X
+NAVAL_TOOLTIP_RAIDER_DEFENDED;在过去的一周中敌军在此海域防御了我军 $NUM$ 次护航袭击。 ;;;;;;;;;;X
+BM_POOR_SCREEN_PENALTY;低掩护惩罚 ;;;;;;;;;;X
+BM_POOR_SCREEN_PENALTY_desc;主力战舰需要足够的轻型护卫舰掩护以抵抗潜艇及海军轰炸机的进攻。 ;;;;;;;;;;X
+BM_SURPRISE_BONUS;突袭加成 ;;;;;;;;;;X
+BM_SURPRISE_BONUS_desc;我们的一些部队在对抗敌军时拥有暂时性的攻击加成。 ;;;;;;;;;;X
+civil_war;内战 ;;;;;;;;;;X
+civil_war_desc;这是一场内战-不需要设置占领政策。 ;;;;;;;;;;X
+TOTAL_NUM_OF_SHIPS_LESS;总舰船少于 ;;;;;;;;;;X
+TOTAL_NUM_OF_SHIPS_MORE;总舰船至少 ;;;;;;;;;;X
+TOTAL_NUM_OF_PLANES_LESS;总飞机少于 ;;;;;;;;;;X
+TOTAL_NUM_OF_PLANES_MORE;总飞机至少 ;;;;;;;;;;X
+FACTION_PROGRESS_LESS;阵营影响少于 ;;;;;;;;;;X
+FACTION_PROGRESS_MORE;阵营影响至少 ;;;;;;;;;;X
+TOTAL_NUM_OF_CONVOYS_LESS;总运输舰少于 ;;;;;;;;;;X
+TOTAL_NUM_OF_CONVOYS_MORE;总运输舰至少 ;;;;;;;;;;X
+TOTAL_SUNK_BY_US_LESS;总击沉舰船少于 ;;;;;;;;;;X
+TOTAL_SUNK_BY_US_MORE;总击沉舰船至少 ;;;;;;;;;;X
+TOTAL_LOST_SHIPS_LESS;总损失舰船少于 ;;;;;;;;;;X
+TOTAL_LOST_SHIPS_MORE;总损失舰船至少 ;;;;;;;;;;X
+TOTAL_IC_LESS;总IC少于 ;;;;;;;;;;X
+TOTAL_IC_MORE;总IC至少 ;;;;;;;;;;X
+TOTAL_CONVOY_IMPACT_LESS;护航作战影响少于 ;;;;;;;;;;X
+TOTAL_CONVOY_IMPACT_MORE;护航作战影响至少 ;;;;;;;;;;X
+TOTAL_ALLIED_IMPACT_LESS;盟军支援影响少于 ;;;;;;;;;;X
+TOTAL_ALLIED_IMPACT_MORE;盟军支援影响至少 ;;;;;;;;;;X
+TOTAL_BOMB_IMPACT_LESS;战略轰炸影响少于 ;;;;;;;;;;X
+TOTAL_BOMB_IMPACT_MORE;战略轰炸影响至少 ;;;;;;;;;;X
+TOTAL_SEA_BATTLES_LESS;正在进行的海战少于 ;;;;;;;;;;X
+TOTAL_SEA_BATTLES_MORE;正在进行的海战至少 ;;;;;;;;;;X
+TOTAL_LAND_OFFENSIVES_LESS;正在进行的陆军进攻作战少于 ;;;;;;;;;;X
+TOTAL_LAND_OFFENSIVES_MORE;正在进行的陆军进攻作战至少 ;;;;;;;;;;X
+TOTAL_BOMBINGS_LESS;正在进行的轰炸少于 ;;;;;;;;;;X
+TOTAL_BOMBINGS_MORE;正在进行的轰炸至少 ;;;;;;;;;;X
+TOTAL_LAND_DEFENSE_BATTLES_LESS;正在进行的陆军防御作战少于 ;;;;;;;;;;X
+TOTAL_LAND_DEFENSE_BATTLES_MORE;正在进行的陆军防御作战至少 ;;;;;;;;;;X
+LAND_BATTLES_FOUGHT_LESS;陆军战斗少于 ;;;;;;;;;;X
+LAND_BATTLES_FOUGHT_MORE;陆军战斗至少 ;;;;;;;;;;X
+AIR_BATTLES_FOUGHT_LESS;空军战斗少于 ;;;;;;;;;;X
+AIR_BATTLES_FOUGHT_MORE;空军战斗至少 ;;;;;;;;;;X
+NAVAL_BATTLES_FOUGHT_LESS;海军战斗少于 ;;;;;;;;;;X
+NAVAL_BATTLES_FOUGHT_MORE;海军战斗至少 ;;;;;;;;;;X
+NO_FACTION;未加入阵营 ;;;;;;;;;;X
+COMBAT_RETREAT;从战斗中撤退所有部队。 ;;;;;;;;;;X
+OOB_UNDER_COMMAND;统一指挥下列部队：\n ;;;;;;;;;;X
+NUM_SHIPS;舰队 ;;;;;;;;;;X
+NUM_WINGS;机群 ;;;;;;;;;;X
+NUM_UNKNOWNS;不明 ;;;;;;;;;;X
+UTM_NO_INFRA;基础设施级别过低 ;;;;;;;;;;X
+SM_UNIT_NAMES;兵牌显示单位名称 ;;;;;;;;;;X
+VC_BUTTON_TOOLTIP;胜利条件 ;;;;;;;;;;X
+STRATEGIC_EFFECT_BUTTON_TOOLTIP;战略效果 ;;;;;;;;;;X
+VC_FACTION_HEADER;$FACTION$阵营胜利条件 ;;;;;;;;;;X
+STANDARD_MODE;正常模式;;;;;;;;;;X
+ARCADE_MODE;推演模式;;;;;;;;;;X
+FE_ARCADE;游戏模式 ;;;;;;;;;;X
+SHORTCUT;快捷键：;;;;;;;;;;X
+TECH_DC_TO_START;双击以开始研究;;;;;;;;;;X
+TECH_DC_TO_STOP;双击以取消研究;;;;;;;;;;X

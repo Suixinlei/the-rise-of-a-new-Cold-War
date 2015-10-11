@@ -1,0 +1,11 @@
+controller = CHI
+owner = CHI
+infra = 8
+manpower = 0.4
+energy = 5.5
+industry = 4
+add_core = CHI
+add_core = CHC
+crude_oil = 2.1
+anti_air = 4
+PROV5747;ÐÂÖñ;;;;;;;;;;X

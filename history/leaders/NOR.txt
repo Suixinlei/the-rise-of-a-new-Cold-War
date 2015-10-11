@@ -1,0 +1,684 @@
+118001 = {
+	name = "Bjerk"
+	country = NOR
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L118001
+	add_trait = defensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+118002 = {
+	name = "Aandahl"
+	country = NOR
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L118002
+	add_trait = improvisation
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+118003 = {
+	name = "Berrefjord"
+	country = NOR
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L118003
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+118004 = {
+	name = "Mickelson"
+	country = NOR
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L118004
+	add_trait = old_guard
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+118005 = {
+	name = "Nystrom"
+	country = NOR
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L118005
+	add_trait = winter_specialist
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+118006 = {
+	name = "Holte"
+	country = NOR
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 0.00
+	picture = L118006
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+118007 = {
+	name = "Bjerke"
+	country = NOR
+	type = land
+	skill = 1
+	max_skill = 7
+	loyalty = 1.00
+	picture = L118007
+	add_trait = trainer
+	add_trait = frontline_soldier
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+118008 = {
+	name = "Bjørsland"
+	country = NOR
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L118008
+	add_trait = engineer
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+118009 = {
+	name = "Eide"
+	country = NOR
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L118009
+	add_trait = panzer_leader
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+118010 = {
+	name = "Hanevik"
+	country = NOR
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L118010
+	add_trait = offensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+118011 = {
+	name = "Haugen"
+	country = NOR
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L118011
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+118012 = {
+	name = "Hynaas"
+	country = NOR
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L118012
+	add_trait = hard_defender
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+118013 = {
+	name = "Johannessen"
+	country = NOR
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L118013
+	add_trait = landing_specialist
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+118014 = {
+	name = "Klever"
+	country = NOR
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L118014
+	add_trait = winter_specialist
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+118015 = {
+	name = "Kolbjørnsen"
+	country = NOR
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L118015
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+118016 = {
+	name = "Lien"
+	country = NOR
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L118016
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+118017 = {
+	name = "Lindberg"
+	country = NOR
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L118017
+	add_trait = assaulter
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+118018 = {
+	name = "Odlo"
+	country = NOR
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L118018
+	add_trait = commando
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+118019 = {
+	name = "Opedal"
+	country = NOR
+	type = land
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L118019
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+118020 = {
+	name = "Opperud"
+	country = NOR
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L118020
+	add_trait = learners_will
+	add_trait = trickster
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+118021 = {
+	name = "Petersen"
+	country = NOR
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L118021
+	add_trait = landing_specialist
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+118022 = {
+	name = "Søbstad"
+	country = NOR
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L118022
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+118023 = {
+	name = "Stølan"
+	country = NOR
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L118023
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+118024 = {
+	name = "Vaadal"
+	country = NOR
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L118024
+	add_trait = winter_specialist
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+118025 = {
+	name = "Frisvold"
+	country = NOR
+	type = land
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L118025
+	add_trait = engineer
+	add_trait = winter_specialist
+	history = {
+		1995.1.1 = { rank = 1 }
+		1998.1.1 = { rank = 2 }
+		2001.1.1 = { rank = 3 }
+		2003.1.1 = { rank = 4 }
+	}
+}
+118026 = {
+	name = "Diesen"
+	country = NOR
+	type = land
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L118026
+	history = {
+		1998.1.1 = { rank = 1 }
+		2001.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+118027 = {
+	name = "Grandhagen"
+	country = NOR
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L118027
+	add_trait = winter_specialist
+	history = {
+		1998.1.1 = { rank = 1 }
+		2001.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+118028 = {
+	name = "Sunde"
+	country = NOR
+	type = land
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L118028
+	add_trait = offensive_doctrine
+	history = {
+		1998.1.1 = { rank = 1 }
+		2001.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+118029 = {
+	name = "Jakobsen"
+	country = NOR
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L118029
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+118030 = {
+	name = "Lund"
+	country = NOR
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L118030
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+118031 = {
+	name = "Mood"
+	country = NOR
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L118031
+	add_trait = fortress_buster
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+118032 = {
+	name = "Rosén"
+	country = NOR
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L118032
+	add_trait = panzer_leader
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+118033 = {
+	name = "Sølvberg"
+	country = NOR
+	type = land
+	skill = 2
+	max_skill = 8
+	loyalty = 1.00
+	picture = L118033
+	add_trait = offensive_doctrine
+	add_trait = winter_specialist
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+118034 = {
+	name = "Flølo"
+	country = NOR
+	type = air
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = L118034
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+118035 = {
+	name = "Heiestad"
+	country = NOR
+	type = air
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L118035
+	add_trait = night_flyer
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+118036 = {
+	name = "Kjøsnes"
+	country = NOR
+	type = air
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L118036
+	add_trait = tank_buster
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+118037 = {
+	name = "Ødegaard"
+	country = NOR
+	type = air
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L118037
+	add_trait = superior_air_tactician
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+118038 = {
+	name = "Strandman"
+	country = NOR
+	type = air
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L118038
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+118039 = {
+	name = "Hannestad"
+	country = NOR
+	type = air
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L118039
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+118040 = {
+	name = "Lunde"
+	country = NOR
+	type = air
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L118040
+	add_trait = fleet_destroyer
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+118041 = {
+	name = "Nodeland"
+	country = NOR
+	type = air
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L118041
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+118042 = {
+	name = "Steineger"
+	country = NOR
+	type = air
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L118042
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+118043 = {
+	name = "Haugen"
+	country = NOR
+	type = sea
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L118043
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+118044 = {
+	name = "Fleisje"
+	country = NOR
+	type = sea
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L118044
+	add_trait = superior_tactician
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+118045 = {
+	name = "Amundsen"
+	country = NOR
+	type = sea
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L118045
+	add_trait = seawolf
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+118046 = {
+	name = "Natvig"
+	country = NOR
+	type = sea
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L118046
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+118047 = {
+	name = "Skram"
+	country = NOR
+	type = sea
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L118047
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+118048 = {
+	name = "Bruun-Hanssen"
+	country = NOR
+	type = sea
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L118048
+	add_trait = spotter
+	add_trait = superior_tactician
+	history = {
+		1998.1.1 = { rank = 1 }
+		2001.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+118049 = {
+	name = "Reksten"
+	country = NOR
+	type = sea
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L118049
+	add_trait = blockade_runner
+	history = {
+		1998.1.1 = { rank = 1 }
+		2001.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+118050 = {
+	name = "Berggrav"
+	country = NOR
+	type = sea
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L118050
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+118051 = {
+	name = "Finseth"
+	country = NOR
+	type = sea
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L118051
+	add_trait = seawolf
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+118052 = {
+	name = "Grimstvedt"
+	country = NOR
+	type = sea
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L118052
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}

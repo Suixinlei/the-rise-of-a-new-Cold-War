@@ -1,0 +1,10 @@
+owner = VEN
+controller = VEN
+add_core = VEN
+infra = 6
+crude_oil = 35.4
+energy = 7.00
+air_base = 5 #La Chinita airbase
+naval_base = 3 #Maracaibo port
+leadership = 2.50
+points = 1

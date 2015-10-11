@@ -1,0 +1,6 @@
+owner = TAJ
+controller = TAJ
+add_core = TAJ
+add_core = KYG
+rare_materials = 7.00
+infra = 6

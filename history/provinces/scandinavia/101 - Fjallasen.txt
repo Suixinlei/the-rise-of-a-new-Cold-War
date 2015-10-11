@@ -1,0 +1,11 @@
+owner = SWE
+controller = SWE
+add_core = SWE
+
+metal = 16
+rare_materials = 2
+infra = 6
+
+
+air_base = 2 #Kalixfors airbase
+points = 1

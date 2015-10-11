@@ -1,0 +1,9 @@
+owner = NEP
+controller = NEP
+
+add_core = NEP
+infra = 6
+manpower = 12.4
+air_base = 1 #Tribhuvan airport
+points = 1
+industry = 3

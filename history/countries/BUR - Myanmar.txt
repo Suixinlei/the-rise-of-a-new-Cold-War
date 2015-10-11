@@ -1,0 +1,54 @@
+capital = 6070
+government = dictatorship
+ideology = fascistic
+alignment = { x = -30 y = 90 }
+neutrality = 80
+national_unity = 70
+head_of_state = 12501
+head_of_government = 12501
+foreign_minister = 12502
+armament_minister = 12503
+minister_of_security = 12504
+minister_of_intelligence = 12505
+chief_of_staff = 12506
+chief_of_army = 12506
+chief_of_navy = 12507
+chief_of_air = 12507
+oob = "BUR_2000.txt"
+
+popularity = { 
+	national_socialist = 0
+	fascistic = 60
+	paternal_autocrat = 0
+	social_conservative = 10
+	market_liberal = 10
+	social_liberal = 10
+	social_democrat = 10
+	left_wing_radical = 0
+	leninist = 0
+	stalinist = 0
+}
+
+organization = { 
+	national_socialist = 0
+	fascistic = 120
+	paternal_autocrat = 0
+	social_conservative = 30
+	market_liberal = 30
+	social_liberal = 30
+	social_democrat = 30
+	left_wing_radical = 0
+	leninist = 0
+	stalinist = 0
+}
+
+conscription_policy = universal_military_service
+press_laws = censorship
+mobilisation_level = peace_time
+civil_laws = totalitarianism
+economic_policy = state_control
+service_length = eighteen_months
+
+
+weapon_design = 1
+automatic_weapons = 1

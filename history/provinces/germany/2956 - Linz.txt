@@ -1,0 +1,8 @@
+owner = AUS
+controller = AUS
+add_core = AUS
+manpower = 0.3
+infra = 10
+
+air_base = 4 #Vogler airbase
+points = 1

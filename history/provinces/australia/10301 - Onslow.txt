@@ -1,0 +1,6 @@
+owner = AST
+controller = AST
+add_core = AST
+infra = 4
+crude_oil = 6.00
+metal = 40.00

@@ -1,0 +1,8 @@
+owner = MEX
+controller = MEX
+add_core = MEX
+energy = 18.00
+infra = 5
+
+terrain = jungle
+air_base = 3 #Francisco Sarabia and Salina Cruz airbase

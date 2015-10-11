@@ -1,0 +1,5 @@
+owner = ARG
+controller = ARG
+add_core = ARG
+infra = 2
+air_base = 2 #Carlos Campos airbase

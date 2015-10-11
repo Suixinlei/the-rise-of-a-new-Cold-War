@@ -1,0 +1,6 @@
+owner = TUR
+controller = TUR
+add_core = TUR
+add_core = KUR
+infra = 7
+points = 1

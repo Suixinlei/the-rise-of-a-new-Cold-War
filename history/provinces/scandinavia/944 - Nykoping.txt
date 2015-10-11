@@ -1,0 +1,8 @@
+owner = SWE
+controller = SWE
+add_core = SWE
+
+infra = 8
+
+air_base = 4 # Björkvik airbase
+naval_base = 4 #Oxelösund port

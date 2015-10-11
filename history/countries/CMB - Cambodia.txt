@@ -1,0 +1,54 @@
+capital = 6222
+government = constitutional_monarchy
+ideology = social_democrat
+alignment = { x = 0 y = 50 }
+neutrality = 80
+national_unity = 70
+head_of_state = 13001
+head_of_government = 13002
+foreign_minister = 13003
+armament_minister = 13004
+minister_of_security = 13005
+minister_of_intelligence = 13006
+chief_of_staff = 13007
+chief_of_army = 13007
+chief_of_navy = 13007
+chief_of_air = 13007
+oob = "CMB_2000.txt"
+
+popularity = { 
+	national_socialist = 0
+	fascistic = 0
+	paternal_autocrat = 0
+	social_conservative = 32
+	market_liberal = 1
+	social_liberal = 14
+	social_democrat = 41
+	left_wing_radical = 2
+	leninist = 0
+	stalinist = 0
+}
+
+organization = { 
+	national_socialist = 0
+	fascistic = 0
+	paternal_autocrat = 0
+	social_conservative = 96
+	market_liberal = 3
+	social_liberal = 34
+	social_democrat = 123
+	left_wing_radical = 6
+	leninist = 0
+	stalinist = 0
+}
+
+conscription_policy = military_service
+press_laws = free_press
+mobilisation_level = peace_time
+civil_laws = open_society
+economic_policy = lais_fair
+service_length = eighteen_months
+
+
+weapon_design = 1
+artillery_troops = 1

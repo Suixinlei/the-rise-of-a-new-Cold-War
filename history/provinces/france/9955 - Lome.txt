@@ -1,0 +1,8 @@
+owner = TOG
+controller = TOG
+add_core = TOG
+infra = 6
+manpower = 2.4
+air_base = 3 #Lome airbase
+naval_base = 1
+points = 1

@@ -1,0 +1,144 @@
+theatre = {
+	name = "Fuerzas Armadas del Ecuador"
+	location = 9974
+	regiment = { type = hq_brigade name = "Fuerzas Armadas del Ecuador" historical_model = 1 }
+	army = {
+		name = "Ejército Ecuatoriano"
+		location = 9974
+		regiment = { type = hq_brigade name = "Ejército Ecuatoriano" historical_model = 1 }
+		corps = {
+			name = "I 'Shyris' Army Division"
+			location = 9974
+			regiment = { type = hq_brigade name = "I Army Division HQ" historical_model = 1 }
+			division = {
+				is_reserve = yes
+				name = "1st 'Galapagos' Armored Cavalry Brigade"
+				location = 9974
+				regiment = { type = armor_brigade name = "11th Armored Cavalry Battalion" historical_model = 0 }
+				regiment = { type = armor_brigade name = "12th Armored Cavalry Battalion" historical_model = 0 }
+			}
+			division = {
+				is_reserve = yes
+				name = "13th 'Pichincha' Infantry Brigade"
+				location = 9974
+				regiment = { type = infantry_brigade name = "131st Infantry Battalion" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "132nd Infantry Battalion" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "133rd Infantry Battalion" historical_model = 1 }
+			}
+			division = {
+				is_reserve = yes
+				name = "9th 'Patria' Special Forces Brigade"
+				location = 9974
+				regiment = { type = special_forces_brigade name = "24th Special Forces Group 'Rayo'" historical_model = 1 }
+				regiment = { type = special_forces_brigade name = "25th Special Forces Group 'Santo Domingo de los Colorados'" historical_model = 1 }
+				regiment = { type = special_forces_brigade name = "26th Special Forces Group 'Quevedo'" historical_model = 1 }
+				regiment = { type = special_forces_brigade name = "27th Special Forces Group 'Latacunga'" historical_model = 1 }
+			}
+		}
+		corps = {
+			name = "II 'Libertad' Army Division"
+			location = 10007
+			regiment = { type = hq_brigade name = "II Army Division HQ" historical_model = 1 }
+			division = {
+				is_reserve = yes
+				name = "5th 'Guayas' Infantry Brigade"
+				location = 10007
+				regiment = { type = infantry_brigade name = "51st Infantry Battalion" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "52nd Infantry Battalion" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "53rd Infantry Battalion" historical_model = 1 }
+			}
+		}
+		corps = {
+			name = "III 'Tarqui' Army Division"
+			location = 10007
+			regiment = { type = hq_brigade name = "III Army Division HQ" historical_model = 1 }
+			division = {
+				is_reserve = yes
+				name = "1st 'El Oro' Infantry Brigade"
+				location = 10007
+				regiment = { type = infantry_brigade name = "11th Infantry Battalion" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "12th Infantry Battalion" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "13th Infantry Battalion" historical_model = 1 }
+			}
+			division = {
+				is_reserve = yes
+				name = "7th 'Loja' Infantry Brigade"
+				location = 10007
+				regiment = { type = infantry_brigade name = "71st Infantry Battalion" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "72nd Infantry Battalion" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "73rd Infantry Battalion" historical_model = 1 }
+			}
+			division = {
+				is_reserve = yes
+				name = "27th 'Bolívar' Infantry Brigade"
+				location = 10007
+				regiment = { type = infantry_brigade name = "271st Infantry Battalion" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "272nd Infantry Battalion" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "273rd Infantry Battalion" historical_model = 1 }
+			}
+		}
+		corps = {
+			name = "IV 'Amazonas' Army Division"
+			location = 9963
+			regiment = { type = hq_brigade name = "IV Army Division HQ" historical_model = 1 }
+			division = {
+				is_reserve = yes
+				name = "17th 'Pastaza' Jungle Infantry Brigade"
+				location = 9963
+				regiment = { type = infantry_brigade name = "49th Jungle Infantry Battalion" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "50th Jungle Infantry Battalion" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "51st Jungle Infantry Battalion" historical_model = 1 }
+			}
+			division = {
+				is_reserve = yes
+				name = "19th 'Napo' Jungle Infantry Brigade"
+				location = 9963
+				regiment = { type = infantry_brigade name = "55th 'Putumayo' Jungle Infantry Battalion" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "56th 'Tungurahua' Jungle Infantry Battalion" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "57th 'Montecristi' Jungle Infantry Battalion" historical_model = 1 }
+			}
+			division = {
+				is_reserve = yes
+				name = "21st 'Cóndor' Jungle Infantry Brigade"
+				location = 9963
+				regiment = { type = infantry_brigade name = "61st 'Santiago' Jungle Infantry Battalion" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "62nd 'Zamora' Jungle Infantry Battalion" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "63rd 'Gualaquiza' Jungle Infantry Battalion" historical_model = 1 }
+			}
+		}
+	}
+	
+	air = {
+	name = "2112th Combat Squadron 'Mirage'"
+	base = 9974
+	location = 9974
+	wing = { type = interceptor name = "2112th Combat Squadron 'Mirage'" historical_model = 0 }
+	}
+	
+	air = {
+	name = "2311 Combat Squadron 'Dragons'"
+	base = 9974
+	location = 9974
+	wing = { type = cas name = "2311 Combat Squadron 'Dragons'" historical_model = 0 }
+	}
+	
+	navy = {
+	name = "Armada del Ecuador"
+	base = 10007
+	location = 10007
+	ship = { type = submarine name = "BAE Shyri" historical_model = 0 }
+	ship = { type = submarine name = "BAE Huancavilca" historical_model = 0 }
+	ship = { type = heavy_cruiser name = "BAE Morán Valverde" historical_model = 0 }
+	ship = { type = light_cruiser name = "BAE Esmeraldas" historical_model = 0 }
+	ship = { type = light_cruiser name = "BAE Manab? historical_model = 0 }
+	ship = { type = light_cruiser name = "BAE Los Rios" historical_model = 0 }
+	ship = { type = light_cruiser name = "BAE El Oro" historical_model = 0 }
+	ship = { type = light_cruiser name = "BAE Galápagos" historical_model = 0 }
+	ship = { type = light_cruiser name = "BAE Loja" historical_model = 0 }
+	ship = { type = patrol_boat name = "BAE Quito" historical_model = 0 }
+	ship = { type = patrol_boat name = "BAE Guayaquil" historical_model = 0 }
+	ship = { type = patrol_boat name = "BAE Cuenca" historical_model = 0 }
+	ship = { type = transport_ship name = "BAE Huacolpo" historical_model = 0 }
+	}
+	
+}

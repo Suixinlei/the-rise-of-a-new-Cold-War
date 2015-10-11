@@ -1,0 +1,5 @@
+theatre = {
+	name = "Reykjavik HQ"
+	location = 8086
+	regiment = { type = hq_brigade name = "Reykjavik HQ" historical_model = 0 }
+}

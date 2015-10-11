@@ -1,0 +1,40 @@
+capital = 5134
+government = autocratic_democracy
+ideology = paternal_autocrat
+alignment = { x = 0 y = 50 }
+neutrality = 80
+national_unity = 70
+oob = "TUN_2000.txt"
+
+popularity = { 
+	national_socialist = 0
+	fascistic = 0
+	paternal_autocrat = 81
+	social_conservative = 4
+	market_liberal = 1
+	social_liberal = 3
+	social_democrat = 7
+	left_wing_radical = 4
+	leninist = 0
+	stalinist = 0
+}
+
+organization = { 
+	national_socialist = 0
+	fascistic = 0
+	paternal_autocrat = 150
+	social_conservative = 12
+	market_liberal = 3
+	social_liberal = 9
+	social_democrat = 21
+	left_wing_radical = 12
+	leninist = 0
+	stalinist = 0
+}
+
+conscription_policy = military_service
+press_laws = censorship
+mobilisation_level = peace_time
+civil_laws = restrictions
+service_length = twelve_months
+economic_policy = limit_intervention

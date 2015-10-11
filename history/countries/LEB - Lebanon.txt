@@ -1,0 +1,57 @@
+capital = 5299
+government = republic
+ideology = social_conservative
+alignment = { x = 0 y = 50 }
+neutrality = 80
+national_unity = 70
+head_of_state = 45001
+head_of_government = 45003
+foreign_minister = 45008
+armament_minister = 45012
+minister_of_security = 45014
+minister_of_intelligence = 45048
+chief_of_staff = 45002
+chief_of_army = 45002
+chief_of_air = 45050
+chief_of_navy = 45051
+oob = "LEB_2000.txt"
+
+popularity = { 
+	national_socialist = 24
+	fascistic = 7
+	paternal_autocrat = 5
+	social_conservative = 24
+	market_liberal = 5
+	social_liberal = 0
+	social_democrat = 14
+	left_wing_radical = 0
+	leninist = 10
+	stalinist = 0
+}
+
+organization = { 
+	national_socialist = 78
+	fascistic = 21
+	paternal_autocrat = 15
+	social_conservative = 78
+	market_liberal = 15
+	social_liberal = 0
+	social_democrat = 42
+	left_wing_radical = 0
+	leninist = 30
+	stalinist = 0
+}
+
+conscription_policy = abolished_military
+press_laws = limited_censorship
+mobilisation_level = low_mobilisation
+civil_laws = restrictions
+economic_policy = lais_fair
+service_length = six_months
+
+infra_building = 1
+ic_building = 1
+air_base_building = 1
+naval_base_building = 1
+land_fort_building = 1
+coastal_fort_building = 1

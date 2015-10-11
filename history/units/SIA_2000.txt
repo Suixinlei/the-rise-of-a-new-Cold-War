@@ -1,0 +1,634 @@
+theatre = {
+	name = "Royal Thai Armed Forces"
+	location = 6148
+	regiment = { type = hq_brigade name = "Armed Forces HQ" historical_model = 1 }
+	armygroup = {
+		name = "Royal Thai Army"
+		location = 6148
+		regiment = { type = hq_brigade name = "Army HQ" historical_model = 1 }
+		army = {
+			name = "First Army"
+			location = 6148
+			regiment = { type = hq_brigade name = "Firt Army HQ" historical_model = 1 }
+			corps = {
+				name = "1st Infantry Division"
+				location = 6148
+				regiment = { type = hq_brigade name = "1st Division HQ" historical_model = 1 }
+				division = {
+					is_reserve = yes
+					name = "11th Infantry Brigade"
+					location = 6148
+					regiment = { type = infantry_brigade name = "111th Infantry Battalion" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "112th Infantry Battalion" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "113th Infantry Battalion" historical_model = 1 }
+				}
+				division = {
+					is_reserve = yes
+					name = "12th Infantry Brigade"
+					location = 6148
+					regiment = { type = infantry_brigade name = "121st Infantry Battalion" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "122nd Infantry Battalion" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "123rd Infantry Battalion" historical_model = 1 }
+				}
+				division = {
+					is_reserve = yes
+					name = "13th Infantry Brigade"
+					location = 6148
+					regiment = { type = infantry_brigade name = "131st Infantry Battalion" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "132nd Infantry Battalion" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "133rd Infantry Battalion" historical_model = 1 }
+				}
+			}
+			corps = {
+				name = "2nd Infantry Division"
+				location = 6162
+				regiment = { type = hq_brigade name = "2nd Division HQ" historical_model = 1 }
+				division = {
+					is_reserve = yes
+					name = "21st Infantry Brigade"
+					location = 6162
+					regiment = { type = infantry_brigade name = "211th Infantry Battalion" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "212th Infantry Battalion" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "213th Infantry Battalion" historical_model = 1 }
+				}
+				division = {
+					is_reserve = yes
+					name = "22nd Infantry Brigade"
+					location = 6162
+					regiment = { type = infantry_brigade name = "221st Infantry Battalion" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "222nd Infantry Battalion" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "223rd Infantry Battalion" historical_model = 1 }
+				}
+				division = {
+					is_reserve = yes
+					name = "23rd Infantry Brigade"
+					location = 6162
+					regiment = { type = infantry_brigade name = "231st Infantry Battalion" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "232nd Infantry Battalion" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "233rd Infantry Battalion" historical_model = 1 }
+				}
+			}
+			corps = {
+				name = "9th Infantry Division"
+				location = 6149
+				regiment = { type = hq_brigade name = "9th Division HQ" historical_model = 1 }
+				division = {
+					is_reserve = yes
+					name = "91st Infantry Brigade"
+					location = 6149
+					regiment = { type = infantry_brigade name = "911th Infantry Battalion" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "912th Infantry Battalion" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "913th Infantry Battalion" historical_model = 1 }
+				}
+				division = {
+					is_reserve = yes
+					name = "92nd Infantry Brigade"
+					location = 6149
+					regiment = { type = infantry_brigade name = "921st Infantry Battalion" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "922nd Infantry Battalion" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "923rd Infantry Battalion" historical_model = 1 }
+				}
+				division = {
+					is_reserve = yes
+					name = "93rd Infantry Brigade"
+					location = 6149
+					regiment = { type = infantry_brigade name = "931st Infantry Battalion" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "932nd Infantry Battalion" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "933rd Infantry Battalion" historical_model = 1 }
+				}
+			}
+			corps = {
+				name = "11th Infantry Division"
+				location = 6138
+				regiment = { type = hq_brigade name = "11th Division HQ" historical_model = 1 }
+				division = {
+					is_reserve = yes
+					name = "111th Infantry Brigade"
+					location = 6138
+					regiment = { type = infantry_brigade name = "1111th Infantry Battalion" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "1112th Infantry Battalion" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "1113th Infantry Battalion" historical_model = 1 }
+				}
+				division = {
+					is_reserve = yes
+					name = "112th Infantry Brigade"
+					location = 6138
+					regiment = { type = infantry_brigade name = "1121st Infantry Battalion" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "1122nd Infantry Battalion" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "1123rd Infantry Battalion" historical_model = 1 }
+				}
+				division = {
+					is_reserve = yes
+					name = "113th Infantry Brigade"
+					location = 6138
+					regiment = { type = infantry_brigade name = "1131st Infantry Battalion" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "1132nd Infantry Battalion" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "1133rd Infantry Battalion" historical_model = 1 }
+				}
+			}
+			corps = {
+				name = "2nd Cavalry Division"
+				location = 6147
+				regiment = { type = hq_brigade name = "2nd Division HQ" historical_model = 1 }
+				division = {
+					is_reserve = yes
+					name = "21st Cavalry Brigade"
+					location = 6147
+					regiment = { type = mechanized_brigade name = "211th Cavalry Battalion" historical_model = 0 }
+					regiment = { type = mechanized_brigade name = "212th Cavalry Battalion" historical_model = 0 }
+					regiment = { type = mechanized_brigade name = "213th Cavalry Battalion" historical_model = 0 }
+				}
+				division = {
+					is_reserve = yes
+					name = "22nd Cavalry Brigade"
+					location = 6147
+					regiment = { type = mechanized_brigade name = "221st Cavalry Battalion" historical_model = 0 }
+					regiment = { type = mechanized_brigade name = "222nd Cavalry Battalion" historical_model = 0 }
+					regiment = { type = mechanized_brigade name = "223rd Cavalry Battalion" historical_model = 0 }
+				}
+				division = {
+					is_reserve = yes
+					name = "23rd Cavalry Brigade"
+					location = 6147
+					regiment = { type = armor_brigade name = "231st Cavalry Battalion" historical_model = 0 }
+					regiment = { type = armor_brigade name = "232nd Cavalry Battalion" historical_model = 0 }
+					regiment = { type = armor_brigade name = "233rd Cavalry Battalion" historical_model = 0 }
+				}
+			}
+			corps = {
+				name = "1st Development Division"
+				location = 6175
+				regiment = { type = hq_brigade name = "1st Division HQ" historical_model = 1 }
+				division = {
+					is_reserve = yes
+					name = "11th Development Brigade"
+					location = 6175
+					regiment = { type = infantry_brigade name = "111th Development Battalion" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "112th Development Battalion" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "113th Development Battalion" historical_model = 1 }
+				}
+				division = {
+					is_reserve = yes
+					name = "12th Development Brigade"
+					location = 6175
+					regiment = { type = infantry_brigade name = "121st Development Battalion" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "122nd Development Battalion" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "123rd Development Battalion" historical_model = 1 }
+				}
+				division = {
+					is_reserve = yes
+					name = "13th Development Brigade"
+					location = 6175
+					regiment = { type = infantry_brigade name = "131st Development Battalion" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "132nd Development Battalion" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "133rd Development Battalion" historical_model = 1 }
+				}
+			}
+			division = {
+				is_reserve = yes
+				name = "31st Infantry Regiment"
+				location = 6148
+				regiment = { type = paratrooper_brigade name = "311th Infantry Battalion" historical_model = 1 }
+				regiment = { type = paratrooper_brigade name = "312th Infantry Battalion" historical_model = 1 }
+				regiment = { type = paratrooper_brigade name = "313th Infantry Battalion" historical_model = 1 }
+			}
+		}
+		army = {
+			name = "Second Army"
+			location = 7699
+			regiment = { type = hq_brigade name = "Second Army HQ" historical_model = 1 }
+			corps = {
+				name = "3rd Infantry Division"
+				location = 7699
+				regiment = { type = hq_brigade name = "3rd Division HQ" historical_model = 1 }
+				division = {
+					is_reserve = yes
+					name = "31st Infantry Brigade"
+					location = 7699
+					regiment = { type = infantry_brigade name = "311th Infantry Battalion" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "312th Infantry Battalion" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "313th Infantry Battalion" historical_model = 1 }
+				}
+				division = {
+					is_reserve = yes
+					name = "32nd Infantry Brigade"
+					location = 7699
+					regiment = { type = infantry_brigade name = "321st Infantry Battalion" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "322nd Infantry Battalion" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "323rd Infantry Battalion" historical_model = 1 }
+				}
+				division = {
+					is_reserve = yes
+					name = "33rd Infantry Brigade"
+					location = 7699
+					regiment = { type = infantry_brigade name = "331st Infantry Battalion" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "332nd Infantry Battalion" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "333rd Infantry Battalion" historical_model = 1 }
+				}
+			}
+			corps = {
+				name = "6th Infantry Division"
+				location = 7708
+				regiment = { type = hq_brigade name = "6th Division HQ" historical_model = 1 }
+				division = {
+					is_reserve = yes
+					name = "61st Infantry Brigade"
+					location = 7708
+					regiment = { type = infantry_brigade name = "611th Infantry Battalion" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "612th Infantry Battalion" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "613th Infantry Battalion" historical_model = 1 }
+				}
+				division = {
+					is_reserve = yes
+					name = "62nd Infantry Brigade"
+					location = 7708
+					regiment = { type = infantry_brigade name = "621st Infantry Battalion" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "622nd Infantry Battalion" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "623rd Infantry Battalion" historical_model = 1 }
+				}
+				division = {
+					is_reserve = yes
+					name = "63rd Infantry Brigade"
+					location = 7708
+					regiment = { type = infantry_brigade name = "631st Infantry Battalion" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "632nd Infantry Battalion" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "633rd Infantry Battalion" historical_model = 1 }
+				}
+			}
+			corps = {
+				name = "3rd Cavalry Division"
+				location = 7703
+				regiment = { type = hq_brigade name = "3rd Division HQ" historical_model = 1 }
+				division = {
+					is_reserve = yes
+					name = "31st Cavalry Brigade"
+					location = 7703
+					regiment = { type = mechanized_brigade name = "311th Cavalry Battalion" historical_model = 0 }
+					regiment = { type = mechanized_brigade name = "312th Cavalry Battalion" historical_model = 0 }
+					regiment = { type = mechanized_brigade name = "313th Cavalry Battalion" historical_model = 0 }
+				}
+				division = {
+					is_reserve = yes
+					name = "32nd Cavalry Brigade"
+					location = 7703
+					regiment = { type = mechanized_brigade name = "321st Cavalry Battalion" historical_model = 0 }
+					regiment = { type = mechanized_brigade name = "322nd Cavalry Battalion" historical_model = 0 }
+					regiment = { type = mechanized_brigade name = "323rd Cavalry Battalion" historical_model = 0 }
+				}
+				division = {
+					is_reserve = yes
+					name = "33rd Cavalry Brigade"
+					location = 7703
+					regiment = { type = armor_brigade name = "331st Cavalry Battalion" historical_model = 0 }
+					regiment = { type = armor_brigade name = "332nd Cavalry Battalion" historical_model = 0 }
+					regiment = { type = armor_brigade name = "333rd Cavalry Battalion" historical_model = 0 }
+				}
+			}
+			corps = {
+				name = "2nd Development Division"
+				location = 7694
+				regiment = { type = hq_brigade name = "2nd Division HQ" historical_model = 1 }
+				division = {
+					is_reserve = yes
+					name = "21st Development Brigade"
+					location = 7694
+					regiment = { type = infantry_brigade name = "211th Development Battalion" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "212th Development Battalion" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "213th Development Battalion" historical_model = 1 }
+				}
+				division = {
+					is_reserve = yes
+					name = "22nd Development Brigade"
+					location = 7694
+					regiment = { type = infantry_brigade name = "221st Development Battalion" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "222nd Development Battalion" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "223rd Development Battalion" historical_model = 1 }
+				}
+				division = {
+					is_reserve = yes
+					name = "23rd Development Brigade"
+					location = 7694
+					regiment = { type = infantry_brigade name = "231st Development Battalion" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "232nd Development Battalion" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "233rd Development Battalion" historical_model = 1 }
+				}
+			}
+		}
+		army = {
+			name = "Third Army"
+			location = 7687
+			regiment = { type = hq_brigade name = "Third Army HQ" historical_model = 1 }
+			corps = {
+				name = "4th Infantry Division"
+				location = 7687
+				regiment = { type = hq_brigade name = "4th Division HQ" historical_model = 1 }
+				division = {
+					is_reserve = yes
+					name = "41st Infantry Brigade"
+					location = 7687
+					regiment = { type = infantry_brigade name = "411th Infantry Battalion" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "412th Infantry Battalion" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "413th Infantry Battalion" historical_model = 1 }
+				}
+				division = {
+					is_reserve = yes
+					name = "42nd Infantry Brigade"
+					location = 7687
+					regiment = { type = infantry_brigade name = "421st Infantry Battalion" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "422nd Infantry Battalion" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "423rd Infantry Battalion" historical_model = 1 }
+				}
+				division = {
+					is_reserve = yes
+					name = "43rd Infantry Brigade"
+					location = 7687
+					regiment = { type = infantry_brigade name = "431st Infantry Battalion" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "432nd Infantry Battalion" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "433rd Infantry Battalion" historical_model = 1 }
+				}
+			}
+			corps = {
+				name = "7th Infantry Division"
+				location = 7684
+				regiment = { type = hq_brigade name = "7th Division HQ" historical_model = 1 }
+				division = {
+					is_reserve = yes
+					name = "71st Infantry Brigade"
+					location = 7684
+					regiment = { type = infantry_brigade name = "711th Infantry Battalion" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "712th Infantry Battalion" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "713th Infantry Battalion" historical_model = 1 }
+				}
+				division = {
+					is_reserve = yes
+					name = "72nd Infantry Brigade"
+					location = 7684
+					regiment = { type = infantry_brigade name = "721st Infantry Battalion" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "722nd Infantry Battalion" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "73rd Infantry Battalion" historical_model = 1 }
+				}
+				division = {
+					is_reserve = yes
+					name = "73rd Infantry Brigade"
+					location = 7684
+					regiment = { type = infantry_brigade name = "731st Infantry Battalion" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "732nd Infantry Battalion" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "733rd Infantry Battalion" historical_model = 1 }
+				}
+			}
+			corps = {
+				name = "1st Cavalry Division"
+				location = 7683
+				regiment = { type = hq_brigade name = "1st Division HQ" historical_model = 1 }
+				division = {
+					is_reserve = yes
+					name = "11th Cavalry Brigade"
+					location = 7683
+					regiment = { type = mechanized_brigade name = "111th Cavalry Battalion" historical_model = 0 }
+					regiment = { type = mechanized_brigade name = "112th Cavalry Battalion" historical_model = 0 }
+					regiment = { type = mechanized_brigade name = "113th Cavalry Battalion" historical_model = 0 }
+				}
+				division = {
+					is_reserve = yes
+					name = "12th Cavalry Brigade"
+					location = 7683
+					regiment = { type = mechanized_brigade name = "121st Cavalry Battalion" historical_model = 0 }
+					regiment = { type = mechanized_brigade name = "122nd Cavalry Battalion" historical_model = 0 }
+					regiment = { type = mechanized_brigade name = "123rd Cavalry Battalion" historical_model = 0 }
+				}
+				division = {
+					is_reserve = yes
+					name = "13th Cavalry Brigade"
+					location = 7683
+					regiment = { type = armor_brigade name = "131st Cavalry Battalion" historical_model = 0 }
+					regiment = { type = armor_brigade name = "132nd Cavalry Battalion" historical_model = 0 }
+					regiment = { type = armor_brigade name = "133rd Cavalry Battalion" historical_model = 0 }
+				}
+			}
+			corps = {
+				name = "3rd Development Division"
+				location = 6072
+				regiment = { type = hq_brigade name = "3rd Division HQ" historical_model = 1 }
+				division = {
+					is_reserve = yes
+					name = "31st Development Brigade"
+					location = 6072
+					regiment = { type = infantry_brigade name = "311th Development Battalion" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "312th Development Battalion" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "313th Development Battalion" historical_model = 1 }
+				}
+				division = {
+					is_reserve = yes
+					name = "32nd Development Brigade"
+					location = 6072
+					regiment = { type = infantry_brigade name = "321st Development Battalion" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "322nd Development Battalion" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "323rd Development Battalion" historical_model = 1 }
+				}
+				division = {
+					is_reserve = yes
+					name = "33rd Development Brigade"
+					location = 6072
+					regiment = { type = infantry_brigade name = "331st Development Battalion" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "332nd Development Battalion" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "333rd Development Battalion" historical_model = 1 }
+				}
+			}
+		}
+		army = {
+			name = "Fourth Army"
+			location = 6296
+			regiment = { type = hq_brigade name = "Fourth Army HQ" historical_model = 1 }
+			corps = {
+				name = "5th Infantry Division"
+				location = 6296
+				regiment = { type = hq_brigade name = "5th Division HQ" historical_model = 1 }
+				division = {
+					is_reserve = yes
+					name = "51st Infantry Brigade"
+					location = 6296
+					regiment = { type = infantry_brigade name = "511th Infantry Battalion" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "512th Infantry Battalion" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "513th Infantry Battalion" historical_model = 1 }
+				}
+				division = {
+					is_reserve = yes
+					name = "52nd Infantry Brigade"
+					location = 6296
+					regiment = { type = infantry_brigade name = "521st Infantry Battalion" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "522nd Infantry Battalion" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "53rd Infantry Battalion" historical_model = 1 }
+				}
+				division = {
+					is_reserve = yes
+					name = "53rd Infantry Brigade"
+					location = 6296
+					regiment = { type = infantry_brigade name = "531st Infantry Battalion" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "532nd Infantry Battalion" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "533rd Infantry Battalion" historical_model = 1 }
+				}
+			}
+			corps = {
+				name = "15th Infantry Division"
+				location = 6305
+				regiment = { type = hq_brigade name = "15th Division HQ" historical_model = 1 }
+				division = {
+					is_reserve = yes
+					name = "151st Infantry Brigade"
+					location = 6305
+					regiment = { type = infantry_brigade name = "1511th Infantry Battalion" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "1512th Infantry Battalion" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "1513th Infantry Battalion" historical_model = 1 }
+				}
+				division = {
+					is_reserve = yes
+					name = "152nd Infantry Brigade"
+					location = 6305
+					regiment = { type = infantry_brigade name = "1521st Infantry Battalion" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "1522nd Infantry Battalion" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "153rd Infantry Battalion" historical_model = 1 }
+				}
+				division = {
+					is_reserve = yes
+					name = "153rd Infantry Brigade"
+					location = 6305
+					regiment = { type = infantry_brigade name = "1531st Infantry Battalion" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "1532nd Infantry Battalion" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "1533rd Infantry Battalion" historical_model = 1 }
+				}
+			}
+			corps = {
+				name = "4th Development Division"
+				location = 6314
+				regiment = { type = hq_brigade name = "4th Division HQ" historical_model = 1 }
+				division = {
+					is_reserve = yes
+					name = "41st Development Brigade"
+					location = 6314
+					regiment = { type = infantry_brigade name = "411th Development Battalion" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "412th Development Battalion" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "413th Development Battalion" historical_model = 1 }
+				}
+				division = {
+					is_reserve = yes
+					name = "42nd Development Brigade"
+					location = 6314
+					regiment = { type = infantry_brigade name = "421st Development Battalion" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "422nd Development Battalion" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "423rd Development Battalion" historical_model = 1 }
+				}
+				division = {
+					is_reserve = yes
+					name = "43rd Development Brigade"
+					location = 6314
+					regiment = { type = infantry_brigade name = "431st Development Battalion" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "432nd Development Battalion" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "433rd Development Battalion" historical_model = 1 }
+				}
+			}
+		}
+	}
+	
+	air = {
+	name = "231 Attack Squadron"
+	base = 7689
+	location = 7689
+	wing = { type = cas name = "231 Attack Squadron" historical_model = 0 }
+	}
+	
+	air = {
+	name = "401 Light Attack Squadron"
+	base = 7702
+	location = 7702
+	wing = { type = cas name = "401 Light Attack Squadron" historical_model = 0 }
+	}
+	
+	air = {
+	name = "904 Aggressor Squadron"
+	base = 6148
+	location = 6148
+	wing = { type = multi_role name = "904 Aggressor Squadron" historical_model = 0 }
+	}
+	
+	air = {
+	name = "Korat AFB"
+	base = 7711
+	location = 7711
+	wing = { type = multi_role name = "102 Fighter Squadron" historical_model = 0 }
+	wing = { type = multi_role name = "103 Fighter Squadron" historical_model = 0 }
+	}
+	
+	air = {
+	name = "601 Transport Squadron"
+	base = 6148
+	location = 6148
+	wing = { type = transport_plane name = "601 Transport Squadron" historical_model = 0 }
+	}
+	
+	navy = {
+	name = "Royal Thai Navy"
+	base = 6148
+	location = 6148
+	ship = { type = escort_carrier name = "HTMS Chakri Naruebet" historical_model = 1
+		air = {
+			location = 6148
+			wing = { type = cag name = "Chakri Naruebet Wing" historical_model = 0 }
+		}
+	}
+	ship = { type = heavy_cruiser name = "HTMS Phutthayotfa Chulalok" historical_model = 0 }
+	ship = { type = heavy_cruiser name = "HTMS Phutthaloetla Naphalai" historical_model = 1 }
+	ship = { type = heavy_cruiser name = "HTMS Chao Praya" historical_model = 0 }
+	ship = { type = heavy_cruiser name = "HTMS Bangpakong" historical_model = 0 }
+	ship = { type = heavy_cruiser name = "HTMS Kraburi" historical_model = 0 }
+	ship = { type = heavy_cruiser name = "HTMS Saiburi" historical_model = 0 }
+	ship = { type = heavy_cruiser name = "HTMS Naresuan" historical_model = 0 }
+	ship = { type = heavy_cruiser name = "HTMS Taksin" historical_model = 0 }
+	ship = { type = light_cruiser name = "HTMS Tapi" historical_model = 0 }
+	ship = { type = light_cruiser name = "HTMS Khirirat" historical_model = 0 }
+	ship = { type = light_cruiser name = "HTMS Makut Rajakumarn" historical_model = 0 }
+	ship = { type = light_cruiser name = "HTMS Rattanakosin" historical_model = 0 }
+	ship = { type = light_cruiser name = "HTMS Sukhothai" historical_model = 0 }
+	ship = { type = light_cruiser name = "HTMS Khamronsin" historical_model = 0 }
+	ship = { type = light_cruiser name = "HTMS Tayanchon" historical_model = 0 }
+	ship = { type = light_cruiser name = "HTMS Long Lom" historical_model = 0 }
+	ship = { type = patrol_boat name = "HTMS Ratcharit" historical_model = 0 }
+	ship = { type = patrol_boat name = "HTMS Vitiyakom" historical_model = 0 }
+	ship = { type = patrol_boat name = "HTMS U-domdej" historical_model = 0 }
+	ship = { type = patrol_boat name = "HTMS Prabbrorapak" historical_model = 0 }
+	ship = { type = patrol_boat name = "HTMS Hanhak Sudtru" historical_model = 0 }
+	ship = { type = patrol_boat name = "HTMS Soo Pirin" historical_model = 0 }
+	ship = { type = patrol_boat name = "HTMS Chonburi" historical_model = 0 }
+	ship = { type = patrol_boat name = "HTMS Songkla" historical_model = 0 }
+	ship = { type = patrol_boat name = "HTMS Phuket" historical_model = 0 }
+	}
+	
+	corps = {
+		name = "Royal Thai Marine Corps"
+		location = 6176
+		regiment = { type = hq_brigade name = "Marine Corps HQ" historical_model = 1 }
+		division = {
+			is_reserve = yes
+			name = "1st Marine Infantry Regiment"
+			location = 6176
+			regiment = { type = marine_brigade name = "11th 'King's Guard' Battalion" historical_model = 1 }
+			regiment = { type = marine_brigade name = "12th Battalion" historical_model = 1 }
+			regiment = { type = marine_brigade name = "13th Battalion" historical_model = 1 }
+		}
+		division = {
+			is_reserve = yes
+			name = "2nd Marine Infantry Regiment"
+			location = 6176
+			regiment = { type = marine_brigade name = "21st Battalion" historical_model = 1 }
+			regiment = { type = marine_brigade name = "22nd Battalion" historical_model = 1 }
+			regiment = { type = marine_brigade name = "23rd Battalion" historical_model = 1 }
+		}
+		division = {
+			is_reserve = yes
+			name = "3rd Marine Infantry Regiment"
+			location = 6176
+			regiment = { type = marine_brigade name = "31st Battalion" historical_model = 1 }
+			regiment = { type = marine_brigade name = "32nd Battalion" historical_model = 1 }
+			regiment = { type = marine_brigade name = "33rd Battalion" historical_model = 1 }
+		}
+	}
+}

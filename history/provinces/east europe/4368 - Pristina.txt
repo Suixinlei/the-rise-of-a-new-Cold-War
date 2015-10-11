@@ -1,0 +1,11 @@
+owner = SER
+controller = SER
+add_core = SER
+add_core = KOS
+
+infra = 7
+
+
+air_base = 5 #Pristina, Slatina and Dakovica airbase
+leadership = 2.50
+points = 1

@@ -1,0 +1,8 @@
+owner = GER
+controller = GER
+add_core = GER
+
+leadership = 1.00
+infra = 10
+industry = 5
+energy = 15.00

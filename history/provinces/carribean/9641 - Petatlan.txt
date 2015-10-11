@@ -1,0 +1,5 @@
+owner = MEX
+controller = MEX
+add_core = MEX
+energy = 5.00
+infra = 4

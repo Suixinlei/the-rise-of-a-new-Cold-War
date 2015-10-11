@@ -1,0 +1,8 @@
+owner = SAF
+controller = SAF
+add_core = SAF
+energy = 5.00
+infra = 6
+metal = 10.00
+rare_materials = 12.00
+points = 1

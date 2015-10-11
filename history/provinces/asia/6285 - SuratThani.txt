@@ -1,0 +1,8 @@
+owner = SIA
+controller = SIA
+add_core = SIA
+
+infra = 6
+air_base = 3 #Surat Thani airbase
+points = 1
+industry = 2

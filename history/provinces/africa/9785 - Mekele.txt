@@ -1,0 +1,7 @@
+owner = ETH
+controller = ETH
+add_core = ETH
+add_core = ERI
+manpower = 6.4
+infra = 2
+

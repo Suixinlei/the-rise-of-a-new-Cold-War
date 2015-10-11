@@ -1,0 +1,6 @@
+owner = LAO
+controller = LAO
+add_core = LAO
+infra = 4
+air_base = 2 #Pakse airbase
+points = 1

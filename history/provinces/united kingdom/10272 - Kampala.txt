@@ -1,0 +1,9 @@
+owner = UGA
+controller = UGA
+add_core = UGA
+add_core = SUD
+add_core = SSU
+manpower = 3.7
+infra = 6
+
+air_base = 4 #Gulu and Jinja airbase

@@ -1,0 +1,10 @@
+owner = MOR
+controller = MOR
+add_core = MOR
+industry = 3
+infra = 7
+manpower = 3.00
+energy = 2.00
+air_base = 4 #Mohammed V airport
+naval_base = 10 #Casablanca port
+points = 1

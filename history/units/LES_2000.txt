@@ -1,0 +1,12 @@
+theatre = {
+	name = "Lesotho Defence Force"
+	location = 7986
+	regiment = { type = hq_brigade name = "Defence Force HQ" historical_model = 0 }
+	division = {
+		is_reserve = yes
+		name = "Defence Force"
+		location = 7986
+		regiment = { type = infantry_brigade name = "1st Battalion" historical_model = 0 }
+		regiment = { type = infantry_brigade name = "2nd Battalion" historical_model = 0 }
+	}
+}

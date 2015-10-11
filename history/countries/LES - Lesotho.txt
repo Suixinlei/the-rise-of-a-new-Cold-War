@@ -1,0 +1,40 @@
+capital = 7986
+government = constitutional_monarchy
+ideology = left_wing_radical
+alignment = { x = 0 y = 50 }
+neutrality = 80
+national_unity = 70
+oob = "LES_2000.txt"
+
+popularity = { 
+	national_socialist = 0
+	fascistic = 0
+	paternal_autocrat = 22
+	social_conservative = 3
+	market_liberal = 1
+	social_liberal = 1
+	social_democrat = 6
+	left_wing_radical = 55
+	leninist = 1
+	stalinist = 0
+}
+
+organization = { 
+	national_socialist = 0
+	fascistic = 0
+	paternal_autocrat = 66
+	social_conservative = 9
+	market_liberal = 3
+	social_liberal = 3
+	social_democrat = 18
+	left_wing_radical = 150
+	leninist = 3
+	stalinist = 0
+}
+
+conscription_policy = volunteer_army
+press_laws = free_press
+mobilisation_level = peace_time
+civil_laws = open_society
+economic_policy = lais_fair
+service_length = six_months

@@ -1,0 +1,234 @@
+theatre = {
+	name = "联邦德国国防军"
+	location = 1861
+	regiment = { type = hq_brigade name = "Bundeswehr" historical_model = 2 }
+	army = {
+		name = "德国陆军"
+		location = 1861
+		regiment = { type = hq_brigade name = "Deutsches Heer" historical_model = 2 }
+		corps = {
+			name = "第1装甲师"
+			location = 1857
+			regiment = { type = hq_brigade name = "1. Panzerdivision" historical_model = 2 }
+			division = {
+				is_reserve = yes
+				name = "第9装甲教导旅"
+				location = 2027
+				regiment = { type = armor_brigade name = "Panzerbataillon 33" historical_model = 1 }
+				regiment = { type = armor_brigade name = "Panzerlehrbataillon 93" historical_model = 1 }
+				regiment = { type = mechanized_brigade name = "Panzergrenadierlehrbataillon 92" historical_model = 2 }
+				regiment = { type = sp_artillery_brigade name = "Artillerieregiment 100" historical_model = 1 }
+			}
+			division = {
+				is_reserve = yes
+				name = "第21‘利珀兰’装甲旅 "
+				location = 2028
+				regiment = { type = armor_brigade name = "Panzerbataillon 203" historical_model = 1 }
+				regiment = { type = mechanized_brigade name = "Panzergrenadierbataillon 212" historical_model = 2 }
+				regiment = { type = engineer_brigade name = "Pionierregiment 100" historical_model = 2 }
+			}
+		}
+		corps = {
+			name = "10. Panzerdivision"
+			location = 3018
+			regiment = { type = hq_brigade name = "10. Panzerdivision" historical_model = 2 }
+			division = {
+				is_reserve = yes
+				name = "第12 '普法尔茨'装甲旅"
+				location = 2624
+				regiment = { type = armor_brigade name = "Panzerbataillon 104" historical_model = 1 }
+				regiment = { type = mechanized_brigade name = "Panzergrenadierbataillon 112" historical_model = 2 }
+				regiment = { type = mechanized_brigade name = "Panzergrenadierbataillon 122" historical_model = 2 }
+			}
+			division = {
+				is_reserve = yes
+				name = "Gebirgsinfanteriebrigade 23 'Bayern'"
+				location = 3156
+				regiment = { type = mountain_brigade name = "Gebirgsinfanteriebataillon 231" historical_model = 2 }
+				regiment = { type = mountain_brigade name = "Gebirgsinfanteriebataillon 232" historical_model = 2 }
+				regiment = { type = mountain_brigade name = "Gebirgsinfanteriebataillon 233" historical_model = 2 }
+			}
+		}
+		corps = {
+			name = "第13装甲师"
+			location = 2207
+			regiment = { type = hq_brigade name = "13. Panzergrenadierdivision" historical_model =  0 }
+			division = {
+				is_reserve = yes
+				name = "Panzergrenadierbrigade 37 'Freistaat Sachsen'"
+				location = 2321
+				regiment = { type = armor_brigade name = "Panzerbataillon 303" historical_model = 1 }
+				regiment = { type = mechanized_brigade name = "Panzergrenadierbataillon 371" historical_model = 2 }
+				regiment = { type = mechanized_brigade name = "Panzergrenadierbataillon 391" historical_model = 2 }
+			}
+			division = {
+				is_reserve = yes
+				name = "Panzergrenadierbrigade 41 'Vorpommern'"
+				location = 1681
+				regiment = { type = armor_brigade name = "Panzerbataillon 413" historical_model = 1 }
+				regiment = { type = mechanized_brigade name = "Panzergrenadierbataillon 401" historical_model = 2 }
+				regiment = { type = mechanized_brigade name = "Panzergrenadierbataillon 411" historical_model = 2 }
+			}
+		}
+		corps = {
+			name = "特种作战师"
+			location = 2820
+			regiment = { type = hq_brigade name = "Division Spezielle Operationen" historical_model = 2 }
+			division = {
+				is_reserve = yes
+				name = "KSK Kommando Spezialkr鋐te"
+				location = 2687
+				regiment = { type = special_forces_brigade name = "KSK Kommando Spezialkr鋐te" historical_model = 2 }
+			}
+			division = {
+				is_reserve = yes
+				name = "Luftlandebrigade 26 'Saarland'"
+				location = 2490
+				regiment = { type = paratrooper_brigade name = "Fallschirmj鋑erbataillon 261" historical_model = 2 }
+				regiment = { type = paratrooper_brigade name = "Fallschirmj鋑erbataillon 263" historical_model = 2 }
+			}
+			division = {
+				is_reserve = yes
+				name = "Luftlandebrigade 31 'Oldenburg'"
+				location = 2490
+				regiment = { type = paratrooper_brigade name = "Fallschirmj鋑erbataillon 313" historical_model = 2 }
+				regiment = { type = paratrooper_brigade name = "Fallschirmj鋑erbataillon 373" historical_model = 2 }
+			}
+		}
+		division = {
+			is_reserve = yes
+			name = "Deutsch-Franz鰏ische Brigade"
+			location = 2948
+			regiment = { type = mechanized_brigade name = "J鋑erbataillon 291" historical_model = 2 }
+			regiment = { type = mechanized_brigade name = "J鋑erbataillon 292" historical_model = 2 }
+		}
+	}
+	
+	navy = {
+	name = "登陆舰队"
+	base = 1679
+	location = 1679
+	ship = { type = invasion_transport_ship name = "Lachs" historical_model = 0 }
+	ship = { type = invasion_transport_ship name = "Schlei" historical_model = 0 }
+	}
+	
+	navy = {
+	name = "边防海军支队"
+	base = 1740
+	location = 1740
+	ship = { type = patrol_boat name = "Gepard" historical_model = 0 }
+	ship = { type = patrol_boat name = "Puma" historical_model = 0 }
+	ship = { type = patrol_boat name = "Hermelin" historical_model = 0 }
+	ship = { type = patrol_boat name = "Zobel" historical_model = 0 }
+	ship = { type = patrol_boat name = "Frettchen" historical_model = 0 }
+	ship = { type = patrol_boat name = "Ozelot" historical_model = 0 }
+	ship = { type = patrol_boat name = "Wisel" historical_model = 0 }
+	ship = { type = patrol_boat name = "Hy鋘e" historical_model = 0 }
+	}
+	
+	navy = {
+	name = "潜艇编队"
+	base = 1679
+	location = 1679
+	ship = { type = submarine name = "U31" historical_model = 3 }
+	}
+	
+	
+	navy = {
+	name = "第2护卫舰编队"
+	base = 1570
+	location = 1570
+	ship = { type = heavy_cruiser name = "Sachsen" historical_model = 2 }
+	ship = { type = heavy_cruiser name = "Hamburg" historical_model = 2 }
+	ship = { type = heavy_cruiser name = "Hessen" historical_model = 2 }
+	ship = { type = heavy_cruiser name = "Brandenburg" historical_model = 1 }
+	ship = { type = heavy_cruiser name = "Schleswig-Holstein" historical_model = 1 }
+	ship = { type = heavy_cruiser name = "Bayern" historical_model = 1 }
+	ship = { type = heavy_cruiser name = "Mecklenburg-Vorpommern" historical_model = 1 }
+	}
+	
+	navy = {
+	name = "第4护卫舰编队"
+	base = 1570
+	location = 1570
+	ship = { type = heavy_cruiser name = "Bremen" historical_model = 0 }
+	ship = { type = heavy_cruiser name = "Niedersachsen" historical_model = 0 }
+	ship = { type = heavy_cruiser name = "Emden" historical_model = 0 }
+	ship = { type = heavy_cruiser name = "Karlsruhe" historical_model = 0 }
+	ship = { type = heavy_cruiser name = "Augsburg" historical_model = 0 }
+	ship = { type = heavy_cruiser name = "L黚eck" historical_model = 0 }
+	}
+	
+	navy = {
+	name = "辅助舰队"
+	base = 1570
+	location = 1570
+	ship = { type = transport_ship name = "Berlin" historical_model = 0 }
+	ship = { type = transport_ship name = "Frankfurt Am Main" historical_model = 0 }
+	}
+	
+	air = {
+	name = "第71里希特霍芬飞行中队"
+	base = 1570
+	location = 1570
+	wing = { type = interceptor name = "Jagdgeschwader 71 'Richthofen'" historical_model = 0 }
+	}
+	
+	air = {
+	name = "第32飞行中队"
+	base = 3019
+	location = 3019
+	wing = { type = multi_role name = "Jagdbombergeschwader 321" historical_model = 0 }
+	wing = { type = multi_role name = "Jagdbombergeschwader 322" historical_model = 0 }
+	wing = { type = multi_role name = "Jagdbombergeschwader 323" historical_model = 0 }
+	}
+	
+	air = {
+	name = "第33飞行中队"
+	base = 2430
+	location = 2430
+	wing = { type = multi_role name = "Jagdbombergeschwader 331" historical_model = 0 }
+	wing = { type = multi_role name = "Jagdbombergeschwader 332" historical_model = 0 }
+	}
+	
+	air = {
+	name = "第34飞行中队'施坦因霍夫'"
+	base = 1861
+	location = 1861
+	wing = { type = multi_role name = "Jagdgeschwader 731" historical_model = 3 }
+	wing = { type = multi_role name = "Jagdgeschwader 732" historical_model = 3 }
+	}
+	
+	air = {
+	name = "第35飞行中队 '布尔克'"
+	base = 2256
+	location = 2256
+	wing = { type = multi_role name = "Jagdbombergeschwader 31 'Boelcke'" historical_model = 3 }
+	}
+	
+	air = {
+	name = "第61运输机中队"
+	base = 1971
+	location = 1971
+	wing = { type = transport_plane name = "Schwader 611" historical_model = 0 }
+	wing = { type = transport_plane name = "Schwader 611" historical_model = 0 }
+	}
+	
+	air = {
+	name = "第63运输机中队"
+	base = 2374
+	location = 2374
+	wing = { type = transport_plane name = "Schwader 631" historical_model = 0 }
+	wing = { type = transport_plane name = "Schwader 631" historical_model = 0 }
+	}
+	
+	air = {
+	name = "第62运输机中队"
+	base = 1570
+	location = 1570
+	wing = { type = transport_plane name = "Schwader 1" historical_model = 0 }
+	wing = { type = transport_plane name = "Schwader 2" historical_model = 0 }
+	wing = { type = transport_plane name = "Schwader 4" historical_model = 0 }
+	}
+}
+	

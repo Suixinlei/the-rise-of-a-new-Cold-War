@@ -1,0 +1,3 @@
+owner = SAUcontroller = SAU
+add_core = SAUinfra = 6
+

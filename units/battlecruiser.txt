@@ -1,0 +1,51 @@
+battlecruiser = {
+	type = naval
+	sprite = Battlecruiser
+	capital = yes
+	active = no
+	
+	hull = 1.00
+	
+	#Size Definitions
+	max_strength = 100
+	default_organisation = 30
+	default_morale = 0.30
+	officers = 0
+
+	#Building Costs
+	build_cost_ic = 6.8
+	build_cost_manpower = 0.55
+	build_time = 260
+	repair_cost_multiplier = 0.05
+
+	#Misc Abilities
+	maximum_speed = 26.00
+	transport_capability = 0.00
+	supply_consumption = 0.55
+	fuel_consumption = 1.00
+	range = 7000.00
+	distance = 0.60
+	radio_strength = 1.25
+
+	#Detection Abilities
+	surface_detection = 4.00
+	air_detection = 5.00
+	sub_detection = 2.00
+	visibility = 70.00
+
+	#Defensive Abilities
+	sea_defence = 4.00
+	air_defence = 5.00
+
+	#Offensive Abilities
+	convoy_attack = 3.00
+	sea_attack = 6.00
+	sub_attack = 2.50
+	air_attack = 7.00
+	shore_bombardment = 2.00
+
+	completion_size = 0.6
+	on_completion = destroyer_practical
+	
+	priority = 8
+}

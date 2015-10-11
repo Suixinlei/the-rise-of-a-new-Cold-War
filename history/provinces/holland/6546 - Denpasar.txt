@@ -1,0 +1,5 @@
+owner = INO
+controller = INO
+add_core = INO
+infra = 3
+air_base = 3 #Denpasar airport

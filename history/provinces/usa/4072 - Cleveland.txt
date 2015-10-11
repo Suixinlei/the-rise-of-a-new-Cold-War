@@ -1,0 +1,9 @@
+owner = USA
+controller = USA
+add_core = USA
+
+infra = 8
+energy = 40.00
+rare_materials = 20.00
+air_base = 1 #Cleveland airport
+points = 1

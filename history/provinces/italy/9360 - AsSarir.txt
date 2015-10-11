@@ -1,0 +1,5 @@
+owner = LBY
+controller = LBY
+add_core = LBY
+infra = 4
+crude_oil = 10.00

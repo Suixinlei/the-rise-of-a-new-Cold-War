@@ -1,0 +1,8 @@
+owner = MLY
+controller = MLY
+add_core = MLY
+
+infra = 4
+
+
+naval_base = 3 #Miri port

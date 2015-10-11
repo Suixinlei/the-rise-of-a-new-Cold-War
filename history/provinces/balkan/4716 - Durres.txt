@@ -1,0 +1,7 @@
+owner = ALB
+controller = ALB
+add_core = ALB
+
+infra = 6
+naval_base = 2 #Durres port
+ 

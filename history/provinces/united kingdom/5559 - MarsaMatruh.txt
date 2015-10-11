@@ -1,0 +1,9 @@
+owner = EGY
+controller = EGY
+add_core = EGY
+
+infra = 7
+naval_base = 3 #Mersa Matruh port
+points = 1
+air_base = 1
+industry = 2

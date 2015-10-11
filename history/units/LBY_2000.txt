@@ -1,0 +1,247 @@
+theatre = {
+	name = "Libyan Armed Forces"
+	location = 5445
+	regiment = { type = hq_brigade name = "al-Qiyada al-ulya lil-quwwat al-musallaha" historical_model = 1 }
+	army = {
+		name = "Libyan Army"
+		location = 5445
+		regiment = { type = hq_brigade name = "Libyan Army HQ" historical_model = 1 }
+		corps = {
+			name = "Western Military Region"
+			location = 5445
+			regiment = { type = hq_brigade name = "Western Region HQ" historical_model = 1 }
+			division = {
+				is_reserve = yes
+				name = "1st Infantry Brigade"
+				location = 5483
+				regiment = { type = infantry_brigade name = "11th Infantry Battalion" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "12th Infantry Battalion" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "13th Infantry Battalion" historical_model = 1 }
+			}
+			division = {
+				is_reserve = yes
+				name = "1st Armoured Brigade"
+				location = 5445
+				regiment = { type = armor_brigade name = "11th Armour Battalion" historical_model = 0 }
+				regiment = { type = armor_brigade name = "12th Armour Battalion" historical_model = 0 }
+				regiment = { type = armor_brigade name = "13th Armour Battalion" historical_model = 0 }
+			}
+			division = {
+				is_reserve = yes
+				name = "1st Mechanized Brigade"
+				location = 5483
+				regiment = { type = mechanized_brigade name = "11th Mechanized Battalion" historical_model = 0 }
+				regiment = { type = mechanized_brigade name = "12th Mechanized Battalion" historical_model = 0 }
+				regiment = { type = mechanized_brigade name = "13th Mechanized Battalion" historical_model = 0 }
+			}
+		}
+		corps = {
+			name = "Middle Military Region"
+			location = 5551
+			regiment = { type = hq_brigade name = "Middle Region HQ" historical_model = 1 }
+			division = {
+				is_reserve = yes
+				name = "1st Special Forces Brigade"
+				location = 5551
+				regiment = { type = special_forces_brigade name = "11th Special Forces Battalion" historical_model = 1 }
+				regiment = { type = special_forces_brigade name = "12th Special Forces Battalion" historical_model = 1 }
+				regiment = { type = special_forces_brigade name = "13th Special Forces Battalion" historical_model = 1 }
+			}
+			division = {
+				is_reserve = yes
+				name = "2nd Infantry Brigade"
+				location = 9359
+				regiment = { type = infantry_brigade name = "21st Infantry Battalion" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "22nd Infantry Battalion" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "23rd Infantry Battalion" historical_model = 1 }
+			}
+			division = {
+				is_reserve = yes
+				name = "2nd Mechanized Brigade"
+				location = 5603
+				regiment = { type = mechanized_brigade name = "21st Mechanized Battalion" historical_model = 0 }
+				regiment = { type = mechanized_brigade name = "22nd Mechanized Battalion" historical_model = 0 }
+				regiment = { type = mechanized_brigade name = "23rd Mechanized Battalion" historical_model = 0 }
+			}
+		}
+		corps = {
+			name = "Eastern Military Region"
+			location = 5511
+			regiment = { type = hq_brigade name = "Eastern Region HQ" historical_model = 1 }
+			division = {
+				is_reserve = yes
+				name = "2nd Armoured Brigade"
+				location = 5511
+				regiment = { type = armor_brigade name = "21st Armour Battalion" historical_model = 0 }
+				regiment = { type = armor_brigade name = "22nd Armour Battalion" historical_model = 0 }
+				regiment = { type = armor_brigade name = "23rd Armour Battalion" historical_model = 0 }
+			}
+			division = {
+				is_reserve = yes
+				name = "3rd Mechanized Brigade"
+				location = 5533
+				regiment = { type = mechanized_brigade name = "31st Mechanized Battalion" historical_model = 0 }
+				regiment = { type = mechanized_brigade name = "32nd Mechanized Battalion" historical_model = 0 }
+				regiment = { type = mechanized_brigade name = "33rd Mechanized Battalion" historical_model = 0 }
+			}
+		}
+		corps = {
+			name = "Mountain Military Region"
+			location = 5481
+			regiment = { type = hq_brigade name = "Mountain Region HQ" historical_model = 1 }
+			division = {
+				is_reserve = yes
+				name = "2nd Special Forces Brigade"
+				location = 5444
+				regiment = { type = special_forces_brigade name = "21st Special Forces Battalion" historical_model = 1 }
+				regiment = { type = special_forces_brigade name = "22nd Special Forces Battalion" historical_model = 1 }
+				regiment = { type = special_forces_brigade name = "23rd Special Forces Battalion" historical_model = 1 }
+			}
+			division = {
+				is_reserve = yes
+				name = "3rd Special Forces Brigade"
+				location = 5480
+				regiment = { type = special_forces_brigade name = "31st Special Forces Battalion" historical_model = 1 }
+				regiment = { type = special_forces_brigade name = "32nd Special Forces Battalion" historical_model = 1 }
+				regiment = { type = special_forces_brigade name = "33rd Special Forces Battalion" historical_model = 1 }
+			}
+		}
+		corps = {
+			name = "Kufra Military Region"
+			location = 5528
+			regiment = { type = hq_brigade name = "Kufra Region HQ" historical_model = 1 }
+			division = {
+				is_reserve = yes
+				name = "3rd Armoured Brigade"
+				location = 5531
+				regiment = { type = armor_brigade name = "31st Armour Battalion" historical_model = 0 }
+				regiment = { type = armor_brigade name = "32nd Armour Battalion" historical_model = 0 }
+				regiment = { type = armor_brigade name = "33rd Armour Battalion" historical_model = 0 }
+			}
+			division = {
+				is_reserve = yes
+				name = "3rd Infantry Brigade"
+				location = 9900
+				regiment = { type = infantry_brigade name = "31st Infantry Battalion" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "32nd Infantry Battalion" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "33rd Infantry Battalion" historical_model = 1 }
+			}
+		}
+		corps = {
+			name = "Benghazi Military Region"
+			location = 5484
+			regiment = { type = hq_brigade name = "Benghazi Region HQ" historical_model = 1 }
+			division = {
+				is_reserve = yes
+				name = "4th Infantry Brigade"
+				location = 5484
+				regiment = { type = infantry_brigade name = "41st Infantry Battalion" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "42nd Infantry Battalion" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "43rd Infantry Battalion" historical_model = 1 }
+			}
+			division = {
+				is_reserve = yes
+				name = "5th Infantry Brigade"
+				location = 5465
+				regiment = { type = infantry_brigade name = "51st Infantry Battalion" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "52nd Infantry Battalion" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "53rd Infantry Battalion" historical_model = 1 }
+			}
+		}
+		corps = {
+			name = "Southern Military Region"
+			location = 5459
+			regiment = { type = hq_brigade name = "Southern Region HQ" historical_model = 1 }
+			division = {
+				is_reserve = yes
+				name = "6th Infantry Brigade"
+				location = 5579
+				regiment = { type = infantry_brigade name = "61st Infantry Battalion" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "62nd Infantry Battalion" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "63rd Infantry Battalion" historical_model = 1 }
+			}
+			division = {
+				is_reserve = yes
+				name = "7th Infantry Brigade"
+				location = 9307
+				regiment = { type = infantry_brigade name = "71st Infantry Battalion" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "72nd Infantry Battalion" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "73rd Infantry Battalion" historical_model = 1 }
+			}
+		}
+	}
+	
+	air = {
+	name = "Tripoli Airbase"
+	base = 5445
+	location = 5445
+	wing = { type = multi_role name = "1st Fighter Wing" historical_model = 0 }
+	}
+	
+	air = {
+	name = "Misrata Airbase"
+	base = 5483
+	location = 5483
+	wing = { type = interceptor name = "2nd Fighter Wing" historical_model = 0 }
+	}
+	
+	air = {
+	name = "Ghardabiya Airbase"
+	base = 5551
+	location = 5551
+	wing = { type = multi_role name = "3rd Fighter Wing" historical_model = 0 }
+	wing = { type = multi_role name = "4th Fighter Wing" historical_model = 0 }
+	wing = { type = multi_role name = "5th Fighter Wing" historical_model = 0 }
+	wing = { type = multi_role name = "6th Fighter Wing" historical_model = 0 }
+	wing = { type = multi_role name = "7th Fighter Wing" historical_model = 0 }
+	}
+	
+	air = {
+	name = "Nanur Airbase"
+	base = 5603
+	location = 5603
+	wing = { type = cas name = "1st Attack Wing" historical_model = 0 }
+	}
+	
+	air = {
+	name = "Al Jufra Airbase"
+	base = 9359
+	location = 9359
+	wing = { type = strategic_bomber name = "1st Bomber Wing" historical_model = 0 }
+	}
+	
+	air = {	
+	name = "Martuba Airbase"
+	base = 5465
+	location = 5465
+	wing = { type = cas name = "2nd Attack Wing" historical_model = 0 }
+	wing = { type = cas name = "3rd Attack Wing" historical_model = 0 }
+	wing = { type = cas name = "4th Attack Wing" historical_model = 0 }
+	wing = { type = cas name = "5th Attack Wing" historical_model = 0 }
+	wing = { type = cas name = "6th Attack Wing" historical_model = 0 }
+	}
+	
+	air = {
+	name = "Al Abraq Airbase"
+	base = 5465
+	location = 5465
+	wing = { type = transport_plane name = "1st Transport Wing" historical_model = 0 }
+	wing = { type = transport_plane name = "2nd Transport Wing" historical_model = 0 }
+	}
+	
+	navy = {
+	name = "Libyan Navy"
+	base = 5445
+	location = 5445
+	ship = { type = heavy_cruiser name = "Dat Assawari" historical_model = 0 }
+	ship = { type = light_cruiser name = "Al Tadjier" historical_model = 0 }
+	ship = { type = light_cruiser name = "Al Tougour" historical_model = 0 }
+	ship = { type = light_cruiser name = "Al Kalij" historical_model = 0 }
+	ship = { type = light_cruiser name = "Al Hudud" historical_model = 0 }
+	ship = { type = light_cruiser name = "Ean Mara" historical_model = 0 }
+	ship = { type = light_cruiser name = "Ean Al Gazala" historical_model = 0 }
+	ship = { type = light_cruiser name = "Ean Zara" historical_model = 0 }
+	ship = { type = light_cruiser name = "Ean Zaquit" historical_model = 0 }
+	}
+}
+			

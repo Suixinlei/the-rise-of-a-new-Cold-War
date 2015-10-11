@@ -1,0 +1,40 @@
+capital = 10254
+government = republic
+ideology = social_liberal
+alignment = { x = 0 y = 20 }
+neutrality = 80
+national_unity = 80
+oob = "PAR_2000.txt"
+
+popularity = { 
+	national_socialist = 0
+	fascistic = 0
+	paternal_autocrat = 22
+	social_conservative = 14
+	market_liberal = 38
+	social_liberal = 25
+	social_democrat = 1
+	left_wing_radical = 0
+	leninist = 0
+	stalinist = 0
+}
+
+organization = { 
+	national_socialist = 0
+	fascistic = 0
+	paternal_autocrat = 66
+	social_conservative = 42
+	market_liberal = 114
+	social_liberal = 75
+	social_democrat = 3
+	left_wing_radical = 0
+	leninist = 0
+	stalinist = 0
+}
+
+conscription_policy = military_service
+press_laws = free_press
+mobilisation_level = peace_time
+civil_laws = open_society
+economic_policy = lais_fair
+service_length = six_months

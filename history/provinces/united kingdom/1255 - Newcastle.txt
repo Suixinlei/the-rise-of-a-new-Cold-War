@@ -1,0 +1,10 @@
+owner = ENG
+controller = ENG
+add_core = ENG
+
+infra = 9
+manpower = 1.00
+crude_oil = 10.00
+air_base = 1 #Newcastle airport
+points = 1
+industry = 10

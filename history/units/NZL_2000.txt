@@ -1,0 +1,33 @@
+theatre = {
+	name = "New Zealand Defence Force"
+	location = 8070
+	regiment = { type = hq_brigade name = "Defence Force HQ" historical_model = 2 }
+	corps = {
+		name = "New Zealand Army"
+		location = 8070
+		regiment = { type = hq_brigade name = "Army HQ" historical_model = 2 }
+		division = {
+			is_reserve = yes
+			name = "1st Special Air Service Regiment"
+			location = 7990
+			regiment = { type = special_forces_brigade name = "Special Air Service Regiment" historical_model = 2 }
+		}
+		division = {
+			is_reserve = yes
+			name = "1st Brigade"
+			location = 8066
+			regiment = { type = mechanized_brigade name = "Queen Alexandra's Mounted Rifles" historical_model = 2 }
+			regiment = { type = infantry_brigade name = "1st Battalion" historical_model = 2 }
+			regiment = { type = infantry_brigade name = "2/1st Battalion" historical_model = 2 }
+		}
+	}
+	
+	navy = {
+	name = "New Zealand Navy"
+	base = 8070
+	location = 8070
+	ship = { type = heavy_cruiser name = "HMNZS Te Kaha" historical_model = 1 }
+	ship = { type = heavy_cruiser name = "HMNZS Te Mana" historical_model = 1 }
+	}
+	
+}

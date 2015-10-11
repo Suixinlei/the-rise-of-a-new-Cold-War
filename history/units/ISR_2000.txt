@@ -1,0 +1,277 @@
+theatre = {
+	name = "Tzva Hahagana LeYisra'el" 
+	location = 5567
+	regiment = { type = hq_brigade name = "Tzva Hahagana LeYisra'el" historical_model = 3 }
+	armygroup = {
+		name = "Zro'a HaYabasha"
+		location = 5567
+		regiment = { type = hq_brigade name = "Zro'a HaYabasha" historical_model = 3 }
+		army = {
+			name = "Pikud Tzafon"
+			location = 5431
+			regiment = { type = hq_brigade name = "Pikud Tzafon" historical_model = 3 }
+			corps = {
+				name = "36th 'Ga'ash' Armor Division"
+				location = 5431
+				regiment = { type = hq_brigade name = "36th Armor Division HQ" historical_model = 3 }
+				division = {
+					is_reserve = yes
+					name = "7th 'Saar me-Golan' Armor Brigade"
+					location = 5399
+					regiment = { type = armor_brigade name = "75th 'Romach' Armor Battalion" historical_model = 3 }
+					regiment = { type = armor_brigade name = "77th 'Oz' Armor Battalion" historical_model = 3 }
+					regiment = { type = armor_brigade name = "82nd 'Ga'ash' Armor Battalion" historical_model = 3 }
+					regiment = { type = sp_artillery_brigade name = "282th 'Golan' Artillery Regiment" historical_model = 3 }
+				}
+				division = {
+					is_reserve = yes
+					name = "188th 'Barak' Armor Brigade"
+					location = 5399
+					regiment = { type = armor_brigade name = "53rd 'Sufa' Armor Battalion" historical_model = 3 }
+					regiment = { type = armor_brigade name = "71st 'Reshef' Armor Battalion" historical_model = 3 }
+					regiment = { type = armor_brigade name = "74th 'Saar' Armor Battalion" historical_model = 3 }
+				}
+				division = {
+					is_reserve = yes
+					name = "1st 'Golani' Infantry Brigade"
+					location = 5399
+					regiment = { type = mechanized_brigade name = "12th 'Barak' Infantry Battalion" historical_model = 3 }
+					regiment = { type = mechanized_brigade name = "13th 'Gideon' Infantry Battalion" historical_model = 3 }
+					regiment = { type = mechanized_brigade name = "51st 'HaBok'im HaRishon' Infantry Battalion" historical_model = 3 }
+					regiment = { type = special_forces_brigade name = "'Egoz' Reconnaissance Unit" historical_model = 3 }
+				}
+				division = {
+					is_reserve = yes
+					name = "263th 'Merkavot ha-Esh' Armor Brigade"
+					location = 5399
+					regiment = { type = armor_brigade name = "263rd Armor Battalion" historical_model = 3 }
+					regiment = { type = armor_brigade name = "264th Armor Battalion" historical_model = 3 }
+					regiment = { type = armor_brigade name = "265th Armor Battalion" historical_model = 3 }
+				}
+				division = {
+					is_reserve = yes
+					name = "609th 'Alexandroni' Infantry Brigade"
+					location = 5399
+					regiment = { type = mechanized_brigade name = "609th Infantry Battalion" historical_model = 3 }
+					regiment = { type = mechanized_brigade name = "610th Infantry Battalion" historical_model = 3 }
+					regiment = { type = mechanized_brigade name = "611th Infantry Battalion" historical_model = 3 }
+				}
+				division = {
+					is_reserve = yes
+					name = "474th 'Golan' Territorial Brigade"
+					location = 5399
+					regiment = { type = infantry_brigade name = "474th Territorial Battalion" historical_model = 3 }
+					regiment = { type = infantry_brigade name = "475th Territorial Battalion" historical_model = 3 }
+					regiment = { type = infantry_brigade name = "476th Territorial Battalion" historical_model = 3 }
+				}
+			}
+			corps = {
+				name = "91st 'Galil' Division"
+				location = 5399
+				regiment = { type = hq_brigade name = "91st Division HQ" historical_model = 3 }
+				division = {
+					is_reserve = yes
+					name = "2nd 'Carmeli' Infantry Brigade"
+					location = 5399
+					regiment = { type = mechanized_brigade name = "21st Infantry Battalion" historical_model = 3 }
+					regiment = { type = mechanized_brigade name = "22nd Infantry Battalion" historical_model = 3 }
+					regiment = { type = mechanized_brigade name = "23rd Infantry Battalion" historical_model = 3 }
+				}
+				division = {
+					is_reserve = yes
+					name = "769th 'Hiram' Infantry Brigade"
+					location = 5399
+					regiment = { type = mechanized_brigade name = "761st Infantry Battalion" historical_model = 3 }
+					regiment = { type = mechanized_brigade name = "762nd Infantry Battalion" historical_model = 3 }
+					regiment = { type = mechanized_brigade name = "763rd Infantry Battalion" historical_model = 3 }
+				}
+				division = {
+					is_reserve = yes
+					name = "300th 'Bar'am' Infantry Brigade"
+					location = 5399
+					regiment = { type = mechanized_brigade name = "301st Infantry Battalion" historical_model = 3 }
+					regiment = { type = mechanized_brigade name = "302nd Infantry Battalion" historical_model = 3 }
+					regiment = { type = mechanized_brigade name = "303rd Infantry Battalion" historical_model = 3 }
+				}
+				division = {
+					is_reserve = yes
+					name = "299th 'Herev' Independent Infantry Battalion"
+					location = 5399
+					regiment = { type = mechanized_brigade name = "299th 'Herev' Independent Infantry Battalion" historical_model = 3 }
+				}
+			}
+		}
+		army = {
+			name = "Pikud Merkaz"
+			location = 5535
+			regiment = { type = hq_brigade name = "Pikud Merkaz" historical_model = 3 }
+			corps = {
+				name = "162nd 'Ha-Plada' Armor Division"
+				location = 5535
+				regiment = { type = hq_brigade name = "162nd Armor Division HQ" historical_model = 3 }
+				division = {
+					is_reserve = yes
+					name = "401st 'I'kvot Ha-Barzel' Armor Brigade"
+					location = 5535
+					regiment = { type = armor_brigade name = "9th 'Eshet' Armor Battalion" historical_model = 3 }
+					regiment = { type = armor_brigade name = "46th 'Shelah' Armor Battalion" historical_model = 3 }
+					regiment = { type = armor_brigade name = "52nd 'Ha-Bok'im' Armor Battalion" historical_model = 3 }
+					regiment = { type = sp_artillery_brigade name = "215th 'Kala David' Artillery Brigade" historical_model = 3 }
+				}
+				division = {
+					is_reserve = yes
+					name = "933rd 'Nahal' Infantry Brigade"
+					location = 5535
+					regiment = { type = paratrooper_brigade name = "50th 'Basalt' Paratrooper Battalion" historical_model = 3 }
+					regiment = { type = mechanized_brigade name = "931st 'Shaham' Infantry Battalion" historical_model = 3 }
+					regiment = { type = mechanized_brigade name = "932nd 'Granite' Infantry Battalion" historical_model = 3 }
+				}
+				division = {
+					is_reserve = yes
+					name = "417th 'Jordan Valley' Territorial Brigade"
+					location = 5535
+					regiment = { type = infantry_brigade name = "417th Territorial Battalion" historical_model = 3 }
+					regiment = { type = infantry_brigade name = "418th Territorial Battalion" historical_model = 3 }
+					regiment = { type = infantry_brigade name = "419th Territorial Battalion" historical_model = 3 }
+				}
+			}
+			corps = {
+				name = "98th 'Ha-Esh' Paratroopers Division"
+				location = 5535
+				regiment = { type = hq_brigade name = "98th Paratroopers Division HQ" historical_model = 3 }
+				division = {
+					is_reserve = yes
+					name = "35th 'Flying Serpent' Paratroopers Brigade"
+					location = 5535
+					regiment = { type = paratrooper_brigade name = "101st 'Cobra' Paratrooper Battalion" historical_model = 3 }
+					regiment = { type = paratrooper_brigade name = "202nd 'Viper' Paratrooper Battalion" historical_model = 3 }
+					regiment = { type = paratrooper_brigade name = "890th 'Echis' Paratrooper Battalion" historical_model = 3 }
+				}
+				division = {
+					is_reserve = yes
+					name = "551st 'Hetzei Ha-Esh' Paratroopers Brigade"
+					location = 5535
+					regiment = { type = paratrooper_brigade name = "303rd Paratrooper Battalion" historical_model = 3 }
+					regiment = { type = paratrooper_brigade name = "404th Paratrooper Battalion" historical_model = 3 }
+					regiment = { type = paratrooper_brigade name = "505th Paratrooper Battalion" historical_model = 3 }
+				}
+				division = {
+					is_reserve = yes
+					name = "623rd 'Hod Ha-Hanit' Paratroopers Brigade"
+					location = 5535
+					regiment = { type = paratrooper_brigade name = "606th Paratrooper Battalion" historical_model = 3 }
+					regiment = { type = paratrooper_brigade name = "707th Paratrooper Battalion" historical_model = 3 }
+					regiment = { type = paratrooper_brigade name = "808th Paratrooper Battalion" historical_model = 3 }
+				}
+			}
+		}
+		army = {
+			name = "Pikud Darom"
+			location = 5633
+			regiment = { type = hq_brigade name = "Pikud Darom" historical_model = 3 }
+			corps = {
+				name = "366th 'Amud ha-Esh' Armor Division"
+				location = 5633
+				regiment = { type = hq_brigade name = "366th Armor Division HQ" historical_model = 3 }
+				division = {
+					is_reserve = yes
+					name = "84th 'Giv'ati' Infantry Brigade"
+					location = 5633
+					regiment = { type = mechanized_brigade name = "424th 'Shaked' Infantry Battalion" historical_model = 3 }
+					regiment = { type = mechanized_brigade name = "432nd 'Tzabar' Infantry Battalion" historical_model = 3 }
+					regiment = { type = mechanized_brigade name = "435th 'Rotem' Infantry Battalion" historical_model = 3 }
+					regiment = { type = sp_artillery_brigade name = "209th Artillery Regiment 'Amud Ha-Esh'" historical_model = 3 }
+				}
+			}
+		}
+	}
+	
+	air = {
+	name = "Ramat David Airbase (Wing 1)"
+	base = 5431
+	location = 5431
+	wing = { type = multi_role name = "109 'Valley' Squadron" historical_model = 3 }
+	wing = { type = multi_role name = "110 'Knights of North Squadron' Squadron" historical_model = 3 }
+	wing = { type = multi_role name = "117 'First Jet' Squadron" historical_model = 3 }
+	}
+	
+	air = {
+	name = "Hatzor Airbase (Wing 4)"
+	base = 5489
+	location = 5489
+	wing = { type = multi_role name = "101 'First Combat' Squadron" historical_model = 3 }
+	wing = { type = multi_role name = "105 'Scorpion' Squadron" historical_model = 3 }
+	}
+	
+	air = {
+	name = "Hatzerim Airbase"
+	base = 5489
+	location = 5489
+	wing = { type = multi_role name = "69 'Hammers' Squadron" historical_model = 3 }
+	wing = { type = multi_role name = "107 'Knights of the Orange Tail' Squadron" historical_model = 3 }
+	}
+	
+	air = {
+	name = "Tel Nof Airbase"
+	base = 5535
+	location = 5535
+	wing = { type = interceptor name = "106 'Spearhead' Squadron" historical_model = 3 }
+	wing = { type = interceptor name = "133 'Knights of the Twin Tail" historical_model = 3 }
+	}
+	
+	air = {
+	name = "Ramon Airbase (Wing 25)"
+	base = 5633
+	location = 5633
+	wing = { type = multi_role name = "119 'Bat' Squadron" historical_model = 3 }
+	wing = { type = multi_role name = "201 'The One' Squadron" historical_model = 3 }
+	wing = { type = multi_role name = "253 'Negev' Squadron" historical_model = 3 }
+	}
+	
+	air = {
+	name = "Nevatim Airbase"
+	base = 5489
+	location = 5489
+	wing = { type = multi_role name = "116 'Defenders of the South' Squadron" historical_model = 3 }
+	wing = { type = multi_role name = "140 'Golden Eagle' Squadron" historical_model = 3 }
+	wing = { type = transport_plane name = "103 'Elephants' Squadron" historical_model = 3 }
+	}
+	
+	navy = {
+	name = "Sa'ar 5"
+	base = 5399
+	location = 5399
+	ship = { type = light_cruiser name = "INS Eilat" historical_model = 3 }
+	ship = { type = light_cruiser name = "INS Lahav" historical_model = 3 }
+	ship = { type = light_cruiser name = "INS Hanit" historical_model = 3 }
+	}
+	
+	navy = {
+	name = "Shayetet 7"
+	base = 5399
+	location = 5399
+	ship = { type = submarine name = "INS Dolphin" historical_model = 3 }
+	ship = { type = submarine name = "INS Leviathan" historical_model = 3 }
+	ship = { type = submarine name = "INS Tkuma" historical_model = 3 }
+	}
+	
+	navy = {
+	name = "Shayetet 3"
+	base = 5399
+	location = 5399
+	ship = { type = patrol_boat name = "INS Nitzachon" historical_model = 3 }
+	ship = { type = patrol_boat name = "INS Atzmaut" historical_model = 3 }
+	ship = { type = patrol_boat name = "INS Aliya" historical_model = 3 }
+	ship = { type = patrol_boat name = "INS Geula" historical_model = 3 }
+	ship = { type = patrol_boat name = "INS Romach" historical_model = 3 }
+	ship = { type = patrol_boat name = "INS Keshet" historical_model = 3 }
+	ship = { type = patrol_boat name = "INS Hetz" historical_model = 3 }
+	ship = { type = patrol_boat name = "INS Kidon" historical_model = 3 }
+	ship = { type = patrol_boat name = "INS Tarshish" historical_model = 3 }
+	ship = { type = patrol_boat name = "INS Yaffo" historical_model = 3 }
+	ship = { type = patrol_boat name = "INS Herev" historical_model = 3 }
+	ship = { type = patrol_boat name = "INS Sufa" historical_model = 3 }
+	}
+}
+
+			

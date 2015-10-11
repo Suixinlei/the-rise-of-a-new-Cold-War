@@ -1,0 +1,11 @@
+owner = ENG
+controller = ENG
+add_core = ENG
+infra = 10
+
+industry = 6
+manpower = 1.00
+leadership = 1.00
+energy = 35.00
+metal = 8
+rare_materials = 5

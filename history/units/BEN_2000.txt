@@ -1,0 +1,19 @@
+theatre = {
+	name = "Benin Armed Forces"
+	location = 9938
+	regiment = { type = hq_brigade name = "Benin Armed Forces HQ" historical_model = 0 }
+	division = {
+		is_reserve = yes
+		name = "Infantry Battalions 1-3"
+		location = 9938
+		regiment = { type = infantry_brigade name = "1st Infantry Battalion" historical_model = 0 }
+		regiment = { type = infantry_brigade name = "2nd Infantry Battalion" historical_model = 0 }
+		regiment = { type = infantry_brigade name = "3rd Infantry Battalion" historical_model = 0 }
+	}
+	division = {
+		is_reserve = yes
+		name = "Commando Battalion"
+		location = 9938
+		regiment = { type = special_forces_brigade name = "Commando Battalion" historical_model = 0 }
+	}
+}

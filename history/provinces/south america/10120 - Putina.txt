@@ -1,0 +1,8 @@
+owner = PRU
+controller = PRU
+add_core = PRU
+
+infra = 2
+air_base = 3 #Padrea Aldamiz airbase
+points = 1
+industry = 1

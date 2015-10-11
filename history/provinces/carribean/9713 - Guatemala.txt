@@ -1,0 +1,8 @@
+owner = GUA
+controller = GUA
+add_core = GUA
+infra = 6
+manpower = 5.5
+energy = 1.0
+leadership = 3.00
+points = 1

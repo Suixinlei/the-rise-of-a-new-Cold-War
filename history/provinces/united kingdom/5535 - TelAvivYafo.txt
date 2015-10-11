@@ -1,0 +1,20 @@
+owner = ISR
+
+controller = ISR
+
+add_core = ISR
+add_core = PAL
+metal = 30.00
+rare_materials = 5.00
+energy = 50.00
+
+infra = 6
+
+
+
+
+leadership = 2.50
+
+manpower = 0.50
+air_base = 10 #Tel Nof Airbase
+points = 1

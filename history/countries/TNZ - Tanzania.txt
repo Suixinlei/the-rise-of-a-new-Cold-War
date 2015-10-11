@@ -1,0 +1,48 @@
+capital = 10129
+government = republic
+ideology = leninist
+alignment = { x = -30 y = 80 }
+neutrality = 80
+national_unity = 70
+oob = "TNZ_2000.txt"
+
+popularity = { 
+	national_socialist = 0
+	fascistic = 0
+	paternal_autocrat = 0
+	social_conservative = 4
+	market_liberal = 4
+	social_liberal = 13
+	social_democrat = 0
+	left_wing_radical = 9
+	leninist = 65
+	stalinist = 0
+}
+
+organization = { 
+	national_socialist = 0
+	fascistic = 0
+	paternal_autocrat = 0
+	social_conservative = 12
+	market_liberal = 12
+	social_liberal = 39
+	social_democrat = 0
+	left_wing_radical = 27
+	leninist = 150
+	stalinist = 0
+}
+
+conscription_policy = military_service
+press_laws = free_press
+mobilisation_level = peace_time
+civil_laws = open_society
+service_length = eighteen_months
+economic_policy = lais_fair
+
+industrial_facilities = 1
+industral_production = 1
+industral_efficiency = 1
+weapon_design = 1
+the_fuselage_design = 1
+main_battle_tank = 1
+ship_hull = 1

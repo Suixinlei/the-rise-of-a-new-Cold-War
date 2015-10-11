@@ -1,0 +1,338 @@
+theatre = {
+	name = "阿尔及利亚国家人民军"
+	location = 5160
+	regiment = { type = hq_brigade name = "People's Army HQ" historical_model = 0 }
+	armygroup = {
+		name = "国家人民军"
+		location = 5160
+		regiment = { type = hq_brigade name = "Armee Nationale Populaire" historical_model = 0 }
+		army = {
+			name = "第1军区"
+			location = 5160
+			regiment = { type = hq_brigade name = "First Regional HQ" historical_model = 0 }
+			corps = {
+				name = "第1装甲师"
+				location = 5160
+				regiment = { type = hq_brigade name = "1st Armoured Division HQ" historical_model = 0 }
+				division = {
+					is_reserve = yes
+					name = "第11坦克旅"
+					location = 5160
+					regiment = { type = armor_brigade name = "111th Tank Battalion" historical_model = 0 }
+					regiment = { type = armor_brigade name = "112th Tank Battalion" historical_model = 0 }
+					regiment = { type = mechanized_brigade name = "113th Mechanized Battalion" historical_model = 0 }
+				}
+				division = {
+					is_reserve = yes
+					name = "第12坦克旅"
+					location = 5224
+					regiment = { type = armor_brigade name = "121st Tank Battalion" historical_model = 0 }
+					regiment = { type = armor_brigade name = "122nd Tank Battalion" historical_model = 0 }
+					regiment = { type = mechanized_brigade name = "123rd Mechanized Battalion" historical_model = 0 }
+				}
+				division = {
+					is_reserve = yes
+					name = "第13坦克旅"
+					location = 5193
+					regiment = { type = armor_brigade name = "131st Tank Battalion" historical_model = 0 }
+					regiment = { type = armor_brigade name = "132nd Tank Battalion" historical_model = 0 }
+					regiment = { type = mechanized_brigade name = "133rd Mechanized Battalion" historical_model = 0 }
+				}
+				division = {
+					is_reserve = yes
+					name = "第14机械化旅"
+					location = 5194
+					regiment = { type = mechanized_brigade name = "141st Mechanized Battalion" historical_model = 0 }
+					regiment = { type = mechanized_brigade name = "142nd Mechanized Battalion" historical_model = 0 }
+					regiment = { type = armor_brigade name = "143rd Mechanized Battalion" historical_model = 0 }
+				}
+			}
+			division = {
+				is_reserve = yes
+				name = "特别空军"
+				location = 5160
+				regiment = { type = paratrooper_brigade name = "1st Airborne Battalion" historical_model = 0 }
+				regiment = { type = paratrooper_brigade name = "2nd Airborne Battalion" historical_model = 0 }
+				regiment = { type = paratrooper_brigade name = "3rd Airborne Battalion" historical_model = 0 }
+			}
+		}
+		army = { 
+			name = "第2军区"
+			location = 5292
+			regiment = { type = hq_brigade name = "Second Regional HQ" historical_model = 0 }
+			corps = {
+				name = "第8装甲师"
+				location = 5326
+				regiment = { type = hq_brigade name = "8th Armoured Division HQ" historical_model = 0 }
+				division = {
+					is_reserve = yes
+					name = "第81坦克旅"
+					location = 5292
+					regiment = { type = armor_brigade name = "811th Tank Battalion" historical_model = 0 }
+					regiment = { type = armor_brigade name = "812th Tank Battalion" historical_model = 0 }
+					regiment = { type = mechanized_brigade name = "813th Mechanized Battalion" historical_model = 0 }
+				}
+				division = {
+					is_reserve = yes
+					name = "第82坦克旅"
+					location = 5291
+					regiment = { type = armor_brigade name = "821st Tank Battalion" historical_model = 0 }
+					regiment = { type = armor_brigade name = "822nd Tank Battalion" historical_model = 0 }
+					regiment = { type = mechanized_brigade name = "823rd Mechanized Battalion" historical_model = 0 }
+				}
+				division = {
+					is_reserve = yes
+					name = "第83坦克旅"
+					location = 5325
+					regiment = { type = armor_brigade name = "831st Tank Battalion" historical_model = 0 }
+					regiment = { type = armor_brigade name = "832nd Tank Battalion" historical_model = 0 }
+					regiment = { type = mechanized_brigade name = "833rd Mechanized Battalion" historical_model = 0 }
+				}
+				division = {
+					is_reserve = yes
+					name = "第84机械化旅"
+					location = 5290
+					regiment = { type = mechanized_brigade name = "841st Mechanized Battalion" historical_model = 0 }
+					regiment = { type = mechanized_brigade name = "842nd Mechanized Battalion" historical_model = 0 }
+					regiment = { type = armor_brigade name = "843rd Mechanized Battalion" historical_model = 0 }
+				}
+			}
+		}
+		army = {
+			name = "第3军区"
+			location = 9241
+			regiment = { type = hq_brigade name = "Third Regional HQ" historical_model = 0}
+			corps = {
+				name = "第40机械化师"
+				location = 9241
+				regiment = { type = hq_brigade name = "40th Mechanized Division HQ" historical_model = 0 }
+				division = {
+					is_reserve = yes
+					name = "第41机械化旅"
+					location = 9242
+					regiment = { type = mechanized_brigade name = "411th Mechanized Battalion" historical_model = 0 }
+					regiment = { type = mechanized_brigade name = "412th Mechanized Battalion" historical_model = 0 }
+					regiment = { type = armor_brigade name = "413th Mechanized Battalion" historical_model = 0 }
+				}
+				division = {
+					is_reserve = yes
+					name = "第42机械化旅"
+					location = 9241
+					regiment = { type = mechanized_brigade name = "421st Mechanized Battalion" historical_model = 0 }
+					regiment = { type = mechanized_brigade name = "422nd Mechanized Battalion" historical_model = 0 }
+					regiment = { type = armor_brigade name = "423rd Mechanized Battalion" historical_model = 0 }
+				}
+				division = {
+					is_reserve = yes
+					name = "第43机械化旅"
+					location = 9302
+					regiment = { type = mechanized_brigade name = "431st Mechanized Battalion" historical_model = 0 }
+					regiment = { type = mechanized_brigade name = "432nd Mechanized Battalion" historical_model = 0 }
+					regiment = { type = armor_brigade name = "433rd Mechanized Battalion" historical_model = 0 }
+				}
+				division = {
+					is_reserve = yes
+					name = "第44机械化旅"
+					location = 9390
+					regiment = { type = armor_brigade name = "441st Tank Battalion" historical_model = 0 }
+					regiment = { type = armor_brigade name = "442nd Tank Battalion" historical_model = 0 }
+					regiment = { type = mechanized_brigade name = "443rd Mechanized Battalion" historical_model = 0 }
+				}
+			}
+		}
+		army = {
+			name = "第4军区"
+			location = 9276
+			regiment = { type = hq_brigade name = "Fourth Regional HQ" historical_model = 0 }
+			corps = {
+				name = "第2机械化师"
+				location = 9276
+				regiment = { type = hq_brigade name = "2nd Mechanized Division HQ" historical_model = 0 }
+				division = {
+					is_reserve = yes
+					name = "第21机械化旅"
+					location = 5195
+					regiment = { type = mechanized_brigade name = "211th Mechanized Battalion" historical_model = 0 }
+					regiment = { type = mechanized_brigade name = "212th Mechanized Battalion" historical_model = 0 }
+					regiment = { type = armor_brigade name = "213th Mechanized Battalion" historical_model = 0 }
+				}
+				division = {
+					is_reserve = yes
+					name = "第22机械化旅"
+					location = 9331
+					regiment = { type = mechanized_brigade name = "221st Mechanized Battalion" historical_model = 0 }
+					regiment = { type = mechanized_brigade name = "222nd Mechanized Battalion" historical_model = 0 }
+					regiment = { type = armor_brigade name = "223rd Mechanized Battalion" historical_model = 0 }
+				}
+				division = {
+					is_reserve = yes
+					name = "第23机械化旅"
+					location = 9277
+					regiment = { type = mechanized_brigade name = "231st Mechanized Battalion" historical_model = 0 }
+					regiment = { type = mechanized_brigade name = "232nd Mechanized Battalion" historical_model = 0 }
+					regiment = { type = armor_brigade name = "233rd Mechanized Battalion" historical_model = 0 }
+				}
+				division = {
+					is_reserve = yes
+					name = "第24机械化旅"
+					location = 9212
+					regiment = { type = armor_brigade name = "241st Tank Battalion" historical_model = 0 }
+					regiment = { type = armor_brigade name = "242nd Tank Battalion" historical_model = 0 }
+					regiment = { type = mechanized_brigade name = "243rd Mechanized Battalion" historical_model = 0 }
+				}
+			}
+		}
+		army = {
+			name = "第5军区"
+			location = 5198
+			regiment = { type = hq_brigade name = "Fifth Regional HQ" historical_model = 0 }
+			corps = {
+				name = "第3机械化师"
+				location = 9276
+				regiment = { type = hq_brigade name = "3rd Mechanized Division HQ" historical_model = 0 }
+				division = {
+					is_reserve = yes
+					name = "第31机械化旅"
+					location = 5328
+					regiment = { type = mechanized_brigade name = "311th Mechanized Battalion" historical_model = 0 }
+					regiment = { type = mechanized_brigade name = "312th Mechanized Battalion" historical_model = 0 }
+					regiment = { type = armor_brigade name = "313th Mechanized Battalion" historical_model = 0 }
+				}
+				division = {
+					is_reserve = yes
+					name = "第33机械化旅"
+					location = 5231
+					regiment = { type = mechanized_brigade name = "321st Mechanized Battalion" historical_model = 0 }
+					regiment = { type = mechanized_brigade name = "322nd Mechanized Battalion" historical_model = 0 }
+					regiment = { type = armor_brigade name = "323rd Mechanized Battalion" historical_model = 0 }
+				}
+				division = {
+					is_reserve = yes
+					name = "第32机械化旅"
+					location = 5200
+					regiment = { type = mechanized_brigade name = "331st Mechanized Battalion" historical_model = 0 }
+					regiment = { type = mechanized_brigade name = "332nd Mechanized Battalion" historical_model = 0 }
+					regiment = { type = armor_brigade name = "333rd Mechanized Battalion" historical_model = 0 }
+				}
+				division = {
+					is_reserve = yes
+					name = "第34坦克旅"
+					location = 5165
+					regiment = { type = armor_brigade name = "341st Tank Battalion" historical_model = 0 }
+					regiment = { type = armor_brigade name = "342nd Tank Battalion" historical_model = 0 }
+					regiment = { type = mechanized_brigade name = "343rd Mechanized Battalion" historical_model = 0 }
+				}
+			}
+		}
+		army = {
+			name = "第6军区"
+			location = 9878
+			regiment = { type = hq_brigade name = "Sixth Regional HQ" historical_model = 0 }
+			division = { 
+				is_reserve = yes
+				name = "第1步兵旅"
+				location = 9878
+				regiment = { type = infantry_brigade name = "11th Infantry Battalion" historical_model = 0 }
+				regiment = { type = infantry_brigade name = "12th Infantry Battalion" historical_model = 0 }
+				regiment = { type = infantry_brigade name = "13th Infantry Battalion" historical_model = 0 }
+				regiment = { type = armor_brigade name = "14th Tank Battalion" historical_model = 0 }
+			}
+			division = { 
+				is_reserve = yes
+				name = "第2步兵旅"
+				location = 9936
+				regiment = { type = infantry_brigade name = "21st Infantry Battalion" historical_model = 0 }
+				regiment = { type = infantry_brigade name = "22nd Infantry Battalion" historical_model = 0 }
+				regiment = { type = infantry_brigade name = "23rd Infantry Battalion" historical_model = 0 }
+				regiment = { type = armor_brigade name = "24th Tank Battalion" historical_model = 0 }
+			}
+			division = { 
+				is_reserve = yes
+				name = "第3步兵旅"
+				location = 9779
+				regiment = { type = infantry_brigade name = "31st Infantry Battalion" historical_model = 0 }
+				regiment = { type = infantry_brigade name = "32nd Infantry Battalion" historical_model = 0 }
+				regiment = { type = infantry_brigade name = "33rd Infantry Battalion" historical_model = 0 }
+				regiment = { type = armor_brigade name = "34th Tank Battalion" historical_model = 0 }
+			}
+			division = { 
+				is_reserve = yes
+				name = "第4步兵旅"
+				location = 5524
+				regiment = { type = infantry_brigade name = "41st Infantry Battalion" historical_model = 0 }
+				regiment = { type = infantry_brigade name = "42nd Infantry Battalion" historical_model = 0 }
+				regiment = { type = infantry_brigade name = "43rd Infantry Battalion" historical_model = 0 }
+				regiment = { type = armor_brigade name = "44th Tank Battalion" historical_model = 0 }
+			}
+			division = { 
+				is_reserve = yes
+				name = "第5步兵旅"
+				location = 5547
+				regiment = { type = infantry_brigade name = "51st Infantry Battalion" historical_model = 0 }
+				regiment = { type = infantry_brigade name = "52nd Infantry Battalion" historical_model = 0 }
+				regiment = { type = infantry_brigade name = "53rd Infantry Battalion" historical_model = 0 }
+				regiment = { type = armor_brigade name = "54th Tank Battalion" historical_model = 0 }
+			}
+		}
+	}
+	
+	air = {
+	name = "奥兰空军基地"
+	base = 5292
+	location = 5292
+	wing = { type = multi_role name = "1st Fighter Wing" historical_model = 0 }
+	}
+	
+	air = {
+	name = "布法里克空军基地"
+	base = 5160
+	location = 5160
+	wing = { type = cas name = "1st Attack Wing" historical_model = 0 }
+	}
+	
+	air = {
+	name = "艾因贝达空军基地"
+	base = 5230
+	location = 5230
+	wing = { type = multi_role name = "2nd Fighter Wing" historical_model = 0 }
+	}
+	
+	air = {
+	name = "我也不知到这个怎么翻"
+	base = 5295
+	location = 5295
+	wing = { type = transport_plane name = "1st Transport Wing" historical_model = 0 }
+	wing = { type = transport_plane name = "2nd Transport Wing" historical_model = 0 }
+	}
+	
+	navy = {
+	name = "阿尔及利亚海军"
+	base = 5160
+	location = 5160
+	ship = { type = heavy_cruiser name = "Mourad Rais" historical_model = 0 }
+	ship = { type = heavy_cruiser name = "Rais Kellich" historical_model = 0 }
+	ship = { type = heavy_cruiser name = "Rais Korfo" historical_model = 0 }
+	ship = { type = light_cruiser name = "Rais Hamidou" historical_model = 0 }
+	ship = { type = light_cruiser name = "Salah Rais" historical_model = 0 }
+	ship = { type = light_cruiser name = "Rais Ali" historical_model = 0 }
+	ship = { type = patrol_boat name = "Djebel Chenoua" historical_model = 0 }
+	ship = { type = patrol_boat name = "El Chihab" historical_model = 1 }
+	ship = { type = patrol_boat name = "El Kirch" historical_model = 3 }
+	ship = { type = patrol_boat name = "El Yadekh" historical_model = 0 }
+	ship = { type = patrol_boat name = "El Morakeb" historical_model = 0 }
+	ship = { type = patrol_boat name = "El Kechef" historical_model = 0 }
+	ship = { type = patrol_boat name = "El Moutarid" historical_model = 0 }
+	ship = { type = patrol_boat name = "El Rassed" historical_model = 0 }
+	ship = { type = patrol_boat name = "El Djari" historical_model = 0 }
+	ship = { type = patrol_boat name = "El Saher" historical_model = 0 }
+	ship = { type = patrol_boat name = "El Moukadem" historical_model = 0 }
+	ship = { type = patrol_boat name = "El Wafi" historical_model = 0 }
+	ship = { type = submarine name = "Rais Hadi Mubarek" historical_model = 0 }
+	ship = { type = submarine name = "El Hadj Slimane" historical_model = 0 }
+	}
+
+}
+
+	
+	
+	

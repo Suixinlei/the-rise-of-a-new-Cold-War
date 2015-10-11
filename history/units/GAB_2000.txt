@@ -1,0 +1,35 @@
+theatre = {
+	name = "Gabonese Defence Forces"
+	location = 10021
+	regiment = { type = hq_brigade name = "Defence Forces HQ" historical_model = 0 }
+	corps = {
+		name = "Gabonese Army"
+		location = 10021
+		regiment = { type = hq_brigade name = "Army HQ" historical_model = 0 }
+		division = {
+			is_reserve = yes
+			name = "Republican Guard Battalion"
+			location = 10021
+			regiment = { type = infantry_brigade name = "Republican Guard Battalion" historical_model = 0 }
+		}
+		division = {
+			is_reserve = yes
+			name = "Airborne Regiment"
+			location = 10021
+			regiment = { type = paratrooper_brigade name = "Airborne Regiment" historical_model = 0 }
+		}
+		division = {
+			is_reserve = yes
+			name = "Light Armored Recon Battalion"
+			location = 10021
+			regiment = { type = mechanized_brigade name = "Light Armored Recon Battalion" historical_model = 0 }
+		}
+	}
+
+	navy = {
+	name = "Gabonese Navy"
+	base = 10021
+	location = 10021
+	ship = { type = patrol_boat name = "La Combattante" historical_model = 0 }
+	}
+}

@@ -1,0 +1,13 @@
+theatre = {
+	name = "Umbutfo Swaziland Defense Force"
+	location = 8022
+	regiment = { type = hq_brigade name = "Umbutfo Swaziland Defense Force" historical_model = 0 }
+	division = {
+		is_reserve = yes
+		name = "Royal Guard"
+		location = 8022
+		regiment = { type = garrison_brigade name = "1st Royal Battalion" historical_model = 0 }
+		regiment = { type = garrison_brigade name = "2nd Royal Battalion" historical_model = 0 }
+		regiment = { type = garrison_brigade name = "3rd Royal Battalion" historical_model = 0 }
+	}
+}

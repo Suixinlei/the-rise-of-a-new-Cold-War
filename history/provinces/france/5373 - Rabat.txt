@@ -1,0 +1,9 @@
+owner = MOR
+controller = MOR
+add_core = MOR
+manpower = 2.00
+infra = 7
+air_base = 10 #airbases surrounding Rabat
+leadership = 1.50
+points = 1
+industry = 1

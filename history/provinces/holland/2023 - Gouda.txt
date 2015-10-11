@@ -1,0 +1,7 @@
+owner = HOL
+controller = HOL
+add_core = HOL
+
+infra = 7
+
+air_base = 4 #Gilze-Rijen airbase

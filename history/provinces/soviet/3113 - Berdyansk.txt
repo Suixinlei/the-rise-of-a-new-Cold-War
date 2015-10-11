@@ -1,0 +1,6 @@
+owner = UKR
+controller = UKR
+add_core = UKR
+add_core = NOV
+infra = 6
+naval_base = 5 #Berdyansk port

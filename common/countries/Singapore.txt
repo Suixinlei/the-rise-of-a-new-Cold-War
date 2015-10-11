@@ -1,0 +1,93 @@
+color = { 190  98  29 }
+graphical_culture = Generic
+last_election = 2001.11.3
+duration = 60
+
+default_templates = {
+	generic_infantry = {
+		infantry_brigade
+		infantry_brigade
+		infantry_brigade
+	}
+	generic_milita = {
+		militia_brigade
+		militia_brigade
+		militia_brigade
+	}
+	generic_armoured = {
+		armor_brigade
+		motorized_brigade
+		motorized_brigade
+	}
+	generic_cavalry = {
+		cavalry_brigade
+		cavalry_brigade
+	}
+}
+
+
+
+
+ministers = {
+	80600 = {
+		name = "ÈûÀ­ÅË¡¤ÄÉµ¤"
+		ideology = paternal_autocrat
+		loyalty = 1.00
+		picture = L80600
+		head_of_state = silent_lawyer
+		minister_of_intelligence = technical_specialist
+		start_date = 1999.1.1
+	}
+	80601 = {
+		name = "ÀîÏÔÁú"
+		ideology = paternal_autocrat
+		loyalty = 1.00
+		picture = L80601
+		head_of_government = biased_intellectual
+		chief_of_staff = infantry_proponent
+		chief_of_army = school_of_fire_support
+		start_date = 1999.1.1
+	}
+	80602 = {
+		name = "³ÂÇìÑ×"
+		ideology = paternal_autocrat
+		loyalty = 1.00
+		picture = L80602
+		head_of_government = iron_fisted_brute
+		minister_of_security = insignificant_layman
+		minister_of_intelligence = naval_intelligence_specialist
+		start_date = 1999.1.1
+	}
+	80603 = {
+		name = "Îâ×÷¶°"
+		ideology = paternal_autocrat
+		loyalty = 1.00
+		picture = L80603
+		armament_minister = resource_industrialist
+		start_date = 1999.1.1
+	}
+	80604 = {
+		name = "¹şÀòÂê.ÑÅ¸÷²¼"
+		ideology = social_democrat
+		loyalty = 1.00
+		picture = L80604
+		foreign_minister = pig_headed_isolationist
+		start_date = 1999.1.1
+	}
+	80605 = {
+		name = "»ÆÖ¾Æ½"
+		ideology = social_liberal
+		loyalty = 1.00
+		picture = SIN13
+		chief_of_navy = open_seas_doctrine
+		start_date = 1999.1.1
+	}
+	80606 = {
+		name = "·û²ßÄ±"
+		ideology = national_socialist
+		loyalty = 1.00
+		picture = SIN5
+		chief_of_air = carpet_bombing_doctrine
+		start_date = 1999.1.1
+	}
+}

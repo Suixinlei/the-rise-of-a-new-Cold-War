@@ -1,0 +1,137 @@
+color = { 57  113  228 }
+graphical_culture = Generic
+
+last_election = 2002.1.1
+duration = 48
+
+default_templates = {
+	generic_infantry = {
+		infantry_brigade
+		infantry_brigade
+		infantry_brigade
+	}
+	generic_milita = {
+		militia_brigade
+		militia_brigade
+		militia_brigade
+	}
+	generic_armoured = {
+		armor_brigade
+		motorized_brigade
+		motorized_brigade
+	}
+	generic_cavalry = {
+		cavalry_brigade
+		cavalry_brigade
+	}
+}
+
+unit_names = {
+	infantry_brigade = {
+		"I. Infanterifördelningen" "II. Infanterifördelningen" "III. Infanterifördelningen" "IV. Infanterifördelningen" "V. Infanterifördelningen" "VI. Infanterifördelningen" "VII. Infanterifördelningen" "VIII. Infanterifördelningen" "IX. Infanterifördelningen" "X. Infanterifördelningen" "XI. Infanterifördelningen" 
+		"XII. Infanterifördelningen" "XIII. Infanterifördelningen" "XIV. Infanterifördelningen" "XV. Infanterifördelningen" "XVI. Infanterifördelningen" "XVII. Infanterifördelningen" "XVIII. Infanterifördelningen" "XIX. Infanterifördelningen" "XX. Infanterifördelningen" "XXI. Infanterifördelningen" "XXII. Infanterifördelningen" 
+		"XXIII. Infanterifördelningen" "XXIV. Infanterifördelningen" "XXV. Infanterifördelningen" 
+	}
+	cavalry_brigade = {
+		"I. Kavallerifördelningen" "II. Kavallerifördelningen" "III. Kavallerifördelningen" "IV. Kavallerifördelningen" "V. Kavallerifördelningen" "VI. Kavallerifördelningen" "VII. Kavallerifördelningen" "VIII. Kavallerifördelningen" "IX. Kavallerifördelningen" "X. Kavallerifördelningen" 
+	}
+	motorized_brigade = {
+		"6. Motorfördelningen" "7. Motorfördelningen" "8. Motorfördelningen" "14. Motorfördelningen" "15. Motorfördelningen" "16. Motorfördelningen" "17. Motorfördelningen" "18. Motorfördelningen" "19. Motorfördelningen" "20. Motorfördelningen" "21. Motorfördelningen" 
+		"22. Motorfördelningen" "23. Motorfördelningen" "24. Motorfördelningen" "25. Motorfördelningen" 
+	}
+	mechanized_brigade = {
+		"1. Mekaniserade Fördelningen" "2. Mekaniserade Fördelningen" "3. Mekaniserade Fördelningen" "4. Mekaniserade Fördelningen" "5. Mekaniserade Fördelningen" "6. Mekaniserade Fördelningen" "7. Mekaniserade Fördelningen" "8. Mekaniserade Fördelningen" "9. Mekaniserade Fördelningen" "10. Mekaniserade Fördelningen" "11. Mekaniserade Fördelningen" 
+		"12. Mekaniserade Fördelningen" "13. Mekaniserade Fördelningen" "14. Mekaniserade Fördelningen" "15. Mekaniserade Fördelningen" 
+	}
+	light_armor_brigade = {
+		"8. Pansarfördelningen" "9. Pansarfördelningen" "10. Pansarfördelningen" "11. Pansarfördelningen" "12. Pansarfördelningen" "13. Pansarfördelningen" "14. Pansarfördelningen" "15. Pansarfördelningen" "16. Pansarfördelningen" "17. Pansarfördelningen" "18. Pansarfördelningen" 
+		"19. Pansarfördelningen" "20. Pansarfördelningen" "21. Pansarfördelningen" "22. Pansarfördelningen" "23. Pansarfördelningen" "24. Pansarfördelningen" "25. Pansarfördelningen" "26. Pansarfördelningen" "27. Pansarfördelningen" 
+	}
+	armor_brigade = {
+		"8. Pansarfördelningen" "9. Pansarfördelningen" "10. Pansarfördelningen" "11. Pansarfördelningen" "12. Pansarfördelningen" "13. Pansarfördelningen" "14. Pansarfördelningen" "15. Pansarfördelningen" "16. Pansarfördelningen" "17. Pansarfördelningen" "18. Pansarfördelningen" 
+		"19. Pansarfördelningen" "20. Pansarfördelningen" "21. Pansarfördelningen" "22. Pansarfördelningen" "23. Pansarfördelningen" "24. Pansarfördelningen" "25. Pansarfördelningen" "26. Pansarfördelningen" "27. Pansarfördelningen" 
+	}
+	paratrooper_brigade = {
+		"11. Fallskärmsjägarfördelningen" "12. Fallskärmsjägarfördelningen" "13. Fallskärmsjägarfördelningen" "14. Fallskärmsjägarfördelningen" "15. Fallskärmsjägarfördelningen" "16. Fallskärmsjägarfördelningen" "17. Fallskärmsjägarfördelningen" "18. Fallskärmsjägarfördelningen" "19. Fallskärmsjägarfördelningen" "20. Fallskärmsjägarfördelningen" 
+	}
+	marine_brigade = {
+		"21. Kustjägarfördelningen" "22. Kustjägarfördelningen" "23. Kustjägarfördelningen" "24. Kustjägarfördelningen" "25. Kustjägarfördelningen" "26. Kustjägarfördelningen" "27. Kustjägarfördelningen" "28. Kustjägarfördelningen" "29. Kustjägarfördelningen" "30. Kustjägarfördelningen" 
+	}
+	bergsjaeger_brigade = {
+		"31. Jägarfördelningen" "32. Jägarfördelningen" "33. Jägarfördelningen" "34. Jägarfördelningen" "35. Jägarfördelningen" "36. Jägarfördelningen" "37. Jägarfördelningen" "38. Jägarfördelningen" "39. Jägarfördelningen" "40. Jägarfördelningen" "41. Jägarfördelningen" 
+		"42. Jägarfördelningen" "43. Jägarfördelningen" "44. Jägarfördelningen" "45. Jägarfördelningen" "46. Jägarfördelningen" "47. Jägarfördelningen" "48. Jägarfördelningen" "49. Jägarfördelningen" "50. Jägarfördelningen" 
+	}
+	garrison_brigade = {
+		"I1 Garnison" "I2 Garnison" "I3 Garnison" "K1 Garnison" "K2 Garnison" "I10 Garnison" "I12 Garnison" "I13 Garnison" "I15 Garnison" "F1 Garnison" "F2 Garnison" 
+		"I5 Garnison" "I20 Garnison" "I6 Garnison" "I19 Garnison" "I21Garnison" "I9 Garnison" "K3 Garnison" "K4 Garnison" "K5 Garnison" "Ing1 Garnison" "Ing2 Garnison" 
+		"Ing3 Garnison" "T1 Garnison" "T2 Garnison" 
+	}
+	hq_brigade = {
+		"1. Armén" "2. Armén" "3. Armén" "4. Armén" "5. Armén" "6. Armén" "7. Armén" "8. Armén" "9. Armén" "10. Armén" "15. Armén" 
+			}
+	militia_brigade = {
+		"Gästrike Hemvärnskretsar" "Skånes Hemvärnskretsar" "Stockholms Hemvärnskretsar" "Göteborgs Hemvärnskretsar" "Smålands Hemvärnskretsar" "Blekinges Hemvärnskretsar" "Dalarnas Hemvärnskretsar" "Värmlands Hemvärnskretsar" "Västernorrlands Hemvärnskretsar" "Uppsala Hemvärnskretsar" "Lund Hemvärnskretsar" 
+		"Eskilstuna Hemvärnskretsar" "Norrbotten Hemvärnskretsar" "Jönköping Hemvärnskretsar" "Linköping Hemvärnskretsar" "Kopparberg Hemvärnskretsar" "Bohusläns Hemvärnskretsar" "Kristianstad Hemvärnskretsar" "Kronoberg Hemvärnskretsar" "Sandviken Hemvärnskretsar" 
+	}
+	multi_role = {
+		"1. Jaktflyggruppen" "8. Jaktflyggruppen" "4. Jaktflyggruppen" "6. Jaktflyggruppen" "7. Jaktflyggruppen" "9. Jaktflyggruppen" "10. Jaktflyggruppen" "11. Jaktflyggruppen" "2. Jaktflyggruppen" "3. Jaktflyggruppen" "5. Jaktflyggruppen" 
+		"12. Jaktflyggruppen" "13. Jaktflyggruppen" "14. Jaktflyggruppen" "15. Jaktflyggruppen" 
+	}
+	interceptor = {
+		"1. Jaktflyggruppen" "8. Jaktflyggruppen" "4. Jaktflyggruppen" "6. Jaktflyggruppen" "7. Jaktflyggruppen" "9. Jaktflyggruppen" "10. Jaktflyggruppen" "11. Jaktflyggruppen" "2. Jaktflyggruppen" "3. Jaktflyggruppen" "5. Jaktflyggruppen" 
+		"12. Jaktflyggruppen" "13. Jaktflyggruppen" "14. Jaktflyggruppen" "15. Jaktflyggruppen" 
+	}
+	strategic_bomber = {
+		"1. Strategiska Bombflyggruppen" "4. Strategiska Bombflyggruppen" "8. Strategiska Bombflyggruppen" "6. Strategiska Bombflyggruppen" "7. Strategiska Bombflyggruppen" "9. Strategiska Bombflyggruppen" "10. Strategiska Bombflyggruppen" "11. Strategiska Bombflyggruppen" "2. Strategiska Bombflyggruppen" "3. Strategiska Bombflyggruppen" "5. Strategiska Bombflyggruppen" 
+			}
+	tactical_bomber = {
+		"1. Taktiska Bombflyggruppen" "4. Taktiska Bombflyggruppen" "8. Taktiska Bombflyggruppen" "6. Taktiska Bombflyggruppen" "7. Taktiska Bombflyggruppen" "9. Taktiska Bombflyggruppen" "10. Taktiska Bombflyggruppen" "11. Taktiska Bombflyggruppen" "2. Taktiska Bombflyggruppen" "3. Taktiska Bombflyggruppen" "5. Taktiska Bombflyggruppen" 
+		"12. Taktiska Bombflyggruppen" "13. Taktiska Bombflyggruppen" "14. Taktiska Bombflyggruppen" 
+	}
+	naval_bomber = {
+		"1. Marinbombflyggruppen" "4. Marinbombflyggruppen" "8. Marinbombflyggruppen" "6. Marinbombflyggruppen" "7. Marinbombflyggruppen" "9. Marinbombflyggruppen" "10. Marinbombflyggruppen" "11. Marinbombflyggruppen" "2. Marinbombflyggruppen" "3. Marinbombflyggruppen" "5. Marinbombflyggruppen" 
+		"12. Marinbombflyggruppen" "1. Torpedbombflyggruppen" "4. Torpedbombflyggruppen" "8. Torpedbombflyggruppen" "6. Torpedbombflyggruppen" "7. Torpedbombflyggruppen" "9. Torpedbombflyggruppen" "10. Torpedbombflyggruppen" "11. Torpedbombflyggruppen" "2. Torpedbombflyggruppen" "3. Torpedbombflyggruppen" 
+		"5. Torpedbombflyggruppen" "12. Torpedbombflyggruppen" 
+	}
+	cas = {
+		"4. Dykbombflyggruppen" "6. Dykbombflyggruppen" "7. Dykbombflyggruppen" "11. Dykbombflyggruppen" "1. Dykbombflyggruppen" "8. Dykbombflyggruppen" "9. Dykbombflyggruppen" "10. Dykbombflyggruppen" "2. Dykbombflyggruppen" "3. Dykbombflyggruppen" 
+	}
+	transport_plane = {
+		"1. Transportflottiljen" "4. Transportflottiljen" "8. Transportflottiljen" "6. Transportflottiljen" "7. Transportflottiljen" "9. Transportflottiljen" "10. Transportflottiljen" "11. Transportflottiljen" "2. Transportflottiljen" "3. Transportflottiljen" 
+	}
+	battleship = {
+		"HMS Gustav II Adolf" "HMS Karl XII" "HMS Karl XI" "HMS Gustav III" "HMS Gustav Vasa" 
+	}
+	light_cruiser = {
+		"HMS Kalmar" "HMS Västervik" "HMS Gävle" "HMS Malmö" "HMS Halmstad" "HMS Karlskrona" "HMS Sundsvall" "HMS Luleå" "HMS Umeå" "HMS Härnösand" "HMS Hudiksvall" 
+		"HMS Uddevalla" "HMS Helsingborg" "HMS Varberg" "HMS Norrköping" "HMS Söderköping" "HMS Visby" 
+	}
+	heavy_cruiser = {
+		"HMS Manligheten" "HMS Oscar II" "HMS Äran" "HMS Tapperheten" "HMS Clas Fleming" "HMS Hans Wachtmeister" "HMS Tre Kronor" "HMS Älvsnabben" "HMS Starkodder" "HMS Styrbiörn" "HMS Sverige" 
+		"HMS Gotland" "HMS Stockholm" "HMS Göteborg" "HMS Svealand" "HMS Götaland" "HMS Norrland" "HMS Drottning Victoria" "HMS Gustav V" "HMS Gotland" 
+	}
+	battlecruiser = {
+		"HMS Gustav II Adolf" "HMS Karl XII" "HMS Karl XI" "HMS Gustav III" "HMS Gustav Vasa" 
+	}
+	destroyer = {
+		"1. Jagarflottiljen" "2. Jagarflottiljen" "3. Jagarflottiljen" "4. Jagarflottiljen" "5. Jagarflottiljen" "6. Jagarflottiljen" "7. Jagarflottiljen" "8. Jagarflottiljen" "9. Jagarflottiljen" "10. Jagarflottiljen" "11. Jagarflottiljen" 
+		"12. Jagarflottiljen" "13. Jagarflottiljen" "14. Jagarflottiljen" "15. Jagarflottiljen" "16. Jagarflottiljen" "17. Jagarflottiljen" "18. Jagarflottiljen" "19. Jagarflottiljen" "20. Jagarflottiljen" 
+	}
+	carrier = {
+		"HMS Kronan" "HMS Riksäpplet" "HMS Spiran" 
+	}
+	escort_carrier = {
+		"HMS Dristigheten" "HMS Jacob Bagge" "HMS Gotland" 
+	}
+	submarine = {
+		"1. Ubåtsflottiljen" "2. Ubåtsflottiljen" "3. Ubåtsflottiljen" "4. Ubåtsflottiljen" "5. Ubåtsflottiljen" "6. Ubåtsflottiljen" "7. Ubåtsflottiljen" "8. Ubåtsflottiljen" "9. Ubåtsflottiljen" "10. Ubåtsflottiljen" "11. Ubåtsflottiljen" 
+		"12. Ubåtsflottiljen" "13. Ubåtsflottiljen" "14. Ubåtsflottiljen" "15. Ubåtsflottiljen" "16. Ubåtsflottiljen" "17. Ubåtsflottiljen" "18. Ubåtsflottiljen" "19. Ubåtsflottiljen" "20. Ubåtsflottiljen" 
+	}
+	transport_ship = {
+		"1. Sjötransportflottiljen" "2. Sjötransportflottiljen" "3. Sjötransportflottiljen" "4. Sjötransportflottiljen" "5. Sjötransportflottiljen" "6. Sjötransportflottiljen" "7. Sjötransportflottiljen" "8. Sjötransportflottiljen" "9. Sjötransportflottiljen" "10. Sjötransportflottiljen" "11. Sjötransportflottiljen" 
+		"12. Sjötransportflottiljen" "13. Sjötransportflottiljen" "14. Sjötransportflottiljen" "15. Sjötransportflottiljen" "16. Sjötransportflottiljen" "17. Sjötransportflottiljen" "18. Sjötransportflottiljen" "19. Sjötransportflottiljen" "20. Sjötransportflottiljen" 
+	}
+
+}
+
+ministers = { }

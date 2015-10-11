@@ -1,0 +1,5 @@
+theatre = {
+	name = "Haitian Defence Force"
+	location = 7661
+	regiment = { type = hq_brigade name = "Haitian Defence Force" historical_model = 0 }
+}

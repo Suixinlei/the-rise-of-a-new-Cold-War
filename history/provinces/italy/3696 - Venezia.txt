@@ -1,0 +1,12 @@
+owner = ITA
+controller = ITA
+add_core = ITA
+
+
+infra = 10
+
+naval_base = 6 #Venice port
+leadership = 2.50
+points = 1
+industry = 3
+crude_oil = 3.00

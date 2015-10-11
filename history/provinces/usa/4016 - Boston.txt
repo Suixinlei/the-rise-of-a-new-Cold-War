@@ -1,0 +1,14 @@
+owner = USA
+controller = USA
+add_core = USA
+
+infra = 10
+industry = 5
+manpower = 15.00
+energy = 20.00
+metal = 5.00
+rare_materials = 5.00
+air_base = 3 #Boston airport
+naval_base = 8 #Boston port
+points = 1
+leadership = 2.00

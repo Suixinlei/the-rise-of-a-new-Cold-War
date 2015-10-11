@@ -1,0 +1,267 @@
+color = { 67  127  63 }
+graphical_culture = Italian
+last_election = 2001.5.13
+duration = 60
+major = yes
+
+default_templates = {
+	ITA_infantry = {
+		infantry_brigade
+		infantry_brigade
+	}
+	ITA_allpina = {
+		bergsjaeger_brigade
+		bergsjaeger_brigade
+	}
+	ITA_celere = {
+		cavalry_brigade
+		cavalry_brigade
+		motorized_brigade
+	}
+	ITA_motorised = {
+		motorized_brigade
+		motorized_brigade
+		motorized_brigade
+	}
+	ITA_armour= {
+		light_armor_brigade
+		motorized_brigade
+	}
+	ITA_trukmovable = {
+		motorized_brigade
+ 		infantry_brigade
+	}
+	ITA_ccnn = {
+		militia_brigade
+		militia_brigade
+	}
+	ITA_allpina_russian = {
+		bergsjaeger_brigade
+		bergsjaeger_brigade
+		anti_tank_brigade
+	}
+	ITA_motorised_1942 = {
+		armor_brigade
+		motorized_brigade
+		motorized_brigade
+		artillery_brigade
+	}
+	ITA_armour_1942 = {
+		armor_brigade
+		motorized_brigade
+		motorized_brigade
+		sp_artillery_brigade
+	}
+}
+
+unit_names = {
+
+}
+
+ministers = {
+        80500 = {
+		name = "ÖìÀûÑÅÅµ.°¢ÂèÍĞ"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = Giuliano.Amato
+		head_of_state = barking_buffoon
+		start_date = 2000.1.1
+        }
+        80501 = {
+		name = "À¼±´ÍĞ.µÏÄá"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = Lamberto.Dini
+		foreign_minister = pig_headed_isolationist
+		start_date = 2000.1.1
+        }
+        80502 = {
+		name = "¶÷×ô.±È°²¿Æ"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = Enzo.Bianco
+		head_of_government = military_entrepreneur
+		start_date = 2000.1.1
+        }
+        80503 = {
+		name = "Î¬ÇÙ×ô.Î¬Ë¹¿Æ"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = Vicenzo.Visco
+		armament_minister = stern_imperialist
+		chief_of_staff = guns_and_butter_doctrine
+		chief_of_navy = base_control_doctrine
+		start_date = 2000.1.1
+        }
+        80504 = {
+		name = "°ÂËşÎ¬ÑÇÅµ.µÂ¶û.Í¼¶û¿Æ"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = Ottaviano.Del.Turco
+		chief_of_army = school_of_psychology
+		armament_minister = crooked_kleptocrat
+		start_date = 2000.1.1
+        }
+        80505 = {
+		name = "Æ¤Ò®ÂŞ.·¨Î÷Åµ"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = Piero.Fassino
+		minister_of_security = crime_fighter
+		start_date = 2000.1.1
+        }
+        80506 = {
+		name = "Æ¤Ò®Â·Ò×¼ª.±´¶ûÈøÄá"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = Pierluigi.Bersani
+		armament_minister = logistics_specialist
+		start_date = 2000.1.1
+        }
+        80507 = {
+		name = "Èø¶ûÍßÍĞÀ×.¿¨¶ûµÏÄÉÀ³"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = Salvatore.Cardinale
+		minister_of_intelligence = backroom_backstabber
+		start_date = 2000.1.1
+        }
+        80508 = {
+		name = "ÇĞÈøÀ×.Èø¶ûÎ¬"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = Cesare.Salvi
+		armament_minister = theoretical_scientist
+		start_date = 2000.1.1
+        }
+        80509 = {
+		name = "Èû¶û½¹.ÂíËşÀ×À­"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = Sergio.Mattarella
+		chief_of_staff = logistics_specialist
+		start_date = 2000.1.1
+        }
+        80510 = {
+		name = "ÎÌ±´ÍĞ.Î¤ÂŞÄÚÎ÷"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = Umberto.Veronesi
+		minister_of_security = man_of_the_people
+		start_date = 2000.1.1
+        }
+        80511 = {
+		name = "ÄÚÀï°Â.ÄÎÎ÷"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = Nerio.Nesi
+		chief_of_navy = destroyer_lover
+		start_date = 2000.1.1
+        }
+        80512 = {
+		name = "¶÷Àï¿Æ.À³Ëş"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = Enrico.Letta
+		chief_of_air = master_of_skies
+		armament_minister = resource_industrialist
+		start_date = 2000.1.1
+        }
+        80513 = {
+		name = "ÇÇÍßÄÈ.Ã·À¼µÂÀû"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = Giovanna.Melandri
+		minister_of_security = silent_lawyer
+		start_date = 2000.1.1
+        }
+        80514 = {
+		name = "Î¬ÀÕ.²©¶û¶Ù"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = Willer.Bordon
+		minister_of_security = compassionate_gentleman
+		start_date = 2000.1.1
+        }
+        80515 = {
+		name = "Í¼Àû°Â.µÂ.ÂíÎÚÂŞ"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = Tullio.De.Mauro
+		minister_of_intelligence = dismal_enigma
+		start_date = 2000.1.1
+        }
+        80516 = {
+		name = "·ğÀÊ¿Æ.°ÍÈøÄáÄá"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = Franco.Bassanini
+		chief_of_staff = army_reformer
+		start_date = 2000.1.1
+        }
+        80517 = {
+		name = "°²¶«Äá°Â.Âí¿¨Äá¿Æ"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = Antonio.Maccanico
+		armament_minister = school_of_mass_combat
+		start_date = 2000.1.1
+        }
+        80518 = {
+		name = "ÀûÎ¬ÑÇ.Í¼¶û¿Æ"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = Livia.Turco
+		chief_of_staff = elastic_defence_doctrine
+		start_date = 2000.1.1
+        }
+        80519 = {
+		name = "¿¨µÙÑÇ.±´ÀûÂå"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = Katia.Belillo
+		minister_of_intelligence = research_specialist
+		start_date = 2000.1.1
+        }
+        80520 = {
+		name = "°¢¼ÓÆë°Â.ÂåÒ®ÂŞ"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = Agazio.Loiero
+		chief_of_air = air_superiority_proponent
+		start_date = 2000.1.1
+        }
+        80521 = {
+		name = "ÅÁÌØÀïÆëÑÇ.ÍĞÑÇ"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = Patrizia.Toia
+		foreign_minister = tempered_speaker
+		start_date = 2000.1.1
+        }
+        80522 = {
+		name = "°¢¶û·áË÷.Åå¿ÆÀ­ÂŞ.Ë¹¿¨Äá°Â"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = Alfonso.Pecoraro.Scanio
+		foreign_minister = talented_liar
+		start_date = 2000.1.1
+        }
+        80523 = {
+		name = "°Â¶ûÌÚÎ÷°Â.Ôó»ùÅµ"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = Ortensio.Zecchino
+		chief_of_navy = submarine_proponent
+		start_date = 2000.1.1
+        }
+        80524 = {
+		name = "±´ÄáÍĞ.Ä«Ë÷ÀïÄáÈıÊÀ"
+		ideology = fascistic
+		loyalty = 1.00
+		picture = Benito.Amilcare.Andrea.Mussolini
+		head_of_state = prince_of_terror
+		start_date = 2000.1.1
+        }
+}
+

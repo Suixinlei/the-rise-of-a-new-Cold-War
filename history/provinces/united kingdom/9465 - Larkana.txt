@@ -1,0 +1,7 @@
+owner = PAK
+controller = PAK
+add_core = PAK
+infra = 6
+
+air_base = 6 #Shahbaz airbase
+leadership = 2.50

@@ -1,0 +1,70 @@
+theatre = {
+	name = "Oružane Snage Republike Hrvatske"
+	location = 3633
+	regiment = { type = hq_brigade name = "Oružane Snage Republike Hrvatske" historical_model = 1 }
+	division = {
+		is_reserve = yes
+		name = "Bojna za Specijalna Djelovanja"
+		location = 3766
+		regiment = { type = special_forces_brigade name = "Bojna za Specijalna Djelovanja" historical_model = 1 }
+	}
+	corps = {
+		name = "Hrvatska Vojska"
+		location = 3699
+		regiment = { type = hq_brigade name = "Hrvatska Vojska" historical_model = 1 }
+		division = {
+			is_reserve = yes
+			name = "Gardijska Oklopno-mehanizirana Brigada"
+			location = 3770
+			regiment = { type = armor_brigade name = "1. Tenk Bojna 'Kune'" historical_model = 0 }
+			regiment = { type = armor_brigade name = "Oklopni Bojna" historical_model = 0 }
+			regiment = { type = mechanized_brigade name = "1. Mehanizirana Bojna 'Sokolovi'" historical_model = 1 }
+			regiment = { type = mechanized_brigade name = "2. Mehanizirana Bojna 'Pume'" historical_model = 1 }
+		}
+		division = {
+			is_reserve = yes
+			name = "Gardijska Oklopno-mehanizirana Brigada"
+			location = 4111
+			regiment = { type = mechanized_brigade name = "1. Mehanizirana Bojna 'Tigrovi'" historical_model = 1 }
+			regiment = { type = mechanized_brigade name = "2. Mehanizirana Bojna 'Gromovi'" historical_model = 1 }
+			regiment = { type = infantry_brigade name = "1. Motorizirana Bojna 'Vukovi'" historical_model = 1 }
+			regiment = { type = infantry_brigade name = "2. Motorizirana Bojna 'Pauci'" historical_model = 1 }
+		}
+		division = {
+			is_reserve = yes
+			name = "Obuku i Doktrinu Naredba"
+			location = 3633
+			regiment = { type = infantry_brigade name = "1. Pješacka Bojna" historical_model = 1 }
+			regiment = { type = infantry_brigade name = "2. Pješacka Bojna" historical_model = 1 }
+			regiment = { type = artillery_brigade name = "Topnicki Pukovnije" historical_model = 0 }
+			regiment = { type = anti_air_brigade name = "Protiv Zrak Pukovnija" historical_model = 0 }
+			regiment = { type = engineer_brigade name = "Inženjer Pukovnija" historical_model = 0 }
+		}
+	}
+	
+	division = {
+		is_reserve = yes 
+		name = "Morski Pješacka Bojna"
+		location = 4237
+		regiment = { type = marine_brigade name = "Morski Pješacka Bojna" historical_model = 1 }
+	}
+	
+	navy = {
+		name = "Hrvatska Ratna Mornarica"
+		base = 3834
+		location = 3834
+		ship = { type = patrol_boat name = "Kralj Petar Krešimir IV" historical_model = 0 }
+		ship = { type = patrol_boat name = "Kralj Dmitar Zvonimir" historical_model = 0 }
+		ship = { type = patrol_boat name = "Sibenik" historical_model = 0 }
+		ship = { type = invasion_transport_ship name = "Cetina" historical_model = 0 }
+		ship = { type = invasion_transport_ship name = "Krka" historical_model = 0 }
+	}
+	
+	air = {
+		name = "21. Borac Eskadrile"
+		base = 3633
+		location = 3633
+		wing = { type = interceptor name = "21. Borac Eskadrile" historical_model = 0 }
+	}
+}
+		

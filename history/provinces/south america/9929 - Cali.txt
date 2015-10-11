@@ -1,0 +1,7 @@
+owner = COL
+controller = COL
+add_core = COL
+
+infra = 6
+air_base = 3 #Santiago de Cali airport and Cali and Cubides airbase
+leadership = 2.50

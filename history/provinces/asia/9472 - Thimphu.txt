@@ -1,0 +1,6 @@
+owner = BHU
+controller = BHU
+add_core = BHU
+infra = 4
+manpower = 0.20
+points = 1

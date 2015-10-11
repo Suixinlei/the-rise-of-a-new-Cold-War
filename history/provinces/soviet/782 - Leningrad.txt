@@ -1,0 +1,13 @@
+owner = SOV
+controller = SOV
+add_core = SOV
+industry = 5
+infra = 8
+manpower = 10.00
+metal = 24.00
+rare_materials = 20.00
+air_base = 9 #St Petersburg airport and surrounding airbases
+naval_base = 10 #St Petersburg port
+leadership = 1.00
+points = 1
+energy = 30

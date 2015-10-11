@@ -1,0 +1,288 @@
+#东日本大地震
+country_event = {
+
+	id = 17000
+	title = "东日本大地震"
+	desc = "DRBDDZ"
+	picture = "DRBDDZ"
+	
+	major = yes
+	
+	trigger = {
+                tag = JAP
+		date = 2011.3.11
+                NOT = { year = 2012 }
+	}
+
+	fire_only_once = yes
+
+	mean_time_to_happen =  { days = 1 }
+	
+	option = {
+		name = "务必要保证人员安全"
+		ai_chance = { factor = 100 }
+                add_country_modifier = {
+                name = "东日本大地震"
+                duration = 480         }
+	}
+}
+
+#东日本大地震（海啸）
+country_event = {
+
+	id = 17001
+	title = "地震引发的海啸"
+	desc = "DZYFDHX"
+	picture = "DZYFDHX"
+	
+	major = yes
+	
+	trigger = {
+                tag = JAP
+		date = 2011.3.12
+                NOT = { year = 2012 }
+                has_country_modifier = "东日本大地震"
+	}
+
+	fire_only_once = yes
+
+	mean_time_to_happen =  { days = 1 }
+	
+	option = {
+		name = "屋漏偏逢连夜雨"
+		ai_chance = { factor = 100 }
+                add_country_modifier = {
+                name = "海啸"
+                duration = 360         }
+	}
+}
+
+#福岛核泄漏
+country_event = {
+
+	id = 17002
+	title = "福岛核电站发生事故"
+	desc = "FDHXL"
+	picture = "FDHXL"
+	
+	major = yes
+	
+	trigger = {
+                tag = JAP
+		date = 2011.3.14
+                NOT = { year = 2012 }
+                has_country_modifier = "东日本大地震"
+                has_country_modifier = "海啸"
+	}
+
+	fire_only_once = yes
+
+	mean_time_to_happen =  { days = 1 }
+	
+	option = {
+		name = "速度救援"
+		ai_chance = { factor = 100 }
+                5187 = {
+     		infra = -2  }
+                add_country_modifier = {
+                name = "福岛核事故"
+                duration = 360         }
+	}
+}
+
+#自卫队拒绝进入辐射区救灾
+country_event = {
+
+	id = 17003
+	title = "自卫队拒绝进入福岛灾区救灾"
+	desc = "ZWDJJJRZQ"
+	picture = "ZWDJJJRZQ"
+	
+	major = yes
+	
+	trigger = {
+                tag = JAP
+		date = 2011.3.15
+                NOT = { year = 2012 }
+                has_country_modifier = "东日本大地震"
+                has_country_modifier = "海啸"
+                has_country_modifier = "福岛核事故"
+	}
+
+	fire_only_once = yes
+
+	mean_time_to_happen =  { days = 1 }
+	
+	option = {
+		name = "这............"
+		ai_chance = { factor = 100 }
+                add_country_modifier = {
+                name = "自卫队拒绝进入福岛灾区救灾"
+                duration = 360         }
+	}
+}
+
+#福田康夫辞职
+country_event = {
+
+	id = 17004
+	title = "福田康夫辞职"
+	desc = "FTKFCZ"
+	picture = "FTKFCZ"
+	
+	major = yes
+	
+	trigger = {
+                tag = JAP
+		date = 2008.9.1
+                NOT = { year = 2009 }
+                minister_alive = 61102
+                war = no
+	}
+
+	fire_only_once = yes
+
+	mean_time_to_happen =  { days = 1 }
+	
+	option = {
+		name = "好吧"
+		ai_chance = { factor = 100 }
+                social_conservative = { popularity = 40 }
+                remove_minister = 61102
+                head_of_government = 61103
+                do_election = JAP
+	}
+}
+
+#麻生太郎
+country_event = {
+
+	id = 17005
+	title = "麻生太郎下台"
+	desc = "MSTLXT"
+	picture = "MSTLXT"
+	
+	major = yes
+	
+	trigger = {
+                tag = JAP
+		date = 2009.9.16
+                NOT = { year = 2010 }
+                minister_alive = 61103
+                war = no
+	}
+
+	fire_only_once = yes
+
+	mean_time_to_happen =  { days = 1 }
+	
+	option = {
+		name = "万年执政党-自民党政权的终结者"
+		ai_chance = { factor = 100 }
+                social_conservative = { popularity = -40 }
+                social_conservative = { popularity = 60 }
+                remove_minister = 61103
+                head_of_government = 61104
+                do_election = JAP
+	}
+}
+
+#鸠山由纪夫
+country_event = {
+
+	id = 17006
+	title = "鸠山由纪夫辞职"
+	desc = "ZSYJFCZ"
+	picture = "ZSYJFCZ"
+	
+	major = yes
+	
+	trigger = {
+                tag = JAP
+		date = 2010.6.2
+                NOT = { year = 2011 }
+                minister_alive = 61104
+                war = no
+	}
+
+	fire_only_once = yes
+
+	mean_time_to_happen =  { days = 1 }
+	
+	option = {
+		name = ".............."
+		ai_chance = { factor = 100 }
+                social_conservative = { popularity = 40 }
+                remove_minister = 61104
+                head_of_government = 61105
+                do_election = JAP
+	}
+}
+
+#菅直人
+country_event = {
+
+	id = 17007
+	title = "菅直人辞职"
+	desc = "JZRCZ"
+	picture = "JZRCZ"
+	
+	major = yes
+	
+	trigger = {
+                tag = JAP
+		date = 2011.8.26
+                NOT = { year = 2012 }
+                has_country_modifier = "东日本大地震"
+                has_country_modifier = "海啸"
+                has_country_modifier = "福岛核事故"
+                minister_alive = 61105
+                war = no
+	}
+
+	fire_only_once = yes
+
+	mean_time_to_happen =  { days = 1 }
+	
+	option = {
+		name = "............."
+		ai_chance = { factor = 100 }
+                social_conservative = { popularity = 40 }
+                remove_minister = 61105
+                head_of_government = 61106
+                do_election = JAP
+	}
+}
+
+#野田佳彦
+country_event = {
+
+	id = 17008
+	title = "野田佳彦辞职"
+	desc = "YTJYCZ"
+	picture = "YTJYCZ"
+	
+	major = yes
+	
+	trigger = {
+                tag = JAP
+		date = 2012.11.14
+                NOT = { year = 2013 }
+                minister_alive = 61106
+                war = no
+	}
+
+	fire_only_once = yes
+
+	mean_time_to_happen =  { days = 1 }
+	
+	option = {
+		name = ".."
+		ai_chance = { factor = 100 }
+                social_conservative = { popularity = -40 }
+                paternal_autocrat = { popularity = 60 }
+                remove_minister = 61106
+                head_of_government = 61107
+                do_election = JAP
+	}
+}

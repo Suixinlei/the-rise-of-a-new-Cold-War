@@ -1,0 +1,123 @@
+color = { 112  90  87 }
+graphical_culture = Generic
+last_election = 2002.10.5
+duration = 48
+
+default_templates = {
+	generic_infantry = {
+		infantry_brigade
+		infantry_brigade
+		infantry_brigade
+	}
+	generic_milita = {
+		militia_brigade
+		militia_brigade
+		militia_brigade
+	}
+	generic_armoured = {
+		armor_brigade
+		motorized_brigade
+		motorized_brigade
+	}
+	generic_cavalry = {
+		cavalry_brigade
+		cavalry_brigade
+	}
+}
+
+unit_names = {
+	infantry_brigade = {
+		"Kurzemes divizija" "Latgales divizija" "Zemgales divizija" "Vidzemes divizija" "1. Kajnieku divizija" "2. Kajnieku divizija" "3. Kajnieku divizija" "4. Kajnieku divizija" "5. Kajnieku divizija" "6. Kajnieku divizija" "7. Kajnieku divizija" 
+		"8. Kajnieku divizija" "9. Kajnieku divizija" "10. Kajnieku divizija" "11. Kajnieku divizija" "12. Kajnieku divizija" "13. Kajnieku divizija" "14. Kajnieku divizija" "16. Kajnieku divizija" "17. Kajnieku divizija" "19. Kajnieku divizija" "1. Transportlidmasinu grupa" 
+		"2. Transportlidmasinu grupa" "3. Transportlidmasinu grupa" "4. Transportlidmasinu grupa" "5. Transportlidmasinu grupa" 
+	}
+	cavalry_brigade = {
+		"3. Kavalerijas divizija" "5. Kavalerijas divizija" "6. Kavalerijas divizija" "8. Kavalerijas divizija" "9. Kavalerijas divizija" "14. Kavalerijas divizija" "24. Kavalerijas divizija" "32. Kavalerijas divizija" "36. Kavalerijas divizija" "37. Kavalerijas divizija" 
+	}
+	motorized_brigade = {
+		"7. Motorizeto strelnieku divizija" "29. Motorizeto strelnieku divizija" "36. Motorizeto strelnieku divizija" "57. Motorizeto strelnieku divizija" "81. Motorizeto strelnieku divizija" "84. Motorizeto strelnieku divizija" "163. Motorizeto strelnieku divizija" "198. Motorizeto strelnieku divizija" "202. Motorizeto strelnieku divizija" "204. Motorizeto strelnieku divizija" "205. Motorizeto strelnieku divizija" 
+		"208. Motorizeto strelnieku divizija" "209. Motorizeto strelnieku divizija" "210. Motorizeto strelnieku divizija" "212. Motorizeto strelnieku divizija" "213. Motorizeto strelnieku divizija" "215. Motorizeto strelnieku divizija" "216. Motorizeto strelnieku divizija" "240. Motorizeto strelnieku divizija" 
+	}
+	mechanized_brigade = {
+		"1. Mehanizeto strelnieku divizija" "15. Mehanizeto strelnieku divizija" "69. Mehanizeto strelnieku divizija" "82. Mehanizeto strelnieku divizija" "103. Mehanizeto strelnieku divizija" "109. Mehanizeto strelnieku divizija" "185. Mehanizeto strelnieku divizija" "218. Mehanizeto strelnieku divizija" "219. Mehanizeto strelnieku divizija" "220. Mehanizeto strelnieku divizija" "221. Mehanizeto strelnieku divizija" 
+		"236. Mehanizeto strelnieku divizija" "239. Mehanizeto strelnieku divizija" 
+	}
+	light_armor_brigade = {
+		"1. Autotanku divizija" "2. Autotanku divizija" "3. Autotanku divizija" "4. Autotanku divizija" "5. Autotanku divizija" "6. Autotanku divizija" "7. Autotanku divizija" "8. Autotanku divizija" "9. Autotanku divizija" "10. Autotanku divizija" 
+	}
+	armor_brigade = {
+		"1. Autotanku divizija" "2. Autotanku divizija" "3. Autotanku divizija" "4. Autotanku divizija" "5. Autotanku divizija" "6. Autotanku divizija" "7. Autotanku divizija" "8. Autotanku divizija" "9. Autotanku divizija" "10. Autotanku divizija" 
+	}
+	paratrooper_brigade = {
+		"1. Aviodesanta divizija" "2. Aviodesanta divizija" "3. Aviodesanta divizija" "4. Aviodesanta divizija" "5. Aviodesanta divizija" "6. Aviodesanta divizija" "7. Aviodesanta divizija" "8. Aviodesanta divizija" "9. Aviodesanta divizija" "10. Aviodesanta divizija" 
+	}
+	marine_brigade = {
+		"1. Juras kajnieku divizija" "2. Juras kajnieku divizija" "3. Juras kajnieku divizija" "4. Juras kajnieku divizija" "5. Juras kajnieku divizija" "6. Juras kajnieku divizija" "7. Juras kajnieku divizija" "8. Juras kajnieku divizija" "9. Juras kajnieku divizija" "10. Juras kajnieku divizija" 
+	}
+	bergsjaeger_brigade = {
+		"9. Kalnu kajnieku divizija" "20. Kalnu kajnieku divizija" "28. Kalnu kajnieku divizija" "30. Kalnu kajnieku divizija" "44. Kalnu kajnieku divizija" "47. Kalnu kajnieku divizija" "58. Kalnu kajnieku divizija" "60. Kalnu kajnieku divizija" 
+	}
+	garrison_brigade = {
+		"10. Kajnieku divizija" "11. Kajnieku divizija" "12. Kajnieku divizija" "13. Kajnieku divizija" "14. Kajnieku divizija" "16. Kajnieku divizija" "17. Kajnieku divizija" "19. Kajnieku divizija" 
+	}
+	hq_brigade = {
+		"1. Latvija Armiya" "2. Latvija Armiya" "3. Latvija Armiya" "4. Latvija Armiya" 
+	}
+	militia_brigade = {
+		"2. Aizsargu divizija" "3. Aizsargu divizija" "4. Aizsargu divizija" "5. Aizsargu divizija" "6. Aizsargu divizija" "8. Aizsargu divizija" "10. Aizsargu divizija" "11. Aizsargu divizija" "12. Aizsargu divizija" "13. Aizsargu divizija" "14. Aizsargu divizija" 
+		"16. Aizsargu divizija" "17. Aizsargu divizija" "19. Aizsargu divizija" "21. Aizsargu divizija" "22. Aizsargu divizija" "23. Aizsargu divizija" "24. Aizsargu divizija" "25. Aizsargu divizija" "26. Aizsargu divizija" "27. Aizsargu divizija" 
+	}
+	multi_role = {
+		"1. Iznicinataju grupa" "2. Iznicinataju grupa" "3. Iznicinataju grupa" "4. Iznicinataju grupa" "5. Iznicinataju grupa" "6. Iznicinataju grupa" "7. Iznicinataju grupa" "8. Iznicinataju grupa" "10. Iznicinataju grupa" 
+	}
+	strategic_bomber = {
+		"1. Strategisko bumbvedeju grupa" "2. Strategisko bumbvedeju grupa" "3. Strategisko bumbvedeju grupa" "4. Strategisko bumbvedeju grupa" "5. Strategisko bumbvedeju grupa" "6. Strategisko bumbvedeju grupa" "7. Strategisko bumbvedeju grupa" "8. Strategisko bumbvedeju grupa" "9. Strategisko bumbvedeju grupa" "10. Strategisko bumbvedeju grupa" 
+	}
+	tactical_bomber = {
+		"1. Taktisko bumbvedeju grupa" "2. Taktisko bumbvedeju grupa" "3. Taktisko bumbvedeju grupa" "4. Taktisko bumbvedeju grupa" "5. Taktisko bumbvedeju grupa" "6. Taktisko bumbvedeju grupa" "7. Taktisko bumbvedeju grupa" "8. Taktisko bumbvedeju grupa" "9. Taktisko bumbvedeju grupa" "10. Taktisko bumbvedeju grupa" 
+	}
+	naval_bomber = {
+		"1. Juras bumbvedeju grupa" "2. Juras bumbvedeju grupa" "3. Juras bumbvedeju grupa" "4. Juras bumbvedeju grupa" "5. Juras bumbvedeju grupa" "6. Juras bumbvedeju grupa" "7. Juras bumbvedeju grupa" "8. Juras bumbvedeju grupa" "9. Juras bumbvedeju grupa" "10. Juras bumbvedeju grupa" 
+	}
+	cas = {
+		"23. Triecienlidmasinu grupa" "46. Triecienlidmasinu grupa" "77. Triecienlidmasinu grupa" "25. Triecienlidmasinu grupa" "72. Triecienlidmasinu grupa" "9. Triecienlidmasinu grupa" "10. Triecienlidmasinu grupa" "11. Triecienlidmasinu grupa" "1. Triecienlidmasinu grupa" "2. Triecienlidmasinu grupa" "5. Triecienlidmasinu grupa" 
+		"55. Triecienlidmasinu grupa" 
+	}
+	battleship = {
+		"Riga" "Mazsalaca" "Dundaga" "Bauska" "Jurmala" "Kuldiga" "Madona" "Rezekne" 
+	}
+	light_cruiser = {
+		"Cesis" "Liepaja" "Priekule" "Daugavpils" "Aglona" "Auce" 
+	}
+	heavy_cruiser = {
+		"Riga" "Mazsalaca" "Dundaga" "Bauska" "Jurmala" "Kuldiga" "Madona" "Rezekne" "Valmiera" 
+	}
+	battlecruiser = {
+		"Valmiera" "Cesis" "Liepaja" "Priekule" "Daugavpils" "Aglona" "Auce" 
+	}
+	destroyer = {
+		"1. Minukugu flotile" "2. Minukugu flotile" "3. Minukugu flotile" "4. Minukugu flotile" "5. Minukugu flotile" "6. Minukugu flotile" "7. Minukugu flotile" "8. Minukugu flotile" "9. Minukugu flotile" "10. Minukugu flotile" "11. Minukugu flotile" 
+		"12. Minukugu flotile" "13. Minukugu flotile" "14. Minukugu flotile" "15. Minukugu flotile" "16. Minukugu flotile" "17. Minukugu flotile" "18. Minukugu flotile" "19. Minukugu flotile" "20. Minukugu flotile" 
+	}
+	carrier = {
+		"Riga" "Mazsalaca" "Dundaga" "Bauska" "Jurmala" "Kuldiga" "Madona" "Rezekne" "Valmiera" "Cesis" "Liepaja" 
+		"Priekule" "Daugavpils" "Aglona" "Auce" 
+	}
+	escort_carrier = {
+		"Virsaitis" "Namejs" 
+	}
+	submarine = {
+		"Ronis  Spidola‹" "2. Zemudens flotile" "3. Zemudens flotile" "4. Zemudens flotile" "5. Zemudens flotile" "6. Zemudens flotile" "7. Zemudens flotile" "8. Zemudens flotile" "9. Zemudens flotile" "10. Zemudens flotile" "11. Zemudens flotile" 
+		"12. Zemudens flotile" "13. Zemudens flotile" "14. Zemudens flotile" "15. Zemudens flotile" 
+	}
+	transport_ship = {
+		"1. Transportkugu flotile" "2. Transportkugu flotile" "3. Transportkugu flotile" "4. Transportkugu flotile" "5. Transportkugu flotile" "6. Transportkugu flotile" "7. Transportkugu flotile" "8. Transportkugu flotile" "9. Transportkugu flotile" "10. Transportkugu flotile" "11. Transportkugu flotile" 
+		"12. Transportkugu flotile" "13. Transportkugu flotile" "14. Transportkugu flotile" "15. Transportkugu flotile" 
+	}
+
+}
+
+ministers = {
+	
+}
+

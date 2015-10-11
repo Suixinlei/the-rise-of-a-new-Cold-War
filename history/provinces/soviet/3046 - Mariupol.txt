@@ -1,0 +1,8 @@
+owner = UKR
+controller = UKR
+add_core = UKR
+add_core = NOV
+infra = 6
+naval_base = 3 #Mariupol port
+ 
+points = 1

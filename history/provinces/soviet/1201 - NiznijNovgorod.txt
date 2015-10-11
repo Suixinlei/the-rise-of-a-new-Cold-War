@@ -1,0 +1,11 @@
+owner = SOV
+controller = SOV
+add_core = SOV
+infra = 7
+energy = 30
+metal = 24.00
+rare_materials = 20.00
+air_base = 2 #Sormovo airbase
+leadership = 0.50
+points = 1
+manpower = 8.00

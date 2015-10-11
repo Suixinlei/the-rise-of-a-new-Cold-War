@@ -1,0 +1,100 @@
+capital = 5567
+government = republic
+ideology = paternal_autocrat
+alignment = { x = 0 y = 0 }
+neutrality = 80
+national_unity = 70
+oob = "ISR_2000.txt"
+
+popularity = { 
+	national_socialist = 2
+	fascistic = 6
+	paternal_autocrat = 29
+	social_conservative = 8
+	market_liberal = 12
+	social_liberal = 5
+	social_democrat = 14
+	left_wing_radical = 3
+	leninist = 2
+	stalinist = 3
+}
+
+organization = { 
+	national_socialist = 6
+	fascistic = 18
+	paternal_autocrat = 87
+	social_conservative = 24
+	market_liberal = 36
+	social_liberal = 15
+	social_democrat = 42
+	left_wing_radical = 9
+	leninist = 6
+	stalinist = 9
+}
+
+conscription_policy = universal_military_service
+press_laws = free_press
+mobilisation_level = peace_time
+civil_laws = open_society
+service_length = eighteen_months
+economic_policy = lais_fair
+
+
+education = 1
+in_war = 1
+combat_medicine = 2
+first_aid  2
+supply_transportation = 2
+supply_organisation = 2
+civil_defence = 2
+fertilizers = 2
+agriculture_machinery = 1
+industrial_facilities = 1
+industral_production = 2
+industral_efficiency = 1
+military_supplies_production = 1
+radio_surveillance = 1
+infra_building = 1
+air_base_building = 1
+naval_base_building = 1
+land_fort_building = 1
+coastal_fort_building = 1
+industrialization = 1
+weapon_design = 1
+automatic_weapons = 2
+a_support_weapon = 2
+precision_weapons = 1
+helmet_improvement = 2
+bulletproof_clothes = 3
+special_equipment = 1
+anti_tank_rocket = 2
+vehicle_design = 1
+the_body_defense = 2
+gasoline_engine = 2
+the_small_caliber_weapons = 2
+the_large_caliber_weapons = 2
+the_police_force = 1
+professional_engineer = 1
+mountain_equipment = 1
+mountain_infantry = 1
+the_fuselage_design = 1
+main_battle_tank = 1
+tank_weapon_research = 1
+tank_guns = 2
+tank_projectile = 2
+tank_armor_research = 1
+composite_armor = 1
+reactive_armor = 1
+research_of_tank_engine = 1
+the_tank_engine = 1
+a_military_helicopter = 1
+a_military_helicopter_protection = 1
+a_military_helicopter_fuselage = 2
+military_helicopters_and_armored = 1
+military_helicopters = 1
+a_military_helicopter_gun = 1
+a_military_helicopter_airborne_missile = 1
+a_military_helicopter_power = 1
+a_military_helicopter_engine = 1
+artillery_troops = 1
+ship_hull = 1

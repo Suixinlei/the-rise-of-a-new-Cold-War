@@ -1,0 +1,11 @@
+owner = ITA
+controller = ITA
+add_core = ITA
+manpower = 0.50
+industry = 7
+infra = 10
+energy = 4.00
+metal = 6.00
+air_base = 1 #Turin Caselle airport
+leadership = 2.50
+points = 1

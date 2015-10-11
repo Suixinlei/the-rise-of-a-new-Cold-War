@@ -1,0 +1,8 @@
+owner = INO
+controller = INO
+add_core = INO
+infra = 2
+
+air_base = 3 #Kupang airbase
+naval_base = 2
+points = 1

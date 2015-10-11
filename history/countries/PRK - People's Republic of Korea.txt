@@ -1,0 +1,62 @@
+capital = 5056
+government = dictatorship
+ideology = stalinist
+alignment = { x = -100 y = 100 }
+neutrality = 80
+national_unity = 90
+head_of_state = 10001
+head_of_government = 10001
+foreign_minister = 10003
+armament_minister = 10007
+minister_of_security = 10006
+minister_of_intelligence = 10003
+chief_of_staff = 10003
+chief_of_army = 10004
+chief_of_navy = 10005
+chief_of_air = 10004
+oob = "PRK_2000.txt"
+
+popularity = { 
+	national_socialist = 0
+	fascistic = 0
+	paternal_autocrat = 0
+	social_conservative = 0
+	market_liberal = 0
+	social_liberal = 0
+	social_democrat = 0
+	left_wing_radical = 0
+	leninist = 0
+	stalinist = 100
+}
+
+organization = { 
+	national_socialist = 0
+	fascistic = 0
+	paternal_autocrat = 0
+	social_conservative = 0
+	market_liberal = 0
+	social_liberal = 0
+	social_democrat = 0
+	left_wing_radical = 0
+	leninist = 0
+	stalinist = 150
+}
+
+
+conscription_policy = military_service
+press_laws = state_press
+mobilisation_level = high_alert
+civil_laws = totalitarianism
+service_length = eighteen_months
+economic_policy = state_control
+
+
+2008.1.1 = {
+in_war = 1
+weapon_design = 1
+mountain_equipment = 1
+mountain_infantry = 1
+main_battle_tank = 1
+artillery_troops = 1
+air_defence_forces = 1
+}

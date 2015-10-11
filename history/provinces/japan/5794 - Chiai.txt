@@ -1,0 +1,12 @@
+controller = CHI
+owner = CHI
+add_core = CHI
+add_core = CHC
+crude oil = 1
+infra = 5
+industry = 5
+radar_station = 10
+metal = 7.00
+rare_materials = 1
+anti_air = 2
+PROV5794;дом╤;;;;;;;;;;X

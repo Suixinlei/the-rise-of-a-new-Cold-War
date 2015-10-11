@@ -1,0 +1,7 @@
+owner = BLR
+controller = BLR
+add_core = BLR
+infra = 7
+
+air_base = 2 #Borovitsy airbase
+points = 1

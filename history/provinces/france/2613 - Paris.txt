@@ -1,0 +1,12 @@
+owner = FRA
+controller = FRA
+add_core = FRA
+industry = 10
+manpower = 10
+infra = 10
+energy = 50.00
+rare_materials = 20.00
+metal = 40.00
+air_base = 10
+leadership = 3.00
+points = 1

@@ -1,0 +1,45 @@
+capital = 7722
+government = republic
+ideology = social_conservative
+alignment = { x = 0 y = 50 }
+neutrality = 80
+national_unity = 75
+oob = "PAN_2000.txt"
+
+popularity = { 
+	national_socialist = 0
+	fascistic = 0
+	paternal_autocrat = 22
+	social_conservative = 46
+	market_liberal = 8
+	social_liberal = 6
+	social_democrat = 32
+	left_wing_radical = 0
+	leninist = 0
+	stalinist = 0
+}
+
+organization = { 
+	national_socialist = 0
+	fascistic = 0
+	paternal_autocrat = 66
+	social_conservative = 138
+	market_liberal = 24
+	social_liberal = 18
+	social_democrat = 96
+	left_wing_radical = 0
+	leninist = 0
+	stalinist = 0
+}
+
+conscription_policy = abolished_military
+press_laws = free_press
+mobilisation_level = peace_time
+civil_laws = open_society
+economic_policy = lais_fair
+service_length = six_months
+
+infra_building = 1
+ic_building = 1
+air_base_building = 1
+naval_base_building = 1

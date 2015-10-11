@@ -1,0 +1,16 @@
+owner = CHC
+controller = CHC
+ 
+add_core = CHC
+manpower = 17.00
+infra = 10
+
+industry = 10
+rare_materials = 4.00
+metal = 10.00
+energy = 20.00
+air_base = 10 #Guangzhou airbase
+naval_base = 8 #Guangzhou port
+ 
+leadership = 2.00
+points = 1

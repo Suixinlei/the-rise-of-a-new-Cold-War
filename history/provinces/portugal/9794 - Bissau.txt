@@ -1,0 +1,7 @@
+owner = GUB
+controller = GUB
+add_core = GUB
+infra = 5
+manpower = 0.5
+naval_base = 1
+points = 1

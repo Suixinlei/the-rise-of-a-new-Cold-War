@@ -1,0 +1,8 @@
+owner = LBY
+controller = LBY
+add_core = LBY
+crude_oil = 10.00
+infra = 7
+naval_base = 5 #Benghazi port
+leadership = 1.00
+points = 1

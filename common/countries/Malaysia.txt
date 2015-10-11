@@ -1,0 +1,109 @@
+color = { 65  49  248 }
+graphical_culture = Generic
+last_election = 1999.11.29
+duration = 60
+
+default_templates = {
+	generic_infantry = {
+		infantry_brigade
+		infantry_brigade
+		infantry_brigade
+	}
+	generic_milita = {
+		militia_brigade
+		militia_brigade
+		militia_brigade
+	}
+	generic_armoured = {
+		armor_brigade
+		motorized_brigade
+		motorized_brigade
+	}
+	generic_cavalry = {
+		cavalry_brigade
+		cavalry_brigade
+	}
+}
+
+
+
+
+ministers = {
+        100001 = {
+		name = "ÔúÒÁÄÉ¶û¡¤°¢±È¶¡"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M77401
+                             head_of_state = insignificant_layman
+		start_date = 2000.1.1
+        }
+        100002 = {
+		name = "ÄÉ¼ª²¼"
+		ideology = social_liberal
+		loyalty = 1.00
+		picture = MÄÉ¼ª²¼
+                             head_of_government = silent_workhorse
+		start_date = 2000.1.1
+        }
+        100003 = {
+		name = "°¢²·¶Å¶û¡¤À­Ôú¿Ë"
+		ideology = social_liberal
+		loyalty = 1.00
+		picture = M7509
+                             armament_minister = administrative_genius
+		start_date = 2000.1.1
+        }
+        100004 = {
+		name = "°¢Äá·¨¡¤°¢Âü"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M°¢Äá·¨
+                             foreign_minister = great_compromiser
+		start_date = 2000.1.1
+        }
+        100005 = {
+		name = "ÄÂº±Ä¬µÂ¡¤°²Íß¶ûÉÏ½«"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = L°²Íß¶ûÉÏ½«
+                             chief_of_army = static_defence_doctrine
+                             chief_of_navy = open_seas_doctrine
+                             chief_of_air = army_aviation_doctrine
+		start_date = 2000.1.1
+        }
+        100006 = {
+		name = "¸ÊÄá¡¤ÅÁÌ©¶û"
+		ideology = social_liberal
+		loyalty = 1.00
+		picture = MÅÁÌ©¶û
+                             minister_of_intelligence  = political_specialist
+		start_date = 2000.1.1
+        }
+        100007 = {
+		name = "°¢Æë×È"
+		ideology = social_liberal
+		loyalty = 1.00
+		picture = M°¢Æë×È
+                             chief_of_staff  = school_of_defence
+		start_date = 2000.1.1
+        }
+        100008  = {
+		name = "°¬¹şÂõµÂ¡¤°Í´ïÎ¬"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M77402
+                             minister_of_security = man_of_the_people
+                             head_of_government= corporate_suit
+                             chief_of_staff = school_of_defence
+		start_date = 2000.1.1
+        }
+        100009 = {
+		name = "¹ş¼ª¡¤ÄÂÏ£¶¡"
+		ideology = social_liberal
+		loyalty = 1.00
+		picture = M7510
+                             foreign_minister = great_compromiser
+		start_date = 2000.1.1
+       }
+
+}

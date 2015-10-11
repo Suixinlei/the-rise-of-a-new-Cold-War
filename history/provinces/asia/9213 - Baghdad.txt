@@ -1,0 +1,12 @@
+ owner = USA
+
+ controller = USA
+add_core = IRQ
+industry = 4
+infra = 8
+manpower = 2.00
+crude_oil = 40.00
+energy = 60.00
+air_base = 10 #Baghdad and surrounding airbases
+leadership = 2.50
+points = 1

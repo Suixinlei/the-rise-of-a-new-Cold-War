@@ -1,0 +1,7 @@
+owner = AFG
+controller = AFG
+add_core = AFG
+infra = 4
+manpower = 10.00
+air_base = 3 #Kabul airport
+points = 1

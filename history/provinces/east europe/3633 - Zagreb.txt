@@ -1,0 +1,10 @@
+owner = CRO
+controller = CRO
+add_core = CRO
+manpower = 0.4
+energy = 1.00
+infra = 8
+
+air_base = 3 #Zagreb airbase
+leadership = 2.50
+points = 1

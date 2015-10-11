@@ -1,0 +1,116 @@
+color = { 113  138  183 }
+graphical_culture = Generic
+last_election = 2001.11.25
+duration = 60
+
+default_templates = {
+	generic_infantry = {
+		infantry_brigade
+		infantry_brigade
+		infantry_brigade
+	}
+	generic_milita = {
+		militia_brigade
+		militia_brigade
+		militia_brigade
+	}
+	generic_armoured = {
+		armor_brigade
+		motorized_brigade
+		motorized_brigade
+	}
+	generic_cavalry = {
+		cavalry_brigade
+		cavalry_brigade
+	}
+}
+
+unit_names = {
+	infantry_brigade = {
+		"1a Div. de Inf. 'Francisco Morazán'" "2a División de Infantería" "3a División de Infantería" "4a División de Infantería" "5a División de Infantería" "6a División de Infantería" "7a División de Infantería" "8a División de Infantería" "9a División de Infantería" "10a División de Infantería" "11a División de Infantería" 
+			}
+	cavalry_brigade = {
+		"1a División de Caballería" "2a División de Caballería" "3a División de Caballería" "4a División de Caballería" "5a División de Caballería" 
+	}
+	motorized_brigade = {
+		"1a División de Inf. Móvil" "2a División de Inf. Móvil" "3a División de Inf. Móvil" "4a División de Inf. Móvil" "5a División de Inf. Móvil" 
+	}
+	mechanized_brigade = {
+		"1a División Mecanizada" "2a División Mecanizada" "3a División Mecanizada" "4a División Mecanizada" "5a División Mecanizada" 
+	}
+	light_armor_brigade = {
+		"1a División Blindada de Honduras" "2a División Blindada de Honduras" "3a División Blindada de Honduras" "4a División Blindada de Honduras" "5a División Blindada de Honduras" 
+	}
+	armor_brigade = {
+		"1a División Blindada de Honduras" "2a División Blindada de Honduras" "3a División Blindada de Honduras" "4a División Blindada de Honduras" "5a División Blindada de Honduras" 
+	}
+	paratrooper_brigade = {
+		"1a División de Paracaidistas" "2a División de Paracaidistas" "3a División de Paracaidistas" "4a División de Paracaidistas" "5a División de Paracaidistas" 
+	}
+	marine_brigade = {
+		"1a División de Infantería de Marina" "2a División de Infantería de Marina" "3a División de Infantería de Marina" "4a División de Infantería de Marina" "5a División de Infantería de Marina" 
+	}
+	bergsjaeger_brigade = {
+		"1a División de Montaña" "2a División de Montaña" "3a División de Montaña" "4a División de Montaña" "5a División de Montaña" 
+	}
+	garrison_brigade = {
+		"11a División de Infantería" "12a División de Infantería" "13a División de Infantería" "14a División de Infantería" "15a División de Infantería" "16a División de Infantería" "17a División de Infantería" "18a División de Infantería" "19a División de Infantería" "20a División de Infantería" 
+	}
+	hq_brigade = {
+		"Cuartel General 1er Ejército" "Cuartel General 2o Ejército" "Cuartel General 3er Ejército" "Cuartel General 4o Ejército" "Cuartel General 5o Ejército" "Cuartel General 6o Ejército" "Cuartel General 7o Ejército" "Cuartel General 8o Ejército" "Cuartel General 9o Ejército" "Cuartel General 10o Ejército" 
+	}
+	militia_brigade = {
+		"1a Fuerza de Seguridad Publica" "2a Fuerza de Seguridad Publica" "3a Fuerza de Seguridad Publica" "4a Fuerza de Seguridad Publica" "5a Fuerza de Seguridad Publica" "6a Fuerza de Seguridad Publica" "7a Fuerza de Seguridad Publica" "8a Fuerza de Seguridad Publica" "9a Fuerza de Seguridad Publica" "10a Fuerza de Seguridad Publica" "11a Fuerza de Seguridad Publica" 
+		"12a Fuerza de Seguridad Publica" "13a Fuerza de Seguridad Publica" "14a Fuerza de Seguridad Publica" "15a Fuerza de Seguridad Publica" 
+	}
+	multi_role = {
+		"1. Grupo Aéreo de Caza" "2. Grupo Aéreo de Caza" "3. Grupo Aéreo de Caza" "4. Grupo Aéreo de Caza" "5. Grupo Aéreo de Caza" 
+	}
+	interceptor = {
+		"1. Grupo Aéreo de Caza" "2. Grupo Aéreo de Caza" "3. Grupo Aéreo de Caza" "4. Grupo Aéreo de Caza" "5. Grupo Aéreo de Caza" 
+	}
+	strategic_bomber = {
+		"1. Grupo Aéreo Estratégico" "2. Grupo Aéreo Estratégico" "3. Grupo Aéreo Estratégico" "4. Grupo Aéreo Estratégico" "5. Grupo Aéreo Estratégico" 
+	}
+	tactical_bomber = {
+		"1. Grupo Aéreo Táctico" "2. Grupo Aéreo Táctico" "3. Grupo Aéreo Táctico" "4. Grupo Aéreo Táctico" "5. Grupo Aéreo Táctico" 
+	}
+	naval_bomber = {
+		"1. Grupo Aéreo de la Marina" "2. Grupo Aéreo de la Marina" "3. Grupo Aéreo de la Marina" "4. Grupo Aéreo de la Marina" "5. Grupo Aéreo de la Marina" "1. Grupo Aéreo Torpedero" "2. Grupo Aéreo Torpedero" "3. Grupo Aéreo Torpedero" "4. Grupo Aéreo Torpedero" "5. Grupo Aéreo Torpedero" 
+	}
+	cas = {
+		"1. Grupo Aéreo de Asalto" "2. Grupo Aéreo de Asalto" "3. Grupo Aéreo de Asalto" "4. Grupo Aéreo de Asalto" "5. Grupo Aéreo de Asalto" 
+	}
+	transport_plane = {
+		"Transportes Aéreos Nacionales nro. 1" "Transportes Aéreos Nacionales nro. 2" "Transportes Aéreos Nacionales nro. 3" "Transportes Aéreos Nacionales nro. 4" "Transportes Aéreos Nacionales nro. 5" 
+	}
+	battleship = {
+		"ARH Tegucigalpa" "ARH San Pedro Sula" 
+	}
+	light_cruiser = {
+		"ARH San Antonio de Cortes" "ARH El Progreso" "ARH Puerto Cortés" "ARH Iriona" "ARH La Ceiba" 
+	}
+	heavy_cruiser = {
+		"ARH San Antonio de Cortes" "ARH El Progreso" "ARH Puerto Cortés" "ARH Iriona" "ARH La Ceiba" 
+	}
+	battlecruiser = {
+		"ARH Tegucigalpa" "ARH San Pedro Sula" 
+	}
+	destroyer = {
+		"Flotilla de Destructores nro. 1" "Flotilla de Destructores nro. 2" "Flotilla de Destructores nro. 3" "Flotilla de Destructores nro. 4" "Flotilla de Destructores nro. 5" 
+	}
+	carrier = {
+		"ARH República de Honduras" "ARH La Paloma" 
+	}
+	submarine = {
+		"1a Flotilla de Submarinos" "2a Flotilla de Submarinos" "3a Flotilla de Submarinos" "4a Flotilla de Submarinos" "5a Flotilla de Submarinos" 
+	}
+	transport_ship = {
+		"1. Transporte Naval del Ejército" "2. Transporte Naval del Ejército" "3. Transporte Naval del Ejército" "4. Transporte Naval del Ejército" "5. Transporte Naval del Ejército" 
+	}
+
+}
+
+ministers = {
+	
+}

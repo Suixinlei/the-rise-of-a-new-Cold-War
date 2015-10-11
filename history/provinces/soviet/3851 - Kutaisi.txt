@@ -1,0 +1,5 @@
+owner = GEO
+controller = GEO
+add_core = GEO
+manpower = 0.4
+infra = 6

@@ -1,0 +1,10 @@
+owner = JAP
+controller = JAP
+add_core = JAP
+industry = 10
+infra = 8
+manpower = 5.00
+metal = 10.00
+naval_base = 10 #Yokohama port
+points = 1
+leadership = 1.00

@@ -1,0 +1,7 @@
+controller = SOV
+add_core = SOV
+owner = SOV
+
+infra = 3
+air_base = 2 #Burevestnik airbase
+naval_base = 1

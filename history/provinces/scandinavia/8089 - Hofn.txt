@@ -1,0 +1,6 @@
+owner = ICL
+controller = ICL
+add_core = ICL
+
+infra = 2
+terrain = arctic

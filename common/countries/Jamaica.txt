@@ -1,0 +1,204 @@
+color = { 32  249  168 }
+graphical_culture = Generic
+last_election = 2002.10.16
+duration = 60
+
+default_templates = {
+	generic_infantry = {
+		infantry_brigade
+		infantry_brigade
+		infantry_brigade
+	}
+	generic_milita = {
+		militia_brigade
+		militia_brigade
+		militia_brigade
+	}
+	generic_armoured = {
+		armor_brigade
+		motorized_brigade
+		motorized_brigade
+	}
+}
+
+unit_names = {
+}
+
+
+
+ministers = {
+	40001 = {
+		name = "Percival James Patterson"
+		ideology = social_democrat
+		loyalty = 1.00
+		picture = M40001
+		head_of_state = economic_expert
+		head_of_government = silent_workhorse
+		start_date = 2000.1.1
+	}
+	40002 = {
+		name = "Portia Simpson-Miller"
+		ideology = social_democrat
+		loyalty = 1.00
+		picture = M40002
+		head_of_government = man_of_the_people
+		armament_minister = industry_servant
+		start_date = 2006.1.1
+	}
+	40003 = {
+		name = "Bruce Golding"
+		ideology = market_liberal
+		loyalty = 1.00
+		picture = M40003
+		head_of_government = crooked_kleptocrat
+		start_date = 2000.1.1
+	}
+	40004 = {
+		name = "Arnold Nicholson"
+		ideology = social_democrat
+		loyalty = 1.00
+		picture = M40004
+		foreign_minister = efficient_sociopath
+		start_date = 2000.1.1
+	}
+	40005 = {
+		name = "Peter Bunting"
+		ideology = social_democrat
+		loyalty = 1.00
+		picture = M40005
+		minister_of_security = crime_fighter
+		start_date = 2000.1.1
+	}
+	40006 = {
+		name = "Edward Seaga"
+		ideology = market_liberal
+		loyalty = 1.00
+		picture = M40006
+		head_of_state = die_hard_reformer
+		start_date = 2000.1.1
+	}
+	40007 = {
+		name = "Andrew Holness"
+		ideology = market_liberal
+		loyalty = 1.00
+		picture = M40007
+		foreign_minister = naive_optimist
+		start_date = 2000.1.1
+	}
+	40008 = {
+		name = "Robert Montague"
+		ideology = market_liberal
+		loyalty = 1.00
+		picture = M40008
+		armament_minister = industry_servant
+		start_date = 2000.1.1
+	}
+	40009 = {
+		name = "Horace Chang"
+		ideology = market_liberal
+		loyalty = 1.00
+		picture = M40009
+		minister_of_security = stern_imperialist
+		start_date = 2000.1.1
+	}
+	40010 = {
+		name = "Earle DeLisser"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M40010
+		head_of_state = indecisive_politician
+		start_date = 2000.1.1
+	}
+	40011 = {
+		name = "Brascoe Lee"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M40011
+		head_of_government = patriot
+		start_date = 2000.1.1
+	}
+	40012 = {
+		name = "Bobby Marsh"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M40012
+		foreign_minister = laissez_faires_capitalist
+		start_date = 2000.1.1
+	}
+	40013 = {
+		name = "Peter Townsend"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M40013
+		armament_minister = autocratic_charmer
+		start_date = 2000.1.1
+	}
+	40014 = {
+		name = "Michael Williams"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M40014
+		minister_of_security = flamboyant_tough_guy
+		start_date = 2000.1.1
+	}
+	40015 = {
+		name = "Betty-Ann Blaine"
+		ideology = paternal_autocrat
+		loyalty = 1.00
+		picture = M40015
+		head_of_state = political_specialist
+		start_date = 2000.1.1
+	}
+	40016 = {
+		name = "Chris Lawrence"
+		ideology = stalinist
+		loyalty = 1.00
+		picture = M40016
+		head_of_state = ideological_crusader
+		start_date = 2000.1.1
+	}
+	40017 = {
+		name = "Charles Johnson"
+		ideology = fascistic
+		loyalty = 1.00
+		picture = M40017
+		head_of_state = economic_expert
+		start_date = 2000.1.1
+	}
+	40018 = {
+		name = "Hardley Lewin"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M40018
+		minister_of_intelligence = weary_stiff_neck
+		chief_of_staff = infantry_proponent
+		chief_of_army = school_of_fire_support
+		chief_of_air = carpet_bombing_doctrine
+		chief_of_navy = old_admiral
+		start_date = 2000.1.1
+	}
+	40019 = {
+		name = "Stewart Saunders"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M40019
+		minister_of_intelligence = undistinguished_suit
+		chief_of_staff = army_aviation_doctrine
+		chief_of_army = old_general
+		chief_of_air = air_reformer
+		chief_of_navy = talented_recruiter
+		start_date = 2007.1.1
+	}
+	40020 = {
+		name = "Stewart Saunders"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M40020
+		minister_of_intelligence = benevolent_gentleman
+		chief_of_staff = master_of_skies
+		chief_of_army = military_custom_breaker
+		chief_of_air = carpet_bombing_doctrine
+		chief_of_navy = logistics_specialist
+		start_date = 2010.1.1
+	}
+}

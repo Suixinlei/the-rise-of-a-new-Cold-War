@@ -1,0 +1,10 @@
+owner = USA
+controller = USA
+add_core = USA
+
+infra = 8
+industry = 10
+energy = 35.00
+rare_materials = 5.00
+leadership = 1.00
+metal = 20.00

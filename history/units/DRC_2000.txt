@@ -1,0 +1,143 @@
+theatre = {
+	name = "Forces Armées de la République Démocratique du Congo"
+	location = 10086
+	regiment = { type = hq_brigade name = "Forces Armées de la République Démocratique du Congo" historical_model = 0 }
+	corps = {
+		name = "Mai-Mai"
+		location = 10086
+		regiment = { type = hq_brigade name = "Mai-Mai" historical_model = 0 }
+		division = {
+			is_reserve = yes
+			name = "1st Mai-Mai Militia"
+			location = 10086
+			regiment = { type = militia_brigade name = "11th Mai-Mai Battalion" historical_model = 0 }
+			regiment = { type = militia_brigade name = "11th Mai-Mai Battalion" historical_model = 0 }
+			regiment = { type = militia_brigade name = "11th Mai-Mai Battalion" historical_model = 0 }
+		}
+		division = {
+			is_reserve = yes
+			name = "2nd Mai-Mai Militia"
+			location = 10086
+			regiment = { type = militia_brigade name = "21st Mai-Mai Battalion" historical_model = 0 }
+			regiment = { type = militia_brigade name = "22nd Mai-Mai Battalion" historical_model = 0 }
+			regiment = { type = militia_brigade name = "23rd Mai-Mai Battalion" historical_model = 0 }
+		}
+		division = {
+			is_reserve = yes
+			name = "3rd Mai-Mai Militia"
+			location = 10113
+			regiment = { type = militia_brigade name = "31st Mai-Mai Battalion" historical_model = 0 }
+			regiment = { type = militia_brigade name = "32nd Mai-Mai Battalion" historical_model = 0 }
+			regiment = { type = militia_brigade name = "33rd Mai-Mai Battalion" historical_model = 0 }
+		}
+		division = {
+			is_reserve = yes
+			name = "4th Mai-Mai Militia"
+			location = 10113
+			regiment = { type = militia_brigade name = "41st Mai-Mai Battalion" historical_model = 0 }
+			regiment = { type = militia_brigade name = "42nd Mai-Mai Battalion" historical_model = 0 }
+			regiment = { type = militia_brigade name = "43rd Mai-Mai Battalion" historical_model = 0 }
+		}
+		division = {
+			is_reserve = yes
+			name = "5th Mai-Mai Militia"
+			location = 10099
+			regiment = { type = militia_brigade name = "51st Mai-Mai Battalion" historical_model = 0 }
+			regiment = { type = militia_brigade name = "52nd Mai-Mai Battalion" historical_model = 0 }
+			regiment = { type = militia_brigade name = "53rd Mai-Mai Battalion" historical_model = 0 }
+		}
+		division = {
+			is_reserve = yes
+			name = "6th Mai-Mai Militia"
+			location = 10099
+			regiment = { type = militia_brigade name = "61st Mai-Mai Battalion" historical_model = 0 }
+			regiment = { type = militia_brigade name = "62nd Mai-Mai Battalion" historical_model = 0 }
+			regiment = { type = militia_brigade name = "63rd Mai-Mai Battalion" historical_model = 0 }
+		}
+		division = {
+			is_reserve = yes
+			name = "7th Mai-Mai Militia"
+			location = 10114
+			regiment = { type = militia_brigade name = "71st Mai-Mai Battalion" historical_model = 0 }
+			regiment = { type = militia_brigade name = "72nd Mai-Mai Battalion" historical_model = 0 }
+			regiment = { type = militia_brigade name = "73rd Mai-Mai Battalion" historical_model = 0 }
+		}
+		division = {
+			is_reserve = yes
+			name = "8th Mai-Mai Militia"
+			location = 10114
+			regiment = { type = militia_brigade name = "81st Mai-Mai Battalion" historical_model = 0 }
+			regiment = { type = militia_brigade name = "82nd Mai-Mai Battalion" historical_model = 0 }
+			regiment = { type = militia_brigade name = "83rd Mai-Mai Battalion" historical_model = 0 }
+		}
+		division = {
+			is_reserve = yes
+			name = "9th Mai-Mai Militia"
+			location = 9824
+			regiment = { type = militia_brigade name = "91st Mai-Mai Battalion" historical_model = 0 }
+			regiment = { type = militia_brigade name = "92nd Mai-Mai Battalion" historical_model = 0 }
+			regiment = { type = militia_brigade name = "93rd Mai-Mai Battalion" historical_model = 0 }
+		}
+	}
+	corps = {
+		name = "Interahamwe"
+		location = 7971
+		regiment = { type = hq_brigade name = "Interahamwe" historical_model = 0 }
+		division = {
+			is_reserve = yes
+			name = "1st Hutu Brigade"
+			location = 7971
+			regiment = { type = infantry_brigade name = "11th Hutu Battalion" historical_model = 0 }
+			regiment = { type = infantry_brigade name = "12th Hutu Battalion" historical_model = 0 }
+			regiment = { type = infantry_brigade name = "13th Hutu Battalion" historical_model = 0 }
+		}
+		division = {
+			is_reserve = yes
+			name = "2nd Hutu Brigade"
+			location = 7971
+			regiment = { type = infantry_brigade name = "21st Hutu Battalion" historical_model = 0 }
+			regiment = { type = infantry_brigade name = "22nd Hutu Battalion" historical_model = 0 }
+			regiment = { type = infantry_brigade name = "23rd Hutu Battalion" historical_model = 0 }
+		}
+		division = {
+			is_reserve = yes
+			name = "3rd Hutu Brigade"
+			location = 8000
+			regiment = { type = infantry_brigade name = "31st Hutu Battalion" historical_model = 0 }
+			regiment = { type = infantry_brigade name = "32nd Hutu Battalion" historical_model = 0 }
+			regiment = { type = infantry_brigade name = "33rd Hutu Battalion" historical_model = 0 }
+		}
+		division = {
+			is_reserve = yes
+			name = "4th Hutu Brigade"
+			location = 8000
+			regiment = { type = infantry_brigade name = "41st Hutu Battalion" historical_model = 0 }
+			regiment = { type = infantry_brigade name = "42nd Hutu Battalion" historical_model = 0 }
+			regiment = { type = infantry_brigade name = "43rd Hutu Battalion" historical_model = 0 }
+		}
+		division = {
+			is_reserve = yes
+			name = "5th Hutu Brigade"
+			location = 8040
+			regiment = { type = infantry_brigade name = "51st Hutu Battalion" historical_model = 0 }
+			regiment = { type = infantry_brigade name = "52nd Hutu Battalion" historical_model = 0 }
+			regiment = { type = infantry_brigade name = "53rd Hutu Battalion" historical_model = 0 }
+		}
+		division = {
+			is_reserve = yes
+			name = "6th Hutu Brigade"
+			location = 8040
+			regiment = { type = infantry_brigade name = "61st Hutu Battalion" historical_model = 0 }
+			regiment = { type = infantry_brigade name = "62nd Hutu Battalion" historical_model = 0 }
+			regiment = { type = infantry_brigade name = "63rd Hutu Battalion" historical_model = 0 }
+		}
+		division = {
+			is_reserve = yes
+			name = "7th Hutu Brigade"
+			location = 8032
+			regiment = { type = infantry_brigade name = "71st Hutu Battalion" historical_model = 0 }
+			regiment = { type = infantry_brigade name = "72nd Hutu Battalion" historical_model = 0 }
+			regiment = { type = infantry_brigade name = "73rd Hutu Battalion" historical_model = 0 }
+		}
+	}
+}

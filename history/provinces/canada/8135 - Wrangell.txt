@@ -1,0 +1,7 @@
+owner = CAN
+controller = CAN
+add_core = CAN
+
+infra = 6
+naval_base = 7 #Prince Rubert port
+points = 1

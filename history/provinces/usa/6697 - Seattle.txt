@@ -1,0 +1,13 @@
+owner = USA
+controller = USA
+add_core = USA
+infra = 8
+air_base = 7 #Seattle airport and Lewis-McChord airbase
+naval_base = 8 #Seattle port
+leadership = 2.00
+points = 1
+industry = 5
+energy = 40.00
+metal = 5.00
+rare_materials = 5.00
+manpower = 10.00

@@ -1,0 +1,138 @@
+color = { 242  205  94 }
+graphical_culture = Generic
+last_election = 2000.3.12
+duration = 48
+
+default_templates = {
+	generic_infantry = {
+		infantry_brigade
+		infantry_brigade
+		infantry_brigade
+	}
+	generic_milita = {
+		militia_brigade
+		militia_brigade
+		militia_brigade
+	}
+	generic_armoured = {
+		armor_brigade
+		motorized_brigade
+		motorized_brigade
+	}
+	generic_cavalry = {
+		cavalry_brigade
+		cavalry_brigade
+	}
+}
+
+unit_names = {
+
+}
+
+ministers = {
+	27600 = {
+		name = "胡安·卡洛斯"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M27600
+		head_of_state = ambitious_union_boss
+		head_of_government = autocratic_charmer
+		minister_of_defence = battle_fleet_proponent
+		start_date = 2000.1.1
+	}
+	27601 = {
+		name = "费利佩·胡安·巴布罗·阿方索"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M27601
+		head_of_state = power_hungry_demagogue
+		head_of_government = the_cloak_n_dagger_schemer
+		minister_of_defence = tank_proponent
+		start_date = 2000.1.1
+	}
+	27602 = {
+		name = "马里亚诺·拉霍伊"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M27602
+		minister_of_foreign = compassionate_gentleman
+		minister_of_finance = insignificant_layman
+		start_date = 2000.1.1
+	}
+	27603 = {
+		name = "伊尼亚基·阿斯库纳"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M27603
+		minister_of_finance = administrative_genius
+		start_date = 2000.1.1
+	}
+	27604 = {
+		name = "曼努埃尔·希门内斯·德·帕尔加"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M27604
+		minister_of_finance = military_entrepreneur
+		start_date = 2000.1.1
+	}
+	27605 = {
+		name = "弗洛伦蒂诺·佩雷斯"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M27605
+		minister_of_finance = corrupt_kleptocrat
+		start_date = 2000.1.1
+	}
+	27606 = {
+		name = "罗德里戈·拉托"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M27606
+		minister_of_finance = silent_workhorse
+		start_date = 2000.1.1
+	}
+	27607 = {
+		name = "哈维尔·索拉纳"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M27607
+		minister_of_foreign = apologetic_clerk
+		start_date = 2000.1.1
+	}
+	27608 = {
+		name = "何塞·博雷利·丰特列斯"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M27608
+		minister_of_foreign = pig_headed_isolationist
+		minister_of_intelligence = backroom_backstabber
+		start_date = 2000.1.1
+	}
+	27609 = {
+		name = "莱蒂西亚"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M27609
+		minister_of_foreign = man_of_the_people
+		start_date = 2000.1.1
+	}
+	27610 = {
+		name = "伊格纳西奥·拉莫内特"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M27610
+		minister_of_foreign = iron_fisted_brute
+		minister_of_intelligence = technical_specialist
+		start_date = 2000.1.1
+	}
+	27611 = {
+		name = "荷西·马力亚·西列斯"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M27611
+		minister_of_intelligence = industrial_spy
+		start_date = 2000.1.1
+	}
+
+}
+

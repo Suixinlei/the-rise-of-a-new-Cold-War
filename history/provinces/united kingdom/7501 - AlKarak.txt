@@ -1,0 +1,6 @@
+owner = JOR
+controller = JOR
+add_core = JOR
+
+infra = 6
+points = 1

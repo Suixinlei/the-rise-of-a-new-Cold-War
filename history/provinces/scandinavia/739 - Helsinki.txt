@@ -1,0 +1,13 @@
+owner = FIN
+controller = FIN
+add_core = FIN
+
+energy = 6.00
+industry = 2
+infra = 10
+manpower = 0.40
+air_base = 4  #Helsinki-Vantaa airport
+
+naval_base = 5 #Helsinki port
+leadership = 2.50
+points = 1

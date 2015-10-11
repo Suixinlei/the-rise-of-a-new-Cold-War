@@ -1,0 +1,7 @@
+owner = PRK
+
+controller = PRK
+
+add_core = PRK
+rare_materials = 30.00
+infra = 3

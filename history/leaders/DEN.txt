@@ -1,0 +1,603 @@
+44001 = {
+	name = "Andersen"
+	country = DEN
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L44001
+	add_trait = defensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+44002 = {
+	name = "Bruun"
+	country = DEN
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L44002
+	add_trait = panzer_leader
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+44003 = {
+	name = "Skov"
+	country = DEN
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 1.00
+	picture = L44003
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+44004 = {
+	name = "Thorup"
+	country = DEN
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L44004
+	add_trait = commando
+	add_trait = learners_will
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+44005 = {
+	name = "Clemmesen"
+	country = DEN
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L44005
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+44006 = {
+	name = "Danielsen"
+	country = DEN
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L44006
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+44007 = {
+	name = "Danielsson"
+	country = DEN
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L44007
+	add_trait = defensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+44008 = {
+	name = "Flemming"
+	country = DEN
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L44008
+	add_trait = trainer
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+44009 = {
+	name = "Jorgensen"
+	country = DEN
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L44009
+	add_trait = old_guard
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+44010 = {
+	name = "Lollesgaard"
+	country = DEN
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L44010
+	add_trait = offensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+44011 = {
+	name = "Mejlholm"
+	country = DEN
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L44011
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+44012 = {
+	name = "Werfel"
+	country = DEN
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 0.00
+	picture = L44012
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+44013 = {
+	name = "Mikkelsen"
+	country = DEN
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 0.00
+	picture = L44013
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+44014 = {
+	name = "Friis"
+	country = DEN
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 0.00
+	picture = L44014
+	add_trait = engineer
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+44015 = {
+	name = "Møller"
+	country = DEN
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L44015
+	add_trait = logistics_wizard
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+44016 = {
+	name = "Münter"
+	country = DEN
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L44016
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+44017 = {
+	name = "Daugaard"
+	country = DEN
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 1.00
+	picture = L44017
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+44018 = {
+	name = "Eskildsen"
+	country = DEN
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L44018
+	add_trait = landing_specialist
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+44019 = {
+	name = "Bartram"
+	country = DEN
+	type = land
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L44019
+	add_trait = improvisation
+	add_trait = assaulter
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+44020 = {
+	name = "Helsø"
+	country = DEN
+	type = land
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L44020
+	add_trait = defensive_doctrine
+	history = {
+		1995.1.1 = { rank = 1 }
+		1998.1.1 = { rank = 2 }
+		2001.1.1 = { rank = 3 }
+		2003.1.1 = { rank = 4 }
+	}
+}
+44021 = {
+	name = "Arboe-Rasmussen"
+	country = DEN
+	type = land
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L44021
+	add_trait = offensive_doctrine
+	history = {
+		1998.1.1 = { rank = 1 }
+		2001.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+44022 = {
+	name = "Bartels"
+	country = DEN
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L44022
+	add_trait = panzer_leader
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+44023 = {
+	name = "Bundsgaard"
+	country = DEN
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L44023
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+44024 = {
+	name = "Kiærskou"
+	country = DEN
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L44024
+	add_trait = frontline_soldier
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+44025 = {
+	name = "Køppen"
+	country = DEN
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L44025
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+44026 = {
+	name = "Kühnel"
+	country = DEN
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L44026
+	add_trait = winter_specialist
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+44027 = {
+	name = "Lange"
+	country = DEN
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L44027
+	add_trait = old_guard
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+44028 = {
+	name = "Ludvigsen"
+	country = DEN
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L44028
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+44029 = {
+	name = "Rokos"
+	country = DEN
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L44029
+	add_trait = fortress_buster
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+44030 = {
+	name = "Hartov"
+	country = DEN
+	type = air
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L44030
+	add_trait = superior_air_tactician
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+44031 = {
+	name = "Kjøller"
+	country = DEN
+	type = air
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L44031
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+44032 = {
+	name = "Olsen"
+	country = DEN
+	type = air
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L44032
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+44033 = {
+	name = "Ravn"
+	country = DEN
+	type = air
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L44033
+	add_trait = tank_buster
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+44034 = {
+	name = "Uttrup"
+	country = DEN
+	type = air
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L44034
+	add_trait = night_flyer
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+44035 = {
+	name = "Kiærskou"
+	country = DEN
+	type = air
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L44035
+	add_trait = fleet_destroyer
+	history = {
+		1998.1.1 = { rank = 1 }
+		2001.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+44036 = {
+	name = "Dam"
+	country = DEN
+	type = air
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L44036
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+44037 = {
+	name = "Nielsen"
+	country = DEN
+	type = air
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L44037
+	add_trait = superior_air_tactician
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+44038 = {
+	name = "Christophersen"
+	country = DEN
+	type = sea
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L44038
+	add_trait = blockade_runner
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+44039 = {
+	name = "Cortes"
+	country = DEN
+	type = sea
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L44039
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+44040 = {
+	name = "Hansen"
+	country = DEN
+	type = sea
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L44040
+	add_trait = seawolf
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+44041 = {
+	name = "Rune"
+	country = DEN
+	type = sea
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L44041
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+44042 = {
+	name = "Jørgensen"
+	country = DEN
+	type = sea
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L44042
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+44043 = {
+	name = "Karlsvik"
+	country = DEN
+	type = sea
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L44043
+	add_trait = superior_tactician
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+44044 = {
+	name = "Mahon"
+	country = DEN
+	type = sea
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L44044
+	add_trait = spotter
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+44045 = {
+	name = "Trojahn"
+	country = DEN
+	type = sea
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L44045
+	add_trait = blockade_runner
+	add_trait = superior_tactician
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+44046 = {
+	name = "Wang"
+	country = DEN
+	type = sea
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L44046
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}

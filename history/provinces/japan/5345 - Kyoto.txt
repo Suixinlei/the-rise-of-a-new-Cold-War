@@ -1,0 +1,10 @@
+owner = JAP
+controller = JAP
+add_core = JAP
+industry  = 10
+infra = 8
+energy = 30.00
+metal = 10.00
+manpower = 10.00
+points = 1
+leadership = 1.00

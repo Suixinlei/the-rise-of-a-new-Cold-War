@@ -1,0 +1,89 @@
+theatre = {
+	name = "Schweizer Armee"
+	location = 3422
+	regiment = { type = hq_brigade name = "Schweizer Armee" historical_model = 2 }
+	corps = {
+		name = "Armee"
+		location = 3422
+		regiment = { type = hq_brigade name = "Armee" historical_model = 2 }
+		division = {
+			is_reserve = yes
+			name = "Brigade Blindee 1"
+			location = 3554
+			regiment = { type = armor_brigade name = "Bataillon de chars 12" historical_model = 0 }
+			regiment = { type = armor_brigade name = "Bataillon de chars 17" historical_model = 0 }
+			regiment = { type = armor_brigade name = "Bataillon de chars 18" historical_model = 0 }
+			regiment = { type = infantry_brigade name = "Bataillon de infanterie 16" historical_model = 2 }
+		}
+		division = {
+			is_reserve = yes
+			name = "Panzer Brigade 11"
+			location = 3151
+			regiment = { type = armor_brigade name = "Panzerbataillon 13" historical_model = 0 }
+			regiment = { type = armor_brigade name = "Panzerbataillon 14" historical_model = 0 }
+			regiment = { type = armor_brigade name = "Panzerbataillon 29" historical_model = 0 }
+			regiment = { type = infantry_brigade name = "Infanteriebataillon 61" historical_model = 2 }
+		}
+		division = {
+			is_reserve = yes
+			name = "Brigade d'infanterie 2"
+			location = 3690
+			regiment = { type = mechanized_brigade name = "Bataillon de Carabiniers 1" historical_model = 1 }
+			regiment = { type = mechanized_brigade name = "Infanteriebataillon 13" historical_model = 1 }
+			regiment = { type = mechanized_brigade name = "Bataillon de Carabiniers 14" historical_model = 1 }
+			regiment = { type = mechanized_brigade name = "Bataillon d'infanterie 19" historical_model = 1 }
+		}
+		division = {
+			is_reserve = yes
+			name = "Infateriebrigade 5"
+			location = 3218
+			regiment = { type = mechanized_brigade name = "Infanteriebataillon 11" historical_model = 1 }
+			regiment = { type = mechanized_brigade name = "Infanteriebataillon 20" historical_model = 1 }
+			regiment = { type = mechanized_brigade name = "Infanteriebataillon 56" historical_model = 1 }
+			regiment = { type = mechanized_brigade name = "Infanteriebataillon 97" historical_model = 1 }
+		}
+		division = {
+			is_reserve = yes
+			name = "Brigata fanteria montagna 9"
+			location = 3491
+			regiment = { type = mechanized_brigade name = "Bataillon d'infanterie de montagne 7" historical_model = 1 }
+			regiment = { type = mechanized_brigade name = "Gebirgsinfanteriebataillon 17" historical_model = 1 }
+			regiment = { type = mechanized_brigade name = "Gebirgsinfanteriebataillon 29" historical_model = 1 }
+			regiment = { type = mechanized_brigade name = "Battaglione fanteria montagna 30" historical_model = 1 }
+			regiment = { type = mechanized_brigade name = "Gebirgsinfanteriebataillon 48" historical_model = 1 }
+		}
+		division = {
+			is_reserve = yes
+			name = "Gebirgsinfateribrigade 12"
+			location = 3356
+			regiment = { type = mechanized_brigade name = "Gebirgsschützenbataillon 6" historical_model = 1 }
+			regiment = { type = mechanized_brigade name = "Infanteriebataillon 65" historical_model = 1 }
+			regiment = { type = mechanized_brigade name = "Infanteriebataillon 70" historical_model = 1 }
+			regiment = { type = mechanized_brigade name = "Gebirgsinfanteriebataillon 77" historical_model = 1 }
+			regiment = { type = mechanized_brigade name = "Gebirgsinfanteriebataillon 85" historical_model = 1 }
+		}
+	}
+	
+	division = {
+		is_reserve = yes
+		name = "Spezialkräfte Kommando"
+		location = 3422
+		regiment = { type = special_forces_brigade name = "Grenadierbataillon 20" historical_model = 2 }
+		regiment = { type = special_forces_brigade name = "Grenadierbataillon 30" historical_model = 2 }
+	}
+	
+	air = {
+	name = "Flugplatzkommando 1 Payerne"
+	base = 3352
+	location = 3352
+	wing = { type = multi_role name = "Jagdgeschwader 17" historical_model = 0 }
+	wing = { type = interceptor name = "Jagdgeschwader 6" historical_model = 0 }
+	}
+	
+	air = {
+	name = "Flugplatzkommando 13 Meiringen"
+	base = 3490
+	location = 3490
+	wing = { type = interceptor name = "Fliegerstaffel 8" historical_model = 0 }
+	}
+}

@@ -1,0 +1,6 @@
+owner = UKR
+controller = UKR
+add_core = UKR
+infra = 8
+
+air_base = 1 #Izmail airbase

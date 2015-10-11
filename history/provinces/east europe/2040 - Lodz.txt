@@ -1,0 +1,9 @@
+owner = POL
+controller = POL
+add_core = POL
+industry = 6
+manpower = 0.5
+infra = 9
+energy = 20.00
+air_base = 6 #Lask airbase
+points = 1

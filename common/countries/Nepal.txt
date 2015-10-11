@@ -1,0 +1,118 @@
+color = { 187  178  196 }
+graphical_culture = Japanese
+
+default_templates = {
+	generic_infantry = {
+		infantry_brigade
+		infantry_brigade
+		infantry_brigade
+	}
+	generic_milita = {
+		militia_brigade
+		militia_brigade
+		militia_brigade
+	}
+	generic_armoured = {
+		armor_brigade
+		motorized_brigade
+		motorized_brigade
+	}
+	generic_cavalry = {
+		cavalry_brigade
+		cavalry_brigade
+	}
+}
+
+unit_names = {
+	infantry_brigade = {
+		"Royal Nepalese Lifeguard Div." "1st Nepalese Infantry Div." "2nd Nepalese Infantry Div." "3rd Nepalese Infantry Div." "4th Nepalese Infantry Div." "5th Nepalese Infantry Div." "6th Nepalese Infantry Div." "7th Nepalese Infantry Div." "8th Nepalese Infantry Div." "9th Nepalese Infantry Div." "10th Nepalese Infantry Div." 
+		"11th Nepalese Infantry Div." "12th Nepalese Infantry Div." "13th Nepalese Infantry Div." "14th Nepalese Infantry Div." "15th Nepalese Infantry Div." "16th Nepalese Infantry Div." "17th Nepalese Infantry Div." "18th Nepalese Infantry Div." "19th Nepalese Infantry Div." "20th Nepalese Infantry Div." 
+	}
+	cavalry_brigade = {
+		"1st Royal Nepalese Cavalry Div." "2nd Royal Nepalese Cavalry Div." "3rd Royal Nepalese Cavalry Div." "4th Royal Nepalese Cavalry Div." "5th Royal Nepalese Cavalry Div." "6th Royal Nepalese Cavalry Div." "7th Royal Nepalese Cavalry Div." "8th Royal Nepalese Cavalry Div." "9th Royal Nepalese Cavalry Div." "10th Royal Nepalese Cavalry Div." 
+	}
+	motorized_brigade = {
+		"1st Nepalese Motor Div." "2nd Nepalese Motor Div." "3rd Nepalese Motor Div." "4th Nepalese Motor Div." "5th Nepalese Motor Div." "6th Nepalese Motor Div." "7th Nepalese Motor Div." "8th Nepalese Motor Div." "9th Nepalese Motor Div." "10th Nepalese Motor Div." 
+	}
+	mechanized_brigade = {
+		"1st Nepalese Mechanized Div." "2nd Nepalese Mechanized Div." "3rd Nepalese Mechanized Div." "4th Nepalese Mechanized Div." "5th Nepalese Mechanized Div." "6th Nepalese Mechanized Div." "7th Nepalese Mechanized Div." "8th Nepalese Mechanized Div." "9th Nepalese Mechanized Div." "10th Nepalese Mechanized Div." 
+	}
+	light_armor_brigade = {
+		"1st Nepalese Armoured Div." "2nd Nepalese Armoured Div." "3rd Nepalese Armoured Div." "4th Nepalese Armoured Div." "5th Nepalese Armoured Div." "6th Nepalese Armoured Div." "7th Nepalese Armoured Div." "8th Nepalese Armoured Div." "9th Nepalese Armoured Div." "10th Nepalese Armoured Div." 
+	}
+	armor_brigade = {
+		"1st Nepalese Armoured Div." "2nd Nepalese Armoured Div." "3rd Nepalese Armoured Div." "4th Nepalese Armoured Div." "5th Nepalese Armoured Div." "6th Nepalese Armoured Div." "7th Nepalese Armoured Div." "8th Nepalese Armoured Div." "9th Nepalese Armoured Div." "10th Nepalese Armoured Div." 
+	}
+	paratrooper_brigade = {
+		"1st Nepalese Para Division" "2nd Nepalese Para Division" "3rd Nepalese Para Division" "4th Nepalese Para Division" "5th Nepalese Para Division" "6th Nepalese Para Division" "7th Nepalese Para Division" "8th Nepalese Para Division" "9th Nepalese Para Division" "10th Nepalese Para Division" 
+	}
+	marine_brigade = {
+		"1st Royal Nepalese Marines Div." "2nd Royal Nepalese Marines Div." "3rd Royal Nepalese Marines Div." "4th Royal Nepalese Marines Div." "5th Royal Nepalese Marines Div." "6th Royal Nepalese Marines Div." "7th Royal Nepalese Marines Div." "8th Royal Nepalese Marines Div." "9th Royal Nepalese Marines Div." "10th Royal Nepalese Marines Div." 
+	}
+	bergsjaeger_brigade = {
+		"1st Nepalese Mountain Div." "2nd Nepalese Mountain Div." "3rd Nepalese Mountain Div." "4th Nepalese Mountain Div." "5th Nepalese Mountain Div." "8th Nepalese Mountain Div." "10th Nepalese Mountain Div." "11th Nepalese Mountain Div." "12th Nepalese Mountain Div." "22th Nepalese Mountain Div." 
+	}
+	garrison_brigade = {
+		"1st Nepalese Infantry Div." "2nd Nepalese Infantry Div." "3rd Nepalese Infantry Div." "4th Nepalese Infantry Div." "5th Nepalese Infantry Div." "6th Nepalese Infantry Div." "7th Nepalese Infantry Div." "8th Nepalese Infantry Div." "9th Nepalese Infantry Div." "10th Nepalese Infantry Div." "11th Nepalese Infantry Div." 
+		"12th Nepalese Infantry Div." "13th Nepalese Infantry Div." "14th Nepalese Infantry Div." "15th Nepalese Infantry Div." "16th Nepalese Infantry Div." "17th Nepalese Infantry Div." "18th Nepalese Infantry Div." "19th Nepalese Infantry Div." "20th Nepalese Infantry Div." 
+	}
+	hq_brigade = {
+		"1st Nepalese Army" "2nd Nepalese Army" "3rd Nepalese Army" "4th Nepalese Army" "5th Nepalese Army" 
+	}
+	militia_brigade = {
+		"Royal Household Division" "1st Nepalese Citizen Div." "2nd Nepalese Citizen Div." "3rd Nepalese Citizen Div." "4th Nepalese Citizen Div." "5th Nepalese Citizen Div." "6th Nepalese Citizen Div." "7th Nepalese Citizen Div." "8th Nepalese Citizen Div." "9th Nepalese Citizen Div." "10th Nepalese Citizen Div." 
+		"11th Nepalese Citizen Div." "12th Nepalese Citizen Div." "13th Nepalese Citizen Div." "14th Nepalese Citizen Div." "15th Nepalese Citizen Div." "16th Nepalese Citizen Div." "17th Nepalese Citizen Div." "18th Nepalese Citizen Div." "19th Nepalese Citizen Div." "20th Nepalese Citizen Div." 
+	}
+	multi_role = {
+		"No.1 RNAF Fighter Group" "No.2 RNAF Fighter Group" "No.3 RNAF Fighter Group" "No.4 RNAF Fighter Group" "No.5 RNAF Fighter Group" "No.6 RNAF Fighter Group" "No.7 RNAF Fighter Group" "No.8 RNAF Fighter Group" "No.9 RNAF Fighter Group" "No.10 RNAF Fighter Group" 
+	}
+	interceptor = {
+		"No.1 RNAF Fighter Group" "No.2 RNAF Fighter Group" "No.3 RNAF Fighter Group" "No.4 RNAF Fighter Group" "No.5 RNAF Fighter Group" "No.6 RNAF Fighter Group" "No.7 RNAF Fighter Group" "No.8 RNAF Fighter Group" "No.9 RNAF Fighter Group" "No.10 RNAF Fighter Group" 
+	}
+	strategic_bomber = {
+		"No.1 RNAF Strategic Bomb Group" "No.2 RNAF Strategic Bomb Group" "No.6 RNAF Strategic Bomb Group" "No.3 RNAF Strategic Bomb Group" "No.4 RNAF Strategic Bomb Group" "No.7 RNAF Strategic Bomb Group" "No.8 RNAF Strategic Bomb Group" "No.9 RNAF Strategic Bomb Group" "No.10 RNAF Strategic Bomb Group" "No.11 RNAF Strategic Bomb Group" 
+	}
+	tactical_bomber = {
+		"No.1 RNAF Tactical Bomb Group" "No.2 RNAF Tactical Bomb Group" "No.6 RNAF Tactical Bomb Group" "No.3 RNAF Tactical Bomb Group" "No.4 RNAF Tactical Bomb Group" "No.7 RNAF Tactical Bomb Group" "No.8 RNAF Tactical Bomb Group" "No.9 RNAF Tactical Bomb Group" "No.10 RNAF Tactical Bomb Group" "No.11 RNAF Tactical Bomb Group" 
+	}
+	naval_bomber = {
+		"No.1 RNAF Marine Bomb Group" "No.2 RNAF Marine Bomb Group" "No.3 RNAF Marine Bomb Group" "No.4 RNAF Marine Bomb Group" "No.5 RNAF Marine Bomb Group" "No.7 RNAF Marine Bomb Group" "No.8 RNAF Marine Bomb Group" "No.9 RNAF Marine Bomb Group" "No.10 RNAF Marine Bomb Group" "No.11 RNAF Marine Bomb Group" "No.1 RNAF Torpedo Bomb Group" 
+		"No.2 RNAF Torpedo Bomb Group" "No.3 RNAF Torpedo Bomb Group" "No.4 RNAF Torpedo Bomb Group" "No.5 RNAF Torpedo Bomb Group" "No.7 RNAF Torpedo Bomb Group" "No.8 RNAF Torpedo Bomb Group" "No.9 RNAF Torpedo Bomb Group" "No.10 RNAF Torpedo Bomb Group" "No.11 RNAF Torpedo Bomb Group" 
+	}
+	cas = {
+		"No.1 RNAF Dive Bomb Group" "No.2 RNAF Dive Bomb Group" "No.6 RNAF Dive Bomb Group" "No.3 RNAF Dive Bomb Group" "No.4 RNAF Dive Bomb Group" "No.7 RNAF Dive Bomb Group" "No.8 RNAF Dive Bomb Group" "No.9 RNAF Dive Bomb Group" "No.10 RNAF Dive Bomb Group" "No.11 RNAF Dive Bomb Group" 
+	}
+	transport_plane = {
+		"No.1 RNAF Air Transport Group" "No.2 RNAF Air Transport Group" "No.3 RNAF Air Transport Group" "No.4 RNAF Air Transport Group" "No.5 RNAF Air Transport Group" 
+	}
+	battleship = {
+		"HNMS Kathmandu" "HNMS Dandelhura" 
+	}
+	light_cruiser = {
+		"HNMS Nyaien" "HNMS Nuwakot" "HNMS Pokhara" 
+	}
+	heavy_cruiser = {
+		"HNMS Dailek" "HNMS Patan" "HNMS Birgani" 
+	}
+	battlecruiser = {
+		"HNMS Kathmandu" "HNMS Dandelhura" 
+	}
+	destroyer = {
+		"1st Nepalese Destroyer Flotilla" "2nd Nepalese Destroyer Flotilla" "3rd Nepalese Destroyer Flotilla" 
+	}
+	carrier = {
+		"HNMS Dankhar" "HNMS Nepalgani" 
+	}
+	submarine = {
+		"1st Nepalese Submarine Flotilla" "2nd Nepalese Submarine Flotilla" "3rd Nepalese Submarine Flotilla" 
+	}
+	transport_ship = {
+		"1st Nepalese Transport Flotilla" "2nd Nepalese Transport Flotilla" "3rd Nepalese Transport Flotilla" 
+	}
+
+}
+
+
+ministers = {
+	
+}

@@ -1,0 +1,133 @@
+theatre = {
+	name = "Nigerian Armed Forces"
+	location = 9840
+	regiment = { type = hq_brigade name = "Armed Forces HQ" historical_model = 1 }
+	army = {
+		name = "Nigerian Army"
+		location = 9840
+		regiment = { type = hq_brigade name = "Army HQ" historical_model = 1 }
+		corps = {
+			name = "1 Division"
+			location = 9820
+			regiment = { type = hq_brigade name = "1 Division HQ" historical_model = 1 }
+			division = {
+				is_reserve = yes
+				name = "1 Mechanized Brigade"
+				location = 9820
+				regiment = { type = mechanized_brigade name = "65 Mechanised Battalion" historical_model = 0 }
+				regiment = { type = infantry_brigade name = "81 Motorized Battalion" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "223 Light Battalion" historical_model = 1 }
+			}
+		}
+		corps = {
+			name = "2 Division"
+			location = 9879
+			regiment = { type = hq_brigade name = "2 Division HQ" historical_model = 1 }
+			division = {
+				is_reserve = yes
+				name = "4 Brigade"
+				location = 9956
+				regiment = { type = infantry_brigade name = "31 Motorized Battalion" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "12 Motorized Battalion" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "66 Motorized Battalion" historical_model = 1 }
+			}
+			division = {
+				is_reserve = yes
+				name = "19 Battalion"
+				location = 9939
+				regiment = { type = infantry_brigade name = "19 Battalion" historical_model = 1 }
+				regiment = { type = artillery_brigade name = "32 Artillery Brigade" historical_model = 0 }
+			}
+			division = {
+				is_reserve = yes
+				name = "195 Battalion"
+				location = 9956
+				regiment = { type = infantry_brigade name = "195 Battalion" historical_model = 1 }
+			}
+		}
+		corps = {
+			name = "3rd Armoured Division"
+			location = 9821
+			regiment = { type = hq_brigade name = "3rd Armoured Division HQ" historical_model = 1 }
+			division = {
+				is_reserve = yes
+				name = "21 Armoured Brigade"
+				location = 9901
+				regiment = { type = armor_brigade name = "59 Armoured Battalion" historical_model = 0 }
+				regiment = { type = armor_brigade name = "71 Armoured Battalion" historical_model = 0 }
+				regiment = { type = armor_brigade name = "72 Armoured Battalion" historical_model = 0 }
+			}
+			division = {
+				is_reserve = yes
+				name = "23 Brigade"
+				location = 9903
+				regiment = { type = infantry_brigade name = "67 Motorized Battalion" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "71 Motorized Battalion" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "52 Motorized Battalion" historical_model = 1 }
+				regiment = { type = artillery_brigade name = "33 Artillery Brigade" historical_model = 0 }
+			}
+		}
+		corps = {
+			name = "81st Division"
+			location = 9920
+			regiment = { type = hq_brigade name = "81st Division HQ" historical_model = 1 }
+			division = {
+				is_reserve = yes
+				name = "9th Brigade"
+				location = 9920
+				regiment = { type = marine_brigade name = "56 Amphibious Battalion" historical_model = 1 }
+				regiment = { type = marine_brigade name = "81 Amphibious Battalion" historical_model = 1 }
+				regiment = { type = marine_brigade name = "29 Amphibious Battalion" historical_model = 1 }
+			}
+		}
+		corps = {
+			name = "82nd Division"
+			location = 9970
+			regiment = { type = hq_brigade name = "82nd Division HQ" historical_model = 1 }
+			division = {
+				is_reserve = yes
+				name = "2 Brigade"
+				location = 9977
+				regiment = { type = marine_brigade name = "67 Amphibious Battalion" historical_model = 1 }
+				regiment = { type = marine_brigade name = "24 Amphibious Battalion" historical_model = 1 }
+				regiment = { type = marine_brigade name = "93 Amphibious Battalion" historical_model = 1 }
+				regiment = { type = artillery_brigade name = "34 Artillery Brigade" historical_model = 0 }
+			}
+			division = {
+				is_reserve = yes
+				name = "13 Brigade"
+				location = 9970
+				regiment = { type = paratrooper_brigade name = "12 Airborne Battalion" historical_model = 1 }
+				regiment = { type = paratrooper_brigade name = "24 Airborne Battalion" historical_model = 1 }
+				regiment = { type = paratrooper_brigade name = "28 Airborne Battalion" historical_model = 1 }
+			}
+		}
+	}
+	
+	air = {
+	name = "Nigerian Air Force"
+	base = 9902
+	location = 9902
+	wing = { type = cas name = "75 Strike Group" historical_model = 0 }
+	}
+	
+	navy = {
+	name = "Nigerian Navy"
+	base = 9920
+	location = 9920
+	ship = { type = heavy_cruiser name = "NNS Aradu" historical_model = 0 }
+	ship = { type = heavy_cruiser name = "NNS Thunder" historical_model = 0 }
+	ship = { type = light_cruiser name = "NNS Dorina" historical_model = 0 }
+	ship = { type = light_cruiser name = "NNS Otobo" historical_model = 0 }
+	ship = { type = light_cruiser name = "NNS Erinomi" historical_model = 0 }
+	ship = { type = light_cruiser name = "NNS Enymiri" historical_model = 0 }
+	ship = { type = patrol_boat name = "NNS Ekpe" historical_model = 0 }
+	ship = { type = patrol_boat name = "NNS Damisa" historical_model = 0 }
+	ship = { type = patrol_boat name = "NNS Agu" historical_model = 0 }
+	ship = { type = patrol_boat name = "NNS Siri" historical_model = 0 }
+	ship = { type = patrol_boat name = "NNS Ayam" historical_model = 0 }
+	ship = { type = patrol_boat name = "NNS Ekun" historical_model = 0 }
+	}
+}
+	
+				

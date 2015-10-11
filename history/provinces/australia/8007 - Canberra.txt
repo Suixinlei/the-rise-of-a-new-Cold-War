@@ -1,0 +1,7 @@
+owner = AST
+controller = AST
+add_core = AST
+infra = 8
+air_base = 3 #Canberra airport and RAAF Wagga Wagga
+leadership = 2.50
+points = 1

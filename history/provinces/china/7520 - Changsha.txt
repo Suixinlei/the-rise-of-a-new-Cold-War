@@ -1,0 +1,12 @@
+owner = CHC
+controller = CHC
+ 
+add_core = CHC
+leadership = 0.5
+
+infra = 9
+
+industry = 5
+rare_materials = 5
+metal = 10
+air_base = 2 #Changsha airbase

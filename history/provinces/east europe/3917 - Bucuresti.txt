@@ -1,0 +1,10 @@
+owner = ROM
+controller = ROM
+add_core = ROM
+manpower = 0.7
+industry = 4
+infra = 8
+energy = 2.00
+air_base = 7 #Bucarest airports
+leadership = 2.50
+points = 1

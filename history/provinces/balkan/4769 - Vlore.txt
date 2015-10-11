@@ -1,0 +1,6 @@
+owner = ALB
+controller = ALB
+add_core = ALB
+manpower = 0.4
+infra = 6
+air_base = 2 #Vlore and Kucova airbase

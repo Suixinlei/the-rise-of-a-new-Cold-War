@@ -1,0 +1,11 @@
+owner = NOR
+controller = NOR
+add_core = NOR
+
+energy = 4.00
+crude_oil = 15.00
+infra = 8
+air_base = 1 #Trondheim airport
+naval_base = 3 #Trondheim port
+leadership = 2.50
+points = 1

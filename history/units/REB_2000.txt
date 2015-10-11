@@ -1,0 +1,88 @@
+division = {
+	name = "Liberians United for Reconciliation and Democracy"
+	location = 9952
+	regiment = { type = partisan_brigade name = "1st LURD Battalion" historical_model = 0 }
+	regiment = { type = partisan_brigade name = "2nd LURD Battalion" historical_model = 0 }
+}
+division = {
+	name = "Movement for Democracy in Liberia"
+	location = 9952
+	regiment = { type = partisan_brigade name = "1st MODEL Battalion" historical_model = 0 }
+	regiment = { type = partisan_brigade name = "2nd MODEL Battalion" historical_model = 0 }
+}
+division = {
+	name = "2nd Infantry Battalion (FN)"
+	location = 9836
+	regiment = { type = infantry_brigade name = "2nd Infantry Battalion (FN)" historical_model = 0 }
+}
+division = {
+	name = "3rd Infantry Battalion (FN)"
+	location = 9917
+	regiment = { type = infantry_brigade name = "3rd Infantry Battalion (FN)" historical_model = 0 }
+}
+division = {
+	name = "Movement of the Ivory Coast of the Great West"
+	location = 9953
+	regiment = { type = partisan_brigade name = "MPIGO" historical_model = 0 }
+}
+division = {
+	name = "Movement for Justice and Peace"
+	location = 9953
+	regiment = { type = partisan_brigade name = "MJP" historical_model = 0 }
+}
+division = {
+	name = "1st Islamist Brigade"
+	location = 10013
+	regiment = { type = partisan_brigade name = "11th Islamist Battalion" historical_model = 0 }
+	regiment = { type = partisan_brigade name = "11th Islamist Battalion" historical_model = 0 }
+	regiment = { type = partisan_brigade name = "11th Islamist Battalion" historical_model = 0 }
+}
+division = {
+	name = "2nd Islamist Brigade"
+	location = 10013
+	regiment = { type = partisan_brigade name = "21st Islamist Battalion" historical_model = 0 }
+	regiment = { type = partisan_brigade name = "22nd Islamist Battalion" historical_model = 0 }
+	regiment = { type = partisan_brigade name = "23rd Islamist Battalion" historical_model = 0 }
+}
+division = {
+	name = "3rd Islamist Brigade"
+	location = 9995
+	regiment = { type = partisan_brigade name = "31st Islamist Battalion" historical_model = 0 }
+	regiment = { type = partisan_brigade name = "32nd Islamist Battalion" historical_model = 0 }
+	regiment = { type = partisan_brigade name = "33rd Islamist Battalion" historical_model = 0 }
+}
+division = {
+	name = "4th Islamist Brigade"
+	location = 9995
+	regiment = { type = partisan_brigade name = "41st Islamist Battalion" historical_model = 0 }
+	regiment = { type = partisan_brigade name = "42nd Islamist Battalion" historical_model = 0 }
+	regiment = { type = partisan_brigade name = "43rd Islamist Battalion" historical_model = 0 }
+}
+division = {
+	name = "1st Puntland Brigade"
+	location = 9928
+	regiment = { type = partisan_brigade name = "11th Puntland Battalion" historical_model = 0 }
+	regiment = { type = partisan_brigade name = "12th Puntland Battalion" historical_model = 0 }
+	regiment = { type = partisan_brigade name = "13th Puntland Battalion" historical_model = 0 }
+}
+division = {
+	name = "2nd Puntland Brigade"
+	location = 9946
+	regiment = { type = partisan_brigade name = "21st Puntland Battalion" historical_model = 0 }
+	regiment = { type = partisan_brigade name = "22nd Puntland Battalion" historical_model = 0 }
+	regiment = { type = partisan_brigade name = "23rd Puntland Battalion" historical_model = 0 }
+}
+division = {
+	name = "1st Somaliland Brigade"
+	location = 9927
+	regiment = { type = partisan_brigade name = "11th Somaliland Battalion" historical_model = 0 }
+	regiment = { type = partisan_brigade name = "12th Somaliland Battalion" historical_model = 0 }
+	regiment = { type = partisan_brigade name = "13th Somaliland Battalion" historical_model = 0 }
+}
+division = {
+	name = "2nd Somaliland Brigade"
+	location = 9945
+	regiment = { type = partisan_brigade name = "21st Somaliland Battalion" historical_model = 0 }
+	regiment = { type = partisan_brigade name = "22nd Somaliland Battalion" historical_model = 0 }
+	regiment = { type = partisan_brigade name = "23rd Somaliland Battalion" historical_model = 0 }
+}

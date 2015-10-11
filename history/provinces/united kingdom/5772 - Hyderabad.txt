@@ -1,0 +1,11 @@
+owner = PAK
+controller = PAK
+add_core = PAK
+manpower = 6.00
+infra = 6
+metal = 30.00
+energy = 50.00
+rare_materials = 15.00
+leadership = 2.50
+points = 1
+industry = 2

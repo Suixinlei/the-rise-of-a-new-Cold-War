@@ -1,0 +1,496 @@
+color = { 119  48  39 }
+graphical_culture = Us
+last_election = 2000.11.27
+duration = 46
+major = yes
+
+default_templates = {
+	ENG_airborne = {
+		paratrooper_brigade
+		paratrooper_brigade
+		paratrooper_brigade
+	}
+}
+
+unit_names = {
+	
+}
+
+
+ministers = {
+	14502 = {
+		name = "Jean Chrétien"
+		ideology = social_liberal
+		loyalty = 1.00
+		picture = M14502
+		head_of_government = laissez_faires_capitalist
+		start_date = 2000.1.1
+	}
+	14503 = {
+		name = "Paul Martin"
+		ideology = social_liberal
+		loyalty = 1.00
+		picture = M14503
+		head_of_government = scandalous
+		start_date = 2003.1.1
+	}
+	14504 = {
+		name = "Stephen Harper"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M14504
+		head_of_government = smiling_oilman
+		start_date = 2000.1.1
+	}
+	14505 = {
+		name = "Bill Graham"
+		ideology = social_liberal
+		loyalty = 1.00
+		picture = M14505
+		foreign_minister = anti_imperialist
+		armament_minister = economic_expert
+		start_date = 2000.1.1
+	}
+	14506 = {
+		name = "Pierre Pettigrew"
+		ideology = social_liberal
+		loyalty = 1.00
+		picture = M14506
+		foreign_minister = corporate_suit
+		start_date = 2000.1.1
+	}
+	14507 = {
+		name = "Peter MacKay"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M14507
+		foreign_minister = corrupt_kleptocrat
+		armament_minster = army_reformer
+		start_date = 2003.1.1
+	}
+	14508 = {
+		name = "Maxime Bernier"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M14508
+		foreign_minister = untalented_nerd
+		start_date = 2006.1.1
+	}
+	14509 = {
+		name = "Lawrence Cannon"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M14509
+		foreign_minister = technical_specialist
+		start_date = 2006.1.1
+	}
+	14510 = {
+		name = "John Baird"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M14510
+		foreign_minister = naive_optimist
+		start_date = 2008.1.1
+	}
+	14511 = {
+		name = "John McCallum"
+		ideology = social_liberal
+		loyalty = 1.00
+		picture = M14511
+		armament_minister = die_hard_reformer
+		start_date = 2000.1.1
+	}
+	14512 = {
+		name = "David Pratt"
+		ideology = social_liberal
+		loyalty = 1.00
+		picture = M14512
+		armament_minister = silent_workhorse
+		start_date = 2003.1.1
+	}
+	14513 = {
+		name = "Gordon O'Connor"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M14513
+		armament_minister = air_reformer
+		start_date = 2006.1.1
+	}
+	14514 = {
+		name = "Rob Nicholson"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M14514
+		armament_minister = die_hard_reformer
+		start_date = 2006.1.1
+	}
+	14515 = {
+		name = "Anne McLellan"
+		ideology = social_liberal
+		loyalty = 1.00
+		picture = M14515
+		minister_of_security = die_hard_reformer
+		start_date = 2000.1.1
+	}
+	14516 = {
+		name = "Stockwell Day"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M14516
+		minister_of_security = the_cloak_n_dagger_schemer
+		start_date = 2000.1.1
+	}
+	14517 = {
+		name = "Peter Van Loan"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M14517
+		minister_of_security = power_hungry_demagogue
+		start_date = 2008.1.1
+	}
+	14518 = {
+		name = "Vic Toews"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M14518
+		minister_of_security = crooked_kleptocrat
+		start_date = 2006.1.1
+	}
+	14519 = {
+		name = "John Walsh"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M14519
+		head_of_state = military_slob
+		start_date = 2000.1.1
+	}
+	14520 = {
+		name = "Jack Layton"
+		ideology = social_democrat
+		loyalty = 1.00
+		picture = M14520
+		head_of_state = responsive_industrialist
+		start_date = 2000.1.1
+	}
+	14521 = {
+		name = "Thomas Mulcair"
+		ideology = social_democrat
+		loyalty = 1.00
+		picture = M14521
+		head_of_government = good_connections
+		start_date = 2000.1.1
+	}
+	14522 = {
+		name = "Rebecca Blaikie"
+		ideology = social_democrat
+		loyalty = 1.00
+		picture = M14522
+		foreign_minister = anti_imperialist
+		start_date = 2000.1.1
+	}
+	14523 = {
+		name = "Nathan Rotman"
+		ideology = social_democrat
+		loyalty = 1.00
+		picture = M14523
+		armament_minister = military_entrepreneur
+		start_date = 2000.1.1
+	}
+	14524 = {
+		name = "Greg Selinger"
+		ideology = social_democrat
+		loyalty = 1.00
+		picture = M14524
+		minister_of_security = research_specialist
+		start_date = 2000.1.1
+	}
+	14525 = {
+		name = "Stéphane Dion"
+		ideology = social_liberal
+		loyalty = 1.00
+		picture = M14525
+		head_of_state = corrupt_kleptocrat
+		start_date = 2000.1.1
+	}
+	14526 = {
+		name = "Paul Hellyer"
+		ideology = left_wing_radical
+		loyalty = 1.00
+		picture = M14526
+		head_of_state = popular_figurehead
+		start_date = 2000.1.1
+	}
+	14527 = {
+		name = "Connie Fogal"
+		ideology = left_wing_radical
+		loyalty = 1.00
+		picture = M14527
+		head_of_government = responsive_industrialist
+		start_date = 2000.1.1
+	}
+	14528 = {
+		name = "Christopher Porter"
+		ideology = left_wing_radical
+		loyalty = 1.00
+		picture = M14528
+		foreign_minister = barking_buffoon
+		start_date = 2000.1.1
+	}
+	14529 = {
+		name = "Bev Collins"
+		ideology = left_wing_radical
+		loyalty = 1.00
+		picture = M14529
+		armament_minister = service_enforcer
+		start_date = 2000.1.1
+	}
+	14530 = {
+		name = "Maggie Braun"
+		ideology = left_wing_radical
+		loyalty = 1.00
+		picture = M14530
+		minister_of_security = talented_and_concealed
+		start_date = 2000.1.1
+	}
+	14531 = {
+		name = "Miguel Figueroa"
+		ideology = stalinist
+		loyalty = 1.00
+		picture = M14531
+		head_of_state = talented_liar
+		start_date = 2000.1.1
+	}
+	14532 = {
+		name = "Sandra L. Smith"
+		ideology = stalinist
+		loyalty = 1.00
+		picture = M14532
+		head_of_government = efficient_sociopath
+		start_date = 2000.1.1
+	}
+	14533 = {
+		name = "Anna Di Carlo"
+		ideology = stalinist
+		loyalty = 1.00
+		picture = M14533
+		foreign_minister = administrative_genius
+		start_date = 2000.1.1
+	}
+	14534 = {
+		name = "Jean-Serge Brisson"
+		ideology = market_liberal
+		loyalty = 1.00
+		picture = M14534
+		head_of_state = ideological_crusader
+		start_date = 2000.1.1
+	}
+	14535 = {
+		name = "Dennis Young"
+		ideology = market_liberal
+		loyalty = 1.00
+		picture = M14535
+		head_of_government = happy_amateur
+		start_date = 2000.1.1
+	}
+	14536 = {
+		name = "Katrina Chowne"
+		ideology = market_liberal
+		loyalty = 1.00
+		picture = M14536
+		foreign_minister = political_specialist
+		start_date = 2000.1.1
+	}
+	14537 = {
+		name = "Rob Brooks"
+		ideology = market_liberal
+		loyalty = 1.00
+		picture = M14537
+		armament_minister = ruthless_powermonger
+		start_date = 2000.1.1
+	}
+	14538 = {
+		name = "Alan Mercer"
+		ideology = market_liberal
+		loyalty = 1.0
+		picture = M14538
+		minister_of_security = money_is_might
+		start_date = 2000.1.1
+	}
+	14539 = {
+		name = "Don Andrews"
+		ideology = paternal_autocrat
+		loyalty = 1.00
+		picture = M14539
+		head_of_state = crooked_kleptocrat
+		start_date = 2000.1.1
+	}
+	14540 = {
+		name = "Robert Smith"
+		ideology = paternal_autocrat
+		loyalty = 1.00
+		picture = M14540
+		head_of_government = scandalous
+		start_date = 2000.1.1
+	}
+	14541 = {
+		name = "Terry Tremaine"
+		ideology = fascistic
+		loyalty = 1.00
+		picture = M14541
+		head_of_state = pig_headed_isolationist
+		start_date = 2000.1.1
+	}
+	14542 = {
+		name = "Ward Elcock"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M14542
+		minister_of_intelligence = power_hungry_demagogue
+		start_date = 2000.1.1
+	}
+	14543 = {
+		name = "Dale Neufeld"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M14543
+		minister_of_intelligence = prince_of_terror
+		start_date = 2004.1.1
+	}
+	14544 = {
+		name = "Jim Judd"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M14544
+		minister_of_intelligence = unexperienced_diplomat
+		start_date = 2004.1.1
+	}
+	14545 = {
+		name = "Richard Fadden"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M14545
+		minister_of_intelligence = back_stabber
+		start_date = 2009.1.1
+	}
+	14546 = {
+		name = "Ray Henault"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M14546
+		chief_of_staff = air_superiority_doctrine
+		start_date = 2000.1.1
+	}
+	14547 = {
+		name = "Rick Hillier"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M14547
+		chief_of_staff = school_of_manoeuvre
+		start_date = 2005.1.1
+	}
+	14548 = {
+		name = "Walter Natynczyk"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M14548
+		chief_of_staff = school_of_manoeuvre
+		start_date = 2008.1.1
+	}
+	14549 = {
+		name = "Thomas J. Lawson"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M14549
+		chief_of_staff = air_superiority_doctrine
+		start_date = 2012.1.1
+	}
+	14550 = {
+		name = "Marquis Hainse"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M14550
+		chief_of_army = armoured_spearhead_doctrine
+		start_date = 2000.1.1
+	}
+	14551 = {
+		name = "Ken Pennie"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M14551
+		chief_of_air = air_superiority_doctrine
+		start_date = 2000.1.1
+	}
+	14552 = {
+		name = "Steve Lucas"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M14552
+		chief_of_air = logistics_specialist
+		start_date = 2005.1.1
+	}
+	14553 = {
+		name = "Angus Watt"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M14553
+		chief_of_air = logistics_specialist
+		start_date = 2007.1.1
+	}
+	14554 = {
+		name = "André Deschamps"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M14554
+		chief_of_air = air_to_ground_proponent
+		start_date = 2009.1.1
+	}
+	14555 = {
+		name = "Joseph Yvan Blondin"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M14555
+		chief_of_air = talented_recruiter
+		start_date = 2012.1.1
+	}
+	14556 = {
+		name = "Ronald Buck"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M14556
+		chief_of_navy = school_of_psychology
+		start_date = 2000.1.1
+	}
+	14557 = {
+		name = "Bruce McLean"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M14557
+		chief_of_navy = naval_aviation_doctrine
+		start_date = 2004.1.1
+	}
+	14558 = {
+		name = "Drew Robertson"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M14558
+		chief_of_navy = service_enforcer
+		start_date = 2006.1.1
+	}
+	14559 = {
+		name = "Dean McFadden"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M14559
+		chief_of_navy = guns_and_butter_doctrine
+		start_date = 2009.1.1
+	}
+	14560 = {
+		name = "Paul Maddison"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M14560
+		chief_of_navy = dismal_enigma
+		start_date = 2011.1.1
+	}
+	
+}

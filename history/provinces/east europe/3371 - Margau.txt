@@ -1,0 +1,8 @@
+owner = ROM
+controller = ROM
+add_core = ROM
+
+infra = 8
+
+air_base = 1 #Campia Turzii airbase
+points = 1

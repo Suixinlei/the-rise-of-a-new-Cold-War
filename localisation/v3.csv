@@ -1,0 +1,101 @@
+xxxx;;;;;;;;;;;;;;x
+LEDGER_STOCKPILE;返回仓库;Renvoy?es) en r閟erve;Wieder in Lager gebracht;;Devuelta a la reserva;;;;;;;;;x
+RES_SHIPPED_BACK;$VAL$返回了仓库。\n;$VAL$ renvoy?es) en r閟erve.\n;$VAL$ wieder in Lager gebracht.\n;;$VAL$ devueltas a la reserva.\n;;;;;;;;;x
+alert_national_decisions_instant;国家决议可用;National Decisions Available;Nationale Entscheidungen verf黦bar;;Hay decisiones nacionales disponibles;;;;;;;;;x
+alert_national_decisions_delayed;如下决议现在可用：\n$LIST$;The following decisions are available:\n$LIST$;Die folgenden Entscheidungen sind verf黦bar:\n$LIST$;;Est醤 disponibles las siguientes decisiones:\n$LIST$;;;;;;;;;x
+SUPPORT_ATTACK_DESC;支援攻击允许一个单位在不进入该省份的情况下支援对目标的进攻。;Une attaque de soutien permet ?une unit?de participer ?l'attaque d'une cible, sans se d閜lacer dans la province concern閑.;Ein Unterst黷zungsangriff erm鰃licht es einer Einheit, beim Angriff auf ein Ziel zu helfen, ohne sich in die entsprechende Provinz zu begeben.;;El ataque de apoyo permite a una unidad participar en el ataque contra una provincia sin desplazarse a ella;;;;;;;;;x
+EVTNAME2602;英王乔治五世之死;The Death of King George V;Der Tod von K鰊ig George V;;La muerte del Rey George V;;;;;;;;;x
+EVTDESC2602;英王乔治五世于1936年一月20日去世。乔治是一位在政治及\n社会经济方面表现活跃的国王。爱尔兰自由邦在他的统治下\n成立(1922)，并且在1926年大罢工中扮演了调停者的角色。\n他在位时期颁布的最为重要的法律也许应该是威斯敏斯特法\n案(1931)，这使自治领的议会可以不经伦敦皇家的同意而通\n过自己的法律。英联邦依然维系在一起效忠于皇室。乔治五\n世的继承人是他的儿子爱德华八世。;King George V of the United Kingdom passed away on January 20, 1936. King George was an active king on both the political and social-economic fronts. The Irish Free State was set up under his rule (1922) and he played a conciliatory role during the 1926 General Strike. Perhaps the most noteworthy legislation enacted under his reign was the Statute of Westminster (1931) which made it possible for Dominion parliaments to pass their own laws without royal assent from London. The Commonwealth remained linked through common allegiance to the Crown. King George V was succeeded by his son, Edward VIII.;K鰊ig George V des vereinigten K鰊igreiches starb am 20. Januar 1936. Er war sowohl an der politischen als auch an der sozial鰇onomischen Front aktiv. Der freie irische Staat wurde 1922 unter seiner Herrschaft errichtet und er nahm eine vermittelnde Rolle im Generalstreik von 1926 ein. Das vielleicht bemerkenswerteste Gesetz, das unter seiner Herrschaft verabschiedet wurde, war das Statut von Westminster (1931), das es den Parlamenten der Dominions erm鰃lichte, ihre eigenen Gesetze ohne Zustimmung aus London zu verabschieden. Durch die gemeinsame Treue zur Krone blieb das Commonwealth jedoch weiterhin verbunden. K鰊ig George V gab den Thron an seinen Sohn, Edward VIII. weiter.;;George V, Rey del Reino Unido falleci?el 20 de Enero de 1936. Fue un monarca activo tanto en pol韙ica como en temas socioecon髆icos. El Estado Libre Irland閟 se cre?durante su reinado (1922) y jug?un papel conciliador durante la Huelga General de 1926. Quiz醩 la ley m醩 notable de cuantas aprob?durante su reinado fue el Estatuto de Westmister (1931), que permiti?que los parlamentos de los Dominios pudieran aprobar sus propias leyes sin necesidad de ser aprobados por el Rey en Londres. La Commonwealth continu?unida por la com鷑 lealtad a la Corona Brit醤ica. George V fue sucedido por su hijo, Edward VIII.;;;;;;;;;x
+EVTOPTA2602;好的;OK;OK;;OK;;;;;;;;;x
+constitutional_monarchy;君主立宪制;Monarchie constitutionnelle;Konstitutionelle Monarchie;;Monarqu韆 constitucional;;;;;;;;;x
+constitutional_monarchy_ruler;国王;King;K鰊ig;;Rey;;;;;;;;;x
+north_germany_region;德国北部;Allemagne du Nord;Norddeutschland;;Alemania del norte;;;;;;;;;x
+western_poland_region;波兰西部;Pologne de l'Ouest;Westpolen;;Polonia del oeste;;;;;;;;;x
+superior_air_tactician;高级空军战术;Tacticien a閞ien sup閞ieur;躡erlegener Lufttaktiker;;T醕tico superior;;;;;;;;;x
+AirOrdersBtn_Point;选择一个省份为目标。;Vise une seule province.;W鋒lt eine einzelne Provinz als Zielbereich.;;Su objetivo es una sola provincia;;;;;;;;;x
+AirOrdersBtn_Region;选择一个地区为目标。;Vise une r間ion.;W鋒lt eine Region als Zielbereich.;;Su objetivo es una regi髇;;;;;;;;;x
+AirOrdersBtn_Circle;选择一个圈状区域为目标。;Vise une zone circulaire.;W鋒lt ein kreisf鰎miges Gebiet als Zielbereich.;;Su objetivo es una zona circular;;;;;;;;;x
+AirOrdersBtn_Conic;选择一个锥状区域为目标。;Vise une section conique.;W鋒lt ein kegelf鰎miges Gebiet als Zielbereich.;;Su objetivo es una zona c髇ica;;;;;;;;;x
+LEADER_COMMAND_SIZE;最高部队指挥数;Commandement max;Max. Befehl;;Mando m醲imo;;;;;;;;;x
+ENABLE_TECH;允许下列科技的研究：;Permettre de mener des recherches sur ;Erforschung erlauben von ;;Permite investigar;;;;;;;;;x
+NO_NEW_SPY;你的间谍已经被重新分配，\n你必须等到$DATE$\n才能再次对他们进行分配;Vos espions ont r閏emment 閠?r閍ffect閟. Pour modifier ?nouveau leur affectation, vous devez attendre la date suivante : $DATE$.;Ihre Spione haben vor kurzem erst neue Befehle erhalten, Sie m黶sen $DATE$ warten, bis Sie ihnen einen neuen Auftrag erteilen k鰊nen.;;Tus esp韆s se han reasignado hace poco. Debes esperar hasta el $DATE$ para volver a reasignarlos;;;;;;;;;x
+NO_MULTILOAD;这里没有足够的舰队来装载单位。;Aucune flotte n'est disponible pour ces unit閟.;Es gibt keine Flotte, in die diese Einheiten geladen werden k鰊nen.;;No hay ninguna flota para embarcar estas unidades;;;;;;;;;x
+TOTAL_LOAD_WILL_BE;这些单位的总重量为;Les unit閟 p鑣ent un total de;Die Einheit wiegt insgesamt;;Las unidades tienen un peso total de;;;;;;;;;x
+MUL_LOAD_ONTO;装载这些单位到;Charger ces unit閟 sur;Diese Einheiten laden auf;;Embarcar estas unidades en;;;;;;;;;x
+CURRENT_NUMBER_OF_DIVISIONS;(当前$CURRENT$)\n;(Actuellement : $CURRENT$)\n;(Im Moment $CURRENT$)\n;;(Actualmente $CURRENT$)\n;;;;;;;;x;
+NO_REPLACE_MINISTER;没有其他候选人。;Pas d'autres candidats.;Keine anderen Kandidaten;;No hay otros candidatos;;;;;;;;;x
+PROV_VIEW_MULTI;选择了多个省份($NUM$);S閘ections multiples ($NUM$);Mehrere ausgew鋒lt($NUM$);;Selecci髇 m鷏tiple ($NUM$);;;;;;;;;x
+UW_STRATDEPLOYMENT_DELAY;这个单位刚刚经过了战略转移，现在正在重组。\n在此后的$HOURS$小时内它无法执行其他命令。\n我们预计他们将于$DATE$准备好再次发动进攻。;Cette unit?a r閏emment fait l'objet d'un red閜loiement strat間ique et est encore en cours de r閛rganisation. Elle ne pourra ex閏uter aucun ordre pendant $HOURS$ heure(s). Nous esp閞ons qu'elle sera en mesure de participer ?une offensive ?la date suivante : $DATE$.;Diese Einheit hat ihre strategische Ausrichtung k黵zlich ge鋘dert und befindet sich noch in der Reorganisation. Sie kann $HOURS$ Stunde(n) lang keine Befehle ausf黨ren. Sie wird vermutlich in $DATE$ wieder f黵 Offensiven zur Verf黦ung stehen.;;La unidad acaba de realizar un redespliegue estrat間ico y est?reorganiz醤dose. Durante la(s) siguiente(s) $HOURS$ hora(s) no podr?conseguir 髍denes. Creemos que volver?a estar disponible para atacar el $DATE$.;;;;;;;;x;
+DIPLOEXPIRE_SETUP;当我们的外交影响过期;Lorsque l'un de nos accords diplomatiques expire;Wenn eines unserer diplomatischen Abkommen ausl鋟ft;;Al expirar uno de nuestros acuerdos diplom醫icos;;;;;;;;;x
+DIPLOEXPIRE_HEADER;$minister_of_foreign$ 报告;$foreign_minister$ d閏lare;erstattet $foreign_minister$ dem;;$foreign_minister$ informa;;;;;;;;;x
+DIPLOEXPIRE_1;$MONARCHTITLE$,;$MONARCHTITLE$,;$MONARCHTITLE$ Bericht.;;$MONARCHTITLE$,;;;;;;;;;x
+DIPLOEXPIRE_2;来自 $RECIPIENT$的大使;Un ambassadeur de $RECIPIENT$;Ein Botschafter von $RECIPIENT$;;Un embajador de $RECIPIENT$;;;;;;;;;x
+DIPLOEXPIRE_3;通知我们向;nous informe que nos tentatives de;hat uns in Kenntnis gesetzt, dass unsere Bem黨ungen, zu;;nos informa de que nuestros esfuerzos por;;;;;;;;;x
+DIPLOEXPIRE_4;$ACTION$的影响;$ACTION$;$ACTION$;;$ACTION$;;;;;;;;;x
+DIPLOEXPIRE_5;已经过期了。;ont expir?;abgelaufen sind.;*;ha expirado;*;*;;;;;;;x,,,,,,
+DIPLOEXPIRE_6;*;*;*;*;*;*;*;;;;;;;x,,,,,,
+DIPLOEXPIRE_LOG;我们停止了$ACTION$的努力。;Nous avons cess?toute tentative de $ACTION$.;Wir haben unsere Bem黨ungen zu $ACTION$ eingestellt.;;Hemos cesado en nuestros esfuerzos por $ACTION$.;;;;;;;;;x
+DIPLOEXPIRE_BTN1;好的;OK;OK;OK;Aceptar;OK;Rendben;OK;;;;;;x,,,,,,
+DIPLOEXPIRE_BTN2;好的;OK;OK;OK;Aceptar;OK;Rendben;OK;;;;;;x,,,,,,
+DIPLOEXPIRE_BTN3;查看;Go to;Gehe zu;Id?do;Ir a;Andare;Menj ide:;P鴈j韙 na;;;;;;x
+DIPLOEXPIRE_MAP;*;*;*;*;*;*;*;;;;;;;x
+DIPLOEXPIRE_ALIGN;靠向$FACTION$;S'aligner avec $FACTION$;Mit $FACTION$ ausrichten;;Alinearse con la facci髇: $FACTION$;;;;;;;;;x
+LIMITED_WARDESC;有限战争不会强求你的盟友同样宣战。;Une guerre limit閑 n'obligera pas vos alli閟 ?d閏larer la guerre.;Ein begrenzter Krieg zwingt Ihre Verb黱deten nicht dazu, ebenfalls eine Kriegserkl鋜ung abzugeben.;;Una guerra limitada no obligar?a tus aliados a declarar la guerra;;;;;;;;;x
+SLIDER_LOCKED_TOOLTIP;已锁定，右击鼠标解除锁定。;Verrouill? Faites un clic droit pour d関errouiller.;Gesperrt, entsperren mit Rechtsklick.;;Bloqueado, haz clic derecho para desbloquear;;;;;;;;;x
+SLIDER_UNLOCKED_TOOLTIP;右击鼠标以锁定。;Faites un clic droit pour verrouiller.;Rechtsklick zum Sperren.;;Haz clic derecho para bloquear;;;;;;;;;x
+IS_BOUGHT_WITH_DEBT;债务用于此项交易。;La dette est utilis閑 pour cet accord.;F黵 diesen Vorgang ist eine Schuldenaufnahme erforderlich.;;En este acuerdo se utiliza la deuda;;;;;;;;;x
+DETECTED_SPY_ACTIONS;我们已经侦查到活跃于我国境内的外国间谍。;Nous avons rep閞?une activit?d'espionnage 閠rang鑢e dans notre pays.;Wir haben ausl鋘dische Spionageaktivit鋞en in unserem Land entdeckt.;;Hemos detectado esp韆s enemigos en nuestro pa韘;;;;;;;;;x
+HOSTILE_SPY_ACTION;敌对行动;Action hostile;Feindliche Aktivit鋞en;;Acci髇 hostil;;;;;;;;;x
+FRIENDLY_SPY_ACTION;友好行动;Action amie;Verb黱dete Aktivit鋞en;;Acci髇 amistosa;;;;;;;;;x
+EVTNAME2603;爱德华八世退位;The Abdication of Edward VIII;Die Abdankung Edwards VIII;;La abdicaci髇 de Edward VIII;;;;;;;;;x
+EVTDESC2603;在成为国王以前，爱德华八世过着美好的生活。1934年，他\n在一系列公务之前爱上了一位已婚美国女子瓦丽丝·辛普森\n女士。爱德华八世于1936年一月登上了联合王国的王座。不\n久后，辛普森女士与前夫离婚了，并且爱德华也开始明确表\n示希望与她结婚。首相斯坦利·鲍德温试图以这桩婚事——\n辛普森女士此前已经离婚过一次了——将对皇室统治带来的\n破坏来说服爱德华，但他的努力失败了。所有尝试劝阻国王\n的努力都失败了，在1936年十二月三日，这场危机为公众所\n知。一周以后，爱德华八世退位并由他的兄弟阿伯特继位，\n即是乔治六世。爱德华成为温莎公爵并于1937年与瓦丽丝·\n辛普森成婚。;Even before he became king, Edward VIII lived the good life. He'd already had a number of affairs before falling in love with a married American woman, Mrs Wallis Simpson, in 1934. Edward VIII ascended to the throne of the United Kingdom in January 1936. Soon afterward, Mrs Simpson obtained a divorce from her former husband and Edward's intent to marry her became clear. Prime Minister Stanley Baldwin tried to convince Edward of the damage the marriage would cause to the monarchy - Mrs Simpson already divorced once before - but his attempts failed. All further efforts to dissuade the King were fruitless, and on December 3, 1936, the crisis became public knowledge. A week later, Edward VIII abdicated and was succeeded by his brother Albert, who took the name of George VI. Edward was made Duke of Windsor and married Wallis Simpson in 1937.;Auch bevor er K鰊ig wurde, hatte Edward VIII ein gutes Leben. Er hatte bereits einige Aff鋜en, bevor er sich 1934 in eine verheiratete amerikanische Frau verliebte, Mrs Wallis Simpson. Edward VIII bestieg den britischen Thron im Januar 1936. Kurz darauf liess sich Mrs Simpson von ihrem Ehemann scheiden und die Heiratsabsicht des K鰊igs wurde deutlich. Premierminister Stanley Baldwin versuchte, Edward von dem Schaden f黵 die Monarchie zu 黚erzeugen, den diese - f黵 Simpson bereits die dritte - Hochzeit anrichten w黵de, jedoch vergebens. Alle weiteren Versuche, den K鰊ig von seinem Vorhaben abzubringen waren nutzlos, und so gelang die Krise am 3. Dezember 1936 an die 謋fentlichkeit. Eine Woche sp鋞er dankte Edward VIII ab und wurde von seinem Bruder Albert ersetzt, welcher den Namen George VI annahm. Edward wurde Duke von Windsor und heiratete Wallis Simpson 1937.;;Incluso antes de convertirse en Rey, Edward VIII era un vividor. Ya hab韆 tenido un buen n鷐ero de affairs antes de enamorarse de una mujer norteamericana casada, la Sra. Wallis Simpson, en 1934. Edward VIII ascendi?al trono del Reino Unido en Enero de 1936. Cuando poco despu閟, la Sra. Simpson obtuvo el divorcio de su anterior marido, qued?claro que Edward ten韆 intenci髇 de casarse con ella. El Primer Ministro Stanley Baldwin trat?hacerle ver el da駉 que ese matrimonio causar韆 a la monarqu韆 - la Sra. Simpson ya se hab韆 divorciado una vez antes - pero fracas?en su intento. Todos los posteriores intentos de disuadir al monarca fueron infructuosos, y el 3 Diciembre de 1936, la crisis se hizo de dominio p鷅lico. Una semana m醩 tarde, Edward VIII abdic?y fue sucedido por su hermano Albert, que tom?el nombre de George VI. Edward fue nombrado Duque de Windsor y se cas?con Wallis Simpson en 1937.;;;;;;;;;x
+EVTOPTA2603;好的;OK;OK;;Aceptar;;;;;;;;;x
+UNITARRIVED_LAND_SETUP;当我们的一个陆军单位到达了它的目的地;Lorsque l'une de nos unit閟 terrestres arrive ?destination;Wenn eine unserer Landeinheiten ihr Ziel erreicht, ;;Al llegar a su destino una de nuestras unidades terrestres;;;;;;;;;x
+UNITARRIVED_LAND_HEADER;$minister_of_defence$ 报告;$chief_of_staff$ d閏lare;erstattet der $chief_of_staff$ Bericht;;$chief_of_staff$ informa;;;;;;;;;x
+UNITARRIVED_LAND_1;$TYPE$ 到达了！;$TYPE$ arriv?e) !;$TYPE$ eingetroffen!;;?TYPE$ ha llegado!;;;;;;;;;x
+alert_mobilized_in_peace_instant;国家在和平时期发起了动员!;Le pays est mobilis?en temps de paix !;Country mobilisiert in Friedenszeiten!;;¨RCountry se ha movilizado en tiempo de paz!;;;;;;;;;x
+alert_mobilized_in_peace_delayed;动员会付出高昂的代价。;La mobilisation co鹴e tr鑣 cher.;Eine Mobilisierung ist 鋟遝rst kostspielig.;;La movilizaci髇 es muy costosa.;;;;;;;;;x
+DCG_REINFORCE_BONUS;所有的增援已经因初步动员而加成了$VAL$。;Tous les renforts sont multipli閟 par $VAL$ ?partir de la mobilisation initiale.;Alle Verst鋜kungseinheiten werden gegen黚er der urspr黱glichen Mobilisierung um den Wert $VAL$ vervielfacht.;;Todos los refuerzos se multiplican por $VAL$ por la movilizaci髇 inicial;;;;;;;;;x
+POL_MOBILIZE_DRO_V2;这样做的好处是让我们的后备部队兵力逐步增加到正常的标\n准，相应的消费品生产的需求也变得更多了。同时它也给所\n有的后备部队提供了$DAYS$天的奖励。\n;L'avantage est que nos troupes de r閟erve vont progressivement se renforcer tandis que la demande de biens de consommation produits augmentera. Tous les renforts b閚閒icieront 間alement d'un bonus pendant $DAYS$ jours.;So gewinnen unsere Reservetruppen langsam an St鋜ke, bis sie eine regul鋜e Stufe erreicht haben. Gleichzeitig wird die Nachfrage nach produzierten Konsumg黷ern angekurbelt. Au遝rdem erhalten alle Verst鋜kungseinheiten $DAYS$ Tage lang einen Bonus.;;Esto tiene la ventaja de que las tropas de reserva aumentar醤 lentamente su fuerza hasta alcanzar los niveles regulares, pero tambi閚 aumentar?la demanda de bienes de consumo. Adem醩, proporcionar?una bonificaci髇 a los refuerzos durante $DAYS$ d韆s.;;;;;;;;;x
+UW_MOBILIZED_RESERVE_INFO;这是个预备役单位。它已被动员并将兵力补充到上限。;Cette unit?est une unit?de r閟erve. Elle est mobilis閑 et va se renforcer au maximum.;Diese Einheit ist eine Reserveeinheit. Sie ist mobilisiert und wird durch Verst鋜kungseinheiten auf die volle St鋜ke gebracht.;;Esta es una unidad de reserva. Est?movilizada y se ir?reforzando hasta alcanzar su fuerza completa.;;;;;;;;;x
+NO_WAR_MILITARY_ACCESS;拥有军事通行权时无法开始一场战争。;Impossible de d閏lencher une guerre avec un acc鑣 militaire.;Ohne Milit鋜zugriff kann kein Krieg gef黨rt werden.;;No se puede iniciar una guerra teniendo acceso militar.;;;;;;;;;x
+UNITARRIVED_LAND_2;我们的 $TYPE$ ;notre $TYPE$ de;Unsere $TYPE$-Einheit;;nuestra unidad de $TYPE$ de;;;;;;;;;x
+UNITARRIVED_LAND_3;$NAME$;$NAME$;$NAME$;;$NAME$;;;;;;;;;x
+UNITARRIVED_LAND_4;已经安全到达了;est bien arriv?e) en;ist sicher eingetroffen in;;ha llegado a;;;;;;;;;x
+UNITARRIVED_LAND_5;$PROV$;$PROV$;$PROV$;;$PROV$;;;;;;;;;x
+UNITARRIVED_LAND_6;他们在等待进一步的命令;Attend les ordres;Sie erwarten weitere Befehle.;;Est?esperando nuevas 髍denes;;;;;;;;;x
+UNITARRIVED_LAND_LOG;$NAME$ 到达了 $PROV$;$NAME$ est arriv?e) en $PROV$;$NAME$ ist in $PROV$ eingetroffen;;$NAME$ ha llegado a $PROV$;;;;;;;;;x
+UNITARRIVED_LAND_BTN1;好的;OK;OK;;Aceptar;;;;;;;;;x
+UNITARRIVED_LAND_BTN2;好的;OK;OK;;Aceptar;;;;;;;;;x
+UNITARRIVED_LAND_BTN3;查看;ALLER A;GEHE ZU;;Ir a;;;;;;;;;x
+UNITARRIVED_LAND_MAP;*;*;*;;*;;;;;;;;;x
+UNITARRIVED_NAVAL_SETUP;当我们的一个海军单位到达了它的目的地;Lorsque l'une de nos unit閟 navales arrive ?destination;Wenn eine unserer Marineeinheiten ihr Ziel erreicht, ;;Al llegar a su destino una de nuestras unidades navales;;;;;;;;;x
+UNITARRIVED_NAVAL_HEADER;$minister_of_defence$ 报告;$chief_of_staff$ d閏lare;erstattet der $chief_of_staff$ Bericht;;$chief_of_staff$ informa;;;;;;;;;x
+UNITARRIVED_NAVAL_1;$TYPE$ 到达了！;$TYPE$ arriv?e) !;$TYPE$ eingetroffen!;;?TYPE$ ha llegado!;;;;;;;;;x
+UNITARRIVED_NAVAL_2;我们的 $TYPE$ ;notre $TYPE$ de;Unsere $TYPE$-Einheit;;nuestra unidad de $TYPE$ de;;;;;;;;;x
+UNITARRIVED_NAVAL_3;$NAME$;$NAME$;$NAME$;;$NAME$;;;;;;;;;x
+UNITARRIVED_NAVAL_4;已经安全到达了;est bien arriv?e) en;ist sicher eingetroffen in;;ha llegado a;;;;;;;;;x
+UNITARRIVED_NAVAL_5;$PROV$;$PROV$;$PROV$;;$PROV$;;;;;;;;;x
+UNITARRIVED_NAVAL_6;他们在等待进一步的命令;Attend les ordres;Sie erwarten weitere Befehle.;;Est?esperando nuevas 髍denes;;;;;;;;;x
+UNITARRIVED_NAVAL_LOG;$NAME$ 到达了 $PROV$;$NAME$ est arriv?e) en $PROV$;$NAME$ ist in $PROV$ eingetroffen;;$NAME$ ha llegado a $PROV$;;;;;;;;;x
+UNITARRIVED_NAVAL_BTN1;好的;OK;OK;;Aceptar;;;;;;;;;x
+UNITARRIVED_NAVAL_BTN2;好的;OK;OK;;Aceptar;;;;;;;;;x
+UNITARRIVED_NAVAL_BTN3;查看;ALLER A;GEHE ZU;;Ir a;;;;;;;;;x
+UNITARRIVED_NAVAL_MAP;*;*;*;;*;;;;;;;;;x
+UNITARRIVED_AIR_SETUP;当我们的一个空军单位到达了它的目的地;Lorsque l'une de nos unit閟 a閞ienne arrive ?destination;Wenn eine unserer Lufteinheiten ihr Ziel erreicht, ;;Al llegar a su destino una de nuestras unidades a閞eas;;;;;;;;;x
+UNITARRIVED_AIR_HEADER;$minister_of_defence$ 报告;$chief_of_staff$ d閏lare;erstattet der $chief_of_staff$ Bericht;;$chief_of_staff$ informa;;;;;;;;;x
+UNITARRIVED_AIR_1;$TYPE$ 到达了！;$TYPE$ arriv?e) !;$TYPE$ eingetroffen!;;?TYPE$ ha llegado!;;;;;;;;;x
+UNITARRIVED_AIR_2;我们的 $TYPE$ ;notre $TYPE$ de;Unsere $TYPE$-Einheit;;nuestra unidad de $TYPE$ de;;;;;;;;;x
+UNITARRIVED_AIR_3;$NAME$;$NAME$;$NAME$;;$NAME$;;;;;;;;;x
+UNITARRIVED_AIR_4;已经安全到达了;est bien arriv?e) en;ist sicher eingetroffen in;;ha llegado a;;;;;;;;;x
+UNITARRIVED_AIR_5;$PROV$;$PROV$;$PROV$;;$PROV$;;;;;;;;;x
+UNITARRIVED_AIR_6;他们在等待进一步的命令;Attend les ordres;Sie erwarten weitere Befehle.;;Est?esperando nuevas 髍denes;;;;;;;;;x
+UNITARRIVED_AIR_LOG;$NAME$ 到达了 $PROV$;$NAME$ est arriv?e) en $PROV$;$NAME$ ist in $PROV$ eingetroffen;;$NAME$ ha llegado a $PROV$;;;;;;;;;x
+UNITARRIVED_AIR_BTN1;好的;OK;OK;;Aceptar;;;;;;;;;x
+UNITARRIVED_AIR_BTN2;好的;OK;OK;;Aceptar;;;;;;;;;x
+UNITARRIVED_AIR_BTN3;查看;ALLER A;GEHE ZU;;Ir a;;;;;;;;;x
+UNITARRIVED_AIR_MAP;*;*;*;;*;;;;;;;;;x
+RELEASE_VASSAL_EFFECT;$TARGET$已经不再是一个傀儡国了。\n;$TARGET$ ne sera plus une marionnette.\n;$TARGET$ ist keine Marionette mehr.\n;;$TARGET$ no seguir?siendo un t韙ere.\n;;;;;;;;;x
+EVTNAME521;国家重建;Restructuration nationale;Nationale Umstrukturierung;;Reestructuraci髇 nacional;;;;;;;;;x
+EVTOPTA521;……等它结束;... et c'est fini;... und so endet es;;?y as?termina;;;;;;;;;x
+RES_INTO_NET;$VAL$纳入运输网。\n;$VAL$ into network.\n;$VAL$ into network.\n;;$VAL$ into network.\n;;;;;;;;;x

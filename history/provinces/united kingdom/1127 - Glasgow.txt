@@ -1,0 +1,12 @@
+owner = ENG
+controller = ENG
+add_core = ENG
+add_core = SCO
+infra = 9
+industry = 10
+manpower = 0.5
+energy = 5.00
+air_base = 2 #Glasgow airport
+naval_base = 7 #Glasgow port
+points = 1
+leadership = 1.00

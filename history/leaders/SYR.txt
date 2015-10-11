@@ -1,0 +1,829 @@
+157001 = {
+	name = "Abrash"
+	country = SYR
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = SYR1
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+157002 = {
+	name = "al-Aslan"
+	country = SYR
+	type = land
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = SYR2
+	add_trait = old_guard
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+157003 = {
+	name = "al-Fiqri"
+	country = SYR
+	type = land
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = SYR3
+	add_trait = trickster
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+157004 = {
+	name = "Akil Hashem"
+	country = SYR
+	type = land
+	skill = 3
+	max_skill = 6
+	loyalty = 1.00
+	picture = SYR4
+	add_trait = fortress_buster
+	history = {
+		2000.1.1 = { rank = 2 }
+	}
+}
+157005 = {
+	name = "al-Quawugji"
+	country = SYR
+	type = land
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = SYR5
+	add_trait = assaulter
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+157006 = {
+	name = "al-Shishakli"
+	country = SYR
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = SYR6
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+157007 = {
+	name = "al-Zaim"
+	country = SYR
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = SYR7
+	add_trait = improvisation
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+157008 = {
+	name = "Abdelaziz"
+	country = SYR
+	type = land
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = SYR8
+	add_trait = panzer_leader
+	add_trait = trainer
+	history = {
+		2000.1.1 = { rank = 3 }
+	}
+}
+157009 = {
+	name = "al-Ballarin"
+	country = SYR
+	type = land
+	skill = 0
+	max_skill = 4
+	loyalty = 1.00
+	picture = SYR9
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+157010 = {
+	name = "Vahidi"
+	country = SYR
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = SYR10
+	add_trait = logistics_wizard
+	history = {
+		2000.1.1 = { rank = 2 }
+	}
+}
+157011 = {
+	name = "al-Awaji"
+	country = SYR
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = SYR11
+	add_trait = frontline_soldier
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+157012 = {
+	name = "al-Wawi"
+	country = SYR
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = SYR12
+	add_trait = offensive_doctrine
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+157013 = {
+	name = "Bashar"
+	country = SYR
+	type = land
+	skill = 1
+	max_skill = 7
+	loyalty = 1.00
+	picture = SYR13
+	add_trait = defensive_doctrine
+	add_trait = frontline_soldier
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+157014 = {
+	name = "al-Fahd"
+	country = SYR
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = SYR14
+	add_trait = commando
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+157015 = {
+	name = "al-Khawli"
+	country = SYR
+	type = land
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = SYR15
+	add_trait = engineer
+	add_trait = versatile
+	history = {
+		2000.1.1 = { rank = 3 }
+	}
+}
+157016 = {
+	name = "Mustafa"
+	country = SYR
+	type = land
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = SYR16
+	add_trait = engineer
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+157017 = {
+	name = "al-Jordan"
+	country = SYR
+	type = land
+	skill = 1
+	max_skill = 4
+	loyalty = 1.00
+	picture = SYR17
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+157018 = {
+	name = "al-Mangin"
+	country = SYR
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = SYR18
+	add_trait = landlubber
+	add_trait = old_guard
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+157019 = {
+	name = "al-Alepp"
+	country = SYR
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = SYR19
+	add_trait = panzer_leader
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+157020 = {
+	name = "Joumaa"
+	country = SYR
+	type = land
+	skill = 4
+	max_skill = 9
+	loyalty = 1.00
+	picture = SYR20
+	add_trait = panzer_leader
+	add_trait = hard_defender
+	history = {
+		2000.1.1 = { rank = 4 }
+	}
+}
+157021 = {
+	name = "al-Salvat"
+	country = SYR
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = SYR21
+	add_trait = panzer_leader
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+157022 = {
+	name = "Sharba"
+	country = SYR
+	type = land
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = SYR22
+	add_trait = panzer_leader
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+157023 = {
+	name = "al-Damasc"
+	country = SYR
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 1.00
+	picture = SYR23
+	add_trait = commando
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+157024 = {
+	name = "Tourkmani"
+	country = SYR
+	type = land
+	skill = 0
+	max_skill = 6
+	loyalty = 1.00
+	picture = SYR24
+	add_trait = versatile
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+157025 = {
+	name = "Attasi"
+	country = SYR
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 1.00
+	picture = SYR25
+	add_trait = landing_specialist
+	add_trait = commando
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+157026 = {
+	name = "Abrash"
+	country = SYR
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = SYR26
+	add_trait = landing_specialist
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+157027 = {
+	name = "al-Gawzi"
+	country = SYR
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = SYR27
+	add_trait = marine
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+157028 = {
+	name = "Addem"
+	country = SYR
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = SYR28
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+157029 = {
+	name = "al-Shishakli"
+	country = SYR
+	type = land
+	skill = 2
+	max_skill = 8
+	loyalty = 1.00
+	picture = SYR29
+	add_trait = versatile
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+157030 = {
+	name = "Amiel"
+	country = SYR
+	type = land
+	skill = 2
+	max_skill = 8
+	loyalty = 1.00
+	picture = SYR30
+	add_trait = frontline_soldier
+	history = {
+		2000.1.1 = { rank = 2 }
+	}
+}
+157031 = {
+	name = "al-Agha"
+	country = SYR
+	type = land
+	skill = 2
+	max_skill = 8
+	loyalty = 1.00
+	picture = SYR31
+	add_trait = hard_defender
+	history = {
+		2000.1.1 = { rank = 2 }
+	}
+}
+157032 = {
+	name = "al-Assad"
+	country = SYR
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 1.00
+	picture = SYR32
+	add_trait = marine
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+157033 = {
+	name = "al-Mahainy"
+	country = SYR
+	type = land
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = SYR33
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+157034 = {
+	name = "Johani"
+	country = SYR
+	type = land
+	skill = 0
+	max_skill = 4
+	loyalty = 1.00
+	picture = SYR34
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+157035 = {
+	name = "Silu"
+	country = SYR
+	type = land
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = SYR35
+	add_trait = defensive_doctrine
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+157036 = {
+	name = "Hinnawi"
+	country = SYR
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = SYR36
+	add_trait = logistics_wizard
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+157037 = {
+	name = "al-Razi"
+	country = SYR
+	type = land
+	skill = 2
+	max_skill = 4
+	loyalty = 1.00
+	picture = SYR37
+	history = {
+		2000.1.1 = { rank = 2 }
+	}
+}
+157038 = {
+	name = "al-Utari"
+	country = SYR
+	type = land
+	skill = 2
+	max_skill = 8
+	loyalty = 1.00
+	picture = SYR38
+	add_trait = panzer_leader
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+157039 = {
+	name = "Hussain"
+	country = SYR
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = SYR39
+	add_trait = commando
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+157040 = {
+	name = "Hussaini"
+	country = SYR
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = SYR40
+	add_trait = versatile
+	add_trait = landing_specialist
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+157041 = {
+	name = "Homsi"
+	country = SYR
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = SYR41
+	add_trait = commando
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+157042 = {
+	name = "Khoury"
+	country = SYR
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = SYR42
+	add_trait = landing_specialist
+	history = {
+		2000.1.1 = { rank = 2 }
+	}
+}
+157043 = {
+	name = "Kuzbari"
+	country = SYR
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = SYR43
+	add_trait = engineer
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+157044 = {
+	name = "Nahas"
+	country = SYR
+	type = land
+	skill = 3
+	max_skill = 6
+	loyalty = 1.00
+	picture = SYR44
+	history = {
+		2000.1.1 = { rank = 2 }
+	}
+}
+157045 = {
+	name = "Nahhas"
+	country = SYR
+	type = land
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = SYR45
+	add_trait = versatile
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+157046 = {
+	name = "Najjar"
+	country = SYR
+	type = land
+	skill = 2
+	max_skill = 8
+	loyalty = 1.00
+	picture = SYR46
+	add_trait = frontline_soldier
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+157047 = {
+	name = "Semaan"
+	country = SYR
+	type = land
+	skill = 1
+	max_skill = 8
+	loyalty = 1.00
+	picture = SYR47
+	add_trait = hard_defender
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+157048 = {
+	name = "Sim'an"
+	country = SYR
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = SYR48
+	add_trait = fortress_buster
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+157049 = {
+	name = "Shaaban"
+	country = SYR
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 1.00
+	picture = SYR49
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+157050 = {
+	name = "Chaaban"
+	country = SYR
+	type = land
+	skill = 3
+	max_skill = 9
+	loyalty = 1.00
+	picture = SYR50
+	add_trait = panzer_leader
+	add_trait = fortress_buster
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+157051 = {
+	name = "Manaf Tlas"
+	country = SYR
+	type = land
+	skill = 4
+	max_skill = 9
+	loyalty = 1.00
+	picture = SYR51
+	add_trait = trickster
+	add_trait = panzer_leader
+	history = {
+		2000.1.1 = { rank = 3 }
+	}
+}
+157052 = {
+	name = "al-Khalidi"
+	country = SYR
+	type = air
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = SYR52
+	add_trait = tank_buster
+	add_trait = superior_air_tactician
+	history = {
+		2000.1.1 = { rank = 4 }
+	}
+}
+157053 = {
+	name = "al-Razi"
+	country = SYR
+	type = air
+	skill = 2
+	max_skill = 4
+	loyalty = 1.00
+	picture = SYR53
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+157054 = {
+	name = "Abrash"
+	country = SYR
+	type = air
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = SYR54
+	add_trait = night_flyer
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+157055 = {
+	name = "al-Gawzi"
+	country = SYR
+	type = air
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = SYR55
+	add_trait = fleet_destroyer
+	history = {
+		2000.1.1 = { rank = 2 }
+	}
+}
+157056 = {
+	name = "Bitar"
+	country = SYR
+	type = air
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = SYR56
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+157057 = {
+	name = "Harmoush"
+	country = SYR
+	type = air
+	skill = 1
+	max_skill = 8
+	loyalty = 1.00
+	picture = SYR57
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+157058 = {
+	name = "Omar"
+	country = SYR
+	type = air
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = SYR58
+	add_trait = carpet_bomber
+	add_trait = tank_buster
+	history = {
+		2000.1.1 = { rank = 2 }
+	}
+}
+157059 = {
+	name = "al-Agha"
+	country = SYR
+	type = sea
+	skill = 2
+	max_skill = 8
+	loyalty = 1.00
+	picture = SYR59
+	add_trait = blockade_runner
+	history = {
+		2000.1.1 = { rank = 2 }
+	}
+}
+157060 = {
+	name = "al-Aslan"
+	country = SYR
+	type = sea
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = SYR60
+	add_trait = old_guard
+	add_trait = seawolf
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+157061 = {
+	name = "al-Fiqri"
+	country = SYR
+	type = sea
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = SYR61
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+157062 = {
+	name = "al-Hashem"
+	country = SYR
+	type = sea
+	skill = 3
+	max_skill = 6
+	loyalty = 1.00
+	picture = SYR62
+	add_trait = superior_tactician
+	history = {
+		2000.1.1 = { rank = 3 }
+	}
+}
+157063 = {
+	name = "al-Quawugji"
+	country = SYR
+	type = sea
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = SYR63
+	add_trait = seawolf
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+157064 = {
+	name = "al-Shishakli"
+	country = SYR
+	type = sea
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = SYR64
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}

@@ -1,0 +1,7 @@
+owner = DRC
+controller = DRC
+add_core = DRC
+add_core = ZAM
+manpower = 10.00
+infra = 6
+rare_materials = 3.00

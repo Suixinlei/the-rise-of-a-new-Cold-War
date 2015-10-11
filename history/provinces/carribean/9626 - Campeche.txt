@@ -1,0 +1,9 @@
+owner = MEX
+controller = MEX
+add_core = MEX
+
+
+infra = 4
+naval_base = 2 #Campeche port
+leadership = 2.50
+points = 1

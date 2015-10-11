@@ -1,0 +1,13 @@
+owner = EGY
+controller = EGY
+add_core = EGY
+manpower = 2.00
+infra = 7
+industry = 6
+crude_oil = 15.00
+energy = 17.00
+metal = 5.00
+rare_materials = 5.00
+naval_base = 7 #Aleksandia port
+leadership = 1.00
+points = 1

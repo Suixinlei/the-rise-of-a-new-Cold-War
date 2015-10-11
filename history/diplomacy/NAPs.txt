@@ -1,0 +1,117 @@
+#Coded by WKIII for YAMDaM.
+#Israel + Jordan
+#http://en.wikipedia.org/wiki/Israel%E2%80%93Jordan_peace_treaty
+nap = {
+	first = ISR
+	second = JOR
+	start_date = 1994.10.29
+	end_date = 9999.9.9
+}
+#===NATO NAPs
+#http://en.wikipedia.org/wiki/Partnership_for_Peace
+#Switzerland
+nap = {
+	first = SCH
+	second = GER
+	start_date = 1111.1.1
+	end_date = 9999.9.9
+}
+nap = {
+	first = SCH
+	second = ITA
+	start_date = 1111.1.1
+	end_date = 9999.9.9
+}
+nap = {
+	first = SCH
+	second = FRA
+	start_date = 1111.1.1
+	end_date = 9999.9.9
+}
+#Austria
+nap = {
+	first = AUS
+	second = GER
+	start_date = 1111.1.1
+	end_date = 9999.9.9
+}
+nap = {
+	first = AUS
+	second = ITA
+	start_date = 1111.1.1
+	end_date = 9999.9.9
+}
+nap = {
+	first = AUS
+	second = CZE
+	start_date = 1111.1.1
+	end_date = 9999.9.9
+}
+nap = {
+	first = AUS
+	second = HUN
+	start_date = 1111.1.1
+	end_date = 9999.9.9
+}
+nap = {
+	first = AUS
+	second = SLO
+	start_date = 1111.1.1
+	end_date = 9999.9.9
+}
+nap = {
+	first = AUS
+	second = SLV
+	start_date = 1111.1.1
+	end_date = 9999.9.9
+}
+#Ireland
+nap = {
+	first = IRE
+	second = ENG
+	start_date = 1111.1.1
+	end_date = 9999.9.9
+}
+#Sweden
+nap = {
+	first = SWE
+	second = NOR
+	start_date = 1111.1.1
+	end_date = 9999.9.9
+}
+#Finland
+nap = {
+	first = FIN
+	second = NOR
+	start_date = 1111.1.1
+	end_date = 9999.9.9
+}
+#Malta
+nap = {
+	first = MLT
+	second = ITA
+	start_date = 1111.1.1
+	end_date = 9999.9.9
+}
+#===End of NATO NAPs
+#Australia + New Zealand
+nap = {
+	first = AST
+	second = NZL
+	start_date = 1111.1.1
+	end_date = 9999.9.9
+}
+#USA + Canada
+nap = {
+	first = USA
+	second = CAN
+	start_date = 1111.1.1
+	end_date = 9999.9.9
+}
+#USA + UK
+nap = {
+	first = USA
+	second = ENG
+	start_date = 1111.1.1
+	end_date = 9999.9.9
+}

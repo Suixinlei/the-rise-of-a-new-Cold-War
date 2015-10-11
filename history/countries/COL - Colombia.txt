@@ -1,0 +1,40 @@
+capital = 9930
+government = republic
+ideology = social_democrat
+alignment = { x = 0 y = 10 }
+neutrality = 80
+national_unity = 80
+oob = "COL_2000.txt"
+
+popularity = { 
+	national_socialist = 0
+	fascistic = 0
+	paternal_autocrat = 1
+	social_conservative = 11
+	market_liberal = 4
+	social_liberal = 2
+	social_democrat = 31
+	left_wing_radical = 0
+	leninist = 0
+	stalinist = 20
+}
+
+organization = { 
+	national_socialist = 0
+	fascistic = 0
+	paternal_autocrat = 3
+	social_conservative = 33
+	market_liberal = 12
+	social_liberal = 6
+	social_democrat = 93
+	left_wing_radical = 0
+	leninist = 0
+	stalinist = 60
+}
+
+conscription_policy = military_service
+press_laws = free_press
+mobilisation_level = l_mobilisation
+civil_laws = open_society
+economic_policy = lais_fair
+service_length = eighteen_months

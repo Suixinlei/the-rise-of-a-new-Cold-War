@@ -1,0 +1,41 @@
+theatre = {
+	name = "Military of Moldova"
+	location = 3038
+	regiment = { type = hq_brigade name = "High Command HQ" historical_model = 1 }
+	corps = {
+		name = "Ground Forces"
+		location = 3038
+		regiment = { type = hq_brigade name = "Ground Forces HQ" historical_model = 1 }
+		division = {
+			is_reserve = yes
+			name = "1st Infantry Brigade 'Moldova'"
+			location = 3172
+			regiment = { type = infantry_brigade name = "1st Battalion" historical_model = 1 }
+			regiment = { type = infantry_brigade name = "2nd Battalion" historical_model = 1 }
+			regiment = { type = infantry_brigade name = "3rd Battalion" historical_model = 1 }
+		}
+		division = {
+			is_reserve = yes
+			name = "2nd Infantry Brigade 'Stefan Cel Mare'"
+			location = 3038
+			regiment = { type = infantry_brigade name = "1st Battalion" historical_model = 1 }
+			regiment = { type = infantry_brigade name = "2nd Battalion" historical_model = 1 }
+			regiment = { type = infantry_brigade name = "3rd Battalion" historical_model = 1 }
+		}
+		division = {
+			is_reserve = yes
+			name = "3rd Infantry Brigade 'Dacia'"
+			location = 3307
+			regiment = { type = infantry_brigade name = "1st Battalion" historical_model = 1 }
+			regiment = { type = infantry_brigade name = "2nd Battalion" historical_model = 1 }
+			regiment = { type = infantry_brigade name = "3rd Battalion" historical_model = 1 }
+		}
+	}
+	
+	air = {
+		name = "Fighter Wing"
+		base = 3172
+		location = 3172
+		wing = { type = interceptor name = "Fighter Wing" historical_model = 0 }
+	}
+}

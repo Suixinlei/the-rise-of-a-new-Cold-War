@@ -1,0 +1,55 @@
+capital = 6378
+government = constitutional_monarchy
+ideology = social_conservative
+alignment = { x = 0 y = 50 }
+neutrality = 80
+head_of_state = 100001 
+head_of_government = 100002 
+foreign_minister = 100004 
+armament_minister = 100003 
+minister_of_security = 100008  
+minister_of_intelligence = 100006 
+chief_of_staff = 100007 
+chief_of_army = 100005 
+chief_of_navy = 100005 
+chief_of_air = 100005 
+national_unity = 70
+oob = "MLY_2000.txt"
+
+popularity = { 
+	national_socialist = 15
+	fascistic = 0
+	paternal_autocrat = 0
+	social_conservative = 27
+	market_liberal = 2
+	social_liberal = 0
+	social_democrat = 13
+	left_wing_radical = 1
+	leninist = 0
+	stalinist = 0
+}
+
+organization = { 
+	national_socialist = 45
+	fascistic = 0
+	paternal_autocrat = 0
+	social_conservative = 81
+	market_liberal = 6
+	social_liberal = 0
+	social_democrat = 39
+	left_wing_radical = 3
+	leninist = 0
+	stalinist = 0
+}
+
+conscription_policy = volunteer_army
+press_laws = state_press
+mobilisation_level = peace_time
+civil_laws = open_society
+economic_policy = limit_intervention
+service_length = six_months
+
+weapon_design = 1
+automatic_weapons = 1
+artillery_troops = 1
+anti_armor = 1

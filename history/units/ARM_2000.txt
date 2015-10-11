@@ -1,0 +1,196 @@
+theatre = {
+	name = "Armed Forces of the Republic of Armenia"
+	location = 7287
+	regiment = { type = hq_brigade name = "Armed Forces HQ" historical_model = 0 }
+	army = { 
+		name = "Armenian Army"
+		location = 7287
+		regiment = { type = hq_brigade name = "Armenian Army HQ" historical_model = 0 }
+		corps = {
+			name = "1st Army Corps"
+			location = 3463
+			regiment = { type = hq_brigade name = "1st Army Corps HQ" historical_model = 0 }
+			division = {
+				is_reserve = yes
+				name = "11th Motor Rifle Regiment"
+				location = 3463
+				regiment = { type = mechanized_brigade name = "111th Motor Rifle Battalion" historical_model = 0 }
+				regiment = { type = mechanized_brigade name = "112th Motor Rifle Battalion" historical_model = 0 }
+				regiment = { type = mechanized_brigade name = "113th Motor Rifle Battalion" historical_model = 0 }
+				regiment = { type = anti_tank_brigade name = "Anti-tank Regiment" historical_model = 0 }
+			}
+			division = {
+				is_reserve = yes
+				name = "12th Motor Rifle Regiment"
+				location = 3463
+				regiment = { type = mechanized_brigade name = "121st Motor Rifle Battalion" historical_model = 0 }
+				regiment = { type = mechanized_brigade name = "122nd Motor Rifle Battalion" historical_model = 0 }
+				regiment = { type = mechanized_brigade name = "123rd Motor Rifle Battalion" historical_model = 0 }
+				regiment = { type = anti_air_brigade name = "Surface-to-air Missile Regiment" historical_model = 0 }
+			}	
+			division = {
+				is_reserve = yes
+				name = "111th Independent Tank Battalion"
+				location = 3463
+				regiment = { type = armor_brigade name = "111th Tank Battalion" historical_model = 0 }
+			}
+		}
+		corps = {
+			name = "2nd Army Corps"
+			location = 7250
+			regiment = { type = hq_brigade name = "2nd Army Corps HQ" historical_model = 0 }
+			division = {
+				is_reserve = yes
+				name = "21st Motor Rifle Regiment"
+				location = 7250
+				regiment = { type = mechanized_brigade name = "211th Motor Rifle Battalion" historical_model = 0 }
+				regiment = { type = mechanized_brigade name = "212th Motor Rifle Battalion" historical_model = 0 }
+				regiment = { type = mechanized_brigade name = "213th Motor Rifle Battalion" historical_model = 0 }
+			}
+			division = {
+				is_reserve = yes
+				name = "22nd Motor Rifle Regiment"
+				location = 7250
+				regiment = { type = mechanized_brigade name = "221st Motor Rifle Battalion" historical_model = 0 }
+				regiment = { type = mechanized_brigade name = "222nd Motor Rifle Battalion" historical_model = 0 }
+				regiment = { type = mechanized_brigade name = "223rd Motor Rifle Battalion" historical_model = 0 }
+			}
+			division = {
+				is_reserve = yes
+				name = "21st Rifle Regiment"
+				location = 7250
+				regiment = { type = infantry_brigade name = "211th Rifle Battalion" historical_model = 0 }
+				regiment = { type = infantry_brigade name = "212th Rifle Battalion" historical_model = 0 }
+				regiment = { type = infantry_brigade name = "213th Rifle Battalion" historical_model = 0 }
+				regiment = { type = artillery_brigade name = "Artillery Brigade" historical_model = 0 }
+			}
+			division = {
+				is_reserve = yes
+				name = "211th Independent Tank Battalion"
+				location = 7250
+				regiment = { type = armor_brigade name = "211th Tank Battalion" historical_model = 0 }
+			}
+		}
+		corps = {
+			name = "3rd Army Corps"
+			location = 7224
+			regiment = { type = hq_brigade name = "3rd Army Corps HQ" historical_model = 0 }
+			division = {
+				is_reserve = yes
+				name = "31st Motor Rifle Regiment"
+				location = 7224
+				regiment = { type = mechanized_brigade name = "311th Motor Rifle Battalion" historical_model = 0 }
+				regiment = { type = mechanized_brigade name = "312th Motor Rifle Battalion" historical_model = 0 }
+				regiment = { type = mechanized_brigade name = "313th Motor Rifle Battalion" historical_model = 0 }
+			}
+			division = {
+				is_reserve = yes
+				name = "32nd Motor Rifle Regiment"
+				location = 7224
+				regiment = { type = mechanized_brigade name = "321st Motor Rifle Battalion" historical_model = 0 }
+				regiment = { type = mechanized_brigade name = "322nd Motor Rifle Battalion" historical_model = 0 }
+				regiment = { type = mechanized_brigade name = "323rd Motor Rifle Battalion" historical_model = 0 }
+			}
+			division = {
+				is_reserve = yes
+				name = "33rd Motor Rifle Regiment"
+				location = 7224
+				regiment = { type = mechanized_brigade name = "331st Motor Rifle Battalion" historical_model = 0 }
+				regiment = { type = mechanized_brigade name = "332nd Motor Rifle Battalion" historical_model = 0 }
+				regiment = { type = mechanized_brigade name = "333rd Motor Rifle Battalion" historical_model = 0 }
+			}
+			division = {
+				is_reserve = yes
+				name = "34th Motor Rifle Regiment"
+				location = 7224
+				regiment = { type = mechanized_brigade name = "341st Motor Rifle Battalion" historical_model = 0 }
+				regiment = { type = mechanized_brigade name = "342nd Motor Rifle Battalion" historical_model = 0 }
+				regiment = { type = mechanized_brigade name = "343rd Motor Rifle Battalion" historical_model = 0 }
+			}
+			division = {
+				is_reserve = yes
+				name = "31st Rifle Regiment"
+				location = 7224
+				regiment = { type = mechanized_brigade name = "311th Rifle Battalion" historical_model = 0 }
+				regiment = { type = mechanized_brigade name = "312th Rifle Battalion" historical_model = 0 }
+				regiment = { type = mechanized_brigade name = "313th Rifle Battalion" historical_model = 0 }
+			}
+			division = {
+				is_reserve = yes
+				name = "311th Independent Tank Battalion"
+				location = 7224
+				regiment = { type = armor_brigade name = "311th Tank Battalion" historical_model = 0 }
+			}
+		}
+		corps = {
+			name = "4th Army Corps"
+			location = 7250
+			regiment = { type = hq_brigade name = "4th Army Corps HQ" historical_model = 0 }
+			division = {
+				is_reserve = yes
+				name = "41st Motor Rifle Regiment"
+				location = 7250
+				regiment = { type = mechanized_brigade name = "411th Motor Rifle Battalion" historical_model = 0 }
+				regiment = { type = mechanized_brigade name = "412th Motor Rifle Battalion" historical_model = 0 }
+				regiment = { type = mechanized_brigade name = "413th Motor Rifle Battalion" historical_model = 0 }
+			}
+			division = {
+				is_reserve = yes
+				name = "42nd Motor Rifle Regiment"
+				location = 7250
+				regiment = { type = mechanized_brigade name = "421st Motor Rifle Battalion" historical_model = 0 }
+				regiment = { type = mechanized_brigade name = "422nd Motor Rifle Battalion" historical_model = 0 }
+				regiment = { type = mechanized_brigade name = "423rd Motor Rifle Battalion" historical_model = 0 }
+			}
+			division = {
+				is_reserve = yes
+				name = "43rd Motor Rifle Regiment"
+				location = 7250
+				regiment = { type = mechanized_brigade name = "431st Motor Rifle Battalion" historical_model = 0 }
+				regiment = { type = mechanized_brigade name = "432nd Motor Rifle Battalion" historical_model = 0 }
+				regiment = { type = mechanized_brigade name = "433rd Motor Rifle Battalion" historical_model = 0 }
+			}
+			division = {
+				is_reserve = yes
+				name = "44nd Motor Rifle Regiment"
+				location = 7250
+				regiment = { type = mechanized_brigade name = "441st Motor Rifle Battalion" historical_model = 0 }
+				regiment = { type = mechanized_brigade name = "442nd Motor Rifle Battalion" historical_model = 0 }
+				regiment = { type = mechanized_brigade name = "443rd Motor Rifle Battalion" historical_model = 0 }
+			}
+		}
+		corps = { 
+			name = "5th Army Corps"
+			location = 7287
+			regiment = { type = hq_brigade name = "5th Army Corps HQ" historical_model = 0 }
+			division = {
+				is_reserve = yes
+				name = "51st Motor Rifle Regiment"
+				location = 7287
+				regiment = { type = mechanized_brigade name = "511th Motor Rifle Battalion" historical_model = 0 }
+				regiment = { type = mechanized_brigade name = "512th Motor Rifle Battalion" historical_model = 0 }
+				regiment = { type = mechanized_brigade name = "513th Motor Rifle Battalion" historical_model = 0 }
+				regiment = { type = sp_artillery_brigade name = "Self-Propelled Artillery Regiment" historical_model = 0 }
+			}
+			division = {
+				is_reserve = yes
+				name = "51st Rifle Regiment"
+				location = 7287
+				regiment = { type = infantry_brigade name = "511th Rifle Battalion" historical_model = 0 }
+				regiment = { type = infantry_brigade name = "512th Rifle Battalion" historical_model = 0 }
+				regiment = { type = infantry_brigade name = "513th Rifle Battalion" historical_model = 0 }
+				regiment = { type = artillery_brigade name = "Engineer Regiment" historical_model = 0 }
+			}
+		}		
+		division = {
+			is_reserve = yes
+			name = "Special Forces Regiment"
+			location = 7287
+			regiment = { type = special_forces_brigade name = "1st Battalion" historical_model = 0 }
+			regiment = { type = special_forces_brigade name = "2nd Battalion" historical_model = 0 }
+		}
+	}
+}
+		
+		
+		

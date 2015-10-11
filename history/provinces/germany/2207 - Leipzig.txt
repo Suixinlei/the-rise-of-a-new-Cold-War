@@ -1,0 +1,10 @@
+owner = GER
+controller = GER
+add_core = GER
+manpower = 1.00
+infra = 10
+energy = 25.00
+air_base = 1 #Leipzig airport
+points = 1
+industry = 3
+leadership = 1.00

@@ -1,0 +1,12 @@
+owner = ISR
+
+controller = ISR
+
+add_core = ISR
+add_core = PAL
+infra = 7
+
+manpower = 0.50
+naval_base = 7 #Haifa port
+leadership = 2.50
+points = 1

@@ -1,0 +1,6 @@
+owner = SYR
+controller = SYR
+add_core = SYR
+
+infra = 6
+air_base = 2 #As-Suwayda and Khalkhalah airbase

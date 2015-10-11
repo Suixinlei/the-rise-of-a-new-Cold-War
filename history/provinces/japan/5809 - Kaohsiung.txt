@@ -1,0 +1,19 @@
+controller = CHI
+owner = CHI
+
+add_core = CHI
+add_core = CHC
+
+infra = 8
+manpower =1
+industry = 10.00
+energy = 50.00
+metal = 30.00
+rare_materials = 15.00 
+air_base = 3 #Kaohsiung airport
+naval_base = 8 #Kaohsiung port
+leadership = 1.5
+points = 1
+terrain = urban
+anti_air = 6
+PROV5809;¸ßÐÛ;;;;;;;;;;X

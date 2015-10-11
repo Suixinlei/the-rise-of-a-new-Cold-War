@@ -1,0 +1,10 @@
+owner = ETI
+controller = ETI
+add_core = ETI
+add_core = INO
+manpower = 0.1
+
+infra = 4
+air_base = 2 #Baucau airbase
+naval_base = 2
+points = 1

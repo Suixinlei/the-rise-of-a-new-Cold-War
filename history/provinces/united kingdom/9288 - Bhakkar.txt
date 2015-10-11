@@ -1,0 +1,7 @@
+owner = PAK
+controller = PAK
+add_core = PAK
+
+infra = 6
+air_base = 10 #Mianwali and Kohat airbase
+leadership = 2.50

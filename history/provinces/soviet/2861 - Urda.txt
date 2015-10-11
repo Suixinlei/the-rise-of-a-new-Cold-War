@@ -1,0 +1,5 @@
+owner = KAZ
+controller = KAZ
+add_core = KAZ
+crude_oil = 7.00
+infra = 4

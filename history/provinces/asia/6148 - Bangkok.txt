@@ -1,0 +1,10 @@
+owner = SIA
+controller = SIA
+add_core = SIA
+manpower = 12.00
+industry = 9
+infra = 6
+air_base = 10 #Bangkok airbase and airport
+naval_base = 7 #Bangkok port
+leadership = 2.50
+points = 1

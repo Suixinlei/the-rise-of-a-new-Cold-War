@@ -1,0 +1,10 @@
+owner = IRE
+controller = IRE
+add_core = IRE
+
+infra = 8
+manpower = 0.2
+air_base = 1 #Cork airport
+naval_base = 2 #Cork port
+leadership = 2.50
+points = 1

@@ -1,0 +1,7 @@
+owner = KOR
+
+controller = KOR
+
+add_core = KOR
+energy = 9.00
+infra = 6

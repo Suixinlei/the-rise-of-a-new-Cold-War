@@ -1,0 +1,4 @@
+owner = BAA
+controller = BAA
+add_core = BAA
+infra = 6

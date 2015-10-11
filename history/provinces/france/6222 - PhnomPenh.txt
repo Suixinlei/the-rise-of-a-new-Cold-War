@@ -1,0 +1,10 @@
+owner = CMB
+controller = CMB
+add_core = CMB
+
+infra = 6
+manpower = 4.9
+
+air_base = 3 #Phnom Penh airbase
+points = 1
+industry = 4

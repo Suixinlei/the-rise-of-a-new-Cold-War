@@ -1,0 +1,55 @@
+capital = 906
+government = republic
+ideology = social_liberal
+alignment = { x = 0 y = -70 }
+neutrality = 80
+national_unity = 70
+head_of_state = 26501
+head_of_government = 26506
+foreign_minister = 26509
+armament_minister = 26512
+minister_of_security = 26519
+minister_of_intelligence = 26523
+chief_of_staff = 26543
+chief_of_army = 26546
+chief_of_air = 26548
+chief_of_navy = 26553
+oob = "EST_2000.txt"
+
+popularity = { 
+	national_socialist = 0
+	fascistic = 1
+	paternal_autocrat = 0
+	social_conservative = 25
+	market_liberal = 18
+	social_liberal = 25
+	social_democrat = 7
+	left_wing_radical = 0
+	leninist = 0
+	stalinist = 0
+}
+
+organization = { 
+	national_socialist = 0
+	fascistic = 3
+	paternal_autocrat = 0
+	social_conservative = 75
+	market_liberal = 54
+	social_liberal = 75
+	social_democrat = 21
+	left_wing_radical = 0
+	leninist = 0
+	stalinist = 0
+}
+
+conscription_policy = military_service
+press_laws = free_press
+mobilisation_level = peace_time
+civil_laws = open_society
+service_length = twelve_months
+economic_policy = lais_fair
+
+
+
+weapon_design = 1
+industrial_facilities = 1

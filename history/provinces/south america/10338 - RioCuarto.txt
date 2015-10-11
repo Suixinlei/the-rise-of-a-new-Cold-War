@@ -1,0 +1,7 @@
+owner = ARG
+controller = ARG
+add_core = ARG
+
+infra = 6
+air_base = 6 #Las Higueras and Villa Reynolds airbase
+points = 1

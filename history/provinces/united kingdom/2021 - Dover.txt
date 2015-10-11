@@ -1,0 +1,9 @@
+owner = ENG
+controller = ENG
+add_core = ENG
+
+infra = 10
+
+
+naval_base = 10 #Dover port
+points = 1

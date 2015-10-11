@@ -1,0 +1,49 @@
+capital = 3027
+government = republic
+ideology = paternal_autocrat
+alignment = { x = 0 y = -80 }
+neutrality = 80
+national_unity = 70
+
+oob = "SLO_2000.txt"
+
+popularity = { 
+	national_socialist = 0
+	fascistic = 7
+	paternal_autocrat = 20
+	social_conservative = 8
+	market_liberal = 15
+	social_liberal = 8
+	social_democrat = 14
+	left_wing_radical = 1
+	leninist = 1
+	stalinist = 6
+}
+
+organization = { 
+	national_socialist = 0
+	fascistic = 21
+	paternal_autocrat = 60
+	social_conservative = 24
+	market_liberal = 45
+	social_liberal = 24
+	social_democrat = 42
+	left_wing_radical = 3
+	leninist = 3
+	stalinist = 18
+}
+
+conscription_policy = military_service
+press_laws = free_press
+mobilisation_level = peace_time
+civil_laws = open_society
+service_length = six_months
+economic_policy = limit_intervention
+
+industrial_facilities = 1
+industral_production = 1
+industral_efficiency = 1
+weapon_design = 1
+the_fuselage_design = 1
+main_battle_tank = 1
+ship_hull = 1

@@ -1,0 +1,68 @@
+theatre = {
+	name = "Uzbrojenyja Sily Respubliki Bielarus"
+	location = 1694
+	regiment = { type = hq_brigade name = "Uzbrojenyja Sily Respubliki Bielarus" historical_model = 0 }
+	division = {
+		is_reserve = yes
+		name = "6th Guards Mechanised Brigade"
+		location = 1751
+		regiment = { type = mechanized_brigade name = "1st Battalion" historical_model = 0 }
+		regiment = { type = mechanized_brigade name = "2nd Battalion" historical_model = 0 }
+		regiment = { type = mechanized_brigade name = "3rd Battalion" historical_model = 0 }
+	}
+	division = {
+		is_reserve = yes
+		name = "11th Guards Mechanised Brigade"
+		location = 1812
+		regiment = { type = armor_brigade name = "1st Battalion" historical_model = 0 }
+		regiment = { type = armor_brigade name = "2nd Battalion" historical_model = 0 }
+		regiment = { type = armor_brigade name = "3rd Battalion" historical_model = 0 }
+	}
+	division = {
+		is_reserve = yes
+		name = "120th Guards Mechanised Brigade"
+		location = 1694
+		regiment = { type = mechanized_brigade name = "1st Battalion" historical_model = 0 }
+		regiment = { type = mechanized_brigade name = "2nd Battalion" historical_model = 0 }
+		regiment = { type = mechanized_brigade name = "3rd Battalion" historical_model = 0 }
+	}
+	division = {
+		is_reserve = yes
+		name = "103rd Mobile Brigades"
+		location = 1694
+		regiment = { type = air_cavalry_brigade name = "1st Battalion" historical_model = 0 }
+		regiment = { type = air_cavalry_brigade name = "2nd Battalion" historical_model = 0 }
+		regiment = { type = air_cavalry_brigade name = "3rd Battalion" historical_model = 0 }
+	}
+	division = {
+		is_reserve = yes
+		name = "38th Mobile Brigades"
+		location = 1694
+		regiment = { type = air_cavalry_brigade name = "1st Battalion" historical_model = 0 }
+		regiment = { type = air_cavalry_brigade name = "2nd Battalion" historical_model = 0 }
+		regiment = { type = air_cavalry_brigade name = "3rd Battalion" historical_model = 0 }
+	}
+	division = {
+		is_reserve = yes
+		name = "5th Separate Spetznaz Brigade"
+		location = 1755
+		regiment = { type = special_forces_brigade name = "1st Battalion" historical_model = 0 }
+		regiment = { type = special_forces_brigade name = "2nd Battalion" historical_model = 0 }
+		regiment = { type = special_forces_brigade name = "3rd Battalion" historical_model = 0 }
+	}
+	
+	air = {
+		name = "Fighter Group"
+		base = 1989
+		location = 1989
+		wing = { type = interceptor name = "1st Fighter Wing" historical_model = 0 }
+		wing = { type = interceptor name = "2nd Fighter Wing" historical_model = 0 }
+	}
+	
+	air = {
+		name = "Air Support Wing"
+		base = 1534
+		location = 1534
+		wing = { type = cas name = "Air Support Wing" historical_model = 0 }
+	}
+}

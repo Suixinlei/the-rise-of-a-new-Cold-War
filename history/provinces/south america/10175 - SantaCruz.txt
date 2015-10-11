@@ -1,0 +1,8 @@
+owner = BOL
+controller = BOL
+add_core = BOL
+infra = 6
+manpower = 3.5
+air_base = 7 #El Trompillo and Wilsterman airbase
+leadership = 2.50
+points = 1

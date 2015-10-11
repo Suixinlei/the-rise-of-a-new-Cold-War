@@ -1,0 +1,33 @@
+capital = 3174
+government = republic
+ideology = stalinist
+alignment = { x = 50 y = -50 }
+neutrality = 80
+national_unity = 70
+
+popularity = { 
+	national_socialist = 0
+	fascistic = 0
+	paternal_autocrat = 0
+	social_conservative = 8
+	market_liberal = 3
+	social_liberal = 13
+	social_democrat = 5
+	left_wing_radical = 3
+	leninist = 2
+	stalinist = 50
+}
+
+organization = { 
+	national_socialist = 0
+	fascistic = 0
+	paternal_autocrat = 0
+	social_conservative = 24
+	market_liberal = 9
+	social_liberal = 39
+	social_democrat = 15
+	left_wing_radical = 9
+	leninist = 6
+	stalinist = 150
+}
+

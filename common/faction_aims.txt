@@ -1,0 +1,1043 @@
+##############
+# CIS
+##############
+axis = {
+	commonwealth_of_independent_states = {
+		trigger = {
+			
+			6918 = {
+				controller = {
+					faction = axis
+				}
+			}
+			8839 = {
+				controller = {
+					faction = axis
+				}
+			}
+			9054 = {
+				controller = {
+					faction = axis
+				}
+			}
+			8925 = {
+				controller = {
+					faction = axis
+				}
+			}
+			7335 = {
+				controller = {
+					faction = axis
+				}
+			}
+		}
+	}
+	cis_iran = {
+		trigger = {
+		
+			9158 = {
+				controller = {
+					faction = axis
+				}
+			}
+			9398 = {
+				controller = {
+					faction = axis
+				}
+			}
+			9429 = {
+				controller = {
+					faction = axis
+				}
+			}
+		}
+	}
+	cis_control_caucasus = {
+		trigger = {
+			
+			3254 = {
+				controller = {
+					faction = axis
+				}
+			}
+			7287 = {
+				controller = {
+					faction = axis
+				}
+			}
+			7307 = {
+				controller = {
+					faction = axis
+				}
+			}
+		}
+	}
+	cis_neutral_israel = {
+		trigger = {
+			
+			5567 = {
+				controller = {
+					NOT = {
+						faction = allies
+					}
+				}
+			}
+		}
+	}
+	cis_black_sea_secured = {
+		trigger = {
+			
+			4059 = {
+				controller = {
+					faction = axis
+				}
+			}
+			3380 = {
+				controller = {
+					faction = axis
+				}
+			}
+			3581 = {
+				controller = {
+					faction = axis
+				}
+			}
+			3919 = {
+				controller = {
+					faction = axis
+				}
+			}
+			4123 = {
+				controller = {
+					faction = axis
+				}
+			}
+			4503 = {
+				controller = {
+					faction = axis
+				}
+			}
+			4253 = {
+				controller = {
+					faction = axis
+				}
+			}
+		}
+	}
+	cis_serbia = {
+		trigger = {
+			
+			3912 = {
+				controller = {
+					faction = axis
+				}
+			}
+			4368 = {
+				controller = {
+					faction = axis
+				}
+			}
+		}
+	}
+	cis_ex_soviets = {
+		trigger = {
+	
+			3309 = {
+				controller = {
+					faction = axis
+				}
+			}
+			2223 = {
+				controller = {
+					faction = axis
+				}
+			}
+			1694 = {
+				controller = {
+					faction = axis
+				}
+			}
+		}
+	}
+	cis_germany = {
+		trigger = {
+	
+			1861 = {
+				controller = {
+					faction = axis
+				}
+			}
+			2952 = {
+				controller = {
+					faction = axis
+				}
+			}
+			1737 = {
+				controller = {
+					faction = axis
+				}
+			}
+			2257 = {
+				controller = {
+					faction = axis
+				}
+			}
+		}
+	}
+	cis_france = {
+		trigger = {
+
+			2613 = {
+				controller = {
+					faction = axis
+				}
+			}
+			4229 = {
+				controller = {
+					faction = axis
+				}
+			}
+			3479 = {
+				controller = {
+					faction = axis
+				}
+			}
+		}
+	}
+	cis_italy = {
+		trigger = {
+
+			4549 = {
+				controller = {
+					faction = axis
+				}
+			}
+			4765 = {
+				controller = {
+					faction = axis
+				}
+			}
+			3692 = {
+				controller = {
+					faction = axis
+				}
+			}
+		}
+	}
+	cis_spain = {
+		trigger = {
+	
+			4540 = {
+				controller = {
+					faction = axis
+				}
+			}
+			4548 = {
+				controller = {
+					faction = axis
+				}
+			}
+			5191 = {
+				controller = {
+					faction = axis
+				}
+			}
+		}
+	}
+	cis_britain = {
+		trigger = {
+		
+			1964 = {
+				controller = {
+					faction = axis
+				}
+			}
+			1522 = {
+				controller = {
+					faction = axis
+				}
+			}
+			1128 = {
+				controller = {
+					faction = axis
+				}
+			}
+		}
+	}
+	cis_suez = {
+		trigger = {
+		
+			5563 = {
+				controller = {
+					faction = axis
+				}
+			}
+			5644 = {
+				controller = {
+					faction = axis
+				}
+			}
+			5668 = {
+				controller = {
+					faction = axis
+				}
+			}
+		}
+	}
+	cis_arabian_oil_fields = {
+		trigger = {
+
+			9427 = {
+				controller = {
+					faction = axis
+				}
+			}
+			9538 = {
+				controller = {
+					faction = axis
+				}
+			}
+			9613 = {
+				controller = {
+					faction = axis
+				}
+			}
+			9578 = {
+				controller = {
+					faction = axis
+				}
+			}
+		}
+	}
+	cis_libya = {
+		trigger = {
+
+			5445 = {
+				controller = {
+					faction = axis
+				}
+			}
+			5484 = {
+				controller = {
+					faction = axis
+				}
+			}
+		}
+	}
+	cis_nigeria = {
+		trigger = {
+		
+			9977 = {
+				controller = {
+					faction = axis
+				}
+			}
+			9840 = {
+				controller = {
+					faction = axis
+				}
+			}
+		}
+	}
+	cis_south_africa = {
+		trigger = {
+
+			8054 = {
+				controller = {
+					faction = axis
+				}
+			}
+			7965 = {
+				controller = {
+					faction = axis
+				}
+			}
+		}
+	}
+	cis_argentina = {
+		trigger = {
+
+			7899 = {
+				controller = {
+					faction = axis
+				}
+			}
+			10316 = {
+				controller = {
+					faction = axis
+				}
+			}
+		}
+	}
+	cis_alaska = {
+		trigger = {
+
+			8078 = {
+				controller = {
+					faction = axis
+				}
+			}
+		}
+	}
+	cis_india = {
+		trigger = {
+	
+			9406 = {
+				controller = {
+					faction = axis
+				}
+			}
+			6005 = {
+				controller = {
+					faction = axis
+				}
+			}
+			9827 = {
+				controller = {
+					faction = axis
+				}
+			}
+			5875 = {
+				controller = {
+					faction = axis
+				}
+			}
+		}
+	}
+	cis_neutral_japan = {
+		trigger = {
+
+			5315 = {
+				controller = {
+					NOT = {
+						faction = allies
+					}
+				}
+			}
+			5497 = {
+				controller = {
+					NOT = {
+						faction = allies
+					}
+				}
+			}
+			7238 = {
+				controller = {
+					NOT = {
+						faction = allies
+					}
+				}
+			}
+		}
+	}
+}		
+
+##############
+# ALLIES
+##############
+allies = {
+	nato_mexico = {
+		trigger = {
+			
+			9604 = {
+				controller = {
+					faction = allies
+				}
+			}
+			9203 = {
+				controller = {
+					faction = allies
+				}
+			}
+			9644 = {
+				controller = {
+					faction = allies
+				}
+			}
+		}
+	}
+	nato_brazil = {
+		trigger = {
+		
+			10110 = {
+				controller = {
+					faction = allies
+				}
+			}
+			10035 = {
+				controller = {
+					faction = allies
+				}
+			}
+			10226 = {
+				controller = {
+					faction = allies
+				}
+			}
+			10193 = {
+				controller = {
+					faction = allies
+				}
+			}
+		}
+	}
+	nato_chile = {
+		trigger = {
+		
+			10336 = {
+				controller = {
+					faction = allies
+				}
+			}
+		}
+	}
+	nato_panama = {
+		trigger = {
+
+			7717 = {
+				controller = {
+					faction = allies
+				}
+			}
+		}
+	}
+	nato_nigeria = {
+		trigger = {
+		
+			9977 = {
+				controller = {
+					faction = allies
+				}
+			}
+			9840 = {
+				controller = {
+					faction = allies
+				}
+			}
+		}
+	}
+	nato_south_africa = {
+		trigger = {
+
+			8054 = {
+				controller = {
+					faction = allies
+				}
+			}
+			7965 = {
+				controller = {
+					faction = allies
+				}
+			}
+		}
+	}
+	nato_suez = {
+		trigger = {
+
+			5563 = {
+				controller = {
+					faction = allies
+				}
+			}
+			5644 = {
+				controller = {
+					faction = allies
+				}
+			}
+			5668 = {
+				controller = {
+					faction = allies
+				}
+			}
+		}
+	}
+	nato_israel = {
+		trigger = {
+
+			5567 = {
+				controller = {
+					faction = allies
+				}
+			}
+		}
+	}
+	nato_arabian_oil_fields = {
+		trigger = {
+
+			9427 = {
+				controller = {
+					faction = allies
+				}
+			}
+			9538 = {
+				controller = {
+					faction = allies
+				}
+			}
+			9613 = {
+				controller = {
+					faction = allies
+				}
+			}
+			9578 = {
+				controller = {
+					faction = allies
+				}
+			}
+		}
+	}
+	operation_iraqi_freedom = {
+		trigger = {
+
+			9365 = {
+				controller = {
+					faction = allies
+				}
+			}
+			9213 = {
+				controller = {
+					faction = allies
+				}
+			}
+		}
+	}
+	nato_neutral_iran = {
+		trigger = {
+
+			9158 = {
+				controller = {
+					NOT = {
+						faction = comintern
+						faction = axis
+					}
+				}
+			}
+			9429 = {
+				controller = {
+					NOT = {
+						faction = comintern
+						faction = axis
+					}
+				}
+			}
+		}
+	}
+	nato_caucasus = {
+		trigger = {
+
+			7307 = {
+				controller = {
+					faction = allies
+				}
+			}
+			7287 = {
+				controller = {
+					faction = allies
+				}
+			}
+			3254 = {
+				controller = {
+					faction = allies
+				}
+			}
+		}
+	}
+	nato_balkan = {
+		trigger = {
+
+			4371 = {
+				controller = {
+					faction = allies
+				}
+			}
+			3917 = {
+				controller = {
+					faction = allies
+				}
+			}
+			3164 = {
+				controller = {
+					faction = allies
+				}
+			}
+		}
+	}
+	nato_finland = {
+		trigger = {
+		
+			739 = {
+				controller = {
+					faction = allies
+				}
+			}
+			180 = {
+				controller = {
+					faction = allies
+				}
+			}
+			467 = {
+				controller = {
+					faction = allies
+				}
+			}
+		}
+	}
+	nato_russian_border = {
+		trigger = {
+
+			2223 = {
+				controller = {
+					faction = allies
+				}
+			}
+			1694 = {
+				controller = {
+					faction = allies
+				}
+			}
+			1532 = {
+				controller = {
+					faction = allies
+				}
+			}
+			1178 = {
+				controller = {
+					faction = allies
+				}
+			}
+			906 = {
+				controller = {
+					faction = allies
+				}
+			}
+		}
+	}
+	nato_moscow = {
+		trigger = {
+
+			1409 = {
+				controller = {
+					faction = allies
+				}
+			}
+		}
+	}
+	nato_petersburg = {
+		trigger = {
+
+			782 = {
+				controller = {
+					faction = allies
+				}
+			}
+		}
+	}
+	nato_india = {
+		trigger = {
+	
+			9406 = {
+				controller = {
+					faction = allies
+				}
+			}
+			6005 = {
+				controller = {
+					faction = allies
+				}
+			}
+			9827 = {
+				controller = {
+					faction = allies
+				}
+			}
+			5875 = {
+				controller = {
+					faction = allies
+				}
+			}
+		}
+	}
+	nato_anzac = {
+		trigger = {
+
+			8007 = {
+				controller = {
+					faction = allies
+				}
+			}
+			8070 = {
+				controller = {
+					faction = allies
+				}
+			}
+		}
+	}
+			
+}
+
+##############
+# Shanghai Pact
+##############
+comintern = {
+	sp_taiwan = {
+		trigger = {
+			
+			5737 = {
+				controller = {
+					faction = comintern
+				}
+			}
+		}
+	 }
+	sp_korea = {
+		trigger = {
+		
+			4796 = {
+				controller = {
+					faction = comintern
+				}
+			}
+			5056 = {
+				controller = {
+					faction = comintern
+				}
+			}
+			5116 = {
+				controller = {
+					faction = comintern
+				}
+			}
+			5341 = {
+				controller = {
+					faction = comintern
+				}
+			}
+		}
+	}
+	sp_japan_neutral = {
+		trigger = {
+
+			5315 = {
+				controller = {
+					NOT = {
+						faction = allies
+					}
+				}
+			}
+			5497 = {
+				controller = {
+					NOT = {
+						faction = allies
+					}
+				}
+			}
+			7238 = {
+				controller = {
+					NOT = {
+						faction = allies
+					}
+				}
+			}
+		}
+	}
+	sp_control_pacific = {
+		trigger = {
+
+			6119 = {
+				controller = {
+					faction = comintern
+				}
+			}
+			5825 = {
+				controller = {
+					faction = comintern
+				}
+			}
+		}
+	}
+	sp_philippines = {
+		trigger = {
+
+			6142 = {
+				controller = {
+					faction = comintern
+				}
+			}
+			6181 = {
+				controller = {
+					faction = comintern
+				}
+			}
+			6326 = {
+				controller = {
+					faction = comintern
+				}
+			}
+		}
+	}
+	sp_indonesia = {
+		trigger = {
+		
+			7735 = {
+				controller = {
+					faction = comintern
+				}
+			}
+			6507 = {
+				controller = {
+					faction = comintern
+				}
+			}
+			6434 = {
+				controller = {
+					faction = comintern
+				}
+			}
+			7781 = {
+				controller = {
+					faction = comintern
+				}
+			}
+		}
+	}
+	sp_vietnam = {
+		trigger = {
+		
+			5916 = {
+				controller = {
+					faction = comintern
+				}
+			}
+			6236 = {
+				controller = {
+					faction = comintern
+				}
+			}
+		}
+	}
+	sp_india = {
+		trigger = {
+	
+			9406 = {
+				controller = {
+					faction = comintern
+				}
+			}
+			6005 = {
+				controller = {
+					faction = comintern
+				}
+			}
+			9827 = {
+				controller = {
+					faction = comintern
+				}
+			}
+			5875 = {
+				controller = {
+					faction = comintern
+				}
+			}
+		}
+	}
+	sp_iran = {
+		trigger = {
+	
+			9158 = {
+				controller = {
+					faction = comintern
+				}
+			}
+			9398 = {
+				controller = {
+					faction = comintern
+				}
+			}
+			9429 = {
+				controller = {
+					faction = comintern
+				}
+			}
+		}
+	}
+	sp_arabian_oil_fields = {
+		trigger = {
+
+			9427 = {
+				controller = {
+					faction = comintern
+				}
+			}
+			9538 = {
+				controller = {
+					faction = comintern
+				}
+			}
+			9613 = {
+				controller = {
+					faction = comintern
+				}
+			}
+			9578 = {
+				controller = {
+					faction = comintern
+				}
+			}
+		}
+	}
+	sp_nigeria = {
+		trigger = {
+			
+			9977 = {
+				controller = {
+					faction = comintern
+				}
+			}
+			9840 = {
+				controller = {
+					faction = comintern
+				}
+			}
+		}
+	}
+	sp_angola = {
+		trigger = {
+
+			10147 = {
+				controller = {
+					faction = comintern
+				}
+			}
+		}
+	}
+	sp_venezuela = {
+		trigger = {
+	
+			9792 = {
+				controller = {
+					faction = comintern
+				}
+			}
+		}
+	}
+	sp_cuba = {
+		trigger = {
+
+			7576 = {
+				controller = {
+					faction = comintern
+				}
+			}
+		}
+	}
+	sp_alaska = {
+		trigger = {
+
+			8078 = {
+				controller = {
+					faction = comintern
+				}
+			}
+		}
+	}			
+}

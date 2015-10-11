@@ -1,0 +1,173 @@
+color = { 194  150  117 }
+graphical_culture = Generic
+last_election = 1999.12.5
+duration = 60
+
+default_templates = {
+	generic_infantry = {
+		infantry_brigade
+		infantry_brigade
+		infantry_brigade
+	}
+	generic_milita = {
+		militia_brigade
+		militia_brigade
+		militia_brigade
+	}
+	generic_armoured = {
+		armor_brigade
+		motorized_brigade
+		motorized_brigade
+	}
+	generic_cavalry = {
+		cavalry_brigade
+		cavalry_brigade
+	}
+}
+
+
+
+
+ministers = {
+	87501 = {
+		name = "Islam Karimov"
+		ideology = paternal_autocrat
+		loyalty = 0.25
+		picture = karimov
+		head_of_state = ruthless_powermonger
+		start_date = 1991.1.1
+	}
+	87502 = {
+		name = "Utkir Sultanov"
+		ideology = paternal_autocrat
+		loyalty = 0.25
+		picture = utkir
+		head_of_government = political_protege 
+		start_date = 2000.1.1
+	}
+	87503 = {
+		name = "Abdulaziz Kamilov"
+		ideology = fascistic
+		loyalty = 1.00
+		picture = kamilov
+		foreign_minister = iron_fisted_brute
+		start_date = 2000.1.1
+	}
+	87504 = {
+		name = "Rustam Azimov"
+		ideology = paternal_autocrat
+		loyalty = 0.75
+		picture = uzrustam
+		armament_minister = corrupt_kleptocrat
+		start_date = 2000.1.1
+	}
+	87505 = {
+		name = "Rustam Inoyatov"
+		ideology = fascistic
+		loyalty = 0.50
+		picture = inoyatov
+		minister_of_security = prince_of_terror
+		minister_of_intelligence = logistics_specialist
+		start_date = 2000.1.1
+	}
+	87506 = {
+		name = "Rahmankulov Mir-Akbar"
+		ideology = fascistic
+		loyalty = 0.75
+		picture = rahmankulov
+		minister_of_intelligence = political_specialist
+		start_date = 2000.1.1
+	}
+	87507 = {
+		name = "Tulkun Kasymov"
+		ideology = paternal_autocrat
+		loyalty = 0.50
+		picture = tulkun
+		chief_of_staff = school_of_mass_combat
+		start_date = 2000.1.1
+	}
+	87508 = {
+		name = "Djura Agzamov"
+		ideology = fascistic
+		loyalty = 0.75
+		picture = djura
+		chief_of_army = guns_and_butter_doctrine
+		start_date = 2000.1.1
+	}
+	87509 = {
+		name = "Kadyr Gulyamov"
+		ideology = social_conservative
+		loyalty = 0.75
+		picture = gulyamov
+		chief_of_army = guns_and_butter_doctrine
+		chief_of_air = air_superiority_doctrine
+		chief_of_navy = open_seas_doctrine
+		start_date = 2000.1.1
+	}
+	87510 = {
+		name = "Kabul Berdiew"
+		ideology = fascistic
+		loyalty = 0.75
+		picture = uzberdiev
+		armament_minister = resource_industrialist
+		start_date = 2005.1.1
+	}
+	87511 = {
+		name = "Muhammad Solih"
+		ideology = social_democrat
+		loyalty = 0.25
+		picture = solih
+		head_of_state = benevolent_gentleman
+		head_of_government = ambitious_union_boss
+		start_date = 2000.1.1
+	}
+	87512 = {
+		name = "Takhir Yuldashev"
+		ideology = national_socialist
+		loyalty = 0.25
+		picture = yuldashev
+		head_of_government = flamboyant_tough_guy
+		chief_of_army = guns_and_butter_doctrine
+				start_date = 2000.1.1
+	}
+	87513 = {
+		name = "Djuma Namangani"
+		ideology = national_socialist
+		loyalty = 1.00
+		picture = namangani
+		head_of_state = ruthless_powermonger
+		foreign_minister = great_compromiser
+		start_date = 2000.1.1
+	}
+	87514 = {
+		name = "Usman Odil"
+		ideology = national_socialist
+		loyalty = 0.25
+		picture = usmanodil
+		minister_of_security = prince_of_terror
+		minister_of_intelligence = political_specialist
+				start_date = 2000.1.1
+	}
+	87515 = {
+		name = "Usman Gazi"
+		ideology = national_socialist
+		loyalty = 0.25
+		picture = usmangazi
+		chief_of_staff = school_of_mass_combat
+		armament_minister = infantry_proponent
+		chief_of_navy = open_seas_doctrine
+		chief_of_air = air_superiority_doctrine
+		start_date = 2000.1.1
+	}
+		87516 = {
+		name = "Yuri Agzamov"
+		ideology = paternal_autocrat
+		loyalty = 0.75
+		picture = UZ12
+		chief_of_staff = school_of_manoeuvre
+		chief_of_army = armoured_spearhead_doctrine
+		chief_of_air = army_aviation_doctrine
+		chief_of_navy = open_seas_doctrine
+		start_date = 2005.1.1
+	}
+}

@@ -1,0 +1,11 @@
+theatre = {
+	name = "Armed Forces of Liberia"
+	location = 9967
+	regiment = { type = hq_brigade name = "Armed Forces HQ" historical_model = 0 }
+	division = {
+		name = "Anti-Terrorist Unit"
+		location = 9967
+		regiment = { type = militia_brigade name = "Anti-Terrorist Unit" historical_model = 0 }
+		regiment = { type = militia_brigade name = "National Patriotic Front of Liberia" historical_model = 0 }
+	}
+}

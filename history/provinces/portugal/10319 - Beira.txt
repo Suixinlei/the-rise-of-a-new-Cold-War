@@ -1,0 +1,7 @@
+owner = MOZ
+controller = MOZ
+add_core = MOZ
+infra = 6
+manpower = 3.00
+air_base = 1 #Beira airbase
+points = 1

@@ -1,0 +1,7 @@
+owner = CHL
+controller = CHL
+add_core = CHL
+
+infra = 4
+naval_base = 2 #Puerto Williams port
+points = 1

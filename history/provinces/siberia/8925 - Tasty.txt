@@ -1,0 +1,10 @@
+owner = UZB
+controller = UZB
+add_core = UZB
+manpower = 6.00
+rare_materials = 2.00
+infra = 6
+
+air_base = 2 #Fergana and Tashken airbase
+leadership = 2.50
+points = 1

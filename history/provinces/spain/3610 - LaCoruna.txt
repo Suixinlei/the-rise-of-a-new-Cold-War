@@ -1,0 +1,11 @@
+owner = SPR
+controller = SPR
+add_core = SPR
+
+
+infra = 7
+
+
+naval_base = 7 #A Coruna port
+leadership = 2.50
+points = 1

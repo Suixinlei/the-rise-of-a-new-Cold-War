@@ -1,0 +1,5 @@
+theatre = {
+	name = "Saint Kitts and Nevis Defence Force"
+	location = 7671
+	regiment = { type = hq_brigade name = "Saint Kitts and Nevis Defence Force" historical_model = 1 }
+}

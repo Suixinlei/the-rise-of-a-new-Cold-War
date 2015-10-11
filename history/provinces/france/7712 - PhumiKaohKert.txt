@@ -1,0 +1,5 @@
+owner = CMB
+controller = CMB
+add_core = CMB
+add_core = SIA
+infra = 4

@@ -1,0 +1,10 @@
+owner = SRI
+controller = SRI
+add_core = SRI
+industry = 8
+infra = 6
+manpower = 8.69
+energy = 1.00
+air_base = 5 #Ratmanala airbase and southern airbases
+naval_base = 4 #Colombo port
+points = 1

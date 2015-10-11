@@ -1,0 +1,9 @@
+owner = SAF
+controller = SAF
+add_core = SAF
+
+infra = 6
+
+
+infra = 6
+air_base = 5 #AFB Makhado

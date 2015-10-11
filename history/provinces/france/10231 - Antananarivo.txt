@@ -1,0 +1,9 @@
+owner = MAD
+controller = MAD
+add_core = MAD
+manpower = 8.10
+infra = 2
+
+air_base = 4 #Ivato airbase
+naval_base = 2
+points = 1

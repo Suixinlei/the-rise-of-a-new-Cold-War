@@ -1,0 +1,7 @@
+owner = NZL
+controller = NZL
+add_core = NZL
+infra = 6
+naval_base = 3 #Napier port
+leadership = 2.50
+points = 1

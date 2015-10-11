@@ -1,0 +1,8 @@
+owner = SIA
+controller = SIA
+add_core = SIA
+metal = 1.00
+rare_materials = 1.00
+infra = 6
+air_base = 4 #Chiang Mai and Chiang Rai airbase
+points = 1

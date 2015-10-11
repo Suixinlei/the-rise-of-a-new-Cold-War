@@ -1,0 +1,10 @@
+owner = USA
+controller = USA
+add_core = USA
+infra = 8
+crude_oil = 88.8
+energy = 20.00
+metal = 25.00
+air_base = 1 #New Orleans airport
+naval_base = 8 #New Orleans port
+points = 1

@@ -1,0 +1,9 @@
+owner = BOL
+controller = BOL
+add_core = BOL
+infra = 6
+crude_oil = 1.00
+rare_materials = 8.00
+air_base = 6 #El Alto airbase
+leadership = 2.50
+points = 1

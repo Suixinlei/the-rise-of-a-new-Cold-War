@@ -1,0 +1,207 @@
+theatre = {
+	name = "al-Quwwat al-Musallahah as-Su'udiyyah"
+	location = 9613
+	regiment = { type = hq_brigade name = "Al-Quwwat al-Musallahah as-Su'udiyyah" historical_model = 1 }
+	corps = {
+		name = "Royal Saudi Land Force"
+		location = 9613
+		regiment = { type = hq_brigade name = "Royal Saudi Land Force HQ" historical_model = 1 }
+		division = {
+			is_reserve = yes
+			name = "4th 'King Fah'd' Armoured Brigade"
+			location = 9678
+			regiment = { type = armor_brigade name = "41st Armoured Battalion" historical_model = 0 }
+			regiment = { type = armor_brigade name = "42nd Armoured Battalion" historical_model = 0 }
+			regiment = { type = armor_brigade name = "43rd Armoured Battalion" historical_model = 0 }
+			regiment = { type = mechanized_brigade name = "44th Mechanized Battalion" historical_model = 2 }
+		}
+		division = {
+			is_reserve = yes
+			name = "8th Armoured Brigade"
+			location = 9613
+			regiment = { type = armor_brigade name = "81st Armoured Battalion" historical_model = 0 }
+			regiment = { type = armor_brigade name = "82nd Armoured Battalion" historical_model = 0 }
+			regiment = { type = armor_brigade name = "83rd Armoured Battalion" historical_model = 0 }
+			regiment = { type = mechanized_brigade name = "84th Mechanized Battalion" historical_model = 2 }
+		}
+		division = {
+			is_reserve = yes
+			name = "12th Armoured Brigade"
+			location = 5689
+			regiment = { type = armor_brigade name = "121st Armoured Battalion" historical_model = 0 }
+			regiment = { type = armor_brigade name = "122nd Armoured Battalion" historical_model = 0 }
+			regiment = { type = armor_brigade name = "123rd Armoured Battalion" historical_model = 0 }
+			regiment = { type = mechanized_brigade name = "124th Mechanized Battalion" historical_model = 2 }
+		}
+		division = {
+			is_reserve = yes
+			name = "6th Mechanized Brigade"
+			location = 5689
+			regiment = { type = mechanized_brigade name = "61st Mechanized Battalion" historical_model = 2 }
+			regiment = { type = mechanized_brigade name = "62nd Mechanized Battalion" historical_model = 2 }
+			regiment = { type = mechanized_brigade name = "63rd Mechanized Battalion" historical_model = 2 }
+			regiment = { type = armor_brigade name = "64th Armoured Battalion" historical_model = 0 }
+		}
+		division = {
+			is_reserve = yes
+			name = "8th Mechanized Brigade"
+			location = 9459
+			regiment = { type = mechanized_brigade name = "81st Mechanized Battalion" historical_model = 2 }
+			regiment = { type = mechanized_brigade name = "82nd Mechanized Battalion" historical_model = 2 }
+			regiment = { type = mechanized_brigade name = "83rd Mechanized Battalion" historical_model = 2 }
+			regiment = { type = armor_brigade name = "84th Armoured Battalion" historical_model = 0 }
+		}
+		division = {
+			is_reserve = yes
+			name = "10th Mechanized Brigade"
+			location = 9708
+			regiment = { type = mechanized_brigade name = "101st Mechanized Battalion" historical_model = 2 }
+			regiment = { type = mechanized_brigade name = "102nd Mechanized Battalion" historical_model = 2 }
+			regiment = { type = mechanized_brigade name = "103rd Mechanized Battalion" historical_model = 2 }
+			regiment = { type = armor_brigade name = "104th Armoured Battalion" historical_model = 0 }
+		}
+		division = {
+			is_reserve = yes
+			name = "11th Mechanized Brigade"
+			location = 9678
+			regiment = { type = mechanized_brigade name = "111th Mechanized Battalion" historical_model = 2 }
+			regiment = { type = mechanized_brigade name = "112th Mechanized Battalion" historical_model = 2 }
+			regiment = { type = mechanized_brigade name = "113th Mechanized Battalion" historical_model = 2 }
+			regiment = { type = armor_brigade name = "114th Armoured Battalion" historical_model = 0 }
+		}
+		division = {
+			is_reserve = yes
+			name = "20th Mechanized Brigade"
+			location = 9459
+			regiment = { type = mechanized_brigade name = "201st Mechanized Battalion" historical_model = 2 }
+			regiment = { type = mechanized_brigade name = "202nd Mechanized Battalion" historical_model = 2 }
+			regiment = { type = mechanized_brigade name = "203rd Mechanized Battalion" historical_model = 2 }
+			regiment = { type = armor_brigade name = "204th Armoured Battalion" historical_model = 0 }
+		}
+		division = {
+			is_reserve = yes
+			name = "17th Light Motorized Infantry Brigade"
+			location = 9613
+			regiment = { type = infantry_brigade name = "171st Light Motorized Infantry Battalion" historical_model = 1}
+			regiment = { type = infantry_brigade name = "172nd Light Motorized Infantry Battalion" historical_model = 1}
+			regiment = { type = infantry_brigade name = "173rd Light Motorized Infantry Battalion" historical_model = 1}
+			regiment = { type = artillery_brigade name = "Artillery Brigade" historical_model = 0 }
+		}
+		division = {
+			is_reserve = yes
+			name = "18th Light Motorized Infantry Brigade"
+			location = 9613
+			regiment = { type = infantry_brigade name = "181st Light Motorized Infantry Battalion" historical_model = 1}
+			regiment = { type = infantry_brigade name = "182nd Light Motorized Infantry Battalion" historical_model = 1}
+			regiment = { type = infantry_brigade name = "183rd Light Motorized Infantry Battalion" historical_model = 1}
+		}
+		division = {
+			is_reserve = yes
+			name = "19th Light Motorized Infantry Brigade"
+			location = 9613
+			regiment = { type = infantry_brigade name = "191st Light Motorized Infantry Battalion" historical_model = 1}
+			regiment = { type = infantry_brigade name = "192nd Light Motorized Infantry Battalion" historical_model = 1}
+			regiment = { type = infantry_brigade name = "193rd Light Motorized Infantry Battalion" historical_model = 1}
+		}
+		division = {
+			is_reserve = yes
+			name = "Airborne Brigade"
+			location = 9613
+			regiment = { type = paratrooper_brigade name = "4th Airborne Battalion" historical_model = 1 }
+			regiment = { type = paratrooper_brigade name = "5th Airborne Battalion" historical_model = 1 }
+			regiment = { type = special_forces_brigade name = "Special Forces Battalion" historical_model = 1 }
+		}
+		division = {
+			is_reserve = yes
+			name = "Royal Guard Regiment"
+			location = 9613
+			regiment = { type = garrison_brigade name = "1st Royal Guard Battalion" historical_model = 1 }
+			regiment = { type = garrison_brigade name = "2nd Royal Guard Battalion" historical_model = 1 }
+			regiment = { type = garrison_brigade name = "3rd Royal Guard Battalion" historical_model = 1 }
+		}
+	}
+	
+	navy = {
+	name = "Royal Saudi Navy"
+	base = 9630
+	location = 9630
+	ship = { type = heavy_cruiser name = "Makkah" historical_model = 1 }
+	ship = { type = heavy_cruiser name = "Al Riyadh" historical_model = 1 }
+	ship = { type = heavy_cruiser name = "Arriyad" historical_model = 1 }
+	ship = { type = heavy_cruiser name = "Al Madinah" historical_model = 0 }
+	ship = { type = heavy_cruiser name = "Hofouf" historical_model = 0 }
+	ship = { type = heavy_cruiser name = "Abha" historical_model = 0 }
+	ship = { type = heavy_cruiser name = "Taif" historical_model = 0 }
+	ship = { type = light_cruiser name = "Badr" historical_model = 0 }
+	ship = { type = light_cruiser name = "Al-Yarmook" historical_model = 0 }
+	ship = { type = light_cruiser name = "Hitteen" historical_model = 0 }
+	ship = { type = light_cruiser name = "Tabuk" historical_model = 0 }
+	ship = { type = patrol_boat name = "As-Siddiq" historical_model = 0 }
+	ship = { type = patrol_boat name = "Al-Faroug" historical_model = 0 }
+	ship = { type = patrol_boat name = "Abdul-Aziz" historical_model = 0 }
+	ship = { type = patrol_boat name = "Faisal" historical_model = 0 }
+	ship = { type = patrol_boat name = "Khalid" historical_model = 0 }
+	ship = { type = patrol_boat name = "Amr" historical_model = 0 }
+	ship = { type = patrol_boat name = "Tariq" historical_model = 0 }
+	ship = { type = patrol_boat name = "Oqbah" historical_model = 0 }
+	ship = { type = patrol_boat name = "Abu Obaidah" historical_model = 0 }
+	}
+	
+	air = {
+	name = "RSAF Wing 1"
+	base = 9459
+	location = 9459
+	wing = { type = interceptor name = "2 Squadron" historical_model = 0 }
+	wing = { type = interceptor name = "5 Squadron" historical_model = 0 }
+	wing = { type = interceptor name = "6 Squadron" historical_model = 0 }
+	}
+	
+	air = {
+	name = "RSAF Wing 2"
+	base = 9611
+	location = 9611
+	wing = { type = multi_role name = "13 Squadron" historical_model = 2 }
+	wing = { type = multi_role name = "34 Squadron" historical_model = 0 }
+	}
+	
+	air = {
+	name = "RSAF Wing 3"
+	base = 9538
+	location = 9538
+	wing = { type = cas name = "7 Squadron" historical_model = 0 }
+	wing = { type = cas name = "75 Squadron" historical_model = 0 }
+	wing = { type = cas name = "83 Squadron" historical_model = 0 }
+	}
+	
+	air = {
+	name = "RSAF Wing 4"
+	base = 9613
+	location = 9613
+	wing = { type = interceptor name = "29 Squadron" historical_model = 0 }
+	}
+	
+	air = {
+	name = "RSAF Wing 5"
+	base = 9707
+	location = 9707
+	wing = { type = interceptor name = "3/1 Squadron" historical_model = 0 }
+	wing = { type = interceptor name = "3/2 Squadron" historical_model = 0 }
+	wing = { type = interceptor name = "15/1 Squadron" historical_model = 0 }
+	wing = { type = interceptor name = "15/2 Squadron" historical_model = 0 }
+	}
+	
+	air = {
+	name = "RSAF Wing 6"
+	base = 9613
+	location = 9613
+	wing = { type = transport_plane name = "4/1 Squadron" historical_model = 0 }
+	wing = { type = transport_plane name = "4/2 Squadron" historical_model = 0 }
+	wing = { type = transport_plane name = "4/3 Squadron" historical_model = 0 }
+	wing = { type = transport_plane name = "16/1 Squadron" historical_model = 0 }
+	wing = { type = transport_plane name = "16/2 Squadron" historical_model = 0 }
+	}
+}
+	
+	
+	
+		

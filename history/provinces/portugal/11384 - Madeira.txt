@@ -1,0 +1,12 @@
+owner = POR
+
+controller = POR
+
+add_core = POR
+
+
+infra = 5
+
+
+air_base = 1 #Madeira airport
+points = 1

@@ -1,0 +1,9 @@
+owner = CHC
+controller = CHC
+add_core = CHC
+add_core = CHI
+add_core = VIE
+add_core = PHI
+
+infra = 2
+naval_base = 1

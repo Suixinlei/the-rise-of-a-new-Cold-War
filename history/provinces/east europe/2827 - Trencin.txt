@@ -1,0 +1,7 @@
+owner = SLO
+controller = SLO
+add_core = SLO
+
+infra = 8
+air_base = 2 #Trencin airbase
+points = 1

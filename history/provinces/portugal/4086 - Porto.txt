@@ -1,0 +1,13 @@
+owner = POR
+controller = POR
+add_core = POR
+manpower = 0.5
+energy = 2.00
+
+infra = 9
+
+
+air_base = 2 #Francisco de Sa Carneiro airport
+naval_base = 7 #Porto port
+leadership = 2.50
+points = 1

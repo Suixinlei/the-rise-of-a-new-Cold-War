@@ -1,0 +1,7 @@
+owner = USA
+controller = USA
+add_core = USA
+infra = 8
+air_base = 9 #Miami airport and Patrick airbase
+naval_base = 10 #Port Everglades
+points = 1

@@ -1,0 +1,50 @@
+capital = 9604
+government = federation
+ideology = social_conservative
+alignment = { x = 0 y = -30 }
+neutrality = 80
+national_unity = 80
+head_of_state = 100010 
+head_of_government = 100010
+foreign_minister = 100011
+armament_minister = 100012
+minister_of_security = 100013
+minister_of_intelligence = 100014
+chief_of_staff = 100015
+chief_of_army = 100015
+chief_of_navy = 100016
+chief_of_air = 100015
+oob = "MEX_2000.txt"
+
+popularity = { 
+	national_socialist = 0
+	fascistic = 0
+	paternal_autocrat = 0
+	social_conservative = 32
+	market_liberal = 0
+	social_liberal = 4
+	social_democrat = 24
+	left_wing_radical = 3
+	leninist = 18
+	stalinist = 0
+}
+
+organization = { 
+	national_socialist = 0
+	fascistic = 0
+	paternal_autocrat = 0
+	social_conservative = 96
+	market_liberal = 0
+	social_liberal = 12
+	social_democrat = 72
+	left_wing_radical = 9
+	leninist = 54
+	stalinist = 0
+}
+
+conscription_policy = military_service
+press_laws = free_press
+mobilisation_level = peace_time
+civil_laws = open_society
+service_length = twelve_months
+economic_policy = lais_fair

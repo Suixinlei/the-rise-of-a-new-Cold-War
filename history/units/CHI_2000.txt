@@ -1,0 +1,347 @@
+theatre = {
+	name = "中华民国参谋本部"
+	location = 5737
+	regiment = { type = hq_brigade name = "中华民国参谋本部" historical_model = 0 }
+	army = {
+		name = "中华民国陆军司令部"
+		location = 5737
+		regiment = { type = hq_brigade name = "中华民国陆军司令部" historical_model = 0 }
+	                division = {
+				is_reserve = yes
+				name = "陆军第101两栖侦察部队"
+				location = 5824
+				regiment = { type = special_forces_brigade name = "特种第1营" historical_model = 0 }
+				regiment = { type = special_forces_brigade name = "特种第2营" historical_model = 0 }
+				regiment = { type = special_forces_brigade name = "特种第3营" historical_model = 0 }
+				regiment = { type = special_forces_brigade name = "特种第4营" historical_model = 0 }
+			}
+	                division = {
+				is_reserve = yes
+				name = "金门防卫司令部"
+				location = 14169
+				regiment = { type = infantry_brigade name = "第37步兵营" historical_model = 0 }
+				regiment = { type = infantry_brigade name = "第38步兵营" historical_model = 0 }
+			}
+	                division = {
+				is_reserve = yes
+				name = "澎湖防卫指挥部"
+				location = 5824
+				regiment = { type = infantry_brigade name = "第22步兵营" historical_model = 0 }
+				regiment = { type = infantry_brigade name = "第23步兵营" historical_model = 0 }
+			}
+		corps = {
+			name = "陆军航空特战司令部"
+			location = 5737
+			regiment = { type = hq_brigade name = "陆军航空特战司令部" historical_model = 0 }
+			division = {
+				is_reserve = yes
+				name = "高空特种勤务部队"
+				location = 5737
+				regiment = { type = air_cavalry_brigade name = "空骑第1营" historical_model = 0 }
+				regiment = { type = special_forces_brigade name = "特种第1营" historical_model = 0 }
+				regiment = { type = special_forces_brigade name = "特种第1营" historical_model = 0 }
+				regiment = { type = attack_helicopter_brigade name = "空骑第3营" historical_model = 0 }
+			}
+			division = {
+				is_reserve = yes
+				name = "空中骑兵旅602旅"
+				location = 5737
+				regiment = { type = air_cavalry_brigade name = "空骑第1营" historical_model = 0 }
+				regiment = { type = air_cavalry_brigade name = "空骑第2营" historical_model = 0 }
+				regiment = { type = attack_helicopter_brigade name = "空骑第3营" historical_model = 0 }
+
+			}
+			division = {
+				is_reserve = yes
+				name = "航空训练指挥部603旅"
+				location = 5737
+				regiment = { type = air_cavalry_brigade name = "空骑第1营" historical_model = 0 }
+				regiment = { type = air_cavalry_brigade name = "空骑第2营" historical_model = 0 }
+				regiment = { type = attack_helicopter_brigade name = "空骑第3营" historical_model = 0 }
+			}
+			division = {
+				is_reserve = yes
+				name = "特种作战862旅"
+				location = 5737
+				regiment = { type = paratrooper_brigade name = "空降第1营" historical_model = 0 }
+				regiment = { type = special_forces_brigade name = "特战第1营" historical_model = 0 }
+				regiment = { type = special_forces_brigade name = "特战第2营" historical_model = 0 }
+			}
+		}
+		corps = {
+			name = "第6军团"
+			location = 5747
+			regiment = { type = hq_brigade name = "第6军团" historical_model = 0 }
+			division = {
+				is_reserve = yes
+				name = "机械化步兵第269旅"
+				location = 5747
+				regiment = { type = infantry_brigade name = "机步第1营" historical_model = 0 }
+				regiment = { type = infantry_brigade name = "机步第2营" historical_model = 0 }
+			}
+			division = {
+				is_reserve = yes
+				name = "装甲步兵第542旅"
+				location = 5747
+				regiment = { type = armor_brigade name = "装甲第1营" historical_model = 0 }
+				regiment = { type = mechanized_brigade name = "机步第2营" historical_model = 0 }
+				regiment = { type = sp_artillery_brigade name = "自走第3营" historical_model = 0 }
+			}
+			division = {
+				is_reserve = yes
+				name = "装甲步兵第584旅"
+				location = 5747
+				regiment = { type = armor_brigade name = "装甲第1营" historical_model = 0 }
+				regiment = { type = mechanized_brigade name = "机步第2营" historical_model = 0 }
+				regiment = { type = sp_artillery_brigade name = "自走第3营" historical_model = 0 }
+			}
+			division = {
+				is_reserve = yes
+				name = "步兵第153旅"
+				location = 5747
+				regiment = { type = infantry_brigade name = "机步第1营" historical_model = 0 }
+				regiment = { type = infantry_brigade name = "机步第2营" historical_model = 0 }
+			}
+			division = {
+				is_reserve = yes
+				name = "步兵第206旅"
+				location = 5747
+				regiment = { type = infantry_brigade name = "机步第1营" historical_model = 0 }
+				regiment = { type = infantry_brigade name = "机步第2营" historical_model = 0 }
+			}
+			division = {
+				is_reserve = yes
+				name = "炮兵第21指挥部"
+				location = 5747
+				regiment = { type = sp_artillery_brigade name = "自走第1营" historical_model = 0 }
+				regiment = { type = sp_artillery_brigade name = "自走第2营" historical_model = 0 }
+			}
+		}
+		corps = {
+			name = "第8军团"
+			location = 5824
+			regiment = { type = hq_brigade name = "第8军团" historical_model = 0 }
+			division = {
+				is_reserve = yes
+				name = "机械化步兵第333旅"
+				location = 5824
+				regiment = { type = armor_brigade name = "装甲第1营" historical_model = 0 }
+				regiment = { type = mechanized_brigade name = "机步第2营" historical_model = 0 }
+				regiment = { type = mechanized_brigade name = "机步第3营" historical_model = 0 }
+				regiment = { type = sp_artillery_brigade name = "自走第4营" historical_model = 0 }
+			}
+			division = {
+				is_reserve = yes
+				name = "机械化步兵第564旅"
+				location = 5824
+				regiment = { type = armor_brigade name = "装甲第1营" historical_model = 0 }
+				regiment = { type = mechanized_brigade name = "机步第2营" historical_model = 0 }
+				regiment = { type = sp_artillery_brigade name = "自走第3营" historical_model = 0 }
+			}
+			division = {
+				is_reserve = yes
+				name = "步兵第203旅"
+				location = 5824
+				regiment = { type = infantry_brigade name = "机步第1营" historical_model = 0 }
+				regiment = { type = infantry_brigade name = "机步第2营" historical_model = 0 }
+			}
+			division = {
+				is_reserve = yes
+				name = "炮兵第43指挥部"
+				location = 5824
+				regiment = { type = sp_artillery_brigade name = "自走第1营" historical_model = 0 }
+				regiment = { type = sp_artillery_brigade name = "自走第2营" historical_model = 0 }
+			}
+		}		
+		corps = {
+			name = "第10军团"
+			location = 5794
+			regiment = { type = hq_brigade name = "第10军团" historical_model = 0 }
+			division = {
+				is_reserve = yes
+				name = "机械化步兵第586旅"
+				location = 5794
+				regiment = { type = armor_brigade name = "装甲第1营" historical_model = 0 }
+				regiment = { type = mechanized_brigade name = "机步第2营" historical_model = 0 }
+				regiment = { type = sp_artillery_brigade name = "自走第3营" historical_model = 0 }
+			}
+			division = {
+				is_reserve = yes
+				name = "步兵第234旅"
+				location = 5794
+				regiment = { type = infantry_brigade name = "机步第1营" historical_model = 0 }
+				regiment = { type = infantry_brigade name = "机步第2营" historical_model = 0 }
+			}
+			division = {
+				is_reserve = yes
+				name = "步兵第302旅"
+				location = 5794
+				regiment = { type = infantry_brigade name = "机步第1营" historical_model = 0 }
+				regiment = { type = infantry_brigade name = "机步第2营" historical_model = 0 }
+			}
+			division = {
+				is_reserve = yes
+				name = "步兵第104旅"
+				location = 5794
+				regiment = { type = infantry_brigade name = "机步第1营" historical_model = 0 }
+				regiment = { type = infantry_brigade name = "机步第2营" historical_model = 0 }
+			}
+			division = {
+				is_reserve = yes
+				name = "步兵第257旅"
+				location = 5794
+				regiment = { type = infantry_brigade name = "机步第1营" historical_model = 0 }
+				regiment = { type = infantry_brigade name = "机步第2营" historical_model = 0 }
+			}
+			division = {
+				is_reserve = yes
+				name = "炮兵第58指挥部"
+				location = 5794
+				regiment = { type = sp_artillery_brigade name = "自走第1营" historical_model = 0 }
+				regiment = { type = sp_artillery_brigade name = "自走第2营" historical_model = 0 }
+			}
+		}
+		corps = {
+			name = "国防部宪兵司令部"
+			location = 5737
+			regiment = { type = hq_brigade name = "国防部宪兵司令部" historical_model = 0 }
+			division = {
+				is_reserve = yes
+				name = "宪兵特勤队"
+				location = 5737
+				regiment = { type = special_forces_brigade name = "特种第1营" historical_model = 0 }
+				regiment = { type = special_forces_brigade name = "特种第2营" historical_model = 0 }
+				regiment = { type = special_forces_brigade name = "特种第3营" historical_model = 0 }
+				regiment = { type = special_forces_brigade name = "特种第4营" historical_model = 0 }
+			}
+			division = {
+				is_reserve = yes
+				name = "第202宪兵指挥部"
+				location = 5794
+				regiment = { type = armor_brigade name = "装甲宪兵第1营" historical_model = 0 }
+				regiment = { type = infantry_brigade name = "机动宪兵第2营" historical_model = 0 }
+				regiment = { type = police_brigade name = "宪兵第3营" historical_model = 0 }
+				regiment = { type = sp_artillery_brigade name = "自走第4营" historical_model = 0 }
+			}
+			division = {
+				is_reserve = yes
+				name = "第203宪兵指挥部"
+				location = 5794
+				regiment = { type = infantry_brigade name = "机动宪兵第1营" historical_model = 0 }
+				regiment = { type = police_brigade name = "宪兵第1营" historical_model = 0 }
+				regiment = { type = sp_artillery_brigade name = "自走第3营" historical_model = 0 }
+			}
+			division = {
+				is_reserve = yes
+				name = "第204宪兵指挥部"
+				location = 5794
+				regiment = { type = infantry_brigade name = "机动宪兵第1营" historical_model = 0 }
+				regiment = { type = police_brigade name = "宪兵第1营" historical_model = 0 }
+				regiment = { type = sp_artillery_brigade name = "自走第3营" historical_model = 0 }
+			}
+			division = {
+				is_reserve = yes
+				name = "第205宪兵指挥部"
+				location = 5794
+				regiment = { type = infantry_brigade name = "机动宪兵第1营" historical_model = 0 }
+				regiment = { type = police_brigade name = "宪兵第1营" historical_model = 0 }
+				regiment = { type = sp_artillery_brigade name = "自走第3营" historical_model = 0 }
+			}
+	        }
+	}
+corps = {
+name = "空军司令部"
+location = 5737
+regiment = { type = hq_brigade name = "陆军航空特战司令部" historical_model = 0 }
+	air = {
+	name = "第401战术混合联队"
+	base = 5769
+	location = 5769
+	wing = { type = light_fighter name = "第401战术混合联队" historical_model = 0 }
+	}
+	
+	air = {
+	name = "第455战术战斗机联队"
+	base = 5809
+	location = 5809
+	wing = { type = light_fighter name = "第455战术战斗机联队" historical_model = 0 }
+	}
+	
+	air = {
+	name = "第499战术战斗机联队"
+	base = 5769
+	location = 5769
+	wing = { type = multi_role name = "第499战术战斗机联队" historical_model = 0 }
+	}
+	
+	air = {
+	name = "第427战术战斗机联队"
+	base = 5737
+	location = 5737
+	wing = { type = light_fighter name = "第427战术战斗机联队" historical_model = 0 }
+	}
+	
+	air = {
+	name = "第443战术战斗机联队"
+	base = 5809
+	location = 5809
+	wing = { type = multi_role name = "第443战术战斗机联队" historical_model = 0 }
+	}
+	
+	air = {
+	name = "第737战术战斗机联队"
+	base = 5809
+	location = 5809
+	wing = { type = light_fighter name = "第737战术战斗机联队" historical_model = 0 }
+	}
+	
+	air = {
+	name = "第10空运大队"
+	base = 5809
+	location = 5809
+	wing = { type = transport_plane name = "第10空运大队" historical_model = 0 }
+	}
+	
+	navy = {
+	name = "中华民国海军司令部"
+	base = 5737
+	location = 5737
+	ship = { type = heavy_cruiser name = "阳字号驱逐舰-正阳号(DD-928)" historical_model = 0 }
+	ship = { type = heavy_cruiser name = "阳字号驱逐舰-云阳号(DD-927)" historical_model = 0 }
+	ship = { type = heavy_cruiser name = "阳字号驱逐舰-邵阳号(DD-929)" historical_model = 0 }
+	ship = { type = heavy_cruiser name = "阳字号驱逐舰-辽阳号(DD-921)" historical_model = 0 }
+	ship = { type = heavy_cruiser name = "阳字号驱逐舰-建阳号(DD-912)" historical_model = 0 }
+	ship = { type = heavy_cruiser name = "阳字号驱逐舰-德阳号(DD-925)" historical_model = 0 }
+	ship = { type = heavy_cruiser name = "阳字号驱逐舰-沈阳号(DD-923)" historical_model = 0 }
+	ship = { type = heavy_cruiser name = "成功级巡防舰-成功号(PFG-1101)" historical_model = 0 }
+	ship = { type = heavy_cruiser name = "成功级巡防舰-郑和号(PFG-1103)" historical_model = 0 }
+	ship = { type = heavy_cruiser name = "成功级巡防舰-继光号(PFG-1105)" historical_model = 0 }
+	ship = { type = heavy_cruiser name = "成功级巡防舰-岳飞号(PFG-1106)" historical_model = 0 }
+	ship = { type = heavy_cruiser name = "成功级巡防舰-子仪号(PFG-1107)" historical_model = 0 }
+	ship = { type = heavy_cruiser name = "成功级巡防舰-班超号(PFG-1108)" historical_model = 0 }
+	ship = { type = heavy_cruiser name = "成功级巡防舰-张骞号(PFG-1119)" historical_model = 0 }
+	ship = { type = heavy_cruiser name = "济阳级巡防舰-济阳号(FFG-932)" historical_model = 0 }
+	ship = { type = heavy_cruiser name = "济阳级巡防舰-凤阳号(FFG-933)" historical_model = 0 }
+	ship = { type = heavy_cruiser name = "济阳级巡防舰-汾阳号(FFG-934)" historical_model = 0 }
+	ship = { type = heavy_cruiser name = "济阳级巡防舰-兰阳号(FFG-935)" historical_model = 0 }
+	ship = { type = heavy_cruiser name = "济阳级巡防舰-海阳号(FFG-936)" historical_model = 0 }
+	ship = { type = heavy_cruiser name = "济阳级巡防舰-淮阳号(FFG-937)g" historical_model = 0 }
+	ship = { type = heavy_cruiser name = "济阳级巡防舰-宁阳号(FFG-938)" historical_model = 0 }
+	ship = { type = heavy_cruiser name = "济阳级巡防舰-宜阳号(FFG-939)" historical_model = 0 }
+	ship = { type = heavy_cruiser name = "康定级巡防舰-康定号(PFG -1202)" historical_model = 0 }
+	ship = { type = heavy_cruiser name = "康定级巡防舰-西宁号(PFG -1203)" historical_model = 0 }
+	ship = { type = heavy_cruiser name = "康定级巡防舰-昆明号(PFG -1205)" historical_model = 0 }
+	ship = { type = heavy_cruiser name = "康定级巡防舰-迪化号(PFG -1206)" historical_model = 0 }
+	ship = { type = heavy_cruiser name = "康定级巡防舰-武昌号(PFG -1207)" historical_model = 0 }
+	ship = { type = heavy_cruiser name = "康定级巡防舰-承德号(PFG -1208)" historical_model = 0 }
+	ship = { type = submarine name = "海龙号潜舰(SS-793)" historical_model = 0 }
+	ship = { type = submarine name = "海虎号潜舰(SS-794)" historical_model = 0 }
+	ship = { type = submarine name = "海狮号潜舰(SS-791)" historical_model = 0 }
+	ship = { type = submarine name = "海豹号潜舰(SS-792)" historical_model = 0 }
+	ship = { type = invasion_transport_ship name = "旭海号船坞登陆舰(LSD-193)" historical_model = 0 }
+	ship = { type = invasion_transport_ship name = "中正號船塢登陸艦(LSD-191)" historical_model = 0 }
+
+	}
+	
+}
+	

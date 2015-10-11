@@ -1,0 +1,202 @@
+theatre = {
+	name = "Singapore Armed Forces"
+	location = 6394
+	regiment = { type = hq_brigade name = "Armed Forces HQ" historical_model = 2 }
+	army = {
+		name = "Singapore Army"
+		location = 6394
+		regiment = { type = hq_brigade name = "Army HQ" historical_model = 2 }
+		corps = {
+			name = "3rd Singapore Division"
+			location = 6394
+			regiment = { type = hq_brigade name = "3rd Division HQ" historical_model = 2 }
+			division = {
+				is_reserve = yes
+				name = "3rd Singapore Infantry Brigade"
+				location = 6394
+				regiment = { type = infantry_brigade name = "31st Battalion" historical_model = 2 }
+				regiment = { type = infantry_brigade name = "32nd Battalion" historical_model = 2 }
+				regiment = { type = infantry_brigade name = "33rd Battalion" historical_model = 2 }
+				regiment = { type = artillery_brigade name = "3rd Division Artillery" historical_model = 1 }
+			}
+			division = {
+				is_reserve = yes
+				name = "5th Singapore Infantry Brigade"
+				location = 6394
+				regiment = { type = infantry_brigade name = "51st Battalion" historical_model = 2 }
+				regiment = { type = infantry_brigade name = "52nd Battalion" historical_model = 2 }
+				regiment = { type = infantry_brigade name = "53rd Battalion" historical_model = 2 }
+			}
+			division = {
+				is_reserve = yes
+				name = "24th Singapore Infantry Brigade"
+				location = 6394
+				regiment = { type = infantry_brigade name = "241st Battalion" historical_model = 2 }
+				regiment = { type = infantry_brigade name = "242nd Battalion" historical_model = 2 }
+				regiment = { type = infantry_brigade name = "243rd Battalion" historical_model = 2 }
+			}
+			division = {
+				is_reserve = yes
+				name = "30th Singapore Infantry Brigade"
+				location = 6394
+				regiment = { type = infantry_brigade name = "301st Battalion" historical_model = 2 }
+				regiment = { type = infantry_brigade name = "302nd Battalion" historical_model = 2 }
+				regiment = { type = infantry_brigade name = "303rd Battalion" historical_model = 2 }
+			}
+			division = {
+				is_reserve = yes
+				name = "8th Singapore Armoured Brigade"
+				location = 6394
+				regiment = { type = armor_brigade name = "81st Battalion" historical_model = 0 }
+				regiment = { type = armor_brigade name = "82nd Battalion" historical_model = 0 }
+				regiment = { type = armor_brigade name = "83rd Battalion" historical_model = 0 }
+			}
+		}
+		corps = {
+			name = "6th Singapore Division"
+			location = 6394
+			regiment = { type = hq_brigade name = "6th Division HQ" historical_model = 2 }
+			division = {
+				is_reserve = yes
+				name = "2nd Singapore Infantry Brigade"
+				location = 6394
+				regiment = { type = infantry_brigade name = "21st Battalion" historical_model = 2 }
+				regiment = { type = infantry_brigade name = "22nd Battalion" historical_model = 2 }
+				regiment = { type = infantry_brigade name = "23rd Battalion" historical_model = 2 }
+				regiment = { type = artillery_brigade name = "6th Division Artillery" historical_model = 1 }
+			}
+			division = {
+				is_reserve = yes
+				name = "9th Singapore Infantry Brigade"
+				location = 6394
+				regiment = { type = infantry_brigade name = "91st Battalion" historical_model = 2 }
+				regiment = { type = infantry_brigade name = "92nd Battalion" historical_model = 2 }
+				regiment = { type = infantry_brigade name = "93rd Battalion" historical_model = 2 }
+				regiment = { type = engineer_brigade name = "6th Division Engineers" historical_model = 2 }
+			}
+			division = {
+				is_reserve = yes
+				name = "76th Singapore Infantry Brigade"
+				location = 6394
+				regiment = { type = infantry_brigade name = "761st Battalion" historical_model = 2 }
+				regiment = { type = infantry_brigade name = "762nd Battalion" historical_model = 2 }
+				regiment = { type = infantry_brigade name = "763rd Battalion" historical_model = 2 }
+			}
+			division = {
+				is_reserve = yes
+				name = "54th Singapore Armoured Brigade"
+				location = 6394
+				regiment = { type = armor_brigade name = "541st Battalion" historical_model = 0 }
+				regiment = { type = armor_brigade name = "542nd Battalion" historical_model = 0 }
+				regiment = { type = armor_brigade name = "543rd Battalion" historical_model = 0 }
+			}
+		}
+		corps = {
+			name = "9th Singapore Division"
+			location = 6394
+			regiment = { type = hq_brigade name = "9th Division HQ" historical_model = 2 }
+			division = {
+				is_reserve = yes
+				name = "10th Singapore Infantry Brigade"
+				location = 6394
+				regiment = { type = infantry_brigade name = "101st Battalion" historical_model = 2 }
+				regiment = { type = infantry_brigade name = "102nd Battalion" historical_model = 2 }
+				regiment = { type = infantry_brigade name = "103rd Battalion" historical_model = 2 }
+				regiment = { type = artillery_brigade name = "9th Division Artillery" historical_model = 1 }
+			}
+			division = {
+				is_reserve = yes
+				name = "12th Singapore Infantry Brigade"
+				location = 6394
+				regiment = { type = infantry_brigade name = "121st Battalion" historical_model = 2 }
+				regiment = { type = infantry_brigade name = "122nd Battalion" historical_model = 2 }
+				regiment = { type = infantry_brigade name = "123rd Battalion" historical_model = 2 }
+				regiment = { type = engineer_brigade name = "9th Division Engineers" historical_model = 2 }
+			}
+			division = {
+				is_reserve = yes
+				name = "56th Singapore Armoured Brigade"
+				location = 6394
+				regiment = { type = armor_brigade name = "561st Battalion" historical_model = 0 }
+				regiment = { type = armor_brigade name = "562nd Battalion" historical_model = 0 }
+				regiment = { type = armor_brigade name = "563rd Battalion" historical_model = 0 }
+			}
+		}
+		corps = {
+			name = "21st Singapore Division"
+			location = 6394
+			regiment = { type = hq_brigade name = "21st Division HQ" historical_model = 2 }
+			division = {
+				is_reserve = yes
+				name = "7th Singapore Infantry Brigade"
+				location = 6394
+				regiment = { type = air_cavalry_brigade name = "71st Battalion" historical_model = 2 }
+				regiment = { type = air_cavalry_brigade name = "72nd Battalion" historical_model = 2 }
+				regiment = { type = air_cavalry_brigade name = "73rd Battalion" historical_model = 2 }
+			}
+			division = {
+				is_reserve = yes
+				name = "13th Singapore Infantry Brigade"
+				location = 6394
+				regiment = { type = marine_brigade name = "131st Battalion" historical_model = 2 }
+				regiment = { type = marine_brigade name = "132nd Battalion" historical_model = 2 }
+				regiment = { type = marine_brigade name = "133rd Battalion" historical_model = 2 }
+			}
+			division = {
+				is_reserve = yes
+				name = "15th Singapore Infantry Brigade"
+				location = 6394
+				regiment = { type = special_forces_brigade name = "151st Battalion" historical_model = 2 }
+				regiment = { type = special_forces_brigade name = "152nd Battalion" historical_model = 2 }
+				regiment = { type = special_forces_brigade name = "153rd Battalion" historical_model = 2 }
+			}
+		}
+	}
+	
+	air = {
+	name = "Singapore Air Force"
+	base = 6394
+	location = 6394
+	wing = { type = multi_role name = "145 'Hornet' Squadron" historical_model = 0 }
+	wing = { type = multi_role name = "140 'Osprey' Squadron" historical_model = 0 }
+	wing = { type = multi_role name = "143 'Phoenix' Squadron" historical_model = 0 }
+	wing = { type = interceptor name = "144 'Blackite' Squadron" historical_model = 0 }
+	wing = { type = transport_plane name = "122 Squadron" historical_model = 0 }
+	}
+	
+	navy = {
+	name = "Singapore Navy"
+	base = 6394
+	location = 6394
+	ship = { type = submarine name = "RSS Challenger" historical_model = 0 }
+	ship = { type = submarine name = "RSS Conqueror" historical_model = 0 }
+	ship = { type = submarine name = "RSS Centurion" historical_model = 0 }
+	ship = { type = submarine name = "RSS Chieftain" historical_model = 0 }
+	ship = { type = light_cruiser name = "RSS Victory" historical_model = 0 }
+	ship = { type = light_cruiser name = "RSS Valour" historical_model = 0 }
+	ship = { type = light_cruiser name = "RSS Vigilance" historical_model = 0 }
+	ship = { type = light_cruiser name = "RSS Valiant" historical_model = 0 }
+	ship = { type = light_cruiser name = "RSS Vigour" historical_model = 0 }
+	ship = { type = light_cruiser name = "RSS Vengeance" historical_model = 0 }
+	ship = { type = patrol_boat name = "RSS Fearless" historical_model = 1 }
+	ship = { type = patrol_boat name = "RSS Brave" historical_model = 1 }
+	ship = { type = patrol_boat name = "RSS Courageous" historical_model = 1 }
+	ship = { type = patrol_boat name = "RSS Gallant" historical_model = 1 }
+	ship = { type = patrol_boat name = "RSS Daring" historical_model = 1 }
+	ship = { type = patrol_boat name = "RSS Dauntless" historical_model = 1 }
+	ship = { type = patrol_boat name = "RSS Resilience" historical_model = 1 }
+	ship = { type = patrol_boat name = "RSS Unity" historical_model = 1 }
+	ship = { type = patrol_boat name = "RSS Sovereignty" historical_model = 1 }
+	ship = { type = patrol_boat name = "RSS Justice" historical_model = 1 }
+	ship = { type = patrol_boat name = "RSS Freedom" historical_model = 1 }
+	ship = { type = patrol_boat name = "RSS Independence" historical_model = 1 }
+	ship = { type = patrol_boat name = "RSS Sea Wolf" historical_model = 0 }
+	ship = { type = patrol_boat name = "RSS Sea Lion" historical_model = 0 }
+	ship = { type = patrol_boat name = "RSS Sea Dragon" historical_model = 0 }
+	ship = { type = patrol_boat name = "RSS Sea Tiger" historical_model = 0 }
+	ship = { type = patrol_boat name = "RSS Sea Hawk" historical_model = 0 }
+	ship = { type = patrol_boat name = "RSS Sea Scorpion" historical_model = 0 }
+	}
+	
+}
+	

@@ -1,0 +1,10 @@
+owner = SOV
+controller = SOV
+add_core = SOV
+
+energy = 15.00
+infra = 8
+air_base = 1 #Klokovo airbase
+points = 1
+industry = 10
+manpower = 5.00

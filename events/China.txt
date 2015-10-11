@@ -1,0 +1,581 @@
+#台湾大选
+country_event = {
+
+	id = 10000
+	title = "台湾大选：民进党继续当选"
+	desc = "TWDX"
+	picture = "TWDX"
+	
+	major = yes
+	
+	trigger = {
+		tag = CHC
+		date = 2008.4.1
+                CHI = { ideology = paternal_autocrat }
+                NOT = { year = 2009 }
+	}
+
+	fire_only_once = yes
+
+	mean_time_to_happen =  { days = 1 }
+	
+	option = {
+		name = "开始行动"
+		ai_chance = { factor = 100 }
+                remove_country_modifier = "筹备奥运会"
+		CHC = {	
+		war = {	
+			target = CHI
+			attacker goal = { casus belli = conquer }
+			} 
+		}
+	}
+
+#筹备奥运会
+country_event = {
+
+	id = 10001
+	title = "筹备第29届奥运会"
+	desc = "CBBJAYH"
+	picture = "CBBJAYH"
+	
+	major = yes
+	
+	trigger = {
+                tag = CHC
+		date = 2005.1.12
+	}
+
+	fire_only_once = yes
+
+	mean_time_to_happen =  { days = 1 }
+	
+	option = {
+		name = "加紧准备"
+		ai_chance = { factor = 100 }
+		dissent = -10
+                add_country_modifier = {
+                name = "筹备奥运会"
+                duration = 480         }
+	}
+}
+#第29届奥运会1
+country_event = {
+
+	id = 10002
+	title = "第29届夏季奥运会开幕"
+	desc = "BJAYHKMS"
+	picture = "BJAYHKMS"
+	
+	major = yes
+	
+	trigger = {
+                tag = CHC
+		date = 2008.8.7
+                has_country_modifier = "筹备奥运会"
+	}
+
+	fire_only_once = yes
+
+	mean_time_to_happen =  { days = 1 }
+	
+	option = {
+		name = "开始开幕式"
+		ai_chance = { factor = 100 }
+                remove_country_modifier = "筹备奥运会"
+                add_country_modifier = {
+                name = "北京奥运会"
+                duration = 480         }
+	}
+}
+
+#第29届奥运会2
+country_event = {
+
+	id = 10003
+	title = "北京奥运会闭幕式"
+	desc = "BJAYHBMS"
+	picture = "BJAYHBMS"
+	
+	major = yes
+	
+	trigger = {
+                tag = CHC
+		date = 2008.8.23
+                has_country_modifier = "北京奥运会"
+	}
+
+	fire_only_once = yes
+
+	mean_time_to_happen =  { days = 1 }
+	
+	option = {
+		name = "结束了"
+		ai_chance = { factor = 100 }
+                remove_country_modifier = "北京奥运会"
+                national_unity = 2
+	}
+}
+
+#汶川大地震1
+country_event = {
+
+	id = 10004
+	title = "汶川大地震"
+	desc = "WCDDZ1"
+	picture = "WCDDZ1"
+	
+	major = yes
+	
+	trigger = {
+                tag = CHC
+		date = 2008.5.11
+	}
+
+	fire_only_once = yes
+
+	mean_time_to_happen =  { days = 1 }
+	
+	option = {
+		name = "命令全部有关部门全力参与救灾"
+		ai_chance = { factor = 100 }
+		country_event = 10005
+                add_country_modifier = {
+                name = "汶川大地震"
+                duration = 365         }
+                9415 = {
+     		industry = -2
+     		infra = -2
+     		change_manpower = -2
+   		}
+	}
+}
+
+#汶川大地震2
+country_event = {
+	
+	id = 10005
+
+	is_triggered_only = yes
+
+	title = "军队已到达灾区"
+	desc = "WCDDZ2"
+	picture = "WCDDZ2"
+
+	option = {
+		name = "全力救灾"
+		ai_chance = { factor = 100 }
+		country_event = 10006
+                add_country_modifier = {
+                name = "军队参与救灾"
+                duration = 180         }
+	}
+}
+
+#汶川大地震3
+country_event = {
+
+	id = 10006
+	title = "是否取消奥运会"
+	desc = "WCDDZ3"
+	picture = "WCDDZ3"
+	
+	major = yes
+	
+	trigger = {
+                tag = CHC
+		date = 2008.5.13
+                has_country_modifier = "汶川大地震"
+	}
+
+	fire_only_once = yes
+
+	mean_time_to_happen =  { days = 1 }
+	
+	option = {
+		name = "绝不取消"
+		ai_chance = { factor = 95 }
+	}
+	option = {
+		name = "救灾最重要"
+		ai_chance = { factor = 5 }
+                remove_country_modifier = "筹备奥运会"
+	}
+}
+
+#汶川大地震4
+country_event = {
+
+	id = 10007
+	title = "是否接受外国支援"
+	desc = "WCDDZ4"
+	picture = "WCDDZ4"
+	
+	major = yes
+	
+	trigger = {
+                tag = CHC
+		date = 2008.5.14
+                has_country_modifier = "汶川大地震"
+	}
+
+	fire_only_once = yes
+
+	mean_time_to_happen =  { days = 1 }
+	
+	option = {
+		name = "接受，救灾最重要"
+		ai_chance = { factor = 95 }
+                add_country_modifier = {
+                name = "接受外国支援"
+                duration = 180         }
+		relation = { who = JAP value = 10 } 
+		relation = { who = SOV value = 10 } 
+		relation = { who = USA value = 10 } 
+		relation = { who = CHI value = 10 }
+		relation = { who = GER value = 10 }
+	}
+	option = {
+		name = "我们能自己完成"
+		ai_chance = { factor = 5 }
+	}
+}
+
+#汶川大地震5
+country_event = {
+
+	id = 10008
+	title = "发现间谍行为"
+	desc = "WCDDZ5"
+	picture = "WCDDZ5"
+	
+	major = yes
+	
+	trigger = {
+                tag = CHC
+		date = 2008.5.35
+                has_country_modifier = "汶川大地震"
+                has_country_modifier = "接受外国支援"
+	}
+
+	fire_only_once = yes
+
+	mean_time_to_happen =  { days = 1 }
+	
+	option = {
+		name = "这帮混蛋"
+		ai_chance = { factor = 100 }
+		relation = { who = JAP value = -20 } 
+	}
+}
+
+#08年雪灾
+country_event = {
+
+	id = 10009
+	title = "南方爆发雪灾"
+	desc = "NFBFXZ"
+	picture = "NFBFXZ"
+	
+	major = yes
+	
+	trigger = {
+                tag = CHC
+		date = 2008.2.1
+	}
+
+	fire_only_once = yes
+
+	mean_time_to_happen =  { days = 1 }
+	
+	option = {
+		name = "什么..........."
+		ai_chance = { factor = 100 }
+		dissent = 1
+	}
+}
+
+#三鹿奶粉
+country_event = {
+
+	id = 10010
+	title = "毒奶粉事件"
+	desc = "SLNF"
+	picture = "SLNF"
+	
+	major = yes
+	
+	trigger = {
+                tag = CHC
+		date = 2008.9.16
+	}
+
+	fire_only_once = yes
+
+	mean_time_to_happen =  { days = 1 }
+	
+	option = {
+		name = "迅速抓捕主要涉案人员"
+		ai_chance = { factor = 100 }
+		dissent = 2
+	}
+}
+
+#神七飞天
+country_event = {
+
+	id = 10011
+	title = "神州7号载人火箭发射成功"
+	desc = "SZ7H"
+	picture = "SZ7H"
+	
+	major = yes
+	
+	trigger = {
+                tag = CHC
+		date = 2008.9.25
+	}
+
+	fire_only_once = yes
+
+	mean_time_to_happen =  { days = 1 }
+	
+	option = {
+		name = "这是一场新的胜利"
+		ai_chance = { factor = 100 }
+		dissent = -1
+	}
+}
+
+#世界第三大经济体
+country_event = {
+
+	id = 10012
+	title = "中国成为世界第三大经济体"
+	desc = "ZGSJDSDJJT"
+	picture = "ZGSJDSDJJT"
+	
+	major = yes
+	
+	trigger = {
+                tag = CHC
+		date = 2009.1.13
+	}
+
+	fire_only_once = yes
+
+	mean_time_to_happen =  { days = 1 }
+	
+	option = {
+		name = "距离祖国的复兴又近了一步"
+		ai_chance = { factor = 100 }
+		dissent = -1
+	}
+}
+
+#筹备阅兵式
+country_event = {
+
+	id = 10013
+	title = "60年国庆阅兵筹备工作"
+	desc = "60NGQYB"
+	picture = "60NGQYB"
+	
+	major = yes
+	
+	trigger = {
+                tag = CHC
+		date = 2009.1.19
+	}
+
+	fire_only_once = yes
+
+	mean_time_to_happen =  { days = 1 }
+	
+	option = {
+		name = "开始行动"
+		ai_chance = { factor = 100 }
+		dissent = -1
+                add_country_modifier = {
+                name = "60年国庆阅兵筹备"
+                duration = 840         }
+	}
+}
+
+#三鹿奶粉2
+country_event = {
+
+	id = 10014
+	title = "已抓获毒奶粉涉案人员"
+	desc = "SLNFX"
+	picture = "SLNFX"
+	
+	major = yes
+	
+	trigger = {
+                tag = CHC
+		date = 2009.1.21
+	}
+
+	fire_only_once = yes
+
+	mean_time_to_happen =  { days = 1 }
+	
+	option = {
+		name = "干得好"
+		ai_chance = { factor = 100 }
+		dissent = -1
+	}
+}
+
+#美国人权问题
+country_event = {
+
+	id = 10015
+	title = "《2008年美国的人权纪录》"
+	desc = "MGRQWT"
+	picture = "MGRQWT"
+	
+	major = yes
+	
+	trigger = {
+                tag = CHC
+		date = 2009.2.25
+	}
+
+	fire_only_once = yes
+
+	mean_time_to_happen =  { days = 1 }
+	
+	option = {
+		name = "说的好像美国人权很好一样"
+		ai_chance = { factor = 100 }
+	}
+}
+
+#菲律宾对黄岩岛提出领土要求
+country_event = {
+
+	id = 10016
+	title = "菲律宾国会通过领海基线法案"
+	desc = "FLBMSZDS"
+	picture = "FLBMSZDS"
+	
+	major = yes
+	
+	trigger = {
+                tag = CHC
+		date = 2009.2.16
+	}
+
+	fire_only_once = yes
+
+	mean_time_to_happen =  { days = 1 }
+	
+	option = {
+		name = "你为何这么吊"
+		ai_chance = { factor = 100 }
+		relation = { who = PHI value = -20 }
+	}
+}
+
+#乌鲁木齐打砸抢烧暴力犯罪事件
+country_event = {
+
+	id = 10017
+	title = "乌鲁木齐打砸抢烧暴力犯罪事件"
+	desc = "WLMQDZQSBLFZ"
+	picture = "WLMQDZQSBLFZ"
+	
+	major = yes
+	
+	trigger = {
+                tag = CHC
+		date = 2009.7.4
+	}
+
+	fire_only_once = yes
+
+	mean_time_to_happen =  { days = 1 }
+	
+	option = {
+		name = "一帮王八蛋"
+		ai_chance = { factor = 100 }
+		dissent = 1
+	}
+}
+
+#中国企业500强
+country_event = {
+
+	id = 10018
+	title = "中国企业500强名单及分析报告"
+	desc = "ZGQY500Q"
+	picture = "ZGQY500Q"
+	
+	major = yes
+	
+	trigger = {
+                tag = CHC
+		date = 2009.9.4
+	}
+
+	fire_only_once = yes
+
+	mean_time_to_happen =  { days = 1 }
+	
+	option = {
+		name = "好像很吊的样子"
+		ai_chance = { factor = 100 }
+	}
+}
+
+#上合组织成员国总理第8次会议
+country_event = {
+
+	id = 10019
+	title = "上合组织成员国总理第8次会议"
+	desc = "SHZZDBC"
+	picture = "SHZZDBC"
+	
+	major = yes
+	
+	trigger = {
+                tag = CHC
+		date = 2009.10.16
+	}
+
+	fire_only_once = yes
+
+	mean_time_to_happen =  { days = 1 }
+	
+	option = {
+		name = "........"
+		ai_chance = { factor = 100 }
+	}
+}
+
+#钱学森逝世
+country_event = {
+
+	id = 10020
+	title = "钱学森逝世"
+	desc = "QXSSS"
+	picture = "QXSSS"
+	
+	major = yes
+	
+	trigger = {
+                tag = CHC
+		date = 2009.10.30
+	}
+
+	fire_only_once = yes
+
+	mean_time_to_happen =  { days = 1 }
+	
+	option = {
+		name = "钱老走好"
+		ai_chance = { factor = 100 }
+	}
+}

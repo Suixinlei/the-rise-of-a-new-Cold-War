@@ -1,0 +1,13 @@
+owner = USA
+controller = USA
+add_core = USA
+
+infra = 10
+manpower = 10.00
+energy = 20.00
+metal = 5.00
+rare_materials = 5.00
+air_base = 2 #Baltimore airport
+naval_base = 10 #Baltimore port
+points = 1
+leadership = 1.00

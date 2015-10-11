@@ -1,0 +1,10 @@
+owner = SUD
+controller = SUD
+add_core = SUD
+add_core = SSU
+manpower = 2.3
+infra = 2
+air_base = 2 #Juba airbase
+leadership = 0.50
+points = 1
+industry = 1

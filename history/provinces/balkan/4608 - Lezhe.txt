@@ -1,0 +1,6 @@
+owner = ALB
+controller = ALB
+add_core = ALB
+
+infra = 6
+air_base = 4 #Gjader airbase

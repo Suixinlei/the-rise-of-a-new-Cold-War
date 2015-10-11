@@ -1,0 +1,12 @@
+owner = SOV
+
+controller = SOV
+
+add_core = SOV
+
+infra = 2
+terrain = arctic
+
+air_base = 3 #Ugolny airbase
+naval_base = 1
+points = 1

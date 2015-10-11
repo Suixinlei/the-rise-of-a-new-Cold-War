@@ -1,0 +1,61 @@
+capital = 4663
+government = republic
+ideology = social_democrat
+head_of_government = 502
+head_of_state = 501
+foreign_minister = 504
+armament_minister = 506
+minister_of_security = 505
+minister_of_intelligence = 510
+chief_of_staff = 507
+chief_of_army = 507
+chief_of_navy = 507
+chief_of_air = 507
+alignment = { x = 100 y = 78.9 }
+neutrality = 80
+national_unity = 70
+
+
+oob = "ALB_2000.txt"
+
+popularity = { 
+	national_socialist = 0
+	fascistic = 0
+	paternal_autocrat = 0
+	social_conservative = 5
+	market_liberal = 3
+	social_liberal = 37
+	social_democrat = 4
+	left_wing_radical = 41
+	leninist = 0
+	stalinist = 0
+}
+
+organization = { 
+	national_socialist = 0
+	fascistic = 0
+	paternal_autocrat = 0
+	social_conservative = 15
+	market_liberal = 9
+	social_liberal = 111
+	social_democrat = 12
+	left_wing_radical = 123
+	leninist = 0
+	stalinist = 0
+}
+
+conscription_policy = military_service
+press_laws = free_press
+mobilisation_level = peace_time
+civil_laws = open_society
+economic_policy = limit_intervention
+service_length = six_months
+
+
+industrial_facilities = 1
+industral_production = 1
+industral_efficiency = 1
+weapon_design = 1
+the_fuselage_design = 1
+main_battle_tank = 1
+ship_hull = 1

@@ -1,0 +1,53 @@
+capital = 9054
+government = autocratic_democracy
+ideology = social_conservative
+head_of_state = 79501
+head_of_government = 79502
+foreign_minister = 79503
+armament_minister = 79512
+minister_of_security = 79511
+minister_of_intelligence = 79507
+chief_of_staff = 79506
+chief_of_army = 79505
+chief_of_navy = 79505
+chief_of_air = 79505
+alignment = { x = 0 y = 50 }
+neutrality = 80
+national_unity = 70
+2006.1.1 = { join_faction = comintern }
+oob = "TAJ_2000.txt" 
+
+
+popularity = { 
+	national_socialist = 29
+	fascistic = 0
+	paternal_autocrat = 0
+	social_conservative = 68
+	market_liberal = 0
+	social_liberal = 0
+	social_democrat = 0
+	left_wing_radical = 0
+	leninist = 0
+	stalinist = 20
+}
+
+organization = { 
+	national_socialist = 27
+	fascistic = 0
+	paternal_autocrat = 0
+	social_conservative = 150
+	market_liberal = 0
+	social_liberal = 0
+	social_democrat = 0
+	left_wing_radical = 0
+	leninist = 0
+	stalinist = 60
+}
+
+conscription_policy = military_service
+press_laws = censorship
+mobilisation_level = peace_time
+civil_laws = restrictions
+service_length = eighteen_months
+economic_policy = limit_intervention
+

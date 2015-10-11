@@ -1,0 +1,11 @@
+ owner = USA
+
+ controller = USA
+
+add_core = IRQ
+
+infra = 7
+
+air_base = 3 #Al-Taqaddum airbase
+leadership = 2.50
+points = 1

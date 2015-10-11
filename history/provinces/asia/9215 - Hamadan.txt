@@ -1,0 +1,9 @@
+owner = PER
+
+controller = PER
+
+add_core = PER
+
+infra = 4
+air_base = 1 #Hamadan airbase
+points = 1

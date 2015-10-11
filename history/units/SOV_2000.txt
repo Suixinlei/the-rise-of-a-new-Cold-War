@@ -1,0 +1,1134 @@
+theatre = {
+	name = "俄罗斯联邦武装力量最高指挥部"
+	location = 1409
+	regiment = { type = hq_brigade name = "俄罗斯联邦武装力量最高指挥部" historical_model = 2 }
+		division = {
+			is_reserve = yes
+			name = "近卫第27摩步旅"
+		        location = 1321
+			regiment = { type = armor_brigade name = "第1坦克营" historical_model = 2 }
+			regiment = { type = armor_brigade name = "第2坦克营" historical_model = 2 }
+			regiment = { type = armor_brigade name = "第3坦克营" historical_model = 2 }
+			regiment = { type = mechanized_brigade name = "第4步兵营" historical_model = 2 }
+			regiment = { type = sp_artillery_brigade name = "第5炮兵营" historical_model = 3 }
+		}
+		division = {
+			is_reserve = yes
+			name = "海军步兵"
+		        location = 782
+			regiment = { type = marine_brigade name = "第1步兵团" historical_model = 2 }
+			regiment = { type = marine_brigade name = "第2步兵团" historical_model = 2 }
+			regiment = { type = marine_brigade name = "第3步兵团" historical_model = 2 }
+		}
+		division = {
+			is_reserve = yes
+			name = "第39摩步旅"
+		        location = 1527
+			regiment = { type = armor_brigade name = "第1坦克营" historical_model = 2 }
+			regiment = { type = armor_brigade name = "第2坦克营" historical_model = 2 }
+			regiment = { type = mechanized_brigade name = "第3步兵营" historical_model = 2 }
+			regiment = { type = mechanized_brigade name = "第4步兵营" historical_model = 2 }
+			regiment = { type = sp_artillery_brigade name = "第5炮兵营" historical_model = 3 }
+		}
+		division = {
+			is_reserve = yes
+			name = "第151炮兵旅"
+		        location = 1527
+			regiment = { type = sp_artillery_brigade name = "第1炮兵营" historical_model = 3 }
+			regiment = { type = sp_artillery_brigade name = "第2炮兵营" historical_model = 3 }
+			regiment = { type = sp_artillery_brigade name = "第3炮兵营" historical_model = 3 }
+		}
+        army = {
+		name = "俄罗斯空降军"
+		location = 1231
+		regiment = { type = hq_brigade name = "俄罗斯空降军" historical_model = 1 }
+		division = {
+			is_reserve = yes
+			name = "第4空降师"
+		        location = 1231
+			regiment = { type = paratrooper_brigade name = "第1伞兵团" historical_model = 2 }
+			regiment = { type = paratrooper_brigade name = "第2伞兵团" historical_model = 2 }
+			regiment = { type = paratrooper_brigade name = "第3伞兵团" historical_model = 2 }
+			regiment = { type = paratrooper_brigade name = "第4伞兵团" historical_model = 2 }	
+		}
+		division = {
+			is_reserve = yes
+			name = "第76空降师"
+		        location = 1231
+			regiment = { type = paratrooper_brigade name = "第1伞兵团" historical_model = 2 }
+			regiment = { type = paratrooper_brigade name = "第2伞兵团" historical_model = 2 }
+			regiment = { type = paratrooper_brigade name = "第3伞兵团" historical_model = 2 }
+			regiment = { type = paratrooper_brigade name = "第4伞兵团" historical_model = 2 }
+		}
+		division = {
+			is_reserve = yes
+			name = "第106空降师"
+		        location = 1231
+			regiment = { type = paratrooper_brigade name = "第1伞兵团" historical_model = 2 }
+			regiment = { type = paratrooper_brigade name = "第2伞兵团" historical_model = 2 }
+			regiment = { type = paratrooper_brigade name = "第3伞兵团" historical_model = 2 }
+			regiment = { type = paratrooper_brigade name = "第4伞兵团" historical_model = 2 }
+		}
+		division = {
+			is_reserve = yes
+			name = "第31空降旅"
+		        location = 1231
+			regiment = { type = paratrooper_brigade name = "第1伞兵团" historical_model = 2 }
+			regiment = { type = paratrooper_brigade name = "第2伞兵团" historical_model = 2 }
+		}
+	}
+        army = {
+		name = "第6集团军"
+		location = 1065
+		regiment = { type = hq_brigade name = "第6集团军" historical_model = 1 }
+		division = {
+			is_reserve = yes
+			name = "第25摩步旅"
+		        location = 1065
+			regiment = { type = armor_brigade name = "第1坦克营" historical_model = 2 }
+			regiment = { type = armor_brigade name = "第2坦克营" historical_model = 2 }
+			regiment = { type = mechanized_brigade name = "第3步兵营" historical_model = 2 }
+			regiment = { type = mechanized_brigade name = "第4步兵营" historical_model = 2 }
+			regiment = { type = sp_artillery_brigade name = "第5炮兵营" historical_model = 3 }
+		}
+		division = {
+			is_reserve = yes
+			name = "近卫第138摩步旅"
+		        location = 1065
+			regiment = { type = armor_brigade name = "第1坦克营" historical_model = 2 }
+			regiment = { type = armor_brigade name = "第2坦克营" historical_model = 2 }
+			regiment = { type = armor_brigade name = "第3坦克营" historical_model = 2 }
+			regiment = { type = mechanized_brigade name = "第4步兵营" historical_model = 2 }
+			regiment = { type = sp_artillery_brigade name = "第5炮兵营" historical_model = 3 }
+		}
+		division = {
+			is_reserve = yes
+			name = "近卫第200坦克旅"
+		        location = 1065
+			regiment = { type = armor_brigade name = "第1坦克营" historical_model = 2 }
+			regiment = { type = armor_brigade name = "第2坦克营" historical_model = 2 }
+			regiment = { type = armor_brigade name = "第3坦克营" historical_model = 2 }
+			regiment = { type = mechanized_brigade name = "第4步兵营" historical_model = 2 }
+			regiment = { type = sp_artillery_brigade name = "第5炮兵营" historical_model = 3 }
+		}
+		division = {
+			is_reserve = yes
+			name = "第29摩步旅"
+		        location = 1065
+			regiment = { type = armor_brigade name = "第1坦克营" historical_model = 2 }
+			regiment = { type = armor_brigade name = "第2坦克营" historical_model = 2 }
+			regiment = { type = mechanized_brigade name = "第3步兵营" historical_model = 2 }
+			regiment = { type = mechanized_brigade name = "第4步兵营" historical_model = 2 }
+			regiment = { type = sp_artillery_brigade name = "第5炮兵营" historical_model = 3 }
+		}
+		division = {
+			is_reserve = yes
+			name = "近卫第9炮兵旅"
+		        location = 1065
+			regiment = { type = sp_artillery_brigade name = "第1炮兵营" historical_model = 3 }
+			regiment = { type = sp_artillery_brigade name = "第2炮兵营" historical_model = 3 }
+			regiment = { type = sp_artillery_brigade name = "第3炮兵营" historical_model = 3 }
+		}
+		division = {
+			is_reserve = yes
+			name = "第268炮兵旅"
+		        location = 1065
+			regiment = { type = sp_artillery_brigade name = "第1炮兵营" historical_model = 3 }
+			regiment = { type = sp_artillery_brigade name = "第2炮兵营" historical_model = 3 }
+			regiment = { type = sp_artillery_brigade name = "第3炮兵营" historical_model = 3 }
+		}
+		division = {
+			is_reserve = yes
+			name = "第2特战旅"
+		        location = 1065
+			regiment = { type = special_forces_brigade name = "第1特战营" historical_model = 3 }
+			regiment = { type = special_forces_brigade name = "第2特战营" historical_model = 3 }
+		}
+                division = {
+		        is_reserve = yes
+			name = "第6陆军航空团"
+			location = 1065
+			regiment = { type = air_cavalry_brigade name = "第1空骑兵营" historical_model = 3 }
+			regiment = { type = air_cavalry_brigade name = "第2空骑兵营" historical_model = 3 }
+			regiment = { type = attack_helicopter_brigade name = "第3反坦克营" historical_model = 3 }
+               }
+	}
+        army = {
+		name = "近卫第20集团军"
+		location = 1536
+		regiment = { type = hq_brigade name = "近卫第20集团军" historical_model = 1 }
+		division = {
+			is_reserve = yes
+			name = "近卫第2坦克师"
+		        location = 1536
+			regiment = { type = armor_brigade name = "第1坦克营" historical_model = 2 }
+			regiment = { type = armor_brigade name = "第2坦克营" historical_model = 2 }
+			regiment = { type = armor_brigade name = "第3坦克营" historical_model = 2 }
+			regiment = { type = armor_brigade name = "第4坦克营" historical_model = 2 }
+			regiment = { type = mechanized_brigade name = "第5步兵营" historical_model = 2 }
+			regiment = { type = sp_artillery_brigade name = "第6炮兵营" historical_model = 3 }
+		}
+		division = {
+			is_reserve = yes
+			name = "近卫第8坦克师"
+		        location = 1536
+			regiment = { type = armor_brigade name = "第1坦克营" historical_model = 2 }
+			regiment = { type = armor_brigade name = "第2坦克营" historical_model = 2 }
+			regiment = { type = armor_brigade name = "第3坦克营" historical_model = 2 }
+			regiment = { type = armor_brigade name = "第4坦克营" historical_model = 2 }
+			regiment = { type = mechanized_brigade name = "第5步兵营" historical_model = 2 }
+			regiment = { type = sp_artillery_brigade name = "第6炮兵营" historical_model = 3 }
+		}
+		division = {
+			is_reserve = yes
+			name = "近卫第6坦克旅"
+		        location = 1536
+			regiment = { type = armor_brigade name = "第1坦克营" historical_model = 2 }
+			regiment = { type = armor_brigade name = "第2坦克营" historical_model = 2 }
+			regiment = { type = armor_brigade name = "第3坦克营" historical_model = 2 }
+			regiment = { type = mechanized_brigade name = "第4步兵营" historical_model = 2 }
+			regiment = { type = sp_artillery_brigade name = "第5炮兵营" historical_model = 3 }
+		}
+		division = {
+			is_reserve = yes
+			name = "第9摩步旅"
+		        location = 1536
+			regiment = { type = armor_brigade name = "第1坦克营" historical_model = 2 }
+			regiment = { type = armor_brigade name = "第2坦克营" historical_model = 2 }
+			regiment = { type = mechanized_brigade name = "第3步兵营" historical_model = 2 }
+			regiment = { type = mechanized_brigade name = "第4步兵营" historical_model = 2 }
+			regiment = { type = sp_artillery_brigade name = "第5炮兵营" historical_model = 3 }
+		}
+		division = {
+			is_reserve = yes
+			name = "第10摩步旅"
+		        location = 1536
+			regiment = { type = armor_brigade name = "第1坦克营" historical_model = 2 }
+			regiment = { type = armor_brigade name = "第2坦克营" historical_model = 2 }
+			regiment = { type = mechanized_brigade name = "第3步兵营" historical_model = 2 }
+			regiment = { type = mechanized_brigade name = "第4步兵营" historical_model = 2 }
+			regiment = { type = sp_artillery_brigade name = "第5炮兵营" historical_model = 3 }
+		}
+		division = {
+			is_reserve = yes
+			name = "第11摩步旅"
+		        location = 1536
+			regiment = { type = armor_brigade name = "第1坦克营" historical_model = 2 }
+			regiment = { type = armor_brigade name = "第2坦克营" historical_model = 2 }
+			regiment = { type = mechanized_brigade name = "第3步兵营" historical_model = 2 }
+			regiment = { type = mechanized_brigade name = "第4步兵营" historical_model = 2 }
+			regiment = { type = sp_artillery_brigade name = "第5炮兵营" historical_model = 3 }
+		}
+		division = {
+			is_reserve = yes
+			name = "近卫第288炮兵旅"
+		        location = 1536
+			regiment = { type = sp_artillery_brigade name = "第1炮兵营" historical_model = 3 }
+			regiment = { type = sp_artillery_brigade name = "第2炮兵营" historical_model = 3 }
+			regiment = { type = sp_artillery_brigade name = "第3炮兵营" historical_model = 3 }
+		}
+		division = {
+			is_reserve = yes
+			name = "第16特战旅"
+		        location = 1536
+			regiment = { type = special_forces_brigade name = "第1特战营" historical_model = 3 }
+			regiment = { type = special_forces_brigade name = "第2特战营" historical_model = 3 }
+               }
+                division = {
+		        is_reserve = yes
+			name = "第2陆军航空团"
+			location = 1536
+			regiment = { type = air_cavalry_brigade name = "第1空骑兵营" historical_model = 3 }
+			regiment = { type = air_cavalry_brigade name = "第2空骑兵营" historical_model = 3 }
+			regiment = { type = attack_helicopter_brigade name = "第3反坦克营" historical_model = 3 }
+			regiment = { type = attack_helicopter_brigade name = "第4反坦克营" historical_model = 3 }
+               }
+	}
+        army = {
+		name = "第49集团军"
+		location = 2913
+		regiment = { type = hq_brigade name = "第49集团军" historical_model = 1 }
+		division = {
+			is_reserve = yes
+			name = "第20摩步旅"
+		        location = 2913
+			regiment = { type = armor_brigade name = "第1坦克营" historical_model = 2 }
+			regiment = { type = armor_brigade name = "第2坦克营" historical_model = 2 }
+			regiment = { type = mechanized_brigade name = "第3步兵营" historical_model = 2 }
+			regiment = { type = mechanized_brigade name = "第4步兵营" historical_model = 2 }
+			regiment = { type = sp_artillery_brigade name = "第5炮兵营" historical_model = 3 }
+		}
+		division = {
+			is_reserve = yes
+			name = "第8摩步旅"
+		        location = 2913
+			regiment = { type = mountain_brigade name = "第1步兵营" historical_model = 2 }
+			regiment = { type = mountain_brigade name = "第2步兵营" historical_model = 2 }
+			regiment = { type = mountain_brigade name = "第3步兵营" historical_model = 2 }
+			regiment = { type = sp_artillery_brigade name = "第4炮兵营" historical_model = 3 }
+		}
+		division = {
+			is_reserve = yes
+			name = "第33摩步旅"
+		        location = 2913
+			regiment = { type = mountain_brigade name = "第1步兵营" historical_model = 2 }
+			regiment = { type = mountain_brigade name = "第2步兵营" historical_model = 2 }
+			regiment = { type = mountain_brigade name = "第3步兵营" historical_model = 2 }
+			regiment = { type = sp_artillery_brigade name = "第4炮兵营" historical_model = 3 }
+		}
+		division = {
+			is_reserve = yes
+			name = "第58摩步旅"
+		        location = 1527
+			regiment = { type = armor_brigade name = "第1坦克营" historical_model = 2 }
+			regiment = { type = armor_brigade name = "第2坦克营" historical_model = 2 }
+			regiment = { type = mechanized_brigade name = "第3步兵营" historical_model = 2 }
+			regiment = { type = mechanized_brigade name = "第4步兵营" historical_model = 2 }
+			regiment = { type = sp_artillery_brigade name = "第5炮兵营" historical_model = 3 }
+		}
+		division = {
+			is_reserve = yes
+			name = "第291炮兵旅"
+		        location = 2913
+			regiment = { type = sp_artillery_brigade name = "第1炮兵营" historical_model = 3 }
+			regiment = { type = sp_artillery_brigade name = "第2炮兵营" historical_model = 3 }
+			regiment = { type = sp_artillery_brigade name = "第3炮兵营" historical_model = 3 }
+		}
+		division = {
+			is_reserve = yes
+			name = "第10特战旅"
+		        location = 2913
+			regiment = { type = special_forces_brigade name = "第1特战营" historical_model = 3 }
+			regiment = { type = special_forces_brigade name = "第2特战营" historical_model = 3 }
+                }
+                division = {
+		        is_reserve = yes
+			name = "第49陆军航空团"
+			location = 2913
+			regiment = { type = air_cavalry_brigade name = "第1空骑兵营" historical_model = 3 }
+			regiment = { type = air_cavalry_brigade name = "第2空骑兵营" historical_model = 3 }
+			regiment = { type = attack_helicopter_brigade name = "第3反坦克营" historical_model = 3 }
+               }
+	}
+        army = {
+		name = "第58集团军"
+		location = 2170
+		regiment = { type = hq_brigade name = "第58集团军" historical_model = 1 }
+		division = {
+			is_reserve = yes
+			name = "近卫第18坦克旅"
+		        location = 2170
+			regiment = { type = armor_brigade name = "第1坦克营" historical_model = 2 }
+			regiment = { type = armor_brigade name = "第2坦克营" historical_model = 2 }
+			regiment = { type = armor_brigade name = "第3坦克营" historical_model = 2 }
+			regiment = { type = mechanized_brigade name = "第4步兵营" historical_model = 2 }
+			regiment = { type = sp_artillery_brigade name = "第5炮兵营" historical_model = 3 }
+		}
+		division = {
+			is_reserve = yes
+			name = "第19摩步旅"
+		        location = 2170
+			regiment = { type = armor_brigade name = "第1坦克营" historical_model = 2 }
+			regiment = { type = armor_brigade name = "第2坦克营" historical_model = 2 }
+			regiment = { type = mechanized_brigade name = "第3步兵营" historical_model = 2 }
+			regiment = { type = mechanized_brigade name = "第4步兵营" historical_model = 2 }
+			regiment = { type = sp_artillery_brigade name = "第5炮兵营" historical_model = 3 }
+		}
+		division = {
+			is_reserve = yes
+			name = "第34摩步旅"
+		        location = 2170
+			regiment = { type = mountain_brigade name = "第1步兵营" historical_model = 2 }
+			regiment = { type = mountain_brigade name = "第2步兵营" historical_model = 2 }
+			regiment = { type = mountain_brigade name = "第3步兵营" historical_model = 2 }
+			regiment = { type = sp_artillery_brigade name = "第4炮兵营" historical_model = 3 }
+		}
+		division = {
+			is_reserve = yes
+			name = "第136摩步旅"
+		        location = 2170
+			regiment = { type = armor_brigade name = "第1坦克营" historical_model = 2 }
+			regiment = { type = armor_brigade name = "第2坦克营" historical_model = 2 }
+			regiment = { type = mechanized_brigade name = "第3步兵营" historical_model = 2 }
+			regiment = { type = mechanized_brigade name = "第4步兵营" historical_model = 2 }
+			regiment = { type = sp_artillery_brigade name = "第5炮兵营" historical_model = 3 }
+		}
+		division = {
+			is_reserve = yes
+			name = "第205摩步旅"
+		        location = 2170
+			regiment = { type = armor_brigade name = "第1坦克营" historical_model = 2 }
+			regiment = { type = armor_brigade name = "第2坦克营" historical_model = 2 }
+			regiment = { type = mechanized_brigade name = "第3步兵营" historical_model = 2 }
+			regiment = { type = mechanized_brigade name = "第4步兵营" historical_model = 2 }
+			regiment = { type = sp_artillery_brigade name = "第5炮兵营" historical_model = 3 }
+		}
+		division = {
+			is_reserve = yes
+			name = "第429摩步旅"
+		        location = 2170
+			regiment = { type = armor_brigade name = "第1坦克营" historical_model = 2 }
+			regiment = { type = armor_brigade name = "第2坦克营" historical_model = 2 }
+			regiment = { type = mechanized_brigade name = "第3步兵营" historical_model = 2 }
+			regiment = { type = mechanized_brigade name = "第4步兵营" historical_model = 2 }
+			regiment = { type = sp_artillery_brigade name = "第5炮兵营" historical_model = 3 }
+		}
+		division = {
+			is_reserve = yes
+			name = "第135摩步旅"
+		        location = 2170
+			regiment = { type = armor_brigade name = "第1坦克营" historical_model = 2 }
+			regiment = { type = armor_brigade name = "第2坦克营" historical_model = 2 }
+			regiment = { type = mechanized_brigade name = "第3步兵营" historical_model = 2 }
+			regiment = { type = mechanized_brigade name = "第4步兵营" historical_model = 2 }
+			regiment = { type = sp_artillery_brigade name = "第5炮兵营" historical_model = 3 }
+		}
+		division = {
+			is_reserve = yes
+			name = "第22特战旅"
+		        location = 2170
+			regiment = { type = special_forces_brigade name = "第1特战营" historical_model = 3 }
+			regiment = { type = special_forces_brigade name = "第2特战营" historical_model = 3 }
+               }
+                division = {
+		        is_reserve = yes
+			name = "第58陆军航空团"
+			location = 2170
+			regiment = { type = air_cavalry_brigade name = "第1空骑兵营" historical_model = 3 }
+			regiment = { type = air_cavalry_brigade name = "第2空骑兵营" historical_model = 3 }
+			regiment = { type = attack_helicopter_brigade name = "第3反坦克营" historical_model = 3 }
+               }
+	}
+        army = {
+		name = "近卫坦克第2集团军"
+		location = 1941
+		regiment = { type = hq_brigade name = "近卫坦克第2集团军" historical_model = 1 }
+		division = {
+			is_reserve = yes
+			name = "第15摩步旅"
+		        location = 1941
+			regiment = { type = armor_brigade name = "第1坦克营" historical_model = 2 }
+			regiment = { type = armor_brigade name = "第2坦克营" historical_model = 2 }
+			regiment = { type = mechanized_brigade name = "第3步兵营" historical_model = 2 }
+			regiment = { type = mechanized_brigade name = "第4步兵营" historical_model = 2 }
+			regiment = { type = sp_artillery_brigade name = "第5炮兵营" historical_model = 3 }
+		}
+		division = {
+			is_reserve = yes
+			name = "近卫第21坦克旅"
+		        location = 1941
+			regiment = { type = armor_brigade name = "第1坦克营" historical_model = 2 }
+			regiment = { type = armor_brigade name = "第2坦克营" historical_model = 2 }
+			regiment = { type = armor_brigade name = "第3坦克营" historical_model = 2 }
+			regiment = { type = mechanized_brigade name = "第4步兵营" historical_model = 2 }
+			regiment = { type = sp_artillery_brigade name = "第5炮兵营" historical_model = 3 }
+		}
+		division = {
+			is_reserve = yes
+			name = "近卫第23坦克旅"
+		        location = 1941
+			regiment = { type = armor_brigade name = "第1坦克营" historical_model = 2 }
+			regiment = { type = armor_brigade name = "第2坦克营" historical_model = 2 }
+			regiment = { type = armor_brigade name = "第3坦克营" historical_model = 2 }
+			regiment = { type = mechanized_brigade name = "第4步兵营" historical_model = 2 }
+			regiment = { type = sp_artillery_brigade name = "第5炮兵营" historical_model = 3 }
+		}
+		division = {
+			is_reserve = yes
+			name = "近卫第24坦克旅"
+		        location = 1941
+			regiment = { type = armor_brigade name = "第1坦克营" historical_model = 2 }
+			regiment = { type = armor_brigade name = "第2坦克营" historical_model = 2 }
+			regiment = { type = armor_brigade name = "第3坦克营" historical_model = 2 }
+			regiment = { type = mechanized_brigade name = "第4步兵营" historical_model = 2 }
+			regiment = { type = sp_artillery_brigade name = "第5炮兵营" historical_model = 3 }
+		}
+		division = {
+			is_reserve = yes
+			name = "近卫第385炮兵旅"
+		        location = 1941
+			regiment = { type = sp_artillery_brigade name = "第1炮兵营" historical_model = 3 }
+			regiment = { type = sp_artillery_brigade name = "第2炮兵营" historical_model = 3 }
+			regiment = { type = sp_artillery_brigade name = "第3炮兵营" historical_model = 3 }
+		}
+		division = {
+			is_reserve = yes
+			name = "第14特战旅"
+		        location = 1941
+			regiment = { type = special_forces_brigade name = "第1特战营" historical_model = 3 }
+			regiment = { type = special_forces_brigade name = "第2特战营" historical_model = 3 }
+               }
+                division = {
+		        is_reserve = no
+			name = "第2陆军航空团"
+			location = 1941
+			regiment = { type = air_cavalry_brigade name = "第1空骑兵营" historical_model = 3 }
+			regiment = { type = air_cavalry_brigade name = "第2空骑兵营" historical_model = 3 }
+			regiment = { type = attack_helicopter_brigade name = "第3反坦克营" historical_model = 3 }
+			regiment = { type = attack_helicopter_brigade name = "第4反坦克营" historical_model = 3 }
+               }
+	}
+        army = {
+		name = "第41集团军"
+		location = 3464
+		regiment = { type = hq_brigade name = "第41集团军" historical_model = 1 }
+		division = {
+			is_reserve = yes
+			name = "第32摩步旅"
+		        location = 3464
+			regiment = { type = armor_brigade name = "第1坦克营" historical_model = 2 }
+			regiment = { type = armor_brigade name = "第2坦克营" historical_model = 2 }
+			regiment = { type = mechanized_brigade name = "第3步兵营" historical_model = 2 }
+			regiment = { type = mechanized_brigade name = "第4步兵营" historical_model = 2 }
+			regiment = { type = sp_artillery_brigade name = "第5炮兵营" historical_model = 3 }
+		}
+		division = {
+			is_reserve = yes
+			name = "第33摩步旅"
+		        location = 3464
+			regiment = { type = armor_brigade name = "第1坦克营" historical_model = 2 }
+			regiment = { type = armor_brigade name = "第2坦克营" historical_model = 2 }
+			regiment = { type = mechanized_brigade name = "第3步兵营" historical_model = 2 }
+			regiment = { type = mechanized_brigade name = "第4步兵营" historical_model = 2 }
+			regiment = { type = sp_artillery_brigade name = "第5炮兵营" historical_model = 3 }
+		}
+		division = {
+			is_reserve = yes
+			name = "近卫第35坦克旅"
+		        location = 3464
+			regiment = { type = armor_brigade name = "第1坦克营" historical_model = 2 }
+			regiment = { type = armor_brigade name = "第2坦克营" historical_model = 2 }
+			regiment = { type = armor_brigade name = "第3坦克营" historical_model = 2 }
+			regiment = { type = mechanized_brigade name = "第4步兵营" historical_model = 2 }
+			regiment = { type = sp_artillery_brigade name = "第5炮兵营" historical_model = 3 }
+		}
+		division = {
+			is_reserve = yes
+			name = "近卫第74坦克旅"
+		        location = 3464
+			regiment = { type = armor_brigade name = "第1坦克营" historical_model = 2 }
+			regiment = { type = armor_brigade name = "第2坦克营" historical_model = 2 }
+			regiment = { type = armor_brigade name = "第3坦克营" historical_model = 2 }
+			regiment = { type = mechanized_brigade name = "第4步兵营" historical_model = 2 }
+			regiment = { type = sp_artillery_brigade name = "第5炮兵营" historical_model = 3 }
+		}
+		division = {
+			is_reserve = yes
+			name = "第28摩步旅"
+			location = 3464
+			regiment = { type = armor_brigade name = "第1坦克营" historical_model = 2 }
+			regiment = { type = armor_brigade name = "第2坦克营" historical_model = 2 }
+			regiment = { type = mechanized_brigade name = "第3步兵营" historical_model = 2 }
+			regiment = { type = mechanized_brigade name = "第4步兵营" historical_model = 2 }
+			regiment = { type = sp_artillery_brigade name = "第5炮兵营" historical_model = 3 }
+		}
+		division = {
+			is_reserve = yes
+			name = "近卫第120炮兵旅"
+		        location = 3464
+			regiment = { type = sp_artillery_brigade name = "第1炮兵营" historical_model = 3 }
+			regiment = { type = sp_artillery_brigade name = "第2炮兵营" historical_model = 3 }
+			regiment = { type = sp_artillery_brigade name = "第3炮兵营" historical_model = 3 }
+		}
+                division = {
+		        is_reserve = yes
+			name = "第41陆军航空团"
+			location = 3464
+			regiment = { type = air_cavalry_brigade name = "第1空骑兵营" historical_model = 3 }
+			regiment = { type = air_cavalry_brigade name = "第2空骑兵营" historical_model = 3 }
+			regiment = { type = attack_helicopter_brigade name = "第3反坦克营" historical_model = 3 }
+               }
+	}
+        army = {
+		name = "第5集团军"
+		location = 8594
+		regiment = { type = hq_brigade name = "第5集团军" historical_model = 1 }
+		division = {
+			is_reserve = yes
+			name = "近卫第57坦克旅"
+		        location = 8594
+			regiment = { type = armor_brigade name = "第1坦克营" historical_model = 2 }
+			regiment = { type = armor_brigade name = "第2坦克营" historical_model = 2 }
+			regiment = { type = armor_brigade name = "第3坦克营" historical_model = 2 }
+			regiment = { type = mechanized_brigade name = "第4步兵营" historical_model = 2 }
+			regiment = { type = sp_artillery_brigade name = "第5炮兵营" historical_model = 3 }
+		}
+		division = {
+			is_reserve = yes
+			name = "近卫第59坦克旅"
+		        location = 8594
+			regiment = { type = armor_brigade name = "第1坦克营" historical_model = 2 }
+			regiment = { type = armor_brigade name = "第2坦克营" historical_model = 2 }
+			regiment = { type = armor_brigade name = "第3坦克营" historical_model = 2 }
+			regiment = { type = mechanized_brigade name = "第4步兵营" historical_model = 2 }
+			regiment = { type = sp_artillery_brigade name = "第5炮兵营" historical_model = 3 }
+		}
+		division = {
+			is_reserve = yes
+			name = "第60摩步旅"
+			location = 8594
+			regiment = { type = armor_brigade name = "第1坦克营" historical_model = 2 }
+			regiment = { type = armor_brigade name = "第2坦克营" historical_model = 2 }
+			regiment = { type = mechanized_brigade name = "第3步兵营" historical_model = 2 }
+			regiment = { type = mechanized_brigade name = "第4步兵营" historical_model = 2 }
+			regiment = { type = sp_artillery_brigade name = "第5炮兵营" historical_model = 3 }
+		}
+		division = {
+			is_reserve = yes
+			name = "近卫第70坦克旅"
+		        location = 8594
+			regiment = { type = armor_brigade name = "第1坦克营" historical_model = 2 }
+			regiment = { type = armor_brigade name = "第2坦克营" historical_model = 2 }
+			regiment = { type = armor_brigade name = "第3坦克营" historical_model = 2 }
+			regiment = { type = mechanized_brigade name = "第4步兵营" historical_model = 2 }
+			regiment = { type = sp_artillery_brigade name = "第5炮兵营" historical_model = 3 }
+		}
+		division = {
+			is_reserve = yes
+			name = "第305炮兵旅"
+		        location = 8594
+			regiment = { type = sp_artillery_brigade name = "第1炮兵营" historical_model = 3 }
+			regiment = { type = sp_artillery_brigade name = "第2炮兵营" historical_model = 3 }
+			regiment = { type = sp_artillery_brigade name = "第3炮兵营" historical_model = 3 }
+		}
+                division = {
+		        is_reserve = yes
+			name = "第5陆军航空团"
+			location = 8594
+			regiment = { type = air_cavalry_brigade name = "第1空骑兵营" historical_model = 3 }
+			regiment = { type = air_cavalry_brigade name = "第2空骑兵营" historical_model = 3 }
+			regiment = { type = attack_helicopter_brigade name = "第3反坦克营" historical_model = 3 }
+               }
+	}
+        army = {
+		name = "第29集团军"
+		location = 4390
+		regiment = { type = hq_brigade name = "第29集团军" historical_model = 1 }
+		division = {
+			is_reserve = yes
+			name = "第26摩步旅"
+			location = 4390
+			regiment = { type = armor_brigade name = "第1坦克营" historical_model = 2 }
+			regiment = { type = armor_brigade name = "第2坦克营" historical_model = 2 }
+			regiment = { type = mechanized_brigade name = "第3步兵营" historical_model = 2 }
+			regiment = { type = mechanized_brigade name = "第4步兵营" historical_model = 2 }
+			regiment = { type = sp_artillery_brigade name = "第5炮兵营" historical_model = 3 }
+		}
+		division = {
+			is_reserve = yes
+			name = "第45摩步旅"
+			location = 4390
+			regiment = { type = armor_brigade name = "第1坦克营" historical_model = 2 }
+			regiment = { type = armor_brigade name = "第2坦克营" historical_model = 2 }
+			regiment = { type = mechanized_brigade name = "第3步兵营" historical_model = 2 }
+			regiment = { type = mechanized_brigade name = "第4步兵营" historical_model = 2 }
+			regiment = { type = sp_artillery_brigade name = "第5炮兵营" historical_model = 3 }
+		}
+		division = {
+			is_reserve = yes
+			name = "近卫第8摩步旅"
+			location = 4390
+			regiment = { type = armor_brigade name = "第1坦克营" historical_model = 2 }
+			regiment = { type = armor_brigade name = "第2坦克营" historical_model = 2 }
+			regiment = { type = armor_brigade name = "第3坦克营" historical_model = 2 }
+			regiment = { type = mechanized_brigade name = "第4步兵营" historical_model = 2 }
+			regiment = { type = sp_artillery_brigade name = "第5炮兵营" historical_model = 3 }
+		}
+		division = {
+			is_reserve = yes
+			name = "第78摩步旅"
+			location = 4390
+			regiment = { type = armor_brigade name = "第1坦克营" historical_model = 2 }
+			regiment = { type = armor_brigade name = "第2坦克营" historical_model = 2 }
+			regiment = { type = mechanized_brigade name = "第3步兵营" historical_model = 2 }
+			regiment = { type = mechanized_brigade name = "第4步兵营" historical_model = 2 }
+			regiment = { type = sp_artillery_brigade name = "第5炮兵营" historical_model = 3 }
+		}
+		division = {
+			is_reserve = yes
+			name = "第312炮兵旅"
+		        location = 4390
+			regiment = { type = sp_artillery_brigade name = "第1炮兵营" historical_model = 3 }
+			regiment = { type = sp_artillery_brigade name = "第2炮兵营" historical_model = 3 }
+			regiment = { type = sp_artillery_brigade name = "第3炮兵营" historical_model = 3 }
+		}
+                division = {
+		        is_reserve = yes
+			name = "第29陆军航空团"
+			location = 4390
+			regiment = { type = air_cavalry_brigade name = "第1空骑兵营" historical_model = 3 }
+			regiment = { type = air_cavalry_brigade name = "第2空骑兵营" historical_model = 3 }
+			regiment = { type = attack_helicopter_brigade name = "第3反坦克营" historical_model = 3 }
+               }
+	}
+        army = {
+		name = "第35集团军"
+		location = 353
+		regiment = { type = hq_brigade name = "第35集团军" historical_model = 1 }
+		division = {
+			is_reserve = yes
+			name = "近卫第38摩步旅"
+			location = 353
+			regiment = { type = armor_brigade name = "第1坦克营" historical_model = 2 }
+			regiment = { type = armor_brigade name = "第2坦克营" historical_model = 2 }
+			regiment = { type = armor_brigade name = "第3坦克营" historical_model = 2 }
+			regiment = { type = mechanized_brigade name = "第4步兵营" historical_model = 2 }
+			regiment = { type = sp_artillery_brigade name = "第5炮兵营" historical_model = 3 }
+		}
+		division = {
+			is_reserve = yes
+			name = "第64摩步旅"
+			location = 353
+			regiment = { type = armor_brigade name = "第1坦克营" historical_model = 2 }
+			regiment = { type = armor_brigade name = "第2坦克营" historical_model = 2 }
+			regiment = { type = mechanized_brigade name = "第3步兵营" historical_model = 2 }
+			regiment = { type = mechanized_brigade name = "第4步兵营" historical_model = 2 }
+			regiment = { type = sp_artillery_brigade name = "第5炮兵营" historical_model = 3 }
+		}
+		division = {
+			is_reserve = yes
+			name = "第69摩步旅"
+			location = 353
+			regiment = { type = armor_brigade name = "第1坦克营" historical_model = 2 }
+			regiment = { type = armor_brigade name = "第2坦克营" historical_model = 2 }
+			regiment = { type = mechanized_brigade name = "第3步兵营" historical_model = 2 }
+			regiment = { type = mechanized_brigade name = "第4步兵营" historical_model = 2 }
+			regiment = { type = sp_artillery_brigade name = "第5炮兵营" historical_model = 3 }
+		}
+		division = {
+			is_reserve = yes
+			name = "第70摩步旅"
+			location = 353
+			regiment = { type = armor_brigade name = "第1坦克营" historical_model = 2 }
+			regiment = { type = armor_brigade name = "第2坦克营" historical_model = 2 }
+			regiment = { type = mechanized_brigade name = "第3步兵营" historical_model = 2 }
+			regiment = { type = mechanized_brigade name = "第4步兵营" historical_model = 2 }
+			regiment = { type = sp_artillery_brigade name = "第5炮兵营" historical_model = 3 }
+		}
+		division = {
+			is_reserve = yes
+			name = "第165炮兵旅"
+		        location = 353
+			regiment = { type = sp_artillery_brigade name = "第1炮兵营" historical_model = 3 }
+			regiment = { type = sp_artillery_brigade name = "第2炮兵营" historical_model = 3 }
+			regiment = { type = sp_artillery_brigade name = "第3炮兵营" historical_model = 3 }
+		}
+		division = {
+			is_reserve = yes
+			name = "第24特战旅"
+		        location = 353
+			regiment = { type = special_forces_brigade name = "第1特战营" historical_model = 3 }
+			regiment = { type = special_forces_brigade name = "第2特战营" historical_model = 3 }
+               }
+                division = {
+		        is_reserve = yes
+			name = "第35陆军航空团"
+			location = 353
+			regiment = { type = air_cavalry_brigade name = "第1空骑兵营" historical_model = 3 }
+			regiment = { type = air_cavalry_brigade name = "第2空骑兵营" historical_model = 3 }
+			regiment = { type = attack_helicopter_brigade name = "第3反坦克营" historical_model = 3 }
+               }
+	}
+        army = {
+		name = "第36集团军"
+		location = 6708
+		regiment = { type = hq_brigade name = "第36集团军" historical_model = 1 }
+		division = {
+			is_reserve = yes
+			name = "近卫第5坦克旅"
+		        location = 6708
+			regiment = { type = armor_brigade name = "第1坦克营" historical_model = 2 }
+			regiment = { type = armor_brigade name = "第2坦克营" historical_model = 2 }
+			regiment = { type = armor_brigade name = "第3坦克营" historical_model = 2 }
+			regiment = { type = mechanized_brigade name = "第4步兵营" historical_model = 2 }
+			regiment = { type = sp_artillery_brigade name = "第5炮兵营" historical_model = 3 }
+		}
+		division = {
+			is_reserve = yes
+			name = "近卫第37摩步旅"
+			location = 6708
+			regiment = { type = armor_brigade name = "第1坦克营" historical_model = 2 }
+			regiment = { type = armor_brigade name = "第2坦克营" historical_model = 2 }
+			regiment = { type = armor_brigade name = "第3坦克营" historical_model = 2 }
+			regiment = { type = mechanized_brigade name = "第4步兵营" historical_model = 2 }
+			regiment = { type = sp_artillery_brigade name = "第5炮兵营" historical_model = 3 }
+		}
+		division = {
+			is_reserve = yes
+			name = "第71摩步旅"
+			location = 6708
+			regiment = { type = armor_brigade name = "第1坦克营" historical_model = 2 }
+			regiment = { type = armor_brigade name = "第2坦克营" historical_model = 2 }
+			regiment = { type = mechanized_brigade name = "第3步兵营" historical_model = 2 }
+			regiment = { type = mechanized_brigade name = "第4步兵营" historical_model = 2 }
+			regiment = { type = sp_artillery_brigade name = "第5炮兵营" historical_model = 3 }
+		}
+		division = {
+			is_reserve = yes
+			name = "第72摩步旅"
+			location = 6708
+			regiment = { type = armor_brigade name = "第1坦克营" historical_model = 2 }
+			regiment = { type = armor_brigade name = "第2坦克营" historical_model = 2 }
+			regiment = { type = mechanized_brigade name = "第3步兵营" historical_model = 2 }
+			regiment = { type = mechanized_brigade name = "第4步兵营" historical_model = 2 }
+			regiment = { type = sp_artillery_brigade name = "第5炮兵营" historical_model = 3 }
+		}
+		division = {
+			is_reserve = yes
+			name = "第200炮兵旅"
+		        location = 6708
+			regiment = { type = sp_artillery_brigade name = "第1炮兵营" historical_model = 3 }
+			regiment = { type = sp_artillery_brigade name = "第2炮兵营" historical_model = 3 }
+			regiment = { type = sp_artillery_brigade name = "第3炮兵营" historical_model = 3 }
+		}
+                division = {
+		        is_reserve = yes
+			name = "第36陆军航空团"
+			location = 6708
+			regiment = { type = air_cavalry_brigade name = "第1空骑兵营" historical_model = 3 }
+			regiment = { type = air_cavalry_brigade name = "第2空骑兵营" historical_model = 3 }
+			regiment = { type = attack_helicopter_brigade name = "第3反坦克营" historical_model = 3 }
+               }
+	}
+}
+
+air = {
+name = "第6963空军师"
+location = 2170
+base = 2170
+wing = { type = multi_role name = "14th Interceptor Aviation Regiment, 1/8" historical_model = 2 }
+wing = { type = multi_role name = "14th Interceptor Aviation Regiment, 2/8" historical_model = 2 }
+wing = { type = multi_role name = "14th Interceptor Aviation Regiment, 3/8" historical_model = 2 }
+wing = { type = multi_role name = "14th Interceptor Aviation Regiment, 4/8" historical_model = 2 }
+wing = { type = multi_role name = "14th Interceptor Aviation Regiment, 5/8" historical_model = 2 }
+wing = { type = multi_role name = "14th Interceptor Aviation Regiment, 6/6" historical_model = 2 }
+}
+
+air = {
+name = "第6968空军师"
+location = 1184
+base = 1184
+wing = { type = interceptor name = "790th Fighter Regiment, 1/3" historical_model = 2 }
+wing = { type = interceptor name = "790th Fighter Regiment, 2/3" historical_model = 2 }
+wing = { type = interceptor name = "790th Fighter Regiment, 3/3" historical_model = 2 }
+}
+
+air = {
+name = "第6961空军师"
+location = 436
+base = 436
+wing = { type = interceptor name = "6961st Base Fighter Regiment, 1/3" historical_model = 2 }
+wing = { type = interceptor name = "6961st Base Fighter Regiment, 2/3" historical_model = 2 }
+wing = { type = interceptor name = "6961st Base Fighter Regiment, 3/3" historical_model = 2 }
+}
+
+air = {
+name = "第6964空军师"
+location = 127
+base = 127
+wing = { type = cas name = "6964th Base Fighter Regiment, 1/3" historical_model = 2 }
+wing = { type = cas name = "6964th Base Fighter Regiment, 2/3" historical_model = 2 }
+wing = { type = cas name = "6964th Base Fighter Regiment, 3/3" historical_model = 2 }
+}
+
+air = {
+name = "第7000空军师"
+location = 2233
+base = 2233
+wing = { type = cas name = "7000th Base Fighter Regiment, 1/3" historical_model = 2 }
+wing = { type = cas name = "7000th Base Fighter Regiment, 2/3" historical_model = 2 }
+wing = { type = cas name = "7000th Base Fighter Regiment, 3/3" historical_model = 2 }
+}
+
+air = {
+name = "第6977空军师"
+location = 8191
+base = 8191
+wing = { type = interceptor name = "764th Interceptor Aviation Regiment, 1/2" historical_model = 2 }
+wing = { type = interceptor name = "764th Interceptor Aviation Regiment, 2/2" historical_model = 2 }
+}
+
+air = {
+name = "第6979空军师"
+location = 8535
+base = 8535
+wing = { type = interceptor name = "712th Interceptor Aviation Regiment, 1/2" historical_model = 2 }
+wing = { type = interceptor name = "712th Interceptor Aviation Regiment, 2/2" historical_model = 2 }
+}
+
+air = {
+name = "第6980空军师"
+location = 8288
+base = 8288
+wing = { type = cas name = "6980th Base Fighter Regiment, 1/3" historical_model = 2 }
+wing = { type = cas name = "6980th Base Fighter Regiment, 2/3" historical_model = 2 }
+wing = { type = cas name = "6980th Base Fighter Regiment, 3/3" historical_model = 2 }
+}
+
+air = {
+name = "第6982空军师"
+location = 8719
+base = 8719
+wing = { type = multi_role name = "120th Bomber Aviation Regiment, 1/5" historical_model = 2 }
+wing = { type = multi_role name = "120th Bomber Aviation Regiment, 2/5" historical_model = 2 }
+wing = { type = multi_role name = "120th Bomber Aviation Regiment, 3/5" historical_model = 2 }
+wing = { type = multi_role name = "120th Bomber Aviation Regiment, 4/5" historical_model = 2 }
+wing = { type = multi_role name = "120th Bomber Aviation Regiment, 5/5" historical_model = 2 }
+}
+
+air = {
+name = "第6983空军师"
+location = 4127
+base = 4127
+wing = { type = cas name = "444th Heavy Bomber Aviation Regiment, 1/3" historical_model = 2 }
+wing = { type = cas name = "444th Heavy Bomber Aviation Regiment, 2/3" historical_model = 2 }
+wing = { type = cas name = "444th Heavy Bomber Aviation Regiment, 3/3" historical_model = 2 }
+}
+
+air = {
+name = "第6987空军师"
+location = 6836
+base = 6836
+wing = { type = interceptor name = "216th Interceptor Aviation Regiment, 1/2" historical_model = 2 }
+wing = { type = interceptor name = "216th Interceptor Aviation Regiment, 2/2" historical_model = 2 }
+}
+
+air = {
+name = "第6988空军师"
+location = 6836
+base = 6836
+wing = { type = cas name = "277th Bomber Aviation Regiment, 1/3" historical_model = 2 }
+wing = { type = cas name = "277th Bomber Aviation Regiment, 2/3" historical_model = 2 }
+wing = { type = cas name = "277th Bomber Aviation Regiment, 3/3" historical_model = 2 }
+}
+
+air = {
+name = "第6989空军师"
+location = 6836
+base = 6836
+wing = { type = interceptor name = "6989th Base Fighter Regiment, 1/2" historical_model = 2 }
+wing = { type = interceptor name = "6989th Base Fighter Regiment, 2/2" historical_model = 2 }
+}
+
+air = {
+name = "第263空军运输师"
+location = 6836
+base = 6836
+wing = { type = transport_plane name = "265th Base Transport Regiment, 1/5" historical_model = 2 }
+wing = { type = transport_plane name = "265th Base Transport Regiment, 2/5" historical_model = 2 }
+wing = { type = transport_plane name = "265th Base Transport Regiment, 3/5" historical_model = 2 }
+wing = { type = transport_plane name = "265th Base Transport Regiment, 4/5" historical_model = 2 }
+wing = { type = transport_plane name = "265th Base Transport Regiment, 5/5" historical_model = 2 }
+}
+
+air = {
+name = "第6970空军师"
+location = 2177
+base = 2177
+wing = { type = cas name = "6970th Base Fighter Regiment, 1/3" historical_model = 2 }
+wing = { type = cas name = "6970th Base Fighter Regiment, 2/3" historical_model = 2 }
+wing = { type = cas name = "6970th Base Fighter Regiment, 3/3" historical_model = 2 }
+}
+
+air = {
+name = "第6971空军师"
+location = 3386
+base = 3386
+wing = { type = cas name = "6971st Base Fighter Regiment, 1/3" historical_model = 2 }
+wing = { type = cas name = "6971st Base Fighter Regiment, 2/3" historical_model = 2 }
+wing = { type = cas name = "6971st Base Fighter Regiment, 3/3" historical_model = 2 }
+}
+
+air = {
+name = "第6972空军师"
+location = 3382
+base = 3382
+wing = { type = interceptor name = "6972nd Base Fighter Regiment, 1/2" historical_model = 2 }
+wing = { type = interceptor name = "6972nd Base Fighter Regiment, 2/2" historical_model = 2 }
+}
+
+air = {
+name = "第999空军师"
+location = 8839
+base = 8839
+wing = { type = cas name = "999th Base Fighter Regiment, 1/2" historical_model = 2 }
+wing = { type = cas name = "999th Base Fighter Regiment, 2/2" historical_model = 2 }
+}
+
+air = {
+name = "第6950空军师"
+location = 2068
+base = 2068
+wing = { type = strategic_bomber name = "121st Guards Heavy Bomber Aviation Regiment" historical_model = 2 }
+wing = { type = strategic_bomber name = "184th Guards Heavy Bomber Aviation Regiment" historical_model = 2 }
+}
+
+air = {
+name = "第6952空军师"
+location = 8775
+base = 8775
+wing = { type = strategic_bomber name = "79th Guards Heavy Bomber Aviation Regiment" historical_model = 2 }
+wing = { type = strategic_bomber name = "82nd Heavy Bomber Aviation Regiment" historical_model = 2 }
+}
+
+air = {
+name = "第6953空军师"
+location = 8743
+base = 8743
+wing = { type = strategic_bomber name = "1225th Heavy Bomber Aviation Regiment" historical_model = 2 }
+wing = { type = strategic_bomber name = "1229th Heavy Bomber Aviation Regiment" historical_model = 2 }
+}
+
+navy = {
+name = "波罗的海舰队"
+base = 782
+location = 782
+
+ship = { type = escort_carrier name = "库兹涅佐夫" historical_model = 2 
+		air = {
+			location = 46
+			wing = { type = cag name = "库兹涅佐夫航空联队" historical_model = 2 }
+		}
+}
+ship = { type = battleship name = "彼得大帝" historical_model = 2 }
+ship = { type = destroyer name = "拉扎耶夫海军上将" historical_model = 2 }
+ship = { type = destroyer name = "纳希莫夫海军上将" historical_model = 2 }
+ship = { type = battleship name = "莫斯科" historical_model = 2 }
+ship = { type = battleship name = "乌斯季诺夫元帅" historical_model = 2 }
+ship = { type = battleship name = "乌克兰" historical_model = 2 }
+ship = { type = destroyer name = "鼓舞" historical_model = 2 }
+ship = { type = destroyer name = "暴风" historical_model = 2 }
+ship = { type = destroyer name = "轰雷" historical_model = 2 }
+ship = { type = destroyer name = "迅捷" historical_model = 2 }
+ship = { type = destroyer name = "列夫琴科海军上将" historical_model = 2 }
+ship = { type = destroyer name = "维诺格拉多夫海军上将" historical_model = 2 }
+ship = { type = destroyer name = "哈尔拉莫夫海军上将" historical_model = 2 }
+ship = { type = destroyer name = "潘捷列耶夫海军上将" historical_model = 2 }
+ship = { type = heavy_cruiser name = "友谊" historical_model = 2 }
+ship = { type = heavy_cruiser name = "高傲" historical_model = 2 }
+ship = { type = heavy_cruiser name = "理智" historical_model = 2 }
+ship = { type = heavy_cruiser name = "莱图切" historical_model = 2 }
+ship = { type = heavy_cruiser name = "警戒" historical_model = 2 }
+ship = { type = heavy_cruiser name = "鞑靼斯坦" historical_model = 2 }
+ship = { type = light_cruiser name = "坚强" historical_model = 2 }
+ship = { type = light_cruiser name = "轰鸣" historical_model = 2 }
+ship = { type = light_cruiser name = "响亮" historical_model = 2 }
+ship = { type = light_cruiser name = "灵巧" historical_model = 2 }
+ship = { type = light_cruiser name = "能干" historical_model = 2 }
+ship = { type = light_cruiser name = "活泼" historical_model = 2 }
+ship = { type = submarine name = "普斯科夫" historical_model = 2 }
+ship = { type = submarine name = "螃蟹" historical_model = 2 }
+ship = { type = submarine name = "下诺夫哥罗德" historical_model = 2 }
+ship = { type = submarine name = "巴尔瑙尔" historical_model = 2 }
+ship = { type = submarine name = "抹香鲸" historical_model = 2 }
+ship = { type = submarine name = "布拉茨克" historical_model = 2 }
+ship = { type = submarine name = "豹" historical_model = 2 }
+ship = { type = submarine name = "马加丹" historical_model = 2 }
+ship = { type = submarine name = "狼" historical_model = 2 }
+ship = { type = submarine name = "库兹巴斯" historical_model = 2 }
+ship = { type = submarine name = "金钱豹" historical_model = 2 }
+ship = { type = ANAS name = "K-317" historical_model = 2 }
+ship = { type = ANAS name = "K-480" historical_model = 2 }
+ship = { type = ANAS name = "K-461" historical_model = 2 }
+ship = { type = ANAS name = "K-328" historical_model = 2 }
+ship = { type = ANAS name = "K-154" historical_model = 2 }
+ship = { type = ANAS name = "K-157" historical_model = 2 }
+ship = { type = ANAS name = "K-335" historical_model = 2 }
+}
+navy = {
+name = "黑海舰队"
+base = 2979
+location = 2979
+ship = { type = destroyer name = "乌沙科夫海军上将" historical_model = 2 }
+ship = { type = destroyer name = "现代" historical_model = 2 }
+ship = { type = destroyer name = "绝望" historical_model = 2 }
+ship = { type = destroyer name = "卓越" historical_model = 2 }
+ship = { type = destroyer name = "慎密" historical_model = 2 }
+ship = { type = destroyer name = "无瑕" historical_model = 2 }
+ship = { type = destroyer name = "果敢" historical_model = 2 }
+ship = { type = destroyer name = "坚定" historical_model = 2 }
+ship = { type = heavy_cruiser name = "不惧" historical_model = 2 }
+ship = { type = heavy_cruiser name = "图曼" historical_model = 2 }
+ship = { type = heavy_cruiser name = "雅罗斯拉夫" historical_model = 2 }
+ship = { type = heavy_cruiser name = "克里瓦克" historical_model = 2 }
+ship = { type = heavy_cruiser name = "奋激" historical_model = 2 }
+ship = { type = heavy_cruiser name = "炎热" historical_model = 2 }
+ship = { type = heavy_cruiser name = "莱格克" historical_model = 2 }
+ship = { type = heavy_cruiser name = "淘气" historical_model = 2 }
+ship = { type = heavy_cruiser name = "拉德内" historical_model = 2 }
+ship = { type = heavy_cruiser name = "求知" historical_model = 2 }
+ship = { type = battleship name = "亚速" historical_model = 2 }
+ship = { type = battleship name = "彼得罗巴甫洛夫斯克" historical_model = 2 }
+ship = { type = battleship name = "塔什干" historical_model = 2 }
+ship = { type = battleship name = "符拉迪沃斯托克" historical_model = 2 }
+ship = { type = submarine name = "乌斯季堪察斯克" historical_model = 2 }
+ship = { type = submarine name = "马格尼托哥尔斯克" historical_model = 2 }
+ship = { type = submarine name = "卡卢加" historical_model = 2 }
+ship = { type = submarine name = "阿尔罗萨" historical_model = 2 }
+ship = { type = submarine name = "雅罗斯拉夫尔" historical_model = 2 }
+ship = { type = submarine name = "利佩茨克" historical_model = 2 }
+ship = { type = submarine name = "克拉斯诺卡缅斯克" historical_model = 2 }
+ship = { type = submarine name = "维堡" historical_model = 2 }
+ship = { type = submarine name = "赤塔" historical_model = 2 }
+ship = { type = submarine name = "莫戈恰" historical_model = 2 }
+ship = { type = submarine name = "沃洛格达" historical_model = 2 }
+ship = { type = submarine name = "圣彼得堡" historical_model = 2 }
+}
+navy = {
+name = "太平洋舰队"
+base = 4390
+location = 4390
+ship = { type = battleship name = "瓦良格" historical_model = 2 }
+ship = { type = battleship name = "十月革命" historical_model = 2 }
+ship = { type = battleship name = "刻赤" historical_model = 2 }
+ship = { type = battleship name = "尼古拉耶夫" historical_model = 2 }
+ship = { type = battleship name = "奥恰科夫" historical_model = 2 }
+ship = { type = destroyer name = "敏捷" historical_model = 2 }
+ship = { type = destroyer name = "无畏" historical_model = 2 }
+ship = { type = destroyer name = "无敌" historical_model = 2 }
+ship = { type = destroyer name = "难忘" historical_model = 2 }
+ship = { type = destroyer name = "不安" historical_model = 2 }
+ship = { type = destroyer name = "坚韧" historical_model = 2 }
+ship = { type = destroyer name = "无惧" historical_model = 2 }
+ship = { type = destroyer name = "库拉科夫海军中将" historical_model = 2 }
+ship = { type = destroyer name = "瓦西列夫斯基元帅" historical_model = 2 }
+ship = { type = destroyer name = "扎哈洛夫海军上将" historical_model = 2 }
+ship = { type = destroyer name = "斯皮里多诺夫海军上将" historical_model = 2 }
+ship = { type = destroyer name = "特里巴特斯海军上将" historical_model = 2 }
+ship = { type = destroyer name = "萨波什尼科夫元帅" historical_model = 2 }
+ship = { type = destroyer name = "北莫尔斯克" historical_model = 2 }
+ship = { type = submarine name = "虎" historical_model = 2 }
+ship = { type = submarine name = "萨马拉" historical_model = 2 }
+ship = { type = submarine name = "野猪" historical_model = 2 }
+ship = { type = submarine name = "猎豹" historical_model = 2 }
+ship = { type = submarine name = "海豹" historical_model = 2 }
+ship = { type = submarine name = "北德文斯克" historical_model = 2 }
+ship = { type = submarine name = "喀山" historical_model = 2 }
+ship = { type = submarine name = "新西西伯利亚" historical_model = 2 }
+ship = { type = submarine name = "乌法" historical_model = 2 }
+ship = { type = submarine name = "彼尔姆" historical_model = 2 }
+ship = { type = submarine name = "彼得罗扎沃茨克" historical_model = 2 }
+ship = { type = submarine name = "奥布宁斯克" historical_model = 2 }
+ship = { type = submarine name = "丹尼尔·亚历山德罗维奇" historical_model = 2 }
+ship = { type = submarine name = "坦波夫" historical_model = 2 }
+ship = { type = submarine name = "圣尼古拉" historical_model = 2 }
+ship = { type = submarine name = "弗拉季高加索" historical_model = 2 }
+ship = { type = submarine name = "新西伯利亚" historical_model = 2 }
+ship = { type = submarine name = "秋明共青团员" historical_model = 2 }
+ship = { type = heavy_cruiser name = "达吉斯坦" historical_model = 2 }
+ship = { type = heavy_cruiser name = "戈尔什科夫苏联海军元帅" historical_model = 2 }
+ship = { type = heavy_cruiser name = "卡萨托诺夫海军元帅" historical_model = 2 }
+ship = { type = heavy_cruiser name = "戈洛夫科海军上将" historical_model = 2 }
+ship = { type = heavy_cruiser name = "尤马舍夫海军上将" historical_model = 2 }
+ship = { type = light_cruiser name = "守护" historical_model = 2 }
+ship = { type = light_cruiser name = "机灵" historical_model = 2 }
+ship = { type = light_cruiser name = "敏捷" historical_model = 2 }
+ship = { type = light_cruiser name = "完美" historical_model = 2 }
+ship = { type = ANAS name = "K-248" historical_model = 2 }
+ship = { type = ANAS name = "K-263" historical_model = 2 }
+ship = { type = ANAS name = "K-322" historical_model = 2 }
+ship = { type = ANAS name = "K-391" historical_model = 2 }
+ship = { type = ANAS name = "K-331" historical_model = 2 }
+ship = { type = ANAS name = "K-419" historical_model = 2 }
+ship = { type = ANAS name = "K-295" historical_model = 2 }
+}

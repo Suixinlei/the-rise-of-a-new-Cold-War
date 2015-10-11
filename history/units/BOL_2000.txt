@@ -1,0 +1,97 @@
+theatre = {
+	name = "Fuerzas Armadas de Bolivia"
+	location = 10151
+	regiment = { type = hq_brigade name = "Fuerzas Armadas de Bolivia" historical_model = 1 }
+	corps = {
+		name = "Ejército Boliviano"
+		location = 10151
+		regiment = { type = hq_brigade name = "Ejército Boliviano" historical_model = 1 }
+		division = {
+			is_reserve = yes
+			name = "1st Cavalry Brigade"
+			location = 10151
+			regiment = { type = mechanized_brigade name = "11th Cavalry Regiment" historical_model = 0 }
+			regiment = { type = mechanized_brigade name = "12th Cavalry Regiment" historical_model = 0 }
+		}
+		division = {
+			is_reserve = yes
+			name = "2nd Cavalry Brigade"
+			location = 10151
+			regiment = { type = infantry_brigade name = "21st Cavalry Regiment" historical_model = 1 }
+			regiment = { type = infantry_brigade name = "22nd Cavalry Regiment" historical_model = 1 }
+			regiment = { type = infantry_brigade name = "23rd Cavalry Regiment" historical_model = 1 }
+		}
+		division = {
+			is_reserve = yes
+			name = "3rd Cavalry Brigade"
+			location = 10151
+			regiment = { type = infantry_brigade name = "31st Cavalry Regiment" historical_model = 1 }
+			regiment = { type = infantry_brigade name = "32nd Cavalry Regiment" historical_model = 1 }
+			regiment = { type = infantry_brigade name = "33rd Cavalry Regiment" historical_model = 1 }
+		}
+		division = {
+			is_reserve = yes
+			name = "1st Airborne Brigade"
+			location = 10151
+			regiment = { type = paratrooper_brigade name = "11th Airborne Regiment" historical_model = 1 }
+			regiment = { type = paratrooper_brigade name = "12th Airborne Regiment" historical_model = 1 }
+		}
+		division = {
+			is_reserve = yes
+			name = "1st Infantry Brigade"
+			location = 10198
+			regiment = { type = infantry_brigade name = "11th Infantry Regiment" historical_model = 1 }
+			regiment = { type = infantry_brigade name = "12th Infantry Regiment" historical_model = 1 }
+			regiment = { type = infantry_brigade name = "13th Infantry Regiment" historical_model = 1 }
+		}
+		division = {
+			is_reserve = yes
+			name = "2nd Infantry Brigade"
+			location = 10198
+			regiment = { type = infantry_brigade name = "21st Infantry Regiment" historical_model = 1 }
+			regiment = { type = infantry_brigade name = "22nd Infantry Regiment" historical_model = 1 }
+			regiment = { type = infantry_brigade name = "23rd Infantry Regiment" historical_model = 1 }
+		}
+		division = {
+			is_reserve = yes
+			name = "3rd Infantry Brigade"
+			location = 10198
+			regiment = { type = infantry_brigade name = "31st Infantry Regiment" historical_model = 1 }
+			regiment = { type = infantry_brigade name = "32nd Infantry Regiment" historical_model = 1 }
+			regiment = { type = infantry_brigade name = "33rd Infantry Regiment" historical_model = 1 }
+		}
+		division = {
+			is_reserve = yes
+			name = "4th Infantry Brigade"
+			location = 10198
+			regiment = { type = infantry_brigade name = "41st Infantry Regiment" historical_model = 1 }
+			regiment = { type = infantry_brigade name = "42nd Infantry Regiment" historical_model = 1 }
+			regiment = { type = infantry_brigade name = "43rd Infantry Regiment" historical_model = 1 }
+		}
+		division = {
+			is_reserve = yes
+			name = "5th Infantry Brigade"
+			location = 10198
+			regiment = { type = infantry_brigade name = "51st Infantry Regiment" historical_model = 1 }
+			regiment = { type = infantry_brigade name = "52nd Infantry Regiment" historical_model = 1 }
+			regiment = { type = infantry_brigade name = "53rd Infantry Regiment" historical_model = 1 }
+		}
+		division = {
+			is_reserve = yes
+			name = "6th Infantry Brigade"
+			location = 10198
+			regiment = { type = infantry_brigade name = "61st Infantry Regiment" historical_model = 1 }
+			regiment = { type = infantry_brigade name = "62nd Infantry Regiment" historical_model = 1 }
+			regiment = { type = infantry_brigade name = "63rd Infantry Regiment" historical_model = 1 }
+		}
+		division = {
+			is_reserve = yes
+			name = "7th Infantry Brigade"
+			location = 10198
+			regiment = { type = infantry_brigade name = "71st Infantry Regiment" historical_model = 1 }
+			regiment = { type = infantry_brigade name = "72nd Infantry Regiment" historical_model = 1 }
+			regiment = { type = infantry_brigade name = "73rd Infantry Regiment" historical_model = 1 }
+		}
+	}
+	
+}

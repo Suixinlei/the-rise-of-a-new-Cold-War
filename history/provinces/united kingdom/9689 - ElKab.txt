@@ -1,0 +1,6 @@
+owner = SUD
+controller = SUD
+add_core = SUD
+
+infra = 6
+leadership = 0.50

@@ -1,0 +1,99 @@
+168001 = {
+	name = "Kasymov"
+	country = TRK
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 0.00
+	picture = TRK1
+	add_trait = trickster
+	history = {
+ 1990.1.1 = { rank = 1 }
+ 1990.1.1 = { rank = 2 }
+ 1999.1.1 = { rank = 3 }
+ 2030.1.1 = { rank = 0 }
+ }
+}
+
+168002 = {
+	name = "Mammedgeldy"
+	country = TRK
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 0.00
+	picture = TRK2
+	history = {
+		1999.1.1 = { rank = 1 }
+		1999.1.1 = { rank = 2 }
+		2030.1.1 = { rank = 0 }
+	}
+}
+168003 = {
+	name = "Arazov"
+	country = TRK
+	type = land
+	skill = 0
+	max_skill = 3
+	loyalty = 0.00
+	picture = arazov
+	history = {
+		1999.1.1 = { rank = 1 }
+		1999.1.1 = { rank = 2 }
+		2030.1.1 = { rank = 0 }
+	}
+}
+168004 = {
+	name = "Bazarov"
+	country = TRK
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 0.00
+	picture = TRK4
+	add_trait = old_guard
+	history = {
+		1990.1.1 = { rank = 1 }
+		2030.1.1 = { rank = 0 }
+	}
+}
+168005 = {
+	name = "Berdiew"
+	country = TRK
+	type = land
+	skill = 0
+	max_skill = 4
+	loyalty = 1.00
+	picture = TRK5
+	history = {
+		1990.1.1 = { rank = 1 }
+		2030.1.1 = { rank = 0 }
+	}
+}
+168006 = {
+	name = "Berdimuhamedow"
+	country = TRK
+	type = land
+	skill = 0
+	max_skill = 4
+	loyalty = 0.00
+	picture = gurbangula
+	add_trait = trickster
+	history = {
+		1999.1.1 = { rank = 1 }
+		2030.1.1 = { rank = 0 }
+	}
+}
+168007 = {
+	name = "Gundygoev"
+	country = TRK
+	type = land
+	skill = 1
+	max_skill = 4
+	loyalty = 0.00
+	picture = TRK6
+	history = {
+		1999.1.1 = { rank = 1 }
+		2030.1.1 = { rank = 0 }
+	}
+}

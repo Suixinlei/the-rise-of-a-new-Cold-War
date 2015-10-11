@@ -1,0 +1,8 @@
+owner = PRK
+controller = PRK
+add_core = PRK
+infra = 3
+
+
+air_base = 2 #Pukchang airbase
+industry = 3

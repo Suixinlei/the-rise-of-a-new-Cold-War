@@ -1,0 +1,6 @@
+owner = CAN
+controller = CAN
+add_core = CAN
+crude_oil = 18.8
+infra = 6
+air_base = 5 #CFB Gander

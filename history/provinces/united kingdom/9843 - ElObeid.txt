@@ -1,0 +1,6 @@
+owner = SUD
+controller = SUD
+add_core = SUD
+manpower = 3.00
+infra = 6
+

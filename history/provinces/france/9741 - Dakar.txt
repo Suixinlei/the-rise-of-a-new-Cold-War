@@ -1,0 +1,9 @@
+owner = SEN
+controller = SEN
+add_core = SEN
+manpower = 4.70
+infra = 6
+
+air_base = 4 #Dakar airbase
+naval_base = 2 #Dakar port
+points = 1

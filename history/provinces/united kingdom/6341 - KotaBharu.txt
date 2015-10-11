@@ -1,0 +1,12 @@
+owner = MLY
+
+controller = MLY
+
+add_core = MLY
+
+
+infra = 4
+
+air_base = 2 #RMAF Gong Kedak
+points = 1
+industry = 1

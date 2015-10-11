@@ -1,0 +1,6 @@
+owner = BOS
+controller = BOS
+add_core = BOS
+energy = 1.00
+infra = 7
+

@@ -1,0 +1,10 @@
+owner = SCH
+controller = SCH
+add_core = SCH
+industry = 3
+manpower = 0.5
+infra = 10
+
+air_base = 10
+leadership = 2.50
+points = 1

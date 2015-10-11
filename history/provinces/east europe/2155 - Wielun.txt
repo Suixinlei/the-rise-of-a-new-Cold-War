@@ -1,0 +1,7 @@
+owner = POL
+controller = POL
+add_core = POL
+
+infra = 8
+
+

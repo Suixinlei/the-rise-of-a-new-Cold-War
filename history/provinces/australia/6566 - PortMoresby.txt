@@ -1,0 +1,10 @@
+owner = PNG
+
+controller = PNG
+
+add_core = PNG
+manpower = 2.1
+infra = 4
+air_base = 2 #Port Moresby airport
+naval_base = 3 #Port Moresby port
+points = 1

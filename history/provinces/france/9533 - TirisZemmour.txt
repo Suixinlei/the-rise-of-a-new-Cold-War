@@ -1,0 +1,7 @@
+owner = MAU
+controller = MAU
+add_core = MAU
+
+infra = 2
+air_base = 2 #Bir Moghrein airbase
+points = 1

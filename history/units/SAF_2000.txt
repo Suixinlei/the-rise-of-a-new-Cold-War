@@ -1,0 +1,146 @@
+theatre = {
+	name = "South African National Defence Force"
+	location = 7978
+	regiment = { type = hq_brigade name = "South African National Defence Force" historical_model = 2 }
+	army = {
+		name = "South African Army"
+		location = 7978
+		regiment = { type = hq_brigade name = "Army HQ" historical_model = 2 }
+		corps = {
+			name = "South African Armoured Corps"
+			location = 7996
+			regiment = { type = hq_brigade name = "Armoured Corps HQ" historical_model = 2 }
+			division = {
+				is_reserve = yes
+				name = "1 South African Tank Regiment"
+				location = 7996
+				regiment = { type = armor_brigade name = "1 South African Tank Regiment" historical_model = 0 }
+			}
+			division = {
+				is_reserve = yes
+				name = "1 Special Service Battalion"
+				location = 7996
+				regiment = { type = mechanized_brigade name = "1 Special Service Battalion" historical_model = 1 }
+			}
+		}
+		corps = {
+			name = "South African Infantry Corps"
+			location = 7978
+			regiment = { type = hq_brigade name = "Infantry Corps HQ" historical_model = 2 }
+			division = {
+				is_reserve = yes
+				name = "44 Parachute Regiment"
+				location = 7996
+				regiment = { type = paratrooper_brigade name = "1 Parachute Battalion" historical_model = 2 }
+			}
+			division = {
+				is_reserve = yes
+				name = "6 South African Infantry Battalion"
+				location = 8005
+				regiment = { type = air_cavalry_brigade name = "6 South African Infantry Battalion" historical_model = 2 }
+			}
+			division = {
+				is_reserve = yes
+				name = "9 South African Infantry Battalion" 
+				location = 8054
+				regiment = { type = marine_brigade name = "9 South African Infantry Battalion" historical_model = 2 }
+			}
+			division = {
+				is_reserve = yes
+				name = "21 South African Infantry Battalion"
+				location = 7978
+				regiment = { type = infantry_brigade name = "21 South African Infantry Battalion" historical_model = 2 }
+			}
+			division = {
+				is_reserve = yes
+				name = "1 South African Infantry Battalion"
+				location = 7996
+				regiment = { type = mechanized_brigade name = "1 South African Infantry Battalion" historical_model = 1 }
+			}
+			division = {
+				is_reserve = yes
+				name = "8 South African Infantry Battalion" 
+				location = 10416
+				regiment = { type = mechanized_brigade name = "8 South African Infantry Battalion" historical_model = 1 }
+			}
+			division = {
+				is_reserve = yes
+				name = "2 South African Infantry Battalion"
+				location = 10426
+				regiment = { type = infantry_brigade name = "2 South African Infantry Battalion" historical_model = 2 }
+			}
+			division = {
+				is_reserve = yes
+				name = "4 South African Infantry Battalion"
+				location = 10395
+				regiment = { type = infantry_brigade name = "4 South African Infantry Battalion" historical_model = 2 }
+			}
+			division = {
+				is_reserve = yes
+				name = "5 South African Infantry Battalion"
+				location = 7965
+				regiment = { type = infantry_brigade name = "5 South African Infantry Battalion" historical_model = 2 }
+			}
+			division = {
+				is_reserve = yes
+				name = "7 South African Infantry Battalion"
+				location = 10395
+				regiment = { type = infantry_brigade name = "7 South African Infantry Battalion" historical_model = 2 }
+			}
+			division = {
+				is_reserve = yes
+				name = "10 South African Infantry Battalion"
+				location = 10426
+				regiment = { type = infantry_brigade name = "10 South African Infantry Battalion" historical_model = 2 }
+			}
+			division = {
+				is_reserve = yes
+				name = "14 South African Infantry Battalion"
+				location = 7987
+				regiment = { type = infantry_brigade name = "14 South African Infantry Battalion" historical_model = 2 }
+			}
+			division = {
+				is_reserve = yes
+				name = "15 South African Infantry Battalion"
+				location = 10366
+				regiment = { type = infantry_brigade name = "15 South African Infantry Battalion" historical_model = 2 }
+			}
+			division = {
+				is_reserve = yes
+				name = "121 South African Infantry Battalion"
+				location = 7960
+				regiment = { type = infantry_brigade name = "121 South African Infantry Battalion" historical_model = 2 }
+			}
+		}
+	}
+	
+	air = {
+	name = "AFB Makhado"
+	location = 10366
+	base = 10366
+	wing = { type = interceptor name = "2 Squadron" historical_model = 2 }
+	}
+	
+	air = {
+	name = "AFB Waterkloof"
+	location = 7978
+	base = 7978
+	wing = { type = transport_plane name = "28 Squadron" historical_model = 0 }
+	}
+	
+	navy = {
+	name = "South African Navy"
+	location = 8054
+	base = 8054
+	ship = { type = patrol_boat name = "SAS Isaac Dyobha" historical_model = 0 }
+	ship = { type = patrol_boat name = "SAS Galeshewe" historical_model = 0 }
+	ship = { type = patrol_boat name = "SAS Jan Smuts" historical_model = 0 }
+	ship = { type = patrol_boat name = "SAS Shaka" historical_model = 0 }
+	ship = { type = patrol_boat name = "SAS Adam Kok" historical_model = 0 }
+	ship = { type = patrol_boat name = "SAS Sekhukhuni" historical_model = 0 }
+	ship = { type = patrol_boat name = "SAS René Sethren" historical_model = 0 }
+	ship = { type = patrol_boat name = "SAS Job Masego" historical_model = 0 }
+	}
+	
+}
+	

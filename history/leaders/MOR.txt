@@ -1,0 +1,615 @@
+107001 = {
+	name = "al-Ansari"
+	country = MOR
+	type = land
+	skill = 0
+	max_skill = 4
+	loyalty = 0.00
+	picture = L107001
+	add_trait = commando
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+107002 = {
+	name = "Abouzeid"
+	country = MOR
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L107002
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+107003 = {
+	name = "Achaari"
+	country = MOR
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 1.00
+	picture = L107003
+	add_trait = trickster
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+107004 = {
+	name = "Akalay"
+	country = MOR
+	type = land
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = L107004
+	add_trait = panzer_leader
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+107005 = {
+	name = "Bahéchar"
+	country = MOR
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L107005
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+107006 = {
+	name = "Batma"
+	country = MOR
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L107006
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+107007 = {
+	name = "Benchekroun"
+	country = MOR
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L107007
+	add_trait = frontline_soldier
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+107008 = {
+	name = "Chafik"
+	country = MOR
+	type = land
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L107008
+	add_trait = improvisation
+	history = {
+		1999.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+107009 = {
+	name = "al-Alami"
+	country = MOR
+	type = land
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L107009
+	add_trait = panzer_leader
+	history = {
+		1995.1.1 = { rank = 1 }
+		2000.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+107010 = {
+	name = "Chatt"
+	country = MOR
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L107010
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+107011 = {
+	name = "Daoud"
+	country = MOR
+	type = land
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = L107011
+	add_trait = landing_specialist
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+107012 = {
+	name = "Debbarh"
+	country = MOR
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L107012
+	add_trait = commando
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+107013 = {
+	name = "Elalamy"
+	country = MOR
+	type = land
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = L107013
+	add_trait = panzer_leader
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+107014 = {
+	name = "al-Fassi"
+	country = MOR
+	type = land
+	skill = 1
+	max_skill = 4
+	loyalty = 1.00
+	picture = L107014
+	add_trait = engineer
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+107015 = {
+	name = "al-Fourkani"
+	country = MOR
+	type = land
+	skill = 2
+	max_skill = 8
+	loyalty = 1.00
+	picture = L107015
+	add_trait = panzer_leader
+	add_trait = trickster
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+107016 = {
+	name = "al-Ghumari"
+	country = MOR
+	type = land
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L107016
+	add_trait = learners_will
+	add_trait = logistics_wizard
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+107017 = {
+	name = "Bendra"
+	country = MOR
+	type = land
+	skill = 3
+	max_skill = 6
+	loyalty = 1.00
+	picture = L107017
+	add_trait = offensive_doctrine
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+107018 = {
+	name = "Kadiri"
+	country = MOR
+	type = land
+	skill = 3
+	max_skill = 6
+	loyalty = 1.00
+	picture = L107018
+	history = {
+		1995.1.1 = { rank = 1 }
+		2000.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+107019 = {
+	name = "Houssaini"
+	country = MOR
+	type = land
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = L107019
+	add_trait = landing_specialist
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+107020 = {
+	name = "al-Hajwi"
+	country = MOR
+	type = land
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = L107020
+	add_trait = fortress_buster
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+107021 = {
+	name = "Idrissi"
+	country = MOR
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L107021
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+107022 = {
+	name = "Joumari"
+	country = MOR
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L107022
+	add_trait = defensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+107023 = {
+	name = "Bennani"
+	country = MOR
+	type = land
+	skill = 4
+	max_skill = 7
+	loyalty = 1.00
+	picture = L107023
+	add_trait = offensive_doctrine
+	history = {
+		1995.1.1 = { rank = 1 }
+		1999.1.1 = { rank = 2 }
+		2000.1.1 = { rank = 3 }
+		2003.1.1 = { rank = 4 }
+	}
+}
+107024 = {
+	name = "Ksikes"
+	country = MOR
+	type = land
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = L107024
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+107025 = {
+	name = "Leftah"
+	country = MOR
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L107025
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+107026 = {
+	name = "Laabi"
+	country = MOR
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L107026
+	add_trait = commando
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+107027 = {
+	name = "Mejjati"
+	country = MOR
+	type = land
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = L107027
+	add_trait = panzer_leader
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+107028 = {
+	name = "Oulehri"
+	country = MOR
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L107028
+	add_trait = commando
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+107029 = {
+	name = "Serghini"
+	country = MOR
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L107029
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+107030 = {
+	name = "Zafzaf"
+	country = MOR
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L107030
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+107031 = {
+	name = "Tabbal"
+	country = MOR
+	type = air
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = L107031
+	add_trait = superior_air_tactician
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+107032 = {
+	name = "Trabelsi"
+	country = MOR
+	type = air
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L107032
+	add_trait = night_flyer
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+107033 = {
+	name = "al-Madini"
+	country = MOR
+	type = air
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L107033
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+107034 = {
+	name = "al-Jabri"
+	country = MOR
+	type = air
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L107034
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+107035 = {
+	name = "Diouri"
+	country = MOR
+	type = air
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = L107035
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+107036 = {
+	name = "Benjelloun"
+	country = MOR
+	type = air
+	skill = 3
+	max_skill = 6
+	loyalty = 1.00
+	picture = L107036
+	add_trait = fleet_destroyer
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+107037 = {
+	name = "Boutaleb"
+	country = MOR
+	type = air
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L107037
+	add_trait = carpet_bomber
+	add_trait = tank_buster
+	history = {
+		1995.1.1 = { rank = 1 }
+		2000.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+107038 = {
+	name = "Ayouch"
+	country = MOR
+	type = sea
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L107038
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+107039 = {
+	name = "Berrada"
+	country = MOR
+	type = sea
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L107039
+	add_trait = seawolf
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+107040 = {
+	name = "Charhadi"
+	country = MOR
+	type = sea
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L107040
+	add_trait = superior_tactician
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+107041 = {
+	name = "al-Harradi"
+	country = MOR
+	type = sea
+	skill = 1
+	max_skill = 4
+	loyalty = 1.00
+	picture = L107041
+	add_trait = spotter
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+107042 = {
+	name = "Kilito"
+	country = MOR
+	type = sea
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L107042
+	add_trait = seawolf
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+107043 = {
+	name = "Mrabet"
+	country = MOR
+	type = sea
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L107043
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+107044 = {
+	name = "Nedali"
+	country = MOR
+	type = sea
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L107044
+	add_trait = seawolf
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+107045 = {
+	name = "Serhane"
+	country = MOR
+	type = sea
+	skill = 0
+	max_skill = 5
+	loyalty = 1.00
+	picture = L107045
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+107046 = {
+	name = "al-Wazzani"
+	country = MOR
+	type = sea
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L107046
+	add_trait = spotter
+	add_trait = superior_tactician
+	history = {
+		1997.1.1 = { rank = 1 }
+		2000.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+107047 = {
+	name = "Harrak"
+	country = MOR
+	type = sea
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L107047
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}

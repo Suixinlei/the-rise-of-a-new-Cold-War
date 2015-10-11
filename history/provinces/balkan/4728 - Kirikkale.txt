@@ -1,0 +1,5 @@
+owner = TUR
+controller = TUR
+add_core = TUR
+metal = 5.00
+infra = 7

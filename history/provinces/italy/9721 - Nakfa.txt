@@ -1,0 +1,6 @@
+owner = ERI
+controller = ERI
+add_core = ERI
+infra = 2
+naval_base = 2 #Massawa port
+industry = 1

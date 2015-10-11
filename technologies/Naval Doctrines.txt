@@ -1,0 +1,614 @@
+blue_water_doctrine = {
+
+	allow = {
+		OR = {
+			destroyers = 1
+                        cruiser = 1
+                        aircraft_carrier = 1
+		}
+	}
+	
+	research_bonus_from = {
+		base_strike_doctrine = 0.3
+		naval_doctrine_practical = 0.7
+	}
+	
+	change = no
+	
+	on_completion = base_strike_doctrine
+	
+	difficulty = 20
+	start_year = 2005
+	folder = naval_doctrine_folder
+}
+
+carrier_aircraft_crew_training = {
+
+	cag = {
+		default_morale = 0.05
+		default_organisation = 5
+	}
+	caz = {
+		default_morale = 0.05
+		default_organisation = 5
+	}
+	carrier = {
+		surface_detection = 1.0
+	}
+	escort_carrier = {
+		surface_detection = 1.0
+	}
+	helicopter_carriers = {
+		surface_detection = 1.0
+	}
+
+	allow = {
+		blue_water_doctrine = 1
+	}
+	
+	research_bonus_from = {
+		base_strike_doctrine = 0.3
+		naval_doctrine_practical = 0.7
+	}
+	
+	change = no
+	
+	on_completion = base_strike_doctrine
+	
+	difficulty = 10
+	start_year = 2008
+	first_offset = 2010
+	additional_offset = 2
+	max_level = 12
+	folder = naval_doctrine_folder
+}
+
+carrier_battlegroups = {
+
+	carrier = {
+		positioning = 0.05
+	}
+	escort_carrier = {
+		positioning = 0.05
+	}
+	helicopter_carriers = {
+		positioning = 0.05
+	}
+	
+	allow = {
+		blue_water_doctrine = 1
+	}
+	
+	research_bonus_from = {
+		base_strike_doctrine = 0.3
+		naval_doctrine_practical = 0.7
+	}
+	
+	change = no
+	
+	on_completion = base_strike_doctrine
+	
+	difficulty = 10
+	start_year = 2008
+	first_offset = 2010
+	additional_offset = 2
+	max_level = 12
+	folder = naval_doctrine_folder
+}
+
+carrier_crew_training = {
+
+	carrier = {
+		default_morale = 0.05
+		default_organisation = 5
+	}
+	escort_carrier = {
+		default_morale = 0.05
+		default_organisation = 5
+	}
+	helicopter_carriers = {
+		default_morale = 0.03
+		default_organisation = 3
+	}
+
+	allow = {
+		blue_water_doctrine = 1
+	}
+	
+	research_bonus_from = {
+		base_strike_doctrine = 0.3
+		naval_doctrine_practical = 0.7
+	}
+	
+	change = no
+	
+	on_completion = base_strike_doctrine
+	
+	difficulty = 10
+	start_year = 2008
+	first_offset = 2010
+	additional_offset = 2
+	max_level = 12
+	folder = naval_doctrine_folder
+}
+
+cruiser_tactics = {
+
+	battleship = {
+		positioning = 0.05
+		default_morale = 0.05
+		default_organisation = 5
+	}
+	super_battleship = {
+		positioning = 0.05
+		default_morale = 0.05
+		default_organisation = 5
+	}
+	
+	allow = {
+		blue_water_doctrine = 1
+	}
+	
+	research_bonus_from = {
+		base_strike_doctrine = 0.3
+		naval_doctrine_practical = 0.7
+	}
+	
+	change = no
+	
+	on_completion = base_strike_doctrine
+	
+	difficulty = 10
+	start_year = 2008
+	first_offset = 2010
+	additional_offset = 2
+	max_level = 12
+	folder = naval_doctrine_folder
+}
+
+destroyer_tactics = {
+
+	destroyer = {
+		positioning = 0.05
+		default_morale = 0.05
+		default_organisation = 5
+	}
+	battlecruiser = {
+		positioning = 0.05
+		default_morale = 0.05
+		default_organisation = 5
+	}
+	
+	allow = {
+		blue_water_doctrine = 1
+	}
+	
+	research_bonus_from = {
+		base_strike_doctrine = 0.3
+		naval_doctrine_practical = 0.7
+	}
+	
+	change = no
+	
+	on_completion = base_strike_doctrine
+	
+	difficulty = 10
+	start_year = 2008
+	first_offset = 2010
+	additional_offset = 2
+	max_level = 12
+	folder = naval_doctrine_folder
+}
+
+green_water_doctrine = {
+
+	allow_escorts = yes
+	
+	allow = {
+		OR = {
+			corvettes = 1
+			frigate = 1
+		}	
+	}
+	
+	research_bonus_from = {
+		fleet_in_being_doctrine = 0.3
+		naval_doctrine_practical = 0.7
+	}
+	
+	change = no
+	
+	on_completion = fleet_in_being_doctrine
+	difficulty = 10
+	start_year = 2005
+	folder = naval_doctrine_folder
+}
+
+small_ship_tactics = {
+
+	heavy_cruiser = {
+		positioning = 0.05
+	}
+	light_cruiser = {
+		positioning = 0.05
+	}
+	
+	allow = {
+		green_water_doctrine = 1	
+	}
+	
+	research_bonus_from = {
+		fleet_in_being_doctrine = 0.3
+		naval_doctrine_practical = 0.7
+	}
+	
+	change = no
+	
+	on_completion = fleet_in_being_doctrine
+	
+	difficulty = 10
+	start_year = 2008
+	first_offset = 2010
+	additional_offset = 2
+	max_level = 12
+	folder = naval_doctrine_folder
+}
+
+corvette_crew_training = {
+
+	heavy_cruiser = {
+		default_morale = 0.05
+		default_organisation = 5
+	}
+	light_cruiser = {
+		default_morale = 0.05
+		default_organisation = 5
+	}
+
+	allow = {
+		green_water_doctrine = 1	
+	}
+	
+	research_bonus_from = {
+		fleet_in_being_doctrine = 0.3
+		naval_doctrine_practical = 0.7
+	}
+	
+	change = no
+	
+	on_completion = fleet_in_being_doctrine
+	
+	difficulty = 10
+	start_year = 2008
+	first_offset = 2010
+	additional_offset = 2
+	max_level = 12
+	folder = naval_doctrine_folder
+}
+
+frigate_crew_training = {
+
+	heavy_cruiser = {
+		default_morale = 0.05
+		default_organisation = 5
+	}
+	light_cruiser = {
+		default_morale = 0.05
+		default_organisation = 5
+	}
+	
+	allow = {
+		green_water_doctrine = 1	
+	}
+	
+	research_bonus_from = {
+		fleet_in_being_doctrine = 0.3
+		naval_doctrine_practical = 0.7
+	}
+	
+	change = no
+	
+	on_completion = fleet_in_being_doctrine
+	
+	difficulty = 10
+	start_year = 2008
+	first_offset = 2010
+	additional_offset = 2
+	max_level = 12
+	folder = naval_doctrine_folder
+}
+
+basing_doctrine = {
+
+	naval_base_efficiency = 0.20
+	
+	allow = {
+		green_water_doctrine = 1	
+	}
+	
+	research_bonus_from = {
+		fleet_in_being_doctrine = 0.3
+		naval_doctrine_practical = 0.7
+	}
+	
+	change = no
+	
+	on_completion = fleet_in_being_doctrine
+	
+	difficulty = 10
+	start_year = 2008
+	first_offset = 2010
+	additional_offset = 2
+	max_level = 12
+	folder = naval_doctrine_folder
+}
+
+fire_control_systems = {
+
+	heavy_cruiser = {
+		surface_detection = 1
+	}
+	light_cruiser = {
+		surface_detection = 1
+	}
+	targeting_chance = 0.05
+	targeting_choice = 0.05
+	
+	allow = {
+		green_water_doctrine = 1	
+	}
+	
+	research_bonus_from = {
+		fleet_in_being_doctrine = 0.3
+		naval_doctrine_practical = 0.7
+	}
+	
+	change = no
+	
+	on_completion = fleet_in_being_doctrine
+	
+	difficulty = 10
+	start_year = 2008
+	first_offset = 2010
+	additional_offset = 2
+	max_level = 12
+	folder = naval_doctrine_folder
+}
+
+haijunxinxihua = {
+
+        destroyer = {
+		default_morale = 0.10
+		positioning = 0.10
+		maximum_speed = 5
+	}
+        escort_carrier = {
+		default_morale = 0.10
+		positioning = 0.10
+		maximum_speed = 5
+	}
+        helicopter_carriers = {
+		default_morale = 0.10
+		positioning = 0.10
+		maximum_speed = 5
+	}
+        carrier = {
+		default_morale = 0.10
+		positioning = 0.10
+		maximum_speed = 5
+	}
+        battleship = {
+		default_morale = 0.10
+		positioning = 0.10
+		maximum_speed = 5
+	}
+        battlecruiser = {
+		default_morale = 0.10
+		positioning = 0.10
+		maximum_speed = 5
+	}
+        super_battleship = {
+		default_morale = 0.10
+		positioning = 0.10
+		maximum_speed = 5
+	}
+        heavy_cruiser = {
+		default_morale = 0.10
+		positioning = 0.10
+		maximum_speed = 5
+	}
+        light_cruiser = {
+		default_morale = 0.10
+		positioning = 0.10
+		maximum_speed = 5
+	}
+	
+	allow = {
+		destroyer_tactics = 1
+                carrier_battlegroups = 1
+                small_ship_tactics = 1
+                promotion_of_information_technology = 1
+	}
+	
+	research_bonus_from = {
+		fleet_in_being_doctrine = 0.3
+		naval_doctrine_practical = 0.7
+	}
+	
+	change = no
+	
+	on_completion = fleet_in_being_doctrine
+	
+	difficulty = 35
+	start_year = 2005
+	folder = naval_doctrine_folder
+}
+
+submarine_warfare_doctrine = {
+
+	allow = {
+		OR = {
+			submarines = 1
+			nuclear-powered_submarine = 1
+		}
+	}
+	
+	research_bonus_from = {
+		sealane_interdiction_doctrine = 0.3
+		naval_doctrine_practical = 0.7
+	}
+	
+	change = no
+	
+	on_completion = sealane_interdiction_doctrine
+	
+	difficulty = 20
+	start_year = 2005
+	folder = naval_doctrine_folder
+}
+
+anti_submarine_tactics = {
+
+	escort_efficiency = 0.05
+	convoy_escort = {
+		efficiency = 0.05
+	}
+	
+	allow = {
+		submarine_warfare_doctrine = 1
+	}
+	
+	research_bonus_from = {
+		sealane_interdiction_doctrine = 0.3
+		naval_doctrine_practical = 0.7
+	}
+	
+	change = no
+	
+	on_completion = sealane_interdiction_doctrine
+	
+	difficulty = 10
+	start_year = 2008
+	first_offset = 2010
+	additional_offset = 2
+	max_level = 12
+	folder = naval_doctrine_folder
+}
+
+submarine_crew_training = {
+
+	ANAS = {
+		default_morale = 0.06
+		default_organisation = 6
+	}
+	submarine = {
+		default_morale = 0.06
+		default_organisation = 6
+	}
+	
+	allow = {
+		submarine_warfare_doctrine = 1
+	}
+	
+	research_bonus_from = {
+		sealane_interdiction_doctrine = 0.3
+		naval_doctrine_practical = 0.7
+	}
+	
+	change = no
+	
+	on_completion = sealane_interdiction_doctrine
+	
+	difficulty = 10
+	start_year = 2008
+	first_offset = 2010
+	additional_offset = 2
+	max_level = 12
+	folder = naval_doctrine_folder
+}
+
+convoy_raiding_tactics = {
+
+	convoy_raid = {
+		efficiency = 0.05
+	}
+	
+	allow = {
+		submarine_warfare_doctrine = 1
+	}
+	
+	research_bonus_from = {
+		sealane_interdiction_doctrine = 0.3
+		naval_doctrine_practical = 0.7
+	}
+	
+	change = no
+	
+	on_completion = sealane_interdiction_doctrine
+	
+	difficulty = 10
+	start_year = 2008
+	first_offset = 2010
+	additional_offset = 2
+	max_level = 12
+	folder = naval_doctrine_folder
+}
+
+submarine_combat_tactics = {
+
+	ANAS = {
+		positioning = 0.03
+	}
+	submarine = {
+		positioning = 0.03
+	}
+	
+	allow = {
+		submarine_warfare_doctrine = 1
+	}
+	
+	research_bonus_from = {
+		sealane_interdiction_doctrine = 0.3
+		naval_doctrine_practical = 0.7
+	}
+	
+	change = no
+	
+	on_completion = sealane_interdiction_doctrine
+	
+	difficulty = 10
+	start_year = 2008
+	first_offset = 2010
+	additional_offset = 2
+	max_level = 12
+	folder = naval_doctrine_folder
+}
+
+anti_submarine_patrols = {
+
+	patrol_boat = {
+		default_morale = 0.05
+		default_organisation = 5
+		positioning = 0.03
+	}
+	
+	allow = {
+		submarine_warfare_doctrine = 1
+	}
+	
+	research_bonus_from = {
+		sealane_interdiction_doctrine = 0.3
+		naval_doctrine_practical = 0.7
+	}
+	
+	change = no
+	
+	on_completion = sealane_interdiction_doctrine
+	
+	difficulty = 10
+	start_year = 2008
+	first_offset = 2010
+	additional_offset = 2
+	max_level = 12
+	folder = naval_doctrine_folder
+}

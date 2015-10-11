@@ -1,0 +1,6 @@
+owner = TRK
+controller = TRK
+add_core = TRK
+infra = 6
+air_base = 2 #Akdepe airbase
+points = 1

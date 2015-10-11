@@ -1,0 +1,14 @@
+owner = PRK
+
+controller = PRK
+
+add_core = PRK
+
+infra = 6
+land_fort = 5
+air_base = 4 #Wonsan airbase
+naval_base = 5 #Wonsan port
+points = 1
+industry = 10
+rare_materials = 20.00
+leadership = 1.00

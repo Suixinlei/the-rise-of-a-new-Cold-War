@@ -1,0 +1,15 @@
+owner = PER
+
+controller = PER
+
+add_core = PER
+
+infra = 6
+industry = 3
+manpower = 3.00
+energy = 15.00
+metal = 10.00
+rare_materials = 5
+air_base = 9 #Isfahan airbase
+points = 1
+leadership = 1.50

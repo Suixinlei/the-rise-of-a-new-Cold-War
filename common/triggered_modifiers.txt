@@ -1,0 +1,2301 @@
+###################################################################
+# Triggered modifiers are here.
+# these are checked for each countries once/month and then applied.
+#
+# Effects are fully scriptable here.
+##################################################################
+
+# Naval Supremacy in the Wes
+naval_supremacy_in_the_west = {
+
+	potential = {
+		is_in_any_faction = yes
+		OR = {
+			TAG = USA
+			TAG = ENG
+			TAG = GER
+			TAG = ITA
+			TAG = FRA
+			TAG = SOV
+		}
+	}
+	
+	trigger = {
+		10336 = {
+			controller = {
+				faction = THIS
+			}
+		}
+		10150 = {
+			controller = {
+				faction = THIS
+			}
+		}
+		9982 = {
+			controller = {
+				faction = THIS
+			}
+		}
+		7721 = {
+			controller = {
+				faction = THIS
+			}
+		}
+		9739 = {
+			controller = {
+				faction = THIS
+			}
+		}
+		9699 = {
+			controller = {
+				faction = THIS
+			}
+		}
+		9658 = {
+			controller = {
+				faction = THIS
+			}
+		}
+		7350 = {
+			controller = {
+				faction = THIS
+			}
+		}
+		3597 = {
+			controller = {
+				faction = THIS
+			}
+		}
+		6671 = {
+			controller = {
+				faction = THIS
+			}
+		}
+		OR = {
+		controls = 10336
+		controls = 10150 
+		controls = 9982 
+		controls = 7721 
+		controls = 9739 
+		controls = 9699  
+		controls = 9658 
+		controls = 7350
+		controls = 3597
+		controls = 6671
+		}
+	}
+	
+	global_leadership_modifier = 0.15
+	icon = 1
+}
+
+# Naval Supremacy in the East
+naval_supremacy_in_the_east = {
+
+	potential = {
+		is_in_any_faction = yes
+		OR = {
+			TAG = CHC
+			TAG = USA
+			TAG = ENG
+			TAG = GER
+			TAG = JAP
+			TAG = SOV
+		}
+	}
+
+	trigger = {
+	6875 = {
+			controller = {
+				faction = THIS
+			}
+		}
+	8468 = {
+			controller = {
+				faction = THIS
+			}
+		}
+	8470 = {
+			controller = {
+				faction = THIS
+			}
+		}
+	7009 = {
+			controller = {
+				faction = THIS
+			}
+		}
+	7238 = {
+			controller = {
+				faction = THIS
+			}
+		}
+	5341 = {
+			controller = {
+				faction = THIS
+			}
+		}
+	4390 = {
+			controller = {
+				faction = THIS
+			}
+		}
+	3466 = {
+			controller = {
+				faction = THIS
+			}
+		}
+	
+	OR = {
+		controls = 6875
+		controls = 8468
+		controls = 8470
+		controls = 7009
+		controls = 7238
+		controls = 5341
+		controls = 4390
+		controls = 3466
+		}
+	}
+	
+	
+	global_leadership_modifier = 0.15
+	icon = 2
+}
+
+# Neutrality
+neutrality = {
+
+	potential = {
+		NOT = {
+			OR = {
+				faction = allies
+				faction = axies
+				faction = comintern
+			}
+		}
+	}
+	
+	trigger = {
+		NOT = {
+			faction = allies
+			faction = axis
+			faction = comintern
+		}
+	}
+	
+	research_efficiency = -0.05
+	espionage_bonus = 0.1
+	counter_espionage = 0.1
+	icon = 14
+}
+
+# Great Army
+great_army = {
+
+	trigger = {
+		total_amount_of_brigades = 600 
+	}
+	
+	global_leadership = 0.15
+	org_regain = 0.15
+	icon = 5
+}
+	
+# Grand Fleet
+great_naval_army = {
+
+	trigger = {
+		total_amount_of_ships = 150
+	}
+	
+	global_leadership = 0.15
+	org_regain = 0.15
+	icon = 6
+}
+
+# Great Air Army
+great_air_army = {
+
+	trigger = {
+		total_amount_of_planes = 100
+	}
+	
+	global_leadership = 0.15
+	org_regain = 0.15
+	icon = 7
+}
+
+# Prosperous Convoy
+prosperous_convoy = {
+
+	trigger = {
+		strat_convoy_impact = 10
+	}
+	
+	global_revolt_risk = -0.1
+	global_supplies = 0.15
+	global_leadership = 0.15
+	icon = 9
+}
+
+# Veteran Army
+veteran_army = {
+
+	trigger = {
+		land_battles_fought = 800
+	}
+	
+	land_organisation = 0.05
+	global_leadership_modifier = 0.05 
+	org_regain = 0.05
+	icon = 5
+}
+
+# Veteran Navy
+veteran_navy = {
+	
+	trigger = {
+		naval_battles_fought = 500
+	}
+	
+	naval_organisation = 0.05
+	global_leadership_modifier = 0.05
+	org_regain = 0.05
+	icon = 6
+}
+
+# Veteran Air Force
+veteran_air_force = {
+	
+	trigger = {
+		air_battles_fought = 300
+	}
+	
+	air_organisation = 0.05
+	global_leadership_modifier = 0.05
+	org_regain = 0.05
+	icon = 7
+}
+
+# Control over the Mediterranean
+mediterranean_control = {
+
+	potential = {
+		OR = {
+			TAG = ITA
+			TAG = SPA
+			TAG = GRE
+			TAG = ENG
+			TAG = FRA
+			TAG = TUR
+		}
+	}
+	
+	trigger = {
+	OR = {
+	AND = {
+	5002 = {
+			controller = {
+				faction = THIS
+			}
+		}
+	4913 = {
+			controller = {
+				faction = THIS
+			}
+		}
+	4486 = {
+			controller = {
+				faction = THIS
+			}
+		}
+	4914 = {
+			controller = {
+				faction = THIS
+			}
+		}
+	5138 = {
+			controller = {
+				faction = THIS
+			}
+		}
+	5233 = {
+			controller = {
+				faction = THIS
+			}
+		}
+	5359 = {
+			controller = {
+				faction = THIS
+			}
+		}
+	5381 = {
+			controller = {
+				faction = THIS
+			}
+		}
+	5139 = {
+			controller = {
+				faction = THIS
+			}
+		}
+	10731 = {
+			controller = {
+				faction = THIS
+			}
+		}
+	5172 = {
+			controller = {
+				faction = THIS
+			}			
+		}				
+	OR = {
+		controls = 5002	
+		controls = 4913
+		controls = 4486
+		controls = 4914
+		controls = 5138
+		controls = 5233
+		controls = 5359
+		controls = 5381
+		controls = 10731
+		controls = 5172
+		controls = 5139
+		}
+		}
+		AND = {
+		controls = 5002	
+		controls = 4913
+		controls = 4486
+		controls = 4914
+		controls = 5138
+		controls = 5233
+		controls = 5359
+		controls = 5381
+		controls = 10731
+		controls = 5172
+		controls = 5139
+		}
+		}
+	}
+	
+	global_supplies = 0.2
+	naval_capacity = 0.2
+	icon = 16
+}
+
+# Panama Channel
+control_over_panama_channel = {
+	
+	potential = {
+		OR = {
+			TAG = CHC
+			TAG = USA
+			TAG = JAP
+		}	
+	}
+	
+	trigger = {
+		controls = 7717
+		controls = 7722
+	}
+
+	supply_throughput = 0.1
+	global_resources = 0.1
+	icon = 16
+}
+
+
+
+# Control over the Black Sea
+control_over_the_black_sea = {
+
+	potential = {
+		NOT = {
+			faction = allies
+		}
+		OR = {
+			TAG = SOV
+			TAG = TUR
+			TAG = ROM
+		}
+	}
+
+	trigger = {
+	OR = {
+		AND = {
+		4441 = {
+			controller = {
+				faction = THIS
+			}			
+			}
+		4123 = {
+			controller = {
+				faction = THIS
+			}			
+		}
+		3919 = {
+			controller = {
+				faction = THIS
+			}			
+		}
+		3580 = {
+			controller = {
+				faction = THIS
+			}			
+		}
+		3309 = {
+			controller = {
+				faction = THIS
+			}			
+		}
+		3310 = {
+			controller = {
+				faction = THIS
+			}			
+		}
+		3245 = {
+			controller = {
+				faction = THIS
+			}			
+		}
+		3581 = {
+			controller = {
+				faction = THIS
+			}			
+		}
+		2913 = {
+			controller = {
+				faction = THIS
+			}			
+		}
+		3180 = {
+			controller = {
+				faction = THIS
+			}			
+		}
+		3449 = {
+			controller = {
+				faction = THIS
+			}			
+		}
+		3379 = {
+			controller = {
+				faction = THIS
+			}			
+		}
+		4059 = {
+			controller = {
+				faction = THIS
+			}			
+		}
+		4503 = {
+			controller = {
+				faction = THIS
+			}			
+		}
+		4186 = {
+			controller = {
+				faction = THIS
+			}			
+		}
+		
+	OR = {
+		controls = 4441
+		controls = 4123
+		controls = 3919
+		controls = 3580
+		controls = 3309
+		controls = 3310
+		controls = 3245
+		controls = 3581
+		controls = 2913
+		controls = 3180
+		controls = 3449
+		controls = 3379
+		controls = 4059
+		controls = 4503
+		controls = 4186
+		}
+		}
+	AND = {
+	controls = 4441
+		controls = 4123
+		controls = 3919
+		controls = 3580
+		controls = 3309
+		controls = 3310
+		controls = 3245
+		controls = 3581
+		controls = 2913
+		controls = 3180
+		controls = 3449
+		controls = 3379
+		controls = 4059
+		controls = 4503
+		controls = 4186
+		}
+	}
+
+	}
+	
+	supply_throughput = 0.15
+	global_leadership_modifier = 0.1
+	icon = 16
+}
+
+
+# Suez Channel
+control_over_suez_channel = {
+
+	potential = {
+		OR = {
+			TAG = ENG
+			TAG = ITA
+			TAG = FRA
+			TAG = GRE
+			TAG = TUR
+		}
+	}
+	
+	trigger = {
+	OR = {
+		AND = {
+		5563 = {
+			controller = {
+				faction = THIS
+			}			
+			}
+		5589 = {
+			controller = {
+				faction = THIS
+			}			
+		}
+		5612 = {
+			controller = {
+				faction = THIS
+			}			
+		}
+		5631 = {
+			controller = {
+				faction = THIS
+			}			
+		}
+		5644 = {
+			controller = {
+				faction = THIS
+			}			
+		}
+		5657 = {
+			controller = {
+				faction = THIS
+			}			
+		}
+		5656 = {
+			controller = {
+				faction = THIS
+			}			
+		}
+		5688 = {
+			controller = {
+				faction = THIS
+			}			
+		}
+		5668 = {
+			controller = {
+				faction = THIS
+			}			
+		}
+		9630 = {
+			controller = {
+				faction = THIS
+			}			
+		}
+		9664 = {
+			controller = {
+				faction = THIS
+			}			
+		}
+		9767 = {
+			controller = {
+				faction = THIS
+			}			
+		}
+		9768 = {
+			controller = {
+				faction = THIS
+			}			
+		}
+		9826 = {
+			controller = {
+				faction = THIS
+			}			
+		}
+		9808 = {
+			controller = {
+				faction = THIS
+			}			
+		}
+		
+	OR = {
+		controls = 5563
+		controls = 5589
+		controls = 5612
+		controls = 5631
+		controls = 5644
+		controls = 5657
+		controls = 5656
+		controls = 5688
+		controls = 5668
+		controls = 9630
+		controls = 9664
+		controls = 9767
+		controls = 9768
+		controls = 9826
+		controls = 9808
+		}
+		}
+	AND = {
+		controls = 5563
+		controls = 5589
+		controls = 5612
+		controls = 5631
+		controls = 5644
+		controls = 5657
+		controls = 5656
+		controls = 5688
+		controls = 5668
+		controls = 9630
+		controls = 9664
+		controls = 9767
+		controls = 9768
+		controls = 9826
+		controls = 9808
+		}
+	}
+	}
+	
+	global_supplies = 0.06
+	global_leadership_modifier = 0.12
+	icon = 16
+}
+
+
+# Makassar Strait
+control_over_makassar_strait = {
+	
+	potential = {
+		OR = {
+			TAG = CHC
+			TAG = HOL
+			TAG = USA
+			TAG = ENG
+			TAG = JAP
+			TAG = AST
+		}
+	}
+	
+	trigger = {
+	OR = {
+		AND = {
+		6478 = {
+			controller = {
+				faction = THIS
+				}			
+			}
+		6508 = {
+			controller = {
+				faction = THIS
+			}			
+		}
+		6492 = {
+			controller = {
+				faction = THIS
+			}			
+		}
+		6472 = {
+			controller = {
+				faction = THIS
+			}			
+		}
+		6455 = {
+			controller = {
+				faction = THIS
+			}			
+		}
+		6444 = {
+			controller = {
+				faction = THIS
+			}			
+		}
+		6434 = {
+			controller = {
+				faction = THIS
+			}			
+		}
+		6428 = {
+			controller = {
+				faction = THIS
+			}			
+		}
+		6424 = {
+			controller = {
+				faction = THIS
+			}			
+		}
+		6421 = {
+			controller = {
+				faction = THIS
+			}			
+		}
+		6407 = {
+			controller = {
+				faction = THIS
+			}			
+		}
+		
+	OR = {
+		controls = 6478
+		controls = 6508
+		controls = 6492 
+		controls = 6472 
+		controls = 6455 
+		controls = 6444 
+		controls = 6434 
+		controls = 6428 
+		controls = 6424 
+		controls = 6421 
+		controls = 6407 
+		}
+		}
+			AND = {
+		controls = 6478
+		controls = 6508
+		controls = 6492 
+		controls = 6472 
+		controls = 6455 
+		controls = 6444 
+		controls = 6434 
+		controls = 6428 
+		controls = 6424 
+		controls = 6421 
+		controls = 6407 
+		}
+	}
+		total_amount_of_ships = 10
+	}
+	
+	global_supplies = 0.05
+	global_leadership_modifier = 0.1
+	icon = 16
+}
+
+
+
+# Control over Gibraltar
+control_over_gibraltar = {
+	
+	potential = {
+		OR = {
+			TAG = SPA
+			TAG = SPR
+			TAG = GER
+			TAG = ITA
+			TAG = ENG
+			TAG = FRA
+			TAG = SOV
+		}
+	}
+	
+	trigger = {
+	OR = {
+		AND = {
+		5191 = {
+			controller = {
+				faction = THIS
+				}			
+			}
+		5258 = {
+			controller = {
+				faction = THIS
+			}			
+		}
+	OR = {	
+		controls = 5191
+		controls = 5258
+		}
+		}
+		AND = {
+		controls = 5191
+		controls = 5258
+		}
+	}
+	}
+	
+	global_supplies = 0.05
+	supply_consumption = -0.05
+	icon = 16
+}
+
+
+
+# Control over 謗esund
+control_over_oresund = {
+	
+	potential = {
+		OR = {
+			TAG = SWE
+			TAG = NOR
+			TAG = DEN
+			TAG = GER
+			TAG = ENG
+		}
+	}
+	
+	trigger = {
+	OR = {
+		AND = {
+		1526 = {
+			controller = {
+				OR = {
+				faction = THIS
+				tag = THIS
+					}
+				}			
+			}
+		1481 = {
+			controller = {
+				OR = {
+				faction = THIS
+				tag = THIS
+					}
+				}			
+			}
+		1482 = {
+			controller = {
+				OR = {
+				faction = THIS
+				tag = THIS
+					}
+				}			
+			}
+		1437 = {
+			controller = {
+				OR = {
+				faction = THIS
+				tag = THIS
+					}
+				}			
+			}
+		1436 = {
+			controller = {
+				OR = {
+				faction = THIS
+				tag = THIS
+					}
+				}			
+			}
+		1391 = {
+			controller = {
+				OR = {
+				faction = THIS
+				tag = THIS
+					}
+				}			
+			}
+		1435 = {
+			controller = {
+				OR = {
+				faction = THIS
+				tag = THIS
+					}
+				}			
+			}
+		1572 = {
+			controller = {
+				OR = {
+				faction = THIS
+				tag = THIS
+					}
+				}			
+			}
+		1483 = {
+			controller = {
+				OR = {
+				faction = THIS
+				tag = THIS
+					}
+				}			
+			}
+		1438 = {
+			controller = {
+				OR = {
+				faction = THIS
+				tag = THIS
+					}
+				}			
+			}
+		1392 = {
+			controller = {
+				OR = {
+				faction = THIS
+				tag = THIS
+					}
+				}			
+			}
+		
+	OR = {
+		controls = 1526
+		controls = 1481
+		controls = 1482
+		controls = 1437
+		controls = 1436
+		controls = 1391
+		controls = 1435
+		controls = 1572
+		controls = 1483
+		controls = 1438
+		controls = 1392
+		}
+		}
+		AND = {
+		controls = 1526
+		controls = 1481
+		controls = 1482
+		controls = 1437
+		controls = 1436
+		controls = 1391
+		controls = 1435
+		controls = 1572
+		controls = 1483
+		controls = 1438
+		controls = 1392
+		}
+	}
+	}
+	
+	global_leadership = 0.1
+	global_supplies = 0.1
+	icon = 16
+}
+
+
+
+# Control of the English Channel
+control_english_channel = {
+
+	potential = {
+		OR = {
+			TAG = FRA
+			TAG = ENG
+			TAG = SPA
+			TAG = GER
+		}
+		NOT = {
+			faction = comintern
+		}
+	}
+
+	trigger = {
+	OR = {
+		AND = {
+		2307 = {
+			controller = {
+				faction = THIS
+			}
+		}
+		2250 = {
+			controller = {
+				faction = THIS
+			}
+		}
+		2078 = {
+			controller = {
+				faction = THIS
+			}
+		}
+		2021 = {
+			controller = {
+				faction = THIS
+			}
+		}
+		7938 = {
+			controller = {
+				faction = THIS
+			}
+		}
+		2195 = {
+			controller = {
+				faction = THIS
+			}
+		}
+		2422 = {
+			controller = {
+				faction = THIS
+			}
+		}
+		2541 = {
+			controller = {
+				faction = THIS
+			}
+		}
+		
+		OR = {
+			controls = 2307
+			controls = 2250
+			controls = 2078
+			controls = 2021
+			controls = 7938
+			controls = 2195
+			controls = 2422
+			controls = 2541
+		}
+		}
+		AND = {
+			controls = 2307
+			controls = 2250
+			controls = 2078
+			controls = 2021
+			controls = 7938
+			controls = 2195
+			controls = 2422
+			controls = 2541
+			}
+	}
+	}
+	
+	global_leadership_modifier = 0.1
+	dissent = -0.1
+	icon = 16
+	
+}
+
+
+
+# Persian Gulf
+control_over_persian_gulf = {
+	
+	potential = {
+		OR = {
+			TAG = IRQ
+			TAG = ENG
+			TAG = SAU
+			TAG = PER
+		}
+	}
+	
+	trigger = {
+	OR = {
+		AND = {
+		9598 = {
+			controller = {
+				faction = THIS
+			}
+			}
+		9429 = {
+			controller = {
+				faction = THIS
+			}
+		}
+		9578 = {
+			controller = {
+				faction = THIS
+			}
+		}
+		9538 = {
+			controller = {
+				faction = THIS
+			}
+		}
+		9365 = {
+			controller = {
+				faction = THIS
+			}
+		}
+		9427 = {
+			controller = {
+				faction = THIS
+			}
+		}
+	OR = {
+		controls = 9598
+		controls = 9429
+		controls = 9578
+		controls = 9538
+		controls = 9365
+		controls = 9427
+		}
+		}
+		AND = {
+		controls = 9598
+		controls = 9429
+		controls = 9578
+		controls = 9538
+		controls = 9365
+		controls = 9427
+		}
+	}
+	}
+
+	research_efficiency = 0.1
+	supply_throughput = 0.1
+	icon = 16
+}
+
+
+
+# Gulf of Tonkin
+control_over_tonkin_gulf = {
+	
+	potential = {
+		OR = {
+			TAG = CHC
+			TAG = FRA
+			TAG = CHI
+			TAG = JAP
+			TAG = ENG
+		}
+	}
+	
+	trigger = {
+	OR = {
+		AND = {
+		6060 = {
+			controller = {
+				faction = THIS
+			}
+			}
+		5994 = {
+			controller = {
+				faction = THIS
+			}
+		}
+		5985 = {
+			controller = {
+				faction = THIS
+			}
+		}
+		5946 = {
+			controller = {
+				faction = THIS
+			}
+		}
+		5945 = {
+			controller = {
+				faction = THIS
+			}
+		}
+		5919 = {
+			controller = {
+				faction = THIS
+			}
+		}
+	OR = {
+		controls = 6060
+		controls = 5994
+		controls = 5985
+		controls = 5946
+		controls = 5945
+		controls = 5919
+		}
+		}
+		AND = {
+		controls = 6060
+		controls = 5994
+		controls = 5985
+		controls = 5946
+		controls = 5945
+		controls = 5919
+		}
+	}	
+	}
+
+	research_efficiency = 0.1
+	global_leadership_modifier = 0.1
+	icon = 16
+}
+
+
+
+# Gulf of Mexico
+control_over_mexico_gulf = {
+	
+	potential = {
+		OR = {
+			TAG = MEX
+			TAG = USA
+			TAG = CUB
+		}
+	}
+	
+	trigger = {
+		controls = 8080
+		controls = 7521
+		controls = 6433
+		controls = 7670
+		controls = 1091
+		controls = 50
+		controls = 7669
+	}
+	
+	research_efficiency = 0.15
+	supply_throughput = 0.15
+	icon = 16
+}
+
+
+
+
+# Turkish Strait
+control_over_iskenderun_gulf = {
+	
+	potential = {
+		OR = {
+			TAG = TUR
+			TAG = ENG
+			TAG = FRA
+			TAG = GRE
+			TAG = ITA
+		}
+	}
+	
+	trigger = {
+		controls = 5047
+		controls = 5139
+		controls = 5299
+		controls = 4976
+	}
+
+	research_efficiency = 0.15
+	supply_throughput = 0.15
+	icon = 16
+}
+
+
+
+# Gulf of Chihli
+control_over_chihli_gulf = {
+
+	potential = {
+		OR = {
+			TAG = CHC
+			TAG = JAP
+			TAG = CHI
+			TAG = SOV
+			TAG = MAN
+		}
+	}
+	
+	trigger = {
+    5145 = {
+			controller = {
+				faction = THIS
+			}
+		}
+		5020 = {
+			controller = {
+				faction = THIS
+			}
+		}
+		5054 = {
+			controller = {
+				faction = THIS
+			}
+		}
+		5178 = {
+			controller = {
+				faction = THIS
+			}
+		}
+		5145 = {
+			controller = {
+				faction = THIS
+			}
+		}
+		5086 = {
+			controller = {
+				faction = THIS
+			}
+		}
+		5019 = {
+			controller = {
+				faction = THIS
+			}
+		}
+		5181 = {
+			controller = {
+				faction = THIS
+			}
+		}
+		5146 = {
+			controller = {
+				faction = THIS
+			}
+		}
+	OR = {
+		controls = 5145
+		controls = 5020
+		controls = 5054
+		controls = 5178
+		controls = 5086
+		controls = 5019
+		controls = 5181
+		controls = 5146
+	  }
+	}
+
+	research_efficiency = 0.2
+	supply_throughput = 0.2
+	icon = 16
+}
+
+
+
+# Taiwan Strait
+control_over_taiwan_strait = {
+	
+	potential = {
+		OR = {
+			TAG = CHC
+			TAG = JAP
+			TAG = CHI
+			TAG = PHI
+			TAG = CGX
+			TAG = FRA
+			TAG = ENG
+			TAG = USA
+		}
+	}
+	
+	trigger = {
+	OR = {
+		AND = {
+		5809 = {
+			controller = {
+				faction = THIS
+			}
+			}
+		5823 = {
+			controller = {
+				faction = THIS
+			}
+		}
+		5757 = {
+			controller = {
+				faction = THIS
+			}
+		}
+		5728 = {
+			controller = {
+				faction = THIS
+			}
+		}
+		5737 = {
+			controller = {
+				faction = THIS
+			}
+		}
+	OR = {
+		controls = 5809
+		controls = 5823
+		controls = 5757
+		controls = 5728
+		controls = 5737
+		}
+		}
+		AND = {
+		controls = 5809
+		controls = 5823
+		controls = 5757
+		controls = 5728
+		controls = 5737		
+		}
+	}
+	}
+
+	research_efficiency = 0.1
+	supply_throughput = 0.1
+	icon = 16
+}
+
+
+
+# Mozambique Channel
+control_over_mozambique_channel = {
+	
+	potential = {
+		OR = {
+			TAG = FRA
+			TAG = ENG
+			TAG = POR
+			TAG = ITA
+		}
+	}
+	
+	trigger = {
+	OR = {
+		AND = {
+		10340 = {
+			controller = {
+				faction = THIS
+			}
+			}
+		10345 = {
+			controller = {
+				faction = THIS
+			}
+		}
+		10334 = {
+			controller = {
+				faction = THIS
+			}
+		}
+		10312 = {
+			controller = {
+				faction = THIS
+			}
+		}
+		10288 = {
+			controller = {
+				faction = THIS
+			}
+		}
+		10261 = {
+			controller = {
+				faction = THIS
+			}
+		}
+		10247 = {
+			controller = {
+				faction = THIS
+			}
+		}
+		11386 = {
+			controller = {
+				faction = THIS
+			}
+		}
+		10205 = {
+			controller = {
+				faction = THIS
+			}
+		}
+		10230 = {
+			controller = {
+				faction = THIS
+			}
+		}
+		10274 = {
+			controller = {
+				faction = THIS
+			}
+		}
+		10300 = {
+			controller = {
+				faction = THIS
+			}
+		}
+		10319 = {
+			controller = {
+				faction = THIS
+			}
+		}
+		
+	OR = {
+		controls = 10340
+		controls = 10345
+		controls = 10334
+		controls = 10312
+		controls = 10288
+		controls = 10261
+		controls = 10247
+		controls = 11386
+		controls = 10205
+		controls = 10230
+		controls = 10274
+		controls = 10300
+		controls = 10319
+		}
+		}
+		AND = {
+		controls = 10340
+		controls = 10345
+		controls = 10334
+		controls = 10312
+		controls = 10288
+		controls = 10261
+		controls = 10247
+		controls = 11386
+		controls = 10205
+		controls = 10230
+		controls = 10274
+		controls = 10300
+		controls = 10319
+		}
+	}	
+	}
+
+	research_efficiency = 0.1
+	supply_throughput = 0.1
+	icon = 16
+}
+
+
+# Gulf of Finland
+control_finland_gulf = {
+
+	potential = {
+		OR = {
+			TAG = FIN
+			TAG = GER
+			TAG = SOV
+			TAG = SWE
+		}
+		NOT = {
+			faction = allies
+		}
+	}
+
+	trigger = {
+	OR = {
+		AND = {
+		985 = {
+			controller = {
+				faction = THIS
+			}
+			}
+		779 = {
+			controller = {
+				faction = THIS
+			}
+		}
+		906 = {
+			controller = {
+				faction = THIS
+			}
+		}
+		780 = {
+			controller = {
+				faction = THIS
+			}
+		}
+		739 = {
+			controller = {
+				faction = THIS
+			}
+		}
+		863 = {
+			controller = {
+				faction = THIS
+			}
+		}
+		819 = {
+			controller = {
+				faction = THIS
+			}
+		}
+		696 = {
+			controller = {
+				faction = THIS
+			}
+		}
+		864 = {
+			controller = {
+				faction = THIS
+			}
+		}
+		820 = {
+			controller = {
+				faction = THIS
+			}
+		}
+		781 = {
+			controller = {
+				faction = THIS
+			}
+		}
+		782 = {
+			controller = {
+				faction = THIS
+			}
+		}
+		698 = {
+			controller = {
+				faction = THIS
+			}
+		}
+		697 = {
+			controller = {
+				faction = THIS
+			}
+		}
+		699 = {
+			controller = {
+				faction = THIS
+			}
+		}
+		
+	OR = {
+		controls = 985 
+		controls = 779 
+		controls = 906 
+		controls = 780 
+		controls = 739 
+		controls = 863 
+		controls = 819 
+		controls = 696 
+		controls = 864 
+		controls = 820 
+		controls = 781 
+		controls = 782 
+		controls = 698 
+		controls = 697 
+		controls = 699
+		}
+		}
+		AND = {
+		controls = 985 
+		controls = 779 
+		controls = 906 
+		controls = 780 
+		controls = 739 
+		controls = 863 
+		controls = 819 
+		controls = 696 
+		controls = 864 
+		controls = 820 
+		controls = 781 
+		controls = 782 
+		controls = 698 
+		controls = 697 
+		controls = 699
+		}
+	}
+	}
+	
+	global_resources = 0.2
+	global_leadership_modifier = 0.1
+	icon = 16
+}
+
+# 中国复兴梦
+中国复兴梦 = {
+
+potential = {
+	OR = {
+			TAG = CHC
+		}
+	}
+trigger = {
+           AND = {
+	               ideology = stalinist     
+	   }           
+                       
+	}
+        global_leadership_modifier = 0.05
+        research_efficiency = 0.05
+	icon = 16
+}
+
+# 风平浪静的南海
+风平浪静的南海 = {
+	
+	potential = {
+		OR = {
+			TAG = CHC
+		}
+	}
+	
+	trigger = {
+	OR = {
+		AND = {
+		5994 = {
+			controller = {
+				faction = THIS
+			}
+			}
+		6236 = {
+			controller = {
+				faction = THIS
+			}
+		}
+		6362 = {
+			controller = {
+				faction = THIS
+			}
+		}
+		6142 = {
+			controller = {
+				faction = THIS
+			}
+		}
+	OR = {
+		controls = 5994
+		controls = 6236
+		controls = 6362
+		controls = 6142
+		}
+		}
+		AND = {
+		controls = 5994
+		controls = 6236
+		controls = 6362
+		controls = 6142	
+		}
+	}
+	}
+
+	naval_base_efficiency = 0.1
+        global_crude_oil = 5.00
+        naval_organisation = 0.05
+	icon = 16
+}
+
+
+# 突破岛链
+突破岛链 = {
+	
+	potential = {
+		OR = {
+			TAG = CHC
+		}
+	}
+	
+	trigger = {
+	OR = {
+		controls = 5737
+		controls = 5315
+		controls = 5759
+		controls = 6142
+                controls = 10642
+		}
+	}
+
+	naval_organisation = 0.05
+        naval_build_speed = -0.05
+        naval_base_efficiency = 0.1
+	icon = 16
+}
+
+
+# 太平洋制海权
+太平洋制海权 = {
+	
+	potential = {
+		OR = {
+			TAG = CHC
+			TAG = USA
+			TAG = SOV
+			TAG = JAP
+		}
+	}
+	
+	trigger = {
+	OR = {
+		AND = {
+		6119 = {
+			controller = {
+				faction = THIS
+			}
+			}
+		10664 = {
+			controller = {
+				faction = THIS
+			}
+		}
+		10669 = {
+			controller = {
+				faction = THIS
+			}
+		}
+		5825 = {
+			controller = {
+				faction = THIS
+			}
+		}
+	OR = {
+		controls = 6119
+		controls = 10664
+		controls = 10669
+		controls = 5825
+		}
+		}
+		AND = {
+		controls = 6119
+		controls = 10664
+		controls = 10669
+		controls = 5825
+		}
+	}
+	}
+
+	naval_organisation = 0.1
+        convoy_raid = 0.5
+        port_strike = 0.5
+	icon = 16
+}
+
+# 祖国统一
+祖国统一 = {
+	
+	potential = {
+		OR = {
+			TAG = CHC
+			TAG = CHI
+		}
+	}
+	
+	trigger = {
+	AND = {
+		controls = 5275
+		controls = 5383
+		controls = 4885
+		controls = 4979
+                controls = 5018
+                controls = 5017
+                controls = 5020
+                controls = 5542
+                controls = 5515
+                controls = 5494
+                controls = 5681
+                controls = 7435
+                controls = 7561
+                controls = 7508
+                controls = 5834
+                controls = 5886
+                controls = 5868
+                controls = 7139
+                controls = 9377
+                controls = 5994
+                controls = 8955
+                controls = 5823
+                controls = 5728
+                controls = 5809
+                controls = 5737
+		}
+	}
+        territorial_pride = 0.05
+        dissent = -0.05
+        global_leadership_modifier = 0.05
+	icon = 16
+}
+
+# 天朝上国
+天朝上国 = {
+	
+	potential = {
+		OR = {
+			TAG = CHC
+		}
+	}
+	
+	trigger = {
+	AND = {
+		controls = 5275
+		controls = 5383
+		controls = 4885
+		controls = 4979
+                controls = 5018
+                controls = 5017
+                controls = 5020
+                controls = 5542
+                controls = 5515
+                controls = 5494
+                controls = 5681
+                controls = 7435
+                controls = 7561
+                controls = 7508
+                controls = 5834
+                controls = 5886
+                controls = 5868
+                controls = 7139
+                controls = 9377
+                controls = 5994
+                controls = 8955
+                controls = 5823
+                controls = 5728
+                controls = 5809
+                controls = 5737
+                controls = 5315
+                controls = 6142
+                controls = 9406
+                controls = 5116
+                controls = 5916
+		}
+	}
+        threat_impact = -0.5
+        dissent = -0.05
+        global_leadership_modifier = 0.05
+	icon = 16
+}
+
+# 寒冬告急
+寒冬告急 = {
+
+potential = {
+	OR = {
+			TAG = SOV
+		}
+	}
+trigger = {
+	                war = yes
+        OR = {
+			month = 11
+			NOT = { month = 5 }
+	}
+	}
+        org_regain = 0.3
+        reinforcement_bonus = 0.3
+        winter_effects = 0.8
+}
+
+# 复仇
+复仇 = {
+
+potential = {
+	OR = {
+			TAG = CHC
+		}
+	}
+trigger = {
+           AND = {
+	               war_with = JAP
+                       exists = JAP
+                       JAP = { government_in_exile = no }
+	   }           
+                       
+	}
+        territorial_pride = 0.15
+        unit_recruitment_time = -0.1
+        naval_organisation = 0.1
+}
+
+# 祖国即将统一
+祖国即将统一 = {
+
+potential = {
+                        ai = yes
+	OR = {
+			TAG = CHC
+		}
+	}
+trigger = {
+           AND = {
+	               war_with = CHI
+                       exists = CHI
+                       CHI = { government_in_exile = no }
+	   }           
+                       
+	}
+        territorial_pride = 5
+}
+
+# 中国内政，不容干涉
+中国内政，不容干涉 = {
+
+potential = {
+                        ai = yes
+	OR = {
+			TAG = CHC
+		}
+	}
+trigger = {
+           AND = {
+	               war_with = CHI
+                       war_with = USA
+                       exists = CHI
+                       CHI = { government_in_exile = no }
+	   }           
+                       
+	}
+        territorial_pride = 5
+}
+
+# 中国内政，不容干涉
+中国内政，不容干涉 = {
+
+potential = {
+                        ai = no
+	OR = {
+			TAG = CHC
+		}
+	}
+trigger = {
+           AND = {
+	               war_with = CHI
+                       war_with = USA
+                       exists = CHI
+                       CHI = { government_in_exile = no }
+	   }           
+                       
+	}
+        territorial_pride = 0.15
+}
+
+# 中俄同盟
+中俄战略合作伙伴关系 = {
+
+potential = {
+	OR = {
+			TAG = CHC
+		}
+	}
+trigger = {
+           AND = {
+	               CHC = { faction = comintern }
+	               SOV = { faction = comintern }
+	   }           
+                       
+	}
+        global_money = -0.1
+        global_crude_oil = 0.05
+        global_energy = 0.05
+}
+
+# 中俄同盟
+中俄战略合作伙伴关系 = {
+
+potential = {
+	OR = {
+			TAG = SOV
+		}
+	}
+trigger = {
+           AND = {
+	               CHC = { faction = comintern }
+	               SOV = { faction = comintern }
+	   }           
+                       
+	}
+        global_money = 0.1
+        global_crude_oil = -0.05
+        global_energy = -0.05
+}
+
+# 和平宪法
+和平宪法 = {
+
+potential = {
+	OR = {
+			TAG = JAP
+		}
+	}
+trigger = {
+           AND = {
+	                JAP = { is_subject = yes }   
+	   }           
+                       
+	}
+        counter_espionage = -0.1
+        threat_impact = -0.3
+        unit_recruitment_time = 0.3
+}
+
+# 广场协定
+广场协定 = {
+
+potential = {
+	OR = {
+			TAG = JAP
+		}
+	}
+trigger = {
+	AI = no
+	}
+        dissent = 0.05
+        industrial_efficiency = -0.1
+        global_money = -0.1
+}
+#巴尔干之王
+巴尔干之王 = {
+
+potential = {
+	OR = {
+			TAG = SLV
+			TAG = CRO
+			TAG = BOS
+			TAG = SER
+			TAG = BUL
+			TAG = ALB
+			TAG = MAC
+			TAG = GRE
+		}
+	}
+trigger = {       
+                controls = 3630
+                controls = 3565
+                controls = 3633
+                controls = 4174
+                controls = 3912
+                controls = 4663
+                controls = 4555
+                controls = 4371
+                controls = 3919
+                controls = 4720
+                controls = 5076
+                controls = 4503
+	}
+	research_efficiency = 0.05
+	global_crude_oil = 0.2
+	dissent = -0.1
+}
+#千年帝国
+千年帝国 = {
+
+potential = {
+	OR = {
+			TAG = TUR
+		}
+	}
+trigger = {       
+                controls = 5076
+                controls = 4503
+                controls = 4720
+                controls = 3912
+                controls = 4555
+                controls = 4371
+                controls = 4429
+                controls = 4619
+                controls = 3849
+                controls = 7374
+                controls = 5299
+                controls = 5332
+                controls = 5567
+                controls = 5589
+                controls = 5586
+                controls = 5533
+                controls = 5484
+	}
+        org_regain = 0.2
+        territorial_pride = 0.2
+        unit_recruitment_time = -0.1
+}
+#普鲁士故土
+普鲁士故土 = {
+
+potential = {
+	OR = {
+			TAG = GER
+		}
+	}
+trigger = {       
+                controls = 1527
+                controls = 1626
+                controls = 1306
+	}
+        territorial_pride = 0.2
+}
+#德意志第二帝国
+德意志第二帝国 = {
+
+potential = {
+	OR = {
+			TAG = GER
+		}
+	}
+trigger = {       
+                controls = 1527
+                controls = 1626
+                controls = 1306
+                controls = 1742
+                controls = 1863
+                controls = 1740
+                controls = 1679
+                controls = 1572
+                controls = 1737
+                controls = 1736
+                controls = 1570
+                controls = 1861
+                controls = 1857
+                controls = 2257
+                controls = 2207
+                controls = 2867
+                controls = 2952
+                controls = 2815
+
+	}
+	global_leadership_modifier = 0.2
+	research_efficiency = 0.15
+	supply_throughput = 0.15
+}
+#德意志第三帝国
+德意志第三帝国 = {
+
+potential = {
+	OR = {
+			TAG = GER
+		}
+	}
+trigger = {       
+                controls = 1861
+                controls = 1736
+                controls = 2952
+                controls = 1482
+                controls = 812
+                controls = 1910
+                controls = 2311
+                controls = 2429
+                controls = 2613
+                controls = 2422
+                controls = 2605
+                controls = 3479
+                controls = 3026
+                controls = 2562
+                controls = 1928
+                controls = 1626
+                controls = 1527
+                controls = 1178
+                controls = 1532
+                controls = 906
+                controls = 1964
+                controls = 2223
+                controls = 3581
+                controls = 782
+                controls = 4174
+                controls = 3565
+                controls = 3633
+                controls = 3912
+                controls = 5076
+	}
+	air_organisation = 0.1
+	land_organisation = 0.1
+	org_regain = 0.3
+}
+#大东亚共荣
+大东亚共荣 = {
+
+potential = {
+	OR = {
+			TAG = JAP
+		}
+	}
+trigger = {       
+
+	controls = 5315
+	controls = 5370
+	controls = 5116
+	controls = 5056
+	controls = 7139
+	controls = 4979
+	controls = 5494
+	controls = 5542
+	controls = 9478
+	controls = 5834
+	controls = 5868
+	controls = 5916
+	controls = 7675
+	controls = 6070
+	controls = 6148
+	controls = 6222
+	controls = 6378
+	controls = 6394
+	controls = 6507
+	controls = 6142
+	controls = 5737
+
+	}
+	territorial_pride = 0.3
+	global_resources = 0.15
+	global_manpower_modifier = 0.15
+}

@@ -1,0 +1,9 @@
+owner = SCH
+controller = SCH
+add_core = SCH
+
+
+infra = 8
+
+leadership = 2.50
+points = 1

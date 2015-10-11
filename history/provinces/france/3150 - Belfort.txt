@@ -1,0 +1,9 @@
+owner = FRA
+controller = FRA
+add_core = FRA
+
+infra = 9
+
+
+
+air_base = 1 #EuroAirport

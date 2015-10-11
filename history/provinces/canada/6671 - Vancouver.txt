@@ -1,0 +1,12 @@
+owner = CAN
+controller = CAN
+add_core = CAN
+infra = 8
+industry = 6
+metal = 50.00
+energy = 10.00
+rare_materials = 27.3
+air_base = 4 #Vancouver airport
+naval_base = 2 #Fraser port
+leadership = 2.50
+points = 1

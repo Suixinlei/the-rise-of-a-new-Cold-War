@@ -1,0 +1,6 @@
+owner = AUS
+controller = AUS
+add_core = AUS
+manpower = 0.2
+infra = 10
+

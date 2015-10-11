@@ -1,0 +1,10 @@
+owner = POL
+controller = POL
+add_core = POL
+energy = 30.00
+metal = 15.00
+industry = 8
+infra = 9
+manpower = 0.5
+air_base = 1 #John Paul II airport
+leadership = 2.50

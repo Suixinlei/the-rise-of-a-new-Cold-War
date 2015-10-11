@@ -1,0 +1,41 @@
+capital = 9645
+government = commonwealth
+ideology = social_democrat
+alignment = { x = 0 y = 50 }
+neutrality = 80
+national_unity = 70
+oob = "BLZ_2000.txt"
+
+popularity = { 
+	national_socialist = 0
+	fascistic = 0
+	paternal_autocrat = 0
+	social_conservative = 46
+	market_liberal = 0
+	social_liberal = 0
+	social_democrat = 53
+	left_wing_radical = 0
+	leninist = 0
+	stalinist = 0
+}
+
+organization = { 
+	national_socialist = 0
+	fascistic = 0
+	paternal_autocrat = 0
+	social_conservative = 136
+	market_liberal = 0
+	social_liberal = 0
+	social_democrat = 150
+	left_wing_radical = 0
+	leninist = 0
+	stalinist = 0
+}
+
+conscription_policy = volunteer_army
+press_laws = free_press
+mobilisation_level = peace_time
+civil_laws = open_society
+service_length = eighteen_months
+economic_policy = lais_fair
+

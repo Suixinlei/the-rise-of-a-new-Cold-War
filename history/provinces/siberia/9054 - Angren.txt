@@ -1,0 +1,8 @@
+owner = TAJ
+controller = TAJ
+add_core = TAJ
+manpower = 2.5
+energy = 1.00
+infra = 6
+air_base = 6 #Dushanbe, Farkhor, Ayni and Moskovskiy airbase
+points = 1

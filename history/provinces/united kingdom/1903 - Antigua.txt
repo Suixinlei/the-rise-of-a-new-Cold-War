@@ -1,0 +1,8 @@
+owner = AAB
+controller = AAB
+add_core = AAB
+
+infra = 6
+
+naval_base = 1
+points = 1

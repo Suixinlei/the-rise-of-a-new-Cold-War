@@ -1,0 +1,200 @@
+theatre = {
+	name = "Malaysian Armed Forces"
+	location = 6378
+	regiment = { type = hq_brigade name = "Armed Forces HQ" historical_model = 1 }
+	army = {
+		name = "Malaysian Army"
+		location = 6378
+		regiment = { type = hq_brigade name = "Army HQ" historical_model = 1 }
+		corps = {
+			name = "1st Division"
+			location = 10014
+			regiment = { type = hq_brigade name = "1st Division HQ" historical_model = 1 }
+			division = {
+				is_reserve = yes
+				name = "11th Brigade"
+				location = 10014
+				regiment = { type = infantry_brigade name = "111th Battalion" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "112th Battalion" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "113th Battalion" historical_model = 1 }
+			}
+			division = {
+				is_reserve = yes
+				name = "12th Brigade"
+				location = 10014
+				regiment = { type = infantry_brigade name = "121st Battalion" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "122nd Battalion" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "123rd Battalion" historical_model = 1 }
+			}
+			division = {
+				is_reserve = yes
+				name = "13th Brigade"
+				location = 10014
+				regiment = { type = infantry_brigade name = "131st Battalion" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "132nd Battalion" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "133rd Battalion" historical_model = 1 }
+			}
+			division = {
+				is_reserve = yes
+				name = "14th Brigade"
+				location = 10014
+				regiment = { type = mechanized_brigade name = "131st Battalion" historical_model = 1 }
+				regiment = { type = mechanized_brigade name = "132nd Battalion" historical_model = 1 }
+				regiment = { type = mechanized_brigade name = "133rd Battalion" historical_model = 1 }
+			}
+		}
+		corps = {
+			name = "2nd Division"
+			location = 6340
+			regiment = { type = hq_brigade name = "2nd Division HQ" historical_model = 1 }
+			division = {
+				is_reserve = yes
+				name = "15th Brigade"
+				location = 6340
+				regiment = { type = infantry_brigade name = "151st Battalion" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "152nd Battalion" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "153rd Battalion" historical_model = 1 }
+			}
+			division = {
+				is_reserve = yes
+				name = "16th Brigade"
+				location = 6340
+				regiment = { type = infantry_brigade name = "161st Battalion" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "162nd Battalion" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "163rd Battalion" historical_model = 1 }
+			}
+			division = {
+				is_reserve = yes
+				name = "17th Brigade"
+				location = 6340
+				regiment = { type = infantry_brigade name = "171st Battalion" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "172nd Battalion" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "173rd Battalion" historical_model = 1 }
+			}
+			division = {
+				is_reserve = yes
+				name = "18th Brigade"
+				location = 6340
+				regiment = { type = armor_brigade name = "181st Battalion" historical_model = 0 }
+				regiment = { type = armor_brigade name = "182nd Battalion" historical_model = 0 }
+				regiment = { type = armor_brigade name = "183rd Battalion" historical_model = 0 }
+			}
+		}
+		corps = {
+			name = "3rd Division"
+			location = 6382
+			regiment = { type = hq_brigade name = "3rd Division HQ" historical_model = 1 }
+			division = {
+				is_reserve = yes
+				name = "19th Brigade"
+				location = 6382
+				regiment = { type = infantry_brigade name = "191st Battalion" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "192nd Battalion" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "193rd Battalion" historical_model = 1 }
+			}
+			division = {
+				is_reserve = yes
+				name = "20th Brigade"
+				location = 6382
+				regiment = { type = infantry_brigade name = "201st Battalion" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "202nd Battalion" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "203rd Battalion" historical_model = 1 }
+			}
+			division = {
+				is_reserve = yes
+				name = "21st Brigade"
+				location = 6382
+				regiment = { type = infantry_brigade name = "211th Battalion" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "212th Battalion" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "213th Battalion" historical_model = 1 }
+			}
+			division = {
+				is_reserve = yes
+				name = "22nd Brigade"
+				location = 6382
+				regiment = { type = armor_brigade name = "221st Battalion" historical_model = 0 }
+				regiment = { type = armor_brigade name = "222nd Battalion" historical_model = 0 }
+				regiment = { type = armor_brigade name = "223rd Battalion" historical_model = 0 }
+			}
+		}
+		corps = {
+			name = "4th Division"
+			location = 6372
+			regiment = { type = hq_brigade name = "4th Division HQ" historical_model = 1 }
+			division = {
+				is_reserve = yes
+				name = "23rd Brigade"
+				location = 6372
+				regiment = { type = infantry_brigade name = "231st Battalion" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "232nd Battalion" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "233rd Battalion" historical_model = 1 }
+			}
+			division = {
+				is_reserve = yes
+				name = "24th Brigade"
+				location = 6372
+				regiment = { type = infantry_brigade name = "241st Battalion" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "242nd Battalion" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "243rd Battalion" historical_model = 1 }
+			}
+			division = {
+				is_reserve = yes
+				name = "25th Brigade"
+				location = 6372
+				regiment = { type = infantry_brigade name = "251st Battalion" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "252nd Battalion" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "253rd Battalion" historical_model = 1 }
+			}
+		}
+		division = {
+			is_reserve = yes
+			name = "10th Parachute Brigade"
+			location = 6378
+			regiment = { type = paratrooper_brigade name = "101st Battalion" historical_model = 1 }
+			regiment = { type = paratrooper_brigade name = "102nd Battalion" historical_model = 1 }
+			regiment = { type = paratrooper_brigade name = "103rd Battalion" historical_model = 1 }
+		}
+		division = {
+			is_reserve = yes
+			name = "Grup Gerak Khas"
+			location = 6379
+			regiment = { type = special_forces_brigade name = "1st Battalion" historical_model = 1 }
+			regiment = { type = special_forces_brigade name = "2nd Battalion" historical_model = 1 }
+			regiment = { type = special_forces_brigade name = "3rd Battalion" historical_model = 1 }
+		}
+	}
+	
+	air = {
+	name = "19 Squadron"
+	base = 6389
+	location = 6389
+	wing = { type = interceptor name = "19 Squadron" historical_model = 0 }
+	}
+	
+	air = {
+	name = "Transport Wing"
+	base = 6378
+	location = 6378
+	wing = { type = transport_plane name = "20 Squadron" historical_model = 0 }
+	wing = { type = transport_plane name = "21 Squadron" historical_model = 0 }
+	}
+	
+	navy = {
+	name = "Royal Malaysian Navy"
+	base = 6381
+	location = 6381
+	ship = { type = heavy_cruiser name = "KD Jebat" historical_model = 1 }
+	ship = { type = heavy_cruiser name = "KD Lekiu" historical_model = 1 }
+	ship = { type = heavy_cruiser name = "KD Kasturi" historical_model = 0 }
+	ship = { type = heavy_cruiser name = "KD Lekir" historical_model = 0 }
+	ship = { type = light_cruiser name = "KD Laksamana Hang Nadim" historical_model = 1 }
+	ship = { type = light_cruiser name = "KD Laksamana Tun Abdul Jamil" historical_model = 1 }
+	ship = { type = light_cruiser name = "KD Laksamana Muhammad Amin" historical_model = 1 }
+	ship = { type = light_cruiser name = "KD Laksamana Tun Pusmah" historical_model = 1 }
+	ship = { type = patrol_boat name = "KD Handalan" historical_model = 0 }
+	ship = { type = patrol_boat name = "KD Perkasa" historical_model = 0 }
+	ship = { type = patrol_boat name = "KD Pendekar" historical_model = 0 }
+	ship = { type = patrol_boat name = "KD Gempita" historical_model = 0 }
+	}
+	
+}

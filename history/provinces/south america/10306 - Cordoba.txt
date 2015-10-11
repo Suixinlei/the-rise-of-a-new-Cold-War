@@ -1,0 +1,7 @@
+owner = ARG
+controller = ARG
+add_core = ARG
+infra = 6
+industry = 2
+manpower = 4.00
+air_base = 1 #Capitan Omar airbase

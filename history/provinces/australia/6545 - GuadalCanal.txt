@@ -1,0 +1,10 @@
+owner = SOL
+
+controller = SOL
+
+add_core = SOL
+manpower = 0.2
+infra = 4
+
+naval_base = 1
+points = 1

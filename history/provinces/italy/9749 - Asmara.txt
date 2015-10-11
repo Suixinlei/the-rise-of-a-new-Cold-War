@@ -1,0 +1,8 @@
+owner = ERI
+controller = ERI
+add_core = ERI
+infra = 6
+manpower = 2.1
+air_base = 6 #Asmara airbase
+points = 1
+industry = 3

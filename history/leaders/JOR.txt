@@ -1,0 +1,256 @@
+82001 = {
+	name = "Rania"
+	country = JOR
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = JOR1
+	add_trait = offensive_doctrine
+	history = {
+		2000.1.1 = { rank = 2 }
+	}
+}
+82002 = {
+	name = "Ahti"
+	country = JOR
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = JOR2
+	add_trait = defensive_doctrine
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+82003 = {
+	name = "al-Amir"
+	country = JOR
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 1.00
+	picture = JOR3
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+82004 = {
+	name = "al-Hussein"
+	country = JOR
+	type = land
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = JOR4
+	add_trait = trickster
+	history = {
+		2000.1.1 = { rank = 3 }
+	}
+}
+82005 = {
+	name = "al-Jafaar"
+	country = JOR
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 1.00
+	picture = JOR5
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+82006 = {
+	name = "al-Majali"
+	country = JOR
+	type = land
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = JOR6
+	add_trait = defensive_doctrine
+	add_trait = trainer
+	history = {
+		2000.1.1 = { rank = 4 }
+	}
+}
+82007 = {
+	name = "Tanashat"
+	country = JOR
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = JOR7
+	add_trait = engineer
+	history = {
+		2000.1.1 = { rank = 2 }
+	}
+}
+82008 = {
+	name = "Nahkleh"
+	country = JOR
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = JOR8
+	add_trait = panzer_leader
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+82009 = {
+	name = "Pasha"
+	country = JOR
+	type = land
+	skill = 1
+	max_skill = 7
+	loyalty = 1.00
+	picture = JOR9
+	add_trait = assaulter
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+82010 = {
+	name = "el-Nizar Ali"
+	country = JOR
+	type = land
+	skill = 1
+	max_skill = 4
+	loyalty = 1.00
+	picture = JOR10
+	add_trait = commando
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+82011 = {
+	name = "el-Rihaz"
+	country = JOR
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = JOR11
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+82012 = {
+	name = "al-Pasha"
+	country = JOR
+	type = land
+	skill = 3
+	max_skill = 6
+	loyalty = 1.00
+	picture = JOR12
+	add_trait = offensive_doctrine
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+82013 = {
+	name = "Mecit Pasha"
+	country = JOR
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = JOR13
+	add_trait = defensive_doctrine
+	add_trait = versatile
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+82014 = {
+	name = "Naif"
+	country = JOR
+	type = air
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = JOR14
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+82015 = {
+	name = "al-Jawil"
+	country = JOR
+	type = air
+	skill = 0
+	max_skill = 5
+	loyalty = 1.00
+	picture = JOR15
+	add_trait = carpet_bomber
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+82016 = {
+	name = "al-Jordan"
+	country = JOR
+	type = air
+	skill = 3
+	max_skill = 6
+	loyalty = 1.00
+	picture = JOR16
+	add_trait = superior_air_tactician
+	history = {
+		2000.1.1 = { rank = 2 }
+	}
+}
+82017 = {
+	name = "Sayed"
+	country = JOR
+	type = air
+	skill = 1
+	max_skill = 4
+	loyalty = 1.00
+	picture = JOR17
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+82018 = {
+	name = "el-Adir"
+	country = JOR
+	type = sea
+	skill = 1
+	max_skill = 4
+	loyalty = 1.00
+	picture = JOR18
+	add_trait = seawolf
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+82019 = {
+	name = "al-Zaben"
+	country = JOR
+	type = sea
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = JOR19
+	add_trait = superior_tactician
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+82020 = {
+	name = "al-Afiz"
+	country = JOR
+	type = sea
+	skill = 0
+	max_skill = 4
+	loyalty = 1.00
+	picture = JOR20
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}

@@ -1,0 +1,8 @@
+owner = IND
+controller = IND
+add_core = IND
+add_core = PAK
+infra = 4
+
+air_base = 9 #Kashmir airbases
+points = 1

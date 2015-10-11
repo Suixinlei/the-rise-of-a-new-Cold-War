@@ -1,0 +1,7 @@
+owner = ETI
+controller = ETI
+add_core = ETI
+
+
+
+infra = 4

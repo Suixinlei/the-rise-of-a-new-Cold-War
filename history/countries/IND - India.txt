@@ -1,0 +1,77 @@
+capital = 9406
+government = federation
+ideology = paternal_autocrat
+alignment = { x = 0 y = 20 }
+neutrality = 80
+national_unity = 80
+head_of_state = 52000
+head_of_government = 52003
+foreign_minister = 52005
+armament_minister = 52011
+minister_of_security = 52016
+minister_of_intelligence = 52004
+chief_of_staff = 52020
+chief_of_army = 52023
+chief_of_navy = 52027
+chief_of_air = 52031
+oob = "IND_2000.txt"
+
+popularity = { 
+	national_socialist = 0
+	fascistic = 0
+	paternal_autocrat = 24
+	social_conservative = 3
+	market_liberal = 0
+	social_liberal = 4
+	social_democrat = 28
+	left_wing_radical = 3
+	leninist = 0
+	stalinist = 5
+}
+
+organization = { 
+	national_socialist = 0
+	fascistic = 0
+	paternal_autocrat = 72
+	social_conservative = 9
+	market_liberal = 0
+	social_liberal = 12
+	social_democrat = 84
+	left_wing_radical = 9
+	leninist = 0
+	stalinist = 15
+}
+
+conscription_policy = volunteer_army
+press_laws = free_press
+mobilisation_level = peace_time
+civil_laws = open_society
+economic_policy = limit_intervention
+service_length = six_months
+
+in_war = 1
+industrial_facilities = 1
+industral_production = 2
+industral_efficiency = 2
+military_supplies_production = 1
+industrialization = 1
+weapon_design = 1
+automatic_weapons = 1
+a_support_weapon = 1
+bulletproof_clothes = 1
+anti_tank_rocket = 1
+vehicle_design = 1
+the_body_defense = 1
+the_small_caliber_weapons = 1
+mountain_equipment = 1
+forest_equipment = 1
+mountain_infantry; = 1
+the_fuselage_design = 1
+light_body = 1
+main_battle_tank = 1
+artillery_troops = 1
+artillery_fire = 1
+ship_hull = 1
+the_small_ship = 1
+medium_sized_ship = 1
+the_large_ship = 1

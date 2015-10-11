@@ -1,0 +1,11 @@
+theatre = {
+	name = "安提瓜和巴布达国防军"
+	location = 1903
+	regiment = { type = hq_brigade name = "Royal Antigua and Barbuda Defence Force" historical_model = 2 }
+	division = {
+		is_reserve = yes
+		name = "安提瓜和巴布达陆军"
+		location = 1903
+		regiment = { type = infantry_brigade name = "Antigua and Barbuda Regiment" historical_model = 2 }
+	}
+}

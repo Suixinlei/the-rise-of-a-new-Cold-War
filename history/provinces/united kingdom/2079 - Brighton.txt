@@ -1,0 +1,7 @@
+owner = ENG
+controller = ENG
+add_core = ENG
+energy = 10.00
+infra = 9
+
+naval_base = 2 #Newhaven port

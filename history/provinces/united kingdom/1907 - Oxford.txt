@@ -1,0 +1,9 @@
+owner = ENG
+controller = ENG
+add_core = ENG
+
+infra = 9
+
+air_base = 10 #RAF Abingdon, Benson and Brize Norton
+leadership = 2.50
+points = 1

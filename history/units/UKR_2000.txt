@@ -1,0 +1,261 @@
+theatre = {
+	name = "Zbroyni Syly Ukrayiny"
+	location = 2223
+	regiment = { type = hq_brigade name = "ZSU" historical_model = 1 }
+	armygroup = {
+	name = "Ground Force Command"
+	location = 2223
+	regiment = { type = hq_brigade name = "Ground Force Command HQ" historical_model = 1 }
+	army = {
+		name = "6th Army Corps"
+		location = 2843
+		regiment = { type = hq_brigade name = "6th Army Corps HQ" historical_model = 1 }
+		division = {
+			is_reserve = yes
+			name = "25th Airborne Brigade"
+			location = 2843
+			regiment = { type = paratrooper_brigade name = "1st Parachute Airborne Battalion" historical_model = 1 }
+			regiment = { type = paratrooper_brigade name = "2nd Parachute Airborne Battalion" historical_model = 1 }
+			regiment = { type = paratrooper_brigade name = "3rd Parachute Airborne Battalion" historical_model = 1 }
+		}
+		division = {
+			is_reserve = yes
+			name = "79th Airmobile Brigade"
+			location = 3244
+			regiment = { type = air_cavalry_brigade name = "1st Battalion" historical_model = 1 }
+			regiment = { type = air_cavalry_brigade name = "2nd Battalion" historical_model = 1 }
+			regiment = { type = attack_helicopter_brigade name = "11th Army Aviation Regiment" historical_model = 0 }
+		}
+		division = {
+			is_reserve = yes
+			name = "28th Guards Mechanised Brigade"
+			location = 3243
+			regiment = { type = mechanized_brigade name = "1st Guards Mechanised Battalion" historical_model = 0 }
+			regiment = { type = mechanized_brigade name = "2nd Guards Mechanised Battalion" historical_model = 0 }
+			regiment = { type = mechanized_brigade name = "3rd Guards Mechanised Battalion" historical_model = 0 }
+		}
+		division = {
+			is_reserve = yes
+			name = "92nd Guards Mechanised Brigade"
+			location = 2462
+			regiment = { type = mechanized_brigade name = "1st Guards Mechanised Battalion" historical_model = 0 }
+			regiment = { type = mechanized_brigade name = "2nd Guards Mechanised Battalion" historical_model = 0 }
+			regiment = { type = mechanized_brigade name = "3rd Guards Mechanised Battalion" historical_model = 0 }
+		}
+		division = {
+			is_reserve = yes
+			name = "93rd Guards Mechanised Brigade"
+			location = 2713
+			regiment = { type = armor_brigade name = "87th Armored Battalion" historical_model = 1 }
+			regiment = { type = mechanized_brigade name = "110th Mechanised Regiment" historical_model = 0 }
+			regiment = { type = mechanized_brigade name = "Mechanised Regiment" historical_model = 0 }
+			regiment = { type = mechanized_brigade name = "529th Mechanised Regiment" historical_model = 0 }
+		}		
+		division = {
+			is_reserve = yes
+			name = "17th Guards Armored Brigade"
+			location = 2975
+			regiment = { type = armor_brigade name = "25th Armor Battalion" historical_model = 1 }
+			regiment = { type = armor_brigade name = "93rd Armor Battalion" historical_model = 1 }
+			regiment = { type = armor_brigade name = "230th Armor Battalion" historical_model = 1 }
+		}	
+		division = {
+			is_reserve = yes
+			name = "55th Artillery Brigade"
+			location = 2843
+			regiment = { type = infantry_brigade name = "1st Artillery Battalion" historical_model = 1 }
+			regiment = { type = infantry_brigade name = "2nd Artillery Battalion" historical_model = 1 }
+			regiment = { type = artillery_brigade name = "3rd Artillery Battalion" historical_model = 0 }
+		}	
+	}
+	corps = {
+		name = "8th Army Corps"
+		location = 2279
+		regiment = { type = hq_brigade name = "8th Army Corps HQ" historical_model = 1 }
+		division = {
+			is_reserve = yes
+			name = "1st Guards Armored Brigade"
+			location = 2396
+			regiment = { type = armor_brigade name = "1st Armored Battalion" historical_model = 1 }
+			regiment = { type = armor_brigade name = "2nd Armored Battalion" historical_model = 1 }
+			regiment = { type = armor_brigade name = "3rd Armored Battalion" historical_model = 1 }
+			regiment = { type = mechanized_brigade name = "4th Mechanised Battalion" historical_model = 0 }
+		}
+		division = {
+			is_reserve = yes
+			name = "30th Mechanised Brigade"
+			location = 2336
+			regiment = { type = armor_brigade name = "276th Armor Regiment" historical_model = 1 }
+			regiment = { type = armor_brigade name = "325th Armor Regiment" historical_model = 1 }
+			regiment = { type = armor_brigade name = "282nd Guards Armor Regiment" historical_model = 1 }
+			regiment = { type = mechanized_brigade name = "319th Mechanised Regiment" historical_model = 0 }
+		}
+		division = {
+			is_reserve = yes
+			name = "72nd Guards Mechanised Brigade"
+			location = 2398
+			regiment = { type = mechanized_brigade name = "1st Mechanised Battalion" historical_model = 0 }
+			regiment = { type = mechanized_brigade name = "2nd Mechanised Battalion" historical_model = 0 }
+			regiment = { type = mechanized_brigade name = "3rd Mechanised Battalion" historical_model = 0 }
+			regiment = { type = armor_brigade name = "Armored Battalion" historical_model = 1 }
+		}
+		division = {
+			is_reserve = yes
+			name = "95th Airmobile Brigade"
+			location = 2279
+			regiment = { type = air_cavalry_brigade name = "11th Airmobile Battalion" historical_model = 1 }
+			regiment = { type = air_cavalry_brigade name = "12th Airmobile Battalion" historical_model = 1 }
+			regiment = { type = air_cavalry_brigade name = "13th Airmobile Battalion" historical_model = 1 }
+			regiment = { type = attack_helicopter_brigade name = "3rd Army Aviation Regiment" historical_model = 0}
+		}
+		division = {
+			is_reserve = yes
+			name = "26th Artillery Brigade"
+			location = 2453
+			regiment = { type = infantry_brigade name = "1st Artillery Battalion" historical_model = 1 }
+			regiment = { type = infantry_brigade name = "2nd Artillery Battalion" historical_model = 1 }
+			regiment = { type = artillery_brigade name = "3rd Artillery Battalion" historical_model = 0 }
+		}
+	}
+	corps = {
+		name = "13th Army Corps"
+		location = 2335
+		regiment = { type = hq_brigade name = "13th Army Corps HQ" historical_model = 1 }
+		division = {
+			is_reserve = yes
+			name = "24th Mechanised Brigade"
+			location = 2636
+			regiment = { type = armor_brigade name = "181st Armored Battalion" historical_model = 1 }
+			regiment = { type = mechanized_brigade name = "7th Mechanised Regiment" historical_model = 0 }
+			regiment = { type = mechanized_brigade name = "274th Mechanised Regiment" historical_model = 0 }
+			regiment = { type = mechanized_brigade name = "310th Mechanised Regiment" historical_model = 0 }
+		}
+		division = {
+			is_reserve = yes
+			name = "51st Mechanised Brigade"
+			location = 2275
+			regiment = { type = armor_brigade name = "50th Armored Battalion" historical_model = 1 }
+			regiment = { type = mechanized_brigade name = "44th Mechanised Regiment" historical_model = 0 }
+			regiment = { type = mechanized_brigade name = "47th Mechanised Regiment" historical_model = 0 }
+			regiment = { type = mechanized_brigade name = "170th Mechanised Regiment" historical_model = 0 }
+		}
+		division = {
+			is_reserve = yes
+			name = "128th Guards Mechanised Brigade"
+			location = 2965
+			regiment = { type = armor_brigade name = "398th Armored Battalion" historical_model = 1 }
+			regiment = { type = mechanized_brigade name = "315th Mechanised Regiment" historical_model = 0 }
+			regiment = { type = mechanized_brigade name = "327th Mechanised Regiment" historical_model = 0 }
+			regiment = { type = mechanized_brigade name = "487th Mechanised Regiment" historical_model = 0 }
+		}
+		division = {
+			is_reserve = yes
+			name = "11th Artillery Brigade"
+			location = 2573
+			regiment = { type = infantry_brigade name = "1st Artillery Battalion" historical_model = 1 }
+			regiment = { type = infantry_brigade name = "2nd Artillery Battalion" historical_model = 1 }
+			regiment = { type = artillery_brigade name = "3rd Artillery Battalion" historical_model = 0 }
+		}
+		division = {
+			is_reserve = yes
+			name = "7th Army Aviation Regiment"
+			location = 2453
+			regiment = { type = air_cavalry_brigade name = "1st Airmobile Battalion" historical_model = 1 }
+			regiment = { type = attack_helicopter_brigade name = "2nd Army Aviation Battalion" historical_model = 0 }
+		}
+	}
+}
+
+division = {
+	is_reserve = yes
+	name = "Ukrainian Marine Corps"
+	location = 3448
+	regiment = { type = marine_brigade name = "1st Separate Marine Battalion" historical_model = 1 }
+}
+
+navy = {
+	name = "Ukrainian Navy"
+	base = 3581
+	location = 3581
+	ship = { type = heavy_cruiser name = "Hetman Sahaydachniy" historical_model = 1 }
+	ship = { type = light_cruiser name = "Lutsk" historical_model = 1 }
+	ship = { type = light_cruiser name = "Vinnytsia" historical_model = 0 }
+	ship = { type = light_cruiser name = "Prydniprovia" historical_model = 0 }
+	ship = { type = light_cruiser name = "Kremenchuk" historical_model = 0 }
+	ship = { type = light_cruiser name = "Uzghorod" historical_model = 0 }
+	ship = { type = light_cruiser name = "Khmelnytskyi" historical_model = 0 }
+	ship = { type = assault_ship name = "Kostiantyn Olshansky" historical_model = 0 }
+	ship = { type = assault_ship name = "Kirovohrad" historical_model = 0 }
+	ship = { type = patrol_boat name = "Matka I" historical_model = 0 }
+	ship = { type = patrol_boat name = "Matka II" historical_model = 0 }
+	ship = { type = submarine name = "Zaporizhzhia" historical_model = 0 }
+}
+
+air = {
+	name = "Air Superiority Group"
+	base = 2509
+	location = 2509
+	wing = { type = interceptor name = "1st Air Superiority Wing" historical_model = 0 }
+	wing = { type = interceptor name = "2nd Air Superiority Wing" historical_model = 0 }
+}
+
+air = {
+	name = "1st Multi Role Group"
+	base = 3309
+	location = 3309
+	wing = { type = multi_role name = "1st Multi Role Wing" historical_model = 0 }
+	wing = { type = multi_role name = "2nd Multi Role Wing" historical_model = 0 }
+}
+
+air = {
+	name = "2nd Multi Role Group"
+	base = 2575
+	location = 2575
+	wing = { type = multi_role name = "3rd Multi Role Wing" historical_model = 0 }
+	wing = { type = multi_role name = "4th Multi Role Wing" historical_model = 0 }
+}
+
+air = {
+	name = "3rd Multi Role Group"
+	base = 2279
+	location = 2279
+	wing = { type = multi_role name = "5th Multi Role Wing" historical_model = 0 }
+	wing = { type = multi_role name = "6th Multi Role Wing" historical_model = 0 }
+}
+
+air = {
+	name = "1st Bomber Group"
+	base = 2280
+	location = 2280
+	wing = { type = cas name = "1st Bomber Wing" historical_model = 0 }
+	wing = { type = cas name = "2nd Bomber Wing" historical_model = 0 }
+}
+
+air = {
+	name = "2nd Bomber Group"
+	base = 2459
+	location = 2459
+	wing = { type = cas name = "3rd Bomber Wing" historical_model = 0 }
+	wing = { type = cas name = "4th Bomber Wing" historical_model = 0 }
+}
+
+air = {
+	name = "Close Air Support Group"
+	base = 2519
+	location = 2519
+	wing = { type = cas name = "1st Close Air Support Wing" historical_model = 0 }
+}
+
+air = {
+	name = "Transport Group"
+	base = 2462
+	location = 2462
+	wing = { type = transport_plane name = "1st Transport Wing" historical_model = 0 }
+}
+
+}
+	
+	
+	
+	
+		

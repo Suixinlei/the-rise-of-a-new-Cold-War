@@ -1,0 +1,14 @@
+owner = PER
+controller = PER
+
+add_core = PER
+industry = 10
+infra = 8
+manpower = 5.00
+energy = 60.00
+metal = 35.00
+rare_materials = 20.00
+air_base = 8 #Mehrabasd airbase
+points = 1
+leadership = 3.00
+

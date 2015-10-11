@@ -1,0 +1,54 @@
+capital = 6142
+government = republic
+ideology = social_conservative
+alignment = { x = -30 y = -50 }
+neutrality = 80
+national_unity = 70
+head_of_state = 80550
+head_of_government = 80551
+foreign_minister = 80551
+armament_minister = 80552
+minister_of_security = 80552
+minister_of_intelligence = 80552
+chief_of_staff = 80554
+chief_of_army = 80551
+chief_of_navy = 80553
+chief_of_air = 80553
+oob = "PHI_2000.txt"
+
+popularity = { 
+	national_socialist = 0
+	fascistic = 0
+	paternal_autocrat = 20
+	social_conservative = 36
+	market_liberal = 10
+	social_liberal = 9
+	social_democrat = 1
+	left_wing_radical = 1
+	leninist = 0
+	stalinist = 0
+}
+
+organization = { 
+	national_socialist = 0
+	fascistic = 0
+	paternal_autocrat = 60
+	social_conservative = 108
+	market_liberal = 30
+	social_liberal = 27
+	social_democrat = 3
+	left_wing_radical = 3
+	leninist = 0
+	stalinist = 0
+}
+
+conscription_policy = volunteer_army
+press_laws = free_press
+mobilisation_level = peace_time
+civil_laws = open_society
+economic_policy = lais_fair
+service_length = six_months
+
+
+weapon_design = 1
+main_battle_tank = 1

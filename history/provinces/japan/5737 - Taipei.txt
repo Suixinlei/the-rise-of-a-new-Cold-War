@@ -1,0 +1,18 @@
+controller = CHI
+owner = CHI
+add_core = CHI
+  
+add_core = CHC
+infra = 10
+manpower = 2.8
+industry = 10.00
+energy = 50.00
+metal = 30.00
+rare_materials = 15.00 
+air_base = 8 #Taipei airbase and Taoyuan airport
+naval_base = 4 #Keelung port
+leadership = 3.5
+points = 3
+anti_air = 7
+terrain = urban
+PROV5737;Ì¨±±;;;;;;;;;;X

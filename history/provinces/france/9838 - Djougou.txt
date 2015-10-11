@@ -1,0 +1,6 @@
+owner = TOG
+controller = TOG
+add_core = TOG
+
+infra = 2
+air_base = 2 #Niamtougou airbase

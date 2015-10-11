@@ -1,0 +1,145 @@
+color = { 190  110  101 }
+graphical_culture = Generic
+last_election = 2001.9.23
+duration = 48
+
+default_templates = {
+	generic_infantry = {
+		infantry_brigade
+		infantry_brigade
+		infantry_brigade
+	}
+	generic_milita = {
+		militia_brigade
+		militia_brigade
+		militia_brigade
+	}
+	generic_armoured = {
+		armor_brigade
+		motorized_brigade
+		motorized_brigade
+	}
+	generic_cavalry = {
+		cavalry_brigade
+		cavalry_brigade
+	}
+}
+
+unit_names = {
+}
+
+
+ministers = {
+              000001 = {
+		name = "克瓦希涅夫斯基"
+		ideology = paternal_autocrat
+		loyalty = 1.00
+		picture = M66501
+                             head_of_state = benevolent_gentleman
+                             start_date = 2000.1.1
+        }
+              000002 = {
+		name = "米勒"
+		ideology = paternal_autocrat
+		loyalty = 1.00
+		picture = M66502
+                             head_of_government = backroom_backstabber
+		start_date = 2000.1.1
+        }
+              000003 = {
+		name = "沃齐米日·齐莫舍维奇"
+		ideology = paternal_autocrat
+		loyalty = 1.00
+		picture = M66503
+                             foreign_minister = biased_intellectual
+		start_date = 2000.1.1
+        }
+              000004 = {
+		name = "杰尔齐·豪斯纳"
+		ideology = paternal_autocrat
+		loyalty = 1.00
+		picture = M66504
+                             foreign_minister = resource_industrialist
+		start_date = 2000.1.1
+        }
+	000005 = {
+		name = "伊丽莎白·卞科夫斯卡"
+		ideology = paternal_autocrat
+		loyalty = 1.00
+		picture = M66538
+                             armament_minister = corrupt_kleptocrat
+		start_date = 2000.1.1
+        }
+	000006 = {
+		name = "芭芭拉·库德雷茨卡"
+		ideology = paternal_autocrat
+		loyalty = 1.00
+		picture = M66541
+                             armament_minister = laissez_faires_capitalist
+		start_date = 2000.1.1
+        }
+	000007 = {
+		name = "约瑟夫·奥莱克西"
+		ideology = paternal_autocrat
+		loyalty = 1.00
+		picture = M66505
+                             minister_of_security   = compassionate_gentleman
+		start_date = 2000.1.1
+        }
+	000008 = {
+		name = "日比格涅夫"
+		ideology = paternal_autocrat
+		loyalty = 1.00
+		picture = M66506
+                             minister_of_intelligence = political_specialist
+		start_date = 2000.1.1
+        }
+	000009 = {
+		name = "切斯瓦夫米沃什"
+		ideology = paternal_autocrat
+		loyalty = 1.00
+		picture = M66507
+                             chief_of_staff = school_of_defence
+		start_date = 2000.1.1
+        }
+	000010 = {
+		name = "爱德华·彼得"
+		ideology = paternal_autocrat
+		loyalty = 1.00
+		picture = M66508
+                             chief_of_army = elastic_defence_doctrine
+		start_date = 2000.1.1
+        }
+	000011 = {
+		name = "理查德海军上将"
+		ideology = paternal_autocrat
+		loyalty = 1.00
+		picture = M66568
+                             chief_of_navy = base_control_doctrine
+		start_date = 2000.1.1
+        }
+	000012 = {
+		name = "理查德·欧祖斯基"
+		ideology = paternal_autocrat
+		loyalty = 1.00
+		picture = M66510
+                             chief_of_air  = air_superiority_doctrine
+		start_date = 2000.1.1
+        }
+	000013 = {
+		name = "亚瑟·沃尔斯基"
+		ideology = paternal_autocrat
+		loyalty = 1.00
+		picture = M66534
+                             foreign_minister = great_compromiser
+		start_date = 2000.1.1
+        }
+              000014 = {
+		name = "弗拉迪斯沃夫·弗拉泽尼乌克"
+		ideology = paternal_autocrat
+		loyalty = 1.00
+		picture = M66521
+                             minister_of_security = man_of_the_people
+		start_date = 2000.1.1
+        }
+}

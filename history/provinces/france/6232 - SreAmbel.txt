@@ -1,0 +1,8 @@
+owner = CMB
+controller = CMB
+add_core = CMB
+
+infra = 6
+naval_base = 3 #Sihanoukville autonomous port
+points = 1
+industry = 1

@@ -1,0 +1,9 @@
+owner = NOR
+controller = NOR
+add_core = NOR
+
+infra = 5
+terrain = arctic
+
+
+naval_base = 2 #Tromso port

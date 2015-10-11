@@ -1,0 +1,5 @@
+owner = LBY
+controller = LBY
+add_core = LBY
+infra = 2
+air_base = 4 #Ghadames airbase

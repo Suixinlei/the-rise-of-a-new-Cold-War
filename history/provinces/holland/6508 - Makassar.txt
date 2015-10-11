@@ -1,0 +1,9 @@
+owner = INO
+controller = INO
+add_core = INO
+infra = 6
+
+
+air_base = 5 #Makassar airbase
+naval_base = 2
+points = 1

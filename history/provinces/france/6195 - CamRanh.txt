@@ -1,0 +1,8 @@
+owner = VIE
+controller = VIE
+add_core = VIE
+infra = 6
+
+
+
+naval_base = 2 #Cam Ranh port

@@ -1,0 +1,10 @@
+owner = KOR
+
+controller = KOR
+
+add_core = KOR
+leadership = 1.00
+infra = 6
+air_base = 6 #Seongmu and Wonju airbase
+points = 1
+industry = 3

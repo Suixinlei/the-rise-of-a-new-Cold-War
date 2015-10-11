@@ -1,0 +1,6 @@
+owner = CZE
+controller = CZE
+add_core = CZE
+
+infra = 9
+energy = 5.00

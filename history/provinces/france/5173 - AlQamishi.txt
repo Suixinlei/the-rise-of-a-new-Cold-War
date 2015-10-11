@@ -1,0 +1,6 @@
+owner = SYR
+controller = SYR
+add_core = SYR
+add_core = KUR
+infra = 6
+crude_oil = 2.00

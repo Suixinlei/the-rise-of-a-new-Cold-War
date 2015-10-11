@@ -1,0 +1,10 @@
+owner = MLY
+controller = MLY
+add_core = MLY
+industry = 5
+infra = 4
+manpower = 5.60
+metal = 5.00
+air_base = 10 #Kuala Lumpur airport
+leadership = 2.50
+points = 1

@@ -1,0 +1,42 @@
+capital = 10231
+government = autocratic_democracy
+ideology = paternal_autocrat
+alignment = { x = 0 y = 50 }
+neutrality = 80
+national_unity = 70
+head_of_state = 48001
+head_of_government = 48006
+oob = "MAD_2000.txt"
+
+popularity = { 
+	national_socialist = 0
+	fascistic = 0
+	paternal_autocrat = 34
+	social_conservative = 5
+	market_liberal = 3
+	social_liberal = 0
+	social_democrat = 2
+	left_wing_radical = 0
+	leninist = 0
+	stalinist = 0
+}
+
+organization = { 
+	national_socialist = 0
+	fascistic = 0
+	paternal_autocrat = 102
+	social_conservative = 15
+	market_liberal = 9
+	social_liberal = 0
+	social_democrat = 6
+	left_wing_radical = 0
+	leninist = 0
+	stalinist = 0
+}
+
+conscription_policy = volunteer_army
+press_laws = free_press
+mobilisation_level = peace_time
+civil_laws = open_society
+service_length = eighteen_months
+economic_policy = lais_fair

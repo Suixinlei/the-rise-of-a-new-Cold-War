@@ -1,0 +1,2157 @@
+167001 = {
+	name = "Altintop"
+	country = TUR
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L167001
+	add_trait = sturmer
+	history = {
+		2000.1.1 = { rank = 2 }
+	}
+}
+167002 = {
+	name = "M. Erdagi"
+	country = TUR
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L167002
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+167003 = {
+	name = "Baig"
+	country = TUR
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L167003
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+167004 = {
+	name = "Sezgin"
+	country = TUR
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L167004
+	add_trait = landing_specialist
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+167005 = {
+	name = "Pekkan"
+	country = TUR
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L167005
+	add_trait = landing_specialist
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+167006 = {
+	name = "Sahin"
+	country = TUR
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L167006
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+167007 = {
+	name = "Kaplan"
+	country = TUR
+	type = land
+	skill = 2
+	max_skill = 4
+	loyalty = 1.00
+	picture = L167007
+	add_trait = old_guard
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+167008 = {
+	name = "Mirza"
+	country = TUR
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L167008
+	add_trait = panzer_leader
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+167009 = {
+	name = "Buyukanit"
+	country = TUR
+	type = land
+	skill = 2
+	max_skill = 8
+	loyalty = 1.00
+	picture = L167009
+	add_trait = trainer
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+167010 = {
+	name = "Kosaner"
+	country = TUR
+	type = land
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = L167010
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+167011 = {
+	name = "Demirel"
+	country = TUR
+	type = land
+	skill = 0
+	max_skill = 3
+	loyalty = 1.00
+	picture = L167011
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+167012 = {
+	name = "Duman"
+	country = TUR
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L167012
+	add_trait = defensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+167013 = {
+	name = "M. Gün"
+	country = TUR
+	type = land
+	skill = 1
+	max_skill = 4
+	loyalty = 1.00
+	picture = L167013
+	add_trait = winter_specialist
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+167014 = {
+	name = "Kaymaz"
+	country = TUR
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L167014
+	add_trait = commando
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+167015 = {
+	name = "Canavar"
+	country = TUR
+	type = land
+	skill = 1
+	max_skill = 4
+	loyalty = 1.00
+	picture = L167015
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+167016 = {
+	name = "Arinc"
+	country = TUR
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L167016
+	add_trait = fortress_buster
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+167017 = {
+	name = "Cengiz"
+	country = TUR
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L167017
+	add_trait = improvisation
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+167018 = {
+	name = "Türk"
+	country = TUR
+	type = land
+	skill = 0
+	max_skill = 4
+	loyalty = 1.00
+	picture = L167018
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+167019 = {
+	name = "Raza"
+	country = TUR
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L167019
+	add_trait = frontline_soldier
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+167020 = {
+	name = "Gökdal"
+	country = TUR
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L167020
+	add_trait = assaulter
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+167021 = {
+	name = "Karuc"
+	country = TUR
+	type = land
+	skill = 1
+	max_skill = 7
+	loyalty = 1.00
+	picture = L167021
+	add_trait = learners_will
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+167022 = {
+	name = "Kayani"
+	country = TUR
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L167022
+	add_trait = improvisation
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+167023 = {
+	name = "Lakshya"
+	country = TUR
+	type = land
+	skill = 0
+	max_skill = 4
+	loyalty = 1.00
+	picture = L167023
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+167024 = {
+	name = "Cagatay"
+	country = TUR
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L167024
+	add_trait = defensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+167025 = {
+	name = "Özkök"
+	country = TUR
+	type = land
+	skill = 5
+	max_skill = 8
+	loyalty = 1.00
+	picture = L167025
+	add_trait = offensive_doctrine
+	history = {
+		1995.1.1 = { rank = 1 }
+		1998.1.1 = { rank = 2 }
+		2000.1.1 = { rank = 3 }
+		2002.1.1 = { rank = 4 }
+	}
+}
+167026 = {
+	name = "Ataman"
+	country = TUR
+	type = land
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L167026
+	add_trait = fortress_buster
+	history = {
+		1998.1.1 = { rank = 1 }
+		2001.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+167027 = {
+	name = "Bakici"
+	country = TUR
+	type = land
+	skill = 4
+	max_skill = 7
+	loyalty = 1.00
+	picture = L167027
+	history = {
+		1998.1.1 = { rank = 1 }
+		2000.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+167028 = {
+	name = "Basbug"
+	country = TUR
+	type = land
+	skill = 3
+	max_skill = 6
+	loyalty = 1.00
+	picture = L167028
+	history = {
+		1998.1.1 = { rank = 1 }
+		2000.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+167029 = {
+	name = "Büyükanit"
+	country = TUR
+	type = land
+	skill = 4
+	max_skill = 8
+	loyalty = 1.00
+	picture = L167029
+	add_trait = hard_defender
+	history = {
+		1995.1.1 = { rank = 1 }
+		2000.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+167030 = {
+	name = "Özel"
+	country = TUR
+	type = land
+	skill = 4
+	max_skill = 7
+	loyalty = 1.00
+	picture = L167030
+	add_trait = defensive_doctrine
+	add_trait = frontline_soldier
+	history = {
+		1997.1.1 = { rank = 1 }
+		2000.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+167031 = {
+	name = "Akar"
+	country = TUR
+	type = land
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L167031
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+167032 = {
+	name = "Akbas"
+	country = TUR
+	type = land
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L167032
+	add_trait = improvisation
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+167033 = {
+	name = "Alatas"
+	country = TUR
+	type = land
+	skill = 3
+	max_skill = 6
+	loyalty = 1.00
+	picture = L167033
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+167034 = {
+	name = "Baskani"
+	country = TUR
+	type = land
+	skill = 3
+	max_skill = 7
+	loyalty = 0.00
+	picture = L167034
+	add_trait = panzer_leader
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+167035 = {
+	name = "Biyik"
+	country = TUR
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L167035
+	add_trait = landlubber
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+167036 = {
+	name = "Çolak"
+	country = TUR
+	type = land
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L167036
+	add_trait = offensive_doctrine
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+167037 = {
+	name = "Dündar"
+	country = TUR
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L167037
+	add_trait = defensive_doctrine
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+167038 = {
+	name = "Eker"
+	country = TUR
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 0.00
+	picture = L167038
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+167039 = {
+	name = "Erdagi"
+	country = TUR
+	type = land
+	skill = 4
+	max_skill = 8
+	loyalty = 0.00
+	picture = L167039
+	add_trait = panzer_leader
+	add_trait = hard_defender
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+167040 = {
+	name = "Eröz"
+	country = TUR
+	type = land
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L167040
+	add_trait = frontline_soldier
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+167041 = {
+	name = "Güler"
+	country = TUR
+	type = land
+	skill = 3
+	max_skill = 6
+	loyalty = 0.00
+	picture = L167041
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+167042 = {
+	name = "Güner"
+	country = TUR
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L167042
+	add_trait = engineer
+	add_trait = trickster
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+167043 = {
+	name = "Kivrikoglu"
+	country = TUR
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L167043
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+167044 = {
+	name = "Kosaner"
+	country = TUR
+	type = land
+	skill = 3
+	max_skill = 7
+	loyalty = 0.00
+	picture = L167044
+	add_trait = commando
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+167045 = {
+	name = "Mendi"
+	country = TUR
+	type = land
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L167045
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+167046 = {
+	name = "Müsaviri"
+	country = TUR
+	type = land
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L167046
+	add_trait = commando
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+167047 = {
+	name = "Olcan"
+	country = TUR
+	type = land
+	skill = 3
+	max_skill = 6
+	loyalty = 1.00
+	picture = L167047
+	add_trait = landing_specialist
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+167048 = {
+	name = "Özkilic"
+	country = TUR
+	type = land
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L167048
+	add_trait = panzer_leader
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+167049 = {
+	name = "Öztürk"
+	country = TUR
+	type = land
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = L167049
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+167050 = {
+	name = "Pekin"
+	country = TUR
+	type = land
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L167050
+	add_trait = frontline_soldier
+	add_trait = offensive_doctrine
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+167051 = {
+	name = "Tamamyan"
+	country = TUR
+	type = land
+	skill = 3
+	max_skill = 7
+	loyalty = 0.00
+	picture = L167051
+	add_trait = improvisation
+	add_trait = landlubber
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+167052 = {
+	name = "Yavuz"
+	country = TUR
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 0.00
+	picture = L167052
+	add_trait = assaulter
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+167053 = {
+	name = "Bayram"
+	country = TUR
+	type = land
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L167053
+	add_trait = panzer_leader
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+167054 = {
+	name = "Çukurca"
+	country = TUR
+	type = land
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L167054
+	add_trait = offensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+167055 = {
+	name = "Evren"
+	country = TUR
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 0.00
+	picture = L167055
+	add_trait = frontline_soldier
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+167056 = {
+	name = "Agri"
+	country = TUR
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L167056
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+167057 = {
+	name = "Akoguz"
+	country = TUR
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L167057
+	add_trait = offensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+167058 = {
+	name = "Akti"
+	country = TUR
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L167058
+	add_trait = fortress_buster
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+167059 = {
+	name = "Akyürek"
+	country = TUR
+	type = land
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L167059
+	add_trait = panzer_leader
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+167060 = {
+	name = "Ankara"
+	country = TUR
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L167060
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+167061 = {
+	name = "Arslan"
+	country = TUR
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L167061
+	add_trait = defensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+167062 = {
+	name = "Aydin"
+	country = TUR
+	type = land
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L167062
+	add_trait = offensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+167063 = {
+	name = "Babüroglu"
+	country = TUR
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L167063
+	add_trait = offensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+167064 = {
+	name = "Bestepe"
+	country = TUR
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L167064
+	add_trait = logistics_wizard
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+167065 = {
+	name = "Bostanci"
+	country = TUR
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L167065
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+167066 = {
+	name = "Celepoglu"
+	country = TUR
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L167066
+	add_trait = trainer
+	add_trait = frontline_soldier
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+167067 = {
+	name = "Çitil"
+	country = TUR
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L167067
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+167068 = {
+	name = "Colak"
+	country = TUR
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L167068
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+167069 = {
+	name = "Çörtenin"
+	country = TUR
+	type = land
+	skill = 3
+	max_skill = 6
+	loyalty = 1.00
+	picture = L167069
+	add_trait = panzer_leader
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+167070 = {
+	name = "Çubuklu"
+	country = TUR
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L167070
+	add_trait = commando
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+167071 = {
+	name = "Demirezen"
+	country = TUR
+	type = land
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = L167071
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+167072 = {
+	name = "Dirik"
+	country = TUR
+	type = land
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = L167072
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+167073 = {
+	name = "Ekinci"
+	country = TUR
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 0.00
+	picture = L167073
+	add_trait = panzer_leader
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+167074 = {
+	name = "Es"
+	country = TUR
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 0.00
+	picture = L167074
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+167075 = {
+	name = "es-Seyh"
+	country = TUR
+	type = land
+	skill = 3
+	max_skill = 6
+	loyalty = 1.00
+	picture = L167075
+	add_trait = old_guard
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+167076 = {
+	name = "Gökbayrak"
+	country = TUR
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L167076
+	add_trait = fortress_buster
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+167077 = {
+	name = "Gözkaya"
+	country = TUR
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L167077
+	add_trait = frontline_soldier
+	add_trait = commando
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+167078 = {
+	name = "Gözüyle"
+	country = TUR
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L167078
+	add_trait = frontline_soldier
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+167079 = {
+	name = "Gümüs"
+	country = TUR
+	type = land
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L167079
+	add_trait = panzer_leader
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+167080 = {
+	name = "Günal"
+	country = TUR
+	type = land
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = L167080
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+167081 = {
+	name = "Günbatar"
+	country = TUR
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L167081
+	add_trait = offensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+167082 = {
+	name = "Günes"
+	country = TUR
+	type = land
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = L167082
+	add_trait = commando
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+167083 = {
+	name = "Habiboglunun"
+	country = TUR
+	type = land
+	skill = 3
+	max_skill = 7
+	loyalty = 0.00
+	picture = L167083
+	add_trait = panzer_leader
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+167084 = {
+	name = "Isleyen"
+	country = TUR
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L167084
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+167085 = {
+	name = "Kanamasi"
+	country = TUR
+	type = land
+	skill = 2
+	max_skill = 8
+	loyalty = 1.00
+	picture = L167085
+	add_trait = learners_will
+	add_trait = panzer_leader
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+167086 = {
+	name = "Karakoç"
+	country = TUR
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L167086
+	add_trait = engineer
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+167087 = {
+	name = "Karakus"
+	country = TUR
+	type = land
+	skill = 3
+	max_skill = 7
+	loyalty = 0.00
+	picture = L167087
+	add_trait = commando
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+167088 = {
+	name = "Karaosmanoglu"
+	country = TUR
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L167088
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+167089 = {
+	name = "Karauz"
+	country = TUR
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L167089
+	add_trait = winter_specialist
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+167090 = {
+	name = "Kaya"
+	country = TUR
+	type = land
+	skill = 3
+	max_skill = 8
+	loyalty = 0.00
+	picture = L167090
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+167091 = {
+	name = "Kocaoglu"
+	country = TUR
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 0.00
+	picture = L167091
+	add_trait = assaulter
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+167092 = {
+	name = "Korkmaz"
+	country = TUR
+	type = land
+	skill = 2
+	max_skill = 5
+	loyalty = 0.00
+	picture = L167092
+	add_trait = panzer_leader
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+167093 = {
+	name = "Küçük"
+	country = TUR
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L167093
+	add_trait = trickster
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+167094 = {
+	name = "Kugu"
+	country = TUR
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L167094
+	add_trait = engineer
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+167095 = {
+	name = "Lapanta"
+	country = TUR
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 0.00
+	picture = L167095
+	add_trait = hard_defender
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+167096 = {
+	name = "Ocak"
+	country = TUR
+	type = land
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = L167096
+	add_trait = defensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+167097 = {
+	name = "Olguner"
+	country = TUR
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L167097
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+167098 = {
+	name = "Özkara"
+	country = TUR
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 0.00
+	picture = L167098
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+167099 = {
+	name = "Özler"
+	country = TUR
+	type = land
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L167099
+	add_trait = commando
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+167100 = {
+	name = "Öznal"
+	country = TUR
+	type = land
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = L167100
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+167101 = {
+	name = "Özsir"
+	country = TUR
+	type = land
+	skill = 3
+	max_skill = 6
+	loyalty = 0.00
+	picture = L167101
+	add_trait = old_guard
+	add_trait = panzer_leader
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+167102 = {
+	name = "Öztürk"
+	country = TUR
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 0.00
+	picture = L167102
+	add_trait = offensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+167103 = {
+	name = "Piyade"
+	country = TUR
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L167103
+	add_trait = improvisation
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+167104 = {
+	name = "Recep"
+	country = TUR
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 0.00
+	picture = L167104
+	add_trait = engineer
+	add_trait = hard_defender
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+167105 = {
+	name = "Resimleri"
+	country = TUR
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L167105
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+167106 = {
+	name = "Sahintürk"
+	country = TUR
+	type = land
+	skill = 3
+	max_skill = 8
+	loyalty = 0.00
+	picture = L167106
+	add_trait = panzer_leader
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+167107 = {
+	name = "Sezginer"
+	country = TUR
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 0.00
+	picture = L167107
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+167108 = {
+	name = "Soganci"
+	country = TUR
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L167108
+	add_trait = logistics_wizard
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+167109 = {
+	name = "Tarçin"
+	country = TUR
+	type = land
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L167109
+	add_trait = panzer_leader
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+167110 = {
+	name = "Ünlü"
+	country = TUR
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 0.00
+	picture = L167110
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+167111 = {
+	name = "Vali"
+	country = TUR
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 0.00
+	picture = L167111
+	add_trait = panzer_leader
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+167112 = {
+	name = "Yerlikaya"
+	country = TUR
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 0.00
+	picture = L167112
+	add_trait = offensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+167113 = {
+	name = "Yilmaz"
+	country = TUR
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 0.00
+	picture = L167113
+	add_trait = engineer
+	add_trait = assaulter
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+167114 = {
+	name = "Mehmed"
+	country = TUR
+	type = land
+	skill = 1
+	max_skill = 4
+	loyalty = 0.00
+	picture = L167114
+	add_trait = landing_specialist
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+167115 = {
+	name = "Mungan"
+	country = TUR
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 0.00
+	picture = L167115
+	add_trait = hard_defender
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+167116 = {
+	name = "Pamuk"
+	country = TUR
+	type = land
+	skill = 1
+	max_skill = 4
+	loyalty = 0.00
+	picture = L167116
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+167117 = {
+	name = "Zarakolu"
+	country = TUR
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 0.00
+	picture = L167117
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+167118 = {
+	name = "Zengin"
+	country = TUR
+	type = land
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = L167118
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+167119 = {
+	name = "Zorlu"
+	country = TUR
+	type = land
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = L167119
+	add_trait = landing_specialist
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+167120 = {
+	name = "Yesil"
+	country = TUR
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 0.00
+	picture = L167120
+	add_trait = logistics_wizard
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+167121 = {
+	name = "Uzunlar"
+	country = TUR
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 0.00
+	picture = L167121
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+167122 = {
+	name = "Üzümcü"
+	country = TUR
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 0.00
+	picture = L167122
+	add_trait = panzer_leader
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+167123 = {
+	name = "Ulas"
+	country = TUR
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 0.00
+	picture = L167123
+	add_trait = engineer
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+167124 = {
+	name = "Aksay"
+	country = TUR
+	type = air
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L167124
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+167125 = {
+	name = "Aliyev"
+	country = TUR
+	type = air
+	skill = 1
+	max_skill = 5
+	loyalty = 0.00
+	picture = L167125
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+167126 = {
+	name = "Metin"
+	country = TUR
+	type = air
+	skill = 0
+	max_skill = 4
+	loyalty = 1.00
+	picture = L167126
+	add_trait = night_flyer
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+167127 = {
+	name = "Ozaslan"
+	country = TUR
+	type = air
+	skill = 1
+	max_skill = 4
+	loyalty = 0.00
+	picture = L167127
+	add_trait = superior_air_tactician
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+167128 = {
+	name = "Özdülek"
+	country = TUR
+	type = air
+	skill = 2
+	max_skill = 5
+	loyalty = 0.00
+	picture = L167128
+	add_trait = fleet_destroyer
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+167129 = {
+	name = "Topcu"
+	country = TUR
+	type = air
+	skill = 1
+	max_skill = 3
+	loyalty = 0.00
+	picture = L167129
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+167130 = {
+	name = "Firtina"
+	country = TUR
+	type = air
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L167130
+	add_trait = tank_buster
+	history = {
+		1995.1.1 = { rank = 1 }
+		2000.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+167131 = {
+	name = "Karlitekin"
+	country = TUR
+	type = air
+	skill = 1
+	max_skill = 4
+	loyalty = 0.00
+	picture = L167131
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+167132 = {
+	name = "Kotluk"
+	country = TUR
+	type = air
+	skill = 1
+	max_skill = 4
+	loyalty = 0.00
+	picture = L167132
+	add_trait = night_flyer
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+167133 = {
+	name = "Erten"
+	country = TUR
+	type = air
+	skill = 4
+	max_skill = 7
+	loyalty = 1.00
+	picture = L167133
+	add_trait = fleet_destroyer
+	history = {
+		1995.1.1 = { rank = 1 }
+		2000.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+167134 = {
+	name = "Agar"
+	country = TUR
+	type = air
+	skill = 3
+	max_skill = 6
+	loyalty = 0.00
+	picture = L167134
+	add_trait = carpet_bomber
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+167135 = {
+	name = "Ünal"
+	country = TUR
+	type = air
+	skill = 3
+	max_skill = 5
+	loyalty = 1.00
+	picture = L167135
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+167136 = {
+	name = "Dingiloglu"
+	country = TUR
+	type = air
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = L167136
+	add_trait = carpet_bomber
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+167137 = {
+	name = "Findikoglu"
+	country = TUR
+	type = air
+	skill = 3
+	max_skill = 6
+	loyalty = 0.00
+	picture = L167137
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+167138 = {
+	name = "Küçükakyüz"
+	country = TUR
+	type = air
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L167138
+	add_trait = superior_air_tactician
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+167139 = {
+	name = "Özkaya"
+	country = TUR
+	type = air
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L167139
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+167140 = {
+	name = "Tas"
+	country = TUR
+	type = air
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L167140
+	add_trait = tank_buster
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+167141 = {
+	name = "Yilmaz"
+	country = TUR
+	type = air
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L167141
+	add_trait = night_flyer
+	add_trait = superior_air_tactician
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+167142 = {
+	name = "Calak"
+	country = TUR
+	type = sea
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L167142
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+167143 = {
+	name = "Erol"
+	country = TUR
+	type = sea
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = L167143
+	add_trait = seawolf
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+167144 = {
+	name = "Yigit"
+	country = TUR
+	type = sea
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L167144
+	add_trait = fleet_destroyer
+	history = {
+		1995.1.1 = { rank = 1 }
+		2000.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+167145 = {
+	name = "Dogan"
+	country = TUR
+	type = sea
+	skill = 1
+	max_skill = 5
+	loyalty = 0.00
+	picture = L167145
+	add_trait = fleet_destroyer
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+167146 = {
+	name = "Dedürk"
+	country = TUR
+	type = sea
+	skill = 1
+	max_skill = 5
+	loyalty = 0.00
+	picture = L167146
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+167147 = {
+	name = "Tugay"
+	country = TUR
+	type = sea
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L167147
+	history = {
+		2003.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 1 }
+	}
+}
+167148 = {
+	name = "Ates"
+	country = TUR
+	type = sea
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L167148
+	add_trait = superior_tactician
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+167149 = {
+	name = "Hasekioglu"
+	country = TUR
+	type = sea
+	skill = 1
+	max_skill = 4
+	loyalty = 0.00
+	picture = L167149
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+167150 = {
+	name = "Igsiz"
+	country = TUR
+	type = sea
+	skill = 2
+	max_skill = 6
+	loyalty = 0.00
+	picture = L167150
+	add_trait = old_guard
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+167151 = {
+	name = "Adivar"
+	country = TUR
+	type = sea
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L167151
+	add_trait = superior_tactician
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+167152 = {
+	name = "Atac"
+	country = TUR
+	type = sea
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L167152
+	history = {
+		1995.1.1 = { rank = 1 }
+		2000.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+167153 = {
+	name = "Bilgel"
+	country = TUR
+	type = sea
+	skill = 3
+	max_skill = 6
+	loyalty = 0.00
+	picture = L167153
+	history = {
+		1995.1.1 = { rank = 1 }
+		2000.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+167154 = {
+	name = "Yigit"
+	country = TUR
+	type = sea
+	skill = 3
+	max_skill = 7
+	loyalty = 0.00
+	picture = L167154
+	add_trait = spotter
+	history = {
+		1995.1.1 = { rank = 1 }
+		2000.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+167155 = {
+	name = "Çubuklu"
+	country = TUR
+	type = sea
+	skill = 3
+	max_skill = 6
+	loyalty = 1.00
+	picture = L167155
+	add_trait = seawolf
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+167156 = {
+	name = "Komutanigi"
+	country = TUR
+	type = sea
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L167156
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+167157 = {
+	name = "Kösele"
+	country = TUR
+	type = sea
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L167157
+	add_trait = seawolf
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+167158 = {
+	name = "Erenoglu"
+	country = TUR
+	type = sea
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = L167158
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+167159 = {
+	name = "Ertugrul"
+	country = TUR
+	type = sea
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = L167159
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+167160 = {
+	name = "Ertürk"
+	country = TUR
+	type = sea
+	skill = 2
+	max_skill = 6
+	loyalty = 0.00
+	picture = L167160
+	add_trait = seawolf
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+167161 = {
+	name = "Gürdeniz"
+	country = TUR
+	type = sea
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = L167161
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+167162 = {
+	name = "Ilgar"
+	country = TUR
+	type = sea
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L167162
+	add_trait = superior_tactician
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+167163 = {
+	name = "Sislioglu"
+	country = TUR
+	type = sea
+	skill = 2
+	max_skill = 4
+	loyalty = 0.00
+	picture = L167163
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+167164 = {
+	name = "Tutuklandi"
+	country = TUR
+	type = sea
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L167164
+	add_trait = spotter
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+167165 = {
+	name = "Yürekli"
+	country = TUR
+	type = sea
+	skill = 2
+	max_skill = 6
+	loyalty = 0.00
+	picture = L167165
+	add_trait = seawolf
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}

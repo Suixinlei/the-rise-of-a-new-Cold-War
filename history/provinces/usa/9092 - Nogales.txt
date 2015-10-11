@@ -1,0 +1,7 @@
+owner = USA
+controller = USA
+add_core = USA
+rare_materials = 29.2
+infra = 6
+air_base = 4 #Davis-Monthan airbase
+points = 1

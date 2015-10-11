@@ -1,0 +1,6 @@
+owner = NZL
+controller = NZL
+add_core = NZL
+
+infra = 8
+air_base = 3 #Blenheim airbase

@@ -1,0 +1,1877 @@
+color = { 180  180  180 }
+graphical_culture = German
+last_election = 2002.9.22
+duration = 48
+major = yes
+
+default_templates = {
+
+}
+
+
+unit_names = {
+
+}
+
+ministers = {
+	30501 = {
+		name = "约翰内斯·劳"
+		ideology = social_democrat
+		loyalty = 1.00
+		picture = M30501
+		head_of_state = popular_figurehead
+		start_date = 2000.1.1	
+        }
+	30502 = {
+		name = "格哈特·弗里茨·库尔特·施罗德"
+		ideology = social_democrat
+		loyalty = 1.00
+		picture = M30502
+		head_of_government = silent_workhorse
+		start_date = 2000.1.1
+	}
+	30503 = {
+		name = "乔斯卡 费舍尔"
+		ideology = left_wing_radical
+		loyalty = 1.00
+		picture = M30503
+		foreign_minister = hidden_leftist
+		armament_minister = old_hippie
+		start_date = 2000.1.1
+	}
+	30504 = {
+		name = "沃纳布 卢姆勒"
+		ideology = social_democrat
+		loyalty = 1.00
+		picture = M30504
+		armament_minister = organisation_genius
+		start_date = 2000.1.1
+	}
+	30505 = {
+		name = " 奥托·乔治·席利"
+		ideology = left_wing_radical 
+		loyalty = 1.00
+		picture = M30505
+		minister_of_security = autocratic_charmer
+		armament_minister = military_slob
+		start_date = 2000.1.1
+	}
+	30506 = {
+		name = "恩斯特 乌尔劳"
+		ideology = social_democrat
+		loyalty = 0.75
+		picture = M30506
+		minister_of_intelligence = dismal_enigma
+		start_date = 2000.1.1
+	}
+	30507 = {
+		name = "埃贡 拉姆斯"
+		ideology = social_democrat
+		loyalty = 1.00
+		picture = M30507
+		chief_of_staff = army_reformer
+		start_date = 2000.1.1
+	}
+	30508 = {
+		name = "鲁道夫 沙尔平"
+		ideology = social_democrat
+		loyalty = 1.00
+		picture = M30508
+		armament_minister = service_enforcer
+		start_date = 2000.1.1
+	}
+	30509 = {
+		name = "沃尔夫勒姆 K.N"
+		ideology = social_democrat
+		loyalty = 1.00
+		picture = M30509
+		chief_of_navy = submarine_lover
+		start_date = 2000.1.1
+	}
+	30510 = {
+		name = "曼弗雷德·恩格尔哈特"
+		ideology = social_democrat
+		loyalty = 1.00
+		picture = M30510
+		chief_of_air = army_aviation_doctrine
+		start_date = 2000.1.1
+	}
+	30511 = {
+		name = "安格拉·默克尔"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M30511
+		head_of_government = money_is_might
+		start_date = 2000.1.1
+	}
+	30512 = {
+		name = "卡尔-特奥多尔·楚·古滕贝格"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M30512
+		head_of_government = popular_figurehead
+		armament_minister = army_reformer
+		start_date = 2006.1.1
+	}
+	30513 = {
+		name = "托马斯·德 梅齐"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M30513
+		minister_of_security = crime_fighter 
+		armament_minister = guns_and_butter_doctrine
+		start_date = 2000.1.1
+	}
+	30514 = {
+		name = "克里斯蒂安-伍尔夫"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M30514
+		head_of_state = scandalous
+		minister_of_security = untalented_nerd
+		start_date = 2000.1.1
+	}
+	30515 = {
+		name = "霍斯特 克勒"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M30515
+		head_of_state = weary_stiff_neck
+		start_date = 2000.1.1
+	}
+	30516 = {
+		name = "弗朗茨·约瑟夫·荣格"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M30516
+		armament_minister = talented_recruiter
+		start_date = 2000.1.1
+	}
+	30517 = {
+		name = "罗兰·科赫"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M30517
+		minister_of_security = patriot
+		start_date = 2000.1.1
+	}
+	30518 = {
+		name = "沃尔夫冈·朔伊布勒"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M30518
+		minister_of_security = economic_expert
+		start_date = 2000.1.1
+	}
+	30519 = {
+		name = "阿尔内 科尔祖辛格-雅尼克"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M30519
+		chief_of_air = air_reformer
+		start_date = 2000.1.1
+	}
+	30520 = {
+		name = "彼得 波赫雷"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M30520
+		chief_of_air = master_of_skies
+		start_date = 2000.1.1
+	}
+	30521 = {
+		name = "库尔特 - 伯恩哈德 纳卡斯"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M30521
+		chief_of_staff = logistics_specialist
+		start_date = 2000.1.1
+	}
+	30522 = {
+		name = "曼弗雷德·尼尔森"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M30522
+		chief_of_navy = decisive_naval_battle_doctrine
+		start_date = 2000.1.1
+	}
+	30523 = {
+		name = "弗兰克-瓦我特·施泰梅"
+		ideology = social_democrat
+		loyalty = 1.00
+		picture = M30523
+		head_of_government = happy_amateur
+		foreign_minister = great_compromiser
+		start_date = 2002.1.1
+	}
+	30524 = {
+		name = "约阿希姆·高克"
+		ideology = social_democrat
+		loyalty = 1.00
+		picture = M30524
+		head_of_state = majestic
+		minister_of_security = intellectualist
+		start_date = 2000.1.1
+	}
+	30525 = {
+		name = "海因里希·吉博"
+		ideology = social_democrat
+		loyalty = 1.00
+		picture = M30525
+		minister_of_intelligence = talented_and_concealed
+		start_date = 2000.1.1
+	}
+	30526 = {
+		name = "彼得·施特鲁克"
+		ideology = social_democrat
+		loyalty = 1.00
+		picture = M30526
+		armament_minister = hazardous_clean
+		start_date = 2000.1.1
+	}
+	30527 = {
+		name = "蒂洛 萨拉辛"
+		ideology = social_democrat
+		loyalty = 1.00
+		picture = M30527
+		armament_minister = industry_servant
+		minister_of_security = patriot
+		start_date = 2000.1.1
+	}
+	30528 = {
+		name = "西格马尔?加布里尔"
+		ideology = social_democrat
+		loyalty = 1.00
+		picture = M30528
+		head_of_government = backroom_backstabber
+		minister_of_security = responsive_industrialist
+		foreign_minister = unexperienced_diplomat
+		start_date = 2002.1.1
+	}
+	30529 = {
+		name = "阿克塞尔 索契莫普夫"
+		ideology = social_democrat
+		loyalty = 1.00
+		picture = M30529
+		chief_of_navy = destroyer_lover
+		start_date = 2000.1.1
+	}
+	30530 = {
+		name = "格特 弗里德里希·维勒"
+		ideology = social_democrat
+		loyalty = 1.00
+		picture = M30530
+		chief_of_staff = school_of_psychology
+		start_date = 2000.1.1
+	}
+	30531 = {
+		name = "维尔纳 福利尔斯"
+		ideology = social_democrat
+		loyalty = 1.00
+		picture = M30531
+		chief_of_army = elastic_defence_doctrine 
+		start_date = 2000.1.1
+	}
+	30532 = {
+		name = "弗兰克 罗里克"
+		ideology = paternal_autocrat
+		loyalty = 1.00
+		picture = M30532
+		head_of_state = tempered_speaker
+		minister_of_security = patriot
+		start_date = 2000.1.1
+	}
+	30533 = {
+		name = "霍尔格 艾普菲尔"
+		ideology = paternal_autocrat
+		loyalty = 1.00
+		picture = M30533
+		minister_of_security = embittered
+		head_of_government = hazardous_clean
+		start_date = 2000.1.1
+	}
+	30534 = {
+		name = "弗兰克 索契维尔伯特"
+		ideology = paternal_autocrat
+		loyalty = 1.00
+		picture = M30534
+		minister_of_security = silent_workhorse 
+		start_date = 2000.1.1
+	}
+	30535 = {
+		name = "延斯 帕斯"
+		ideology = paternal_autocrat
+		loyalty = 0.75
+		picture = M30535
+		foreign_minister = great_compromiser
+		start_date = 2000.1.1
+	}
+	30536 = {
+		name = "J.G 亨利"
+		ideology = paternal_autocrat
+		loyalty = 0.75
+		picture = M30536
+		minister_of_intelligence = naval_intelligence_specialist 
+		start_date = 2000.1.1
+	}
+	30537 = {
+		name = "约尔根·里格尔"
+		ideology = paternal_autocrat
+		loyalty = 0.75
+		picture = M30537
+		minister_of_security = fanatical_academic
+		foreign_minister = scandalous
+		start_date = 2000.1.1
+	}
+	30538 = {
+		name = "马蒂亚斯·福斯特"
+		ideology = paternal_autocrat
+		loyalty = 0.75
+		picture = M30538
+		foreign_minister = talented_liar
+		start_date = 2000.1.1
+	}
+	30539 = {
+		name = "卡尔 李希特"
+		ideology = paternal_autocrat
+		loyalty = 0.75
+		picture = M30539
+		minister_of_intelligence = dismal_enigma
+		foreign_minister = anti_imperialist
+		start_date = 2000.1.1
+	}
+	30540 = {
+		name = "尤度 帕斯特斯"
+		ideology = paternal_autocrat
+		loyalty = 1.00
+		picture = M30540
+		head_of_government = people_shamer
+		armament_minister = military_entrepreneur
+		start_date = 2000.1.1
+	}
+	30541 = {
+		name = "乌尔里克 艾根费尔德"
+		ideology = paternal_autocrat
+		loyalty = 0.75
+		picture = M30541
+		armament_minister = industrial_beast
+		start_date = 2000.1.1
+	}
+	30542 = {
+		name = "沃尔夫冈·希梅尔"
+		ideology = paternal_autocrat
+		loyalty = 1.00
+		picture = M30542
+		armament_minister = resource_industrialist
+		start_date = 2000.1.1
+	}
+	30544 = {
+		name = "托马斯·武尔夫"
+		ideology = paternal_autocrat
+		loyalty = 1.00
+		picture = M30544
+		minister_of_security = efficient_sociopath
+		start_date = 2000.1.1
+	}
+	30545 = {
+		name = "尤度 沃伊特"
+		ideology = paternal_autocrat
+		loyalty = 1.00
+		picture = M30545
+		head_of_government = corporate_suit
+		armament_minister = air_reformer
+		start_date = 2000.1.1
+	}
+	30546 = {
+		name = "克劳斯·贝尔"
+		ideology = paternal_autocrat
+		loyalty = 1.00
+		picture = M30546
+		foreign_minister = ideological_crusader
+		start_date = 2000.1.1
+	}
+	30547 = {
+		name = "乌韦 莫丽恩"
+		ideology = paternal_autocrat
+		loyalty = 1.00
+		picture = M30547
+		foreign_minister = apologetic_clerk
+		start_date = 2000.1.1
+	}
+	30548 = {
+		name = "沃尔夫冈·林德纳"
+		ideology = market_liberal
+		loyalty = 1.00
+		picture = M30548
+		foreign_minister = sympathetic
+		start_date = 2000.1.1
+	}
+	30549 = {
+		name = "基多·威斯特威勒"
+		ideology = market_liberal
+		loyalty = 1.00
+		picture = M30549
+		foreign_minister = great_compromiser
+		head_of_government = naive_optimist
+		start_date = 2000.1.1
+	}
+	30550 = {
+		name = "赫尔曼·奥托·索尔姆斯"
+		ideology = market_liberal
+		loyalty = 0.75
+		picture = M30550
+		armament_minister = staunch_capitalist
+		minister_of_security = silent_lawyer
+		start_date = 2000.1.1
+	}
+	30551 = {
+		name = "莱纳 贝尔勒"
+		ideology = market_liberal
+		loyalty = 1.00
+		picture = M30551
+		head_of_government = industry_servant
+		minister_of_security = resource_industrialist
+		start_date = 2002.1.1
+	}
+	30552 = {
+		name = "萨克森-安哈尔特"
+		ideology = market_liberal
+		loyalty = 1.00
+		picture = M30552
+		foreign_minister = advertising_figure
+		start_date = 2000.1.1
+	}
+	30553 = {
+		name = "沃尔夫冈· E. 洛特林"
+		ideology = market_liberal
+		loyalty = 0.75
+		picture = M30553
+		foreign_minister = biased_intellectual 
+		start_date = 2000.1.1
+	}
+	30554 = {
+		name = "福尔克·维克尔"
+		ideology = social_conservative
+		loyalty = 0.75
+		picture = M30554
+		chief_of_staff = school_of_fire_support
+		start_date = 2000.1.1
+	}
+	30555 = {
+		name = "卢茨 费洛特"
+		ideology = social_democrat
+		loyalty = 0.75
+		picture = M30555
+		chief_of_navy = base_control_doctrine
+		start_date = 2000.1.1
+	}
+	30556 = {
+		name = "杰姆 厄兹代米尔"
+		ideology = left_wing_radical
+		loyalty = 0.75
+		picture = M30556
+		minister_of_security = compassionate_gentleman
+		foreign_minister = insignificant_layman
+		start_date = 2000.1.1
+	}
+	30557 = {
+		name = "克劳迪娅·罗斯"
+		ideology = left_wing_radical
+		loyalty = 0.50
+		picture = M30557
+		head_of_government = happy_amateur
+		minister_of_security = indecisive_politician
+		start_date = 2000.1.1
+	}
+	30558 = {
+		name = "尤尔根·特里廷"
+		ideology = left_wing_radical
+		loyalty = 0.50
+		picture = M30558
+		head_of_government = intellectualist
+		armament_minister = military_slob
+		minister_of_security = responsive_industrialist
+		start_date = 2000.1.1
+	}
+	30559 = {
+		name = "雷纳特 喀斯特"
+		ideology = left_wing_radical
+		loyalty = 1.00
+		picture = M30559
+		foreign_minister = hidden_leftist
+		start_date = 2000.1.1
+	}
+	30560 = {
+		name = "歌思诺 洛斯特"
+		ideology = leninist
+		loyalty = 1.00
+		picture = M30560
+		head_of_government = political_protege
+		start_date = 2000.1.1
+	}
+	30561 = {
+		name = "格雷戈尔?格斯 弗洛里安"
+		ideology = leninist
+		loyalty = 1.00
+		picture = M30561
+		head_of_government = naive_optimist
+		foreign_minister = iron_fisted_brute
+		armament_minister = planning_representative
+		start_date = 2000.1.1
+	}
+	30562 = {
+		name = "克劳斯·恩斯特"
+		ideology = leninist
+		loyalty = 1.00
+		picture = M30562
+		armament_minister = good_connections
+		head_of_state = committed_socialist
+		start_date = 2000.1.1
+	}
+	30563 = {
+		name = "奥斯卡·拉封丹"
+		ideology = leninist
+		loyalty = 1.00
+		picture = M30563
+		head_of_state = ruthless_powermonger
+		start_date = 2000.1.1
+	}
+	30564 = {
+		name = "亚历山大 多布林特"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M30564
+		foreign_minister = pro_american
+		minister_of_security = industry_servant
+		start_date = 2000.1.1
+	}
+	30565 = {
+		name = "安娜格 克兰普-卡伦鲍尔"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M30565
+		foreign_minister = happy_amateur
+		start_date = 2003.1.1
+	}
+	30566 = {
+		name = "阿曼 拉舍特"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M30566
+		armament_minister = responsive_industrialist
+		start_date = 2003.1.1
+	}
+	30567 = {
+		name = "芭芭拉 斯塔姆"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M30567
+		foreign_minister = good_connections
+		start_date = 2003.1.1
+	}
+	30568 = {
+		name = "贝亚特·默克"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M30568
+		foreign_minister = pro_american
+		start_date = 2003.1.1
+	}
+	30569 = {
+		name = "施密特"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M30569
+		armament_minister = die_hard_reformer
+		start_date = 2003.1.1
+	}
+	30570 = {
+		name = "利贝克内希特"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M30570
+		minister_of_security = intellectualist
+		start_date = 2003.1.1
+	}
+	30571 = {
+		name = "大卫 麦卡利斯特"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M30571
+		foreign_minister = compassionate_gentleman
+		minister_of_security = man_of_the_people
+		start_date = 2003.1.1
+	}
+	30572 = {
+		name = "埃德蒙德 施托伊伯"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M30572
+		head_of_government = weary_stiff_neck
+		minister_of_security = staunch_capitalist
+		start_date = 2000.1.1
+	}
+	30573 = {
+		name = "法兰克 汉高"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M30573
+		armament_minister = military_entrepreneur
+		start_date = 2003.1.1
+	}
+	30574 = {
+		name = "弗兰克 宝
+"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M30574
+		minister_of_security = staunch_capitalist
+		start_date = 2003.1.1
+	}
+	30575 = {
+		name = "弗朗茨 - 约瑟夫霍洛兹科姆普"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M30575
+		foreign_minister = hidden_leftist
+		start_date = 2003.1.1
+	}
+	30576 = {
+		name = "汉斯 - 彼得·弗里德里希"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M30576
+		minister_of_security = silent_workhorse
+		start_date = 2003.1.1
+	}
+	30577 = {
+		name = "赫尔曼 格"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M30577
+		foreign_minister = talented_and_concealed
+		minister_of_security = talented_liar
+		start_date = 2003.1.1
+	}
+	30578 = {
+		name = "霍斯特·泽霍费尔"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M30578
+		head_of_state = flamboyant_tough_guy
+		head_of_government = corporate_suit
+		minister_of_security = people_shamer
+		start_date = 2003.1.1
+	}
+	30579 = {
+		name = "伊尔莎 艾格纳"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M30579
+		minister_of_security = indecisive_politician
+		start_date = 2003.1.1
+	}
+	30580 = {
+		name = "弗里德里希·英戈"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M30580
+		minister_of_security = undistinguished_suit
+		armament_minister = untalented_nerd
+		start_date = 2003.1.1
+	}
+	30581 = {
+		name = "约阿希姆·赫尔曼"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M30581
+		foreign_minister = naive_optimist
+		start_date = 2003.1.1
+	}
+	30582 = {
+		name = "卢茨 施特拉特曼"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M30582
+		minister_of_security = fanatical_academic
+		start_date = 2003.1.1
+	}
+	30583 = {
+		name = "朱莉娅 克里克"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M30583
+		foreign_minister = sympathetic
+		start_date = 2006.1.1
+	}
+	30584 = {
+		name = "克里斯蒂娜 W.R"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M30584
+		foreign_minister = talented_liar
+		minister_of_security = backroom_backstabber
+		start_date = 2006.1.1
+	}
+	30585 = {
+		name = "洛伦茨 卡非尔"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M30585
+		armament_minister = guns_and_butter_doctrine
+		minister_of_security = ruthless_powermonger
+		start_date = 2003.1.1
+	}
+	30586 = {
+		name = "马库斯·韦恩伯格"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M30586
+		foreign_minister = autocratic_charmer
+		minister_of_security = smiling_oilman
+		start_date = 2003.1.1
+	}
+	30587 = {
+		name = "马库斯 席尔"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M30587
+		minister_of_security = ruthless_powermonger
+		armament_minister = hazardous_clean
+		start_date = 2006.1.1
+	}
+	30588 = {
+		name = "彼得·阿尔特迈尔"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M30588
+		minister_of_security = silent_lawyer
+		start_date = 2006.1.1
+	}
+	30589 = {
+		name = "彼得 拉姆绍尔"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M30589
+		minister_of_security = money_is_might
+		start_date = 2005.1.1
+	}
+	30590 = {
+		name = "赖默尔 伯"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M30590
+		minister_of_security = compassionate_gentleman
+		start_date = 2003.1.1
+	}
+	30591 = {
+		name = "罗纳尔德·泊费拉"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M30591
+		minister_of_security = naive_optimist
+		start_date = 2003.1.1
+	}
+	30592 = {
+		name = "斯塔尼斯拉夫 提里希"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M30592
+		armament_minister = industrial_beast
+		start_date = 2005.1.1
+	}
+	30593 = {
+		name = "赫尔穆特·科尔"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M30593
+		foreign_minister = pro_american
+		start_date = 2003.1.1
+	}
+	30594 = {
+		name = "托马斯 施特罗布尔"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M30594
+		foreign_minister = ideological_crusader
+		start_date = 2003.1.1
+	}
+	30595 = {
+		name = "托马斯 沃博尔"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M30595
+		armament_minister = undistinguished_suit
+		start_date = 2005.1.1
+	}
+	30596 = {
+		name = "乌尔里克·夏普"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M30596
+		foreign_minister = great_compromiser
+		minister_of_security = intellectualist
+		start_date = 2006.1.1
+	}
+	30597 = {
+		name = "乌尔 苏拉 冯 勒恩"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M30597
+		foreign_minister = indecisive_politician
+		minister_of_security = fanatical_academic
+		start_date = 2003.1.1
+	}
+	30598 = {
+		name = "沃尔克 波菲尔"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M30598
+		foreign_minister = tempered_speaker
+		start_date = 2003.1.1
+	}
+	30599 = {
+		name = "沃尔克 考德"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M30599
+		foreign_minister = embittered
+		minister_of_security = staunch_capitalist
+		start_date = 2003.1.1
+	}
+	30601 = {
+		name = "安德烈亚斯·斯托尔"
+		ideology = paternal_autocrat
+		loyalty = 1.00
+		picture = M30601
+		minister_of_security = pig_headed_isolationist
+		start_date = 2003.1.1
+	}
+	30602 = {
+		name = "帕特里克 沃斯恰克"
+		ideology = paternal_autocrat
+		loyalty = 1.00
+		picture = M30602
+		armament_minister = crooked_kleptocrat
+		start_date = 2003.1.1
+	}
+	30603 = {
+		name = "斯特凡·寇特"
+		ideology = paternal_autocrat
+		loyalty = 1.00
+		picture = M30603
+		minister_of_security = power_hungry_demagogue
+		start_date = 2003.1.1
+	}
+	30604 = {
+		name = "安娜 巴西奥罗麦"
+		ideology = stalinist
+		loyalty = 1.00
+		picture = M30604
+		foreign_minister = anti_imperialist
+		minister_of_intelligence = talented_and_concealed
+		start_date = 2003.1.1
+	}
+	30605 = {
+		name = "达格玛 图尔曼 - 卢茨"
+		ideology = stalinist
+		loyalty = 1.00
+		picture = M30605
+		minister_of_security = old_hippie
+		start_date = 2003.1.1
+	}
+	30606 = {
+		name = "迪特尔 菲巴井"
+		ideology = stalinist
+		loyalty = 1.00
+		picture = M30606
+		minister_of_security = silent_workhorse
+		start_date = 2003.1.1
+	}
+	30607 = {
+		name = "格特 付"
+		ideology = stalinist
+		loyalty = 1.00
+		picture = M30607
+		armament_minister = service_enforcer
+		start_date = 2003.1.1
+	}
+	30608 = {
+		name = "海因茨 温格尔"
+		ideology = stalinist
+		loyalty = 1.00
+		picture = M30608
+		foreign_minister = ideological_crusader
+		minister_of_intelligence = naive_optimist
+		start_date = 2003.1.1
+	}
+	30609 = {
+		name = "J.G 魏德曼"
+		ideology = stalinist
+		loyalty = 1.00
+		picture = M30609
+		foreign_minister = indecisive_politician
+		minister_of_security = prince_of_terror
+		start_date = 2003.1.1
+	}
+	30610 = {
+		name = "克劳斯 阿诺恰克"
+		ideology = stalinist
+		loyalty = 1.00
+		picture = M30610
+		head_of_government = tempered_speaker
+		minister_of_intelligence = industrial_spy
+		start_date = 2003.1.1
+	}
+	30611 = {
+		name = "克劳斯·瓦伦斯坦"
+		ideology = stalinist
+		loyalty = 1.00
+		picture = M30611
+		armament_minister = hazardous_clean
+		start_date = 2003.1.1
+	}
+	30612 = {
+		name = "莫妮卡恩格尔-戈特"
+		ideology = stalinist
+		loyalty = 1.00
+		picture = M30612
+		head_of_government = silent_lawyer
+		foreign_minister = happy_amateur
+		start_date = 2003.1.1
+	}
+	30613 = {
+		name = "彼得 博格沃特"
+		ideology = stalinist
+		loyalty = 1.00
+		picture = M30613
+		foreign_minister = back_stabber
+		start_date = 2003.1.1
+	}
+	30614 = {
+		name = "彼得 威斯弗宁"
+		ideology = stalinist
+		loyalty = 1.00
+		picture = M30614
+		minister_of_security = planning_representative
+		start_date = 2003.1.1
+	}
+	30615 = {
+		name = "莱因哈德 法克"
+		ideology = stalinist
+		loyalty = 1.00
+		picture = M30615
+		minister_of_security = resource_industrialist
+		start_date = 2003.1.1
+	}
+	30616 = {
+		name = "罗兰·梅斯特"
+		ideology = stalinist
+		loyalty = 1.00
+		picture = M30616
+		armament_minister = military_slob
+		start_date = 2003.1.1
+	}
+	30617 = {
+		name = "萨比娜 利奥波德"
+		ideology = stalinist
+		loyalty = 1.00
+		picture = M30617
+		foreign_minister = biased_intellectual
+		start_date = 2003.1.1
+	}
+	30618 = {
+		name = "斯特凡·恩格尔"
+		ideology = stalinist
+		loyalty = 1.00
+		picture = M30618
+		head_of_state = ruthless_powermonger
+		head_of_government = pig_headed_isolationist
+		start_date = 2003.1.1
+	}
+	30619 = {
+		name = "博里斯·帕尔默"
+		ideology = left_wing_radical
+		loyalty = 1.00
+		picture = M30619
+		foreign_minister = biased_intellectual
+		start_date = 2006.1.1
+	}
+	30620 = {
+		name = "科妮莉亚 赖德马勒"
+		ideology = left_wing_radical
+		loyalty = 1.00
+		picture = M30620
+		foreign_minister = sympathetic
+		start_date = 2006.1.1
+	}
+	30621 = {
+		name = "丹尼尔·科恩 - 本迪特"
+		ideology = left_wing_radical
+		loyalty = 1.00
+		picture = M30621
+		minister_of_security = political_protege
+		start_date = 2003.1.1
+	}
+	30622 = {
+		name = "汉斯 斯蒂勒"
+		ideology = left_wing_radical
+		loyalty = 1.00
+		picture = M30622
+		minister_of_security = political_specialist
+		start_date = 2006.1.1
+	}
+	30623 = {
+		name = "科瑞克 梅尔"
+		ideology = left_wing_radical
+		loyalty = 1.00
+		picture = M30623
+		foreign_minister = committed_socialist
+		start_date = 2006.1.1
+	}
+	30624 = {
+		name = "卡塔琳娜 冯格伯特"
+		ideology = left_wing_radical
+		loyalty = 1.00
+		picture = M30624
+		minister_of_security = silent_workhorse
+		start_date = 2003.1.1
+	}
+	30625 = {
+		name = "卡特琳·吉宁-埃克尔德"
+		ideology = left_wing_radical
+		loyalty = 1.00
+		picture = M30625
+		foreign_minister = pro_american
+		minister_of_security = laissez_faires_capitalist
+		start_date = 2003.1.1
+	}
+	30626 = {
+		name = "克斯廷 安德瑞斯"
+		ideology = left_wing_radical
+		loyalty = 1.00
+		picture = M30626
+		foreign_minister = unexperienced_diplomat
+		start_date = 2006.1.1
+	}
+	30627 = {
+		name = "奥米德 洛珀尔"
+		ideology = left_wing_radical
+		loyalty = 1.00
+		picture = M30627
+		armament_minister = old_hippie
+		start_date = 2003.1.1
+	}
+	30628 = {
+		name = "斯特芬·莱姆克"
+		ideology = left_wing_radical
+		loyalty = 1.00
+		picture = M30628
+		foreign_minister = apologetic_clerk
+		start_date = 2003.1.1
+	}
+	30629 = {
+		name = "塔里克 A.L-瓦齐尔"
+		ideology = left_wing_radical
+		loyalty = 1.00
+		picture = M30629
+		armament_minister = school_of_manoeuvre
+		start_date = 2003.1.1
+	}
+	30630 = {
+		name = "温弗里德·克莱切曼"
+		ideology = left_wing_radical
+		loyalty = 1.00
+		picture = M30630
+		head_of_government = popular_figurehead
+		minister_of_security = administrative_genius
+		start_date = 2003.1.1
+	}
+	30631 = {
+		name = "阿卜杜勒卡德尔·班格瑞"
+		ideology = national_socialist
+		loyalty = 1.00
+		picture = M30631
+		head_of_government = power_hungry_demagogue
+		minister_of_security = prince_of_terror
+		start_date = 2003.1.1
+	}
+	30632 = {
+		name = "比拉尔 威尔伯特"
+		ideology = national_socialist
+		loyalty = 1.00
+		picture = M30632
+		head_of_state = devout_muslim
+		start_date = 2003.1.1
+	}
+	30633 = {
+		name = "比拉特 库尔特"
+		ideology = national_socialist
+		loyalty = 1.00
+		picture = M30633
+		minister_of_intelligence = talented_liar
+		foreign_minister = barking_buffoon
+		start_date = 2003.1.1
+	}
+	30634 = {
+		name = "艾赫特 托卡"
+		ideology = national_socialist
+		loyalty = 1.00
+		picture = M30634
+		minister_of_security = back_stabber
+		minister_of_intelligence = anti_imperialist
+		start_date = 2003.1.1
+	}
+	30635 = {
+		name = "利兹 威尔伯特"
+		ideology = national_socialist
+		loyalty = 1.00
+		picture = M30635
+		foreign_minister = great_compromiser
+		start_date = 2003.1.1
+	}
+	30636 = {
+		name = "萨利哈米 奥古兹"
+		ideology = national_socialist
+		loyalty = 1.00
+		picture = M30636
+		minister_of_security = people_shamer
+		foreign_minister = apologetic_clerk
+		start_date = 2003.1.1
+	}
+	30637 = {
+		name = "萨米尔德 奥姆瑞"
+		ideology = national_socialist
+		loyalty = 1.00
+		picture = M30637
+		armament_minister = military_slob
+		start_date = 2003.1.1
+	}
+	30638 = {
+		name = "巴登 符腾堡"
+		ideology = market_liberal
+		loyalty = 1.00
+		picture = M30638
+		minister_of_security = weary_stiff_neck
+		start_date = 2003.1.1
+	}
+	30639 = {
+		name = "丹尼尔 巴尔"
+		ideology = market_liberal
+		loyalty = 1.00
+		picture = M30639
+		foreign_minister = sympathetic
+		minister_of_security = corporate_suit
+		start_date = 2006.1.1
+	}
+	30640 = {
+		name = "狄克 尼伯尔"
+		ideology = market_liberal
+		loyalty = 1.00
+		picture = M30640
+		foreign_minister = money_is_might
+		start_date = 2003.1.1
+	}
+	30641 = {
+		name = "J.G 万 埃森"
+		ideology = market_liberal
+		loyalty = 1.00
+		picture = M30641
+		armament_minister = military_entrepreneur
+		start_date = 2005.1.1
+	}
+	30642 = {
+		name = "J.G-乌韦·哈恩"
+		ideology = market_liberal
+		loyalty = 1.00
+		picture = M30642
+		minister_of_security = economic_expert
+		start_date = 2003.1.1
+	}
+	30643 = {
+		name = "帕特里克 丁"
+		ideology = market_liberal
+		loyalty = 1.00
+		picture = M30643
+		foreign_minister = political_specialist
+		minister_of_security = political_protege
+		start_date = 2003.1.1
+	}
+	30644 = {
+		name = "菲利普 瑞尔"
+		ideology = market_liberal
+		loyalty = 1.00
+		picture = M30644
+		head_of_government = laissez_faires_capitalist
+		foreign_minister = talented_and_concealed
+		start_date = 2006.1.1
+	}
+	30645 = {
+		name = "萨宾 劳伊特豪瑟-施纳伦博格"
+		ideology = market_liberal
+		loyalty = 1.00
+		picture = M30645
+		minister_of_security = barking_buffoon
+		start_date = 2003.1.1
+	}
+	30646 = {
+		name = "图林 根"
+		ideology = market_liberal
+		loyalty = 1.00
+		picture = M30646
+		armament_minister = logistics_specialist
+		start_date = 2003.1.1
+	}
+	30647 = {
+		name = "沃尔克 威尔森"
+		ideology = market_liberal
+		loyalty = 1.00
+		picture = M30647
+		foreign_minister = ideological_crusader
+		minister_of_security = laissez_faires_capitalist
+		start_date = 2003.1.1
+	}
+	30648 = {
+		name = "沃尔夫冈 库帕克"
+		ideology = market_liberal
+		loyalty = 1.00
+		picture = M30648
+		minister_of_security = tempered_speaker
+		start_date = 2003.1.1
+	}
+	30649 = {
+		name = "阿克塞尔 托斯特"
+		ideology = leninist
+		loyalty = 1.00
+		picture = M30649
+		minister_of_security = planning_representative
+		start_date = 2003.1.1
+	}
+	30650 = {
+		name = "贝尔恩德·里克辛尔"
+		ideology = leninist
+		loyalty = 1.00
+		picture = M30650
+		foreign_minister = hidden_leftist
+		start_date = 2003.1.1
+	}
+	30651 = {
+		name = "博多 梅罗夫"
+		ideology = leninist
+		loyalty = 1.00
+		picture = M30651
+		minister_of_security = silent_lawyer
+		start_date = 2003.1.1
+	}
+	30652 = {
+		name = "卡伦 莱"
+		ideology = leninist
+		loyalty = 1.00
+		picture = M30652
+		foreign_minister = advertising_figure
+		start_date = 2003.1.1
+	}
+	30654 = {
+		name = "法里纳 沃兹尼科"
+		ideology = leninist
+		loyalty = 1.00
+		picture = M30654
+		foreign_minister = anti_imperialist
+		start_date = 2003.1.1
+	}
+	30655 = {
+		name = "汉斯·莫德罗"
+		ideology = leninist
+		loyalty = 1.00
+		picture = M30655
+		armament_minister = logistics_specialist
+		start_date = 2003.1.1
+	}
+	30656 = {
+		name = "赫尔米特·马尔科弗"
+		ideology = leninist
+		loyalty = 1.00
+		picture = M30656
+		minister_of_security = old_hippie
+		start_date = 2003.1.1
+	}
+	30657 = {
+		name = "扬?凡 阿肯"
+		ideology = leninist
+		loyalty = 1.00
+		picture = M30657
+		foreign_minister = biased_intellectual
+		start_date = 2006.1.1
+	}
+	30658 = {
+		name = "卡提亚·基平"
+		ideology = leninist
+		loyalty = 1.00
+		picture = M30658
+		foreign_minister = ideological_crusader
+		start_date = 2006.1.1
+	}
+	30659 = {
+		name = "克努特 克劳斯维奇"
+		ideology = leninist
+		loyalty = 1.00
+		picture = M30659
+		minister_of_security = autocratic_charmer
+		start_date = 2003.1.1
+	}
+	30660 = {
+		name = "洛萨 比斯基"
+		ideology = leninist
+		loyalty = 1.00
+		picture = M30660
+		head_of_government = anti_imperialist
+		armament_minister = hazardous_clean
+		start_date = 2003.1.1
+	}
+	30661 = {
+		name = "佩特拉 鲍尔"
+		ideology = leninist
+		loyalty = 1.00
+		picture = M30661
+		foreign_minister = untalented_nerd
+		start_date = 2006.1.1
+	}
+	30662 = {
+		name = "拉朱 沙尔马"
+		ideology = leninist
+		loyalty = 1.00
+		picture = M30662
+		minister_of_security = power_hungry_demagogue
+		start_date = 2003.1.1
+	}
+	30663 = {
+		name = "里科 格伯哈特"
+		ideology = leninist
+		loyalty = 1.00
+		picture = M30663
+		minister_of_security = backroom_backstabber
+		start_date = 2003.1.1
+	}
+	30664 = {
+		name = "莎拉 瓦根克内西特"
+		ideology = leninist
+		loyalty = 1.00
+		picture = M30664
+		head_of_government = popular_figurehead
+		minister_of_security = committed_socialist
+		start_date = 2006.1.1
+	}
+	30665 = {
+		name = "斯特凡·路德维希"
+		ideology = leninist
+		loyalty = 1.00
+		picture = M30665
+		minister_of_security = barking_buffoon
+		start_date = 2003.1.1
+	}
+	30666 = {
+		name = "安德烈 那勒斯"
+		ideology = social_democrat
+		loyalty = 1.00
+		picture = M30666
+		foreign_minister = great_compromiser
+		start_date = 2006.1.1
+	}
+	30667 = {
+		name = "艾丹·厄茨奥乌茨"
+		ideology = social_democrat
+		loyalty = 1.00
+		picture = M30667
+		foreign_minister = advertising_figure
+		start_date = 2006.1.1
+	}
+	30668 = {
+		name = "克里斯朵夫 马琪"
+		ideology = social_democrat
+		loyalty = 1.00
+		picture = M30668
+		minister_of_security = undistinguished_suit
+		start_date = 2003.1.1
+	}
+	30669 = {
+		name = "埃尔文 塞勒陵"
+		ideology = social_democrat
+		loyalty = 1.00
+		picture = M30669
+		minister_of_security = barking_buffoon 
+		start_date = 2003.1.1
+	}
+	30670 = {
+		name = "弗洛里安·普罗诺德"
+		ideology = social_democrat
+		loyalty = 1.00
+		picture = M30670
+		minister_of_security = flamboyant_tough_guy
+		start_date = 2003.1.1
+	}
+	30671 = {
+		name = "弗朗茨 墨菲特林"
+		ideology = social_democrat
+		loyalty = 1.00
+		picture = M30671
+		head_of_government = weary_stiff_neck
+		start_date = 2003.1.1
+	}
+	30672 = {
+		name = "格西娜·施万"
+		ideology = social_democrat
+		loyalty = 1.00
+		picture = M30672
+		head_of_state = die_hard_reformer
+		start_date = 2003.1.1
+	}
+	30673 = {
+		name = "汉娜洛勒 克拉夫特"
+		ideology = social_democrat
+		loyalty = 1.00
+		picture = M30673
+		minister_of_security = man_of_the_people
+		start_date = 2003.1.1
+	}
+	30674 = {
+		name = "海科 马斯"
+		ideology = social_democrat
+		loyalty = 1.00
+		picture = M30674
+		armament_minister = air_reformer
+		start_date = 2006.1.1
+	}
+	30675 = {
+		name = "亨博图斯 黑尔"
+		ideology = social_democrat
+		loyalty = 1.00
+		picture = M30675
+		foreign_minister = pro_american
+		start_date = 2003.1.1
+	}
+	30676 = {
+		name = "延斯 本森"
+		ideology = social_democrat
+		loyalty = 1.00
+		picture = M30676
+		armament_minister = infantry_proponent
+		start_date = 2003.1.1
+	}
+	30677 = {
+		name = "克劳斯·沃维莱特"
+		ideology = social_democrat
+		loyalty = 1.00
+		picture = M30677
+		minister_of_security = popular_figurehead
+		start_date = 2003.1.1
+	}
+	30678 = {
+		name = "玛努艾拉 施维斯格"
+		ideology = social_democrat
+		loyalty = 1.00
+		picture = M30678
+		foreign_minister = autocratic_charmer
+		start_date = 2006.1.1
+	}
+	30679 = {
+		name = "马丁·舒尔茨"
+		ideology = social_democrat
+		loyalty = 1.00
+		picture = M30679
+		foreign_minister = talented_and_concealed
+		start_date = 2003.1.1
+	}
+	30680 = {
+		name = "奥拉夫 舒尔茨"
+		ideology = social_democrat
+		loyalty = 1.00
+		picture = M30680
+		minister_of_security = ruthless_powermonger
+		start_date = 2003.1.1
+	}
+	30681 = {
+		name = "托尔斯滕 索尔-格贝"
+		ideology = social_democrat
+		loyalty = 1.00
+		picture = M30681
+		foreign_minister = the_cloak_n_dagger_schemer
+		start_date = 2006.1.1
+	}
+	30682 = {
+		name = "托尔斯滕 艾比格"
+		ideology = social_democrat
+		loyalty = 1.00
+		picture = M30682
+		armament_minister = air_superiority_doctrine
+		start_date = 2003.1.1
+	}
+	30683 = {
+		name = "沃尔夫 冈蒂尔泽"
+		ideology = social_democrat
+		loyalty = 1.00
+		picture = M30683
+		minister_of_security = industrial_specialist
+		start_date = 2003.1.1
+	}
+	30684 = {
+		name = "珀尔 斯迪波尔克"
+		ideology = social_democrat
+		loyalty = 1.00
+		picture = M30684
+		head_of_government = tempered_speaker
+		start_date = 2003.1.1
+	}
+	30685 = {
+		name = "汉斯 - 彼得·冯·基希巴赫"
+		ideology = social_democrat
+		loyalty = 1.00
+		picture = M30685
+		chief_of_staff = tank_proponent
+		start_date = 2003.1.1
+	}
+	30686 = {
+		name = "哈拉尔特·库雅特"
+		ideology = social_democrat
+		loyalty = 1.00
+		picture = M30686
+		chief_of_staff = master_of_skies
+		start_date = 2003.1.1
+	}
+	30687 = {
+		name = "约翰 - 格奥尔格多拉"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M30687
+		chief_of_staff = air_reformer
+		start_date = 2003.1.1
+	}
+	30688 = {
+		name = "克劳斯·瑙曼"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M30688
+		chief_of_staff = school_of_defence
+		start_date = 2003.1.1
+	}
+	30689 = {
+		name = "彼得 索契泽格"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M30689
+		chief_of_staff = strategic_air_proponent
+		start_date = 2003.1.1
+	}
+	30690 = {
+		name = "雷纳 费斯特"
+		ideology = social_democrat
+		loyalty = 1.00
+		picture = M30690
+		chief_of_staff = battle_fleet_proponent
+		start_date = 2003.1.1
+	}
+	30691 = {
+		name = "沃尔夫冈·施奈德汉"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M30691
+		chief_of_staff = armoured_spearhead_doctrine
+		start_date = 2003.1.1
+	}
+	30692 = {
+		name = "格特 古德里安"
+		ideology = social_democrat
+		loyalty = 1.00
+		picture = M30692
+		chief_of_army = school_of_mass_combat
+		start_date = 2003.1.1
+	}
+	30693 = {
+		name = "布鲁诺 卡斯道夫"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M30693
+		chief_of_army = school_of_fire_support
+		start_date = 2003.1.1
+	}
+	30694 = {
+		name = "汉斯 - 奥托·布德"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M30694
+		chief_of_army = guns_and_butter_doctrine
+		start_date = 2003.1.1
+	}
+	30695 = {
+		name = "汉斯 - 维尔纳·弗里茨"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M30695
+		chief_of_army = elastic_defence_doctrine
+		start_date = 2003.1.1
+	}
+	30696 = {
+		name = "赫尔穆特·维尔曼"
+		ideology = social_democrat
+		loyalty = 1.00
+		picture = M30696
+		chief_of_army = logistics_specialist
+		start_date = 2003.1.1
+	}
+	30697 = {
+		name = "马库斯 克里普"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M30697
+		chief_of_army = school_of_psychology
+		start_date = 2003.1.1
+	}
+	30698 = {
+		name = "莱纳 科尔夫"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M30698
+		chief_of_army = organisation_genius
+		start_date = 2003.1.1
+	}
+	30699 = {
+		name = "莱因哈德·卡默勒"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M30699
+		chief_of_army = air_to_ground_proponent
+		start_date = 2003.1.1
+	}
+	30700 = {
+		name = "理查德 罗安斯"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M30700
+		chief_of_army = tank_proponent
+		start_date = 2003.1.1
+	}
+	30701 = {
+		name = "格哈德·W·伯克"
+		ideology = social_democrat
+		loyalty = 1.00
+		picture = M30701
+		chief_of_air = air_superiority_proponent
+		start_date = 2003.1.1
+	}
+	30702 = {
+		name = "格尔德 比朔夫"
+		ideology = social_democrat
+		loyalty = 1.00
+		picture = M30702
+		chief_of_air = naval_aviation_doctrine
+		start_date = 2003.1.1
+	}
+	30703 = {
+		name = "迪特尔 拉斯科瑞恩特"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M30703
+		chief_of_air = army_aviation_doctrine
+		start_date = 2003.1.1
+	}
+	30704 = {
+		name = "汉斯 - 约阿希姆·舒伯特"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M30704
+		chief_of_air = carpet_bombing_doctrine
+		start_date = 2003.1.1
+	}
+	30705 = {
+		name = "卡尔 迈耶"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M30705
+		chief_of_air = strategic_air_proponent
+		start_date = 2003.1.1
+	}
+	30706 = {
+		name = "克劳斯-彼得·施蒂格利茨"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M30706
+		chief_of_air = master_of_skies
+		start_date = 2003.1.1
+	}
+	30707 = {
+		name = "罗尔夫·H. 博特兹"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M30707
+		chief_of_air = air_to_sea_proponent
+		start_date = 2003.1.1
+	}
+	30708 = {
+		name = "沃尔夫冈 伯恩"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M30708
+		chief_of_air = air_reformer
+		start_date = 2003.1.1
+	}
+	30709 = {
+		name = "安德烈亚斯·克劳斯"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M30709
+		chief_of_navy = submarine_proponent
+		start_date = 2003.1.1
+	}
+	30710 = {
+		name = "戈特弗里德·霍克"
+		ideology = social_democrat
+		loyalty = 1.00
+		picture = M30710
+		chief_of_navy = destroyer_lover
+		start_date = 2003.1.1
+	}
+	30711 = {
+		name = "汉斯 劳森"
+		ideology = social_democrat
+		loyalty = 1.00
+		picture = M30711
+		chief_of_navy = open_seas_doctrine
+		start_date = 2003.1.1
+	}
+	30712 = {
+		name = "朗格 海因里希"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M30712
+		chief_of_navy = battle_fleet_proponent
+		start_date = 2003.1.1
+	}
+	30713 = {
+		name = "约阿希姆 R.L.E"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M30713
+		chief_of_navy = power_projection_doctrine
+		start_date = 2003.1.1
+	}
+	30714 = {
+		name = "沃尔夫冈·E.洛庭"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M30714
+		chief_of_navy = indirect_approach_doctrine
+		start_date = 2003.1.1
+	}
+	30715 = {
+		name = "爱利卡 斯坦贝奇"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M30715
+		head_of_government = iron_fisted_brute
+		minister_of_security = tempered_speaker
+		start_date = 2003.1.1
+	}
+	30716 = {
+		name = "阿明·哈森普什"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M30716
+		minister_of_intelligence = technical_specialist
+		start_date = 2003.1.1
+	}
+	30717 = {
+		name = "阿恩特 冯尔唐格 冯 洛林齐霍芬"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M30717
+		minister_of_intelligence = political_specialist
+		start_date = 2003.1.1
+	}
+	30718 = {
+		name = "奥格斯特 哈宁"
+		ideology = social_democrat
+		loyalty = 1.00
+		picture = M30718
+		minister_of_intelligence = theoretical_scientist
+		start_date = 2003.1.1
+	}
+	30720 = {
+		name = "格奥尔格·冯·布兰迪斯"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M30720
+		minister_of_intelligence = naval_intelligence_specialist
+		start_date = 2003.1.1
+	}
+	30721 = {
+		name = "格哈德·辛德勒"
+		ideology = market_liberal
+		loyalty = 1.00
+		picture = M30721
+		minister_of_intelligence = technical_specialist
+		start_date = 2003.1.1
+	}
+	30722 = {
+		name = "格 安德烈亚斯·冯·格瑞"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M30722
+		minister_of_intelligence = industrial_spy
+		start_date = 2006.1.1
+	}
+	30723 = {
+		name = "圭多 麦尔"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M30723
+		minister_of_intelligence = compassionate_gentleman
+		start_date = 2003.1.1
+	}
+	30724 = {
+		name = "诺伯特·施蒂尔"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M30724
+		minister_of_intelligence = political_specialist
+		start_date = 2003.1.1
+	}
+	30725 = {
+		name = "罗格·冯·弗里奇-森尔哈沃森"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M30725
+		minister_of_intelligence = political_specialist
+		start_date = 2003.1.1
+	}
+	30726 = {
+		name = "鲁道夫·亚当"
+		ideology = social_democrat
+		loyalty = 1.00
+		picture = M30726
+		minister_of_intelligence = industrial_specialist
+		start_date = 2003.1.1
+	}
+	30727 = {
+		name = "维尔纳·奥伯r"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M30727
+		minister_of_intelligence = technical_specialist
+		start_date = 2003.1.1
+	}
+	30728 = {
+		name = "沃纳 索契沃"
+		ideology = social_democrat
+		loyalty = 1.00
+		picture = M30728
+		minister_of_intelligence = technical_specialist
+		start_date = 2003.1.1
+	}
+	30729 = {
+		name = "彼得 索纳丹"
+		ideology = leninist
+		loyalty = 1.00
+		picture = M30729
+		head_of_state = man_of_the_people
+		start_date = 2003.1.1
+	}
+}

@@ -1,0 +1,7 @@
+ owner = USA
+
+ controller = USA
+add_core = IRQ
+infra = 5
+crude_oil = 5.00
+points = 1

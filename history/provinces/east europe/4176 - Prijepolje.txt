@@ -1,0 +1,6 @@
+owner = SER
+controller = SER
+add_core = SER
+
+infra = 7
+air_base = 4 #Uzice airbase

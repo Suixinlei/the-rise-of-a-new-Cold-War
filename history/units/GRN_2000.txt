@@ -1,0 +1,5 @@
+theatre = {
+	name = "Grenada Defence Force"
+	location = 314
+	regiment = { type = hq_brigade name = "Grenada Defence Force" historical_model = 0 }
+}

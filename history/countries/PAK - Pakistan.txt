@@ -1,0 +1,63 @@
+capital = 9289
+government = federation
+ideology = paternal_autocrat
+alignment = { x = -200 y = 200 }
+neutrality = 80
+national_unity = 80
+head_of_state = 72223
+head_of_government = 72210 
+foreign_minister = 72211 
+armament_minister = 72213 
+minister_of_security = 72212 
+minister_of_intelligence = 72222 
+chief_of_staff = 72216 
+chief_of_army = 72215 
+chief_of_navy = 72218 
+chief_of_air = 72220 
+oob = "PAK_2000.txt"
+
+popularity = { 
+	national_socialist = 11
+	fascistic = 0
+	paternal_autocrat = 26
+	social_conservative = 9
+	market_liberal = 0
+	social_liberal = 3
+	social_democrat = 26
+	left_wing_radical = 0
+	leninist = 1
+	stalinist = 0
+}
+
+organization = { 
+	national_socialist = 33
+	fascistic = 0
+	paternal_autocrat = 78
+	social_conservative = 28
+	market_liberal = 0
+	social_liberal = 9
+	social_democrat = 78
+	left_wing_radical = 0
+	leninist = 3
+	stalinist = 0
+}
+
+conscription_policy = volunteer_army
+press_laws = free_press
+mobilisation_level = peace_time
+civil_laws = open_society
+economic_policy = limit_intervention
+service_length = six_months
+
+
+in_war = 1
+industrial_facilities = 1
+weapon_design = 1
+automatic_weapons = 1
+bulletproof_clothes = 1
+anti_tank_mines = 1
+anti_tank_rocket = 1
+the_fuselage_design = 1
+main_battle_tank = 1
+artillery_troops = 1
+ship_hull = 1

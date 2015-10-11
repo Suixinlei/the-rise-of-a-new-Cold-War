@@ -1,0 +1,7 @@
+owner = NAM
+controller = NAM
+add_core = NAM
+infra = 6
+manpower = 0.8
+points = 1
+leadership = 1.10

@@ -1,0 +1,6 @@
+owner = ENG
+controller = ENG
+add_core = ENG
+add_core = SCO
+manpower = 0.5
+infra = 7

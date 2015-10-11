@@ -1,0 +1,14 @@
+owner = SPR
+controller = SPR
+add_core = SPR
+industy = 1
+manpower = 0.5
+infra = 8
+rare_materials = 2.00
+
+infra = 8
+
+air_base = 1 #Bilbao airport
+naval_base = 10 #Bilbao port
+points = 1
+industry = 3

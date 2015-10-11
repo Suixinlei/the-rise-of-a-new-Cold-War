@@ -1,0 +1,578 @@
+# If you add types, and use those tags, do not change them without changing everywhere they are used.
+# Uses all 'modifiers' possible thats exported as a Modifier.
+
+biased_intellectual = {
+	suseptibility_comintern = 0.20
+} 
+
+ideological_crusader = {
+	drift_speed = 0.05
+        threat_impact = 0.1
+} 
+
+apologetic_clerk = {
+	drift_speed = -0.05
+        threat_impact = -0.1
+} 
+
+iron_fisted_brute = {
+	threat_impact = 0.05
+	
+        ruling_party_support = 0.1
+} 
+great_compromiser = {
+	suseptibility_axis = 0.2
+} 
+
+general_staffer = {
+	peace_offmap_intel = 0.1
+        espionage_bonus = 0.05
+} 
+
+the_cloak_n_dagger_schemer = {
+	suseptibility_allies = 0.2
+} 
+
+administrative_genius = {
+	global_ic = 0.1
+        dissent = -0.05
+} 
+
+resource_industrialist = {
+	global_resources = 0.1 
+	
+} 
+
+laissez_faires_capitalist = {
+	war_consumer_goods_demand = -0.05
+	peace_consumer_goods_demand = -0.05 
+} 
+
+theoretical_scientist = {
+	decay = { nuclear_physics = -0.25 }
+	decay = { jetengine_theory = -0.25 }
+} 
+military_entrepreneur = {
+	global_supplies = 0.2
+        supply_throughput = 0.1
+} 
+
+battle_fleet_proponent = {
+	decay = { naval_engineering = -0.25 }
+        naval_build_speed = -0.05
+} 
+
+submarine_proponent = {
+	decay = { submarine_engineering = -0.25 }
+        convoy_raid = 0.2
+} 
+
+tank_proponent = {
+	decay = { automotive_theory = -0.25 }
+	decay = { mobile_theory = -0.25 }
+        tank_build_speed = -0.05
+} 
+
+infantry_proponent = {
+	decay = { infantry_theory = -0.25 }
+	decay = { militia_theory = -0.25 }
+        land_build_speed = -0.05
+} 
+
+air_to_ground_proponent = {
+	decay = { aeronautic_engineering = -0.20 }
+	decay = { single_engine_aircraft_practical = -0.05 }
+} 
+
+air_to_sea_proponent = {
+	decay = { naval_engineering = -0.20 }
+	decay = { twin_engine_aircraft_practical = -0.05 }
+} 
+
+strategic_air_proponent = {
+	decay = { aeronautic_engineering = -0.20 }
+	decay = { four_engine_aircraft_practical = -0.05 }
+} 
+
+silent_lawyer = {
+	neutrality_change = -0.01
+        eace_consumer_goods_demand = -0.05
+}
+
+compassionate_gentleman = {
+	national_unity_effect = 0.1
+        suseptibility = 0.1
+} 
+
+crime_fighter = {
+	counter_espionage = 0.1
+        global_revolt_risk = -0.1
+} 
+
+prince_of_terror = {
+	ruling_party_support = 0.15
+	partisan_efficiency = 10
+} 
+
+back_stabber = {
+	dissent = 0.01
+
+        counter_espionage = 0.1	
+} 
+
+man_of_the_people = {
+	global_leadership_modifier = 0.05
+        ruling_party_support = 0.05
+} 
+
+efficient_sociopath = {
+	counter_intelligence = 0.1
+        counter_espionage = 0.2
+} 
+
+technical_specialist = {
+	espionage_bonus = 0.10
+} 
+
+research_specialist = {
+	offmap_land_intel = 0.2
+	offmap_naval_intel = 0.05
+} 
+
+political_specialist = {
+	offmap_political_intel = 0.2
+	offmap_land_intel = 0.05
+} 
+
+dismal_enigma = {
+	offmap_land_intel = 0.1
+	offmap_naval_intel = 0.1
+} 
+
+industrial_specialist = {
+	offmap_industry_intel = 0.2
+	offmap_political_intel = 0.05
+} 
+
+naval_intelligence_specialist = {
+	offmap_naval_intel = 0.2
+	offmap_land_intel = 0.05
+} 
+
+school_of_manoeuvre = {
+	combat_movement_speed = 0.1
+        soft_attack = 0.02
+} 
+
+school_of_fire_support = {
+	attack_reinforce_chance = 0.1
+        org_regain = 0.05
+} 
+
+school_of_mass_combat = {
+	unit_recruitment_time = -0.05
+        global_manpower_modifier = 0.05
+} 
+
+school_of_psychology = {
+	org_regain = 0.1
+        reinforcement_bonus = 0.05
+} 
+
+school_of_defence = {
+	defend_reinforce_chance = 0.1
+        hard_attack = 0.02
+} 
+
+logistics_specialist = {
+	supply_throughput = 0.1
+        supply_consumption = -0.1
+}
+
+elastic_defence_doctrine = {
+	decay = { mobile_practical = -0.25 }
+        org_regain = 0.05
+} 
+
+static_defence_doctrine = {
+	decay = { infantry_practical = -0.25 }
+	decay = { militia_practical = -0.25 }
+} 
+
+decisive_battle_doctrine = {
+	decay = { artillery_practical = -0.25 }
+        defend_reinforce_chance = 0.05
+} 
+
+armoured_spearhead_doctrine = {
+	tank_build_speed = -0.05
+        hard_attack = 0.05
+} 
+
+guns_and_butter_doctrine = {
+	supply_consumption = -0.10
+        global_supplies = 0.1
+} 
+
+open_seas_doctrine = {
+	decay = { destroyer_practical = -0.15 }
+        decay = { cruiser_practical = -0.15 }
+} 
+
+decisive_naval_battle_doctrine = { 
+	decay = { destroyer_practical = -0.15 }
+         decay = { carrier_practical = -0.15 }	
+
+} 
+
+power_projection_doctrine = {
+	decay = { carrier_practical = -0.25 }
+        naval_base_efficiency = 0.05
+} 
+
+indirect_approach_doctrine = {
+	decay = { destroyer_practical = -0.25 }
+        naval_organisation = 0.05
+} 
+
+base_control_doctrine = {
+	naval_base_efficiency = 0.1
+        naval_organisation = 0.05
+} 
+
+air_superiority_doctrine = {
+	decay = { single_engine_aircraft_practical = -0.25 }
+        air_organisation = 0.05
+} 
+
+naval_aviation_doctrine = {
+	decay = { twin_engine_aircraft_practical = -0.15 }
+	decay = { naval_engineering = -0.1 }
+} 
+
+army_aviation_doctrine = {
+	decay = { twin_engine_aircraft_practical = -0.25 }
+        ground_attack = 0.05
+} 
+
+carpet_bombing_doctrine = {
+	decay = { four_engine_aircraft_practical = -0.25 }
+        defend_reinforce_chance = 0.1
+} 
+
+vertical_envelopment_doctrine = {
+	decay = { strategic_air_focus = -0.10 }
+        ground_attack = 0.05 
+} 
+
+undistinguished_suit = {
+	
+        ruling_party_support = 0.05
+} 
+
+air_superiority_proponent = {
+	decay = { fighter_focus = -0.10 }
+        air_organisation = 0.1
+} 
+
+corrupt_kleptocrat = {
+	global_supplies = -0.1
+	
+        ruling_party_support = 0.1
+} 
+
+crooked_kleptocrat = {
+	global_ic = -0.03
+	ruling_party_support = 0.1
+ 
+
+power_hungry_demagogue = {
+	national_unity_effect = -0.1
+	
+        espionage_bonus = 0.05
+} 
+
+barking_buffoon = {
+	national_unity_effect = 0.1
+	
+        peace_offmap_intel = 0.05
+} 
+
+stern_imperialist = {
+	global_ic = 0.05
+        global_money = 0.05
+} 
+
+ruthless_powermonger = {
+	land_organisation = -0.05
+	national_unity_effect = -0.2
+} 
+
+autocratic_charmer = {
+	global_ic = -0.05
+	war_consumer_goods_demand = -0.5
+} 
+
+resigned_generalissimo = {
+	global_supplies = 0.1
+	global_money = -0.1
+} 
+
+benevolent_gentleman = {
+	suseptibility = -0.05
+	
+        org_regain = 0.05
+} 
+
+weary_stiff_neck = {
+	suseptibility = 0.05
+	org_regain = 0.05
+} 
+
+insignificant_layman = {
+	global_money = 0.05
+	war_consumer_goods_demand = 0.025 
+} 
+
+die_hard_reformer = {
+	industrial_efficiency = 0.03
+        global_ic = 0.02
+} 
+pig_headed_isolationist = {
+	suseptibility = -0.5
+	neutrality_change = 0.01
+} 
+
+popular_figurehead = {
+	ruling_party_support = 0.1
+        global_revolt_risk = -0.05
+}
+
+silent_workhorse = {
+	global_ic = 0.05
+        research_efficiency = 0.05
+        
+} 
+naive_optimist = {
+	threat_impact = -0.1
+        counter_espionage = -0.05
+} 
+flamboyant_tough_guy = {
+	drift_speed = 0.05
+        threat_impact = -0.1
+} 
+
+happy_amateur = {
+	global_money = -0.05
+	peace_consumer_goods_demand = -0.02
+} 
+backroom_backstabber = {
+	global_ic = -0.05
+	ruling_party_support = 0.1
+} 
+
+smiling_oilman = {
+	global_crude_oil = 0.05
+        supply_throughput = 0.05
+} 
+
+old_general = {
+	land_organisation = 0.05
+        land_build_speed = -0.05
+} 
+
+old_admiral = {
+	naval_organisation = 0.1
+        naval_build_speed = -0.05	
+} 
+
+old_air_marshal = {
+	air_organisation = 0.1
+        air_build_speed = -0.05	
+} 
+
+political_protege = {
+	ruling_party_support = 0.05
+	peace_consumer_goods_demand = -0.025 	
+} 
+ambitious_union_boss = {
+	war_consumer_goods_demand = 0.05
+	dissent = -0.05	
+} 
+corporate_suit = {
+	global_money = 0.1
+        global_ic = 0.02
+}  
+#################################### New Traits, by Rolfhirsch , translated by Niko92                                          
+money_is_might = {
+	global_money = 0.2
+        supply_throughput = -0.1
+}
+advertising_figure = {
+	ruling_party_support = 0.15
+}
+service_enforcer = {
+	global_manpower_modifier = 0.05
+        ruling_party_support = -0.05
+}
+indecisive_politician = {
+	drift_speed = 0.25
+}
+talented_recruiter = {
+	global_manpower_modifier = 0.10
+}
+staunch_capitalist = {
+        global_ic = 0.15
+	global_money = 0.05
+}
+old_hippie = {
+        global_ic = -0.15
+        suseptibility_comintern = 0.10
+}
+devout_muslim = {
+        dissent = -0.05
+        national_unity_effect = 0.05
+        suseptibility_axis = 0.1
+}
+economic_expert = {
+        global_ic = 0.05
+        industrial_efficiency = 0.05
+}
+organisation_genius = {
+	land_organisation = 0.08
+}
+majestic = {
+	ruling_party_support = 0.1
+        national_unity_effect = 0.05
+}
+embittered = {
+	ruling_party_support = -0.1
+}
+talented_liar = {
+	global_money = 0.05
+        dissent = 0.05
+}
+industrial_beast = {
+	global_rare_materials = 0.1
+        global_metal = 0.1
+}
+scandalous = {
+	ruling_party_support = -0.2
+        drift_speed = 0.1
+}
+patriot = {
+	neutrality_change = 0.05
+        national_unity_effect = 0.05
+
+}
+fanatical_academic = {
+	global_leadership_modifier = 0.1
+        global_money = -0.08
+}
+tempered_speaker = {
+	threat_impact = 0.1
+        national_unity_effect = 0.01
+}
+hazardous_clean = {
+	threat_impact = 0.05
+        global_energy = 0.05
+}
+military_slob = {
+	land_organisation = -0.05
+}
+untalented_nerd = {
+	global_ic = 0.05
+        global_leadership_modifier = -0.05
+}
+military_custom_breaker = {
+	decay = { infantry_theory = -0.20 }
+        land_organisation = -0.02
+}
+army_reformer = {
+	decay = { infantry_theory = -0.10 }
+        decay = { armour_practical = -0.10 }
+        decay = { artillery_practical = -0.10 }
+}
+air_reformer = {
+	decay = { strategic_air_focus = -0.10 }
+        decay = { single_engine_aircraft_practical = -0.10 }
+}
+responsive_industrialist = {
+	decay = { mechanicalengineering_theory = -0.25 }
+}
+hidden_leftist = {
+	suseptibility_comintern = 0.2
+}
+industry_servant = {
+	dissent = 0.1
+        global_ic = 0.08
+}
+industrial_spy = {
+	decay = { construction_practical = -0.20 }
+        decay = { chemical_engineering = -0.10 }
+}
+death_from_above = {
+	decay = { strategic_air_focus = -0.25 }
+}
+submarine_lover = {
+	decay = { submarine_practical = -0.30 }
+}
+destroyer_lover = {
+	decay = { destroyer_practical = -0.30 }
+}
+intellectualist = {
+	global_leadership_modifier = 0.05
+}
+committed_socialist = {
+	suseptibility_comintern = 0.35
+} 
+
+master_of_skies = {
+	decay = { fighter_focus = -0.20 } 
+} 
+
+talented_and_concealed = {
+	espionage_bonus = 0.03
+	offmap_land_intel = 0.1
+} 
+
+planning_representative = {
+	peace_consumer_goods_demand = -0.05
+        global_money = -0.05
+	industrial_efficiency = -0.05
+} 
+
+sympathetic = {
+	dissent = -0.1
+} 
+
+good_connections = {
+	 peace_consumer_goods_demand = 0.05
+         dissent = -0.05
+} 
+
+unexperienced_diplomat = {
+	   neutrality_change = 0.01
+           counter_intelligence = -0.05
+} 
+
+pro_american = {
+	   suseptibility_allies = 0.15
+} 
+
+anti_imperialist = {
+	   suseptibility_allies = -0.15
+} 
+
+people_shamer = {
+	   dissent = 0.15
+           neutrality_change = 0.01
+} 
+
+veteran = {
+	   ruling_party_support = 0.05
+}
+The_tiger_of_Lhasa = {
+	   espionage_bonus = 0.1
+           unit_recruitment_time = -0.05
+}

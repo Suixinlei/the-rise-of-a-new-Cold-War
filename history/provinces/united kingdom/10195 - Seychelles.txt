@@ -1,0 +1,8 @@
+owner = SEY
+controller = SEY
+add_core = SEY
+infra = 4
+
+air_base = 3 #Seychelles airbase
+naval_base = 1
+points = 1

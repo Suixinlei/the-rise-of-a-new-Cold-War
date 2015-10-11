@@ -1,0 +1,6 @@
+owner = JAP
+controller = JAP
+add_core = CHC
+add_core = CHI
+
+infra = 2

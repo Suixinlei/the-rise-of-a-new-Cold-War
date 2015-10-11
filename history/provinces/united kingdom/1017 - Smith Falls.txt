@@ -1,0 +1,8 @@
+owner = ENG
+controller = ENG
+add_core = ENG
+add_core = SCO
+infra = 6
+
+air_base = 2 #RAF Leuchars
+naval_base = 2 #Dundee port

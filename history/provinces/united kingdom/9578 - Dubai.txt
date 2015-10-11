@@ -1,0 +1,15 @@
+owner = UAE
+
+controller = UAE
+
+add_core = UAE
+
+infra = 8
+
+industry = 4
+manpower = 0.8
+crude_oil = 180.00
+energy = 70.00
+rare_materials = 40.00
+air_base = 10 #Dubai airport
+naval_base = 6 #Dubai port

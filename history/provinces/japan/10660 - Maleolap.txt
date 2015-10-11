@@ -1,0 +1,8 @@
+owner = MAR
+
+controller = MAR
+
+add_core = MAR
+
+infra = 3
+

@@ -1,0 +1,6 @@
+owner = SYR
+controller = SYR
+add_core = SYR
+add_core = KUR
+infra = 6
+

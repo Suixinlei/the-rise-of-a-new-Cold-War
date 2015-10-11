@@ -1,0 +1,874 @@
+156001 = {
+	name = "Bach"
+	country = SCH
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L156001
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+156002 = {
+	name = "Aberbach"
+	country = SCH
+	type = land
+	skill = 1
+	max_skill = 7
+	loyalty = 1.00
+	picture = L156002
+	add_trait = trainer
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+156003 = {
+	name = "Bärwald"
+	country = SCH
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L156003
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+156004 = {
+	name = "Häberli"
+	country = SCH
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 0.00
+	picture = L156004
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+156005 = {
+	name = "Hirschl"
+	country = SCH
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L156005
+	add_trait = panzer_leader
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+156006 = {
+	name = "Jöcher"
+	country = SCH
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 0.00
+	picture = L156006
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+156007 = {
+	name = "Kranefuss"
+	country = SCH
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L156007
+	add_trait = winter_specialist
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+156008 = {
+	name = "Allet"
+	country = SCH
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L156008
+	add_trait = defensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+156009 = {
+	name = "Bäckert"
+	country = SCH
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L156009
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+156010 = {
+	name = "Blattmann"
+	country = SCH
+	type = land
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L156010
+	add_trait = panzer_leader
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+156011 = {
+	name = "Brülisauer"
+	country = SCH
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L156011
+	add_trait = frontline_soldier
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+156012 = {
+	name = "Büsser"
+	country = SCH
+	type = land
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = L156012
+	add_trait = old_guard
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+156013 = {
+	name = "Bütler"
+	country = SCH
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L156013
+	add_trait = improvisation
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+156014 = {
+	name = "Caduff"
+	country = SCH
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L156014
+	add_trait = engineer
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+156015 = {
+	name = "Fantoni"
+	country = SCH
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L156015
+	add_trait = offensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+156016 = {
+	name = "Fehr"
+	country = SCH
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L156016
+	add_trait = commando
+	add_trait = learners_will
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+156017 = {
+	name = "Frauchig"
+	country = SCH
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L156017
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+156018 = {
+	name = "Froidevaux"
+	country = SCH
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L156018
+	add_trait = hard_defender
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+156019 = {
+	name = "Glauser"
+	country = SCH
+	type = land
+	skill = 2
+	max_skill = 8
+	loyalty = 1.00
+	picture = L156019
+	add_trait = offensive_doctrine
+	add_trait = assaulter
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+156020 = {
+	name = "Heer"
+	country = SCH
+	type = land
+	skill = 2
+	max_skill = 8
+	loyalty = 1.00
+	picture = L156020
+	add_trait = panzer_leader
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+156021 = {
+	name = "Hofer"
+	country = SCH
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 1.00
+	picture = L156021
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+156022 = {
+	name = "Huber"
+	country = SCH
+	type = land
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = L156022
+	add_trait = old_guard
+	add_trait = defensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+156023 = {
+	name = "Kaiser"
+	country = SCH
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L156023
+	add_trait = improvisation
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+156024 = {
+	name = "Keller"
+	country = SCH
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L156024
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+156025 = {
+	name = "Lätsch"
+	country = SCH
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L156025
+	add_trait = frontline_soldier
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+156026 = {
+	name = "Leuenberger"
+	country = SCH
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L156026
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+156027 = {
+	name = "Lier"
+	country = SCH
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L156027
+	add_trait = engineer
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+156028 = {
+	name = "Martin"
+	country = SCH
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L156028
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+156029 = {
+	name = "Nager"
+	country = SCH
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L156029
+	add_trait = winter_specialist
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+156030 = {
+	name = "Nef"
+	country = SCH
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L156030
+	add_trait = panzer_leader
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+156031 = {
+	name = "Niederberger"
+	country = SCH
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L156031
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+156032 = {
+	name = "Rauch"
+	country = SCH
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L156032
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+156033 = {
+	name = "Rüdin"
+	country = SCH
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 1.00
+	picture = L156033
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+156034 = {
+	name = "Sartorius"
+	country = SCH
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L156034
+	add_trait = assaulter
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+156035 = {
+	name = "Schreier"
+	country = SCH
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L156035
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+156036 = {
+	name = "Seewer"
+	country = SCH
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L156036
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+156037 = {
+	name = "Siegenthaler"
+	country = SCH
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L156037
+	add_trait = offensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+156038 = {
+	name = "Stocker"
+	country = SCH
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L156038
+	add_trait = defensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+156039 = {
+	name = "Stutz"
+	country = SCH
+	type = land
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = L156039
+	add_trait = old_guard
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+156040 = {
+	name = "Theler"
+	country = SCH
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L156040
+	add_trait = commando
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+156041 = {
+	name = "Vögeli"
+	country = SCH
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L156041
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+156042 = {
+	name = "Wohlhauser"
+	country = SCH
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L156042
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+156043 = {
+	name = "Keckeis"
+	country = SCH
+	type = land
+	skill = 4
+	max_skill = 8
+	loyalty = 1.00
+	picture = L156043
+	add_trait = logistics_wizard
+	add_trait = trickster
+	history = {
+		1995.1.1 = { rank = 1 }
+		1998.1.1 = { rank = 2 }
+		2001.1.1 = { rank = 3 }
+		2003.1.1 = { rank = 4 }
+	}
+}
+156044 = {
+	name = "Andrey"
+	country = SCH
+	type = land
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L156044
+	add_trait = defensive_doctrine
+	history = {
+		1998.1.1 = { rank = 1 }
+		2001.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+156045 = {
+	name = "Bader"
+	country = SCH
+	type = land
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = L156045
+	add_trait = old_guard
+	history = {
+		1998.1.1 = { rank = 1 }
+		2001.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+156046 = {
+	name = "Fellay"
+	country = SCH
+	type = land
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L156046
+	add_trait = engineer
+	history = {
+		1998.1.1 = { rank = 1 }
+		2001.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+156047 = {
+	name = "Bölsterli"
+	country = SCH
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L156047
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+156048 = {
+	name = "Fisch"
+	country = SCH
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L156048
+	add_trait = defensive_doctrine
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+156049 = {
+	name = "Gerber"
+	country = SCH
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L156049
+	add_trait = commando
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+156050 = {
+	name = "Halter"
+	country = SCH
+	type = land
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L156050
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+156051 = {
+	name = "Nydegger"
+	country = SCH
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L156051
+	add_trait = offensive_doctrine
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+156052 = {
+	name = "Solenthaler"
+	country = SCH
+	type = land
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L156052
+	add_trait = logistics_wizard
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+156053 = {
+	name = "Walser"
+	country = SCH
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L156053
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+156054 = {
+	name = "Zwygart"
+	country = SCH
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L156054
+	add_trait = offensive_doctrine
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+156055 = {
+	name = "Amstutz"
+	country = SCH
+	type = air
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L156055
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+156056 = {
+	name = "Dahinden"
+	country = SCH
+	type = air
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L156056
+	add_trait = superior_air_tactician
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+156057 = {
+	name = "Epper"
+	country = SCH
+	type = air
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L156057
+	add_trait = carpet_bomber
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+156058 = {
+	name = "Kellerhals"
+	country = SCH
+	type = air
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L156058
+	add_trait = night_flyer
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+156059 = {
+	name = "Knutti"
+	country = SCH
+	type = air
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L156059
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+156060 = {
+	name = "Papaux"
+	country = SCH
+	type = air
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L156060
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+156061 = {
+	name = "Weibel"
+	country = SCH
+	type = air
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L156061
+	add_trait = tank_buster
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+156062 = {
+	name = "Zahler"
+	country = SCH
+	type = air
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = L156062
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+156063 = {
+	name = "Fehrlin"
+	country = SCH
+	type = air
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L156063
+	add_trait = night_flyer
+	history = {
+		1998.1.1 = { rank = 1 }
+		2001.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+156064 = {
+	name = "Schellenberg"
+	country = SCH
+	type = air
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L156064
+	add_trait = superior_air_tactician
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+156065 = {
+	name = "Gygax"
+	country = SCH
+	type = air
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L156065
+	add_trait = tank_buster
+	add_trait = superior_air_tactician
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+156066 = {
+	name = "Müller"
+	country = SCH
+	type = air
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L156066
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+156067 = {
+	name = "Stettbacher"
+	country = SCH
+	type = air
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L156067
+	add_trait = tank_buster
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}

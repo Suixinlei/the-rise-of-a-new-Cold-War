@@ -1,0 +1,9 @@
+owner = ENG
+controller = ENG
+add_core = ENG
+add_core = SPR
+
+infra = 8
+
+air_base = 1 #RAF Gibraltar
+naval_base = 3 #Gibraltar port

@@ -1,0 +1,9 @@
+owner = JOR
+controller = JOR
+add_core = JOR
+
+infra = 7
+
+naval_base = 6 #Aqaba port
+leadership = 2.50
+points = 1

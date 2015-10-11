@@ -1,0 +1,10 @@
+owner = BEL
+controller = BEL
+add_core = BEL
+
+
+infra = 7
+
+naval_base = 6 #Bruges port
+leadership = 2.50
+points = 1

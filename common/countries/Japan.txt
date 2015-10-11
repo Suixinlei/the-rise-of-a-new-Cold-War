@@ -1,0 +1,211 @@
+color = { 221  178  83 }
+graphical_culture = Japanese
+last_election = 2007.9.25
+duration = 24
+major = yes
+
+default_templates = {
+	JAP_triangular = {
+		infantry_brigade
+		infantry_brigade
+		infantry_brigade
+	}
+	JAP_square = {
+		infantry_brigade
+		infantry_brigade
+		infantry_brigade
+		infantry_brigade
+	}
+	JAP_mixed_brigade = {
+		infantry_brigade
+		artillery_brigade
+		engineer_brigade
+	}
+	JAP_cavalry = {
+		cavalry_brigade
+		cavalry_brigade
+	}
+	JAP_guards = {
+		light_armor_brigade
+		motorized_brigade
+		motorized_brigade
+		motorized_brigade
+	}
+	JAP_motorised = {
+		motorized_brigade
+		motorized_brigade
+		motorized_brigade
+		motorized_brigade
+	}
+	JAP_border_guards = {
+		garrison_brigade
+		garrison_brigade
+		garrison_brigade
+		police_brigade
+	}
+	JAP_snlf = {
+		marine_brigade
+		marine_brigade
+		marine_brigade
+	}
+	JAP_airborne = {
+		paratrooper_brigade
+		paratrooper_brigade
+	}
+}
+
+unit_names = {
+	
+}
+
+ministers = {
+        61101 = {
+		name = "小泉纯一郎"
+		ideology = paternal_autocrat
+		loyalty = 1.00
+		picture = koizumi.junichiro
+                head_of_government = silent_workhorse
+                foreign_minister = pro_american
+		start_date = 2000.1.1
+        }
+        61102 = {
+		name = "安倍晋三"
+		ideology = paternal_autocrat
+		loyalty = 1.00
+		picture = Abe.Shinzo
+                head_of_government = ambitious_union_boss
+		start_date = 2000.1.1
+        }
+        61103 = {
+		name = "菅直人"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = Naoto.Kan
+                head_of_government = flamboyant_tough_guy
+		start_date = 2000.1.1
+        }
+        61104 = {
+		name = "野田佳彦"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = Noda.Yoshihiko
+                head_of_government = happy_amateur
+		start_date = 2000.1.1
+        }
+        61105 = {
+		name = "叶光一郎"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = Xuanba.Hikaruichiro
+                foreign_minister = ideological_crusader
+		start_date = 2000.1.1
+        }
+        61106 = {
+		name = "涉谷治彦"
+		ideology = paternal_autocrat
+		loyalty = 1.00
+		picture = Shibuya.Haruhiko
+                minister_of_security = efficient_sociopath
+                minister_of_intelligence = talented_and_concealed
+		start_date = 2000.1.1
+        }
+        61107 = {
+		name = "舛添要一"
+		ideology = paternal_autocrat
+		loyalty = 1.00
+		picture = Masuzoe.Yoichi
+                armament_minister = resource_industrialist
+		start_date = 2000.1.1
+        }
+        61108 = {
+		name = "久间章生"
+		ideology = paternal_autocrat
+		loyalty = 1.00
+		picture = Kuma.Akio
+                chief_of_staff = school_of_defence
+                chief_of_army = guns_and_butter_doctrine
+		start_date = 2000.1.1
+        }
+        61109 = {
+		name = "小池百合子"
+		ideology = paternal_autocrat
+		loyalty = 1.00
+		picture = Yuriko.Koike
+                chief_of_staff = school_of_fire_support
+                chief_of_army = elastic_defence_doctrine 
+		start_date = 2000.1.1
+        }
+        61110 = {
+		name = "赤星庆治"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = Tian.Jingyi.phase
+                chief_of_navy = open_seas_doctrine
+		start_date = 2000.1.1
+        }
+        61111 = {
+		name = "田母神俊雄"
+		ideology = paternal_autocrat
+		loyalty = 1.00
+		picture = Tamo.Shinjunwoong
+                chief_of_air = air_reformer
+		start_date = 2000.1.1
+        }
+        61113 = {
+		name = "明仁"
+		ideology = social conservative
+		loyalty = 1.00
+		picture = Akihito
+                head_of_state = insignificant_layman
+		start_date = 2000.1.1
+        }
+        61114 = {
+		name = "志位和夫"
+		ideology = stalinist
+		loyalty = 1.00
+		picture = 61114
+                head_of_government = corrupt_kleptocrat
+                minister_of_security = prince_of_terror
+		start_date = 2000.1.1
+        }
+        61115 = {
+		name = "市田忠义"
+		ideology = stalinist
+		loyalty = 1.00
+		picture = 61115
+                foreign_minister = ideological_crusader
+		start_date = 2000.1.1
+        }
+        61117 = {
+		name = "高桥千鹤子"
+		ideology = stalinist
+		loyalty = 1.00
+		picture = 61117
+                minister_of_intelligence = dismal_enigma
+		start_date = 2000.1.1
+        }
+        61118 = {
+		name = "塩川鉄也"
+		ideology = stalinist
+		loyalty = 1.00
+		picture = 61118
+                chief_of_army = weary_stiff_neck
+		start_date = 2000.1.1
+        }
+        61119 = {
+		name = "笠井亮"
+		ideology = stalinist
+		loyalty = 1.00
+		picture = 61119
+                chief_of_staff = decisive_battle_doctrine
+		start_date = 2000.1.1
+        }
+        61120 = {
+		name = "佐佐木宪昭"
+		ideology = stalinist
+		loyalty = 1.00
+		picture = 61120
+                chief_of_navy = base_control_doctrine
+		start_date = 2000.1.1
+        }
+

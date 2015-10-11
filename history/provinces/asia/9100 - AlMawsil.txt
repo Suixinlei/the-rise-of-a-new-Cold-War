@@ -1,0 +1,14 @@
+ owner = USA
+ controller = USA
+add_core = IRQ
+
+infra = 7
+industry = 1
+manpower = 2.00
+air_base = 3 #Mosul and Tal Afar airbase
+leadership = 2.50
+
+points = 1
+metal = 30.00
+rare_materials = 30.00
+energy = 60.00

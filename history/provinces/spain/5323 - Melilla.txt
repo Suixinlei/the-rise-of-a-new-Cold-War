@@ -1,0 +1,8 @@
+owner = SPR
+controller = SPR
+add_core = SPR
+add_core = MOR
+infra = 7
+
+naval_base = 2 #Melilla port
+points = 1

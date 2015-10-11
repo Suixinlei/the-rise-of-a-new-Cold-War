@@ -1,0 +1,9 @@
+owner = TUR
+controller = TUR
+add_core = TUR
+manpower = 2.00
+infra = 8
+
+air_base = 6 #Antalya airport
+naval_base = 3 #Antalya port
+points = 1

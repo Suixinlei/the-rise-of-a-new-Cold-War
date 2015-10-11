@@ -1,0 +1,6 @@
+owner = BEL
+controller = BEL
+add_core = BEL
+terrain = hills
+
+infra = 8

@@ -1,0 +1,12 @@
+owner = IND
+controller = IND
+add_core = IND
+industry = 5
+infra = 6
+manpower = 20.00
+energy = 40.00
+metal = 35.00
+rare_materials = 15.00
+air_base = 1 #Gujarat airport
+leadership = 1.00
+points = 1

@@ -1,0 +1,50 @@
+capital = 2223
+government = republic
+ideology = social_liberal
+alignment = { x = 20 y = 50.0 }
+neutrality = 80
+national_unity = 70
+
+oob = "UKR_2000.txt"
+
+popularity = { 
+	national_socialist = 0
+	fascistic = 12
+	paternal_autocrat = 0
+	social_conservative = 0
+	market_liberal = 8
+	social_liberal = 25
+	social_democrat = 7
+	left_wing_radical = 3
+	leninist = 7
+	stalinist = 21
+}
+
+organization = { 
+	national_socialist = 0
+	fascistic = 36
+	paternal_autocrat = 0
+	social_conservative = 0
+	market_liberal = 24
+	social_liberal = 75
+	social_democrat = 21
+	left_wing_radical = 9
+	leninist = 21
+	stalinist = 63
+}
+
+conscription_policy = military_service
+press_laws = free_press
+mobilisation_level = peace_time
+civil_laws = open_society
+service_length = twelve_months
+economic_policy = lais_fair
+
+
+industrial_facilities = 1
+industral_production = 1
+industral_efficiency = 1
+weapon_design = 1
+the_fuselage_design = 1
+main_battle_tank = 1
+ship_hull = 1

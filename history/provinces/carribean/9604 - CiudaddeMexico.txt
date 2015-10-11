@@ -1,0 +1,12 @@
+owner = MEX
+controller = MEX
+add_core = MEX
+infra = 8
+industry = 10
+manpower = 15.9
+energy = 50.00
+metal = 30.00
+rare_materials = 25.00
+air_base = 8 #Mexico airport
+leadership = 2.50
+points = 1

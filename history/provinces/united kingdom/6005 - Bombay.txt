@@ -1,0 +1,14 @@
+owner = IND
+controller = IND
+add_core = IND
+industry = 10
+infra = 6
+manpower = 20.00
+crude_oil = 15.00
+energy = 50.00
+metal = 40.00
+rare_materials = 15.00
+air_base = 10 #Mumbai airport and Pune airbase
+naval_base = 10 #Nhava Sheva
+leadership = 2.50
+points = 1

@@ -1,0 +1,9 @@
+owner = SER
+controller = SER
+add_core = SER
+
+manpower = 0.4
+infra = 8
+air_base = 4 #Nis and Bojnik airbase
+leadership = 2.50
+points = 1

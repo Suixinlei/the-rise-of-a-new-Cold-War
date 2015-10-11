@@ -1,0 +1,10 @@
+owner = GHA
+controller = GHA
+add_core = GHA
+manpower = 4.8
+infra = 6
+
+air_base = 6 #Kotoka, Takordi and Yamale airbae
+naval_base = 3 #Accra port
+leadership = 2.50
+points = 1

@@ -1,0 +1,231 @@
+color = { 192  68  103 }
+graphical_culture = Generic
+last_election = 1999.3.30
+duration = 48
+
+default_templates = {
+	generic_infantry = {
+		infantry_brigade
+		infantry_brigade
+		infantry_brigade
+	}
+	generic_milita = {
+		militia_brigade
+		militia_brigade
+		militia_brigade
+	}
+	generic_armoured = {
+		armor_brigade
+		motorized_brigade
+		motorized_brigade
+	}
+
+}
+
+unit_names = {
+
+}
+
+
+ministers = {
+	8501 = {
+		name = "ÂíµÙ¶ò¡¤¿ËÀ×¿â"
+		ideology = market_liberal
+		loyalty = 1.00
+		picture = M8501
+		head_of_state = resigned_generalissimo
+		head_of_government = silent_lawyer
+		start_date = 2000.1.1
+	}
+	8502 = {
+		name = "ÄáÈû¸£¶û¡¤Ë÷¸ñÂå"
+		ideology = social_liberal
+		loyalty = 1.00
+		picture = M8502
+		head_of_state = die_hard_reformer
+		start_date = 2000.1.1
+	}
+	8503 = {
+		name = " °¢µÂÀï°²¡¤ÎÂ±´¼ª"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M8503
+		head_of_state = the_cloak_n_dagger_schemer
+		start_date = 2000.1.1
+	}
+	8504 = {
+		name = "²¼ÂÉÅµ¡¤°¢ÄÂËÕ"
+		ideology = social_democrat
+		loyalty = 1.00
+		picture = M8504
+		head_of_state = laissez_faires_capitalist
+		start_date = 2000.1.1
+	}
+	8505 = {
+		name = "Èø¿¨¡¤À­·ÆÑÇ"
+		ideology = left_wing_radical
+		loyalty = 1.00
+		picture = M8505
+		head_of_state = unexperienced_diplomat
+		start_date = 2000.1.1
+	}
+	8506 = {
+		name = "ÍĞÂíË¹¡¤ÑÇÒÁ¡¤²©Äá"
+		ideology = market_liberal
+		loyalty = 1.00
+		picture = M8506
+		head_of_state = money_is_might
+		head_of_government = laissez_faires_capitalist
+		start_date = 2006.1.1
+	}
+	8507 = {
+		name = "ÂäµÚ¡¤Ë÷¸ñÂå"
+		ideology = social_liberal
+		loyalty = 1.00
+		picture = M8507
+		head_of_state = patriot
+		start_date = 2006.1.1
+	}
+	8508 = {
+		name = "°²ÍĞÍò¡¤¿ÆÀ­ÎÖÀ³¡¤ÒÁ¼ª"
+		ideology = left_wing_radical
+		loyalty = 1.00
+		picture = M8508
+		head_of_state = power_hungry_demagogue
+		foreign_minister = hazardous_clean
+		start_date = 2000.1.1
+	}
+	8509 = {
+		name = "À­Ôú¶û ËÕ»ô"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M8509
+		head_of_state = money_is_might
+		start_date = 2000.1.1
+	}
+	8510 = {
+		name = "ÏÉ °¢ÇÇÎ¬"
+		ideology = social_liberal
+		loyalty = 1.00
+		picture = M8510
+		head_of_state = silent_workhorse
+		start_date = 2000.1.1
+	}
+	8511 = {
+		name = " °²¶«Äá.´ïÒ¢ºÚ"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M8511
+		head_of_state = naive_optimist
+		start_date = 2005.1.1
+	}
+	8512 = {
+		name = "°¢²·¶ÅÀ­Ò®¡¤±È°Â ¿Ë³à"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M8512
+		head_of_state = advertising_figure
+		start_date = 2011.1.1
+	}
+	8513 = {
+		name = "ÈøÀû·ò ÄÂÈø"
+		ideology = social_liberal
+		loyalty = 1.00
+		picture = M8513
+		head_of_state = industrial_spy
+		start_date = 2011.1.1
+	}
+	8514 = {
+		name = "ÄÉÎ÷Â³¡¤°¢Àï·¨Àï¡¤°Í¿Æ"
+		ideology = social_liberal
+		loyalty = 1.00
+		picture = M8514
+		foreign_minister = fanatical_academic
+		start_date = 2000.1.1
+	}
+	8515 = {
+		name = "ÂêÀö - °®ÀöË¿ ¿ËÀïË¹µÙÄÈ ¸ğ±Ì¶¼"
+		ideology = social_liberal
+		loyalty = 1.00
+		picture = M8515
+		armament_minister = submarine_lover
+		start_date = 2000.1.1
+	}
+	8516 = {
+		name = "±´Åµ °¢Ë¹Íú ¿ÆÄ¦ÂŞ µÒ¸ñÑÇ"
+		ideology = social_liberal
+		loyalty = 1.00
+		picture = M8516
+		minister_of_security = talented_recruiter
+		start_date = 2000.1.1
+	}
+	8517 = {
+		name = "µ¤Äá¶û ËşÍß"
+		ideology = market_liberal
+		loyalty = 1.00
+		picture = M8517
+		minister_of_security = biased_intellectual
+		start_date = 2000.1.1
+	}
+	8518 = {
+		name = "½ÜÂŞÄ·¡¤Èø¿¨¡¤»ùÄÉ¡¤¼ªÔó"
+		ideology = market_liberal
+		loyalty = 1.00
+		picture = M8518
+		armament_minister = the_cloak_n_dagger_schemer
+		start_date = 2000.1.1
+	}
+	8519 = {
+		name = "°£ÂíÅ¦ °£¶û¸êÂ¬"
+		ideology = social_democrat
+		loyalty = 1.00
+		picture = M8519
+		head_of_government = political_protege
+		start_date = 2000.1.1
+	}
+	8520 = {
+		name = "·ÑÀû¿ËË¹?°¢µÏÃ×"
+		ideology = social_democrat
+		loyalty = 1.00
+		picture = M8520
+		foreign_minister = unexperienced_diplomat
+		start_date = 2000.1.1
+	}
+	8521 = {
+		name = "Ë÷ ·²¸ñ²¼ÀÊ"
+		ideology = left_wing_radical
+		loyalty = 1.00
+		picture = M8521
+		foreign_minister = money_is_might
+		start_date = 2000.1.1
+	}
+	8522 = {
+		name = "ÅÁË¹¿¨¶û?·½ÍĞ»ù"
+		ideology = stalinist
+		loyalty = 1.00
+		picture = M8522
+		head_of_state = talented_liar
+		start_date = 200.1.1
+	}
+	8523 = {
+		name = "Âí¶¡ °¢×ôÄá»ô"
+		ideology = stalinist
+		loyalty = 1.00
+		picture = M8523
+		head_of_government = ruthless_powermonger
+		start_date = 2000.1.1
+	}
+	8524 = {
+		name = "µÏË¹ ¸ñÉ­Ã×ºº"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M8524
+		chief_of_staff = carpet_bombing_doctrine
+		minister_of_intelligence = political_specialist
+		chief_of_army = school_of_psychology
+		chief_of_air = army_aviation_doctrine
+		chief_of_navy = power_projection_doctrine
+		start_date = 2000.1.1
+	}
+	
+}

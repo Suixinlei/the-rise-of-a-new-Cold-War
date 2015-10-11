@@ -1,0 +1,8 @@
+owner = SLV
+controller = SLV
+add_core = SLV
+
+infra = 8
+
+naval_base = 9 #Koper port
+points = 1

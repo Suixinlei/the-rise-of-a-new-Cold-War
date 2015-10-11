@@ -1,0 +1,5 @@
+owner = SLO
+controller = SLO
+add_core = SLO
+energy = 3.00
+infra = 8

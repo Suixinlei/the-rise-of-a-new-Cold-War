@@ -1,0 +1,10 @@
+owner = CHL
+controller = CHL
+add_core = CHL
+add_core = BOL
+
+infra = 6
+air_base = 3 #Diego Aracena airbase
+naval_base = 3 #Iquique port
+leadership = 2.50
+points = 1

@@ -1,0 +1,11 @@
+owner = NOR
+controller = NOR
+add_core = NOR
+
+infra = 2
+terrain = arctic
+
+
+
+naval_base = 2 #Kirkenes port
+points = 1

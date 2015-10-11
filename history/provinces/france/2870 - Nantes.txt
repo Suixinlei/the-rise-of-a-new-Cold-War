@@ -1,0 +1,13 @@
+owner = FRA
+controller = FRA
+add_core = FRA
+manpower = 1.00
+
+infra = 9
+
+air_base = 2 #Nantes airport
+naval_base = 2 #Nantes port
+leadership = 2.00
+points = 1
+industry = 10
+energy = 35.00

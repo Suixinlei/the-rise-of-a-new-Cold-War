@@ -1,0 +1,81 @@
+theatre = {
+	name = "Kuwait HQ"
+	location = 9427
+	regiment = { type = hq_brigade name = "Kuwait HQ" historical_model = 2 }
+	division = {
+		is_reserve = yes
+		name = "25th Commando Brigade"
+		location = 9427
+		regiment = { type = special_forces_brigade name = "25th Commando Brigade" historical_model = 2 }
+	}
+	corps = {
+		name = "Kuwait Army"
+		location = 9427
+		regiment = { type = hq_brigade name = "Al-Jiwan Camp" historical_model = 2 }
+		division = {
+			is_reserve = yes
+			name = "6th 'Al-Tahreer' Mechanized Brigade"
+			location = 9427
+			regiment = { type = mechanized_brigade name = "61st Mechanized Battalion" historical_model = 0 }
+			regiment = { type = mechanized_brigade name = "62nd Mechanized Battalion" historical_model = 0 }
+			regiment = { type = mechanized_brigade name = "63rd Mechanized Battalion" historical_model = 0 }
+		}
+		division = {
+			is_reserve = yes
+			name = "15th 'Mubark' Armoured Brigade"
+			location = 9427
+			regiment = { type = armor_brigade name = "151st Armoured Battalion" historical_model = 0 }
+			regiment = { type = armor_brigade name = "152nd Armoured Battalion" historical_model = 0 }
+			regiment = { type = armor_brigade name = "153rd Armoured Battalion" historical_model = 0 }
+		}
+		division = {
+			is_reserve = yes
+			name = "26th 'Al-Soor' Mechanized Brigade"
+			location = 9427
+			regiment = { type = mechanized_brigade name = "261st Mechanized Battalion" historical_model = 0 }
+			regiment = { type = mechanized_brigade name = "262nd Mechanized Battalion" historical_model = 0 }
+			regiment = { type = mechanized_brigade name = "263rd Mechanized Battalion" historical_model = 0 }
+		}
+		division = {
+			is_reserve = yes
+			name = "35th 'Al-Shaheed' Armoured Brigade"
+			location = 9427
+			regiment = { type = armor_brigade name = "351st Armoured Battalion" historical_model = 0 }
+			regiment = { type = armor_brigade name = "352nd Armoured Battalion" historical_model = 0 }
+			regiment = { type = armor_brigade name = "353rd Armoured Battalion" historical_model = 0 }
+		}
+		division = {
+			is_reserve = yes
+			name = "94th 'Al-Yarmouk' Mechanized Brigade"
+			location = 9427
+			regiment = { type = mechanized_brigade name = "941st Mechanized Battalion" historical_model = 0 }
+			regiment = { type = mechanized_brigade name = "942nd Mechanized Battalion" historical_model = 0 }
+			regiment = { type = mechanized_brigade name = "943rd Mechanized Battalion" historical_model = 0 }
+		}
+	}
+	
+	navy = {
+	name = "Kuwait Navy"
+	base = 9427
+	location = 9427
+	ship = { type = patrol_boat name = "Al-Snbouk" historical_model = 0 }
+	ship = { type = patrol_boat name = "Umm Al-Maradem I" historical_model = 0 }
+	ship = { type = patrol_boat name = "Umm Al-Maradem II" historical_model = 0 }
+	ship = { type = patrol_boat name = "Umm Al-Maradem III" historical_model = 0 }
+	ship = { type = patrol_boat name = "Umm Al-Maradem IV" historical_model = 0 }
+	ship = { type = patrol_boat name = "Umm Al-Maradem V" historical_model = 0 }
+	ship = { type = patrol_boat name = "Umm Al-Maradem VI" historical_model = 0 }
+	ship = { type = patrol_boat name = "Umm Al-Maradem VII" historical_model = 0 }
+	ship = { type = patrol_boat name = "Umm Al-Maradem VIII" historical_model = 0 }
+	ship = { type = patrol_boat name = "Al-Estqlaal" historical_model = 0 }
+	}
+	
+	air = {
+	name = "9th Fighter Squadron"
+	base = 9427
+	location = 9427
+	wing = { type = multi_role name = "9th Fighter Squadron" historical_model = 0 }
+	}
+}
+	
+			

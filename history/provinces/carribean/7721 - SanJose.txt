@@ -1,0 +1,9 @@
+owner = COS
+controller = COS
+add_core = COS
+infra = 6
+manpower = 1.4
+energy = 1.00
+air_base = 1 #Juan Santamaria airport
+ 
+points = 1

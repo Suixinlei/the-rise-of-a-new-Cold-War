@@ -1,0 +1,12 @@
+owner = BRA
+controller = BRA
+add_core = BRA
+infra = 10
+industry = 6
+manpower = 10.00
+crude_oil = 24.9
+rare_materials = 11.00
+air_base = 10 #Rio De Janeiro airbase
+naval_base = 10 #Rio De Janeiro port
+leadership = 2.50
+points = 1

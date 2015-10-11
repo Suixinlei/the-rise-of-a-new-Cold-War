@@ -1,0 +1,4 @@
+owner = LBY
+controller = LBY
+add_core = LBY
+infra = 3

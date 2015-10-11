@@ -1,0 +1,7 @@
+owner = CHC
+controller = CHC
+ 
+add_core = CHC
+infra = 8
+air_base = 1 #Mei-Xian airbase
+points = 1

@@ -1,0 +1,13 @@
+owner = KOR
+controller = KOR
+
+add_core = KOR
+industry = 10
+infra = 6
+manpower = 3.80
+metal = 7.00
+energy = 50.00
+air_base = 5 #Pusan airbase
+naval_base = 10 #Pusan port
+leadership = 2.00
+points = 1

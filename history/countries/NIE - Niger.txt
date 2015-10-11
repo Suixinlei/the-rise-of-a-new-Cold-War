@@ -1,0 +1,40 @@
+capital = 9799
+government = autocratic_democracy
+ideology = social_conservative
+alignment = { x = 0 y = 50 }
+neutrality = 80
+national_unity = 70
+oob = "NIE_2000.txt"
+
+popularity = { 
+	national_socialist = 0
+	fascistic = 0
+	paternal_autocrat = 0
+	social_conservative = 46
+	market_liberal = 5
+	social_liberal = 10
+	social_democrat = 19
+	left_wing_radical = 20
+	leninist = 0
+	stalinist = 0
+}
+
+organization = { 
+	national_socialist = 0
+	fascistic = 0
+	paternal_autocrat = 0
+	social_conservative = 138
+	market_liberal = 15
+	social_liberal = 30
+	social_democrat = 57
+	left_wing_radical = 60
+	leninist = 0
+	stalinist = 0
+}
+
+conscription_policy = partial_draft
+press_laws = limited_censorship
+mobilisation_level = peace_time
+civil_laws = open_society
+service_length = eighteen_months
+economic_policy = lais_fair

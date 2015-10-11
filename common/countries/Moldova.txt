@@ -1,0 +1,294 @@
+color = { 48  152  192 }
+graphical_culture = Generic
+
+last_election = 2001.2.25
+duration = 48
+
+default_templates = {
+	generic_infantry = {
+		infantry_brigade
+		infantry_brigade
+		infantry_brigade
+	}
+	generic_milita = {
+		militia_brigade
+		militia_brigade
+		militia_brigade
+	}
+}
+
+unit_names = {
+
+}
+
+
+ministers = {
+	52501 = {
+		name = "Vladimir Voronin"
+		ideology = stalinist
+		loyalty = 1.00
+		picture = M52501
+		head_of_state = great_compromiser
+		start_date = 2000.1.1
+	}
+	52502 = {
+		name = "Mihai Ghimpu"
+		ideology = market_liberal
+		loyalty = 1.00
+		picture = M52502
+		head_of_state = laissez_faires_capitalist
+		start_date = 2000.1.1
+	}
+	52503 = {
+		name = "Vlad Filat"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M52503
+		head_of_state = crime_fighter
+		start_date = 2000.1.1
+	}
+	52504 = {
+		name = "Marian Lupu"
+		ideology = social_democrat
+		loyalty = 1.00
+		picture = M52504
+		head_of_state = resource_industrialist
+		start_date = 2000.1.1
+	}
+	52505 = {
+		name = "Nicolae Timofti"
+		ideology = social_liberal
+		loyalty = 1.00
+		picture = M52505
+		head_of_state = great_compromiser
+		start_date = 2000.1.1
+	}
+	52506 = {
+		name = "Vasile Tarlev"
+		ideology = stalinist
+		loyalty = 1.00
+		picture = M52506
+		head_of_government = resource_industrialist
+		start_date = 2000.1.1
+	}
+	52507 = {
+		name = "Zinaida Greceanîi"
+		ideology = stalinist
+		loyalty = 1.00
+		picture = M52507
+		head_of_government = people_shamer
+		start_date = 2008.1.1
+	}
+	52508 = {
+		name = "Vitalie Pîrlog"
+		ideology = stalinist
+		loyalty = 1.00
+		picture = M52508
+		head_of_government = political_specialist
+		start_date = 2009.1.1
+	}
+	52509 = {
+		name = "Iurie Leanca"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M52509
+		head_of_government = administrative_genius
+		foreign_minister = apologetic_clerk
+		start_date = 2000.1.1
+	}
+	52510 = {
+		name = "Nicolae Dudau"
+		ideology = stalinist
+		loyalty = 1.00
+		picture = M52510
+		foreign_minister = barking_buffoon
+		start_date = 2000.1.1
+	}
+	52511 = {
+		name = "Andrei Stratan"
+		ideology = social_democrat
+		loyalty = 1.00
+		picture = M52511
+		foreign_minister = unexperienced_diplomat
+		start_date = 2000.1.1
+	}
+	52512 = {
+		name = "Vitalie Vrabie"
+		ideology = stalinist
+		loyalty = 1.00
+		picture = M52512
+		armament_minister = army_reformer
+		start_date = 2000.1.1
+	}
+	52513 = {
+		name = "Vitalie Marinuta"
+		ideology = market_liberal
+		loyalty = 1.00
+		picture = M52513
+		armament_minister = military_slob
+		start_date = 2000.1.1
+	}
+	52514 = {
+		name = "Gheorghe Papuc"
+		ideology = stalinist
+		loyalty = 1.00
+		picture = M52514
+		minister_of_security = happy_amateur
+		start_date = 2000.1.1
+	}
+	52515 = {
+		name = "Victor Catan"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M52515
+		minister_of_security = resource_industrialist
+		start_date = 2000.1.1
+	}
+	52516 = {
+		name = "Liliana Palihovici"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M52516
+		armament_minister = silent_lawyer
+		start_date = 2000.1.1
+	}
+	52517 = {
+		name = "Dumitru Diacov"
+		ideology = social_democrat
+		loyalty = 1.00
+		picture = M52517
+		head_of_government = fanatical_academic
+		start_date = 2000.1.1
+	}
+	52518 = {
+		name = "Boris Focsa"
+		ideology = social_democrat
+		loyalty = 1.00
+		picture = M52518
+		armament_minister = planning_representative
+		start_date = 2000.1.1
+	}
+	52519 = {
+		name = "Anatolie Ghilas"
+		ideology = social_democrat
+		loyalty = 1.00
+		picture = M52519
+		minister_of_security = resource_industrialist
+		start_date = 2000.1.1
+	}
+	52520 = {
+		name = "Anatol Salaru"
+		ideology = market_liberal
+		loyalty = 1.00
+		picture = M52520
+		head_of_government = smiling_oilman
+		start_date = 2000.1.1
+	}
+	52521 = {
+		name = "Dorin Chirtoaca"
+		ideology = market_liberal
+		loyalty = 1.00
+		picture = M52521
+		foreign_minister = people_shamer
+		start_date = 2000.1.1
+	}
+	52522 = {
+		name = "Oleg Bodrug"
+		ideology = market_liberal
+		loyalty = 1.00
+		picture = M52522
+		minister_of_security = corrupt_kleptocrat
+		start_date = 2000.1.1
+	}
+	52523 = {
+		name = "Vladimir Braga"
+		ideology = left_wing_radical
+		loyalty = 1.00
+		picture = M52523
+		head_of_state = backroom_backstabber
+		start_date = 2000.1.1
+	}
+	52524 = {
+		name = "Vitalia Pavlicenco"
+		ideology = social_liberal
+		loyalty = 1.00
+		picture = M52524
+		head_of_government = general_staffer
+		start_date = 2000.1.1
+	}
+	52525 = {
+		name = "Igor Dodon"
+		ideology = leninist
+		loyalty = 1.00
+		picture = M52525
+		head_of_state = tempered_speaker
+		start_date = 2000.1.1
+	}
+	52526 = {
+		name = "Veronica Abramciuc"
+		ideology = leninist
+		loyalty = 1.00
+		picture = M52526
+		head_of_government = military_slob
+		start_date = 2000.1.1
+	}
+	52527 = {
+		name = "Eduard Smirnov"
+		ideology = leninist
+		loyalty = 1.00
+		picture = M52527
+		foreign_minister = silent_lawyer
+		start_date = 2000.1.1
+	}
+	52528 = {
+		name = "Serafim Urechean"
+		ideology = social_liberal
+		loyalty = 1.00
+		picture = M52528
+		armament_minister = industrial_spy
+		start_date = 2000.1.1
+	}
+	52529 = {
+		name = "Oleg Serebrian"
+		ideology = social_liberal
+		loyalty = 1.00
+		picture = M52529
+		minister_of_security = power_hungry_demagogue
+		start_date = 2000.1.1
+	}
+	52530 = {
+		name = "Artur Resetnicov"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M52530
+		minister_of_intelligence = embittered
+		start_date = 2000.1.1
+	}
+	52531 = {
+		name = "Gheorghe Mihai"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M52531
+		minister_of_intelligence = crooked_kleptocrat
+		start_date = 2009.1.1
+	}
+	52532 = {
+		name = "Igor Gorgan"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M52532
+		chief_of_staff = dismal_enigma
+		chief_of_army = school_of_fire_support
+		chief_of_navy = open_seas_doctrine
+		start_date = 2000.1.1
+	}
+	52533 = {
+		name = "Vadim Cemîrtan"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M52533
+		chief_of_air = old_air_marshal
+		start_date = 2000.1.1
+	}	
+}
+

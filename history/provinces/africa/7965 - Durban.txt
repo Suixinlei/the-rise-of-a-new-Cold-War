@@ -1,0 +1,12 @@
+owner = SAF
+controller = SAF
+add_core = SAF
+industry = 3
+infra = 6
+manpower = 2.70
+energy = 5.00
+metal = 10.00
+air_base = 2 #AFB Durban airbase
+naval_base = 8 #Durban port
+leadership = 1.50
+points = 1

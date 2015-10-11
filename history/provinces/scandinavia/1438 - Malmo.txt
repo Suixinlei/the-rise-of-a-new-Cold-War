@@ -1,0 +1,11 @@
+owner = SWE
+controller = SWE
+add_core = SWE
+
+energy = 3.00
+infra = 9
+manpower = 0.5
+air_base = 2 #Sjöbo airbase
+naval_base = 5 #Malmö port
+leadership = 2.50
+points = 1

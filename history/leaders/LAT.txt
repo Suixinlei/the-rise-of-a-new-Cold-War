@@ -1,0 +1,598 @@
+89001 = {
+	name = "Kaulins"
+	country = LAT
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L89001
+	add_trait = marine
+								history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+89002 = {
+	name = "Dilans"
+	country = LAT
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L89002
+	add_trait = offensive_doctrine
+	add_trait = assaulter
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+89003 = {
+	name = "Eglitis"
+	country = LAT
+	type = land
+	skill = 0
+	max_skill = 6
+	loyalty = 1.00
+	picture = L89003
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+89004 = {
+	name = "Gavrilko"
+	country = LAT
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L89004
+	add_trait = commando
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+89005 = {
+	name = "Kiukucans"
+	country = LAT
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L89005
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+89006 = {
+	name = "Roga"
+	country = LAT
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L89006
+	add_trait = hard_defender
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+89007 = {
+	name = "Lakis"
+	country = LAT
+	type = land
+	skill = 1
+	max_skill = 7
+	loyalty = 1.00
+	picture = L89007
+	add_trait = trainer
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+89008 = {
+	name = "Zarins"
+	country = LAT
+	type = land
+	skill = 1
+	max_skill = 7
+	loyalty = 1.00
+	picture = L89008
+	add_trait = panzer_leader
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+89009 = {
+	name = "Zeibarts"
+	country = LAT
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L89009
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+89010 = {
+	name = "Graube"
+	country = LAT
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L89010
+	add_trait = defensive_doctrine
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+89011 = {
+	name = "Abols"
+	country = LAT
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L89011
+	add_trait = logistics_wizard
+	history = {
+		1995.1.1 = { rank = 1 }
+		1998.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+89012 = {
+	name = "Viereck"
+	country = LAT
+	type = land
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L89012
+	add_trait = hard_defender
+	history = {
+		1995.1.1 = { rank = 1 }
+		1998.1.1 = { rank = 2 }
+		2001.1.1 = { rank = 3 }
+		2003.1.1 = { rank = 4 }
+	}
+}
+89013 = {
+	name = "M. Abols"
+	country = LAT
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L89013
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+89014 = {
+	name = "Alksnis"
+	country = LAT
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L89014
+	add_trait = winter_specialist
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+89015 = {
+	name = "Bertans"
+	country = LAT
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 0.00
+	picture = L89015
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+89016 = {
+	name = "Bertholds"
+	country = LAT
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L89016
+	add_trait = panzer_leader
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+89017 = {
+	name = "Briedis"
+	country = LAT
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 0.00
+	picture = L89017
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+89018 = {
+	name = "Dukurs"
+	country = LAT
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L89018
+	add_trait = landing_specialist
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+89019 = {
+	name = "Ezergailis"
+	country = LAT
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 0.00
+	picture = L89019
+	add_trait = old_guard
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+89020 = {
+	name = "Freimanis"
+	country = LAT
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 0.00
+	picture = L89020
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+89021 = {
+	name = "Godmanis"
+	country = LAT
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 1.00
+	picture = L89021
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+89022 = {
+	name = "Gulbis"
+	country = LAT
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L89022
+	add_trait = frontline_soldier
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+89023 = {
+	name = "Lacis"
+	country = LAT
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L89023
+	add_trait = offensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+89024 = {
+	name = "Liepa"
+	country = LAT
+	type = land
+	skill = 1
+	max_skill = 7
+	loyalty = 1.00
+	picture = L89024
+	add_trait = learners_will
+	add_trait = panzer_leader
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+89025 = {
+	name = "Ozols"
+	country = LAT
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L89025
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+89026 = {
+	name = "Rozitis"
+	country = LAT
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L89026
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+89027 = {
+	name = "Sirmais"
+	country = LAT
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 0.00
+	picture = L89027
+	add_trait = commando
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+89028 = {
+	name = "Ulmanis"
+	country = LAT
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L89028
+	add_trait = frontline_soldier
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+89029 = {
+	name = "Vasiljevs"
+	country = LAT
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L89029
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+89030 = {
+	name = "Vitolins"
+	country = LAT
+	type = air
+	skill = 1
+	max_skill = 5
+	loyalty = 0.00
+	picture = L89030
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+89031 = {
+	name = "Bartulis"
+	country = LAT
+	type = air
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L89031
+	add_trait = night_flyer
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+89032 = {
+	name = "Kaulins"
+	country = LAT
+	type = air
+	skill = 0
+	max_skill = 4
+	loyalty = 1.00
+	picture = L89032
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+89033 = {
+	name = "Sarah"
+	country = LAT
+	type = air
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L89033
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+89034 = {
+	name = "Utinane"
+	country = LAT
+	type = air
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L89034
+	add_trait = superior_air_tactician
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+89035 = {
+	name = "Lovrics"
+	country = LAT
+	type = air
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L89035
+	add_trait = tank_buster
+	history = {
+		1998.1.1 = { rank = 1 }
+		2001.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+89036 = {
+	name = "Mezors"
+	country = LAT
+	type = air
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L89036
+	add_trait = carpet_bomber
+	history = {
+		1998.1.1 = { rank = 1 }
+		2001.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+89037 = {
+	name = "Maklakovs"
+	country = LAT
+	type = air
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L89037
+	add_trait = fleet_destroyer
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+89038 = {
+	name = "Bertans"
+	country = LAT
+	type = sea
+	skill = 1
+	max_skill = 5
+	loyalty = 0.00
+	picture = L89038
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+89039 = {
+	name = "Jansons"
+	country = LAT
+	type = sea
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L89039
+	add_trait = seawolf
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+89040 = {
+	name = "Sarfas"
+	country = LAT
+	type = sea
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L89040
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+89041 = {
+	name = "Grinberga"
+	country = LAT
+	type = sea
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L89041
+	add_trait = spotter
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+89042 = {
+	name = "I. Pauris"
+	country = LAT
+	type = sea
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L89042
+	add_trait = blockade_runner
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+89043 = {
+	name = "Timofeev"
+	country = LAT
+	type = sea
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L89043
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+89044 = {
+	name = "A. Pauri"
+	country = LAT
+	type = sea
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = L89044
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+89045 = {
+	name = "Dreimanis"
+	country = LAT
+	type = sea
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L89045
+	add_trait = superior_tactician
+	history = {
+		1998.1.1 = { rank = 1 }
+		2001.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+89046 = {
+	name = "Prusis"
+	country = LAT
+	type = sea
+	skill = 3
+	max_skill = 6
+	loyalty = 1.00
+	picture = L89046
+	history = {
+		1995.1.1 = { rank = 1 }
+		1998.1.1 = { rank = 2 }
+		2001.1.1 = { rank = 3 }
+		2003.1.1 = { rank = 4 }
+	}
+}

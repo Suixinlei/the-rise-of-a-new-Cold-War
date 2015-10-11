@@ -1,0 +1,44 @@
+capital = 1532
+government = republic
+ideology = social_democrat
+alignment = { x = 0 y = -70 }
+neutrality = 80
+national_unity = 70
+
+oob = "LIT_2000.txt"
+
+popularity = { 
+	national_socialist = 0
+	fascistic = 0
+	paternal_autocrat = 0
+	social_conservative = 9
+	market_liberal = 17
+	social_liberal = 20
+	social_democrat = 15
+	left_wing_radical = 15
+	leninist = 0
+	stalinist = 0
+}
+
+organization = { 
+	national_socialist = 0
+	fascistic = 0
+	paternal_autocrat = 0
+	social_conservative = 27
+	market_liberal = 51
+	social_liberal = 60
+	social_democrat = 60
+	left_wing_radical = 60
+	leninist = 0
+	stalinist = 0
+}
+
+conscription_policy = military_service
+press_laws = free_press
+mobilisation_level = peace_time
+civil_laws = open_society
+service_length = twelve_months
+economic_policy = lais_fair
+
+
+weapon_design = 1

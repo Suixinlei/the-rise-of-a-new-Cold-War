@@ -1,0 +1,8 @@
+owner = FRA
+controller = FRA
+add_core = FRA
+
+terrain = forest
+
+infra = 9
+

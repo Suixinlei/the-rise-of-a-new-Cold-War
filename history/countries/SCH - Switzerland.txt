@@ -1,0 +1,50 @@
+capital = 3422
+government = federation
+ideology = social_conservative
+alignment = { x = 0 y = -42 }
+neutrality = 80
+national_unity = 85
+
+oob = "SCH_2000.txt"
+
+popularity = { 
+	national_socialist = 0
+	fascistic = 1
+	paternal_autocrat = 2
+	social_conservative = 23
+	market_liberal = 2
+	social_liberal = 20
+	social_democrat = 23
+	left_wing_radical = 0
+	leninist = 1
+	stalinist = 1
+}
+
+organization = { 
+	national_socialist = 0
+	fascistic = 3
+	paternal_autocrat = 6
+	social_conservative = 69
+	market_liberal = 6
+	social_liberal = 60
+	social_democrat = 69
+	left_wing_radical = 0
+	leninist = 3
+	stalinist = 3
+}
+
+conscription_policy = military_service
+press_laws = free_press
+mobilisation_level = peace_time
+civil_laws = open_society
+service_length = twelve_months
+economic_policy = lais_fair
+
+
+industrial_facilities = 1
+industral_production = 1
+industral_efficiency = 1
+weapon_design = 1
+the_fuselage_design = 1
+main_battle_tank = 1
+ship_hull = 1

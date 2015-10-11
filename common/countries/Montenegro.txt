@@ -1,0 +1,297 @@
+color = { 134  94  148 }
+graphical_culture = Generic
+
+
+default_templates = {
+	generic_infantry = {
+		infantry_brigade
+		infantry_brigade
+		infantry_brigade
+	}
+	generic_milita = {
+		militia_brigade
+		militia_brigade
+		militia_brigade
+	}
+	generic_armoured = {
+		armor_brigade
+		motorized_brigade
+		motorized_brigade
+	}
+	generic_cavalry = {
+		cavalry_brigade
+		cavalry_brigade
+	}
+}
+
+
+
+ministers = {
+	91001 = {
+		name = "Filip Vujanovic"
+		ideology = social_democrat
+		loyalty = 1.00
+		picture = M91001
+		head_of_state = silent_lawyer
+		start_date = 2000.1.1
+	}
+	91002 = {
+		name = "Miodrag Zivkovic"
+		ideology = social_liberal
+		loyalty = 1.00
+		picture = M91002
+		head_of_state = silent_lawyer
+		start_date = 2000.1.1 
+	}
+	91003 = {
+		name = "Andrija Mandic"
+		ideology = paternal_autocrat
+		loyalty = 1.00
+		picture = M91003
+		head_of_state = resource_industrialist
+		start_date = 2000.1.1
+	}
+	91004 = {
+		name = "Nebojsa Medojevic"
+		ideology = social_liberal
+		loyalty = 1.00
+		picture = M91004
+		head_of_state = flamboyant_tough_guy
+		start_date = 2000.1.1
+	}
+	91005 = {
+		name = "Srdan Milic"
+		ideology = leninist
+		loyalty = 1.00
+		picture = M91005
+		head_of_state = money_is_might
+		start_date = 2002.1.1
+	}
+	91006 = {
+		name = "Miodrag Lekic"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M91006
+		head_of_state = crime_fighter
+		start_date = 2000.1.1
+	}
+	91007 = {
+		name = "Milo Dukanovic"
+		ideology = social_democrat
+		loyalty = 1.00
+		picture = M91007
+		head_of_government = great_compromiser
+		start_date = 2000.1.1
+	}
+	91008 = {
+		name = "Zeljko Sturanovic"
+		ideology = social_democrat
+		loyalty = 1.00
+		picture = M91008
+		head_of_government = crime_fighter
+		start_date = 2006.1.1
+	}
+	91009 = {
+		name = "Igor Luksic"
+		ideology = social_democrat
+		loyalty = 1.00
+		picture = M91009
+		head_of_government = corporate_suit
+		start_date = 2004.1.1
+	}
+	91010 = {
+		name = "Boro Vucinic"
+		ideology = social_democrat
+		loyalty = 1.00
+		picture = M91010
+		armament_minister = corporate_suit
+		minister_of_intelligence = administrative_genius
+		start_date = 2000.1.1
+	}
+	91011 = {
+		name = "Milan Rocen"
+		ideology = social_democrat
+		loyalty = 1.00
+		picture = M91011
+		foreign_minister = undistinguished_suit
+		start_date = 2000.1.1
+	}
+	91012 = {
+		name = "Ivan Brajovic"
+		ideology = social_democrat
+		loyalty = 1.00
+		picture = M91012
+		minister_of_security = talented_liar
+		start_date = 2000.1.1
+	}
+	91013 = {
+		name = "Dusko Sekulic"
+		ideology = fascistic
+		loyalty = 1.00
+		picture = M91013
+		head_of_government = barking_buffoon
+		start_date = 2000.1.1
+	}
+	91014 = {
+		name = "Gjergj Camaj"
+		ideology = paternal_autocrat
+		loyalty = 1.00
+		picture = M91014
+		head_of_government = naval_intelligence_specialist
+		start_date = 2000.1.1
+	}
+	91015 = {
+		name = "Ferhat Dinosha"
+		ideology = paternal_autocrat
+		loyalty = 1.00
+		picture = M91015
+		foreign_minister = army_reformer
+		start_date = 2000.1.1
+	}
+	91016 = {
+		name = "Mehmet Bardhi"
+		ideology = paternal_autocrat
+		loyalty = 1.00
+		picture = M91016
+		armament_minister = majestic
+		start_date = 2000.1.1
+	}
+	91017 = {
+		name = "Ranko Kadic"
+		ideology = paternal_autocrat
+		loyalty = 1.00
+		picture = M91017
+		minister_of_security = prince_of_terror
+		start_date = 2000.1.1
+	}
+	91018 = {
+		name = "Predrag Popovic"
+		ideology = social_conservative 
+		loyalty = 1.00
+		picture = M91018
+		head_of_government = service_enforcer
+		start_date = 2000.1.1
+	}
+	91019 = {
+		name = "Krsto Pavicevic"
+		ideology = market_liberal
+		loyalty = 1.00
+		picture = M91019
+		head_of_state = die_hard_reformer
+		start_date = 2000.1.1
+	}
+	91020 = {
+		name = "Petar Bokan"
+		ideology = market_liberal
+		loyalty = 1.00
+		picture = M91020
+		head_of_government = sympathetic
+		start_date = 2000.1.1
+	}
+	91021 = {
+		name = "Slobodan Medenica"
+		ideology = market_liberal
+		loyalty = 1.00
+		picture = M91021
+		foreign_minister = planning_representative
+		start_date = 2000.1.1
+	}
+	91022 = {
+		name = "Dzoni Hodzic"
+		ideology = market_liberal
+		loyalty = 1.00
+		picture = M91022
+		armament_minister = ambitious_union_boss
+		start_date = 2000.1.1
+	}
+	91023 = {
+		name = "Milorad Dapcevic"
+		ideology = market_liberal
+		loyalty = 1.00
+		picture = M91023
+		minister_of_security = industrial_specialist
+		start_date = 2000.1.1
+	}
+	91024 = {
+		name = "Slavko Perovic"
+		ideology = social_liberal
+		loyalty = 1.00
+		picture = M91024
+		head_of_government = political_protege
+		start_date = 2000.1.1
+	}
+	91025 = {
+		name = "Andrija Popovic"
+		ideology = social_liberal
+		loyalty = 1.00
+		picture = M91025
+		foreign_minister = sympathetic
+		start_date = 2000.1.1
+	}
+	91026 = {
+		name = "Ranko Krivokapic"
+		ideology = left_wing_radical
+		loyalty = 1.00
+		picture = M91026
+		head_of_government = silent_lawyer
+		start_date = 2000.1.1
+	}
+	91027 = {
+		name = "Zarko Rakcevic"
+		ideology = left_wing_radical
+		loyalty = 1.00
+		picture = M91027
+		head_of_state = corrupt_kleptocrat
+		start_date = 2000.1.1
+	}
+	91028 = {
+		name = "Ljubisa Stankovic"
+		ideology = left_wing_radical
+		loyalty = 1.00
+		picture = M91028
+		foreign_minister = air_reformer
+		start_date = 2000.1.1
+	}
+	91029 = {
+		name = "Dusan Simonovic"
+		ideology = left_wing_radical
+		loyalty = 1.00
+		picture = M91029
+		armament_minister = industry_servant
+		start_date = 2000.1.1
+	}
+	91030 = {
+		name = "Dragan Samardzic"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M91029
+		chief_of_staff = corrupt_kleptocrat
+		start_date = 2000.1.1
+	}
+	91031 = {
+		name = "Dragutin Dakic"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M91031
+		chief_of_army = guns_and_butter_doctrine
+		start_date = 2000.1.1
+	}
+	91032 = {
+		name = "Zivko Pejovic"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M91032
+		chief_of_air = strategic_air_proponent
+		start_date = 2000.1.1
+	}
+	91033 = {
+		name = "Darko Vukovic"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M91033
+		chief_of_navy = old_admiral
+		start_date = 2000.1.1
+	}
+	
+}
+

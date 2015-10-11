@@ -1,0 +1,7 @@
+owner = CHC
+controller = CHC
+ 
+add_core = CHC
+energy = 20.00
+infra = 10
+air_base = 3

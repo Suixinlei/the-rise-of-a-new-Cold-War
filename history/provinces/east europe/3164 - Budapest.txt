@@ -1,0 +1,10 @@
+owner = HUN
+controller = HUN
+add_core = HUN
+
+industry = 3
+infra = 8
+manpower = 0.8
+air_base = 2 #Budapest airport
+leadership = 2.50
+points = 1

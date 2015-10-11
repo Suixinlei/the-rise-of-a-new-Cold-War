@@ -1,0 +1,7 @@
+owner = NIE
+controller = NIE
+add_core = NIE
+infra = 2
+manpower = 6.0
+air_base = 4 #Niamey airbase
+points = 1

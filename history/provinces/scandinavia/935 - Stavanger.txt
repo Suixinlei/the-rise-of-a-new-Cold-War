@@ -1,0 +1,13 @@
+owner = NOR
+controller = NOR
+add_core = NOR
+
+manpower = 0.2
+energy = 4.00
+crude_oil = 30.00
+infra = 7
+
+
+air_base = 1 #Stavanger airport
+naval_base = 4 #Stavanger port
+points = 1

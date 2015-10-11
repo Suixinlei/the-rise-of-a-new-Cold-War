@@ -1,0 +1,635 @@
+color = { 205  212  228 }
+graphical_culture = Generic
+
+last_election = 1999.3.21
+duration = 48
+
+default_templates = {
+	generic_infantry = {
+		infantry_brigade
+		infantry_brigade
+		infantry_brigade
+	}
+	generic_milita = {
+		militia_brigade
+		militia_brigade
+		militia_brigade
+	}
+	generic_armoured = {
+		armor_brigade
+		motorized_brigade
+		motorized_brigade
+	}
+	generic_cavalry = {
+		cavalry_brigade
+		cavalry_brigade
+	}
+}
+
+unit_names = {
+	infantry_brigade = {
+		"1. J‰‰k‰riprikaati" "2. J‰‰k‰riprikaati" "3. J‰‰k‰riprikaati" "4. J‰‰k‰riprikaati" "5. J‰‰k‰riprikaati" "6. J‰‰k‰riprikaati" "7. J‰‰k‰riprikaati" "8. J‰‰k‰riprikaati" "9. J‰‰k‰riprikaati" "10. J‰‰k‰riprikaati" "1. Polkupyˆr‰divisoona" 
+		"11. J‰‰k‰riprikaati" "12. J‰‰k‰riprikaati" "13. J‰‰k‰riprikaati" "14. J‰‰k‰riprikaati" "15. J‰‰k‰riprikaati" "16. J‰‰k‰riprikaati" "17. J‰‰k‰riprikaati" "18. J‰‰k‰riprikaati" "19. J‰‰k‰riprikaati" "20. J‰‰k‰riprikaati" "51. J‰‰k‰riprikaati" 
+		"21. J‰‰k‰riprikaati" "22. J‰‰k‰riprikaati" "23. J‰‰k‰riprikaati" "24. J‰‰k‰riprikaati" "25. J‰‰k‰riprikaati" "26. J‰‰k‰riprikaati" "27. J‰‰k‰riprikaati" "28. J‰‰k‰riprikaati" "29. J‰‰k‰riprikaati" "30. J‰‰k‰riprikaati" "52. J‰‰k‰riprikaati" 
+		"31. J‰‰k‰riprikaati" "32. J‰‰k‰riprikaati" "33. J‰‰k‰riprikaati" "34. J‰‰k‰riprikaati" "35. J‰‰k‰riprikaati" "36. J‰‰k‰riprikaati" "37. J‰‰k‰riprikaati" "38. J‰‰k‰riprikaati" "39. J‰‰k‰riprikaati" "40. J‰‰k‰riprikaati" "53. J‰‰k‰riprikaati" 
+		"41. J‰‰k‰riprikaati" "42. J‰‰k‰riprikaati" "43. J‰‰k‰riprikaati" "44. J‰‰k‰riprikaati" "45. J‰‰k‰riprikaati" "46. J‰‰k‰riprikaati" "47. J‰‰k‰riprikaati" "48. J‰‰k‰riprikaati" "49. J‰‰k‰riprikaati" "50. J‰‰k‰riprikaati" "54. J‰‰k‰riprikaati" 
+			}
+	air_cavalry_brigade = {
+		"1. Helikopteriprikaati" "2. Helikopteriprikaati" "3. Helikopteriprikaati" "4. Helikopteriprikaati" "5. Helikopteriprikaati" "6. Helikopteriprikaati" "7. Helikopteriprikaati" "8. Helikopteriprikaati" "9. Helikopteriprikaati"  "10. Helikopteriprikaati"
+	}
+	mechanized_brigade = {
+		"1. Panssarij‰‰k‰riprikaati" "2. Panssarij‰‰k‰riprikaati" "3. Panssarij‰‰k‰riprikaati" "4. Panssarij‰‰k‰riprikaati" "5. Panssarij‰‰k‰riprikaati" "6. Panssarij‰‰k‰riprikaati" "7. Panssarij‰‰k‰riprikaati" "8. Panssarij‰‰k‰riprikaati" "9. Panssarij‰‰k‰riprikaati" "10. Panssarij‰‰k‰riprikaati" "11. Panssarij‰‰k‰riprikaati" 
+		"12. Panssarij‰‰k‰riprikaati" "13. Panssarij‰‰k‰riprikaati" "14. Panssarij‰‰k‰riprikaati" "15. Panssarij‰‰k‰riprikaati" 
+	}
+	armor_brigade = {
+		"1. Panssariprikaati" "2. Panssariprikaati" "3. Panssariprikaati" "4. Panssariprikaati" "5. Panssariprikaati" "6. Panssariprikaati" "7. Panssariprikaati" "8. Panssariprikaati" "9. Panssariprikaati" "10. Panssariprikaati" "11. Panssariprikaati" 
+	}
+	cas = {
+		"1. Maahyˆkk‰yslaivue" "2. Maahyˆkk‰yslaivue" "3. Maahyˆkk‰yslaivue" "4. Maahyˆkk‰yslaivue" "5. Maahyˆkk‰yslaivue" "6. Maahyˆkk‰yslaivue" "7. Maahyˆkk‰yslaivue" "8. Maahyˆkk‰yslaivue" "9. Maahyˆkk‰yslaivue" "10. Maahyˆkk‰yslaivue"
+	}
+	cag = {
+		"1. Laivastoh‰vitt‰j‰laivue" "2. Laivastoh‰vitt‰j‰laivue" "3. Laivastoh‰vitt‰j‰laivue" "4. Laivastoh‰vitt‰j‰laivue" "5. Laivastoh‰vitt‰j‰laivue" "6. Laivastoh‰vitt‰j‰laivue" "7. Laivastoh‰vitt‰j‰laivue" "8. Laivastoh‰vitt‰j‰laivue" "9. Laivastoh‰vitt‰j‰laivue" "10. Laivastoh‰vitt‰j‰laivue"
+	}
+	garrison_brigade = { 
+		"Etel‰-Karjalan Maakuntajoukot" "Etel‰-Pohjanmaan Maakuntajoukot" "Etel‰-Savon Maakuntajoukot" "Kainuun Maakuntajoukot" "Kanta-H‰meen Maakuntajoukot" "Keski-Pohjanmaan Maakuntajoukot" "Keski-Suomen Maakuntajoukot" "Kymenlaakson Maakuntajoukot" "Lapin Maakuntajoukot" "Pirkanmaan Maakuntajoukot"
+		"Pohjanmaan Maakuntajoukot" "Pohjois-Karjalan Maakuntajoukot" "Pohjois-Pohjanmaan Maakuntajoukot" "Pohjois-Savon Maakuntajoukot" "P‰ij‰t-H‰meen Maakuntajoukot" "Satakunnan Maakuntajoukot" "Uusimaan Maakuntajoukot" "Varsinais-Suomen Maakuntajoukot"
+	}
+	hq_brigade = {
+		"1. Komentokeskus" "2. Komentokeskus" "3. Komentokeskus" "4. Komentokeskus" "5. Komentokeskus" "6. Komentokeskus" "7. Komentokeskus" "8. Komentokeskus" "9. Komentokeskus" "10. Komentokeskus"
+	}
+	interceptor = {
+		"H‰vitt‰j‰lentolaivue 11" "H‰vitt‰j‰lentolaivue 21" "H‰vitt‰j‰lentolaivue 31" "H‰vitt‰j‰lentolaivue 41" "H‰vitt‰j‰lentolaivue 51" "H‰vitt‰j‰lentolaivue 61" "H‰vitt‰j‰lentolaivue 71" "H‰vitt‰j‰lentolaivue 81" "H‰vitt‰j‰lentolaivue 91"
+	}
+	marine_brigade = {
+		"1. Rannikkoj‰‰k‰riprikaati" "2. Rannikkoj‰‰k‰riprikaati" "3. Rannikkoj‰‰k‰riprikaati" "4. Rannikkoj‰‰k‰riprikaati" "5. Rannikkoj‰‰k‰riprikaati" "6. Rannikkoj‰‰k‰riprikaati" "7. Rannikkoj‰‰k‰riprikaati" "8. Rannikkoj‰‰k‰riprikaati" "9. Rannikkoj‰‰k‰riprikaati" "10. Rannikkoj‰‰k‰riprikaati"
+	}
+	militia_brigade = {
+		"1. Nostov‰kiprikaati" "2. Nostov‰kiprikaati" "3. Nostov‰kiprikaati" "4. Nostov‰kiprikaati" "5. Nostov‰kiprikaati" "6. Nostov‰kiprikaati" "7. Nostov‰kiprikaati" "8. Nostov‰kiprikaati" "9. Nostov‰kiprikaati" "10. Nostov‰kiprikaati"
+	}
+	multi_role = {
+		"Lentolaivue 11" "Lentolaivue 21" "Lentolaivue 31" "Lentolaivue 41" "Lentolaivue 51" "Lentolaivue 61" "Lentolaivue 71" "Lentolaivue 81" "Lentolaivue 91"
+	}
+	naval_bomber = {
+		"Meripommituslaivue 11" "Meripommituslaivue 21" "Meripommituslaivue 31" "Meripommituslaivue 41" "Meripommituslaivue 51" "Meripommituslaivue 61" "Meripommituslaivue 71" "Meripommituslaivue 81" "Meripommituslaivue 91"
+	}
+	paratrooper_brigade = {
+		"1. Laskuvarjoj‰‰k‰riprikaati" "2. Laskuvarjoj‰‰k‰riprikaati" "3. Laskuvarjoj‰‰k‰riprikaati" "4. Laskuvarjoj‰‰k‰riprikaati" "5. Laskuvarjoj‰‰k‰riprikaati" "6. Laskuvarjoj‰‰k‰riprikaati" "7. Laskuvarjoj‰‰k‰riprikaati" "8. Laskuvarjoj‰‰k‰riprikaati" "9. Laskuvarjoj‰‰k‰riprikaati" "10. Laskuvarjoj‰‰k‰riprikaati"
+	}
+	special_forces_brigade = {
+		"1. Erikoisj‰‰k‰riprikaati" "2. Erikoisj‰‰k‰riprikaati" "3. Erikoisj‰‰k‰riprikaati" "4. Erikoisj‰‰k‰riprikaati" "5. Erikoisj‰‰k‰riprikaati" "6. Erikoisj‰‰k‰riprikaati" "7. Erikoisj‰‰k‰riprikaati" "8. Erikoisj‰‰k‰riprikaati" "9. Erikoisj‰‰k‰riprikaati" "10. Erikoisj‰‰k‰riprikaati"
+	}
+	strategic_bomber = {
+		"Pommituslaivue 11" "Pommituslaivue 21" "Pommituslaivue 31" "Pommituslaivue 41" "Pommituslaivue 51" "Pommituslaivue 61" "Pommituslaivue 71" "Pommituslaivue 81" "Pommituslaivue 91"
+	}
+	transport_plane = {
+		"Kuljetuslaivue 11" "Kuljetuslaivue 21" "Kuljetuslaivue 31" "Kuljetuslaivue 41" "Kuljetuslaivue 51" "Kuljetuslaivue 61" "Kuljetuslaivue 71" "Kuljetuslaivue 81" "Kuljetuslaivue 91"
+	}
+	battleship = {
+		"Apu" "J‰‰karhu" "Murtaja" "Paukku" "Porkkala" "Pukkio" "Viena" "Aura" "Uisko" "Rihtniemi" "Ruissalo" "Raisio"
+	}
+	light_cruiser = {
+		"Pohjanmaa" "H‰meenmaa" "Uusimaa" "Pansio" "Baltic" "Frej" "Tursas" "Viipuri" "Tuima" "Rˆytt‰" "Nuoli" "Joutsen"
+	}
+	heavy_cruiser = {
+		"Tarmo" "Sampo" "Sisu" "Poseidon" "Suomi" "Ajonp‰‰" "Tuisku" "Tuuli" "Tyrsky" "Augustin Ehrensv‰rd" "Axel Von Fersen" "Fabian Wrede"
+	}
+	battlecruiser = {
+		"Ilmarinen" "V‰in‰mˆinen" "Aallokas" "Kallanp‰‰" "Purunp‰‰" "Vahterp‰‰" "Isku" "Helsinki" "Oulu" "Pirkkala" "Wilhelm Carpelan" "Ahvola"
+	}
+	destroyer = {
+		"Voima" "Louhi" "Riilahti" "Tammenp‰‰" "Katanp‰‰" "Ahven" "Kotka" "Syˆksy" "Vasama" "Kustaanmiekka" "Pyh‰ranta" "Kiiski"
+	}
+	carrier = {
+		"Valtakunnanjohtaja Siitoin" "Soini" "Suur-Suomi" "Kiiski" "Muikku" "S‰rki" "Nuoli" "Vinha" "Raju" "Tornio" "Hanko" "Pori"
+	}
+	escort_carrier = {
+		"Mannerheim" "Marsalkka" "Ahti" "Luore" "Lahna" "Kuha" "Vihuri" "Viima" "Turja" "Kiisla" "Kurki" "Kampela"
+	}
+	submarine = {
+		"Vetehinen" "Vesihiisi" "Iku-Turso" "Vesikko" "Saukko" "Salakka" "Siika" "Harjus" "Hyˆky" "Hirmu" "Hurja" "Hylje" "Halli" "Louhi"
+	}
+	transport_ship = {
+		"Vaarlahti" "Vahakari" "Valas" "V‰nˆ" "Mursu" "Ruotsinsalmi" "Keih‰ssalmi" "Rautu" "S‰yn‰s" "Karppi" "Klas Horn" "Hyrsky" "H‰ijy" "Jylh‰"  
+	}
+	patrol_boat ={
+		"Vilppula" "Sveaborg" "Pommi" "Matti Kurki" "Karjala" "Turunmaa" "Jyry" "Jyske" "Jymy"
+	}
+	assault_ship = {
+		"Miina" "Lieska" "Loimu" "Aunus" "Giljak" "Tampere" "Tarmo" "Taisto" "Rym‰ttyl‰"
+	}
+	invasion_transport_ship = {
+		"1. Kuljetusviirikkˆ" "2. Kuljetusviirikkˆ" "3. Kuljetusviirikkˆ" "4. Kuljetusviirikkˆ" "5. Kuljetusviirikkˆ" "6. Kuljetusviirikkˆ" "7. Kuljetusviirikkˆ" "8. Kuljetusviirikkˆ" "9. Kuljetusviirikkˆ" "10. Kuljetusviirikkˆ"
+	}
+	jungle_brigade = {
+		"1. Viidakkoprikaati" "2. Viidakkoprikaati" "3. Viidakkoprikaati" "4. 'Tarzan' Viidakkoprikaati" "5. Viidakkoprikaati" "6. Viidakkoprikaati" "7. Viidakkoprikaati"
+		"8. Viidakkoprikaati" "9. Viidakkoprikaati" "10. Viidakkoprikaati" "11. Viidakkoprikaati" "12. Viidakkoprikaati" "13. Viidakkoprikaati" "14. Viidakkoprikaati"
+	}
+	mountain_brigade = {
+		"1. Vuoristoj‰‰k‰riprikaati" "2. Vuoristoj‰‰k‰riprikaati" "3. Vuoristoj‰‰k‰riprikaati" "4. Vuoristoj‰‰k‰riprikaati" "5. Vuoristoj‰‰k‰riprikaati" "6. Vuoristoj‰‰k‰riprikaati" "7. Vuoristoj‰‰k‰riprikaati"
+		"8. Vuoristoj‰‰k‰riprikaati" "9. Vuoristoj‰‰k‰riprikaati" "10. Vuoristoj‰‰k‰riprikaati" "11. Vuoristoj‰‰k‰riprikaati" "12. Vuoristoj‰‰k‰riprikaati" "13. Vuoristoj‰‰k‰riprikaati" "14. Vuoristoj‰‰k‰riprikaati"
+	}
+}
+
+ministers = { 
+	28001 = {
+		name = "Tarja Halonen"
+		ideology = social_democrat
+		loyalty = 1.00
+		picture = M28001
+		head_of_state = man_of_the_people
+		start_date = 2000.1.1
+	}
+	28002 = {
+		name = "Paavo Lipponen"
+		ideology = social_democrat
+		loyalty = 1.00
+		picture = M28002
+		head_of_state = compassionate_gentleman
+		head_of_government = die_hard_reformer
+		start_date = 1995.4.13
+	}
+	28003 = {
+		name = "Erkki Tuomioja"
+		ideology = social_democrat
+		loyalty = 1.00
+		picture = M28003
+		foreign_minister = political_specialist
+		start_date = 1999.4.15
+	}
+	28004 = {
+		name = "Jan Erik Enestam"
+		ideology = market_liberal
+		loyalty = 1.00
+		picture = M28004
+		armament_minister = pro_american
+		start_date = 1995.1.2
+	}
+	28005 = {
+		name = "Ville It‰l‰"
+		ideology = market_liberal
+		loyalty = 1.00
+		picture = M28005
+		minister_of_security = silent_lawyer
+		start_date = 2000.9.1
+	}
+	28006 = {
+		name = "Seppo Nevala"
+		ideology = social_democrat
+		loyalty = 1.00
+		picture = M28006
+		minister_of_intelligence = scandalous
+		start_date = 1996.1.1
+	}
+	28007 = {
+		name = "Juhani Kaskeala"
+		ideology = market_liberal
+		loyalty = 1.00
+		picture = M28007
+		chief_of_staff = old_admiral
+		start_date = 2001.6.4
+	}
+	28008 = {
+		name = "Ilkka Aspara"
+		ideology = market_liberal
+		loyalty = 1.00
+		picture = M28008
+		chief_of_army = school_of_defence
+		start_date = 2000.1.1
+	}
+	28009 = {
+		name = "Hans Holmstrˆm"
+		ideology = market_liberal
+		loyalty = 1.00
+		picture = M28009
+		chief_of_navy = open_seas_doctrine
+		start_date = 2001.1.1
+	}
+	28010 = {
+		name = "Jouni Pystynen"
+		ideology = market_liberal
+		loyalty = 1.00
+		picture = M28010
+		chief_of_air = army_aviation_doctrine
+		start_date = 1998.9.1
+	}
+	28011 = {
+		name = "Sauli Niinistˆ"
+		ideology = market_liberal
+		loyalty = 1.00
+		picture = M28011
+		head_of_state = laissez_faires_capitalist
+		start_date = 1995.4.13
+	}
+	28012 = {
+		name = "Matti Vanhanen"
+		ideology = social_liberal
+		loyalty = 1.00
+		picture = M28012
+		head_of_state = great_compromiser
+		head_of_government = scandalous
+		start_date = 2003.1.1
+	}
+	28013 = {
+		name = "Timo Soini"
+		ideology = paternal_autocrat
+		loyalty = 1.00
+		picture = M28013
+		head_of_state = patriot
+		head_of_government = pig_headed_isolationist
+		start_date = 2006.1.1
+	}
+	28014 = {
+		name = "Bjarne Kallis"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M28014
+		head_of_state = unexperienced_diplomat
+		start_date = 2006.1.1
+	}
+	28015 = {
+		name = "Paavo V‰yrynen"
+		ideology = social_liberal
+		loyalty = 1.00
+		picture = M28015
+		head_of_state = sympathetic
+		foreign_minister = political_protege
+		start_date = 1976.9.29
+	}
+	28016 = {
+		name = "Paavo Arhinm‰ki"
+		ideology = left_wing_radical
+		loyalty = 1.00
+		picture = M28016
+		head_of_state = naive_optimist
+		start_date = 2011.1.1
+	}
+	28017 = {
+		name = "Sari Essayah"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M28017
+		head_of_state = happy_amateur
+		start_date = 2012.1.1
+	}
+	28018 = {
+		name = "Anneli J‰‰tteenm‰ki"
+		ideology = social_liberal
+		loyalty = 1.00
+		picture = M28018
+		head_of_government = pro_american
+		start_date = 1994.5.1
+	}
+	28019 = {
+		name = "Mari Kiviniemi"
+		ideology = social_liberal
+		loyalty = 1.00
+		picture = M28019
+		head_of_government = indecisive_politician
+		start_date = 2005.1.1
+	}
+	28020 = {
+		name = "Jyrki Katainen"
+		ideology = social_liberal
+		loyalty = 1.00
+		picture = M28020
+		head_of_government = staunch_capitalist
+		start_date = 2007.1.1
+	}
+	28021 = {
+		name = "Ilkka Kanerva"
+		ideology = market_liberal
+		loyalty = 1.00
+		picture = M28021
+		foreign_minister = pro_american
+		start_date = 1995.8.28
+	}
+	28022 = {
+		name = "Alexander Stubb"
+		ideology = market_liberal
+		loyalty = 1.00
+		picture = M28022
+		foreign_minister = silent_workhorse
+		start_date = 2011.1.1
+	}
+	28023 = {
+		name = "Kari Rajam‰ki"
+		ideology = social_democrat
+		loyalty = 1.00
+		picture = M28023
+		minister_of_security = crime_fighter
+		start_date = 2003.1.1
+	}
+	28024 = {
+		name = "Anne Holmlund"
+		ideology = market_liberal
+		loyalty = 1.00
+		picture = M28024
+		minister_of_security = crooked_kleptocrat
+		start_date = 2007.1.1
+	}
+	28025 = {
+		name = "P‰ivi R‰s‰nen"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M28025
+		minister_of_security = barking_buffoon
+		start_date = 2011.1.1
+	}
+	28026 = {
+		name = "Seppo K‰‰ri‰inen"
+		ideology = social_liberal
+		loyalty = 1.00
+		picture = M28026
+		armament_minister = army_reformer
+		start_date = 1993.8.1
+	}
+	28027 = {
+		name = "Jyri H‰k‰mies"
+		ideology = market_liberal
+		loyalty = 1.00
+		picture = M28028
+		armament_minister = ideological_crusader
+		start_date = 2007.1.1
+	}
+	28028 = {
+		name = "Stefan Wallin"
+		ideology = market_liberal
+		loyalty = 1.00
+		picture = M28028
+		armament_minister = crooked_kleptocrat
+		start_date = 2007.1.1
+	}
+	28029 = {
+		name = "Carl Haglund"
+		ideology = market_liberal
+		loyalty = 1.00
+		picture = M28029
+		armament_minister = military_slob
+		start_date = 2012.1.1
+	}
+	28030 = {
+		name = "Ilkka Salmi"
+		ideology = market_liberal
+		loyalty = 1.00
+		picture = M28030
+		head_of_intelligence = technical_specialist
+		start_date = 2007.1.1
+	}
+	28031 = {
+		name = "Antti Pelttari"
+		ideology = market_liberal
+		loyalty = 1.00
+		picture = M28031
+		head_of_intelligence = technical_specialist
+		start_date = 2011.1.1
+	}
+	28032 = {
+		name = "Ari Puheloinen"
+		ideology = market_liberal
+		loyalty = 1.00
+		picture = M28032
+		chief_of_staff = tank_proponent
+		start_date = 2009.1.1
+	}
+	28033 = {
+		name = "Raimo Jyv‰sj‰rvi"
+		ideology = market_liberal
+		loyalty = 1.00
+		picture = M28033
+		chief_of_army = school_of_fire_support
+		start_date = 2011.1.1
+	}
+	28034 = {
+		name = "Juha Rannikko"
+		ideology = market_liberal
+		loyalty = 1.00
+		picture = M28034
+		chief_of_navy = base_control_doctrine
+		start_date = 2009.1.1
+	}
+	28035 = {
+		name = "Veli-Jukka Pennala"
+		ideology = market_liberal
+		loyalty = 1.00
+		picture = M28035
+		chief_of_navy = open_seas_doctrine
+		start_date = 2011.1.1
+	}
+	28036 = {
+		name = "Heikki Lyytinen"
+		ideology = market_liberal
+		loyalty = 1.00
+		picture = M28036
+		chief_of_air = air_superiority_doctrine
+		start_date = 2005.1.1
+	}
+	28037 = {
+		name = "Jarmo Lindberg"
+		ideology = market_liberal
+		loyalty = 1.00
+		picture = M28037
+		chief_of_air = air_superiority_doctrine
+		start_date = 2008.1.1
+	}
+	28038 = {
+		name = "Lauri Puranen"
+		ideology = market_liberal
+		loyalty = 1.00
+		picture = M28038
+		chief_of_air = air_superiority_proponent
+		start_date = 2012.1.1
+	}
+	28039 = {
+		name = "Abdullah Tammi"
+		ideology = national_socialist
+		loyalty = 1.00
+		picture = M28039
+		head_of_state = devout_muslim
+		start_date = 2007.1.1
+	}
+	28040 = {
+		name = "Matti J‰rviharju"
+		ideology = fascistic
+		loyalty = 1.00
+		picture = M28040
+		head_of_state = veteran
+		start_date = 2000.1.1
+	}
+	28041 = {
+		name = "Raimo Vistbacka"
+		ideology = paternal_autocrat
+		loyalty = 1.00
+		picture = M28041
+		foreign_minister = silent_lawyer
+		start_date = 1995.1.1
+	}
+	28042 = {
+		name = "Tony Halme"
+		ideology = paternal_autocrat
+		loyalty = 1.00
+		picture = M28042
+		armament_minister = iron_fisted_brute
+		start_date = 2003.1.1
+	}
+	28043 = {
+		name = "Pertti Virtanen"
+		ideology = paternal_autocrat
+		loyalty = 1.00
+		picture = M28043
+		minister_of_security = old_hippie
+		start_date = 1995.1.1
+	}
+	28044 = {
+		name = "Peter ÷stman"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M28044
+		head_of_government = laissez_faires_capitalist
+		start_date = 2011.1.1
+	}
+	28045 = {
+		name = "Jouko J‰‰skel‰inen"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M28045
+		foreign_minister = happy_amateur
+		start_date = 1991.1.1
+	}
+	28046 = {
+		name = "Sauli Ahvenj‰rvi"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M28046
+		armament_minister = technical_specialist
+		start_date = 2011.1.1
+	}
+	28047 = {
+		name = "Timo Kalli"
+		ideology = social_liberal
+		loyalty = 1.00
+		picture = M28047
+		minister_of_security = resource_industrialist
+		start_date = 1991.1.1
+	}
+	28048 = {
+		name = "Jutta Urpilainen"
+		ideology = social_democrat
+		loyalty = 1.00
+		picture = M28048
+		armament_minister = school_of_psychology
+		start_date = 2003.3.19
+	}
+	28049 = {
+		name = "Suvi-Anne Siimes"
+		ideology = left_wing_radical
+		loyalty = 1.00
+		picture = M28049
+		head_of_government = economic_expert
+		start_date = 1999.1.1
+	}
+	28050 = {
+		name = "Minna Sirnˆ"
+		ideology = left_wing_radical
+		loyalty = 1.00
+		picture = M28050
+		foreign_minister = biased_intellectual
+		start_date = 2003.1.1
+	}
+	28051 = {
+		name = "Risto Kalliorinne"
+		ideology = left_wing_radical
+		loyalty = 1.00
+		picture = M28051
+		armament_minister = school_of_psychology
+		start_date = 2011.1.1
+	}
+	28052 = {
+		name = "Martti Korhonen"
+		ideology = left_wing_radical
+		loyalty = 1.00
+		picture = M28052
+		minister_of_security = technical_specialist
+		start_date = 1999.1.1
+	}
+	28053 = {
+		name = "Juhani Tanski"
+		ideology = leninist
+		loyalty = 1.00
+		picture = M28053
+		head_of_government = untalented_nerd
+		start_date = 2003.1.1
+	}
+	28054 = {
+		name = "Pekka Tiainen"
+		ideology = leninist
+		loyalty = 1.00
+		picture = M28054
+		head_of_state = pig_headed_isolationist
+		start_date = 1999.1.1
+	}
+	28055 = {
+		name = "Minna Ekman"
+		ideology = leninist
+		loyalty = 1.00
+		picture = M28055
+		foreign_minister = unexperienced_diplomat
+		start_date = 2003.1.1
+	}
+	28056 = {
+		name = "Tommi Lievemaa"
+		ideology = leninist
+		loyalty = 1.00
+		picture = M28056
+		armament_minister = military_slob
+		start_date = 2003.1.1
+	}
+	28057 = {
+		name = "Heikki M‰nnikkˆ"
+		ideology = leninist
+		loyalty = 1.00
+		picture = M28057
+		minister_of_security = technical_specialist
+		start_date = 2003.1.1
+	}
+	28058 = {
+		name = "Yrjˆ Hakanen"
+		ideology = stalinist
+		loyalty = 1.00
+		picture = M28058
+		head_of_state = committed_socialist
+		start_date = 1990.1.1
+	}
+	28059 = {
+		name = "Kaija Kiessling"
+		ideology = stalinist
+		loyalty = 1.00
+		picture = M28059
+		head_of_government = unexperienced_diplomat
+		start_date = 2004.1.1
+	}
+	28060 = {
+		name = "Lena HuldÈn"
+		ideology = stalinist
+		loyalty = 1.00
+		picture = M28060
+		armament_minister = logistics_specialist
+		start_date = 2007.1.1
+	}
+	28061 = {
+		name = "Arto Viitaniemi"
+		ideology = stalinist
+		loyalty = 1.00
+		picture = M28061
+		foreign_minister = industrial_beast
+		start_date = 1990.1.1
+	}
+	28062 = {
+		name = "Jari Heinonen"
+		ideology = stalinist
+		loyalty = 1.00
+		picture = M28062
+		minister_of_security = political_specialist
+		start_date = 2005.1.1
+	}
+	
+}

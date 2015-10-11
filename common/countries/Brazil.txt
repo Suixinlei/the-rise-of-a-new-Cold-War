@@ -1,0 +1,166 @@
+color = { 76  145  63 }
+graphical_culture = Generic
+last_election = 2002.10.6
+duration = 48
+major = yes
+
+default_templates = {
+	generic_infantry = {
+		infantry_brigade
+		infantry_brigade
+		infantry_brigade
+	}
+	generic_milita = {
+		militia_brigade
+		militia_brigade
+		militia_brigade
+	}
+	generic_armoured = {
+		armor_brigade
+		motorized_brigade
+		motorized_brigade
+	}
+	generic_cavalry = {
+		cavalry_brigade
+		cavalry_brigade
+	}
+}
+
+unit_names = {
+	infantry_brigade = {
+		"I Divisão de Infantaria" "II Divisão de Infantaria" "III Divisão de Infantaria" "IV Divisão de Infantaria" "V Divisão de Infantaria" "VI Divisão de Infantaria" "VII Divisão de Infantaria" "VIII Divisão de Infantaria" "IX Divisão de Infantaria" "X Divisão de Infantaria" "XI Divisão de Infantaria" 
+		"XII Divisão de Infantaria" "XIII Divisão de Infantaria" "XIV Divisão de Infantaria" "XV Divisão de Infantaria" "XVI Divisão de Infantaria" "XVII Divisão de Infantaria" "XVIII Divisão de Infantaria" "XIX Divisão de Infantaria" "XX Divisão de Infantaria" "XXI Divisão de Infantaria" "XXII Divisão de Infantaria" 
+		"XXIII Divisão de Infantaria" "XXIV Divisão de Infantaria" "XXV Divisão de Infantaria" "XXVI Divisão de Infantaria" "XXVII Divisão de Infantaria" "XXVIII Divisão de Infantaria" "XXIX Divisão de Infantaria" "XXX Divisão de Infantaria" "XXXI Divisão de Infantaria" "XXXII Divisão de Infantaria" "XXXIII Divisão de Infantaria" 
+		"XXXIV Divisão de Infantaria" "XXXV Divisão de Infantaria" "XXXVI Divisão de Infantaria" "XXXVII Divisão de Infantaria" "XXXVIII Divisão de Infantaria" "XXXIX Divisão de Infantaria" "XL Divisão de Infantaria" "XLI Divisão de Infantaria" "XLII Divisão de Infantaria" "XLIII Divisão de Infantaria" "XLIV Divisão de Infantaria" 
+		"XLV Divisão de Infantaria" "XLVI Divisão de Infantaria" "XLVII Divisão de Infantaria" "XLVIII Divisão de Infantaria" "XLIX Divisão de Infantaria" "L Divisão de Infantaria" "LI Divisão de Infantaria" "LII Divisão de Infantaria" "LIII Divisão de Infantaria" "LIV Divisão de Infantaria" "LV Divisão de Infantaria" 
+		"LVI Divisão de Infantaria" "LVII Divisão de Infantaria" "LVIII Divisão de Infantaria" "LVIX Divisão de Infantaria" "LX Divisão de Infantaria" "LXI Divisão de Infantaria" "LXII Divisão de Infantaria" "LXIII Divisão de Infantaria" "LXIV Divisão de Infantaria" "LXV Divisão de Infantaria" "LXVI Divisão de Infantaria" 
+		"LXVII Divisão de Infantaria" "LXVIII Divisão de Infantaria" "LXIX Divisão de Infantaria" "LXX Divisão de Infantaria" "LXXI Divisão de Infantaria" "LXXII Divisão de Infantaria" "LXXIII Divisão de Infantaria" "LXXIV Divisão de Infantaria" "LXXV Divisão de Infantaria" "LXXVI Divisão de Infantaria" "LXXVII Divisão de Infantaria" 
+		"LXXVIII Divisão de Infantaria" "LXXIX Divisão de Infantaria" "LXXX Divisão de Infantaria" "LXXXI Divisão de Infantaria" "LXXXII Divisão de Infantaria" "LXXXIII Divisão de Infantaria" "LXXXIV Divisão de Infantaria" "LXXXV Divisão de Infantaria" "LXXXVI Divisão de Infantaria" "LXXXVII Divisão de Infantaria" "LXXXVIII Divisão de Infantaria" 
+		"LXXXIX Divisão de Infantaria" "XC Divisão de Infantaria" "XCI Divisão de Infantaria" 
+	}
+	cavalry_brigade = {
+		"XCII Divisão de Cavalaria" "XCIII Divisão de Cavalaria" "XCIV Divisão de Cavalaria" "XCV Divisão de Cavalaria" "XCVI Divisão de Cavalaria" "XCVII Divisão de Cavalaria" "XCVIII Divisão de Cavalaria" "XCIX Divisão de Cavalaria" "C Divisão de Cavalaria" "CI Divisão de Cavalaria" "CII Divisão de Cavalaria" 
+		"CIII Divisão de Cavalaria" "CIV Divisão de Cavalaria" "CV Divisão de Cavalaria" "CVI Divisão de Cavalaria" "CVII Divisão de Cavalaria" "CVIII Divisão de Cavalaria" "CIX Divisão de Cavalaria" "CX Divisão de Cavalaria" "CXI Divisão de Cavalaria" 
+	}
+	motorized_brigade = {
+		"CXII Divisão Motorizada" "CXIII Divisão Motorizada" "CXIV Divisão Motorizada" "CXV Divisão Motorizada" "CXVI Divisão Motorizada" "CXVII Divisão Motorizada" "CXVIII Divisão Motorizada" "CXIX Divisão Motorizada" "CXX Divisão Motorizada" "CXXI Divisão Motorizada" "CXXII Divisão Motorizada" 
+		"CXXIII Divisão Motorizada" "CXXIV Divisão Motorizada" "CXXV Divisão Motorizada" "CXXVI Divisão Motorizada" "CXXVII Divisão Motorizada" "CXXVIII Divisão Motorizada" "CXXIX Divisão Motorizada" "CXXX Divisão Motorizada" "CXXXI Divisão Motorizada" "CXXXII Divisão Motorizada" "CXXXIII Divisão Motorizada" 
+		"CXXXIV Divisão Motorizada" "CXXXV Divisão Motorizada" "CXXXVI Divisão Motorizada" "CXXXVII Divisão Motorizada" "CXXXIX Divisão Motorizada" "CXL Divisão Motorizada" "CXLI Divisão Motorizada" "CXLII Divisão Motorizada" "CXLIII Divisão Motorizada" "CXLIV Divisão Motorizada" "CXLV Divisão Motorizada" 
+		"CXLVI Divisão Motorizada" "CXLVII Divisão Motorizada" "CXLVIII Divisão Motorizada" "CXLIX Divisão Motorizada" "CL Divisão Motorizada" "CLI Divisão Motorizada" "CLII Divisão Motorizada" "CLIII Divisão Motorizada" 
+	}
+	mechanized_brigade = {
+		"CLIV Infantaria Mecanizada" "CLV Infantaria Mecanizada" "CLVI Infantaria Mecanizada" "CLVII Infantaria Mecanizada" "CLVIII Infantaria Mecanizada" "CLIX Infantaria Mecanizada" "CLX Infantaria Mecanizada" "CLXI Infantaria Mecanizada" "CLXII Infantaria Mecanizada" "CLXIII Infantaria Mecanizada" "CLXIV Infantaria Mecanizada" 
+		"CLXV Infantaria Mecanizada" "CLXVI Infantaria Mecanizada" "CLXVII Infantaria Mecanizada" "CLXVIII Infantaria Mecanizada" "CLXIX Infantaria Mecanizada" "CLXX Infantaria Mecanizada" "CLXXI Infantaria Mecanizada" "CLXXII Infantaria Mecanizada" "CLXXIII Infantaria Mecanizada" "CLXXIV Infantaria Mecanizada" "CLXXV Infantaria Mecanizada" 
+		"CLXXVI Infantaria Mecanizada" "CLXXVII Infantaria Mecanizada" "CLXXVIII Infantaria Mecanizada" "CLXXIX Infantaria Mecanizada" "CLXXX Infantaria Mecanizada" "CLXXXI Infantaria Mecanizada" "CLXXXII Infantaria Mecanizada" "CLXXXIII Infantaria Mecanizada" "CLXXXIV Infantaria Mecanizada" "CLXXXV Infantaria Mecanizada" "CLXXXVI Infantaria Mecanizada" 
+		"CLXXXVII Infantaria Mecanizada" "CLXXXIX Infantaria Mecanizada" "CXCI Infantaria Mecanizada" "CXCII Infantaria Mecanizada" "CXCIII Infantaria Mecanizada" "CXCIV Infantaria Mecanizada" "CXCV Infantaria Mecanizada" "CXCVI Infantaria Mecanizada" 
+	}
+	light_armor_brigade = {
+		"CXCVII Divisão do Tanque" "CXCIX Divisão do Tanque" "CC Divisão do Tanque" "CCI Divisão do Tanque" "CCII Divisão do Tanque" "CCIII Divisão do Tanque" "CCIV Divisão do Tanque" "CCV Divisão do Tanque" "CCVI Divisão do Tanque" "CCVII Divisão do Tanque" "CCVIII Divisão do Tanque" 
+		"CCIX Divisão do Tanque" "CCX Divisão do Tanque" "CCXI Divisão do Tanque" "CCXII Divisão do Tanque" "CCXIII Divisão do Tanque" "CCXIV Divisão do Tanque" "CCXV Divisão do Tanque" "CCXVI Divisão do Tanque" "CCXVII Divisão do Tanque" "CCXVIII Divisão do Tanque" "CCXIX Divisão do Tanque" 
+		"CCXX Divisão do Tanque" "CCXXI Divisão do Tanque" "CCXXII Divisão do Tanque" 
+	}
+	armor_brigade = {
+		"CXCVII Divisão do Tanque" "CXCIX Divisão do Tanque" "CC Divisão do Tanque" "CCI Divisão do Tanque" "CCII Divisão do Tanque" "CCIII Divisão do Tanque" "CCIV Divisão do Tanque" "CCV Divisão do Tanque" "CCVI Divisão do Tanque" "CCVII Divisão do Tanque" "CCVIII Divisão do Tanque" 
+		"CCIX Divisão do Tanque" "CCX Divisão do Tanque" "CCXI Divisão do Tanque" "CCXII Divisão do Tanque" "CCXIII Divisão do Tanque" "CCXIV Divisão do Tanque" "CCXV Divisão do Tanque" "CCXVI Divisão do Tanque" "CCXVII Divisão do Tanque" "CCXVIII Divisão do Tanque" "CCXIX Divisão do Tanque" 
+		"CCXX Divisão do Tanque" "CCXXI Divisão do Tanque" "CCXXII Divisão do Tanque" 
+	}
+	paratrooper_brigade = {
+		"CCXXIII Divisão de Paraquedistas" "CCXXIV Divisão de Paraquedistas" "CCXXV Divisão de Paraquedistas" "CCXXVI Divisão de Paraquedistas" "CCXXVII Divisão de Paraquedistas" "CCXXVIII Divisão de Paraquedistas" "CCXXIX Divisão de Paraquedistas" "CCXXX Divisão de Paraquedistas" "CCXXXI Divisão de Paraquedistas" "CCXXXII Divisão de Paraquedistas" "CCXXXIII Divisão de Paraquedistas" 
+		"CCXXXIV Divisão de Paraquedistas" "CCXXXV Divisão de Paraquedistas" "CCXXXVI Divisão de Paraquedistas" "CCXXXVII Divisão de Paraquedistas" 
+	}
+	marine_brigade = {
+		"CCXXXVIII Divisão de Fuzileiros Navais" "CCXXXIX Divisão de Fuzileiros Navais" "CCXL Divisão de Fuzileiros Navais" "CCXLI Divisão de Fuzileiros Navais" "CCXLII Divisão de Fuzileiros Navais" "CCXLIII Divisão de Fuzileiros Navais" "CCXLIV Divisão de Fuzileiros Navais" "CCXLV Divisão de Fuzileiros Navais" "CCXLVI Divisão de Fuzileiros Navais" "CCXLVII Divisão de Fuzileiros Navais" "CCXLVIII Divisão de Fuzileiros Navais" 
+		"CCXLIX Divisão de Fuzileiros Navais" "CCL Divisão de Fuzileiros Navais" "CCLI Divisão de Fuzileiros Navais" "CCLII Divisão de Fuzileiros Navais" 
+	}
+	bergsjaeger_brigade = {
+		"CCLIII Divisão de Montanha" "CCLIV Divisão de Montanha" "CCLV Divisão de Montanha" "CCLVI Divisão de Montanha" "CCLVII Divisão de Montanha" "CCLVIII Divisão de Montanha" "CCLIX Divisão de Montanha" "CCLX Divisão de Montanha" "CCLXI Divisão de Montanha" "CCLXII Divisão de Montanha" "CCLXIII Divisão de Montanha" 
+		"CCLXIV Divisão de Montanha" "CCLXV Divisão de Montanha" "CCLXVI Divisão de Montanha" "CCLXVII Divisão de Montanha" 
+	}
+	garrison_brigade = {
+		"L Divisão de Infantaria" "LI Divisão de Infantaria" "LII Divisão de Infantaria" "LIII Divisão de Infantaria" "LIV Divisão de Infantaria" "LV Divisão de Infantaria" "LVI Divisão de Infantaria" "LVII Divisão de Infantaria" "LVIII Divisão de Infantaria" "LVIX Divisão de Infantaria" "LX Divisão de Infantaria" 
+		"LXI Divisão de Infantaria" "LXII Divisão de Infantaria" "LXIII Divisão de Infantaria" "LXIV Divisão de Infantaria" "LXV Divisão de Infantaria" "LXVI Divisão de Infantaria" "LXVII Divisão de Infantaria" "LXVIII Divisão de Infantaria" "LXIX Divisão de Infantaria" "LXX Divisão de Infantaria" "LXXI Divisão de Infantaria" 
+		"LXXII Divisão de Infantaria" "LXXIII Divisão de Infantaria" "LXXIV Divisão de Infantaria" "LXXV Divisão de Infantaria" "LXXVI Divisão de Infantaria" "LXXVII Divisão de Infantaria" "LXXVIII Divisão de Infantaria" "LXXIX Divisão de Infantaria" "LXXX Divisão de Infantaria" "LXXXI Divisão de Infantaria" "LXXXII Divisão de Infantaria" 
+		"LXXXIII Divisão de Infantaria" "LXXXIV Divisão de Infantaria" "LXXXV Divisão de Infantaria" "LXXXVI Divisão de Infantaria" "LXXXVII Divisão de Infantaria" "LXXXVIII Divisão de Infantaria" "LXXXIX Divisão de Infantaria" "XC Divisão de Infantaria" "XCI Divisão de Infantaria" 
+	}
+	hq_brigade = {
+		"1o Exército do Brasil" "2o Exército do Brasil" "3o Exército do Brasil" "4o Exército do Brasil" "5o Exército do Brasil" "6o Exército do Brasil" "7o Exército do Brasil" "8o Exército do Brasil" "9o Exército do Brasil" "10o Exército do Brasil" 
+	}
+	militia_brigade = {
+		"CCLXVIII Divisão do Guarda Civíl" "CCLXIX Divisão do Guarda Civíl" "CCLXX Divisão do Guarda Civíl" "CCLXXI Divisão do Guarda Civíl" "CCLXXII Divisão do Guarda Civíl" "CCLXXIII Divisão do Guarda Civíl" "CCLXXIV Divisão do Guarda Civíl" "CCLXXV Divisão do Guarda Civíl" "CCLXXVI Divisão do Guarda Civíl" "CCLXXVII Divisão do Guarda Civíl" "CCLXXIX Divisão do Guarda Civíl" 
+		"CCLXXX Divisão do Guarda Civíl" "CCLXXXI Divisão do Guarda Civíl" "CCLXXXII Divisão do Guarda Civíl" "CCLXXXIII Divisão do Guarda Civíl" "CCLXXXIV Divisão do Guarda Civíl" "CCLXXXV Divisão do Guarda Civíl" "CCLXXXVI Divisão do Guarda Civíl" "CCLXXXVII Divisão do Guarda Civíl" "CCLXXXVIII Divisão do Guarda Civíl" "CCLXXXIX Divisão do Guarda Civíl" "CCXC Divisão do Guarda Civíl" 
+		"CCXCI Divisão do Guarda Civíl" "CCXCII Divisão do Guarda Civíl" "CCXCIII Divisão do Guarda Civíl" "CCXCIV Divisão do Guarda Civíl" "CCXCV Divisão do Guarda Civíl" "CCXCVI Divisão do Guarda Civíl" "CCXCVII Divisão do Guarda Civíl" "CCXCVIII Divisão do Guarda Civíl" "CCXCIX Divisão do Guarda Civíl" "CCC Divisão do Guarda Civíl" 
+	}
+	multi_role = {
+		"1. Grupo de Caças" "2. Grupo de Caças" "3. Grupo de Caças" "4. Grupo de Caças" "5. Grupo de Caças" "6. Grupo de Caças" "7. Grupo de Caças" "8. Grupo de Caças" "9. Grupo de Caças" "10. Grupo de Caças" "11. Grupo de Caças" 
+		"12. Grupo de Caças" "13. Grupo de Caças" "14. Grupo de Caças" "15. Grupo de Caças" "16. Grupo de Caças" "17. Grupo de Caças" "18. Grupo de Caças" "19. Grupo de Caças" "20. Grupo de Caças" 
+	}
+	interceptor = {
+		"1. Grupo de Caças" "2. Grupo de Caças" "3. Grupo de Caças" "4. Grupo de Caças" "5. Grupo de Caças" "6. Grupo de Caças" "7. Grupo de Caças" "8. Grupo de Caças" "9. Grupo de Caças" "10. Grupo de Caças" "11. Grupo de Caças" 
+		"12. Grupo de Caças" "13. Grupo de Caças" "14. Grupo de Caças" "15. Grupo de Caças" "16. Grupo de Caças" "17. Grupo de Caças" "18. Grupo de Caças" "19. Grupo de Caças" "20. Grupo de Caças" 
+	}
+	strategic_bomber = {
+		"1. Grupo de Bombardeiros" "2. Grupo de Bombardeiros" "3. Grupo de Bombardeiros" "4. Grupo de Bombardeiros" "5. Grupo de Bombardeiros" "6. Grupo de Bombardeiros" "7. Grupo de Bombardeiros" "8. Grupo de Bombardeiros" "9. Grupo de Bombardeiros" "10. Grupo de Bombardeiros" "11. Grupo de Bombardeiros" 
+		"12. Grupo de Bombardeiros" "13. Grupo de Bombardeiros" "14. Grupo de Bombardeiros" "15. Grupo de Bombardeiros" "16. Grupo de Bombardeiros" "17. Grupo de Bombardeiros" "18. Grupo de Bombardeiros" "19. Grupo de Bombardeiros" "20. Grupo de Bombardeiros" 
+	}
+	tactical_bomber = {
+		"21. Grupo de Bombardeiros" "22. Grupo de Bombardeiros" "23. Grupo de Bombardeiros" "24. Grupo de Bombardeiros" "25. Grupo de Bombardeiros" "26. Grupo de Bombardeiros" "27. Grupo de Bombardeiros" "28. Grupo de Bombardeiros" "29. Grupo de Bombardeiros" "30. Grupo de Bombardeiros" "31. Grupo de Bombardeiros" 
+		"32. Grupo de Bombardeiros" "33. Grupo de Bombardeiros" "34. Grupo de Bombardeiros" "35. Grupo de Bombardeiros" "36. Grupo de Bombardeiros" "37. Grupo de Bombardeiros" "38. Grupo de Bombardeiros" "39. Grupo de Bombardeiros" "40. Grupo de Bombardeiros" 
+	}
+	naval_bomber = {
+		"1. Grupo de Bomb. do Navais" "2. Grupo de Bomb. do Navais" "3. Grupo de Bomb. do Navais" "4. Grupo de Bomb. do Navais" "5. Grupo de Bomb. do Navais" "6. Grupo de Bomb. do Navais" "7. Grupo de Bomb. do Navais" "8. Grupo de Bomb. do Navais" "9. Grupo de Bomb. do Navais" "10. Grupo de Bomb. do Navais" "11. Grupo de Bomb. do Navais" 
+		"12. Grupo de Bomb. do Navais" "13. Grupo de Bomb. do Navais" "14. Grupo de Bomb. do Navais" "15. Grupo de Bomb. do Navais" "16. Grupo de Bomb. do Navais" "17. Grupo de Bomb. do Navais" "18. Grupo de Bomb. do Navais" "19. Grupo de Bomb. do Navais" "20. Grupo de Bomb. do Navais" "1. Grupo de Aviões Torpedeiros" "2. Grupo de Aviões Torpedeiros" 
+		"3. Grupo de Aviões Torpedeiros" "4. Grupo de Aviões Torpedeiros" "5. Grupo de Aviões Torpedeiros" "6. Grupo de Aviões Torpedeiros" "7. Grupo de Aviões Torpedeiros" "8. Grupo de Aviões Torpedeiros" "9. Grupo de Aviões Torpedeiros" "10. Grupo de Aviões Torpedeiros" "11. Grupo de Aviões Torpedeiros" "12. Grupo de Aviões Torpedeiros" "13. Grupo de Aviões Torpedeiros" 
+		"14. Grupo de Aviões Torpedeiros" "15. Grupo de Aviões Torpedeiros" 
+	}
+	cas = {
+		"1. Grupo de Bomb. de Mergulho" "2. Grupo de Bomb. de Mergulho" "3. Grupo de Bomb. de Mergulho" "4. Grupo de Bomb. de Mergulho" "5. Grupo de Bomb. de Mergulho" "6. Grupo de Bomb. de Mergulho" "7. Grupo de Bomb. de Mergulho" "8. Grupo de Bomb. de Mergulho" "9. Grupo de Bomb. de Mergulho" "10. Grupo de Bomb. de Mergulho" "11. Grupo de Bomb. de Mergulho" 
+		"12. Grupo de Bomb. de Mergulho" "13. Grupo de Bomb. de Mergulho" "14. Grupo de Bomb. de Mergulho" "15. Grupo de Bomb. de Mergulho" 
+	}
+	transport_plane = {
+		"1. Grupo de Aviões de Transporte" "2. Grupo de Aviões de Transporte" "3. Grupo de Aviões de Transporte" "4. Grupo de Aviões de Transporte" "5. Grupo de Aviões de Transporte" "6. Grupo de Aviões de Transporte" "7. Grupo de Aviões de Transporte" "8. Grupo de Aviões de Transporte" "9. Grupo de Aviões de Transporte" "10. Grupo de Aviões de Transporte" 
+	}
+	battleship = {
+		"NRB Minas Gerais" "NRB São Paulo" "NRB Santa Catarina" "NRB Espirito Santo" "NRB Rio de Janeiro" "NRB Maranhão" "NRB Goiás" "NRB Rio Grande do Sul" "NRB Pará" "NRB Alagoas" "NRB Pernambuco" 
+		"NRB Roraima" "NRB Tocantins" "NRB Santa Catarina" "NRB Rio Grande do Norte" "NRB Paraná" "NRB Acre" "NRB Mato Grosso" "NRB Amazona" "NRB Rondonia" "NRB Amapá" "NRB Piaui" 
+		"NRB Ceará" "NRB Sergipe" "NRB Paraíba" "NRB Mato Grosso do Sul" 
+	}
+	light_cruiser = {
+		"NRB Rio Grande do Norte" "NRB Paraná" "NRB Acre" "NRB Mato Grosso" "NRB Amazona" "NRB Rondonia" "NRB Amapá" "NRB Piaui" "NRB Ceará" "NRB Sergipe" "NRB Paraíba" 
+		"NRB Mato Grosso do Sul" 
+	}
+	heavy_cruiser = {
+		"NRB Belmonte" "NRB Bahia" "NRB Santa Catarina" "NRB Espirito Santo" "NRB Rio de Janeiro" "NRB Maranhão" "NRB Goiás" "NRB Rio Grande do Sul" "NRB Pará" "NRB Alagoas" "NRB Pernambuco" 
+		"NRB Roraima" "NRB Tocantins" "NRB Santa Catarina" "NRB Rio Grande do Norte" "NRB Paraná" "NRB Acre" "NRB Mato Grosso" "NRB Amazona" "NRB Rondonia" "NRB Amapá" "NRB Piaui" 
+		"NRB Ceará" "NRB Sergipe" "NRB Paraíba" "NRB Mato Grosso do Sul" 
+	}
+	battlecruiser = {
+		"NRB Minas Gerais" "NRB São Paulo" "NRB Santa Catarina" "NRB Espirito Santo" "NRB Rio de Janeiro" "NRB Maranhão" "NRB Goiás" "NRB Rio Grande do Sul" "NRB Pará" "NRB Alagoas" "NRB Pernambuco" 
+		"NRB Roraima" "NRB Tocantins" "NRB Santa Catarina" 
+	}
+	destroyer = {
+		"1. Flotilla de Contratorpedeiros" "2. Flotilla de Contratorpedeiros" "3. Flotilla de Contratorpedeiros" "4. Flotilla de Contratorpedeiros" "5. Flotilla de Contratorpedeiros" "6. Flotilla de Contratorpedeiros" "7. Flotilla de Contratorpedeiros" "8. Flotilla de Contratorpedeiros" "9. Flotilla de Contratorpedeiros" "10. Flotilla de Contratorpedeiros" "11. Flotilla de Contratorpedeiros" 
+		"12. Flotilla de Contratorpedeiros" "13. Flotilla de Contratorpedeiros" "14. Flotilla de Contratorpedeiros" "15. Flotilla de Contratorpedeiros" "16. Flotilla de Contratorpedeiros" "17. Flotilla de Contratorpedeiros" "18. Flotilla de Contratorpedeiros" "19. Flotilla de Contratorpedeiros" "20. Flotilla de Contratorpedeiros" 
+	}
+	carrier = {
+		"NRB Santa Catarina" "NRB Espirito Santo" "NRB Rio de Janeiro" "NRB Maranhão" "NRB Goiás" "NRB Rio Grande do Sul" "NRB Pará" "NRB Alagoas" "NRB Pernambuco" "NRB Roraima" "NRB Tocantins" 
+		"NRB Santa Catarina" 
+	}
+	escort_carrier = {
+		"NRB Minas Gerais" "NRB São Paulo" "NRB Santa Catarina" "NRB Espirito Santo" "NRB Rio de Janeiro" "NRB Maranhão" "NRB Goiás" "NRB Rio Grande do Sul" "NRB Pará" "NRB Alagoas" "NRB Pernambuco" 
+		"NRB Roraima" "NRB Tocantins" 
+	}
+	submarine = {
+		"1. Flotilla de Submarinos" "2. Flotilla de Submarinos" "3. Flotilla de Submarinos" "4. Flotilla de Submarinos" "5. Flotilla de Submarinos" "6. Flotilla de Submarinos" "7. Flotilla de Submarinos" "8. Flotilla de Submarinos" "9. Flotilla de Submarinos" "10. Flotilla de Submarinos" "11. Flotilla de Submarinos" 
+		"12. Flotilla de Submarinos" "13. Flotilla de Submarinos" "14. Flotilla de Submarinos" "15. Flotilla de Submarinos" "16. Flotilla de Submarinos" "17. Flotilla de Submarinos" "18. Flotilla de Submarinos" "19. Flotilla de Submarinos" "20. Flotilla de Submarinos" 
+	}
+	transport_ship = {
+		"1. Flotilla de Navios de Transporte" "2. Flotilla de Navios de Transporte" "3. Flotilla de Navios de Transporte" "4. Flotilla de Navios de Transporte" "5. Flotilla de Navios de Transporte" "6. Flotilla de Navios de Transporte" "7. Flotilla de Navios de Transporte" "8. Flotilla de Navios de Transporte" "9. Flotilla de Navios de Transporte" "10. Flotilla de Navios de Transporte" "11. Flotilla de Navios de Transporte" 
+		"12. Flotilla de Navios de Transporte" "13. Flotilla de Navios de Transporte" "14. Flotilla de Navios de Transporte" "15. Flotilla de Navios de Transporte" "16. Flotilla de Navios de Transporte" "17. Flotilla de Navios de Transporte" "18. Flotilla de Navios de Transporte" "19. Flotilla de Navios de Transporte" "20. Flotilla de Navios de Transporte" 
+	}
+
+}
+
+
+ministers = {
+	
+}

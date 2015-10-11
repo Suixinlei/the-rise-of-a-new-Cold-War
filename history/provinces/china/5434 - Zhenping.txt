@@ -1,0 +1,6 @@
+owner = CHC
+controller = CHC
+ 
+add_core = CHC
+crude_oil = 10.00
+infra = 6

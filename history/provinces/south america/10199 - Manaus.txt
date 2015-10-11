@@ -1,0 +1,8 @@
+owner = BRA
+controller = BRA
+add_core = BRA
+
+infra = 4
+
+air_base = 6 #Manaus airport and surrounding airbases
+points = 1

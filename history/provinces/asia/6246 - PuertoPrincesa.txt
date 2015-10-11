@@ -1,0 +1,10 @@
+owner = PHI
+
+controller = PHI
+
+add_core = PHI
+
+infra = 4
+air_base = 3 #Antonia Bautista and Tarumpitao airbase
+naval_base = 3 #Puerto Princesa port
+points = 1

@@ -1,0 +1,12 @@
+owner = OMN
+
+controller = OMN
+add_core = OMN
+infra = 5
+manpower = 0.9
+energy = 25.00
+rare_materials = 7.00
+air_base = 6 #Muscat airport and Sohar airbase
+naval_base = 5 #Port Sultan Qaboos
+leadership = 2.50
+points = 1

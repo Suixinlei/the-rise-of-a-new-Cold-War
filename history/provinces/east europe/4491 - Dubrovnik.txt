@@ -1,0 +1,7 @@
+owner = CRO
+controller = CRO
+add_core = CRO
+
+infra = 7
+naval_base = 2 #Dubrovnik port
+points = 1

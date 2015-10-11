@@ -1,0 +1,9 @@
+owner = SCH
+controller = SCH
+add_core = SCH
+manpower = 0.5
+industry = 2
+infra = 10
+
+air_base = 3 #Geneve airport
+points = 1

@@ -1,0 +1,243 @@
+xxxx;;;;;;;;;;;;;;x
+######################################################################;;;;;;;;;;;;;;x
+# Savegame transfers;;;;;;;;;;;;;;x
+######################################################################;;;;;;;;;;;;;;x
+SAVE_PROG;游戏进度：$VALUE$ %;Progression de la sauvegarde : $VALUE$ %;Speicherfortschritt: $VALUE$ %;Post阷 zapisu: $VALUE$ %;Guardado completado: $VALUE$ %;Salva progressi: $VALUE$ %;Ment閟 folyamaban: $VALUE$%;Ulo瀒t postup: $VALUE$ %;;;;;;x
+TRANSERING_SAVE;解析游戏进度中……;D閎ut du transfert de la sauvegarde?Spielstandtransfer eingeleitet ...;Rozpocz阾o transfer zapisanej gry...;Inicio de transferencia de datos guardados...;Trasferimento del salvataggio avviato...;Ment閟醫t鰈t閟 folyamatban?Za鑑lo ukl醖醤?..;;;;;;x
+LOADING_LOCAL_SAVE;读取游戏进度中……;Chargement de la copie de sauvegarde locale?Lokale Spielstandkopie wird geladen ...;Wczytuj?kopi?zapisanej gry lokalnej...;Cargando copia local de datos guardados...;Caricamento copia salvataggio in locale in corso...;Helyi ment閟 bet鰈t閟e?Nahr醰醤?m韘tn?ulo瀍n?hry...;;;;;;x
+PLR_DISC;玩家$NAME$离开了游戏。;Le joueur $NAME$ a quitt?la partie.;Spieler $NAME$ hat das Spiel verlassen.;Gracz $NAME$ opu渃i?gr?;El jugador $NAME$ ha abandonado el juego.;Il giocatore $NAME$ ha lasciato la partita.;$NAME$ elhagyta a j醫閗ot.;Hr徼 $NAME$ opustil hru.;;;;;;x
+PLR_CONNECT;玩家$NAME$加入了游戏。;Le joueur Player $NAME$ a rejoint la partie.;Spieler $NAME$ ist dem Spiel beigetreten.;Gracz $NAME$ do彻czy?do gry.;El jugador $NAME$ se ha unido al juego.;Il giocatore $NAME$ partecipa alla partita.;$NAME$ csatlakozott a j醫閗hoz.;Hr徼 $NAME$ se p鴌pojil ke h鴈.;;;;;;x
+REVERT_SAVE_CAL;恢复默认数据。;Retour ?la base de donn閑s par d閒aut.;Standard-Datenbank wird eingesetzt.;Powr髏 do domy渓nej bazy danych.;Volviendo a la base de datos por defecto.;Ripristino del database predefinito.;Visszat閞閟 az eredeti adatb醶ishoz?Reverze na v齝hoz?datab醶i.;;;;;;x
+SAVE_TRANSFER_DONE;游戏进度解析完成。;Transfert de sauvegarde termin?;Spielstandtransfer beendet.;Dokonano transferu zapisanej gry.;Transferencia de datos guardados completada.;Trasferimento del salvataggio completato.;Ment閟醫t鰈t閟 k閟z.;P鴈nos ulo瀍n?hry ukon鑕n.;;;;;;x
+######################################################################;;;;;;;;;;;;;;x
+# Loading texts;;;;;;;;;;;;;;x
+######################################################################;;;;;;;;;;;;;;x
+LOADING_MAP_SPRITES;读取地图……;Chargement des sprites de carte?Karten-Sprites werden geladen ...;Wczytywanie Map-Sprites...;Cargando gr醘icos animados de mapas...;Caricamento Sprites mappa in corso...;Egys間ek bet鰈t閟e?Nahr醰醤?zmen歟nin na map?..;;;;;;x
+LOADING_GUI_DEF;读取图形界面……;Chargement des d閒initions GUI?GUI-Definitionen werden geladen ...;Wczytywanie definicji interfejsu graficznego...;Cargando definiciones de IGU...;Caricamento definizioni GUI in corso...;GUI bet鰈t閟e?Nahr醰醤?definic rozhran?..;;;;;;x
+LOADING_DATABASES;读取数据库……;Chargement des bases de donn閑s?Datenbanken werden geladen ...;Wczytywanie baz danych...;Cargando bases de datos...;Caricamento database in corso...;Adatb醶is bet鰈t閟e?Nahr醰醤?datab醶?..;;;;;;x
+LOADING_DATABASES2;读取数据库II……;Chargement des bases de donn閑s II?;;Cargando bases de datos II...;;;;;;;;;x
+INIT_MAP_LOGIC;初始化地图……;Initialisation Maplogic?Maplogic wird initialisiert ...;Uruchamianie Maplogic...;Inicializando l骻ica de mapa...;Inizializzazione Maplogic in corso...;P醠ya鷗vonalak t鰈t閟e?Inicializace syst閙u map?;;;;;x
+CREATING_CHKSUM;创建校验点……;Cr閍tion de somme de contr鬺e?Pr黤summe wird erstellt ...;Tworzenie sumy kontrolnej...;Creando total de chequeos...;Creazione checksum in corso...;Ellen鮮z?鰏szeg l閠rehoz醩a?Vytv狲en?hodnot sou鑤?..;;;;;;x
+LOADING_HISTORY;读取历史文件……;Chargement des fichiers historiques...;Geschichtsdateien werden geladen ...;Wczytywanie plik體 historycznych...;Cargando archivos de historia...;Caricamento file storia in corso...;T鰎t閚elmi f醞lok bet鰈t閟e?Nahr醰醤?soubor?s histori?..;;;;;;x
+LOADING_SOUNDS;读取声音……;Chargement des sons?Sounddateien werden geladen ...;Wczytywanie d焪i阫體...;Cargando sonidos...;Caricamento suoni in corso...;Hangok bet鰈t閟e?Nahr醰醤?zvuk?..;;;;;;x
+PROC_FLAGS;处理变量……;Traitement des drapeaux?Flaggen werden verarbeitet ...;Przetwarzanie flag...;Procesando banderas...;Elaborazione flag in corso...;Z醩zl髃 feldolgoz醩a?Zpracov醤?vlajek...;;;;;;x
+LOAD_FLAGS;读取变量……;Chargement des drapeaux?Flaggen werden geladen ...;Wczytywanie flag...;Cargando banderas...;Caricamento flag in corso...;Z醩zl髃 bet鰈t閟e?Nahr醰醤?vlajek...;;;;;;x
+LOAD_GFX;读取图像……;Chargement des graphismes?Grafiken werden geladen ...;Wczytywanie grafiki...;Cargando gr醘icos...;Caricamento grafica in corso...;Grafik醟 bet鰈t閟e?Nahr醰醤?grafiky...;;;;;;x
+CREATING_THE_WORLD;创建世界……;Cr閍tion du monde?Die Welt wird erstellt ...;Tworzenie 渨iata...;Creando el mundo...;Creazione mondo in corso...;Vil醙 l閠rehoz醩a?Vytv狲en?sv靦a...;;;;;;x
+CREATING_TREES;创建树木……;Cr閍tion des arbres...;B鋟me werden erstellt ...;Tworzenie drzew...;Creando 醨boles...;Creazione alberi in corso...;F醟 l閠rehoz醩a?Vytv狲en?porost?..;;;;;;x
+CREATING_BORDERS;创建边界……;Cr閍tion des fronti鑢es...;Grenzen werden erstellt ...;Tworzenie granic...;Creando fronteras...;Creazione confini in corso...;Orsz醙hat醨ok l閠rehoz醩a?Vytv狲en?hranic...;;;;;;x
+CREATING_RIVERS;创建河流……;Cr閍tion des fleuves...;Fl黶se werden erstellt ...;Tworzenie rzek...;Creando r韔s...;Creazione fiumi in corso...;Foly髃 l閠rehoz醩a?Vytv狲en?鴈k...;;;;;;x
+MAP_PROPERLY_INIT;地图完全初始化……;Initialisation de la carte r閡ssie?Karte korrekt initialisiert ...;Mapa uruchomiona prawid硂wo...;Mapa inicializado con 閤ito...;Mappa inizializzata correttamente...;A p醠ya bet鰈tve?Mapa byla spr醰n?inicializov醤a...;;;;;;x
+CREATING_PROVINCE;创建省份 #;Cr閍tion de province #;Erstellung der Provinz#;Tworzenie prowincji;Creando provincia #;Creazione provincia # in corso...;Provincia l閠rehoz醩a?Vytv狲en?provincie #;;;;;;x
+CREATING_TEXTS;创建文本……;Cr閍tion des textes?Texte werden erstellt ....;Tworzenie tekst體...;Creando textos....;Creazione testi in corso...;Sz鰒egek l閠rehoz醩a?Vytv狲en?text?..;;;;;;x
+LOAD_EVENTS;读取事件……;Chargement des 関鑞ements?Ereignisse werden geladen ...;Wczytywanie zdarze?..;Cargando eventos...;Caricamento eventi in corso...;Esem閚yek bet鰈t閟e?Nahr醰醤?ud醠ost?..;;;;;;x
+ADAPTING_HISTORY;调节历史……;Adaptation de l'Histoire?Geschichte wird angepasst...;Przystosowywanie historii...;adaptando historia...;Adattamento storia in corso...;T鰎t閚elmi f醞lok bet鰈t閟e?Adaptace historie...;;;;;;x
+CALC_PATHS;计算路径……\n这将需要几分钟。;Calcul des chemins匼nCela peut prendre plusieurs minutes.;Pfade werden berechnet ...\nDies kann einige Minuten dauern.;Obliczanie 渃ie縠k...\nTo mo縠 potrwa?kilka minut.;Calculando rutas...\nEsto puede llevar varios minutos.;Calcolo percorsi in corso... \nQuesta operazione potrebbe richiedere qualche minuto.;趖vonalak kisz醡韙醩a匼n Ez n閔醤y percet is ig閚ybe vehet?V齪o鑕t cest...\nTo m鶠e trvat n靕olik minut.;;;;;;x
+FE_TOGGLE;快速开始;D閙arrage rapide;Schnellstart;;Inicio r醦ido;;;;;;;;;x
+FE_TOGGLE_NORMAL;自定义开始;D閙arrage personnalis?Benutzerdefinierter Start;;Inicio personalizado;;;;;;;;;x
+#######################################;;;;;;;;;;;;;;x
+# Quick Start Texts;;;;;;;;;;;;;;x
+#######################################;;;;;;;;;;;;;;x
+FE_QS_GER_TITLE;德国，1939年九月;;;;;;;;;;X
+FE_QS_GER_GOAL;征服华沙和巴黎;;;;;;;;;;X
+FE_QS_GER_INFO;这个剧本的重点主要集中于战争。你可以完\n全控制你的军事力量，而电脑将为你自动处\n理其他事务。\n;;;;;;;;;;X
+FE_QS_SOV_TITLE;苏联，1941年六月;;;;;;;;;;X
+FE_QS_SOV_GOAL;守住斯大林格勒，莫斯科和列宁格勒;;;;;;;;;;X
+FE_QS_SOV_INFO;完全控制苏联的军事力量和生产。电脑将为\n你自动处理科研、外交、情报和政治事务。\n;;;;;;;;;;X
+FE_QS_JAP_TITLE;日本，1941年十二月;;;;;;;;;;X
+FE_QS_JAP_GOAL;征服夏威夷和瓜达尔卡纳尔岛;;;;;;;;;;X
+FE_QS_JAP_INFO;控制强有力的日本海军及登陆部队来征服太\n平洋。电脑将在其他方面帮助你操控国家的\n各个部分。\n;;;;;;;;;;X
+FE_QS_USA_TITLE;美国，1936年一月;;;;;;;;;;X
+FE_QS_USA_GOAL;参战;;;;;;;;;;X
+FE_QS_USA_INFO;你可以完全控制生产、科研、政治和情报，\n在此基础上促进美国准备好参加第二次世界\n大战，从法西斯手中拯救世界。\n;;;;;;;;;;X
+######################################################################;;;;;;;;;;;;;;x
+######################################################################;;;;;;;;;;;;;;x
+# Settings ;;;;;;;;;;;;;;x
+FE_SETTING_DIPLOMACY;外交;Diplomatie;Diplomatie;;Diplomacia;;;;;;;;;x
+FE_SETTING_PRODUCTION;生产;Production;Produktion;;Producci髇;;;;;;;;;x
+FE_SETTING_POLITICS;政治;Politique;Politik;;Pol韙ica;;;;;;;;;x
+FE_SETTING_INTEL;情报;Espionnage;Aufkl鋜ung;;Inteligencia;;;;;;;;;x
+FE_SETTING_TECHNOLOGY;科研;Technologie;Technologie;;Tecnolog韆;;;;;;;;;x
+FE_SETTING_UNITINTERFACE;部队;Arm閑s;Armeen;;Ej閞citos;;;;;;;;;x
+DIFF_VERY_EASY;非常简单;Tr鑣 facile;Sehr leicht;;Muy f醕il;;;;;;;;;x
+DIFF_EASY;简单;Facile;Leicht;;F醕il;;;;;;;;;x
+DIFF_NORMAL;正常;Normal;Normal;;Normal;;;;;;;;;x
+DIFF_HARD;困难;Difficile;Schwer;;Dif韈il;;;;;;;;;x
+DIFF_VERY_HARD;非常困难;Tr鑣 difficile;Sehr schwer;;Muy dif韈il;;;;;;;;;x
+OPT_EASY;正常;Normal;Normal;;Normal;;;;;;;;;x
+OPT_EXPERT;专家;Expert;Experte;;Experto;;;;;;;;;x
+OPT_AICONTROL;电脑控制;Contr鬺e de l'IA;KI-Kontrolle;;Control de la IA;;;;;;;;;x
+OPT_AI_CORP;电脑控制军级单位;Corps contr鬺閟 par l'IA;KI kontrolliert Korps;;La IA controla los cuerpos;;;;;;;;;x
+OPT_AI_ARMY;电脑控制集团军级单位;Arm閑s contr鬺閟 par l'IA;KI kontrolliert Armeen;;La IA controla los ej閞citos;;;;;;;;;x
+OPT_AI_ARMY_GROUP;电脑控制集群级单位;Groupes d'arm閑s contr鬺閟 par l'IA;KI kontrolliert Armeegruppen;;La IA controla los grupos de ej閞cito;;;;;;;;;x
+OPT_AI_THEATER;电脑控制战区级单位;Th殁tres des op閞ations contr鬺閟 par l'IA;KI kontrolliert Kriegsschaupl鋞ze;;La IA controla los teatros;;;;;;;;;x
+OPT_PLAYER_CONTROL;玩家控制;Contr鬺e du joueur;Spielersteuerung;;Control del jugador;;;;;;;;;x
+OPT_NORMAL;正常;Normal;Normal;;Normal;;;;;;;;;x
+######################################################################;;;;;;;;;;;;;;x
+######################################################################;;;;;;;;;;;;;;x
+# Misc ;;;;;;;;;;;;;;x
+FE_HEAD_OF_STATE;国家元首;Chef de l'閠at;Staatsoberhaupt;;Jefe de Estado;;;;;;;;;x
+ATPEACE;处于和平。;En paix.;Im Frieden;;En paz.;;;;;;;;;x
+ATWAR;处于战争。;En guerre.;Im Krieg;;En guerra.;;;;;;;;;x
+WORLD_YEAR;$YEAR$年$MONTH$$DAY$日$NAME$;$NAME$, $DAY$ $MONTH$ $YEAR$;;;$NAME$, $DAY$ de $MONTH$, $YEAR$;;;;;;;;;x
+CORE_PAUSED;暂停;PAUSE;PAUSE;PAUZA;PAUSA;PAUSA;Sz黱et;PAUZA;;;;;;x
+SM_SETTINGS;设置;Param鑤res;Einstellungen;Ustawienia;Configuraci髇;Impostazioni;Be醠l韙醩ok;Nastaven?;;;;;x
+SM_GAME;游戏;Jeu;Spiel;Gra;Juego;Partita;J醫閗;Hra;;;;;;x
+SM_VIDEO;视频;Vid閛;Grafik;Grafika;V韉eo;Video;Vide?Grafika;;;;;;x
+SM_AUDIO;音频;Audio;Sound;D焪i阫;Sonido;Audio;Hangok;Zvuk;;;;;;x
+SM_CONTROLS;控制;Contr鬺es;Maus;Mysz;CONTROLES;Comandi;Ir醤y韙醩;Ovl醖醤?;;;;;x
+SM_MASTER_VOLUME;主音量;Volume principal;Hauptlautst鋜ke;G硂渘o滄 og髄na;Volumen principal;Volume generale;Hanger?Celkov?hlasitost;;;;;;x
+SM_EFFECT_VOLUME;效果音量;Volume des effets sonores;Soundeffektlautst鋜ke;G硂渘o滄 efekt體;Volumen de los efectos;Volume effetti;Effektek hangereje;Hlasitost zvukov齝h efekt?;;;;;x
+SM_MUSIC_VOLUME;音乐音量;Volume de la musique;Musiklautst鋜ke;G硂渘o滄 muzyki;Volumen de la m鷖ica;Volume musica;Zene hangereje;Hlasitost hudby;;;;;;x
+SM_SCROLL_SPEED;卷屏速度;Vitesse de d閒ilement;Scrollgeschwindigkeit;Pr阣ko滄 przewijania;Velocidad de desplazamiento;Velocit?scorrimento;G鰎get閟 sebess間e;Rychlost posouv醤?;;;;;x
+SM_ZOOM_SPEED;缩放速度;Vitesse du zoom;Zoomgeschwindigkeit;Pr阣ko滄 skalowania;Velocidad de zoom;Velocit?zoom;Nagy韙醩 sebess間e;Rychlost zaost鴒v醤?;;;;;x
+SM_MOUSE_SPEED;鼠标速度;Vitesse de la souris;Mausgeschwindigkeit;Pr阣ko滄 myszy;Velocidad del rat髇;Velocit?mouse;Eg閞 sebess間e;Rychlost my歩;;;;;;x
+SM_RESOLUTION;分辨率;R閟olution;Aufl鰏ung;Rozdzielczo滄;Definici髇;Risoluzione;Felbont醩;Rozli歟n?;;;;;x
+SM_REFRESH_RATE;刷新率;Taux de rafra頲hissement;Bildwiederholrate;Pr阣ko滄 od渨ie縜nia;Tasa de actualizaci髇;Aggiornamento;Friss韙閟i frekvencia;Obnovovac?frekvence;;;;;;x
+SM_GAMMA;亮度;Gamma;Gamma;Gamma;Gamma;Gamma;Gamma;Jas (Gamma);;;;;;x
+SM_SHADOWS;阴影;Ombres;Schatten;Cienie;Sombras;Ombre;羠ny閗ok;St韓ov醤?;;;;;x
+SM_TREES;树木;Arbres;B鋟me;Drzewa;羠boles;Alberi;F醟;Stromy;;;;;;x
+SM_DIFFICULTY;困难度;Difficult?Schwierigkeit;Trudno滄;Dificultad;Difficolt?Neh閦s間;Obt頌nost;;;;;;x
+SM_AUTOSAVE_INTERVAL;自动储存间隔;Intervalle de sauvegarde automatique;Intervall f. autom. Speichern ;Przedzia?autozapisu;Intervalo de guardado autom醫ico;Intervallo autosalvataggio;Automent閟 id鮧鰖e;Interval automatick閔o ukl醖醤?;;;;;x
+SM_APPLY;应用;Appliquer;Anwenden;Zastosuj;Aplicar;Applicare;Alkalmaz;Pou烅t;;;;;;x
+SM_BACK;返回;Retour;Zur點k;Powr髏;Atr醩;Indietro;Vissza;Zp靦;;;;;;x
+SM_ALERT;警告;Alerte;Benachrichtigung;Powiadomienie;Alerta;Avvertimento;Riad?V齭traha;;;;;;x
+SM_RESTART;你需要重启游戏以实现更改后的效果。;Vous devez red閙arrer pour que la modification prenne effet.;Sie m黶sen den Rechner neu starten, damit die 膎derung in Kraft treten kann.;Aby zmiany zosta硑 zapisane, musisz ponownie uruchomi?gr?;Tendr醩 que reiniciar para que los cambios surtan efecto.;Per rendere attive le modifiche ?necessario riavviare.;Az 閞v閚ybel閜tet閟hez 鷍ra kell ind韙anod a programot.;Zm靚y se uplatn?a?po restartu hry.;;;;;;x
+SM_WP;设置文件写入错误，确认文件没有写保护后重试。;Erreur lors de l'閏riture du fichier de param鑤res. V閞ifiez qu'il n'est pas prot間?et r閑ssayez.;Fehler beim Schreiben der Einstellungsdatei. Pr黤en Sie, ob die Datei schreibgesch黷zt ist und versuchen Sie es erneut;B彻d podczas zapisu pliku ustawie? Sprawd? czy plik nie jest chroniony przed zapisem i spr骲uj ponownie.;Error de escritura en el archivo de configuraci髇. Comprueba que el archivo no est?protegido contra escritura e int閚talo de nuevo.;Errore di scrittura nel file delle impostazioni. Controllare che il file non sia protetto da scrittura e riprovare.;Hiba, nem siker黮t 韗ni a be醠l韙醩at tartalmaz?f醠ba. Ellen鮮izd, hogy a f醞l nem 韗醩;Chyba p鴌 zapisov醤?do souboru s nastaven韒. Ov禅te, zda soubor nen?chr醤靚 p鴈d z醦isem, a pokus opakujte.;;;;;;x
+FE_HOST;主机;H閎erger;Host;Stw髍z gr?;Anfitri髇;Host;Hoszt;Hostitel;;;;;;x
+FE_JOIN_LAN_GAME;加入局域网游戏;Rejoindre une partie LAN;LAN-Spiel beitreten;Do彻cz do gry w sieci LAN.;Unirse a juego en LAN;Partecipare a partita LAN;Csatlakoz醩 LAN j醫閗hoz;P鴌pojit se ke h鴈 v s韙i LAN;;;;;;x
+FE_JOIN_INTERNET_GAME;加入Internet游戏;Rejoindre une partie sur Internet;Internetspiel beitreten;Do彻cz do gry internetowej.;Unirse a juego en Internet;Partecipare a partita Internet;Csatlakoz醩 Internetes j醫閗hoz;P鴌pojit ke h鴈 v Internetu;;;;;;x
+FE_SCAN;搜索;Rechercher;SCAN;skanuj;exploraci髇 RAD;scansione;keres閟;sken;;;;;;x
+FE_METASERVER;作为服务器;M閠aserveur;Metaserver;Metaserwer;Metaserver;Metaserver;K鰖tes szerver;Prim醨n?server;;;;;;x
+FE_BACK;返回;Retour;Zur點k;Powr髏;Atr醩;Indietro;Vissza;Zp靦;;;;;;x
+FE_PLAYER;玩家;Joueur;Spieler;Gracz;Jugador;Giocatore;J醫閗os;Hr徼;;;;;;x
+FE_PLAYER_NAME;玩家姓名：;Nom du joueur :;Spielername:;Nazwa gracza:;Nombre del jugador:;Nome giocatore:;J醫閗os n関:;Jm閚o hr徼e:;;;;;;x
+FE_SINGLE_PLAYER;单人游戏;Un joueur;Einzelspieler;Gra pojedyncza;Un jugador;Giocatore singolo;Egyj醫閗os m骴;Hra pro jednoho hr徼e;;;;;;x
+FE_MULTI_PLAYER;多人游戏;Multi-joueurs;Mehrspieler;Gra wieloosobowa;Multijugador;Multigiocatore;T鯾bj醫閗os m骴;Hra pro v韈e hr徼?;;;;;x
+FE_OPTIONS;选项;Options;Optionen;Opcje;Options;Opzioni;Be醠l韙醩ok;Mo瀗osti;;;;;;x
+FE_CREDITS;制作名单;G閚閞ique;Credits;Tw髍cy gry;Cr閐itos;Riconoscimenti;K閟z韙鮧;Auto鴌;;;;;;x
+FE_EXIT;退出;Quitter;Beenden;Wyj渃ie;Salir;Esci;Kil閜閟;Konec;;;;;;x
+FE_NATION_TO_PLAY;选择你想要使用的国家。;Cliquez sur la nation avec laquelle vous voulez jouer?Klicken Sie auf das Land, dessen Geschicke Sie leiten m鯿hten ?Kliknij pa駍two, kt髍ym chcesz w砤da?..;Haz clic en la naci髇 con la que desees jugar...;Fare clic sulla nazione con cui si desidera giocare...;Kattints arra a nemzetre, amelyikkel j醫szani szeretn閘;Klepnut韒 vyberte n醨od, za kter?chcete hr醫...;;;;;;x
+FE_NEW_GAME;开始新游戏;Nouvelle partie;Neues Spiel;Nowa gra;Nueva partida;Nuova partita;趈 j醫閗;Nov?hra;;;;;;x
+FE_SAVE_GAME;储存游戏;Sauvegarder des parties;Spiele speichern;Zapisz gr?Guardar partida;Salva partite;Ment閟ek;Ulo瀒t hry;;;;;;x
+FE_HISTORICAL_START;史实开局;D閎ut historique;Historischer Start;Start historyczny;Inicio hist髍ico;Avvio storico;T鰎t閚elemh鹲間;Historick?za栳tek;;;;;;x
+FE_SAVED_GAMES;从存档开始;Parties sauvegard閑s;Spielest鋘de;Zapisane gry;Partidas guardadas;Partite salvate;Ment閟ek;Ulo瀍n?hry;;;;;;x
+FE_SELECT_NATION;点击地图以选择国家。;Select one of the 4 countries below.;Select one of the 4 countries below.;Select one of the 4 countries below.;Select one of the 4 countries below.;Select one of the 4 countries below.;Select one of the 4 countries below.;Select one of the 4 countries below.;;;;;;x
+FE_NO_COUNTRY_SELECTED;尚未选择国家;Aucun pays n'est s閘ectionn?Kein Land ausgew鋒lt;Nie wybrano pa駍twa;No se ha seleccionado pa韘;Nessun paese selezionato;Nincs orsz醙 kijel鰈ve.;Nebyla vybr醤a 炨dn?zem?;;;;;x
+FE_MILITARY;军事;Militaire;Milit鋜;Wojsko;Militar;Militare;Hadsereg;Vojenstv?;;;;;x
+FE_ECONOMY;经济;蒫onomie;Wirtschaft;Ekonomia;Econom韆;Economia;Gazdas醙;Ekonomika;;;;;;x
+FE_DIPLOMACY;外交;Diplomatie;Diplomatie;Dyplomacja;Diplomacia;Diplomazia;Diplom醕ia;Diplomacie;;;;;;x
+FE_DIFFICULTY;难度;Difficult?:;Schwierigkeit:;Trudno滄:;Dificultad:;Difficolt?;Neh閦s間:;Obt頌nost:;;;;;;x
+FE_AT_WAR;战争状态：;En guerre :;Im Krieg:;W stanie wojny:;En guerra:;In guerra:;H醔or鷅an:;Ve v醠ce:;;;;;;x
+FE_ALLIES;同盟国家：;Alli閟 :;B黱dnispartner:;Sojusze:;Aliados:;Alleati:;Sz鰒ets間esek:;Spojenci:;;;;;;x
+FE_LOAD;读取;CHARGER;LADEN;WCZYTAJ;CARGAR;CARICARE;BET諰T蒘;NAHR罷;;;;;;x
+FE_BOOKEDMARKED;战役时间：;Dates ayant un signet :;Markierte Daten:;Oznaczone daty:;Fechas se馻ladas:;Date importanti:;Mentett id鮬ontok;Ozna鑕n?data:;;;;;;x
+FE_STARTING_DATE;开始时间;Date de d閎ut;Startdatum;Data pocz箃kowa;Fecha de inicio;Data di inizio;Kezd閟 d醫uma;Datum startu;;;;;;x
+FE_BOOKMARK_TITLE;战役名称;Titre du signet;Titelmarkierung;Tytu?zak砤dki;Se馻lar t韙ulo;Titolo data importante;K鰊yvjelz?neve;Titul z醠o瀔y;;;;;;x
+FE_BOOKMARK_DATE;战役时间;Appliquer un signet ?la date;Datumsmarkierung;Data zak砤dki;Se馻lar fecha;Data importante;K鰊yvjelz?d醫uma;Datum z醠o瀔y;;;;;;x
+FE_LOCAL_GAMES;本地游戏;parties locales;lokale Spiele;gry lokalne;Partidas locales;partite in locale;helyi j醫閗ok;m韘tn?hry;;;;;;x
+FE_MY_GAME;我的游戏;Ma partie;Mein Spiel;Moja gra;Mi partida;Partita personale;Saj醫 j醫閗;M?hra;;;;;;x
+FE_CANCEL;取消;Annuler;Abbrechen;Anuluj;Cancelar;Annullare;M間se;Zru歩t;;;;;;x
+PLAYER_LOST_TITLE;玩家断开连接。;Joueur d閏onnect?;Verbindung zum Spieler getrennt.;Gracz niedost阷ny;Jugador desconectado.;Giocatore disconnesso.;J醫閗os lekapcsold骴ott;Hr徼 byl odpojen.;;;;;;x
+PLAYER_LOST_DESC;玩家$playername$断开了连接，选择你的行动。;Joueur(s) $playername$ d閏onnect?s). Choisissez votre action.;Verbindung der/des Spieler/s $playername$ getrennt.;Gracz(e) $playername$ niedost阷ny(-ni). Wybierz opcj?;Jugador(s) $playername$ desconectado. Escoge una acci髇.;Giocatore/i $playername$ disconnesso/i. Cosa intendi fare?;$playername$ j醫閗os lekapcsol骴ott. V醠assz valamit.;Hr徼 $playername$ byl odpojen. Vyberte akci.;;;;;;x
+SERVER_LOST_TITLE;丢失主机！;Connexion perdue avec le serveur !;Serververbindung getrennt!;Serwer niedost阷ny!;ervidor perdido!;Server scollegato!;A szerverkapcsolat megszakadt!;Server ztracen!;;;;;;x
+SERVER_LOST_DESC;主机已经丢失，游戏即将终止。;Le serveur a 閠?perdu. La partie va 阾re termin閑.;Die Serververbindung wurde getrennt. Das Spiel wird beendet.;Serwer jest niedost阷ny. Nast筽i koniec gry.;Se ha perdido el servidor. La partida finalizar?;Il server non ?pi?collegato. La partita verr?terminata.;A szerverkapcsolat megszakadt. V間et 閞t a j醫閗.;Server byl ztracen. Hra skon桧.;;;;;;x
+OK;好的;Ok;Ok;OK;Aceptar;Ok;Rendben;Ok;;;;;;x
+CANCEL;取消;Annuler;Abbrechen;Anuluj;Cancelar;Annullare;M間sem;Zru歩t;;;;;;x
+SAVE;储存;Sauvegarder;Speichern;Zapisz;Guardar;Salvare;Ment閟;Ulo瀒t;;;;;;x
+QUIT;退出;Quitter;Beenden;Wyjd?Salir;Uscire;Kil閜閟;Konec;;;;;;x
+START;开始;Commencer;Start;Rozpocznij;Inicio;Avviare;Ind韙醩;Spustit;;;;;;x
+CONTINUE;继续;Continuer;Fortfahren;Kontynuuj;Continuar;Continuare;Folytat醩;Pokra鑟vat;;;;;;x
+CONNECTED;已连接。;Connect?;Verbindung aktiv.;Po彻czony.;Conectado.;Connesso.;Kapcsol骴va.;P鴌pojeno.;;;;;;x
+NAME_TAKEN;你已被击败，请离开并选择其他游戏。;Votre nom est d閖?utilis? Veuillez quitter et en choisir un autre.;Dieser Name ist bereits vergeben. Bitte beenden Sie und w鋒len einen anderen.;Nazwa jest ju?zaj阾a. Wybierz inn?;El nombre elegido ya est?en uso. Por favor, sal y selecciona otro.;Nome esistente. Uscire e selezionare un altro nome.;Ezt a nevet m醨 haszn醠j醟. K閞lek, v醠assz m醩ikat.;Toto jm閚o nen?k dispozici. Vyberte si jin?jm閚o.;;;;;;x
+CONNECTING;连接中……;Connexion?Verbindung wird hergestellt ?Trwa 彻czenie...;Conectando...;Connessione in corso...;Kapcsol骴醩?P鴌pojen韰;;;;;;x
+BANNED;你已被此游戏封禁;Vous avez 閠?banni de cette partie;Sie wurden von diesem Spiel ausgeschlossen;Masz zakaz uczestnictwa w tej grze.;Has sido vetado para esta partida;Sei stato espulso dalla partita.;Ki vagy tiltva ebb鮨 a j醫閗b髄;Byl v醡 zak醶醤 pstup k t閠o h鴈;;;;;;x
+CONNECTION_FAILED;连接失败！;La connexion a 閏hou?!;Verbindungsherstellung fehlgeschlagen!;Nie uda硂 si?po彻czy?;allo de conexi髇!;Connessione non riuscita!;Kapcsol骴醩 sikertelen!;P鴌pojen?se nezda鴌lo!;;;;;;x
+GAME_NOT_FOUND;没有找到游戏。;Partie introuvable.;Spiel nicht gefunden.;Nie znaleziono gry.;No se ha encontrado la partida.;Partita non rilevata.;J醫閗 nem tal醠hat?Hra nebyla nalezena.;;;;;;x
+WAITING_FOR_PLAYERS;等待玩家……;En attente de joueurs?Warte auf Spieler ...;Oczekiwanie na graczy...;Esperando jugadores...;In attesa di altri giocatori...;V醨akoz醩 a j醫閗osokra?萫k醡 na hr徼e...;;;;;;x
+ALL_PLAYERS_HERE;所有玩家就位。;Tous les joueurs pr閟ents.;Alle Spieler anwesend.;Wszyscy gracze obecni.;Todos los jugadores presentes.;Tutti i giocatori sono presenti.;Minden j醫閗os jelen van.;V歩chni hr徼i jsou zde.;;;;;;x
+LOOKING_FOR_HOST;搜寻主机……;Recherche de l'h魌e?Suche nach Host ...;Trwa poszukiwanie gospodarza...;Buscando anfitri髇...;Ricerca host in corso...;Kiszolg醠?keres閟e?Hled醤?hostitele...;;;;;;x
+LOST_PLAYER;一个玩家已经丢失……;Un joueur a 閠?perdu?Die Verbindung eines Spielers wurde getrennt ...;Gracz jest niedost阷ny...;Se ha perdido un jugador...;Un giocatore ?stato perduto...;Egy j醫閗os elt鹡t?Hr徼 byl ztracen...;;;;;;x
+SERVER_LOST;服务器已经丢失。;La connexion avec le serveur a 閠?perdue.;Die Serververbindung wurde getrennt.;Serwer jest niedost阷ny.;Se ha perdido el servidor.;Il server non ?pi?collegato.;A kapcsolat a szerverrel megszakadt.;Server byl ztracen.;;;;;;x
+JOIN_IP_TITLE;输入IP地址……;Saisissez l'adresse IP?IP-Adresse eingeben ?Wprowad?adres IP...;Introduce la direcci髇 IP...;Immettere un indirizzo IP...;蛂d be az IP c韒et:;Zadejte adresu IP...;;;;;;x
+HOST_TITLE;输入你的游戏名称……;Saisissez le nom de votre partie?Geben Sie den Namen Ihres Spiels ein...;Wprowad?nazw?gry...;Introduce el nombre de tu partida...;Immettere il nome della partita...;蛂d be a j醫閗 nev閠?Zadejte n醶ev sv?hry...;;;;;;x
+HOST_BUTTON;主机;H魌e;Host;Stw髍z gr?;Anfitri髇;Host;Kiszolg醠?Hostitel;;;;;;x
+JOIN_BUTTON;加入;Rejoindre;Beitreten;Do彻cz;Unirse a una;Partecipare;Csatlakoz醩;P鴌pojit;;;;;;x
+LOG_SETTING_LOG;在日志中显示。;Afficher dans l'historique.;In Log anzeigen.;Poka?w dzienniku.;Mostrar en el registro.;Visualizzare nella cronologia.;Napl髗醩 megjelen韙閟e;Zobrazit v protokolu.;;;;;;x
+LOG_SETTING_POPUP;打开弹出窗口。;Ouvrir une fen阾re de popup.;Popup-Fenster aufrufen.;Otw髍z okno.;Abrir ventana emergente.;Aprire una finestra popup.;Felugr?ablak megnyit醩a;Zobrazit rozev韗ac?okno.;;;;;;x
+LOG_SETTING_MAP;在地图上显示。;Montrer sur la carte.;Auf Karte zeigen.;Poka?na mapie.;Mostrar sobre el mapa.;Visualizzare sulla mappa.;T閞k閜en val?jel鰈閟;Zobrazit na map?;;;;;;x
+LOG_SETTING_IDLE;显示为闲置信息。;Afficher en tant que message Inactif.;Als Idle-Nachricht anzeigen.;Wy渨ietl jako wiadomo滄 nieaktywn?;Mostrar como mensaje secundario.;Visualizzare come messaggio inattivo.;躵esj醨ati 鼁enetk閚t val?megjelen韙閟;Zobrazit jako zpr醰u o ne鑙nnosti.;;;;;;x
+QUIT_TITLE;退出游戏;Quitter le jeu;Spiel beenden;Wyjd?z gry;Abandonar el juego;Uscire dal gioco;Kil閜閟;Ukon鑙t hru;;;;;;x
+QUIT_DESC;你确定要退出游戏并返回桌面吗？;蕋es-vous s鹯 de vouloir quitter le jeu et retourner au bureau ?;M鯿hten Sie wirklich beenden und zum Desktop zur點kkehren?;Czy na pewno chcesz wyj滄 z gry do Windows?;縀st醩 seguro de que deseas abandonar y volver al escritorio?;Uscire e tornare al desktop?;Biztos vagy benne, hogy ki szeretn閘 l閜ni a j醫閗b髄?;Opravdu chcete ukon鑙t hru?;;;;;;x
+ZOOM_IN;放大;Zoomervers l'avant;Vergr鲞ern.;Powi阫sz;Acerca el zoom;Ingrandire.;K鰖el韙閟;Zaost鴌t nabl韟ko.;;;;;;x
+ZOOM_OUT;缩小;Zoomer vers l'arri鑢e;Verkleinern.;Pomniejsz;Aleja el zoom;Rimpicciolire.;T醰ol韙醩;Zaost鴌t na d醠ku.;;;;;;x
+RESIGN_TITLE;放弃游戏;Abandonner la partie;Spiel aufgeben;Zako馽z gr?Renunciar a partida;Abbandonare la partita;J醫閗 felad醩a;Odstoupit ze hry;;;;;;x
+RESIGN_DESC;你确定要放弃游戏并返回主菜单吗？;蕋es-vous s鹯 de vouloir abandonner et retourner au menu principal ?;M鯿hten Sie aufgeben und zum Hauptmen?zur點kkehren?;Czy naprawd?chcesz sko馽zy?gr?i wr骳i?do menu g丑wnego?;縀st醩 seguro de que deseas renunciar a esta partida y volver al escritorio?;Abbandonare la partita e tornare al menu principale?;Biztos vagy benne, hogy feladod, 閟 visszat閞sz a f鮩en黚e?;Opravdu chcete ukon鑙t hru a vr醫it se do hlavn?nab韉ky?;;;;;;x
+SCAN;搜索;Rechercher;Scan;Skanuj;Escanear;Scansione;Keres;Skenov醤?;;;;;x
+STOP_SCAN;停止搜索;Arr阾er la recherche;Stop;Przerwij skanowanie;Detener escaneado;Interrompere scansione;Keres閟 meg醠l韙醩a;Zastavit skenov醤?;;;;;x
+TIP_KICK;踢除玩家;Expulser le joueur;Spieler hinauswerfen;Wyrzu?gracza;Expulsar jugador;Espelli giocatore;J醫閗os kir鷊醩a;Vylou鑙t hr徼e;;;;;;x
+TIP_BAN;在本次通讯中封禁玩家;Bannir le joueur pour la dur閑 de cette session;Spieler f黵 die Dauer dieser Session ausschlie遝n;Zabro?graczowi uczestnictwa w grze na czas trwania tej sesji.;Vetar al jugador durante el resto de la sesi髇.;Bandisci il giocatore fino al termine della sessione;J醫閗os kitilt醩a egy ideig ebb鮨 a j醫閗b髄;Zak醶at hr徼i pstup po zbytek relace;;;;;;x
+PLAYER_KICKED;$NAME$被主机踢除。;$NAME$ a 閠?expuls?par l'h魌e.;$NAME$ wurde vom Host hinausgeworfen.;$NAME$ zosta?usuni阾y z gry przez gospodarza.;$NAME$ fue expulsado por el anfitri髇.;Il giocatore $NAME$ ?stato espulso dall'host.;$NAME$-t kir鷊ta a hoszt.;$NAME$ byl hostitelem vylou鑕n.;;;;;;x
+PLAYER_BANNED;$NAME$被主机封禁。;$NAME$ a 閠?banni par l'h魌e.;$NAME$ wurde vom Host ausgeschlossen.;$NAME$ zosta?zablokowany przez gospodarza.;$NAME$ fue vetado por el anfitri髇.;Il giocatore $NAME$ ?stato bandito dall'host.;$NAME$-t bannolta a hoszt.;$NAME$ byl hostitelem potrest醤.;;;;;;x
+YOUKICKED;由于你的不当行为，你已经被主机踢除！;Votre mauvais comportement vous a valu de vous faire expulser par l'h魌e !;Sie wurden vom Host f黵 Ihre b鰏en Taten hinausgeworfen!;Za swoje nikczemne czyny zosta砮?usuni阾y z gry przez gospodarza!;l anfitri髇 te ha vetado por tu mal comportamiento!;Sei stato espulso dall'host per il tuo comportamento scorretto!;謗d鰃i cselekedeteid miatt kir鷊ott a hoszt!;Byli jste ze hry vylou鑕ni hostitelem!;;;;;;x
+BAD_VERSION;主机游戏为另一个版本！;L'h魌e poss鑔e une autre version du jeu !;Der Host hat eine andere Spielversion!;Gospodarz ma inn?wersj?gry!;l anfitri髇 tiene otra versi髇 del juego!;L'host ha una versione diversa del gioco!;A hosztnak m醩 a j醫閗verzi骿a.;Hostitel pou烅v?jinou verzi hry!;;;;;;x
+JOINED_CHANNEL;加入$CHAN$频道。;Canal $CHAN$ rejoint.;Kanal $CHAN$ beitreten.;Do彻czy?do kana硊 $CHAN$.;Te has unido al canal $CHAN$.;Partecipa al canale $CHAN$.;Csatlakozt醠 a szob醜oz: $CHAN$.;P鴌pojili jste se ke kan醠u $CHAN$.;;;;;;x
+USER_JOINED_CHANNEL;$NAME$加入了频道。;$NAME$ a rejoint le canal.;$NAME$ ist dem Kanal beigetreten.;Gracz $NAME$ do彻czy?do kana硊.;$NAME$ se uni?al canal.;Il giocatore $NAME$ partecipa al canale.;$NAME$ csatlakozott a szob醜oz.;$NAME$ se p鴌pojil ke kan醠u.;;;;;;x
+USER_LEFT_CHANNEL;$NAME$离开了频道。;$NAME$ a quitt?le canal.;$NAME$ hat den Kanal verlassen.;$NAME$ opu渃i?kana?;$NAME$ abandon?canal.;Il giocatore $NAME$ ha lasciato il canale.;$NAME$ elhagyta a szob醫.;$NAME$ opustil kan醠.;;;;;;x
+METASERVER_GAME_INFO;创建者：$CREATOR$\n日期：$DATE$;Cr閍teur : $CREATOR$ \n Date : $DATE$;Ersteller: $CREATOR$ \n Datum: $DATE$;Tw髍ca: $CREATOR$ \n Dane: $DATE$;Creador: $CREATOR$ \n Fecha: $DATE$;Creatore: $CREATOR$ \n Data: $DATE$;Tulajdonos: $CREATOR$ \n D醫um: $DATE$;Tv鵵ce: $CREATOR$ \n Datum: $DATE$;;;;;;x
+MESSAGE_IS_POPUP;此类信息将$TRUTH$显示于弹出窗口中。;Ce type de message $TRUTH$ est actuellement affich?comme popup.;Dieser Nachrichtentyp wird momentan $TRUTH$ als Popup angezeigt.;Ten rodzaj wiadomo渃i aktualnie $TRUTH$ wy渨ietlany w oknie.;Este tipo de mensaje actualmente $TRUTH$ representado en una ventana emergente.;Questo tipo di messaggio al momento $TRUTH$ visualizzato come popup.;Az 鼁enett韕us megjelenik el鮱gr?ablakk閚t:;Tato zpr醰a se pr醰?$TRUTH$ zobrazila v rozev韗ac韒 okn?;;;;;;x
+MESSAGE_IS_LOG;此类信息将$TRUTH$显示于日志中。;Ce type de message $TRUTH$ est actuellement affich?dans l'historique.;Dieser Nachrichtentyp wird momentan $TRUTH$ im Log angezeigt.;Ten rodzaj wiadomo渃i aktualnie $TRUTH$ wy渨ietlany w dzienniku gry.;Este tipo de mensaje actualmente $TRUTH$ representado en el registro.;Questo tipo di messaggio al momento $TRUTH$ visualizzato nella cronologia.;Az 鼁enett韕us l醫hat?az 鼁enetnapl骲an: ;Tato zpr醰a se pr醰?$TRUTH$ zobrazila v protokolu.;;;;;;x
+MESSAGE_IS_ONMAP;此类信息将$TRUTH$显示于地图上（如果可用）。;Ce type de message $TRUTH$ est actuellement affich?sur la carte (si applicable);Dieser Nachrichtentyp wird momentan $TRUTH$ auf der Karte angezeigt (falls m鰃lich).;Ten rodzaj wiadomo渃i aktualnie $TRUTH$ wy渨ietlany na mapie (w stosownych przypadkach).;Este tipo de mensaje actualmente $TRUTH$ representado en el mapa (si procede).;Questo tipo di messaggio al momento $TRUTH$ visualizzato sulla mappa (se appropriato).;Az 鼁enett韕us l醫hat?a t閞k閜en: ;Tato zpr醰a se pr醰?$TRUTH$ zobrazila na map?(je-li k dispozici).;;;;;;x
+MESSAGE_SETTING_TRUE;是;est;ist;jest;est??BE;je;;;;;;x
+MESSAGE_SETTING_FALSE;否;n'est pas;ist nicht;nie jest;no est?non ?KI;nen?;;;;;x
+MENU_BAR_SAVE_GAME;储存游戏;Sauvegarder la partie;Spiel speichern;Zapisz gr?Guardar partida;Salva partita;Ment閟;Ulo瀒t hru;;;;;;x
+MENU_BAR_GAME_OPTIONS;游戏选项;Options de jeu;Spieloptionen;Opcje gry;Opciones del juego;Opzioni di gioco;Be醠l韙醩ok;Hern?nastaven?;;;;;x
+MENU_BAR_GAME_RESIGN;放弃游戏;Abandonner;Partie Beenden;Zrezygnuj;Renunciar;Abbandona;Felad醩;Rezignovat;;;;;;x
+MENU_BAR_MESSAGE_SETTINGS;信息设置;Param鑤res des messages;Nachrichten-Einstellungen;Ustawienia wiadomo渃i;Configuraci髇 de los mensajes;Impostazione dei messaggi;躾enetek be醠l韙醩ai;Nastaven?zpr醰;;;;;;x
+MENU_BAR_QUIT;退出游戏;Quitter;Beenden;Wyj渃ie;Salir;Uscire;Kil閜閟;Konec;;;;;;x
+MENU_BAR_CLOSE;关闭;Fermer;Schlie遝n;Zamknij;Cerrar;Chiudere;Bez醨醩;Zavt;;;;;;x
+MENU_BAR_SAVE;储存;Sauvegarder;Speichern;Zapisz;Guardar;Salvare;Ment閟;Ulo瀒t;;;;;;x
+MENU_BAR_SAVE_GAME_FILENAME;储存文件名为：;Nom du fichier de la partie sauvegard閑 :;Dateinamen speichern:;Nazwa zapisanego pliku:;Nombre de archivo de partida guardada:;Nome file salvataggio:;Ment閟 f醞lneve:;N醶ev ulo瀍n?hry:;;;;;;x
+CHAT_ALLIES;盟国;Alli閟;Verb黱dete;Sojusz.;Aliados;Alleati;Sz鰒ets間esek;Spojenci;;;;;;x
+CHAT_FOES;敌人;Ennemis;Feinde;Wrog.;Enemigos;Nemici;Ellens間ek;Neptel?;;;;;x
+CHAT_ALL;全部;Tous;Alle;Wszyscy;Todos;Tutti;Mindenki;V歩chni;;;;;;x
+CHATMESSAGE_SETUP;当你接收到一条聊天信息;Lorsque vous recevez un message sur le chat;Wenn Sie eine Chatmessage erhalten;Kiedy otrzymujesz wiadomo滄;Cuando recibes un mensaje de di醠ogo;Quando ricevi un messaggio chat;Ha 鼁enetet kapsz;Kdy?obdr烅te zpr醰u;;;;;;x
+CHATMESSAGE_HEADER;聊天信息;Message de chat;Chatmessage;Wiadomo滄;Mensaje de di醠ogo;Messaggio chat;Csevej鼁enet;Zpr醰a;;;;;;x
+CHATMESSAGE_1;收到新信息;Communication entrante,;Kommunikationseingang;Przychodz筩a wiadomo滄;Comunicaci髇 entrante,;Comunicazione in arrivo,;Bej鰒?鼁enet;Pchoz?rozhovor,;;;;;;x
+CHATMESSAGE_2;*;*;*;*;*;*;*;;;;;;;x
+CHATMESSAGE_3;$TEXT$;$TEXT$;$TEXT$;$TEXT$;$TEXT$;$TEXT$;$TEXT$;$TEXT$;;;;;;x
+CHATMESSAGE_4;*;*;*;*;*;*;*;;;;;;;x
+CHATMESSAGE_5;*;*;*;*;*;*;*;;;;;;;x
+CHATMESSAGE_6;*;*;*;*;*;*;*;;;;;;;x
+CHATMESSAGE_LOG;$TEXT$;$TEXT$;$TEXT$;$TEXT$;$TEXT$;$TEXT$;$TEXT$;$TEXT$;;;;;;x
+CHATMESSAGE_BTN1;好;OK;OK;OK;OK;OK;Rendben;OK;;;;;;x
+CHATMESSAGE_BTN2;好;OK;OK;OK;OK;OK;Rendben;OK;;;;;;x
+CHATMESSAGE_BTN3;查看;Aller ?GOTO;Id?do;Ir all?Andare;Ugr醩;P鴈j韙 na;;;;;;x
+CHATMESSAGE_MAP;*;*;*;*;*;*;*;;;;;;;x
+######################################################################;;;;;;;;;;;;;;x
+######################################################################;;;;;;;;;;;;;;x
+# Meta Server;;;;;;;;;;;;;;x
+MS_USERNAME;用户名：;Nom d'utilisateur :;Benutzername:;Nazwa u縴tkownika;Nombre de usuario:;Nome utente:;Felhaszn醠骾 n関:;Jm閚o u瀒vatele:;;;;;;x
+MS_PASSWORD;密码：;Mot de passe :;Kennwort:;Has硂;Contrase馻:;Password:;Jelsz?;Heslo:;;;;;;x
+MS_CREATE_GAME;创建游戏;Cr閑r une partie;Spiel erstellen;Stw髍z gr?Crear juego;Creare partita;趈 j醫閗;Vytvo鴌t hru;;;;;;x
+MS_NAME;名称：;Nom :;Name:;Nazwa:;Nombre:;Nome:;N関;Jm閚o:;;;;;;x
+MS_USE_PASSWORD;使用密码;Utiliser un mot de passe;Kennwort benutzen;U縴j has砤;Usar contrase馻;Usare password;Jelsz?haszn醠ata;Pou烅t heslo;;;;;;x
+MS_JOIN_GAME;加入游戏;Rejoindre la partie;Spiel beitreten;Do彻cz do gry;Unirse al juego;Partecipare alla partita;Csatlakoz醩 sikertelen;P鴌pojit ke h鴈;;;;;;x
+MS_PASSWD;密码;Mot de passe;Kennwort;Has硂;Contrase馻;Password;Jelsz?Heslo;;;;;;x
+MS_ALERT;警告;Alerte;Benachrichtigung;Powiadomienie;Alerta;Avvertimento;Riad?V齭traha;;;;;;x
+MS_CONNECTION_FAILED;连接失败！;La connexion a 閏hou?!;Verbindung nicht zustande gekommen!;Nie uda硂 si?po彻czy?;allo de conexi髇!;Connessione non riuscita!;Csatlakoz醩 sikertelen;P鴌pojen?se nezda鴌lo!;;;;;;x
+MS_CHANNELS;频道;Canaux;Kan鋖e;Kana硑;Canales;Canali;Csatorn醟;Kan醠y;;;;;;x
+MS_METASERVER_LOGIN;服务器登陆;Se connecter au m閠aserveur;Metaserver-Login;Login metaserwera;Inicio de sesi髇 en Metaserver;Login metaserver;K鰖tes szerver bejelentkez閟;P鴌hl釟en?k prim醨n韒u serveru;;;;;;x
+MS_JOINGAME;加入游戏;Rejoindre la partie;Spiel beitreten;Do彻cz do gry;Unirse al juego;Partecipare alla partita;Csatlakoz醩;P鴌pojit ke h鴈;;;;;;x
+MS_REFRESH;刷新;Actualiser;Aktualisieren;Od渨ie?Actualizar;Aggiornare;Friss韙閟;Aktualizovat;;;;;;x
+MS_START;开始;Commencer;Start;Start;Inicio;Avviare;Start;Spustit;;;;;;x
+MS_BACK;返回;Retour;Zur點k;Powr髏;Atr醩;Indietro;Vissza;Zp靦;;;;;;x
+MS_JOIN;加入;Rejoindre;Beitreten;Do彻cz;Unirse a una;Partecipare;Csatlakoz醩;P鴌pojit;;;;;;x
+MS_JOIN_CHANNEL;加入频道;Rejoindre le canal;Kanal beitreten;Do彻cz do kana硊;Unirse a un canal;Partecipare al canale;Csatlakoz醩 a csatorn醜oz;P鴌pojit ke kan醠u;;;;;;x
+MS_LOGIN;登陆;Se connecter;Anmelden;Login;Inicio de sesi髇;Login;Bejelentkez閟;P鴌hl醩it;;;;;;x
+MS_CREATE;创建;Cr閑r;Erstellen;Stw髍z;Crear;Creare;趈 j醫閗;Vytvo鴌t;;;;;;x
+MS_GAMES;游戏;Parties;Spiele;Gry;Juegos;Partite;J醫閗;Hry;;;;;;x
+MS_INFORMATION;信息;Informations;Information;Informacje;La informaci髇;Informazioni;Inform醕i?Informace;;;;;;x
+MS_CHAT;聊天;Chat;Chat;Chat;Di醠ogo;Chat;Csevej;Konverzace;;;;;;x
+MS_CHANNEL_PLAYER;#频道名称/玩家列表;#Channelname/Playerlist;#Kanalname/Spielerliste;#Nazwa kana硊/Lista graczy;#Nombre de canal/Lista de jugadores;#Nome canale/elenco giocatori;#csatornan関/j醫閗oslista;#N醶ev kan醠u/Seznam hr徼?;;;;;x
+MS_CONNECTION_LOST;连接丢失。;Connexion perdue.;Verbindung getrennt.;Po彻czenie zerwane.;Conexi髇 perdida.;Connessione interrotta.;A kapcsolat megszakadt;P鴌pojen?p鴈ru歟no.;;;;;;x

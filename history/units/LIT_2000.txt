@@ -1,0 +1,53 @@
+theatre = {
+	name = "Lietuvos Ginkluotosios Pajegos"
+	location = 1532
+	regiment = { type = hq_brigade name = "Lietuvos Ginkluotosios Pajegos" historical_model = 2 }
+	corps = {
+		name = "Lietuvos Sausumos Pajegos"
+		location = 1532
+		regiment = { type = hq_brigade name = "Lietuvos Sausumos Pajegos" historical_model = 2 }
+		division = {
+			is_reserve = yes
+			name = "Motorizuotoji Pestininku Brigada 'Geležinis Vilkas'"
+			location = 1398
+			regiment = { type = mechanized_brigade name = "Kunigaikšcio Vaidoto Mechanizuotasis Pestininku Batalionas" historical_model = 0 }
+			regiment = { type = mechanized_brigade name = "Didžiojo Kunigaikšcio Algirdo Mechanizuotasis Pestininku Batalionas" historical_model = 0 }
+			regiment = { type = mechanized_brigade name = "Didžiojo Kunigaikšcio Kestucio Mechanizuotasis Pestininku Batalionas)" historical_model = 0 }
+		}
+		division = {
+			is_reserve = yes
+			name = "1. Atskiras Batalionas"
+			location = 1353
+			regiment = { type = infantry_brigade name = "Karaliaus Mindaugo Motorizuotasis Pestininku Batalionas" historical_model = 2 }
+		}
+		division = {
+			is_reserve = yes
+			name = "2. Atskiras Batalionas"
+			location = 1578
+			regiment = { type = infantry_brigade name = "Didžiosios Kunigaikštienes Birutes Motorizuotasis Pestininku Batalionas" historical_model = 2 }
+		}
+		division = {
+			is_reserve = yes
+			name = "3. Atskiras Batalionas"
+			location = 1306
+			regiment = { type = infantry_brigade name = "Didžiojo Kunigaikšcio Butigeidžio Motorizuotasis Pestininku Batalionas" historical_model = 2 }
+		}
+		division = {
+			is_reserve = yes
+			name = "Krašto Apsaugos Savanoriu Pajegos"
+			location = 1532
+			regiment = { type = garrison_brigade name = "1. Teritorinis Vienetas" historical_model = 2 }
+			regiment = { type = garrison_brigade name = "2. Teritorinis Vienetas" historical_model = 2 }
+			regiment = { type = garrison_brigade name = "3. Teritorinis Vienetas" historical_model = 2 }
+			regiment = { type = garrison_brigade name = "5. Teritorinis Vienetas" historical_model = 2 }
+			regiment = { type = garrison_brigade name = "8. Teritorinis Vienetas" historical_model = 2 }
+		}
+	}
+	
+	navy = {
+		name = "Lietuvos Kariniu Juru Pajegu"
+		base = 1306
+		location = 1306
+		ship = { type = patrol_boat name = "P32 Sélis" historical_model = 0 }
+	}
+}

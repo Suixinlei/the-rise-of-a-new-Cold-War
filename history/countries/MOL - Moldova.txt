@@ -1,0 +1,51 @@
+capital = 3038
+government = republic_president
+ideology = stalinist
+alignment = { x = 50 y = -50 }
+neutrality = 80
+national_unity = 70
+head_of_state = 52501
+head_of_government = 52506
+foreign_minister = 52510
+armament_minister = 52512
+minister_of_security = 52514
+minister_of_intelligence = 52530
+chief_of_staff = 52532
+chief_of_army = 52532
+chief_of_air = 52533
+chief_of_navy = 52532
+
+oob = "MOL_2000.txt"
+
+popularity = { 
+	national_socialist = 0
+	fascistic = 0
+	paternal_autocrat = 0
+	social_conservative = 8
+	market_liberal = 3
+	social_liberal = 13
+	social_democrat = 5
+	left_wing_radical = 3
+	leninist = 2
+	stalinist = 50
+}
+
+organization = { 
+	national_socialist = 0
+	fascistic = 0
+	paternal_autocrat = 0
+	social_conservative = 24
+	market_liberal = 9
+	social_liberal = 39
+	social_democrat = 15
+	left_wing_radical = 9
+	leninist = 6
+	stalinist = 150
+}
+
+conscription_policy = military_service
+press_laws = free_press
+mobilisation_level = peace_time
+civil_laws = open_society
+economic_policy = lais_fair
+service_length = twelve_months

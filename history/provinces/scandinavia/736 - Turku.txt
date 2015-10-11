@@ -1,0 +1,9 @@
+owner = FIN
+controller = FIN
+add_core = FIN
+
+manpower = 0.20
+infra = 8
+naval_base = 3 #Turku port
+leadership = 2.50
+points = 1

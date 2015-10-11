@@ -1,0 +1,35 @@
+theatre = {
+	name = "Forças Armadas de Defesa de Moçambique"
+	location = 10382
+	regiment = { type = hq_brigade name = "Forças Armadas de Defesa de Moçambique" historical_model = 0 }
+	division = {
+		is_reserve = yes
+		name = "1st Infantry Brigade"
+		location = 10382
+		regiment = { type = infantry_brigade name = "11th Infantry Battalion" historical_model = 0 }
+		regiment = { type = infantry_brigade name = "12th Infantry Battalion" historical_model = 0 }
+		regiment = { type = infantry_brigade name = "13th Infantry Battalion" historical_model = 0 }
+	}
+	division = {
+		is_reserve = yes
+		name = "2nd Infantry Brigade"
+		location = 10319
+		regiment = { type = infantry_brigade name = "21st Infantry Battalion" historical_model = 0 }
+		regiment = { type = infantry_brigade name = "22nd Infantry Battalion" historical_model = 0 }
+	}
+	division = {
+		is_reserve = yes
+		name = "3rd Infantry Brigade"
+		location = 10230
+		regiment = { type = infantry_brigade name = "31st Infantry Battalion" historical_model = 0 }
+		regiment = { type = infantry_brigade name = "32nd Infantry Battalion" historical_model = 0 }
+	}
+	division = {
+		is_reserve = yes
+		name = "Special Forces Brigade"
+		location = 10382
+		regiment = { type = special_forces_brigade name = "1st Special Forces Battalion" historical_model = 0 }
+		regiment = { type = special_forces_brigade name = "2nd Special Forces Battalion" historical_model = 0 }
+		regiment = { type = special_forces_brigade name = "3rd Special Forces Battalion" historical_model = 0 }
+	}
+}

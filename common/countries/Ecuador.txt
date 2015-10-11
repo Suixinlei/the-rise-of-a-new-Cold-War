@@ -1,0 +1,119 @@
+color = { 249  146  98 }
+graphical_culture = Generic
+last_election = 2002.10.20
+duration = 48
+
+default_templates = {
+	generic_infantry = {
+		infantry_brigade
+		infantry_brigade
+		infantry_brigade
+	}
+	generic_milita = {
+		militia_brigade
+		militia_brigade
+		militia_brigade
+	}
+	generic_armoured = {
+		armor_brigade
+		motorized_brigade
+		motorized_brigade
+	}
+	generic_cavalry = {
+		cavalry_brigade
+		cavalry_brigade
+	}
+}
+
+unit_names = {
+	infantry_brigade = {
+		"1a División de Infantería" "2a División de Infantería" "3a División de Infantería" "4a División de Infantería" "5a División de Infantería" "6a División de Infantería" "7a División de Infantería" "8a División de Infantería" "9a División de Infantería" "10a División de Infantería" 
+	}
+	cavalry_brigade = {
+		"1a Div. de Cab.'Gen. Valverde'" "2a División de Caballería" "3a División de Caballería" "4a División de Caballería" "5a División de Caballería" 
+	}
+	motorized_brigade = {
+		"1a División Motorizada" "2a División Motorizada" "3a División Motorizada" "4a División Motorizada" "5a División Motorizada" 
+	}
+	mechanized_brigade = {
+		"1a División Mecanizada" "2a División Mecanizada" "3a División Mecanizada" "4a División Mecanizada" "5a División Mecanizada" 
+	}
+	light_armor_brigade = {
+		"1a Div. Blin. 'Coronel Fuchs'" "2a División Blindada" "3a División Blindada" "4a División Blindada" "5a División Blindada" 
+	}
+	armor_brigade = {
+		"1a Div. Blin. 'Coronel Fuchs'" "2a División Blindada" "3a División Blindada" "4a División Blindada" "5a División Blindada" 
+	}
+	paratrooper_brigade = {
+		"1a División de Infantería Aérea" "2a División de Infantería Aérea" "3a División de Infantería Aérea" "4a División de Infantería Aérea" "5a División de Infantería Aérea" 
+	}
+	marine_brigade = {
+		"División de Guardiamarina nro. 1" "División de Guardiamarina nro. 2" "División de Guardiamarina nro. 3" "División de Guardiamarina nro. 4" "División de Guardiamarina nro. 5" 
+	}
+	bergsjaeger_brigade = {
+		"División de Montaña nro. 1" "División de Montaña nro. 2" "División de Montaña nro. 3" "División de Montaña nro. 4" "División de Montaña nro. 5" 
+	}
+	garrison_brigade = {
+		"11a División de Infantería" "12a División de Infantería" "13a División de Infantería" "14a División de Infantería" "15a División de Infantería" 
+	}
+	hq_brigade = {
+		"Cuartel General 1er Ejército" "Cuartel General 2o Ejército" "Cuartel General 3er Ejército" 
+	}
+	militia_brigade = {
+		"I División de Policia Nacional" "II División de Policia Nacional" "III División de Policia Nacional" "IV División de Policia Nacional" "V División de Policia Nacional" "VI División de Policia Nacional" "VII División de Policia Nacional" "VIII División de Policia Nacional" "IX División de Policia Nacional" "X División de Policia Nacional" 
+	}
+	multi_role = {
+		"1. Grupo Aéreo de Caza 'Renella'" "2. Grupo Aéreo de Caza" "3. Grupo Aéreo de Caza" "4. Grupo Aéreo de Caza" "5. Grupo Aéreo de Caza" 
+	}
+	interceptor = {
+		"1. Gr. Aéreo de Caza 'Renella'" "2. Grupo Aéreo de Caza" "3. Grupo Aéreo de Caza" "4. Grupo Aéreo de Caza" "5. Grupo Aéreo de Caza" 
+	}
+	strategic_bomber = {
+		"1. Grupo Aéreo Estratégico" "2. Grupo Aéreo Estratégico" "3. Grupo Aéreo Estratégico" "4. Grupo Aéreo Estratégico" "5. Grupo Aéreo Estratégico" 
+	}
+	tactical_bomber = {
+		"1. Grupo Aéreo Táctico" "2. Grupo Aéreo Táctico" "3. Grupo Aéreo Táctico" "4. Grupo Aéreo Táctico" "5. Grupo Aéreo Táctico" 
+	}
+	naval_bomber = {
+		"1. Grupo de Aviación Naval" "2. Grupo de Aviación Naval" "3. Grupo de Aviación Naval" "4. Grupo de Aviación Naval" "5. Grupo de Aviación Naval" 
+	}
+	cas = {
+		"1. Grupo Aéreo de Asalto" "2. Grupo Aéreo de Asalto" "3. Grupo Aéreo de Asalto" "4. Grupo Aéreo de Asalto" "5. Grupo Aéreo de Asalto" 
+	}
+	transport_plane = {
+		"1. Lineas Aéreas del Ecuador" "2. Lineas Aéreas del Ecuador" "3. Lineas Aéreas del Ecuador" "4. Lineas Aéreas del Ecuador" "5. Lineas Aéreas del Ecuador" 
+	}
+	battleship = {
+		"BAE Presidente Alfaro" "BAE Morán Valverde" 
+	}
+	light_cruiser = {
+		"BAE Esmeraldas" "BAE El Oro" "BAE Manabí" "BAE Galápagos" "BAE Los Ríos" "BAE Loja" 
+	}
+	heavy_cruiser = {
+		"BAE Esmeraldas" "BAE El Oro" "BAE Manabí" "BAE Galápagos" "BAE Los Ríos" "BAE Loja" 
+	}
+	battlecruiser = {
+		"BAE Presidente Alfaro" "BAE Morán Valverde" 
+	}
+	destroyer = {
+		"1a Escuadron de Fragatas" "2a Escuadron de Fragatas" "3a Escuadron de Fragatas" "4a Escuadron de Fragatas" "5a Escuadron de Fragatas" 
+	}
+	carrier = {
+		"BAE Quito" "BAE Guayaquil" 
+	}
+	escort_carrier = {
+		"BAE Quito" "BAE Guayaquil" 
+	}
+	submarine = {
+		"1a Escuadron de Submarinos" "2a Escuadron de Submarinos" "3a Escuadron de Submarinos" "4a Escuadron de Submarinos" "5a Escuadron de Submarinos" 
+	}
+	transport_ship = {
+		"1. Escuadrón de Transportes" "2. Escuadrón de Transportes" "3. Escuadrón de Transportes" "4. Escuadrón de Transportes" "5. Escuadrón de Transportes" 
+	}
+
+}
+
+
+ministers = {
+	
+}

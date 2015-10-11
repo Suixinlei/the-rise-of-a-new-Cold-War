@@ -1,0 +1,6 @@
+owner = FIN
+controller = FIN
+add_core = FIN
+
+manpower = 0.10
+infra = 7

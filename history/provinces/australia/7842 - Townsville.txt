@@ -1,0 +1,8 @@
+owner = AST
+controller = AST
+add_core = AST
+
+infra = 6
+air_base = 3 #RAAF Townsville
+naval_base = 3 #Townsville port
+points = 1

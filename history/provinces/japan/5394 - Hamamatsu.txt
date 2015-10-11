@@ -1,0 +1,8 @@
+owner = JAP
+controller = JAP
+add_core = JAP
+crude_oil = 3.00
+infra = 8
+energy = 20.00
+air_base = 4 #Hamamatsu and Gifu airbase
+points = 1

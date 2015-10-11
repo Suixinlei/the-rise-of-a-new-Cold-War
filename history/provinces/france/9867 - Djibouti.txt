@@ -1,0 +1,8 @@
+owner = DJI
+controller = DJI
+add_core = DJI
+manpower = 0.3
+infra = 6
+air_base = 3 #Djibouti airbase
+naval_base = 4 #Djibouti port
+points = 1

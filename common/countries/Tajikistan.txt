@@ -1,0 +1,148 @@
+color = { 20  35  181 }
+graphical_culture = Generic
+last_election = 2000.2.27
+duration = 60
+
+default_templates = {
+	generic_infantry = {
+		infantry_brigade
+		infantry_brigade
+		infantry_brigade
+	}
+	generic_milita = {
+		militia_brigade
+		militia_brigade
+		militia_brigade
+	}
+	generic_armoured = {
+		armor_brigade
+		motorized_brigade
+		motorized_brigade
+	}
+	generic_cavalry = {
+		cavalry_brigade
+		cavalry_brigade
+	}
+}
+
+
+
+
+ministers = {
+	79501  = {
+		name = "Emomalii Rahmon"
+		ideology = social_conservative
+		loyalty = 0.25
+		picture = M79501
+		head_of_state = autocratic_charmer
+		start_date = 1991.1.1
+	}
+	79502 = {
+		name = "Oqil Oqilov"
+		ideology = social_conservative
+		loyalty = 0.25
+		picture = M79502
+		head_of_government = backroom_backstabber
+		start_date = 2000.1.1
+	}
+	79503 = {
+		name = "Talbak Nazarov"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M79503
+		foreign_minister = biased_intellectual
+		start_date = 2000.1.1
+	}
+	79504 = {
+		name = "Hamrokhon Zarafi"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M79504
+		foreign_minister = the_cloak_n_dagger_schemer
+		start_date = 2000.1.1
+	}
+	79505 = {
+		name = "Sherali Hairulloev"
+		ideology = social_conservative
+		loyalty = 0.75
+		picture = M79505
+		chief_of_army = static_defence_doctrine
+		chief_of_navy = open_seas_doctrine
+		chief_of_air = air_superiority_doctrine
+		start_date = 2000.1.1
+	}
+	79506 = {
+		name = "Ravil Nadyrov"
+		ideology = social_conservative
+		loyalty = 0.75
+		picture = M79506
+		chief_of_staff = school_of_defence
+		start_date = 2000.1.1
+	}
+	79507 = {
+		name = "Saimumin Yatimov"
+		ideology = social_conservative
+		loyalty = 0.50
+		picture = M79507
+		minister_of_intelligence = logistics_specialist
+		start_date = 2000.1.1
+	}
+	79508 = {
+		name = "Ramazon Rahimov"
+		ideology = social_conservative
+		loyalty = 0.75
+		picture = M79508
+		minister_of_security = silent_lawyer
+		start_date = 2000.1.1
+	}
+	79509 = {
+		name = "Makhmud Hudaiberdyev"
+		ideology = national_socialist
+		loyalty = 0.25
+		picture = M79509
+		head_of_government = old_general 
+		chief_of_army = decisive_battle_doctrine
+		start_date = 1991.1.1
+	}
+	79510 = {
+		name = "Abdullo Nazarov"
+		ideology = fascistic
+		loyalty = 1.00
+		picture = M79510
+		minister_of_intelligence = political_specialist
+		start_date = 2000.1.1
+	}
+	79511 = {
+		name = "Humdin Sharipov"
+		ideology = social_conservative
+		loyalty = 0.75
+		picture = M79511
+		minister_of_security = back_stabber
+		start_date = 2000.1.1
+	}
+	79512 = {
+		name = "Murotali Alimardon"
+		ideology = social_conservative
+		loyalty = 0.75
+		picture = M79512
+		armament_minister = corrupt_kleptocrat
+		start_date = 2000.1.1
+	}
+	79513 = {
+		name = "Said Abdullo"
+		ideology = national_socialist
+		loyalty = 0.25
+		picture = M79513
+		head_of_state = ruthless_powermonger
+		start_date = 1991.1.1
+	}
+	79514 = {
+		name = "Akbar Turajonzoda"
+		ideology = national_socialist
+		loyalty = 1.00
+		picture = M79514
+		foreign_minister = the_cloak_n_dagger_schemer
+		start_date = 2000.1.1
+	}
+}
+

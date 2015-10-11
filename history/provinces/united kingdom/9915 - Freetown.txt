@@ -1,0 +1,8 @@
+owner = SIE
+controller = SIE
+add_core = SIE
+
+infra = 6
+manpower = 1.8
+naval_base = 5 #Freetown port
+points = 1

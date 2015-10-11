@@ -1,0 +1,13 @@
+owner = CUB
+controller = CUB
+add_core = CUB
+infra = 6
+industry = 2
+manpower = 2.3
+crude_oil = 1.00
+energy = 1.00
+rare_materials = 1.00
+air_base = 10 #Airbases around Havana
+naval_base = 5 #Havana port
+leadership = 2.50
+points = 1

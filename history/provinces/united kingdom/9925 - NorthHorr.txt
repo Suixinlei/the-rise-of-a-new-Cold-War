@@ -1,0 +1,6 @@
+owner = KEN
+controller = KEN
+add_core = KEN
+add_core = SUD
+add_core = SSU
+infra = 2

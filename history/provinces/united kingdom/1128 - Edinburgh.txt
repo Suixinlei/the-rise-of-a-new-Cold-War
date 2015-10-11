@@ -1,0 +1,11 @@
+owner = ENG
+controller = ENG
+add_core = SCO
+add_core = ENG
+manpower = 0.5
+infra = 9
+industry = 3
+air_base = 2 #Edinburgh airport
+leadership = 1.50
+points = 1
+energy = 35.00

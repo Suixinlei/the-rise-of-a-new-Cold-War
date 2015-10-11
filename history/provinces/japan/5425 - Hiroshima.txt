@@ -1,0 +1,11 @@
+owner = JAP
+controller = JAP
+add_core = JAP
+
+infra = 10
+air_base = 2 #MCAS Iwakuni
+naval_base = 4
+leadership = 1.00
+points = 1
+industry = 10
+energy = 20.00

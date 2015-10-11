@@ -1,0 +1,486 @@
+15001 = {
+	name = "Bastin"
+	country = BEL
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L15001
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+15002 = {
+	name = "Aafjes"
+	country = BEL
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L15002
+	add_trait = frontline_soldier
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+15003 = {
+	name = "Akkerman"
+	country = BEL
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L15003
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+15004 = {
+	name = "Baas"
+	country = BEL
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L15004
+	add_trait = improvisation
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+15005 = {
+	name = "Bisschop"
+	country = BEL
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L15005
+	add_trait = panzer_leader
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+15006 = {
+	name = "Brugmans"
+	country = BEL
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 0.00
+	picture = L15006
+	add_trait = defensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+15007 = {
+	name = "Claes"
+	country = BEL
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L15007
+	add_trait = commando
+	add_trait = learners_will
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+15008 = {
+	name = "Cuypers"
+	country = BEL
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 0.00
+	picture = L15008
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+15009 = {
+	name = "De Koninck"
+	country = BEL
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 0.00
+	picture = L15009
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+15010 = {
+	name = "Derksen"
+	country = BEL
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L15010
+	add_trait = landing_specialist
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+15011 = {
+	name = "Dykstra"
+	country = BEL
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 0.00
+	picture = L15011
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+15012 = {
+	name = "Eenhoorn"
+	country = BEL
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 1.00
+	picture = L15012
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+15013 = {
+	name = "Evers"
+	country = BEL
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L15013
+	add_trait = frontline_soldier
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+15014 = {
+	name = "Faas"
+	country = BEL
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L15014
+	add_trait = winter_specialist
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+15015 = {
+	name = "Franssen"
+	country = BEL
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L15015
+	add_trait = old_guard
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+15016 = {
+	name = "Geerts"
+	country = BEL
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L15016
+	add_trait = landlubber
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+15017 = {
+	name = "Goosen"
+	country = BEL
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L15017
+	add_trait = offensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+15018 = {
+	name = "Graaf"
+	country = BEL
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L15018
+	add_trait = engineer
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+15019 = {
+	name = "Hartog"
+	country = BEL
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L15019
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+15020 = {
+	name = "Guibert"
+	country = BEL
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L15020
+	add_trait = offensive_doctrine
+	add_trait = assaulter
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+15021 = {
+	name = "Van den Broeck"
+	country = BEL
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L15021
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+15022 = {
+	name = "Delcour"
+	country = BEL
+	type = land
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L15022
+	add_trait = hard_defender
+	history = {
+		1995.1.1 = { rank = 1 }
+		1998.1.1 = { rank = 2 }
+		2001.1.1 = { rank = 3 }
+		2003.1.1 = { rank = 4 }
+	}
+}
+15023 = {
+	name = "Van Daele"
+	country = BEL
+	type = land
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L15023
+	history = {
+		1998.1.1 = { rank = 1 }
+		2001.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+15024 = {
+	name = "Buchsenschmidt"
+	country = BEL
+	type = land
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L15024
+	add_trait = assaulter
+	history = {
+		1998.1.1 = { rank = 1 }
+		2001.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+15025 = {
+	name = "Andries"
+	country = BEL
+	type = land
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L15025
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+15026 = {
+	name = "Staes"
+	country = BEL
+	type = air
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L15026
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+15027 = {
+	name = "Boddin"
+	country = BEL
+	type = air
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L15027
+	add_trait = night_flyer
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+15028 = {
+	name = "Desair"
+	country = BEL
+	type = air
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L15028
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+15029 = {
+	name = "Mahieu"
+	country = BEL
+	type = air
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L15029
+	add_trait = tank_buster
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+15030 = {
+	name = "Vansina"
+	country = BEL
+	type = air
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L15030
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+15031 = {
+	name = "Helmont"
+	country = BEL
+	type = air
+	skill = 0
+	max_skill = 5
+	loyalty = 0.00
+	picture = L15031
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+15032 = {
+	name = "Van Caelenberge"
+	country = BEL
+	type = air
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L15032
+	add_trait = night_flyer
+	add_trait = superior_air_tactician
+	history = {
+		1998.1.1 = { rank = 1 }
+		2001.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+15033 = {
+	name = "Van de Voorde"
+	country = BEL
+	type = air
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L15033
+	add_trait = fleet_destroyer
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+15034 = {
+	name = "Hoeben"
+	country = BEL
+	type = sea
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L15034
+	add_trait = spotter
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+15035 = {
+	name = "Pynoo"
+	country = BEL
+	type = sea
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L15035
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+15036 = {
+	name = "Hofman"
+	country = BEL
+	type = sea
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L15036
+	add_trait = superior_tactician
+	history = {
+		1995.1.1 = { rank = 1 }
+		1998.1.1 = { rank = 2 }
+		2001.1.1 = { rank = 3 }
+		2003.1.1 = { rank = 4 }
+	}
+}
+15037 = {
+	name = "Hellemans"
+	country = BEL
+	type = sea
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L15037
+	add_trait = blockade_runner
+	add_trait = seawolf
+	history = {
+		1998.1.1 = { rank = 1 }
+		2001.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}

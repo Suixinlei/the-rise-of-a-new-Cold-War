@@ -1,0 +1,9 @@
+owner = KAZ
+controller = KAZ
+add_core = KAZ
+metal = 5.00
+rare_materials = 5.00
+infra = 4
+air_base = 2 #Zhetigen and Taldykorgan airbase
+leadership = 2.50
+points = 1

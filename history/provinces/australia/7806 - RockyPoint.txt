@@ -1,0 +1,8 @@
+owner = AST
+controller = AST
+add_core = AST
+
+infra = 2
+air_base = 3 #RAAF Scherger
+naval_base = 3 #Weipa port
+points = 1

@@ -1,0 +1,16 @@
+owner = USA
+controller = USA
+add_core = USA
+
+industry = 6
+infra = 10
+industry = 10
+manpower = 15.00
+
+
+energy = 50.00
+metal = 10.00
+rare_materials = 5.00
+air_base = 4 #Washington airport
+leadership = 3.00
+points = 1

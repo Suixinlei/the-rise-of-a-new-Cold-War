@@ -1,0 +1,8 @@
+owner = CHC
+controller = CHC
+ 
+add_core = CHC
+infra = 7
+
+air_base = 2 #Tiahe airbase
+points = 1

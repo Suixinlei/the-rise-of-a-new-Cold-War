@@ -1,0 +1,9 @@
+controller = CHI
+owner = CHI
+
+add_core = CHI
+add_core = CHC
+infra = 5
+terrain = mountain
+anti_air = 3
+PROV5810;Ì¨¶«;;;;;;;;;;X

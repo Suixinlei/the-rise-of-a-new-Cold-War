@@ -1,0 +1,6 @@
+owner = USA
+controller = USA
+add_core = USA
+infra = 8
+air_base = 7 #Orlando airport and MacDill airbase
+naval_base = 3 #Port Canaveral

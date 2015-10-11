@@ -1,0 +1,429 @@
+theatre = {
+	name = "Forças Armadas Brasileiras"
+	location = 10110
+	regiment = { type = hq_brigade name = "Forças Armadas Brasileiras" historical_model = 2 }
+	armygroup = {
+		name = "Exército Brasileiro"
+		location = 10110
+		regiment = { type = hq_brigade name = "Exército Brasileiro" historical_model = 2 }
+		army = {
+			name = "Com. Mil. Amazônia"
+			location = 10199
+			regiment = { type = hq_brigade name = "Com. Mil. Amazônia" historical_model = 2 }
+			corps = {
+				name = "8 Região Militar"
+				location = 10000
+				regiment = { type = hq_brigade name = "8 Região Militar" historical_model = 2 }
+				division = {
+					is_reserve = yes
+					name = "2 Bat. Infantaria Selva"
+					location = 10000
+					regiment = { type = engineer_brigade name = "2 Grupa de Engenharia" historical_model = 2 }
+				}
+			}
+			division = {
+				is_reserve = yes
+				name = "1 Brigada Infantaria Selva"
+				location = 9931
+				regiment = { type = air_cavalry_brigade name = "1 Bat. Infantaria Selva" historical_model = 0 }
+				regiment = { type = infantry_brigade name = "CF 'Roraima'/7 Bat. Infantaria Selva" historical_model = 2 }
+			}
+			division = {
+				is_reserve = yes
+				name = "2 Brigada Infantaria Selva"
+				location = 10018
+				regiment = { type = infantry_brigade name = "3 Bat. Infantaria Selva" historical_model = 2 }
+				regiment = { type = infantry_brigade name = "CF 'Rio Negro'/5 Bat. Infantaria Selva" historical_model = 2 }
+				regiment = { type = infantry_brigade name = "56 Bat. Infantaria Selva" historical_model = 2 }
+			}
+			division = {
+				is_reserve = yes
+				name = "16 Brigada Infantaria Selva"
+				location = 10222
+				regiment = { type = infantry_brigade name = "17 Bat. Infantaria Selva" historical_model = 2 }
+				regiment = { type = infantry_brigade name = "CF 'Solimões'/8 Bat. Infantaria Selva" historical_model = 2 }
+				regiment = { type = infantry_brigade name = "61 Bat. Infantaria Selva" historical_model = 2 }
+			}
+			division = {
+				is_reserve = yes
+				name = "17 Brigada Infantaria Selva"
+				location = 10222
+				regiment = { type = infantry_brigade name = "CF 'Acre'/4 Bat. Infantaria Selva" historical_model = 2 }
+				regiment = { type = infantry_brigade name = "CF 'Rondônia'/6 Bat. Infantaria Selva" historical_model = 2 }
+				regiment = { type = infantry_brigade name = "54 Bat. Infantaria Selva" historical_model = 2 }
+			}
+			division = {
+				is_reserve = yes
+				name = "23 Brigada Infantaria Selva"
+				location = 10018
+				regiment = { type = infantry_brigade name = "50 Bat. Infantaria Selva" historical_model = 2 }
+				regiment = { type = infantry_brigade name = "51 Bat. Infantaria Selva" historical_model = 2 }
+				regiment = { type = infantry_brigade name = "52 Bat. Infantaria Selva" historical_model = 2 }
+				regiment = { type = infantry_brigade name = "53 Bat. Infantaria Selva" historical_model = 2 }
+			}
+		}
+		army = {
+			name = "Com. Mil. Nordeste"
+			location = 10063
+			regiment = { type = hq_brigade name = "Com. Mil. Nordeste" historical_model = 2 }
+			corps = {
+				name = "6 Região Militar"
+				location = 10098
+				regiment = { type = hq_brigade name = "6 Região Militar" historical_model = 2 }
+				division = {
+					is_reserve = yes
+					name = "19 Batalhão Cacadores"
+					location = 10098
+					regiment = { type = infantry_brigade name = "19 Batalhão Cacadores" historical_model = 2 }
+					regiment = { type = engineer_brigade name = "1 Grupa de Engenharia" historical_model = 2 }
+				}
+				division = {
+					is_reserve = yes
+					name = "28 Batalhão Cacadores"
+					location = 10098
+					regiment = { type = infantry_brigade name = "28 Batalhão Cacadores" historical_model = 2 }
+				}
+				division = {
+					is_reserve = yes
+					name = "35 Batalhão Cacadores"
+					location = 10098
+					regiment = { type = infantry_brigade name = "35 Batalhão Cacadores" historical_model = 2 }
+				}
+			}
+			corps = {
+				name = "10 Região Militar"
+				location = 10035
+				regiment = { type = hq_brigade name = "10 Região Militar" historical_model = 2 }
+				division = {
+					is_reserve = yes
+					name = "23 Batalhão Cacadores"
+					location = 10035
+					regiment = { type = infantry_brigade name = "23 Batalhão Cacadores" historical_model = 2 }
+				}
+				division = {
+					is_reserve = yes
+					name = "24 Batalhão Cacadores"
+					location = 10010
+					regiment = { type = infantry_brigade name = "24 Batalhão Cacadores" historical_model = 2 }
+				}
+				division = {
+					is_reserve = yes
+					name = "25 Batalhão Cacadores"
+					location = 10034
+					regiment = { type = infantry_brigade name = "25 Batalhão Cacadores" historical_model = 2 }
+				}
+				division = {
+					is_reserve = yes
+					name = "40 Batalhão Cacadores"
+					location = 10045
+					regiment = { type = infantry_brigade name = "40 Batalhão Cacadores" historical_model = 2 }
+				}
+			}
+			corps = {
+				name = "7 Divisião"
+				location = 10063
+				regiment = { type = hq_brigade name = "7 Divisião" historical_model = 2 }
+				division = {
+					is_reserve = yes
+					name = "16 Rgt. Cavalaria Mec."
+					location = 10036
+					regiment = { type = mechanized_brigade name = "16 Rgt. Cavalaria Mec." historical_model = 0 }
+				}
+				division = {
+					is_reserve = yes
+					name = "7 Brigada Infantaria Motorizada"
+					location = 10036
+					regiment = { type = infantry_brigade name = "15 Bat. Inf. Motorizada" historical_model = 2 }
+					regiment = { type = infantry_brigade name = "16 Bat. Inf. Motorizada" historical_model = 2 }
+					regiment = { type = infantry_brigade name = "31 Bat. Inf. Motorizada" historical_model = 2 }
+				}
+				division = {
+					is_reserve = yes
+					name = "10 Brigada Infantaria Motorizada"
+					location = 10063
+					regiment = { type = infantry_brigade name = "14 Bat. Inf. Motorizada" historical_model = 2 }
+					regiment = { type = infantry_brigade name = "59 Bat. Inf. Motorizada" historical_model = 2 }
+					regiment = { type = infantry_brigade name = "71 Bat. Inf. Motorizada" historical_model = 2 }
+					regiment = { type = infantry_brigade name = "72 Bat. Inf. Motorizada" historical_model = 2 }
+				}
+			}
+		}
+		army = {
+			name = "Com. Mil. Sudeste"
+			location = 10226
+			regiment = { type = hq_brigade name = "Com. Mil. Sudeste" historical_model = 2 }
+			corps = {
+				name = "2 Divisão"
+				location = 10226
+				regiment = { type = hq_brigade name = "2 Divisão" historical_model = 2 }
+				division = {
+					is_reserve = yes
+					name = "11 Brigada Infantaria Leve"
+					location = 10204
+					regiment = { type = mechanized_brigade name = "13 Rgt. Cavalaria Mec." historical_model = 0 }
+					regiment = { type = infantry_brigade name = "2 Bat. Infantaria Leve" historical_model = 2 }
+					regiment = { type = infantry_brigade name = "28 Bat. Infantaria Leve" historical_model = 2 }
+					regiment = { type = infantry_brigade name = "37 Bat. Infantaria Leve" historical_model = 2 }
+					regiment = { type = anti_air_brigade name = "1 Brig. Artilharia Anti-Aérea" historical_model = 0 }
+				}
+				division = {
+					is_reserve = yes
+					name = "12 Brigada Infanteria Leve"
+					location = 10226
+					regiment = { type = air_cavalry_brigade name = "4 Bat. Infantaria Leve" historical_model = 0 }
+					regiment = { type = air_cavalry_brigade name = "5 Bat. Infantaria Leve" historical_model = 0 }
+					regiment = { type = air_cavalry_brigade name = "6 Bat. Infantaria Leve" historical_model = 0 }
+				}
+			}
+		}
+		army = {
+			name = "Com. Mil. Sul"
+			location = 7848
+			regiment = { type = hq_brigade name = "Com. Mil. Sul" historical_model = 2 }
+			corps = {
+				name = "3 Divisão"
+				location = 7856
+				regiment = { type = hq_brigade name = "3 Divisão" historical_model = 2 }
+				division = {
+					is_reserve = yes
+					name = "1 Brigada Cavalaria Mec."
+					location = 7851
+					regiment = { type = mechanized_brigade name = "1 Rgt. Cavalaria Mec." historical_model = 0 }
+					regiment = { type = mechanized_brigade name = "2 Rgt. Cavalaria Mec." historical_model = 0 }
+					regiment = { type = mechanized_brigade name = "19 Rgt. Cavalaria Mec." historical_model = 0 }
+					regiment = { type = armor_brigade name = "4 Rgt. Cavalaria Blindado" historical_model = 0 }
+					regiment = { type = sp_artillery_brigade name = "Artilharia Divisionária 3 Div." historical_model = 0 }
+				}
+				division = {
+					is_reserve = yes
+					name = "2 Brigada Cavalaria Mec."
+					location = 10296
+					regiment = { type = mechanized_brigade name = "5 Rgt. Cavalaria Mec." historical_model = 0 }
+					regiment = { type = mechanized_brigade name = "8 Rgt. Cavalaria Mec." historical_model = 0 }
+					regiment = { type = mechanized_brigade name = "12 Rgt. Cavalaria Mec." historical_model = 0 }
+					regiment = { type = armor_brigade name = "6 Rgt. Cavalaria Blindado" historical_model = 0 }
+				}
+				division = {
+					is_reserve = yes
+					name = "6 Brigada Infantaria Blindada"
+					location = 7856
+					regiment = { type = mechanized_brigade name = "7 Bat. Infantario Blindado" historical_model = 0 }
+					regiment = { type = mechanized_brigade name = "29 Bat. Infantario Blindado" historical_model = 0 }
+					regiment = { type = armor_brigade name = "1 Rgt. Carros Combate" historical_model = 0 }
+					regiment = { type = armor_brigade name = "4 Rgt. Carros Combate" historical_model = 0 }
+				}
+			}
+			corps = {
+				name = "5 Divisião"
+				location = 10242
+				regiment = {  type = hq_brigade name = "5 Divisião" historical_model = 2 }
+				division = {
+					is_reserve = yes
+					name = "14 Rgt. Cavalaria Mec."
+					location = 10226
+					regiment = { type = mechanized_brigade name = "14 Rgt. Cavalaria Mec." historical_model = 0 }
+				}
+				division = {
+					is_reserve = yes
+					name = "5 Brigada Cavalaria Blindada"
+					location = 10225
+					regiment = { type = mechanized_brigade name = "13 Bat. Infantario Blindado" historical_model = 0 }
+					regiment = { type = mechanized_brigade name = "20 Bat. Infantario Blindado" historical_model = 0 }
+					regiment = { type = armor_brigade name = "3 Rgt. Carros Combate" historical_model = 0 }
+					regiment = { type = armor_brigade name = "5 Rgt. Carros Combate" historical_model = 0 }
+				}
+				division = {
+					is_reserve = yes
+					name = "14 Brigada Infantaria Motorizada"
+					location = 7836
+					regiment = { type = infantry_brigade name = "23 Bat. Inf. Motorizada" historical_model = 2 }
+					regiment = { type = infantry_brigade name = "62 Bat. Inf. Motorizada" historical_model = 2 }
+					regiment = { type = infantry_brigade name = "63 Bat. Inf. Motorizada" historical_model = 2 }
+					regiment = { type = artillery_brigade name = "Artilharia Divisionária 5 Div." historical_model = 0 }
+				}
+				division = {
+					is_reserve = yes
+					name = "15 Brigada Infantaria Motorizada"
+					location = 10256
+					regiment = { type = infantry_brigade name = "30 Bat. Inf. Motorizada" historical_model = 2 }
+					regiment = { type = infantry_brigade name = "33 Bat. Inf. Motorizada" historical_model = 2 }
+					regiment = { type = infantry_brigade name = "34 Bat. Inf. Motorizada" historical_model = 2 }
+				}
+			}
+			corps = {
+				name = "6 Divisião"
+				location = 7848
+				regiment = { type = hq_brigade name = "6 Divisião" historical_model = 2 }
+				division = {
+					is_reserve = yes
+					name = "3 Brigada Cavalaria Mec."
+					location = 7866
+					regiment = { type = mechanized_brigade name = "3 Rgt. Cavalaria Mec." historical_model = 0 }
+					regiment = { type = mechanized_brigade name = "7 Rgt. Cavalaria Mec." historical_model = 0 }
+					regiment = { type = armor_brigade name = "9 Rgt. Cavalaria Blindado" historical_model = 0 }
+				}
+				division = {
+					is_reserve = yes
+					name = "8 Brigada Infantaria Motorizada"
+					location = 10256
+					regiment = { type = infantry_brigade name = "9 Bat. Inf. Motorizada" historical_model = 2 }
+					regiment = { type = infantry_brigade name = "18 Bat. Inf. Motorizada" historical_model = 2 }
+					regiment = { type = infantry_brigade name = "19 Bat. Inf. Motorizada" historical_model = 2 }
+					regiment = { type = artillery_brigade name = "Artilharia Divisionária 6 Div." historical_model = 0 }
+				}
+			}
+		}
+		army = {
+			name = "Com. Mil. Oeste"
+			location = 10156
+			regiment = { type = hq_brigade name = "Com. Mil. Oeste" historical_model = 2 }
+			division = {
+				is_reserve = yes
+				name = "4 Brigada Cavalaria Mec."
+				location = 10189
+				regiment = { type = mechanized_brigade name = "10 Rgt. Cavalaria Mec." historical_model = 0 }
+				regiment = { type = mechanized_brigade name = "11 Rgt. Cavalaria Mec." historical_model = 0 }
+				regiment = { type = mechanized_brigade name = "17 Rgt. Cavalaria Mec." historical_model = 0 }
+				regiment = { type = armor_brigade name = "20 Rgt. Cavalaria Blindado" historical_model = 0 }
+			}
+			division = {
+				is_reserve = yes
+				name = "13 Brigada Infantaria Motorizada"
+				location = 10167
+				regiment = { type = infantry_brigade name = "44 Bat. Inf. Motorizada" historical_model = 2 }
+				regiment = { type = infantry_brigade name = "47 Bat. Infantaria" historical_model = 2 }
+				regiment = { type = infantry_brigade name = "58 Bat. Infantaria" historical_model = 2 }
+			}
+			division = {
+				is_reserve = yes
+				name = "18 Brigada Infantaria de Fronteira"
+				location = 10154
+				regiment = { type = infantry_brigade name = "2 Bat. de Fronteira" historical_model = 2 }
+				regiment = { type = infantry_brigade name = "17 Bat. de Fronteira" historical_model = 2 }
+			}
+		}
+		army = {
+			name = "Com. Mil. Planalto"
+			location = 10110
+			regiment = { type = hq_brigade name = "Com. Mil. Planalto" historical_model = 2 }
+			division = {
+				is_reserve = yes
+				name = "1 Regimento de Cavalaria de Guardas"
+				location = 10110
+				regiment = { type = garrison_brigade name = "1 Regimento de Cavalaria de Guardas" historical_model = 2 }
+			}
+			division = {
+				is_reserve = yes
+				name = "Batalhão da Guarda Presidencial" 
+				location = 10110
+				regiment = { type = garrison_brigade name = "Batalhão da Guarda Presidencial" historical_model = 2 }
+			}
+			division = {
+				is_reserve = yes
+				name = "3 Brigada Infantaria Motorizada"
+				location = 10110
+				regiment = { type = air_cavalry_brigade name = "36 Bat. Infantaria Motorizado" historical_model = 0 }
+				regiment = { type = infantry_brigade name = "22 Bat. Infantaria" historical_model = 2 }
+				regiment = { type = infantry_brigade name = "41 Bat. Infantaria Motorizado" historical_model = 2 }
+			}
+			division = {
+				is_reserve = yes
+				name = "Brigada Operacões Especiais"
+				location = 10110
+				regiment = { type = special_forces_brigade name = "1 Bat. Acões de Comandos" historical_model = 2 }
+				regiment = { type = special_forces_brigade name = "1 Bat. Forcas Especiais" historical_model = 2 }
+			}
+		}
+	}
+	
+	air = {
+	name = "1 Grupo de Transporte de Tropas"
+	base = 10193
+	location = 10193
+	wing = { type = transport_plane name = "1 Grupo de Transporte de Tropas" historical_model = 0 }
+	}
+	
+	air = {
+	name = "1/1 Grupo de Transporte"
+	base = 10193
+	location = 10193
+	wing = { type = transport_plane name = "1/1 Grupo de Transporte" historical_model = 0 }
+	}
+	
+	air = {
+	name = "2/5 Grupo de Aviação"
+	base = 10036
+	location = 10036
+	wing = { type = cas name = "2/5 Grupo de Aviação" historical_model = 0 }
+	}
+	
+	air = {
+	name = "1/1 Grupo de Aviação" 
+	base = 10193
+	location = 10193
+	wing = { type = interceptor name = "1/1 Grupo de Aviação" historical_model = 0 }
+	}
+	
+	air = {
+	name = "2/1 Grupo de Aviação" 
+	base = 10193
+	location = 10193
+	wing = { type = interceptor name = "2/1 Grupo de Aviação" historical_model = 0 }
+	}
+	
+	air = {
+	name = "1/10 Grupo de Aviação"
+	base = 7856
+	location = 7856
+	wing = { type = cas name = "1/10 Grupo de Aviação" historical_model = 0 }
+	}
+	
+	air = {
+	name = "3/10 Grupo de Aviação"
+	base = 7856
+	location = 7856
+	wing = { type = cas name = "3/10 Grupo de Aviação" historical_model = 0 }
+	}
+	
+	navy = {
+	name = "Marinha do Brasil"
+	base = 10193
+	location = 10193
+	ship = { type = escort_carrier name = "BNS São Paulo" historical_model = 0 
+		air = {
+			location = 10193
+			wing = { type = cag name = "Sao Paulo Airwing" historical_model = 0 }
+		}
+	}
+	ship = { type = submarine name = "BNS Tupi" historical_model = 0 }
+	ship = { type = submarine name = "BNS Tamoio" historical_model = 0 }
+	ship = { type = submarine name = "BNS Timbira" historical_model = 0 }
+	ship = { type = submarine name = "BNS Tapaj? historical_model = 0 }
+	ship = { type = submarine name = "BNS Tikuna" historical_model = 0 }
+	ship = { type = heavy_cruiser name = "BNS Niterói" historical_model = 0 }
+	ship = { type = heavy_cruiser name = "BNS Par? historical_model = 0 }
+	ship = { type = heavy_cruiser name = "BNS Parana" historical_model = 0 }
+	ship = { type = heavy_cruiser name = "BNS Pernambuco" historical_model = 0 }
+	ship = { type = heavy_cruiser name = "BNS Defensora" historical_model = 0 }
+	ship = { type = heavy_cruiser name = "BNS Constituicão" historical_model = 0 }
+	ship = { type = heavy_cruiser name = "BNS Liberal" historical_model = 0 }
+	ship = { type = heavy_cruiser name = "BNS Independência" historical_model = 0 }
+	ship = { type = heavy_cruiser name = "BNS Dodsworth" historical_model = 0 }
+	ship = { type = heavy_cruiser name = "BNS União" historical_model = 0 }
+	ship = { type = heavy_cruiser name = "BNS Brasil" historical_model = 0 }
+	ship = { type = heavy_cruiser name = "BNS Greenhalgh" historical_model = 0 }
+	ship = { type = heavy_cruiser name = "BNS Bosísio" historical_model = 0 }
+	ship = { type = heavy_cruiser name = "BNS Rademaker" historical_model = 0 }
+	ship = { type = light_cruiser name = "BNS Inhaúma" historical_model = 0 }
+	ship = { type = light_cruiser name = "BNS Jaceguai" historical_model = 0 }
+	ship = { type = light_cruiser name = "BNS Júlio de Noronha" historical_model = 0 }
+	ship = { type = light_cruiser name = "BNS Frontin" historical_model = 0 }
+	ship = { type = transport_ship name = "BNS Cear? historical_model = 0 }
+	ship = { type = transport_ship name = "BNS Almirante Sabóia" historical_model = 0 }
+	ship = { type = transport_ship name = "BNS Garcia D'Avila" historical_model = 0 }
+	ship = { type = transport_ship name = "BNS Mattoso Maia" historical_model = 0 }
+	ship = { type = patrol_boat name = "BNS Imperial Marinheiro" historical_model = 0 }
+	ship = { type = patrol_boat name = "BNS Caboclo" historical_model = 0 }
+	}
+	
+}

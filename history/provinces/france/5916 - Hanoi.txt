@@ -1,0 +1,13 @@
+owner = VIE
+
+controller = VIE
+
+add_core = VIE
+industry = 5
+manpower = 10.00
+infra = 6
+energy = 12.00
+
+air_base = 5 #Hanoi and Yen Bai airbase
+leadership = 2.50
+points = 1

@@ -1,0 +1,7 @@
+owner = POL
+controller = POL
+add_core = POL
+infra = 10
+air_base = 2 #Olesnica airbase
+points = 1
+energy = 30.00

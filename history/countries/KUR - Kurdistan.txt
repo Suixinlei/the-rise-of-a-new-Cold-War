@@ -1,0 +1,40 @@
+capital = 7332
+government = autocratic_democracy
+ideology = social_conservative
+alignment = { x = 0 y = 50 }
+neutrality = 80
+national_unity = 70
+
+popularity = { 
+	national_socialist = 0
+	fascistic = 0
+	paternal_autocrat = 0
+	social_conservative = 25
+	market_liberal = 25
+	social_liberal = 25
+	social_democrat = 25
+	left_wing_radical = 0
+	leninist = 0
+	stalinist = 0
+}
+
+organization = {
+	national_socialist = 0
+	fascistic = 0
+	paternal_autocrat = 0
+	social_conservative = 80
+	market_liberal = 80
+	social_liberal = 80
+	social_democrat = 80
+	left_wing_radical = 0
+	leninist = 0
+	stalinist = 0
+}
+
+industrial_facilities = 1
+industral_production = 1
+industral_efficiency = 1
+weapon_design = 1
+the_fuselage_design = 1
+main_battle_tank = 1
+ship_hull = 1

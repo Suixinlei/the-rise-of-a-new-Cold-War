@@ -1,0 +1,16 @@
+owner = UKR
+controller = UKR
+add_core = UKR
+add_core = NOV
+
+infra = 8
+
+
+air_base = 3 #Sevastopol airbase
+naval_base = 10 #Sevastopol port
+leadership = 2.50
+points = 1
+industry = 1
+energy = 35.00
+metal = 25.00
+rare_materials = 15.00

@@ -1,0 +1,6 @@
+owner = LBY
+controller = LBY
+add_core = LBY
+infra = 3
+air_base = 5 #Maaten al Sarra airbase
+points = 1

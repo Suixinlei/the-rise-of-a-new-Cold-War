@@ -1,0 +1,5 @@
+theatre = {
+	name = "Barbados Defence Force"
+	location = 1474
+	regiment = { type = hq_brigade name = "Barbados Defence Force" historical_model = 2 }
+}

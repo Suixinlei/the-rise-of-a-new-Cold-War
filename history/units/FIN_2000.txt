@@ -1,0 +1,150 @@
+theatre = {
+	name = "Suomen Puolusvoimat"
+	location = 739
+	regiment = { type = hq_brigade name = "P‰‰esikunta" historical_model = 2 }
+	army = {
+	name = "Maavoimat"
+	location = 739
+	regiment = { type = hq_brigade name = "Maavoimien Esikunta" historical_model = 2 }
+	corps = {
+		name = "Etel‰-Suomen Sotilasl‰‰ni"
+		location = 739
+		regiment = { type = hq_brigade name = "Etel‰-Suomen Sotilasl‰‰nin Esikunta" historical_model = 2 }
+		division = {
+			is_reserve = yes
+			name = "Kaartin J‰‰k‰rirykmentti"
+			location = 739
+			regiment = { type = infantry_brigade name = "Kaartin Pataljoona" historical_model = 2 }
+			regiment = { type = infantry_brigade name = "Uudenmaan J‰‰k‰ripataljoona" historical_model = 2 }
+		}
+	}
+	corps = {
+		name = "Pohjois-Suomen Sotilasl‰‰ni"
+		location = 234
+		regiment = { type = hq_brigade name = "Pohjois-Suomen Sotilasl‰‰nin Esikunta" historical_model = 2 }
+		division = {
+			is_reserve = yes
+			name = "J‰‰k‰riprikaati"
+			location = 105
+			regiment = { type = infantry_brigade name = "Lapin J‰‰k‰ripataljoona" historical_model = 2 }
+			regiment = { type = infantry_brigade name = "Pohjan J‰‰k‰ripataljoona" historical_model = 2 }
+		}
+		division = {
+			is_reserve = yes
+			name = "Kainuun Prikaati"
+			location = 283
+			regiment = { type = infantry_brigade name = "Kainuun J‰‰k‰ripataljoona" historical_model = 2 }
+			regiment = { type = anti_air_brigade name = "Lapin Ilmatorjuntarykmentti" historical_model = 2 }
+		}
+	}
+	corps = {
+		name = "L‰nsi-Suomen Sotilasl‰‰ni"
+		location = 654
+		regiment = { type = hq_brigade name = "L‰nsi-Suomen Sotilasl‰‰nin Esikunta" historical_model = 2 }
+		division = {
+			is_reserve = yes
+			name = "Panssariprikaati"
+			location = 654
+			regiment = { type = mechanized_brigade name = "H‰meen J‰‰k‰ripataljoona" historical_model = 2 }
+			regiment = { type = armor_brigade name = "Panssaripataljoona" historical_model = 2 }
+		}
+		division = {
+			is_reserve = yes
+			name = "Porin Prikaati"
+			location = 653
+			regiment = { type = mechanized_brigade name = "Satakunnan J‰‰k‰ripataljoona" historical_model = 2 }
+		}
+		division = {
+			is_reserve = yes
+			name = "Tykistˆprikaati"
+			location = 653
+			regiment = { type = infantry_brigade name = "J‰‰k‰ripataljoona" historical_model = 2 }
+			regiment = { type = artillery_brigade name = "Satakunnan Tykistˆrykmentti" historical_model = 2 }
+		}
+	}
+	corps = {
+		name = "It‰-Suomen Sotilasl‰‰ni"
+		location = 618
+		regiment = { type = hq_brigade name = "It‰-Suomen Sotilasl‰‰nin Esikunta" historical_model = 2 }
+		division = {
+			is_reserve = yes
+			name = "Karjalan Prikaati"
+			location = 618
+			regiment = { type = mechanized_brigade name = "Kymen J‰‰k‰ripataljoona" historical_model = 2 }
+		}
+		division = {
+			is_reserve = yes
+			name = "Pohjois-Karjalan Prikaati"
+			location = 402
+			regiment = { type = infantry_brigade name = "Karjalan J‰‰k‰ripataljoona" historical_model = 2 }
+		}
+		division = {
+			is_reserve = yes
+			name = "Utin J‰‰k‰rirykmentti"
+			location = 618
+			regiment = { type = special_forces_brigade name = "Erikoisj‰‰k‰ripataljoona" historical_model = 2 }
+			regiment = { type = air_cavalry_brigade name = "Helikopteripataljoona" historical_model = 2 }
+		}
+	}
+}
+division = {
+	is_reserve = yes
+	name = "Uudenmaan Prikaati"
+	location = 779
+	regiment = { type = marine_brigade name = "Vaasan Rannikkoj‰‰k‰ripataljoona" historical_model = 2 }
+}
+
+navy = {
+	name = "5. Miinalaivue"
+	base = 739
+	location = 739
+	ship = { type = light_cruiser name = "Pohjanmaa" historical_model = 0 }
+}
+
+navy = {
+	name = "4. Miinalaivue"
+	base = 736
+	location = 736
+	ship = { type = light_cruiser name = "H‰meenmaa" historical_model = 0 }
+	ship = { type = light_cruiser name = "Uusimaa" historical_model = 0 }
+}
+
+navy = {
+	name = "7. Ohjuslaivue"
+	base = 739
+	location = 739
+	ship = { type = patrol_boat name = "Hamina" historical_model = 0 }
+}
+
+navy = {
+	name = "6. Ohjuslaivue"
+	base = 736
+	location = 736
+	ship = { type = patrol_boat name = "Rauma" historical_model = 0 }
+	ship = { type = patrol_boat name = "Raahe" historical_model = 0 }
+	ship = { type = patrol_boat name = "Porvoo" historical_model = 0 }
+	ship = { type = patrol_boat name = "Naantali" historical_model = 0 }
+}
+
+navy = {
+	name = "Kuljetuslaivue"
+	base = 739
+	location = 739
+	ship = { type = invasion_transport_ship name = "1. Kuljetusviirikkˆ" historical_model = 0 }
+	ship = { type = invasion_transport_ship name = "2. Kuljetusviirikkˆ" historical_model = 0 }
+}
+
+air = {
+	name = "Satakunnan Lennosto"
+	base = 616
+	location = 616
+	wing = { type = interceptor name = "H‰vitt‰j‰lentolaivue 21" historical_model = 0 }
+}
+
+air = {
+	name = "Karjalan Lennosto"
+	base = 400
+	location = 400
+	wing = { type = interceptor name = "H‰vitt‰j‰lentolaivue 31" historical_model = 0 }
+}
+}	

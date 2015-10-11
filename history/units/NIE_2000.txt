@@ -1,0 +1,26 @@
+theatre = {
+	name = "Forces Armées Nigeriennes"
+	location = 9799
+	regiment = { type = hq_brigade name = "Forces Armées Nigeriennes" historical_model = 0 }
+	corps = {
+		name = "Nigerien Army"
+		location = 9799
+		regiment = { type = hq_brigade name = "Army HQ" historical_model = 0 }
+		division = {
+			is_reserve = yes
+			name = "Garde Republicaine"
+			location = 9799
+			regiment = { type = infantry_brigade name = "1st Battalion" historical_model = 0 }
+			regiment = { type = infantry_brigade name = "2nd Battalion" historical_model = 0 }
+			regiment = { type = infantry_brigade name = "3rd Battalion" historical_model = 0 }
+		}
+		division = {
+			is_reserve = yes
+			name = "1st Infantry Brigade"
+			location = 9799
+			regiment = { type = infantry_brigade name = "11th Battalion" historical_model = 0 }
+			regiment = { type = infantry_brigade name = "12th Battalion" historical_model = 0 }
+		}
+	}
+	
+}

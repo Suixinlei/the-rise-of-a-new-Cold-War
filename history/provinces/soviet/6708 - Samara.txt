@@ -1,0 +1,11 @@
+owner = SOV
+controller = SOV
+add_core = SOV
+crude_oil = 26.00
+infra = 6
+energy = 30.00
+rare_materials = 5.00
+air_base = 2 #Samara airbase
+points = 1
+manpower = 5.00
+industry = 10

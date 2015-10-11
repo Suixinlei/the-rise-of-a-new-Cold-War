@@ -1,0 +1,6 @@
+owner = GER
+controller = GER
+add_core = GER
+energy = 5.00
+infra = 10
+

@@ -1,0 +1,29 @@
+diplomatic_decisions = {
+#######################################
+#ÐÞ¸ÄÏÜ·¨
+#######################################
+The_Japanese_lifted_collective_self-defense = {
+    
+      potential = {
+      tag = JAP
+      not = { has_country_flag = The_Japanese_lifted_collective_self-defense }
+      ideology = paternal_autocrat
+      war = no
+	  }
+		allow = {
+                 date = 2014.7.1
+                NOT = { year = 2015 }
+		}
+		effect = {	
+		  set_country_flag = The_Japanese_lifted_collective_self-defense
+                  JAP = { threat = { who = CHC value = 50 } }
+                  JAP = { threat = { who = SOV value = 50 } }
+                  JAP = { threat = { who = KOR value = 50 } }
+                  clr_country_flag = World_War_II_defeated
+                  national_unity = -20
+                  dissent = 10
+		}
+		ai_will_do = {
+			factor = 1
+		}
+}

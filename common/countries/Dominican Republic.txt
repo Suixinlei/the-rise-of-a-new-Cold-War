@@ -1,0 +1,118 @@
+color = { 168  183  128 }
+graphical_culture = Generic
+last_election = 2002.5.16
+duration = 48
+
+default_templates = {
+	generic_infantry = {
+		infantry_brigade
+		infantry_brigade
+		infantry_brigade
+	}
+	generic_milita = {
+		militia_brigade
+		militia_brigade
+		militia_brigade
+	}
+	generic_armoured = {
+		armor_brigade
+		motorized_brigade
+		motorized_brigade
+	}
+	generic_cavalry = {
+		cavalry_brigade
+		cavalry_brigade
+	}
+}
+
+unit_names = {
+	infantry_brigade = {
+		"I División de Infantería" "II División de Infantería" "III División de Infantería" "IV División de Infantería" "V División de Infantería" "VI División de Infantería" "VII División de Infantería" "VIII División de Infantería" "IX División de Infantería" "X División de Infantería" 
+	}
+	cavalry_brigade = {
+		"I División de Caballería 'Leonidas'" "II División de Caballería" "III División de Caballería" "IV División de Caballería" "V División de Caballería" 
+	}
+	motorized_brigade = {
+		"I División Motorizada" "II División Motorizada" "III División Motorizada" "IV División Motorizada" "V División Motorizada" "X División Motorizada" 
+	}
+	mechanized_brigade = {
+		"I División Mecanizada" "II División Mecanizada" "III División Mecanizada" "IV División Mecanizada" "V División Mecanizada" 
+	}
+	light_armor_brigade = {
+		"I División Blindada" "II División Blindada" "III División Blindada" "IV División Blindada" "V División Blindada" 
+	}
+	armor_brigade = {
+		"I División Blindada" "II División Blindada" "III División Blindada" "IV División Blindada" "V División Blindada" 
+	}
+	paratrooper_brigade = {
+		"I División de Paracaidistas" "II División de Paracaidistas" "III División de Paracaidistas" "IV División de Paracaidistas" "V División de Paracaidistas" "X División de Paracaidistas" 
+	}
+	marine_brigade = {
+		"I División de Comandos Marinos" "II División de Comandos Marinos" "III División de Comandos Marinos" "IV División de Comandos Marinos" "V División de Comandos Marinos" 
+	}
+	bergsjaeger_brigade = {
+		"I División de Montaña 'Las Leonides'" "II División de Montaña" "III División de Montaña" "IV División de Montaña" "V División de Montaña" 
+	}
+	garrison_brigade = {
+		"XI División de Infantería" "XII División de Infantería" "XIII División de Infantería" "XIV División de Infantería" "XV División de Infantería" 
+	}
+	hq_brigade = {
+		"Cuartel General 1er Ejército" "Cuartel General 2o Ejército" "Cuartel General 3er Ejército" "Cuartel General 4o Ejército" "Cuartel General 5o Ejército" "Cuartel General 6o Ejército" "Cuartel General 7o Ejército" "Cuartel General 8o Ejército" "Cuartel General 9o Ejército" "Cuartel General 10o Ejército" 
+	}
+	militia_brigade = {
+		"1a División de Milicía PTDR" "2a División de Milicía PTDR" "3a División de Milicía PTDR" "4a División de Milicía PTDR" "5a División de Milicía PTDR" "6a División de Milicía PTDR" "7a División de Milicía PTDR" "8a División de Milicía PTDR" "9a División de Milicía PTDR" "10a División de Milicía PTDR" 
+	}
+	multi_role = {
+		"1. Grupo Aéreo de Caza" "2. Grupo Aéreo de Caza" "3. Grupo Aéreo de Caza" "4. Grupo Aéreo de Caza" "5. Grupo Aéreo de Caza" 
+	}
+	interceptor = {
+		"1. Grupo Aéreo de Caza" "2. Grupo Aéreo de Caza" "3. Grupo Aéreo de Caza" "4. Grupo Aéreo de Caza" "5. Grupo Aéreo de Caza" 
+	}
+	strategic_bomber = {
+		"1. Grupo Aéreo Estratégico" "2. Grupo Aéreo Estratégico" "3. Grupo Aéreo Estratégico" "4. Grupo Aéreo Estratégico" "5. Grupo Aéreo Estratégico" 
+	}
+	tactical_bomber = {
+		"1. Grupo Aéreo Táctico" "2. Grupo Aéreo Táctico" "3. Grupo Aéreo Táctico" "4. Grupo Aéreo Táctico" "5. Grupo Aéreo Táctico" 
+	}
+	naval_bomber = {
+		"1. Grupo Aéreo de la Armada" "2. Grupo Aéreo de la Armada" "3. Grupo Aéreo de la Armada" "4. Grupo Aéreo de la Armada" "5. Grupo Aéreo de la Armada" 
+	}
+	cas = {
+		"1. Grupo Aéreo del Ejército" "2. Grupo Aéreo del Ejército" "3. Grupo Aéreo del Ejército" "4. Grupo Aéreo del Ejército" "5. Grupo Aéreo del Ejército" 
+	}
+	transport_plane = {
+		"1. Grupo Aerotransportado del Ejército" "2. Grupo Aerotransportado del Ejército" "3. Grupo Aerotransportado del Ejército" "4. Grupo Aerotransportado del Ejército" "5. Grupo Aerotransportado del Ejército" 
+	}
+	battleship = {
+		"ARD Don Rafél Trujillo" "ARD Eleonora Trujillo" 
+	}
+	light_cruiser = {
+		"ARD El Benefactor" "ARD Santo Domingo" "ARD Santiago" "ARD San Pedro" "ARD La Romana" 
+	}
+	heavy_cruiser = {
+		"ARD El Benefactor" "ARD Santo Domingo" "ARD Santiago" "ARD San Pedro" "ARD La Romana" 
+	}
+	battlecruiser = {
+		"ARD Don Rafél Trujillo" "ARD Eleonora Trujillo" 
+	}
+	destroyer = {
+		"1. Flotilla de Destructores" "2. Flotilla de Destructores" "3. Flotilla de Destructores" "4. Flotilla de Destructores" "5. Flotilla de Destructores" 
+	}
+	carrier = {
+		"ARD República Dominicana" "ARD Isla Catalina" 
+	}
+	escort_carrier = {
+		"ARD Yaque del Norte" "ARD Lago Enriquillo" 
+	}
+	submarine = {
+		"1. Flotilla de Submarinos" "2. Flotilla de Submarinos" "3. Flotilla de Submarinos" "4. Flotilla de Submarinos" "5. Flotilla de Submarinos" 
+	}
+	transport_ship = {
+		"1. Flotilla de Transporte" "2. Flotilla de Transporte" "3. Flotilla de Transporte" "4. Flotilla de Transporte" "5. Flotilla de Transporte" 
+	}
+
+}
+
+
+ministers = {
+	}

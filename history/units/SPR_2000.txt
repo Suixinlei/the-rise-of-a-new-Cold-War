@@ -1,0 +1,265 @@
+theatre = {
+	name = "Fuerzas Armadas Españolas"
+	location = 4540
+	regiment = { type = hq_brigade name = "Fuerzas Armadas Españolas" historical_model = 2 }
+	armygroup = {
+		name = "Ejército de Tierra"
+		location = 4540
+		regiment = { type = hq_brigade name = "Ejército de Tierra" historical_model = 2 }
+		division = {
+			is_reserve = yes
+			name = "Guard Regiment 'Inmemorial del Rey'"
+			location = 4540
+			regiment = { type = infantry_brigade name = "Guard Regiment 'Inmemorial del Rey'" historical_model = 2 }
+		}
+		army = {
+			name = "Land Forces Command"
+			location = 5030
+			regiment = { type = hq_brigade name = "Land Forces Command" historical_model = 2 }
+			corps = {
+				name = "Heavy Forces"
+				location = 4155
+				regiment = { type = hq_brigade name = "Heavy Forces HQ" historical_model = 2 }
+				division = {
+					is_reserve = yes
+					name = "2nd Cavalry Brigade 'Castillejos'"
+					location = 4353
+					regiment = { type = mechanized_brigade name = "4th Light Armored Cavalry Regiment 'Pavía'" historical_model = 1 }
+					regiment = { type = mechanized_brigade name = "9th Light Armored Cavalry Regiment 'Numancia'" historical_model = 1 }
+					regiment = { type = mechanized_brigade name = "11th Light Armored Cavalry Regiment 'España'" historical_model = 1 }
+					regiment = { type = engineer_brigade name = "1st Engineer Regiment" historical_model = 2 }
+				}
+				division = {
+					is_reserve = yes
+					name = "10th Mechanized Infantry Brigade 'Guzmán El Bueno'"
+					location = 4995
+					regiment = { type = mechanized_brigade name = "I/2nd Mechanized Infantry Battalion 'Princesa'" historical_model = 1 }
+					regiment = { type = mechanized_brigade name = "II/2nd Mechanized Infantry Battalion 'Lepanto'" historical_model = 1 }
+					regiment = { type = armor_brigade name = "IV/10th Armored Infantry Battalion 'Málaga'" historical_model = 1 }
+				}
+				division = {
+					is_reserve = yes
+					name = "11th Mechanized Infantry Brigade 'Extremadura'"
+					location = 4647
+					regiment = { type = mechanized_brigade name = "I/6th Mechanized Infantry Battalion 'Cantabria'" historical_model = 1 }
+					regiment = { type = mechanized_brigade name = "II/6th Mechanized Infantry Battalion 'Las Navas'" historical_model = 1 }
+					regiment = { type = armor_brigade name = "IV/16th Armored Infantry Battalion 'Mérida'" historical_model = 1 }
+				}
+				division = {
+					is_reserve = yes
+					name = "12th Armored Infantry Brigade 'Guadarrama'"
+					location = 4411
+					regiment = { type = mechanized_brigade name = "I/31st Mechanized Infantry Battalion 'Covadonga'" historical_model = 1 }
+					regiment = { type = armor_brigade name = "II/61st Armored Infantry Battalion 'Wad-Ras'" historical_model = 1 }
+					regiment = { type = armor_brigade name = "III/61st Armored Infantry Battalion 'León'" historical_model = 1 }
+				}
+			}
+			corps = {
+				name = "Light Forces"
+				location = 4541
+				regiment = { type = hq_brigade name = "Light Forces HQ" historical_model = 2 }
+				division = {
+					is_reserve = yes
+					name = "2nd Spanish Legion Brigade 'HM King Alfonso XIII'"
+					location = 5159
+					regiment = { type = mechanized_brigade name = "VII Spanish Legion Bandera 'Valenzuela'" historical_model = 1 }
+					regiment = { type = mechanized_brigade name = "VIII Spanish Legion Bandera 'Colón'" historical_model = 1 }
+					regiment = { type = mechanized_brigade name = "X Spanish Legion Bandera 'Millán Astray'" historical_model = 1 }
+				}
+				division = {
+					is_reserve = yes
+					name = "7th Light Infantry Brigade 'Galicia'"
+					location = 3742
+					regiment = { type = air_cavalry_brigade name = "I/3rd Light Infantry Battalion 'Toledo'" historical_model = 2 }
+					regiment = { type = air_cavalry_brigade name = "II/3rd Light Infantry Battalion 'San Quintín'" historical_model = 2 }
+					regiment = { type = air_cavalry_brigade name = "III/29th Light Infantry Battalion 'Zamora'" historical_model = 2 }
+					regiment = { type = attack_helicopter_brigade name = "1st Attack Helicopter Battalion" historical_model = 0 }
+				}
+				division = {
+					is_reserve = yes
+					name = "6th Parachute Infantry Brigade 'Almogávares'"
+					location = 4541
+					regiment = { type = paratrooper_brigade name = "1st Parachute Infantry Bandera 'Roger de Flor'" historical_model = 2 }
+					regiment = { type = paratrooper_brigade name = "2nd Parachute Infantry Bandera 'Roger de Lauria'" historical_model = 2 }
+					regiment = { type = paratrooper_brigade name = "3rd Parachute Infantry Bandera 'Ortiz de Zárate'" historical_model = 2 }
+				}
+				division = {
+					is_reserve = yes
+					name = "Mountain Troops Command"
+					location = 4159
+					regiment = { type = mountain_brigade name = "I/64th Mountain Infantry Battalion 'Pirineos'" historical_model = 2 }
+					regiment = { type = mountain_brigade name = "II/66th Mountain Infantry Battalion 'Montejurra'" historical_model = 2 }
+					regiment = { type = mountain_brigade name = "III/62nd Mountain Infantry Battalion 'Badajoz'" historical_model = 2 }
+					regiment = { type = mountain_brigade name = "IV/62rd Mountain Infantry Battalion 'Barcelona'" historical_model = 2 }
+				}
+				division = {
+					is_reserve = yes
+					name = "5th Light Infantry Brigade 'San Marcial'"
+					location = 3956
+					regiment = { type = infantry_brigade name = "I/67th Light Infantry Battalion 'Legazpi'" historical_model = 2 }
+					regiment = { type = infantry_brigade name = "III/45th Light Infantry Battalion 'Guipúzcoa'" historical_model = 2 }
+					regiment = { type = artillery_brigade name = "11th Field Artillery Regiment" historical_model = 0 }
+				}
+			}
+			division = {
+				is_reserve = yes
+				name = "Baleares General Command"
+				location = 4913
+				regiment = { type = infantry_brigade name = "47th Light Infantry Regiment 'Palma'" historical_model = 2 }
+				regiment = { type = anti_air_brigade name = "71st Air Defence Regiment" historical_model = 0 }
+			}
+			division = {
+				is_reserve = yes
+				name = "Ceuta General Command"
+				location = 5289
+				regiment = { type = mechanized_brigade name = "3rd Armored Cavalry Regiment 'Montesa'" historical_model = 1 }
+				regiment = { type = mechanized_brigade name = "IV Spanish Legion Bandera 'Cristo de Lepanto'" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "54th Regulares Light Infantry Regiment 'Ceuta'" historical_model = 2 }
+			}
+			division = {
+				is_reserve = yes
+				name = "Melilla General Command"
+				location = 5323
+				regiment = { type = mechanized_brigade name = "10th Armored Cavalry Regiment 'Alcántara'" historical_model = 1 }
+				regiment = { type = mechanized_brigade name = "I Spanish Legion Mechanized Bandera 'Commander Franco'" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "52nd Regulares Light Infantry Regiment 'Melilla'" historical_model = 2 }
+			}
+			division = {
+				is_reserve = yes
+				name = "Special Forces Command"
+				location = 5001
+				regiment = { type = special_forces_brigade name = "3rd Special Forces Battalion 'Valencia'" historical_model = 2 }
+				regiment = { type = special_forces_brigade name = "4th Special Forces Battalion 'Tercio del Ampurdán'" historical_model = 2 }
+				regiment = { type = special_forces_brigade name = "19th Special Forces Battalion 'Maderal Oleaga'" historical_model = 2 }
+			}
+		}
+		corps = {
+			name = "Canarias Command"
+			location = 10729
+			regiment = { type = hq_brigade name = "Canarias Command HQ" historical_model = 2 }
+			division = {
+				is_reserve = yes
+				name = "16th Light Infantry Brigade 'Canarias'"
+				location = 10729
+				regiment = { type = infantry_brigade name = "9th Light Infantry Regiment 'Soria'" historical_model = 2 }
+				regiment = { type = infantry_brigade name = "49th Light Infantry Regiment 'Tenerife'" historical_model = 2 }
+				regiment = { type = infantry_brigade name = "50th Light Infantry Regiment 'Canarias'" historical_model = 2 }
+			}
+		}
+	}
+	
+	navy = {
+	name = "Armada Española"
+	base = 5125
+	location = 5125
+
+	ship = { type = patrol_boat name = "Tagomago" historical_model = 0 }
+	ship = { type = patrol_boat name = "Medas" historical_model = 0 }
+	ship = { type = patrol_boat name = "Tabarca" historical_model = 0 }
+	ship = { type = invasion_transport_ship name = "L-601" historical_model = 0 }
+	ship = { type = invasion_transport_ship name = "L-602" historical_model = 0 }
+	ship = { type = invasion_transport_ship name = "L-630" historical_model = 0 }
+	ship = { type = transport_ship name = "Contramaestre Casado" historical_model = 0 }
+	ship = { type = transport_ship name = "Martín Posadillo" historical_model = 0 }
+	ship = { type = transport_ship name = "El Camino Español" historical_model = 0 }
+	}
+	
+	navy = {
+	name = "Projection Group"
+	base = 5125
+	location = 5125
+	ship = { type = assault_ship name = "Galicia" historical_model = 2 }
+	ship = { type = assault_ship name = "Castilla" historical_model = 2 }
+	}
+	
+	navy = {
+	name = "41st Escort Squadron"
+	base = 5125
+	location = 5125
+	ship = { type = heavy_cruiser name = "Santa María" historical_model = 0 }
+	ship = { type = heavy_cruiser name = "Victoria" historical_model = 0 }
+	ship = { type = heavy_cruiser name = "Numancia" historical_model = 0 }
+	ship = { type = heavy_cruiser name = "Reina Sofia" historical_model = 0 }
+	ship = { type = heavy_cruiser name = "Navarra" historical_model = 0 }
+	ship = { type = heavy_cruiser name = "Canarias" historical_model = 0 }
+	}
+	
+	navy = {
+	name = "31st Escort Squadron"
+	base = 3610
+	location = 3610
+	ship = { type = heavy_cruiser name = "Álvaro de Bazán" historical_model = 3 }
+	}
+	
+	navy = {
+	name = "Submarine Flotilla"
+	base = 5104
+	location = 5104
+	ship = { type = submarine name = "Galema" historical_model = 0 }
+	ship = { type = submarine name = "Mistral" historical_model = 0 }
+	ship = { type = submarine name = "Tramontana" historical_model = 0 }
+	ship = { type = submarine name = "Siroco" historical_model = 0 }
+	}
+	
+	navy = {
+	name = "Patrol Craft Flotilla"
+	base = 5125
+	location = 5125
+	ship = { type = light_cruiser name = "Infanta Cristina" historical_model = 0 }
+	ship = { type = light_cruiser name = "Infanta Elena" historical_model = 0 }
+	ship = { type = light_cruiser name = "Cazadora" historical_model = 0 }
+	ship = { type = light_cruiser name = "Vencedora" historical_model = 0 }
+	ship = { type = light_cruiser name = "Diana" historical_model = 0 }
+	ship = { type = light_cruiser name = "Descubierta" historical_model = 0 }
+	ship = { type = patrol_boat name = "Serviola" historical_model = 1 }
+	ship = { type = patrol_boat name = "Centinela" historical_model = 1 }
+	ship = { type = patrol_boat name = "Vigia" historical_model = 1 }
+	ship = { type = patrol_boat name = "Atalaya" historical_model = 1 }
+	}
+
+	air = {
+	name = "Ala 14"
+	base = 4910
+	location = 4910
+	wing = { type = multi_role name = "142 Escuadrón" historical_model = 2 }
+	}
+	
+	air = {
+	name = "Ala 11"
+	base = 5098
+	location = 5098
+	wing = { type = multi_role name = "113 Escuadrón" historical_model = 2 }
+	}
+	
+	air = {
+	name = "Ala12/Grupo 12"
+	base = 4541
+	location = 4541
+	wing = { type = multi_role name = "121 Escuadrón" historical_model = 0 }
+	wing = { type = multi_role name = "122 Escuadrón" historical_model = 0 }
+	}
+	
+	air = {
+	name = "Ala 46"
+	base = 10730
+	location = 10730
+	wing = { type = multi_role name = "462 Escuadrón" historical_model = 0 }
+	}
+	
+	air = {
+	name = "Ala 35"
+	base = 4540
+	location = 4540
+	wing = { type = transport_plane name = "351 Escuadrón" historical_model = 0 }
+	wing = { type = transport_plane name = "353 Escuadrón" historical_model = 0 }
+	}
+	
+	air = {
+	name = "Grupo 31"
+	base = 4353
+	location = 4353
+	wing = { type = transport_plane name = "311 Escuadrón" historical_model = 2 }
+	}
+}
+	
+	

@@ -1,0 +1,9 @@
+owner = UKR
+controller = UKR
+add_core = UKR
+add_core = NOV
+
+infra = 6
+
+air_base = 2 #konotop airbase
+points = 1

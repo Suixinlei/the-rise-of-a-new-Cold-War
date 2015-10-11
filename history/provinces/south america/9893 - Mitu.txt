@@ -1,0 +1,7 @@
+owner = COL
+controller = COL
+add_core = COL
+
+infra = 2
+air_base = 2 #Meneses airbase
+points = 1

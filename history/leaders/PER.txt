@@ -1,0 +1,1365 @@
+75001 = {
+	name = "Shushtar"
+	country = PER
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = PER1
+	add_trait = defensive_doctrine
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+75002 = {
+	name = "Vahidi"
+	country = PER
+	type = land
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = PER3
+	add_trait = defensive_doctrine
+	history = {
+		2000.1.1 = { rank = 1 }
+	    2003.1.1 = { rank = 2 }
+	}
+}
+75003 = {
+	name = "Jazayeri"
+	country = PER
+	type = land
+	skill = 3
+	max_skill = 6
+	loyalty = 1.00
+	picture = PER4
+	add_trait = offensive_doctrine
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+75004 = {
+	name = "Gharamani"
+	country = PER
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L75004
+	add_trait = offensive_doctrine
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+75005 = {
+	name = "Pejman"
+	country = PER
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = PER8
+	add_trait = learners_will
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+75006 = {
+	name = "Reza"
+	country = PER
+	type = land
+	skill = 3
+	max_skill = 6
+	loyalty = 1.00
+	picture = PER5
+	add_trait = offensive_doctrine
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+        }
+}
+75007 = {
+	name = "Shoushtari"
+	country = PER
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = PER9
+	add_trait = trickster
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+75008 = {
+	name = "Karami"
+	country = PER
+	type = land
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = PER6
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+75009 = {
+	name = "Salehi"
+	country = PER
+	type = land
+	skill = 3
+	max_skill = 6
+	loyalty = 1.00
+	picture = PER10
+	add_trait = hard_defender
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+75010 = {
+	name = "Jafari"
+	country = PER
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = PER13
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+75011 = {
+	name = "Farsi"
+	country = PER
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = PER11
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+75012 = {
+	name = "Baqerzadeh"
+	country = PER
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = PER12
+	add_trait = engineer
+	add_trait = assaulter
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+75013 = {
+	name = "Jamshidi"
+	country = PER
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = PER15
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+75014 = {
+	name = "Jazayeri"
+	country = PER
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = PER18
+	add_trait = panzer_leader
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+75015 = {
+	name = "Ghasemi"
+	country = PER
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = PER2
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+75016 = {
+	name = "Qazwini"
+	country = PER
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = PER20
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+75017 = {
+	name = "Mahmoudieh"
+	country = PER
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = PER59
+	add_trait = fortress_buster
+	add_trait = trickster
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+75018 = {
+	name = "A. Vahidi"
+	country = PER
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L75018
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+75019 = {
+	name = "Rahmani"
+	country = PER
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = PER24
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+75020 = {
+	name = "Ziaar"
+	country = PER
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L75020
+	add_trait = hard_defender
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+75021 = {
+	name = "Kaaveh"
+	country = PER
+	type = land
+	skill = 1
+	max_skill = 4
+	loyalty = 1.00
+	picture = PER26
+	add_trait = learners_will
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+75022 = {
+	name = "Manoo"
+	country = PER
+	type = land
+	skill = 2
+	max_skill = 8
+	loyalty = 1.00
+	picture = PER49
+	add_trait = panzer_leader
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+75023 = {
+	name = "Daatis"
+	country = PER
+	type = land
+	skill = 3
+	max_skill = 6
+	loyalty = 1.00
+	picture = PER55
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+75024 = {
+	name = "Nizampour"
+	country = PER
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = PER64
+	add_trait = engineer
+	add_trait = assaulter
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+75025 = {
+	name = "Mirghoolam"
+	country = PER
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = PER23
+	add_trait = logistics_wizard
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+75026 = {
+	name = "Zahedi"
+	country = PER
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L75026
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+75027 = {
+	name = "Diis"
+	country = PER
+	type = sea
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = PER47
+	add_trait = offensive_doctrine
+	add_trait = engineer
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+75028 = {
+	name = "Keyvaan"
+	country = PER
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = PER25
+	add_trait = commando
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+75029 = {
+	name = "Naceri"
+	country = PER
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L75029
+	add_trait = panzer_leader
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+75030 = {
+	name = "Haaleh"
+	country = PER
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = PER68
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+75031 = {
+	name = "D. Ziaar"
+	country = PER
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = PER64
+	add_trait = frontline_soldier
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+75032 = {
+	name = "K. Afarid"
+	country = PER
+	type = land
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = L75032
+	add_trait = assaulter
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+75033 = {
+	name = "Navid"
+	country = PER
+	type = land
+	skill = 3
+	max_skill = 6
+	loyalty = 1.00
+	picture = PER58
+	add_trait = panzer_leader
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+75034 = {
+	name = "Damon"
+	country = PER
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = PER65
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+75035 = {
+	name = "Ahmadi"
+	country = PER
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 1.00
+	picture = PER66
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+75036 = {
+	name = "Bijann"
+	country = PER
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L75036
+	add_trait = commando
+	add_trait = learners_will
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+75037 = {
+	name = "Mokri"
+	country = PER
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L75037
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+75038 = {
+	name = "Montesorri"
+	country = PER
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L75038
+	add_trait = engineer
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+75039 = {
+	name = "Khalaji"
+	country = PER
+	type = land
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = PER7
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+75040 = {
+	name = "Ahmad"
+	country = PER
+	type = land
+	skill = 0
+	max_skill = 4
+	loyalty = 1.00
+	picture = L75040
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+75041 = {
+	name = "Rajaei"
+	country = PER
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L75040
+	add_trait = engineer
+	add_trait = panzer_leader
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+75042 = {
+	name = "M. Kesani"
+	country = PER
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = PER44
+	add_trait = logistics_wizard
+	add_trait = panzer_leader
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+75043 = {
+	name = "M. Bostak"
+	country = PER
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = PER69
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+75044 = {
+	name = "Ipekçi"
+	country = PER
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = PER45
+	add_trait = logistics_wizard
+	add_trait = panzer_leader
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+75045 = {
+	name = "Merizadi"
+	country = PER
+	type = land
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = PER60
+	add_trait = logistics_wizard
+	add_trait = panzer_leader
+	history = {
+		2003.1.1 = { rank = 2 }
+		2000.1.1 = { rank = 1 }
+	}
+}
+75046 = {
+	name = "B. Merizadi"
+	country = PER
+	type = land
+	skill = 2
+	max_skill = 8
+	loyalty = 1.00
+	picture = PER14
+	add_trait = logistics_wizard
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+
+}
+75047 = {
+	name = "D. Said"
+	country = PER
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = PER29
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+75048 = {
+	name = "Bolour"
+	country = PER
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = PER32
+	add_trait = logistics_wizard
+	add_trait = panzer_leader
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+75049 = {
+	name = "Farahn"
+	country = PER
+	type = land
+	skill = 2
+	max_skill = 8
+	loyalty = 1.00
+	picture = PER38
+	add_trait = logistics_wizard
+	add_trait = panzer_leader
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+75050 = {
+	name = "B. Amin"
+	country = PER
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = PER39
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+75051 = {
+	name = "Ghodsi"
+	country = PER
+	type = sea
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = PER40
+	add_trait = seawolf
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+75052 = {
+	name = "Mukva"
+	country = PER
+	type = sea
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = PER50
+	history = {
+		2000.1.1 = { rank = 1 }
+		}
+}
+75053 = {
+	name = "Nakhjavan"
+	country = PER
+	type = sea
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = PER51
+	history = {
+		2000.1.1 = { rank = 1 }
+		}
+}
+75054 = {
+	name = "Khisrabadi"
+	country = PER
+	type = sea
+	skill = 0
+	max_skill = 3
+	loyalty = 1.00
+	picture = PER52
+	add_trait = seawolf
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+75055 = {
+	name = "R. Khosravani"
+	country = PER
+	type = sea
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L75055
+	add_trait = blockade_runner
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+75056 = {
+	name = "Jannat"
+	country = PER
+	type = sea
+	skill = 2
+	max_skill = 4
+	loyalty = 1.00
+	picture = PER61
+	add_trait = superior_tactician
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+75057 = {
+	name = "Mohanna"
+	country = PER
+	type = sea
+	skill = 1
+	max_skill = 3
+	loyalty = 1.00
+	picture = PER62
+	history = {
+		2000.1.1 = { rank = 2 }
+	}
+}
+75058 = {
+	name = "Quaranshah"
+	country = PER
+	type = sea
+	skill = 1
+	max_skill = 3
+	loyalty = 1.00
+	picture = L75058
+	history = {
+		2000.1.1 = { rank = 1 }
+		}
+}
+75059 = {
+	name = "Houri"
+	country = PER
+	type = sea
+	skill = 2
+	max_skill = 3
+	loyalty = 1.00
+	picture = PER30
+	add_trait = spotter
+	add_trait = superior_tactician
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+75060 = {
+	name = "Palavi"
+	country = PER
+	type = sea
+	skill = 1
+	max_skill = 4
+	loyalty = 1.00
+	picture = PER31
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+75061 = {
+	name = "Barssam"
+	country = PER
+	type = sea
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = PER41
+	add_trait = seawolf
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+75062 = {
+	name = "Hossein"
+	country = PER
+	type = sea
+	skill = 1
+	max_skill = 3
+	loyalty = 1.00
+	picture = PER42
+	add_trait = spotter
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+75063 = {
+	name = "Behdad"
+	country = PER
+	type = sea
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = PER43
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+75064 = {
+	name = "Amir"
+	country = PER
+	type = sea
+	skill = 2
+	max_skill = 3
+	loyalty = 1.00
+	picture = PER46
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+75065 = {
+	name = "Ata"
+	country = PER
+	type = sea
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = PER16
+	add_trait = carpet_bomber
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+75066 = {
+	name = "Mahtab"
+	country = PER
+	type = air
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = PER19
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+75067 = {
+	name = "Samira"
+	country = PER
+	type = air
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = PER27
+	add_trait = fleet_destroyer
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+75068 = {
+	name = "Nakhjavan"
+	country = PER
+	type = air
+	skill = 1
+	max_skill = 4
+	loyalty = 1.00
+	picture = PER34
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+75069 = {
+	name = "Khosravani"
+	country = PER
+	type = air
+	skill = 1
+	max_skill = 4
+	loyalty = 1.00
+	picture = PER35
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+75070 = {
+	name = "Mohanna"
+	country = PER
+	type = air
+	skill = 1
+	max_skill = 3
+	loyalty = 1.00
+	picture = PER36
+	add_trait = superior_air_tactician
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+75071 = {
+	name = "Moini"
+	country = PER
+	type = air
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = PER37
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+75072 = {
+	name = "Nakhjavani"
+	country = PER
+	type = air
+	skill = 0
+	max_skill = 5
+	loyalty = 1.00
+	picture = L75072
+	add_trait = night_flyer
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+75073 = {
+	name = "Sepahpour"
+	country = PER
+	type = air
+	skill = 0
+	max_skill = 3
+	loyalty = 0.00
+	picture = PER71
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+75074 = {
+	name = "Firusabadi"
+	country = PER
+	type = land
+	skill = 4
+	max_skill = 7
+	loyalty = 1.00
+	picture = L75074
+	add_trait = offensive_doctrine
+	add_trait = trickster
+	history = {
+		1995.1.1 = { rank = 1 }
+		1999.1.1 = { rank = 2 }
+		2001.1.1 = { rank = 3 }
+		2003.1.1 = { rank = 4 }
+	}
+}
+75075 = {
+	name = "Safavi"
+	country = PER
+	type = land
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L75075
+	add_trait = trainer
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+75076 = {
+	name = "Hejazi"
+	country = PER
+	type = land
+	skill = 2
+	max_skill = 8
+	loyalty = 1.00
+	picture = L75076
+	add_trait = commando
+	add_trait = landing_specialist
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+75077 = {
+	name = "Fikri"
+	country = PER
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L75077
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+75078 = {
+	name = "Yousefi"
+	country = PER
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L75078
+	add_trait = commando
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+75079 = {
+	name = "Zandi"
+	country = PER
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L75079
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+75080 = {
+	name = "Ganji"
+	country = PER
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L75080
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+75081 = {
+	name = "A. Khadem"
+	country = PER
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L75081
+	add_trait = commando
+	add_trait = learners_will
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+75082 = {
+	name = "Kosari"
+	country = PER
+	type = land
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L75082
+	add_trait = offensive_doctrine
+	add_trait = panzer_leader
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+75083 = {
+	name = "Mirzaei"
+	country = PER
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L75083
+	add_trait = frontline_soldier
+	add_trait = landing_specialist
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+75084 = {
+	name = "Najjar"
+	country = PER
+	type = land
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L75084
+	add_trait = engineer
+	history = {
+		1998.1.1 = { rank = 1 }
+		2000.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+75085 = {
+	name = "Naqdi"
+	country = PER
+	type = land
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L75085
+	add_trait = panzer_leader
+	history = {
+		1998.1.1 = { rank = 1 }
+		2000.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+75086 = {
+	name = "Fanaei"
+	country = PER
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L75086
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+75087 = {
+	name = "Pakpour"
+	country = PER
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L75087
+	add_trait = panzer_leader
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+75088 = {
+	name = "Esfahani"
+	country = PER
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L75088
+	add_trait = commando
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+75089 = {
+	name = "Ebrahimi"
+	country = PER
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L75089
+	add_trait = assaulter
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+75090 = {
+	name = "Pourdastan"
+	country = PER
+	type = land
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L75090
+	add_trait = defensive_doctrine
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+75091 = {
+	name = "Amoli"
+	country = PER
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L75091
+	add_trait = panzer_leader
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+75092 = {
+	name = "Salami"
+	country = PER
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L75092
+	add_trait = engineer
+	add_trait = hard_defender
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+75093 = {
+	name = "Kazmi"
+	country = PER
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L75093
+	add_trait = improvisation
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+75094 = {
+	name = "Salimi"
+	country = PER
+	type = land
+	skill = 3
+	max_skill = 5
+	loyalty = 1.00
+	picture = L75094
+	add_trait = fortress_buster
+	history = {
+		1997.1.1 = { rank = 1 }
+		1999.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+75095 = {
+	name = "Sepehr"
+	country = PER
+	type = land
+	skill = 2
+	max_skill = 8
+	loyalty = 1.00
+	picture = L75095
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+75096 = {
+	name = "Kadivar"
+	country = PER
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L75096
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+75097 = {
+	name = "Soleimani"
+	country = PER
+	type = land
+	skill = 3
+	max_skill = 6
+	loyalty = 1.00
+	picture = L75097
+	add_trait = panzer_leader
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+75098 = {
+	name = "Ahmadi-Moqaddam"
+	country = PER
+	type = air
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = L75098
+	add_trait = carpet_bomber
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+75099 = {
+	name = "al-Anbiya"
+	country = PER
+	type = air
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = L75099
+	add_trait = night_flyer
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+75100 = {
+	name = "Alavi"
+	country = PER
+	type = air
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L75100
+	add_trait = superior_air_tactician
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+75101 = {
+	name = "Esmaili"
+	country = PER
+	type = air
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L75101
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+75102 = {
+	name = "Jahanchahi"
+	country = PER
+	type = air
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L75102
+	add_trait = tank_buster
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+75103 = {
+	name = "Radan"
+	country = PER
+	type = air
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = L75103
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+75104 = {
+	name = "Javadi"
+	country = PER
+	type = sea
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L75104
+	add_trait = superior_tactician
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+75105 = {
+	name = "Karimi"
+	country = PER
+	type = sea
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = L75105
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}

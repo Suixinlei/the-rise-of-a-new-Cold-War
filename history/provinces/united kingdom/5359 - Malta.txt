@@ -1,0 +1,8 @@
+owner = MLT
+controller = MLT
+add_core = MLT
+
+infra = 8
+air_base = 1 #Malta airport
+naval_base = 3 #Grand Harbour
+points = 1

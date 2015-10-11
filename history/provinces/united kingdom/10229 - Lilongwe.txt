@@ -1,0 +1,7 @@
+owner = MLW
+controller = MLW
+add_core = MLW
+manpower = 5.9
+infra = 6
+air_base = 1 #Zomba airbase
+points = 1

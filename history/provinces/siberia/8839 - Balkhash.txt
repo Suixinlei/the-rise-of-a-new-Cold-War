@@ -1,0 +1,10 @@
+owner = KYG
+
+controller = KYG
+
+add_core = KYG
+manpower = 1.8
+energy = 1.00
+infra = 6
+air_base = 5 #Manas and Kant airbase
+points = 1

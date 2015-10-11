@@ -1,0 +1,8 @@
+owner = FRA
+controller = FRA
+add_core = FRA
+manpower = 0.5
+
+infra = 9
+leadership = 1.50
+industry = 10

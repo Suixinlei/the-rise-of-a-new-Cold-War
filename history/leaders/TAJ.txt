@@ -1,0 +1,98 @@
+159001 = {
+	name = "Hairulloev"
+	country = TAJ
+	type = land
+	skill = 0
+	max_skill = 3
+	loyalty = 0.00
+	picture = M79505
+	history = {
+ 1990.1.1 = { rank = 1 }
+ 1999.1.1 = { rank = 2 }
+ 1999.1.1 = { rank = 3 }
+ 2030.1.1 = { rank = 0 }
+ }
+}
+
+159002 = {
+	name = "Nadyrov"
+	country = TAJ
+	type = land
+	skill = 1
+	max_skill = 7
+	loyalty = 0.00
+	picture = M79506
+	history = {
+		1999.1.1 = { rank = 1 }
+		1999.1.1 = { rank = 2 }
+		2030.1.1 = { rank = 0 }
+	}
+}
+159003 = {
+	name = "Hudaiberdyev"
+	country = TAJ
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 0.00
+	picture = M79509
+	history = {
+		1991.1.1 = { rank = 1 }
+		2030.1.1 = { rank = 0 }
+	}
+}
+159004 = {
+	name = "Mirzoev"
+	country = TAJ
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 0.00
+	picture = L159004
+	add_trait = trickster
+	history = {
+		1990.1.1 = { rank = 1 }
+		1999.1.1 = { rank = 2 }
+		2030.1.1 = { rank = 0 }
+	}
+}
+159005 = {
+	name = "Kasymov"
+	country = TAJ
+	type = land
+	skill = 0
+	max_skill = 4
+	loyalty = 1.00
+	picture = L159005
+	add_trait = commando
+	history = {
+		1990.1.1 = { rank = 1 }
+		2030.1.1 = { rank = 0 }
+	}
+}
+159006 = {
+	name = "Mirzo"
+	country = TAJ
+	type = land
+	skill = 0
+	max_skill = 4
+	loyalty = 0.00
+	picture = L159006
+	history = {
+		1999.1.1 = { rank = 1 }
+		2030.1.1 = { rank = 0 }
+	}
+}
+159007 = {
+	name = "Zaripov"
+	country = TAJ
+	type = land
+	skill = 0
+	max_skill = 4
+	loyalty = 0.00
+	picture = L159007
+	history = {
+		1999.1.1 = { rank = 1 }
+		2030.1.1 = { rank = 0 }
+	}
+}

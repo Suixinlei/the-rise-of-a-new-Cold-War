@@ -1,0 +1,8 @@
+owner = BEL
+controller = BEL
+add_core = BEL
+terrain = hills
+infra = 8
+air_base = 4 #Saint-Hubert Airbase
+leadership = 2.50
+points = 1

@@ -1,0 +1,8 @@
+owner = ROM
+controller = ROM
+add_core = ROM
+
+manpower = 0.5
+
+infra = 8
+

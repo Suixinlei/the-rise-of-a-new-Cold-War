@@ -1,0 +1,8 @@
+owner = MEX
+controller = MEX
+add_core = MEX
+
+infra = 6
+energy = 30.00
+metal = 25.00
+rare_materials = 15.00

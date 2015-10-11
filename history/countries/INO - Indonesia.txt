@@ -1,0 +1,54 @@
+capital = 6507
+government = republic
+ideology = social_conservative
+alignment = { x = 0 y = 30 }
+neutrality = 80
+national_unity = 70
+head_of_state = 80700
+head_of_government = 80700
+foreign_minister = 80706
+armament_minister = 80701
+minister_of_security = 80705
+minister_of_intelligence = 80705
+chief_of_staff = 80702
+chief_of_army = 80704
+chief_of_navy = 80703
+chief_of_air = 80703
+oob = "INO_2000.txt"
+
+popularity = { 
+	national_socialist = 2
+	fascistic = 0
+	paternal_autocrat = 0
+	social_conservative = 13
+	market_liberal = 7
+	social_liberal = 22
+	social_democrat = 34
+	left_wing_radical = 0
+	leninist = 0
+	stalinist = 0
+}
+
+organization = { 
+	national_socialist = 6
+	fascistic = 0
+	paternal_autocrat = 0
+	social_conservative = 39
+	market_liberal = 21
+	social_liberal = 66
+	social_democrat = 102
+	left_wing_radical = 0
+	leninist = 0
+	stalinist = 0
+}
+
+conscription_policy = military_service
+press_laws = free_press
+mobilisation_level = peace_time
+civil_laws = open_society
+service_length = eighteen_months
+economic_policy = limit_intervention
+
+weapon_design = 1
+artillery_troops = 1
+industrial_facilities = 1

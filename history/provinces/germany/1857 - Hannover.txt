@@ -1,0 +1,10 @@
+owner = GER
+controller = GER
+add_core = GER
+energy = 5.00
+
+infra = 10
+energy = 25.00
+air_base = 7  #Hannover-Lagenhagen airport and surrounding airbase
+points = 1
+industry = 5

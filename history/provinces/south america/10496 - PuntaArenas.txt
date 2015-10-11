@@ -1,0 +1,7 @@
+owner = CHL
+controller = CHL
+add_core = CHL
+infra = 4
+air_base = 7 #Campo airbase
+naval_base = 3 #Punta Arenas port
+points = 1

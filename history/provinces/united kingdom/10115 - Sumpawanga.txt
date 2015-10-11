@@ -1,0 +1,6 @@
+owner = BUN
+controller = BUN
+add_core = BUN
+manpower = 3.8
+infra = 2
+points = 1

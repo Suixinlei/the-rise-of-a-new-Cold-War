@@ -1,0 +1,9 @@
+owner = UKR
+controller = UKR
+add_core = UKR
+infra = 7
+
+
+
+air_base = 2 #Vinnytsia airbase
+points = 1

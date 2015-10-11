@@ -1,0 +1,11 @@
+owner = SAF
+controller = SAF
+add_core = SAF
+industry = 6
+infra = 8
+manpower = 8.00
+energy = 5.00
+metal = 14.00
+air_base = 10 #Johannesburg airport and AFB Hoedspruit
+leadership = 1.50
+points = 1

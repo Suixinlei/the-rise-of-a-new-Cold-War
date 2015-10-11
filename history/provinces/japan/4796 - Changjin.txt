@@ -1,0 +1,7 @@
+owner = PRK
+controller = PRK
+add_core = PRK
+infra = 6
+air_base = 7 #Hwangsuwon and Iwon airbase
+industry = 8
+leadership = 1.00

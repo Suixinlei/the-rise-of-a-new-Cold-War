@@ -1,0 +1,8 @@
+owner = ENG
+controller = ENG
+add_core = ENG
+
+infra = 10
+
+naval_base = 7 #Portsmouth port
+points = 1

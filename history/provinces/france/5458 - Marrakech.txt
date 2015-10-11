@@ -1,0 +1,9 @@
+owner = MOR
+controller = MOR
+add_core = MOR
+manpower = 2.00
+infra = 7
+rare_materials = 2.00
+leadership = 0.80
+air_base = 6 #Marrakech and Molay Ali Cherif airbase
+points = 1

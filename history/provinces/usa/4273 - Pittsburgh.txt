@@ -1,0 +1,11 @@
+owner = USA
+controller = USA
+add_core = USA
+
+infra = 10
+industry = 10
+metal = 10.00
+manpower = 10.00
+air_base = 1 #Pittsburgh airport
+points = 1
+leadership = 1.00

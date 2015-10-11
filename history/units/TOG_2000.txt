@@ -1,0 +1,20 @@
+theatre = {
+	name = "Forces armées togolaises"
+	location = 9955
+	regiment = { type = hq_brigade name = "Forces armées togolaises" historical_model = 0 }
+	division = {
+		is_reserve = yes
+		name = "1st Infantry Brigade"
+		location = 9955
+		regiment = { type = infantry_brigade name = "11th Infantry Battalion" historical_model = 0 }
+		regiment = { type = infantry_brigade name = "12th Infantry Battalion" historical_model = 0 }
+		regiment = { type = infantry_brigade name = "13th Infantry Battalion" historical_model = 0 }
+	}
+	division = {
+		is_reserve = yes
+		name = "2nd Infantry Brigade"
+		location = 9838
+		regiment = { type = infantry_brigade name = "21st Infantry Battalion" historical_model = 0 }
+		regiment = { type = infantry_brigade name = "22nd Infantry Battalion" historical_model = 0 }
+	}
+}

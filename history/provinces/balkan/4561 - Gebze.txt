@@ -1,0 +1,8 @@
+owner = TUR
+controller = TUR
+add_core = TUR
+
+infra = 7
+air_base = 8 #Yenisehir airbase and Cengiz Topel Navar Air Station
+naval_base = 5 #Izmit port
+points = 1

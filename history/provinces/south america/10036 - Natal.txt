@@ -1,0 +1,7 @@
+owner = BRA
+controller = BRA
+add_core = BRA
+
+infra = 6
+
+air_base = 7 #Natal and Recife airbase 

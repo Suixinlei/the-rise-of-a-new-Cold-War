@@ -1,0 +1,10 @@
+owner = PER
+
+controller = PER
+
+add_core = PER
+
+add_core = KUR
+infra = 6
+
+air_base = 3 #Urmia airbase

@@ -1,0 +1,6 @@
+owner = TUR
+controller = TUR
+add_core = TUR
+
+infra = 8
+air_base = 3 #Dalaman airbase

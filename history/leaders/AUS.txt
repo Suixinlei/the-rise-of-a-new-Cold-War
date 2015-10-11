@@ -1,0 +1,1223 @@
+8001 = {
+	name = "Berktold"
+	country = AUS
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L8001
+	add_trait = offensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+8002 = {
+	name = "Bernecker"
+	country = AUS
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L8002
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+8003 = {
+	name = "Cermak"
+	country = AUS
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L8003
+	add_trait = panzer_leader
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+8004 = {
+	name = "Christiner"
+	country = AUS
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L8004
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+8005 = {
+	name = "Dieter"
+	country = AUS
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L8005
+	add_trait = panzer_leader
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+8006 = {
+	name = "Egger"
+	country = AUS
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L8006
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+8007 = {
+	name = "Feichtinger"
+	country = AUS
+	type = land
+	skill = 1
+	max_skill = 7
+	loyalty = 1.00
+	picture = L8007
+	add_trait = trainer
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+8008 = {
+	name = "Apfalter"
+	country = AUS
+	type = land
+	skill = 2
+	max_skill = 8
+	loyalty = 1.00
+	picture = L8008
+	add_trait = offensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+8009 = {
+	name = "Csitkovits"
+	country = AUS
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L8009
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+8010 = {
+	name = "Fürstenhofer"
+	country = AUS
+	type = land
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L8010
+	add_trait = offensive_doctrine
+	add_trait = assaulter
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+8011 = {
+	name = "Grünwald"
+	country = AUS
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L8011
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+8012 = {
+	name = "Hufler"
+	country = AUS
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L8012
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+8013 = {
+	name = "Konzett"
+	country = AUS
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L8013
+	add_trait = logistics_wizard
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+8014 = {
+	name = "Langthaler"
+	country = AUS
+	type = land
+	skill = 2
+	max_skill = 8
+	loyalty = 1.00
+	picture = L8014
+	add_trait = improvisation
+	add_trait = learners_will
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+8015 = {
+	name = "Mather"
+	country = AUS
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L8015
+	add_trait = defensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+8016 = {
+	name = "Mitterer"
+	country = AUS
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L8016
+	add_trait = improvisation
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+8017 = {
+	name = "Niederberger"
+	country = AUS
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L8017
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+8018 = {
+	name = "Pronhagl"
+	country = AUS
+	type = land
+	skill = 2
+	max_skill = 8
+	loyalty = 1.00
+	picture = L8018
+	add_trait = commando
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+8019 = {
+	name = "Reiszner"
+	country = AUS
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 0.00
+	picture = L8019
+	add_trait = winter_specialist
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+8020 = {
+	name = "Rozenits"
+	country = AUS
+	type = land
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L8020
+	add_trait = offensive_doctrine
+	add_trait = hard_defender
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+8021 = {
+	name = "Schmidseder"
+	country = AUS
+	type = land
+	skill = 2
+	max_skill = 8
+	loyalty = 1.00
+	picture = L8021
+	add_trait = assaulter
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+8022 = {
+	name = "Schober"
+	country = AUS
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L8022
+	add_trait = defensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+8023 = {
+	name = "Schröckenfuchs"
+	country = AUS
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L8023
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+8024 = {
+	name = "Schrötter"
+	country = AUS
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L8024
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+8025 = {
+	name = "Segur-Cabanac"
+	country = AUS
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 0.00
+	picture = L8025
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+8026 = {
+	name = "Spath"
+	country = AUS
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L8026
+	add_trait = improvisation
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+8027 = {
+	name = "Starlinger"
+	country = AUS
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L8027
+	add_trait = frontline_soldier
+	add_trait = commando
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+8028 = {
+	name = "Tagger"
+	country = AUS
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L8028
+	add_trait = old_guard
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+8029 = {
+	name = "Thaller"
+	country = AUS
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L8029
+	add_trait = panzer_leader
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+8030 = {
+	name = "Tilg"
+	country = AUS
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L8030
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+8031 = {
+	name = "Urrisk-Obertynski"
+	country = AUS
+	type = land
+	skill = 2
+	max_skill = 8
+	loyalty = 1.00
+	picture = L8031
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+8032 = {
+	name = "Wagner"
+	country = AUS
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 0.00
+	picture = L8032
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+8033 = {
+	name = "Waltl"
+	country = AUS
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L8033
+	add_trait = improvisation
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+8034 = {
+	name = "Wendy"
+	country = AUS
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L8034
+	add_trait = offensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+8035 = {
+	name = "Wessely"
+	country = AUS
+	type = land
+	skill = 2
+	max_skill = 8
+	loyalty = 1.00
+	picture = L8035
+	add_trait = offensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+8036 = {
+	name = "Zöllner"
+	country = AUS
+	type = land
+	skill = 2
+	max_skill = 8
+	loyalty = 1.00
+	picture = L8036
+	add_trait = learners_will
+	add_trait = assaulter
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+8037 = {
+	name = "Commenda"
+	country = AUS
+	type = land
+	skill = 4
+	max_skill = 8
+	loyalty = 1.00
+	picture = L8037
+	history = {
+		1995.1.1 = { rank = 1 }
+		1998.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+8038 = {
+	name = "Entacher"
+	country = AUS
+	type = land
+	skill = 4
+	max_skill = 9
+	loyalty = 1.00
+	picture = L8038
+	add_trait = logistics_wizard
+	add_trait = trickster
+	history = {
+		1995.1.1 = { rank = 1 }
+		1998.1.1 = { rank = 2 }
+		2001.1.1 = { rank = 3 }
+		2003.1.1 = { rank = 4 }
+	}
+}
+8039 = {
+	name = "Ertl"
+	country = AUS
+	type = land
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L8039
+	add_trait = defensive_doctrine
+	history = {
+		1995.1.1 = { rank = 1 }
+		1998.1.1 = { rank = 2 }
+		2001.1.1 = { rank = 3 }
+		2003.1.1 = { rank = 4 }
+	}
+}
+8040 = {
+	name = "Hötzl"
+	country = AUS
+	type = land
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L8040
+	history = {
+		1995.1.1 = { rank = 1 }
+		1998.1.1 = { rank = 2 }
+		2001.1.1 = { rank = 3 }
+		2003.1.1 = { rank = 4 }
+	}
+}
+8041 = {
+	name = "Schittenhelm"
+	country = AUS
+	type = land
+	skill = 4
+	max_skill = 8
+	loyalty = 1.00
+	picture = L8041
+	add_trait = old_guard
+	add_trait = defensive_doctrine
+	history = {
+		1995.1.1 = { rank = 1 }
+		1998.1.1 = { rank = 2 }
+		2001.1.1 = { rank = 3 }
+		2003.1.1 = { rank = 4 }
+	}
+}
+8042 = {
+	name = "Valentin"
+	country = AUS
+	type = land
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L8042
+	add_trait = frontline_soldier
+	history = {
+		1995.1.1 = { rank = 1 }
+		1998.1.1 = { rank = 2 }
+		2001.1.1 = { rank = 3 }
+		2003.1.1 = { rank = 4 }
+	}
+}
+8043 = {
+	name = "Wosolsobe"
+	country = AUS
+	type = land
+	skill = 3
+	max_skill = 7
+	loyalty = 0.00
+	picture = L8043
+	history = {
+		1995.1.1 = { rank = 1 }
+		1998.1.1 = { rank = 2 }
+		2001.1.1 = { rank = 3 }
+		2003.1.1 = { rank = 4 }
+	}
+}
+8044 = {
+	name = "Dialer"
+	country = AUS
+	type = land
+	skill = 4
+	max_skill = 7
+	loyalty = 1.00
+	picture = L8044
+	add_trait = panzer_leader
+	history = {
+		1995.1.1 = { rank = 1 }
+		1998.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+8045 = {
+	name = "Fitzal"
+	country = AUS
+	type = land
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L8045
+	add_trait = offensive_doctrine
+	history = {
+		1995.1.1 = { rank = 1 }
+		1998.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+8046 = {
+	name = "Höfler"
+	country = AUS
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L8046
+	history = {
+		1995.1.1 = { rank = 1 }
+		1998.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+8047 = {
+	name = "Reißner"
+	country = AUS
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 0.00
+	picture = L8047
+	history = {
+		1995.1.1 = { rank = 1 }
+		2000.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+8048 = {
+	name = "Bauer"
+	country = AUS
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L8048
+	add_trait = offensive_doctrine
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+8049 = {
+	name = "Brieger"
+	country = AUS
+	type = land
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L8049
+	add_trait = commando
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+8050 = {
+	name = "Culik"
+	country = AUS
+	type = land
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L8050
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+8051 = {
+	name = "Franzisci"
+	country = AUS
+	type = land
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L8051
+	add_trait = logistics_wizard
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+8052 = {
+	name = "Heidecker"
+	country = AUS
+	type = land
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L8052
+	add_trait = offensive_doctrine
+	add_trait = engineer
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+8053 = {
+	name = "Hessel"
+	country = AUS
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 0.00
+	picture = L8053
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+8054 = {
+	name = "Jilke"
+	country = AUS
+	type = land
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L8054
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+8055 = {
+	name = "Kritsch"
+	country = AUS
+	type = land
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L8055
+	add_trait = offensive_doctrine
+	add_trait = assaulter
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+8056 = {
+	name = "Mörz"
+	country = AUS
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L8056
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+8057 = {
+	name = "Raffetseder"
+	country = AUS
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L8057
+	add_trait = fortress_buster
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+8058 = {
+	name = "Spinka"
+	country = AUS
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L8058
+	add_trait = learners_will
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+8059 = {
+	name = "Winkelmayer"
+	country = AUS
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 0.00
+	picture = L8059
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+8060 = {
+	name = "Assmann"
+	country = AUS
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L8060
+	add_trait = frontline_soldier
+	history = {
+		2006.1.1 = { rank = 1 }
+	}
+}
+8061 = {
+	name = "Auner"
+	country = AUS
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L8061
+	history = {
+		2006.1.1 = { rank = 1 }
+	}
+}
+8062 = {
+	name = "Bair"
+	country = AUS
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 0.00
+	picture = L8062
+	history = {
+		2006.1.1 = { rank = 1 }
+	}
+}
+8063 = {
+	name = "Baranyai"
+	country = AUS
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L8063
+	history = {
+		2006.1.1 = { rank = 1 }
+	}
+}
+8064 = {
+	name = "Blasch"
+	country = AUS
+	type = land
+	skill = 1
+	max_skill = 7
+	loyalty = 1.00
+	picture = L8064
+	add_trait = commando
+	add_trait = engineer
+	history = {
+		2006.1.1 = { rank = 1 }
+	}
+}
+8065 = {
+	name = "Brülisauer"
+	country = AUS
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 0.00
+	picture = L8065
+	history = {
+		2006.1.1 = { rank = 1 }
+	}
+}
+8066 = {
+	name = "Dorfer"
+	country = AUS
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L8066
+	add_trait = offensive_doctrine
+	history = {
+		2006.1.1 = { rank = 1 }
+	}
+}
+8067 = {
+	name = "Eisenbach"
+	country = AUS
+	type = land
+	skill = 2
+	max_skill = 8
+	loyalty = 1.00
+	picture = L8067
+	add_trait = learners_will
+	history = {
+		2006.1.1 = { rank = 1 }
+	}
+}
+8068 = {
+	name = "Erber"
+	country = AUS
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L8068
+	add_trait = improvisation
+	history = {
+		2006.1.1 = { rank = 1 }
+	}
+}
+8069 = {
+	name = "Gruber"
+	country = AUS
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L8069
+	history = {
+		2006.1.1 = { rank = 1 }
+	}
+}
+8070 = {
+	name = "Habersatter"
+	country = AUS
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L8070
+	history = {
+		2006.1.1 = { rank = 1 }
+	}
+}
+8071 = {
+	name = "Holzer"
+	country = AUS
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L8071
+	history = {
+		2006.1.1 = { rank = 1 }
+	}
+}
+8072 = {
+	name = "Jawurek"
+	country = AUS
+	type = land
+	skill = 2
+	max_skill = 8
+	loyalty = 1.00
+	picture = L8072
+	add_trait = panzer_leader
+	history = {
+		2006.1.1 = { rank = 1 }
+	}
+}
+8073 = {
+	name = "Jenschik"
+	country = AUS
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 0.00
+	picture = L8073
+	history = {
+		2006.1.1 = { rank = 1 }
+	}
+}
+8074 = {
+	name = "Lattacher"
+	country = AUS
+	type = land
+	skill = 1
+	max_skill = 8
+	loyalty = 1.00
+	picture = L8074
+	add_trait = trainer
+	history = {
+		2006.1.1 = { rank = 1 }
+	}
+}
+8075 = {
+	name = "Luif"
+	country = AUS
+	type = land
+	skill = 1
+	max_skill = 7
+	loyalty = 1.00
+	picture = L8075
+	add_trait = frontline_soldier
+	add_trait = learners_will
+	history = {
+		2006.1.1 = { rank = 1 }
+	}
+}
+8076 = {
+	name = "Ortner"
+	country = AUS
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L8076
+	add_trait = engineer
+	history = {
+		2006.1.1 = { rank = 1 }
+	}
+}
+8077 = {
+	name = "Pendl"
+	country = AUS
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L8077
+	history = {
+		2006.1.1 = { rank = 1 }
+	}
+}
+8078 = {
+	name = "Pertl"
+	country = AUS
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 0.00
+	picture = L8078
+	history = {
+		2006.1.1 = { rank = 1 }
+	}
+}
+8079 = {
+	name = "Prader"
+	country = AUS
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L8079
+	add_trait = commando
+	history = {
+		2006.1.1 = { rank = 1 }
+	}
+}
+8080 = {
+	name = "Rindler"
+	country = AUS
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L8080
+	add_trait = hard_defender
+	history = {
+		2006.1.1 = { rank = 1 }
+	}
+}
+8081 = {
+	name = "Simbürger"
+	country = AUS
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L8081
+	history = {
+		2006.1.1 = { rank = 1 }
+	}
+}
+8082 = {
+	name = "Sitzwohl"
+	country = AUS
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L8082
+	history = {
+		2006.1.1 = { rank = 1 }
+	}
+}
+8083 = {
+	name = "Striedinger"
+	country = AUS
+	type = land
+	skill = 1
+	max_skill = 7
+	loyalty = 1.00
+	picture = L8083
+	history = {
+		2006.1.1 = { rank = 1 }
+	}
+}
+8084 = {
+	name = "Vorhofer"
+	country = AUS
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L8084
+	add_trait = trickster
+	history = {
+		2006.1.1 = { rank = 1 }
+	}
+}
+8085 = {
+	name = "Bernecker"
+	country = AUS
+	type = air
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L8085
+	add_trait = old_guard
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+8086 = {
+	name = "Hirschmugl"
+	country = AUS
+	type = air
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L8086
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+8087 = {
+	name = "Jeloschek"
+	country = AUS
+	type = air
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L8087
+	add_trait = tank_buster
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+8088 = {
+	name = "Knoll"
+	country = AUS
+	type = air
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L8088
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+8089 = {
+	name = "Kowatsch"
+	country = AUS
+	type = air
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L8089
+	add_trait = superior_air_tactician
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+8090 = {
+	name = "Puntigam"
+	country = AUS
+	type = air
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L8090
+	add_trait = superior_air_tactician
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+8091 = {
+	name = "Schandor"
+	country = AUS
+	type = air
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L8091
+	add_trait = night_flyer
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+8092 = {
+	name = "Staudacher"
+	country = AUS
+	type = air
+	skill = 1
+	max_skill = 5
+	loyalty = 0.00
+	picture = L8092
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+8093 = {
+	name = "Wolf"
+	country = AUS
+	type = air
+	skill = 4
+	max_skill = 8
+	loyalty = 1.00
+	picture = L8093
+	add_trait = tank_buster
+	add_trait = superior_air_tactician
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}

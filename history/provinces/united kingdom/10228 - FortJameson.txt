@@ -1,0 +1,8 @@
+owner = ZAM
+controller = ZAM
+add_core = ZAM
+
+infra = 6
+
+air_base = 3 #Chipata and Mfuwe airbase
+points = 1

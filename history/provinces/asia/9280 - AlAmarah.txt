@@ -1,0 +1,9 @@
+ owner = USA
+ controller = USA
+add_core = IRQ
+
+infra = 6
+crude_oil = 140.00
+
+rare_materials = 20.00
+metal = 35.00

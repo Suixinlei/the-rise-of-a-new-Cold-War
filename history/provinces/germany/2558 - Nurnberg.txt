@@ -1,0 +1,9 @@
+owner = GER
+controller = GER
+add_core = GER
+
+
+infra = 10
+
+air_base = 4#Nurenberg airport and surrounding airbases
+points = 1

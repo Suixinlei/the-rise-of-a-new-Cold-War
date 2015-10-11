@@ -1,0 +1,7 @@
+owner = JAP
+controller = JAP
+add_core = JAP
+infra = 8
+air_base = 6 #Nagasaki and Fukuoka airbase
+points = 1
+leadership = 1.00

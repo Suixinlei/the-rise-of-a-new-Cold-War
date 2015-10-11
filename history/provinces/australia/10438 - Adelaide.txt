@@ -1,0 +1,9 @@
+owner = AST
+controller = AST
+add_core = AST
+infra = 6
+metal = 51.00
+air_base = 8 #RAAF Edinburgh and Woomera and Adelaide airport
+naval_base = 4 #Adelaide port
+leadership = 2.50
+points = 1

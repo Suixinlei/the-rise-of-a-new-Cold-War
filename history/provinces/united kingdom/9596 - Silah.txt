@@ -1,0 +1,12 @@
+owner = BAH
+controller = BAH
+
+add_core = BAH
+crude_oil = 35.00
+energy = 30.00
+rare_materials = 16.00
+
+infra = 10
+air_base = 5 #Bahrain airport and Isa airbase
+naval_base = 1
+points = 1

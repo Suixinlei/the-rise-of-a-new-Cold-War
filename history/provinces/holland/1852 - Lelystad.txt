@@ -1,0 +1,9 @@
+owner = HOL
+controller = HOL
+add_core = HOL
+
+infra = 9
+
+
+air_base = 3 #Soesterberg airbase
+points = 1

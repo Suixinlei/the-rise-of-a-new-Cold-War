@@ -1,0 +1,9 @@
+owner = ITA
+controller = ITA
+add_core = ITA
+manpower = 0.50
+
+infra = 10
+
+air_base = 4 #Bologna airport and Cervia airbase
+points = 1

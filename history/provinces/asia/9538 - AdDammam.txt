@@ -1,0 +1,13 @@
+owner = SAU
+
+controller = SAU
+
+add_core = SAU
+
+manpower = 1.00
+infra = 7
+crude_oil = 100.00
+air_base = 1 #King Fahd airport
+naval_base = 10 #Dammam port
+leadership = 2.50
+points = 1

@@ -1,0 +1,11 @@
+owner = ENG
+controller = ENG
+add_core = ENG
+
+infra = 10
+manpower = 1.00
+
+air_base = 2 #RAF Woodvale and Liverpool airport
+naval_base = 6
+points = 1
+industry = 10

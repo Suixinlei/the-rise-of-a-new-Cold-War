@@ -1,0 +1,7 @@
+owner = SER
+controller = SER
+add_core = SER
+
+infra = 7
+
+air_base = 2 #Morava airbase

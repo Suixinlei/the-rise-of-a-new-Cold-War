@@ -1,0 +1,10 @@
+owner = ITA
+controller = ITA
+add_core = ITA
+
+infra = 6
+
+
+air_base = 6 #Catania airport and Naval Air Station Sigonella
+leadership = 2.50
+points = 1

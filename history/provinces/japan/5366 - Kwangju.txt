@@ -1,0 +1,11 @@
+owner = KOR
+
+controller = KOR
+
+add_core = KOR
+
+infra = 6
+leadership = 1.00
+
+air_base = 6 #Kwangju and Gunsan airbase
+industry = 8

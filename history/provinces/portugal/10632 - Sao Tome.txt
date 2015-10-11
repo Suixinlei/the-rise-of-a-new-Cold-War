@@ -1,0 +1,10 @@
+owner = STP
+
+controller = STP
+
+add_core = STP
+
+infra = 4
+manpower = 0.1
+naval_base = 1
+points = 1

@@ -1,0 +1,7 @@
+owner = ERI
+controller = ERI
+add_core = ERI
+
+infra = 4
+naval_base = 3 #Assab port
+ 

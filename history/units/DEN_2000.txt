@@ -1,0 +1,65 @@
+theatre = {
+	name = "Forsvaret"
+	location = 1482
+	regiment = { type = hq_brigade name = "Forsvaret" historical_model = 2 }
+	corps = {
+		name = "Haerens Operative Kommando"
+		location = 1482
+		regiment = { type = hq_brigade name = "Haerens Operative Kommando" historical_model = 2 }
+		division = {
+			is_reserve = yes
+			name = "Jydske Dragonregiment"
+			location = 1211
+			regiment = { type = armor_brigade name = "1. Bataljon" historical_model = 0 }
+			regiment = { type = mechanized_brigade name = "2. Bataljon" historical_model = 0 }
+			regiment = { type = engineer_brigade name = "1. Pansret Ingenioerbataljon" historical_model = 2 }
+		}
+		division = {
+			is_reserve = yes
+			name = "Gardehusarregimentet"
+			location = 1436
+			regiment = { type = mechanized_brigade name = "1. Bataljon" historical_model = 0 }
+			regiment = { type = mechanized_brigade name = "2. Bataljon" historical_model = 0 }
+			regiment = { type = mechanized_brigade name = "3. Bataljon" historical_model = 0 }
+		}
+		division = {
+			is_reserve = yes
+			name = "Den Kongelige Livgarde"
+			location = 1482
+			regiment = { type = mechanized_brigade name = "1. Bataljon" historical_model = 0 }
+			regiment = { type = mechanized_brigade name = "2. Bataljon" historical_model = 0 }
+		}
+		division = {
+			is_reserve = yes
+			name = "Danske Artilleriregiment"
+			location = 1482
+			regiment = { type = infantry_brigade name = "1. Bataljon" historical_model = 2 }
+			regiment = { type = artillery_brigade name = "1. Artilleribataljon" historical_model = 0 }
+		}
+		division = {
+			is_reserve = yes
+			name = "Jaegerkorpset"
+			location = 1212
+			regiment = { type = special_forces_brigade name = "Jaegerkorpset" historical_model = 2 }
+		}
+	}
+	
+	navy = {
+		name = "1. Eskadrille"
+		base = 1345
+		location = 1345
+		ship = { type = heavy_cruiser  name = "HDMS Thetis" historical_model = 0 }
+		ship = { type = heavy_cruiser  name = "HDMS Triton" historical_model = 0 }
+		ship = { type = heavy_cruiser  name = "HDMS Vaedderen" historical_model = 0 }
+		ship = { type = heavy_cruiser  name = "HDMS Hvidbjoernen" historical_model = 0 }
+	}
+	
+	air = {
+		name = "Jagerfloej Skrydstrup"
+		base = 1434
+		location = 1434
+		wing = { type = multi_role name = "Eskadrille 727" historical_model = 0 }
+		wing = { type = multi_role name = "Eskadrille 730" historical_model = 0 }
+	}
+}
+		

@@ -1,0 +1,331 @@
+color = { 239  239  182 }
+graphical_culture = Generic
+last_election = 1999.5.17
+duration = 48
+
+default_templates = {
+	generic_infantry = {
+		infantry_brigade
+		infantry_brigade
+		infantry_brigade
+	}
+	generic_milita = {
+		militia_brigade
+		militia_brigade
+		militia_brigade
+	}
+}
+unit_names = {
+
+}
+
+ministers = {
+	41001 = {
+		name = "Abdullah II ibn Al-Hussein"
+		ideology = market_liberal
+		loyalty = 1.00
+		picture = M41001
+		head_of_state = staunch_capitalist
+		start_date = 2000.1.1
+	}
+	41002 = {
+		name = "Hamzah bin Al Hussein"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M41002
+		head_of_state = popular_figurehead
+		start_date = 2000.1.1
+	}
+	41003 = {
+		name = "Hussein bin Abdullah"
+		ideology = market_liberal
+		loyalty = 1.00
+		picture = M41003
+		head_of_state = resource_industrialist
+		start_date = 2000.1.1
+	}
+	41004 = {
+		name = "Ali Abu al-Ragheb"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M41004
+		head_of_government = biased_intellectual
+		armament_minister = destroyer_lover
+		start_date = 2000.1.1
+	}
+	41005 = {
+		name = "Faisal al-Fayez"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M41005
+		head_of_government = research_specialist
+		armament_minister = ambitious_union_boss
+		start_date = 2003.1.1
+	}
+	41006 = {
+		name = "Adnan Badran"
+		ideology = social_liberal
+		loyalty = 1.00
+		picture = M41006
+		head_of_government = people_shamer
+		armament_minister = man_of_the_people
+		start_date = 2000.1.1
+	}
+	41007 = {
+		name = "Marouf al-Bakhit"
+		ideology = market_liberal
+		loyalty = 1.00
+		picture = M41007
+		head_of_government = the_cloak_n_dagger_schemer
+		armament_minister = infantry_proponent
+		start_date = 2000.1.1
+	}
+	41008 = {
+		name = "Nader al-Dahabi"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M41008
+		head_of_government = planning_representative
+		armament_minister = indirect_approach_doctrine
+		start_date = 2007.1.1
+	}
+	41009 = {
+		name = "Samir Rifai"
+		ideology = market_liberal
+		loyalty = 1.00
+		picture = M41009
+		head_of_government = industry_servant
+		armament_minister = strategic_air_proponent
+		start_date = 2009.1.1
+	}
+	41010 = {
+		name = "Awn Shawkat Al-Khasawneh"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M41010
+		head_of_government = crime_fighter
+		armament_minister = naive_optimist
+		start_date = 2011.1.1
+	}
+	41011 = {
+		name = "Fayez Tarawneh"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M41011
+		head_of_government = backroom_backstabber
+		armament_minister = economic_expert
+		start_date = 2000.1.1
+	}
+	41012 = {
+		name = "Abdullah Ensour"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M41012
+		head_of_government = corrupt_kleptocrat
+		armament_minister = static_defence_doctrine
+		start_date = 2012.1.1
+	}
+	41013 = {
+		name = "Marwan al-Muasher"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M41013
+		foreign_minister = apologetic_clerk
+		start_date = 2000.1.1
+	}
+	41014 = {
+		name = "Hani al-Mulki"
+		ideology = market_liberal
+		loyalty = 1.00
+		picture = M41014
+		foreign_minister = flamboyant_tough_guy
+		start_date = 2000.1.1
+	}
+	41015 = {
+		name = "Farouq Qasrawi"
+		ideology = social_liberal
+		loyalty = 1.00
+		picture = M41015
+		foreign_minister = ideological_crusader
+		start_date = 2000.1.1
+	}
+	41016 = {
+		name = "Abdul Ilah Khatib"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M41016
+		foreign_minister = stern_imperialist
+		start_date = 2005.1.1
+	}
+	41017 = {
+		name = "Salah Bashir"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M41017
+		foreign_minister = advertising_figure
+		start_date = 2007.1.1
+	}
+	41018 = {
+		name = "Nasser Judeh"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M41018
+		foreign_minister = barking_buffoon
+		start_date = 2009.1.1
+	}
+	41019 = {
+		name = "Qaftan Al Majali"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M41019
+		minister_of_security = political_protege
+		start_date = 2000.1.1
+	}
+	41020 = {
+		name = "Samir Habashneh"
+		ideology = market_liberal
+		loyalty = 1.00
+		picture = M41020
+		minister_of_security = economic_expert
+		start_date = 2000.1.1
+	}
+	41021 = {
+		name = "Eid Al-Fayez"
+		ideology = social_liberal
+		loyalty = 1.00
+		picture = M41021
+		minister_of_security = barking_buffoon
+		start_date = 2000.1.1
+	}
+	41022 = {
+		name = "Khalifah Suleiman"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M41022
+		minister_of_security = money_is_might
+		start_date = 2005.1.1
+	}
+	41023 = {
+		name = "Ghaleb Zubi"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M41023
+		minister_of_security = prince_of_terror
+		start_date = 2007.1.1
+	}
+	41024 = {
+		name = "Awad Khleifat"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M41024
+		minister_of_security = insignificant_layman
+		start_date = 2009.1.1
+	}
+	41025 = {
+		name = "Munir Hamarneh"
+		ideology = stalinist
+		loyalty = 1.00
+		picture = M41025
+		head_of_state = air_superiority_proponent
+		start_date = 2000.1.1
+	}
+	41026 = {
+		name = "Akram al-Homsi"
+		ideology = paternal_autocrat
+		loyalty = 1.00
+		picture = M41026
+		head_of_state = talented_and_concealed
+		start_date = 2000.1.1
+	}
+	41027 = {
+		name = "Abla Abu Elbah"
+		ideology = stalinist
+		loyalty = 1.00
+		picture = M41027
+		head_of_government = ruthless_powermonger
+		start_date = 2000.1.1
+	}
+	41028 = {
+		name = "Saeed Thyab"
+		ideology = social_democrat
+		loyalty = 1.00
+		picture = M41028
+		head_of_state = strategic_air_proponent
+		start_date = 2000.1.1
+	}
+	41029 = {
+		name = "Mazin Riyal"
+		ideology = paternal_autocrat
+		loyalty = 1.00
+		picture = M41029
+		head_of_state = untalented_nerd
+		start_date = 2000.1.1
+	}
+	41030 = {
+		name = "Faisal Al Shoubaki"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M41030
+		minister_of_intelligence = naive_optimist
+		start_date = 2000.1.1
+	}
+	41031 = {
+		name = "Mashal Mohammad Al-Zaben"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M41031
+		chief_of_staff = military_entrepreneur
+		chief_of_army = service_enforcer
+		start_date = 2005.1.1
+	}
+	41032 = {
+		name = "Khalid Jamil Sarayreh"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M41032
+		chief_of_staff = efficient_sociopath
+		chief_of_army = school_of_fire_support
+		start_date = 2000.1.1
+	}
+	41033 = {
+		name = "Feisal bin Al Hussein"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M41033
+		chief_of_air = air_superiority_doctrine
+		start_date = 2000.1.1
+	}
+	41034 = {
+		name = "Hussein Al Biss"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M41034
+		chief_of_air = master_of_skies
+		start_date = 2004.1.1
+	}
+	41035 = {
+		name = "Hussein Shodash"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M41035
+		chief_of_air = master_of_skies
+		start_date = 2006.1.1
+	}
+	41036 = {
+		name = "Malek Al-Habashneh"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M41036
+		chief_of_air = death_from_above
+		start_date = 2010.1.1
+	}
+	41037 = {
+		name = "Dari al-Zaben"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M41037
+		chief_of_navy = submarine_proponent
+		start_date = 2000.1.1
+	}
+	
+}

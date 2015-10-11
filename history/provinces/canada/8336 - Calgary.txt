@@ -1,0 +1,8 @@
+owner = CAN
+
+controller = CAN
+
+add_core = CAN
+infra = 8
+crude_oil = 9.4
+air_base = 3 #Calgary airport

@@ -1,0 +1,7 @@
+owner = BOT
+controller = BOT
+add_core = BOT
+rare_materials = 1.00
+infra = 6
+air_base = 4 #francistown and Maparangwane airbase
+points = 1

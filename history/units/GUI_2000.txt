@@ -1,0 +1,150 @@
+theatre = {
+	name = "Republic of Guinea Armed Forces"
+	location = 9875
+	regiment = { type = hq_brigade name = "Armed Forces HQ" historical_model = 0 }
+	army = {
+		name = "Army of Guinea"
+		location = 9875
+		regiment = { type = hq_brigade name = "Army HQ" historical_model = 0 }
+		corps = {
+			name = "1er RM"
+			location = 9875
+			regiment = { type = hq_brigade name = "1er RM" historical_model = 0 }
+			division = { 
+				is_reserve = yes
+				name = "11th Infantry Brigade"
+				location = 9875
+				regiment = { type = infantry_brigade name = "111th Infantry Battalion" historical_model = 0 }
+				regiment = { type = infantry_brigade name = "112th Infantry Battalion" historical_model = 0 }
+				regiment = { type = infantry_brigade name = "113th Infantry Battalion" historical_model = 0 }
+			}
+			division = { 
+				is_reserve = yes
+				name = "12th Infantry Brigade"
+				location = 9875
+				regiment = { type = infantry_brigade name = "121st Infantry Battalion" historical_model = 0 }
+				regiment = { type = infantry_brigade name = "122nd Infantry Battalion" historical_model = 0 }
+				regiment = { type = infantry_brigade name = "123rd Infantry Battalion" historical_model = 0 }
+			}
+			division = { 
+				is_reserve = yes
+				name = "13th Infantry Brigade"
+				location = 9854
+				regiment = { type = infantry_brigade name = "131st Infantry Battalion" historical_model = 0 }
+				regiment = { type = infantry_brigade name = "132nd Infantry Battalion" historical_model = 0 }
+				regiment = { type = infantry_brigade name = "133rd Infantry Battalion" historical_model = 0 }
+			}
+			division = { 
+				is_reserve = yes
+				name = "14th Infantry Brigade"
+				location = 9814
+				regiment = { type = infantry_brigade name = "141st Infantry Battalion" historical_model = 0 }
+				regiment = { type = infantry_brigade name = "142nd Infantry Battalion" historical_model = 0 }
+				regiment = { type = infantry_brigade name = "143rd Infantry Battalion" historical_model = 0 }
+			}
+		}
+		corps = {
+			name = "2e RM"
+			location = 9834
+			regiment = { type = hq_brigade name = "2e RM" historical_model = 0 }
+			division = { 
+				is_reserve = yes
+				name = "21st Infantry Brigade"
+				location = 9834
+				regiment = { type = infantry_brigade name = "211th Infantry Battalion" historical_model = 0 }
+				regiment = { type = infantry_brigade name = "212th Infantry Battalion" historical_model = 0 }
+				regiment = { type = infantry_brigade name = "213th Infantry Battalion" historical_model = 0 }
+			}
+			division = { 
+				is_reserve = yes
+				name = "22nd Infantry Brigade"
+				location = 9834
+				regiment = { type = infantry_brigade name = "221st Infantry Battalion" historical_model = 0 }
+				regiment = { type = infantry_brigade name = "222nd Infantry Battalion" historical_model = 0 }
+				regiment = { type = infantry_brigade name = "223rd Infantry Battalion" historical_model = 0 }
+			}
+			division = { 
+				is_reserve = yes
+				name = "23rd Infantry Brigade"
+				location = 9795
+				regiment = { type = infantry_brigade name = "231st Infantry Battalion" historical_model = 0 }
+				regiment = { type = infantry_brigade name = "232nd Infantry Battalion" historical_model = 0 }
+				regiment = { type = infantry_brigade name = "233rd Infantry Battalion" historical_model = 0 }
+			}
+			division = { 
+				is_reserve = yes
+				name = "24th Infantry Brigade"
+				location = 9795
+				regiment = { type = infantry_brigade name = "241st Infantry Battalion" historical_model = 0 }
+				regiment = { type = infantry_brigade name = "242nd Infantry Battalion" historical_model = 0 }
+				regiment = { type = infantry_brigade name = "243rd Infantry Battalion" historical_model = 0 }
+			}
+		}
+		corps = {
+			name = "3e RM"
+			location = 9816
+			regiment = { type = hq_brigade name = "3e RM" historical_model = 0 }
+			division = { 
+				is_reserve = yes
+				name = "31st Infantry Brigade"
+				location = 9816
+				regiment = { type = infantry_brigade name = "311th Infantry Battalion" historical_model = 0 }
+				regiment = { type = infantry_brigade name = "312th Infantry Battalion" historical_model = 0 }
+				regiment = { type = infantry_brigade name = "313th Infantry Battalion" historical_model = 0 }
+			}
+			division = { 
+				is_reserve = yes
+				name = "32nd Infantry Brigade"
+				location = 9816
+				regiment = { type = infantry_brigade name = "321st Infantry Battalion" historical_model = 0 }
+				regiment = { type = infantry_brigade name = "322nd Infantry Battalion" historical_model = 0 }
+				regiment = { type = infantry_brigade name = "323rd Infantry Battalion" historical_model = 0 }
+			}
+			division = { 
+				is_reserve = yes
+				name = "33rd Infantry Brigade"
+				location = 9835
+				regiment = { type = infantry_brigade name = "331st Infantry Battalion" historical_model = 0 }
+				regiment = { type = infantry_brigade name = "332nd Infantry Battalion" historical_model = 0 }
+				regiment = { type = infantry_brigade name = "333rd Infantry Battalion" historical_model = 0 }
+			}
+			division = { 
+				is_reserve = yes
+				name = "34th Infantry Brigade"
+				location = 9835
+				regiment = { type = infantry_brigade name = "341st Infantry Battalion" historical_model = 0 }
+				regiment = { type = infantry_brigade name = "342nd Infantry Battalion" historical_model = 0 }
+				regiment = { type = infantry_brigade name = "343rd Infantry Battalion" historical_model = 0 }
+			}
+		}
+		corps = {
+			name = "4e RM"
+			location = 9816
+			regiment = { type = hq_brigade name = "4e RM" historical_model = 0 }
+			division = { 
+				is_reserve = yes
+				name = "41st Infantry Brigade"
+				location = 9916
+				regiment = { type = infantry_brigade name = "411th Infantry Battalion" historical_model = 0 }
+				regiment = { type = infantry_brigade name = "412th Infantry Battalion" historical_model = 0 }
+				regiment = { type = infantry_brigade name = "413th Infantry Battalion" historical_model = 0 }
+			}
+			division = { 
+				is_reserve = yes
+				name = "42nd Infantry Brigade"
+				location = 9916
+				regiment = { type = infantry_brigade name = "421st Infantry Battalion" historical_model = 0 }
+				regiment = { type = infantry_brigade name = "422nd Infantry Battalion" historical_model = 0 }
+				regiment = { type = infantry_brigade name = "423rd Infantry Battalion" historical_model = 0 }
+			}
+			division = { 
+				is_reserve = yes
+				name = "43rd Infantry Brigade"
+				location = 9897
+				regiment = { type = infantry_brigade name = "431st Infantry Battalion" historical_model = 0 }
+				regiment = { type = infantry_brigade name = "432nd Infantry Battalion" historical_model = 0 }
+				regiment = { type = infantry_brigade name = "433rd Infantry Battalion" historical_model = 0 }
+			}
+		}
+	}
+}

@@ -1,0 +1,34 @@
+theatre = {
+	name = "°¢¶û°ÍÄáÑÇ¹ú·À¾ü"
+	location = 4663
+	regiment = { type = hq_brigade name = "FARSH" historical_model = 0 }
+	corps = {
+		name = "°¢¶û°ÍÄáÑÇÂ½¾ü"
+		location = 4663
+		regiment = { type = hq_brigade name = "Forcat Tokësore Shqiptare" historical_model = 0 }
+		division = {
+			is_reserve = yes
+			name = "°¢¶û°ÍÄáÑÇ²½±ø1Ê¦"
+			location = 4663
+			regiment = { type = special_forces_brigade name = "Batalioni i Operacioneve Speciale" historical_model = 0 }
+		}
+		division = {
+			is_reserve = yes
+			name = "°¢¶û°ÍÄáÑÇ²½±ø2Ê¦"
+			location = 4663
+			regiment = { type = infantry_brigade name = "1. " historical_model = 0 }
+			regiment = { type = infantry_brigade name = "2. Batalioni" historical_model = 0 }
+			regiment = { type = infantry_brigade name = "3. Batalioni" historical_model = 0 }
+		}
+	}
+	
+	navy = {
+		name = "°¢¶û°ÍÄáÑÇº£¾ü"
+		base = 4716
+		location = 4716
+		ship = { type = patrol_boat name = "M-111" historical_model = 0 }
+		ship = { type = patrol_boat name = "P-207" historical_model = 0 }
+		ship = { type = patrol_boat name = "Shanghai I" historical_model = 0 }
+		ship = { type = patrol_boat name = "Shanghai II" historical_model = 0 }
+	}
+}

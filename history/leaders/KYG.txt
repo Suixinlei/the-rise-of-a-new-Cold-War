@@ -1,0 +1,183 @@
+87001 = {
+	name = "Topoev"
+	country = KYG
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 0.00
+	picture = topoev
+	add_trait = trickster
+	history = {
+ 1990.1.1 = { rank = 1 }
+ 1990.1.1 = { rank = 2 }
+ 1999.1.1 = { rank = 3 }
+ 2030.1.1 = { rank = 0 }
+ }
+}
+
+87002 = {
+	name = "Mamyrkulov"
+	country = KYG
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 0.00
+	picture = alikmalik
+	add_trait = offensive_doctrine
+	add_trait = defensive_doctrine
+	history = {
+		1999.1.1 = { rank = 1 }
+		2030.1.1 = { rank = 0 }
+	}
+}
+87003 = {
+	name = "Kalyev"
+	country = KYG
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 0.00
+	picture = kalyev
+	history = {
+		1999.1.1 = { rank = 1 }
+		2030.1.1 = { rank = 0 }
+	}
+}
+87004 = {
+	name = "Kudaiberdiev"
+	country = KYG
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 0.00
+	picture = abibula
+	history = {
+		1990.1.1 = { rank = 1 }
+		2030.1.1 = { rank = 0 }
+	}
+}
+87005 = {
+	name = "Isakov"
+	country = KYG
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = ismailis
+	add_trait = defensive_doctrine
+	history = {
+		1990.1.1 = { rank = 1 }
+		1999.1.1 = { rank = 2 }
+		2030.1.1 = { rank = 0 }
+	}
+}
+87006 = {
+	name = "Yugai"
+	country = KYG
+	type = land
+	skill = 1
+	max_skill = 7
+	loyalty = 0.00
+	picture = KG06
+	add_trait = fortress_buster
+	history = {
+		1999.1.1 = { rank = 1 }
+		2030.1.1 = { rank = 0 }
+	}
+}
+87007 = {
+	name = "Moldoshev"
+	country = KYG
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 0.00
+	picture = KG07
+	add_trait = panzer_leader
+	history = {
+		1999.1.1 = { rank = 1 }
+		2030.1.1 = { rank = 0 }
+	}
+}
+87008 = {
+	name = "Kongatiev"
+	country = KYG
+	type = land
+	skill = 0
+	max_skill = 4
+	loyalty = 0.00
+	picture = KG08
+	history = {
+		1999.1.1 = { rank = 1 }
+		2030.1.1 = { rank = 0 }
+	}
+}
+87009 = {
+	name = "Bekboev"
+	country = KYG
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = KG09
+	history = {
+		1990.1.1 = { rank = 1 }
+		1999.1.1 = { rank = 2 }
+		2030.1.1 = { rank = 0 }
+	}
+}
+87010 = {
+	name = "Subanov"
+	country = KYG
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = KG10
+	add_trait = old_guard
+	history = {
+		1990.1.1 = { rank = 1 }
+		1999.1.1 = { rank = 2 }
+		1999.1.1 = { rank = 3 }
+		2030.1.1 = { rank = 0 }
+	}
+}
+87011 = {
+	name = "Medetbekov"
+	country = KYG
+	type = land
+	skill = 0
+	max_skill = 3
+	loyalty = 0.00
+	picture = KG11
+	history = {
+		1999.1.1 = { rank = 1 }
+		2030.1.1 = { rank = 0 }
+	}
+}
+87012 = {
+	name = "Oryzbaev"
+	country = KYG
+	type = air
+	skill = 1
+	max_skill = 5
+	loyalty = 0.00
+	picture = oryzbaev
+	history = {
+		1999.1.1 = { rank = 1 }
+		2030.1.1 = { rank = 0 }
+	}
+}
+87013 = {
+	name = "Omuraliev"
+	country = KYG
+	type = land
+	skill = 1
+	max_skill = 7
+	loyalty = 0.00
+	picture = KG13
+	history = {
+		2005.1.1 = { rank = 1 }
+		2030.1.1 = { rank = 0 }
+	}
+}

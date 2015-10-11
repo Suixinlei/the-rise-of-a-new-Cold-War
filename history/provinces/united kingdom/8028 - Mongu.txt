@@ -1,0 +1,4 @@
+owner = ZAM
+controller = ZAM
+add_core = ZAM
+infra = 2

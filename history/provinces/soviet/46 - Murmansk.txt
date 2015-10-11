@@ -1,0 +1,13 @@
+owner = SOV
+controller = SOV
+add_core = SOV
+
+infra = 6
+
+
+terrain = arctic
+naval_base = 6 #Murmansk port
+points = 1
+industry = 5
+manpower = 6
+energy = 10.00

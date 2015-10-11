@@ -1,0 +1,806 @@
+39001 = {
+	name = "Mladen"
+	country = CRO
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L39001
+	add_trait = panzer_leader
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+39002 = {
+	name = "Paden"
+	country = CRO
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L39002
+	add_trait = defensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+39003 = {
+	name = "Mikolcevic"
+	country = CRO
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L39003
+	add_trait = commando
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+39004 = {
+	name = "Harmicar"
+	country = CRO
+	type = land
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = L39004
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+39005 = {
+	name = "Obradovic"
+	country = CRO
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L39005
+	add_trait = panzer_leader
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+39006 = {
+	name = "Sipossa"
+	country = CRO
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L39006
+	add_trait = landing_specialist
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+39007 = {
+	name = "Blazevic"
+	country = CRO
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L39007
+	add_trait = offensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+39008 = {
+	name = "Juric"
+	country = CRO
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L39008
+	add_trait = commando
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+39009 = {
+	name = "Tudman"
+	country = CRO
+	type = land
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L39009
+	add_trait = frontline_soldier
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+39010 = {
+	name = "Seric"
+	country = CRO
+	type = land
+	skill = 2
+	max_skill = 5
+	loyalty = 0.00
+	picture = L39010
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+39011 = {
+	name = "Šindler"
+	country = CRO
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L39011
+	add_trait = panzer_leader
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+39012 = {
+	name = "Babic"
+	country = CRO
+	type = land
+	skill = 2
+	max_skill = 5
+	loyalty = 0.00
+	picture = L39012
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+39013 = {
+	name = "Repinc"
+	country = CRO
+	type = land
+	skill = 2
+	max_skill = 5
+	loyalty = 0.00
+	picture = L39013
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+39014 = {
+	name = "Zdilar"
+	country = CRO
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L39014
+	add_trait = offensive_doctrine
+	add_trait = assaulter
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+39015 = {
+	name = "Gurník"
+	country = CRO
+	type = land
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L39015
+	add_trait = panzer_leader
+	history = {
+		1998.1.1 = { rank = 1 }
+		2000.1.1 = { rank = 2 }
+		2002.1.1 = { rank = 3 }
+		2003.1.1 = { rank = 4 }
+	}
+}
+39016 = {
+	name = "Lucic"
+	country = CRO
+	type = land
+	skill = 4
+	max_skill = 8
+	loyalty = 1.00
+	picture = L39016
+	history = {
+		1995.1.1 = { rank = 1 }
+		1998.1.1 = { rank = 2 }
+		2000.1.1 = { rank = 3 }
+		2003.1.1 = { rank = 4 }
+	}
+}
+39017 = {
+	name = "Stojkovic"
+	country = CRO
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L39017
+	add_trait = offensive_doctrine
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+39018 = {
+	name = "Šundov"
+	country = CRO
+	type = land
+	skill = 3
+	max_skill = 6
+	loyalty = 1.00
+	picture = L39018
+	history = {
+		1995.1.1 = { rank = 1 }
+		2000.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+39019 = {
+	name = "Cacic"
+	country = CRO
+	type = land
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L39019
+	add_trait = commando
+	history = {
+		1998.1.1 = { rank = 1 }
+		2000.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+39020 = {
+	name = "Kruljac"
+	country = CRO
+	type = land
+	skill = 2
+	max_skill = 5
+	loyalty = 0.00
+	picture = L39020
+	history = {
+		1998.1.1 = { rank = 1 }
+		2000.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+39021 = {
+	name = "Lovric"
+	country = CRO
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L39021
+	add_trait = improvisation
+	add_trait = hard_defender
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+39022 = {
+	name = "Agotic"
+	country = CRO
+	type = land
+	skill = 2
+	max_skill = 5
+	loyalty = 0.00
+	picture = L39022
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+39023 = {
+	name = "Repinac"
+	country = CRO
+	type = land
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = L39023
+	add_trait = frontline_soldier
+	add_trait = improvisation
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+39024 = {
+	name = "Repinc"
+	country = CRO
+	type = land
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = L39024
+	add_trait = logistics_wizard
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+39025 = {
+	name = "Androic"
+	country = CRO
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L39025
+	add_trait = panzer_leader
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+39026 = {
+	name = "Balic"
+	country = CRO
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 0.00
+	picture = L39026
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+39027 = {
+	name = "Bokun"
+	country = CRO
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L39027
+	add_trait = engineer
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+39028 = {
+	name = "Crnkovic"
+	country = CRO
+	type = land
+	skill = 1
+	max_skill = 4
+	loyalty = 1.00
+	picture = L39028
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+39029 = {
+	name = "Dakovic"
+	country = CRO
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L39029
+	add_trait = old_guard
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+39030 = {
+	name = "Feric"
+	country = CRO
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 0.00
+	picture = L39030
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+39031 = {
+	name = "Gudelj"
+	country = CRO
+	type = land
+	skill = 0
+	max_skill = 3
+	loyalty = 1.00
+	picture = L39031
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+39032 = {
+	name = "Horvat"
+	country = CRO
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L39032
+	add_trait = commando
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+39033 = {
+	name = "Jelic"
+	country = CRO
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L39033
+	add_trait = panzer_leader
+	add_trait = trickster
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+39034 = {
+	name = "Kralj"
+	country = CRO
+	type = land
+	skill = 1
+	max_skill = 4
+	loyalty = 0.00
+	picture = L39034
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+39035 = {
+	name = "Kucinich"
+	country = CRO
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L39035
+	add_trait = offensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+39036 = {
+	name = "Lisjak"
+	country = CRO
+	type = land
+	skill = 2
+	max_skill = 4
+	loyalty = 1.00
+	picture = L39036
+	add_trait = old_guard
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+39037 = {
+	name = "Novosel"
+	country = CRO
+	type = land
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = L39037
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+39038 = {
+	name = "Radman"
+	country = CRO
+	type = land
+	skill = 0
+	max_skill = 4
+	loyalty = 0.00
+	picture = L39038
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+39039 = {
+	name = "Rukavina"
+	country = CRO
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L39039
+	add_trait = panzer_leader
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+39040 = {
+	name = "Sirola"
+	country = CRO
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L39040
+	add_trait = fortress_buster
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+39041 = {
+	name = "Skrmetta"
+	country = CRO
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L39041
+	add_trait = commando
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+39042 = {
+	name = "Šuker"
+	country = CRO
+	type = land
+	skill = 1
+	max_skill = 4
+	loyalty = 1.00
+	picture = L39042
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+39043 = {
+	name = "Uzelac"
+	country = CRO
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L39043
+	add_trait = hard_defender
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+39044 = {
+	name = "Malinovic"
+	country = CRO
+	type = air
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = L39044
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+39045 = {
+	name = "Culetic"
+	country = CRO
+	type = air
+	skill = 3
+	max_skill = 6
+	loyalty = 1.00
+	picture = L39045
+	add_trait = superior_air_tactician
+	history = {
+		1998.1.1 = { rank = 1 }
+		2001.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+39046 = {
+	name = "Koprivnjak"
+	country = CRO
+	type = air
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L39046
+	add_trait = tank_buster
+	history = {
+		1998.1.1 = { rank = 1 }
+		2001.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+39047 = {
+	name = "Šcuri"
+	country = CRO
+	type = air
+	skill = 3
+	max_skill = 6
+	loyalty = 1.00
+	picture = L39047
+	history = {
+		1998.1.1 = { rank = 1 }
+		2000.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+39048 = {
+	name = "Bagaric"
+	country = CRO
+	type = air
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L39048
+	add_trait = carpet_bomber
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+39049 = {
+	name = "Štimac"
+	country = CRO
+	type = air
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = L39049
+	add_trait = night_flyer
+	history = {
+		1998.1.1 = { rank = 1 }
+		2000.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+39050 = {
+	name = "Medved"
+	country = CRO
+	type = air
+	skill = 1
+	max_skill = 4
+	loyalty = 0.00
+	picture = L39050
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+39051 = {
+	name = "Musulin"
+	country = CRO
+	type = air
+	skill = 1
+	max_skill = 5
+	loyalty = 0.00
+	picture = L39051
+	add_trait = night_flyer
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+39052 = {
+	name = "Yelich"
+	country = CRO
+	type = air
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L39052
+	add_trait = tank_buster
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+39053 = {
+	name = "Horvat"
+	country = CRO
+	type = air
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L39053
+	add_trait = fleet_destroyer
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+39054 = {
+	name = "Hranj"
+	country = CRO
+	type = sea
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L39054
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+39055 = {
+	name = "Novak"
+	country = CRO
+	type = sea
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L39055
+	add_trait = seawolf
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+39056 = {
+	name = "Urlic"
+	country = CRO
+	type = sea
+	skill = 3
+	max_skill = 6
+	loyalty = 1.00
+	picture = L39056
+	history = {
+		1998.1.1 = { rank = 1 }
+		2000.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+39057 = {
+	name = "Simicic"
+	country = CRO
+	type = sea
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L39057
+	add_trait = superior_tactician
+	history = {
+		1998.1.1 = { rank = 1 }
+		2000.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+39058 = {
+	name = "Kardum"
+	country = CRO
+	type = sea
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = L39058
+	add_trait = spotter
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+39059 = {
+	name = "Grgic"
+	country = CRO
+	type = sea
+	skill = 1
+	max_skill = 5
+	loyalty = 0.00
+	picture = L39059
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+39060 = {
+	name = "Ostojic"
+	country = CRO
+	type = sea
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = L39060
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+39061 = {
+	name = "Filipovic"
+	country = CRO
+	type = sea
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = L39061
+	add_trait = seawolf
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}

@@ -1,0 +1,40 @@
+theatre = {
+	name = "Somalia Forces"
+	location = 10004
+	regiment = { type = hq_brigade name = "Force Command" historical_model = 0 }
+	division = {
+		name = "1st Infantry Brigade"
+		location = 10004
+		regiment = { type = infantry_brigade name = "11th Infantry Battalion" historical_model = 0 }
+		regiment = { type = infantry_brigade name = "12th Infantry Battalion" historical_model = 0 }
+		regiment = { type = infantry_brigade name = "13th Infantry Battalion" historical_model = 0 }
+	}
+	division = {
+		name = "2nd Infantry Brigade"
+		location = 9996
+		regiment = { type = infantry_brigade name = "21st Infantry Battalion" historical_model = 0 }
+		regiment = { type = infantry_brigade name = "22nd Infantry Battalion" historical_model = 0 }
+		regiment = { type = infantry_brigade name = "23rd Infantry Battalion" historical_model = 0 }
+	}
+	division = {
+		name = "3rd Infantry Brigade"
+		location = 9980
+		regiment = { type = infantry_brigade name = "31st Infantry Battalion" historical_model = 0 }
+		regiment = { type = infantry_brigade name = "32nd Infantry Battalion" historical_model = 0 }
+		regiment = { type = infantry_brigade name = "33rd Infantry Battalion" historical_model = 0 }
+	}
+	division = {
+		name = "4th Infantry Brigade"
+		location = 9960
+		regiment = { type = infantry_brigade name = "41st Infantry Battalion" historical_model = 0 }
+		regiment = { type = infantry_brigade name = "42nd Infantry Battalion" historical_model = 0 }
+		regiment = { type = infantry_brigade name = "43rd Infantry Battalion" historical_model = 0 }
+	}
+	division = {
+		name = "5th Infantry Brigade"
+		location = 9973
+		regiment = { type = infantry_brigade name = "51st Infantry Battalion" historical_model = 0 }
+		regiment = { type = infantry_brigade name = "52nd Infantry Battalion" historical_model = 0 }
+		regiment = { type = infantry_brigade name = "53rd Infantry Battalion" historical_model = 0 }
+	}
+}

@@ -1,0 +1,162 @@
+color = { 255  244  190 }
+graphical_culture = Japanese
+last_election = 2004.3.22
+duration = 48
+
+default_templates = {
+	binary_infantry = {
+		infantry_brigade
+		infantry_brigade
+	}
+	binary_milita = {
+		militia_brigade
+		militia_brigade
+	}
+	binary_armoured = {
+		armor_brigade
+		motorized_brigade
+	}
+	binary_cavalry = {
+		cavalry_brigade
+		cavalry_brigade
+	}
+}
+
+unit_names = {
+
+}
+
+
+ministers = {
+        81101 = {
+		name = "³ÂË®±â"
+		ideology = paternal_autocrat
+		loyalty = 1.00
+		picture = chenshuibian
+                head_of_state = barking_buffoon
+		start_date = 2000.1.1
+        }
+        81102 = {
+		name = "ÂÀĞãÁ«"
+		ideology = paternal_autocrat
+		loyalty = 1.00
+		picture = lvxioulian
+                head_of_government = pig_headed_isolationist
+		start_date = 2000.1.1
+        }
+        81103 = {
+		name = "ÌïºëÃ¯"
+		ideology = paternal_autocrat
+		loyalty = 1.00
+		picture = tianhongmao
+                foreign_minister = apologetic_clerk
+		start_date = 2000.1.1
+        }
+        81104 = {
+		name = "»ÆÖ¾·¼"
+		ideology = paternal_autocrat
+		loyalty = 1.00
+		picture = huangzhifang
+                foreign_minister = iron_fisted_brute
+		start_date = 2000.1.1
+        }
+        81105 = {
+		name = "½ğÊÙ·á"
+		ideology = paternal_autocrat
+		loyalty = 1.00
+		picture = jinshoufeng
+                armament_minister = tank_proponent
+		start_date = 2000.1.1
+        }
+        81106 = {
+		name = "³ÂÁ¢¼Î"
+		ideology = paternal_autocrat
+		loyalty = 1.00
+		picture = chenlijia
+                armament_minister = air_to_ground_proponent
+		start_date = 2000.1.1
+        }
+        81107 = {
+		name = "³Â¶¨ÄÏ"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = chendingnan
+                minister_of_security = efficient_sociopath
+		start_date = 2000.1.1
+        }
+        81108 = {
+		name = "Ò¶Ê¢Ã¯"
+		ideology = paternal_autocrat
+		loyalty = 1.00
+		picture = yeshengmao
+                minister_of_intelligence = industrial_specialist
+		start_date = 2000.1.1
+        }
+        81109 = {
+		name = "»ôÊØÒµ"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = huoshouye
+                chief_of_staff = school_of_fire_support
+                chief_of_army = elastic_defence_doctrine
+		start_date = 2000.1.1
+        }
+        81110 = {
+		name = "ÀîÌìÓğ"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = litianyu
+                chief_of_staff = school_of_psychology
+                chief_of_air = army_aviation_doctrine
+		start_date = 2000.1.1
+        }
+        81111 = {
+		name = "ÕÔÊÀè°"
+		ideology = paternal_autocrat
+		loyalty = 1.00
+		picture = zhaoshizhang
+                chief_of_army = armoured_spearhead_doctrine
+		start_date = 2000.1.1
+        }
+        81112 = {
+		name = "ÍõÁ¢Éê"
+		ideology = paternal_autocrat
+		loyalty = 1.00
+		picture = wanglishen
+                chief_of_navy = power_projection_doctrine
+		start_date = 2000.1.1
+        }
+        81113 = {
+		name = "ÁÖÕòÒÄ"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = linzhenyi
+                chief_of_navy = indirect_approach_doctrine
+		start_date = 2000.1.1
+        }
+        81114 = {
+		name = "ÅíÊ¤Öñ"
+		ideology = paternal_autocrat
+		loyalty = 1.00
+		picture = pengshengzhu
+                chief_of_air = air_superiority_doctrine
+		start_date = 2000.1.1
+        }
+        81115 = {
+		name = "ÂíÓ¢¾Å"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = mayingjiu
+                head_of_state = ideological_crusader
+                head_of_government = silent_workhorse
+		start_date = 2000.1.1
+        }
+        81116 = {
+		name = "Á¬Õ½"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = lianzhan
+                head_of_government = silent_workhorse
+		start_date = 2000.1.1
+        }
+}

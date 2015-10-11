@@ -1,0 +1,337 @@
+theatre = {
+	name = "Hellenic Armed Forces"
+	location = 5076
+	regiment = { type = hq_brigade name = "Hellenic Armed Forces HQ" historical_model = 2 }
+	armygroup = {
+		name = "Hellenic Army"
+		location = 5076
+		regiment = { type = hq_brigade name = "Hellenic Army HQ" historical_model = 2 }
+		army = {
+			name = "First Army"
+			location = 4873
+			regiment = { type = hq_brigade name = "First Army HQ" historical_model = 2 }
+			corps = {
+				name = "I Army Corps"
+				location = 4771
+				regiment = { type = hq_brigade name = "I Army Corps HQ" historical_model = 2 }
+				division = {
+					is_reserve = yes
+					name = "VIII Infantry Division"
+					location = 4819
+					regiment = { type = mechanized_brigade name = "628th Infantry Battalion" historical_model = 0 }
+					regiment = { type = mechanized_brigade name = "583rd Infantry Battalion" historical_model = 0 }
+					regiment = { type = armor_brigade name = "68th Armored Cavalry Battalion" historical_model = 0 }
+				}
+				division = {
+					is_reserve = yes
+					name = "9th Infantry Brigade"
+					location = 4718
+					regiment = { type = mechanized_brigade name = "1st Infantry Battalion" historical_model = 0 }
+					regiment = { type = mechanized_brigade name = "2nd Infantry Battalion" historical_model = 0 }
+					regiment = { type = armor_brigade name = "1st Armored Cavalry Battalion" historical_model = 0 }
+				}
+				division = {
+					is_reserve = yes
+					name = "15th Infantry Brigade"
+					location = 4819
+					regiment = { type = infantry_brigade name = "574th Motorized Battalion" historical_model = 2 }
+					regiment = { type = infantry_brigade name = "585th Motorized Battalion" historical_model = 2 }
+					regiment = { type = infantry_brigade name = "586th Motorized Battalion" historical_model = 2 }
+				}
+				division = {
+					is_reserve = yes
+					name = "12th Armored Brigade"
+					location = 4821
+					regiment = { type = mechanized_brigade name = "647 Mechanized Infantry Battalion" historical_model = 0 }
+					regiment = { type = armor_brigade name = "23rd Armored Battalion" historical_model = 0 }
+					regiment = { type = armor_brigade name = "26th Armored Battalion" historical_model = 0 }
+				}
+			}
+			corps = {
+				name = "IV Army Corps"
+				location = 4613
+				regiment = { type = hq_brigade name = "IV Army Corps HQ" historical_model = 2 }
+				division = {
+					is_reserve = yes
+					name = "7th Mechanized Infantry Brigade 'Sarantaporos'"
+					location = 4614
+					regiment = { type = mechanized_brigade name = "640th Mechanized Infantry Battalion" historical_model = 0 }
+					regiment = { type = mechanized_brigade name = "Mechanized Infantry Battalion" historical_model = 0 }
+					regiment = { type = armor_brigade name = "7th Armored Battalion" historical_model = 0 }
+				}
+				division = {
+					is_reserve = yes
+					name = "31st Mechanized Infantry Brigade 'Kamia'"
+					location = 4614
+					regiment = { type = mechanized_brigade name = "535th Mechanized Infantry Battalion" historical_model = 0 }
+					regiment = { type = mechanized_brigade name = "561st Mechanized Infantry Battalion" historical_model = 0 }
+					regiment = { type = armor_brigade name = "12th Armored Battalion" historical_model = 0 }
+				}
+				division = {
+					is_reserve = yes
+					name = "3rd Mechanized Infantry Brigade 'Rimini'"
+					location = 4614
+					regiment = { type = mechanized_brigade name = "502nd Mechanized Infantry Battalion" historical_model = 0 }
+					regiment = { type = mechanized_brigade name = "503rd Mechanized Infantry Battalion" historical_model = 0 }
+					regiment = { type = armor_brigade name = "311th Armored Battalion" historical_model = 0 }
+				}
+				division = {
+					is_reserve = yes
+					name = "30th Mechanized Infantry Brigade 'Tomoritsa'"
+					location = 4614
+					regiment = { type = mechanized_brigade name = "516th Mechanized Infantry Battalion" historical_model = 0 }
+					regiment = { type = mechanized_brigade name = "565th Mechanized Infantry Battalion" historical_model = 0 }
+					regiment = { type = armor_brigade name = "16th Armored Battalion" historical_model = 0 }
+				}
+				division = {
+					is_reserve = yes
+					name = "21st Armored Brigade 'Cavalry Brigade Pindus'"
+					location = 4614
+					regiment = { type = mechanized_brigade name = "646th Mechanized Infantry Battalion" historical_model = 0 }
+					regiment = { type = armor_brigade name = "211th Armored Battalion" historical_model = 0 }
+					regiment = { type = armor_brigade name = "212th Armored Battalion" historical_model = 0 }
+				}
+				division = {
+					is_reserve = yes
+					name = "23rd Armored Brigade '3rd Cavalry Regiment Dorylaeum'"
+					location = 4614
+					regiment = { type = mechanized_brigade name = "644th Mechanized Infantry Battalion" historical_model = 0 }
+					regiment = { type = armor_brigade name = "21st Armored Battalion" historical_model = 0 }
+					regiment = { type = armor_brigade name = "24th Armored Battalion" historical_model = 0 }
+				}
+				division = {
+					is_reserve = yes
+					name = "25th Armored Brigade '2nd Cavalry Regiment Ephesus'"
+					location = 4613
+					regiment = { type = mechanized_brigade name = "645th Mechanized Infantry Battalion" historical_model = 0 }
+					regiment = { type = armor_brigade name = "22nd Armored Battalion" historical_model = 0 }
+					regiment = { type = armor_brigade name = "25th Armored Battalion" historical_model = 0 }
+				}
+			}
+		}
+		corps = {
+			name = "III Army Corps"
+			location = 4720
+			regiment = { type = hq_brigade name = "III Army Corps HQ" historical_model = 2 }
+			division = {
+				is_reserve = yes
+				name = "10th Mechanized Infantry Brigade"
+				location = 4612
+				regiment = { type = mechanized_brigade name = "1st Mechanized Infantry Battalion" historical_model = 0 }
+				regiment = { type = mechanized_brigade name = "2nd Mechanized Infantry Battalion" historical_model = 0 }
+				regiment = { type = armor_brigade name = "1st Armored Battalion" historical_model = 0 }
+			}
+		}
+		army = {
+			name = "II Army Corps"
+			location = 4719
+			regiment = { type = hq_brigade name = "II Army Corps HQ" historical_model = 2 }
+			corps = {
+				name = "I Infantry Division"
+				location = 4719
+				regiment = { type = hq_brigade name = "I Infantry Division HQ" historical_model = 2 }
+				division = {
+					is_reserve = yes
+					name = "1st Commando Regiment"
+					location = 4720
+					regiment = { type = special_forces_brigade name = "Beta Commando Battalion" historical_model = 2 }
+					regiment = { type = special_forces_brigade name = "Delta Commando Battalion" historical_model = 2 }
+					regiment = { type = special_forces_brigade name = "Epsilon Commando Battalion" historical_model = 2 }
+				}
+				division = {
+					is_reserve = yes
+					name = "2nd Paratrooper Regiment"
+					location = 4720
+					regiment = { type = paratrooper_brigade name = "Alpha Paratrooper Battalion" historical_model = 2 }
+					regiment = { type = paratrooper_brigade name = "Beta Paratrooper Battalion" historical_model = 2 }
+				}
+				division = {
+					is_reserve = yes
+					name = "13th Special Operations Command"
+					location = 4720
+					regiment = { type = marine_brigade name = "Alpha Amphibious Assault Battalion" historical_model =  0 }
+					regiment = { type = marine_brigade name = "Gamma Amphibious Assault Battalion" historical_model =  0 }
+				}
+				division = {
+					is_reserve = yes
+					name = "32nd Marines Brigade 'Moravas'"
+					location = 4921
+					regiment = { type = marine_brigade name = "505th Marines Battalion" historical_model =  0 }
+					regiment = { type = marine_brigade name = "521st Marines Battalion" historical_model =  0 }
+					regiment = { type = marine_brigade name = "575th Marines Battalion" historical_model =  0 }
+				}
+				division = {
+					is_reserve = yes
+					name = "71st Airborne Brigade"
+					location = 4666
+					regiment = { type = paratrooper_brigade name = "595th Airborne Battalion" historical_model = 2 }
+					regiment = { type = paratrooper_brigade name = "596th Airborne Battalion" historical_model = 2 }
+					regiment = { type = paratrooper_brigade name = "601st Airborne Battalion" historical_model = 2 }
+				}
+			}
+			corps = {
+				name ="II Mechanized Infantry Division"
+				location = 4665
+				regiment = { type = hq_brigade name = "II Mechanized Infantry Division HQ" historical_model = 2 }
+				division = {
+					is_reserve = yes
+					name = "33rd Mechanized Infantry Brigade 'Kydoniae Regiment'"
+					location = 4611
+					regiment = { type = mechanized_brigade name = "525th Mechanized Infantry Battalion" historical_model = 0 }
+					regiment = { type = mechanized_brigade name = "592nd Mechanized Infantry Battalion" historical_model = 0 }
+					regiment = { type = armor_brigade name = "33rd Armored Battalion" historical_model = 0 }
+				}
+				division = {
+					is_reserve = yes
+					name = "34th Mechanized Infantry Brigade 'Colonel Dialetes Regiment'"
+					location = 4719
+					regiment = { type = mechanized_brigade name = "501st Mechanized Infantry Battalion" historical_model = 0 }
+					regiment = { type = mechanized_brigade name = "502nd Mechanized Infantry Battalion" historical_model = 0 }
+					regiment = { type = armor_brigade name = "34th Armored Battalion" historical_model = 0 }
+				}
+			}
+			division = {
+				is_reserve = yes
+				name = "1st Army Aviation Brigade"
+				location = 4921
+				regiment = { type = air_cavalry_brigade name = "1st Army Air Battalion" historical_model = 2 }
+				regiment = { type = air_cavalry_brigade name = "2nd Army Air Battalion" historical_model = 2 }
+				regiment = { type = air_cavalry_brigade name = "3rd Army Air Battalion" historical_model = 2 }
+				regiment = { type = air_cavalry_brigade name = "4th Army Air Battalion" historical_model = 2 }
+			}
+		}
+		army = {
+			name = "ASDEN"
+			location = 5076
+			regiment = { type = hq_brigade name = "ASDEN HQ" historical_model = 2 }
+			division = {
+				is_reserve = yes
+				name = "95th National Guard Higher Command"
+				location = 5138
+				regiment = { type = mechanized_brigade name = "211th National Guard Battalion" historical_model = 0 }
+				regiment = { type = mechanized_brigade name = "541st National Guard Battalion" historical_model = 0 }
+				regiment = { type = armor_brigade name = "395th National Guard Armored Battalion" historical_model = 0 }
+			}
+			division = {
+				is_reserve = yes
+				name = "88th Military Command"
+				location = 14154
+				regiment = { type = mechanized_brigade name = "285th Mechanized Infantry Battalion" historical_model = 0 }
+				regiment = { type = mechanized_brigade name = "290th Mechanized Infantry Battalion" historical_model = 0 }
+				regiment = { type = armor_brigade name = "388th National Guard Armored Battalion" historical_model = 0 }
+			}
+		}
+	}
+	
+	navy = {
+		name = "Polemikó Naftikó"
+		base = 5076
+		location = 5076
+		ship = { type = heavy_cruiser name = "HS Hydra" historical_model = 1 }
+		ship = { type = heavy_cruiser name = "HS Spetsai" historical_model = 1 }
+		ship = { type = heavy_cruiser name = "HS Psara" historical_model = 1 }
+		ship = { type = heavy_cruiser name = "HS Salamis" historical_model = 1 }
+		ship = { type = heavy_cruiser name = "HS Elli" historical_model = 1 }
+		ship = { type = heavy_cruiser name = "HS Limnos" historical_model = 1 }
+		ship = { type = heavy_cruiser name = "HS Adrias" historical_model = 1 }
+		ship = { type = heavy_cruiser name = "HS Aigaion" historical_model = 1 }
+		ship = { type = heavy_cruiser name = "HS Navarinon" historical_model = 1 }
+		ship = { type = heavy_cruiser name = "HS Kontouriotis" historical_model = 1 }
+		ship = { type = heavy_cruiser name = "HS Kanaris" historical_model = 1 }
+		ship = { type = heavy_cruiser name = "HS Themistoklis" historical_model = 1 }
+		ship = { type = heavy_cruiser name = "HS Nikiforos Fokas" historical_model = 1 }
+		ship = { type = light_cruiser name = "HS Armatolos" historical_model = 0 }
+		ship = { type = light_cruiser name = "HS Navmachos" historical_model = 0 }
+		ship = { type = light_cruiser name = "HS Kasos" historical_model = 1 }
+		ship = { type = light_cruiser name = "HS Polemistis" historical_model = 1 }
+		ship = { type = light_cruiser name = "HS Tolmi" historical_model = 0 }
+		ship = { type = light_cruiser name = "HS Hormi" historical_model = 0 }
+		ship = { type = light_cruiser name = "HS Roussen" historical_model = 0 }
+		ship = { type = light_cruiser name = "HS Daniolos" historical_model = 0 }
+		ship = { type = light_cruiser name = "HS Krystallidis" historical_model = 0 }
+		ship = { type = light_cruiser name = "HS Grigoropoulos" historical_model = 0 }
+		ship = { type = patrol_boat name = "HS Laskos" historical_model = 0 }
+		ship = { type = patrol_boat name = "HS Blessas" historical_model = 0 }
+		ship = { type = patrol_boat name = "HS Mykonios" historical_model = 0 }
+		ship = { type = patrol_boat name = "HS Troupakis" historical_model = 0 }
+		ship = { type = patrol_boat name = "HS Kavaloudis" historical_model = 0 }
+		ship = { type = patrol_boat name = "HS Degiannis" historical_model = 0 }
+		ship = { type = patrol_boat name = "HS Xenos" historical_model = 0 }
+		ship = { type = patrol_boat name = "HS Simitzopoulos" historical_model = 0 }
+		ship = { type = patrol_boat name = "HS Starakis" historical_model = 0 }
+		ship = { type = patrol_boat name = "HS Votsis" historical_model = 0 }
+		ship = { type = patrol_boat name = "HS Pezopoulos" historical_model = 0 }
+		ship = { type = patrol_boat name = "HS Maridakis" historical_model = 0 }
+		ship = { type = submarine name = "HS Nireus" historical_model = 0 }
+		ship = { type = submarine name = "HS Triton" historical_model = 0 }
+		ship = { type = submarine name = "HS Proteus" historical_model = 0 }
+		ship = { type = submarine name = "HS Poseidon" historical_model = 0 }
+		ship = { type = submarine name = "HS Amphitriti" historical_model = 0 }
+		ship = { type = submarine name = "HS Okeanos" historical_model = 0 }
+		ship = { type = submarine name = "HS Pontos" historical_model = 0 }
+		ship = { type = assault_ship name = "HS Chios" historical_model = 0 }
+		ship = { type = assault_ship name = "HS Samos" historical_model = 0 }
+		ship = { type = assault_ship name = "HS Ikarias" historical_model = 0 }
+		ship = { type = assault_ship name = "HS Lesvos" historical_model = 0 }
+		ship = { type = assault_ship name = "HS Rodos" historical_model = 0 }
+		ship = { type = invasion_transport_ship name = "HS Kephallenia" historical_model = 0 }
+		ship = { type = invasion_transport_ship name = "HS Ithaki" historical_model = 0 }
+		ship = { type = invasion_transport_ship name = "HS Kerkyra" historical_model = 0 }
+		ship = { type = invasion_transport_ship name = "HS Zakynthos" historical_model = 0 }
+		ship = { type = patrol_boat name = "HS Andromeda" historical_model = 0 }
+		ship = { type = patrol_boat name = "HS Kyknos" historical_model = 0 }
+		ship = { type = patrol_boat name = "HS Pegasus" historical_model = 0 }
+		ship = { type = patrol_boat name = "HS Toxotis" historical_model = 0 }
+		ship = { type = transport_ship name = "HS Pandora" historical_model = 0 }
+		ship = { type = transport_ship name = "HS Pandrosos" historical_model = 0 }
+		ship = { type = transport_ship name = "HS Naxos" historical_model = 0 }
+		ship = { type = transport_ship name = "HS Serifos" historical_model = 0 }
+	}
+	
+	air = {
+		name = "110th Combat Wing"
+		base = 4873
+		location = 4873
+		wing = { type = multi_role name = "337th Fighter Squadron 'Ghost'" historical_model = 0 }
+		wing = { type = multi_role name = "346th Fighter Squadron 'Jason'" historical_model = 0 }
+	}
+	
+	air = {
+		name = "111th Combat Wing"
+		base = 4873
+		location = 4873
+		wing = { type = multi_role name = "330th Fighter Squadron 'Thunder'" historical_model = 0 }
+		wing = { type = multi_role name = "341th Fighter Squadron 'Ace'" historical_model = 0 }
+		wing = { type = multi_role name = "347th Fighter Squadron 'Perseus'" historical_model = 0 }
+	}
+	
+	air = {
+		name = "114th Combat Wing"
+		base = 5076
+		location = 5076
+		wing = { type = multi_role name = "331st Fighter Squadron 'Aegeus'" historical_model = 0 }
+	}
+	
+	air = {
+		name = "117th Combat Wing"
+		base = 5106
+		location = 5106
+		wing = { type = interceptor name = "338th Interceptor Squadron 'Ares'" historical_model = 0 }
+		wing = { type = interceptor name = "339th Interceptor Squadron 'Ajax'" historical_model = 0 }
+	}
+	
+	air = {
+		name = "116th Combat Wing"
+		base = 5106
+		location = 5106
+		wing = { type = cas name = "336th Squadron 'Olympus'" historical_model = 0 }
+	}
+	
+	air = {
+		name = "112th Combat Wing"
+		base = 5076
+		location = 5076
+		wing = { type = transport_plane name = "354th Squadron 'Pegasus'" historical_model = 0 }
+		wing = { type = transport_plane name = "355th Squadron 'Hephestus'" historical_model = 0 }
+	}	
+}

@@ -1,0 +1,47 @@
+theatre = {
+	name = "Armed Forces of El Salvador"
+	location = 9699
+	regiment = { type = hq_brigade name = "Armed Forces HQ" historical_model = 1 }
+	division = {
+		is_reserve = yes
+		name = "1st Brigade"
+		location = 9699
+		regiment = { type = infantry_brigade name = "11th Battalion" historical_model = 1 }
+		regiment = { type = infantry_brigade name = "12th Battalion" historical_model = 1 }
+	}
+	division = {
+		is_reserve = yes
+		name = "2nd Brigade"
+		location = 9699
+		regiment = { type = infantry_brigade name = "21st Battalion" historical_model = 1 }
+		regiment = { type = infantry_brigade name = "22nd Battalion" historical_model = 1 }
+	}
+	division = {
+		is_reserve = yes
+		name = "3rd Brigade"
+		location = 9699
+		regiment = { type = infantry_brigade name = "31st Battalion" historical_model = 1 }
+		regiment = { type = infantry_brigade name = "32nd Battalion" historical_model = 1 }
+	}
+	division = {
+		is_reserve = yes
+		name = "4th Brigade"
+		location = 9699
+		regiment = { type = infantry_brigade name = "41st Battalion" historical_model = 1 }
+		regiment = { type = infantry_brigade name = "42nd Battalion" historical_model = 1 }
+	}
+	division = {
+		is_reserve = yes
+		name = "5th Brigade"
+		location = 9699
+		regiment = { type = infantry_brigade name = "51st Battalion" historical_model = 1 }
+		regiment = { type = infantry_brigade name = "52nd Battalion" historical_model = 1 }
+	}
+	division = {
+		is_reserve = yes
+		name = "6th Brigade"
+		location = 9699
+		regiment = { type = infantry_brigade name = "61st Battalion" historical_model = 1 }
+		regiment = { type = infantry_brigade name = "62nd Battalion" historical_model = 1 }
+	}
+}

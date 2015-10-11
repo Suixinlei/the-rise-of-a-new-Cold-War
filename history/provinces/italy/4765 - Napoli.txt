@@ -1,0 +1,12 @@
+owner = ITA
+controller = ITA
+add_core = ITA
+industry = 4
+manpower = 1.00
+infra = 8
+manpower = 5.00
+metal = 6.00
+air_base = 4 #Naples airport and Salerno airbase
+naval_base = 10 #Naples port
+leadership = 2.50
+points = 1

@@ -1,0 +1,7 @@
+owner = UKR
+controller = UKR
+add_core = UKR
+infra = 7
+rare_materials = 15.00
+energy = 45.00
+metal = 20.00

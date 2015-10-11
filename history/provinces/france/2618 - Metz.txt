@@ -1,0 +1,11 @@
+owner = FRA
+controller = FRA
+add_core = FRA
+
+
+infra = 9
+
+air_base = 5#Metz airbase
+leadership = 1.00
+points = 1
+industry = 5

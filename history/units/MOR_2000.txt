@@ -1,0 +1,303 @@
+theatre = {
+	name = "Royal Moroccan Armed Forces"
+	location = 5373
+	regiment = { type = hq_brigade name = "Royal Moroccan Armed Forces HQ" historical_model = 1 }
+	armygroup = {
+		name = "General Command"
+		location = 5373
+		regiment = { type = hq_brigade name = "General Command HQ" historical_model = 1 }
+		army = {
+			name = "Northern Command"
+			location = 5351
+			regiment = { type = hq_brigade name = "Northern Command HQ" historical_model = 1 }
+			corps = {
+				name = "GEB"
+				location = 5322
+				regiment = { type = hq_brigade name = "GEB" historical_model = 1 }
+				division = {
+					is_reserve = yes
+					name = "Independent Armored Battalions 1-3"
+					location = 5324
+					regiment = { type = armor_brigade name = "1st Independent Armored Battalion" historical_model = 0 }
+					regiment = { type = armor_brigade name = "2nd Independent Armored Battalion" historical_model = 0 }
+					regiment = { type = armor_brigade name = "3rd Independent Armored Battalion" historical_model = 0 }
+				}
+				division = {
+					is_reserve = yes
+					name = "Independent Armored Battalions 4-6"
+					location = 5356
+					regiment = { type = armor_brigade name = "4th Independent Armored Battalion" historical_model = 0 }
+					regiment = { type = armor_brigade name = "5th Independent Armored Battalion" historical_model = 0 }
+					regiment = { type = armor_brigade name = "6th Independent Armored Battalion" historical_model = 0 }
+				}
+				division = {
+					is_reserve = yes
+					name = "Independent Armored Battalions 7-9"
+					location = 5377
+					regiment = { type = armor_brigade name = "7th Independent Armored Battalion" historical_model = 0 }
+					regiment = { type = armor_brigade name = "8th Independent Armored Battalion" historical_model = 0 }
+					regiment = { type = armor_brigade name = "9th Independent Armored Battalion" historical_model = 0 }
+				}
+				division = {
+					is_reserve = yes
+					name = "10th Independent Armored Battalion"
+					location = 5376
+					regiment = { type = armor_brigade name = "10th Independent Armored Battalion" historical_model = 0 }
+				}
+			}
+			corps = {
+				name = "BIS"
+				location = 5458
+				regiment = { type = hq_brigade name = "BIS" historical_model = 1 }
+				division = {
+					is_reserve = yes
+					name = "Independent Infantry Battalions 1-4"
+					location = 5375
+					regiment = { type = infantry_brigade name = "1st Independent Infantry Battalion" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "2nd Independent Infantry Battalion" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "3rd Independent Infantry Battalion" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "4th Independent Infantry Battalion" historical_model = 1 }
+				}
+				division = {
+					is_reserve = yes
+					name = "Independent Infantry Battalions 5-8"
+					location = 5375
+					regiment = { type = infantry_brigade name = "5th Independent Infantry Battalion" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "6th Independent Infantry Battalion" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "7th Independent Infantry Battalion" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "8th Independent Infantry Battalion" historical_model = 1 }
+				}
+				division = {
+					is_reserve = yes
+					name = "Independent Infantry Battalions 9-12"
+					location = 5395
+					regiment = { type = infantry_brigade name = "9th Independent Infantry Battalion" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "10th Independent Infantry Battalion" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "11th Independent Infantry Battalion" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "12th Independent Infantry Battalion" historical_model = 1 }
+				}
+				division = {
+					is_reserve = yes
+					name = "Independent Infantry Battalions 13-16"
+					location = 5395
+					regiment = { type = infantry_brigade name = "13th Independent Infantry Battalion" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "14th Independent Infantry Battalion" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "15th Independent Infantry Battalion" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "16th Independent Infantry Battalion" historical_model = 1 }
+				}
+				division = {
+					is_reserve = yes
+					name = "Independent Infantry Battalions 17-20"
+					location = 9272
+					regiment = { type = infantry_brigade name = "17th Independent Infantry Battalion" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "18th Independent Infantry Battalion" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "19th Independent Infantry Battalion" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "20th Independent Infantry Battalion" historical_model = 1 }
+				}
+				division = {
+					is_reserve = yes
+					name = "Independent Infantry Battalions 21-24"
+					location = 9272
+					regiment = { type = infantry_brigade name = "21st Independent Infantry Battalion" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "22nd Independent Infantry Battalion" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "23rd Independent Infantry Battalion" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "24th Independent Infantry Battalion" historical_model = 1 }
+				}
+				division = {
+					is_reserve = yes
+					name = "Independent Infantry Battalions 25-28"
+					location = 9330
+					regiment = { type = infantry_brigade name = "25th Independent Infantry Battalion" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "26th Independent Infantry Battalion" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "27th Independent Infantry Battalion" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "28th Independent Infantry Battalion" historical_model = 1 }
+				}
+				division = {
+					is_reserve = yes
+					name = "Independent Infantry Battalions 29-32"
+					location = 9330
+					regiment = { type = infantry_brigade name = "29th Independent Infantry Battalion" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "30th Independent Infantry Battalion" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "31st Independent Infantry Battalion" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "32nd Independent Infantry Battalion" historical_model = 1 }
+				}
+				division = {
+					is_reserve = yes
+					name = "Independent Infantry Battalions 33-35"
+					location = 5546
+					regiment = { type = infantry_brigade name = "33rd Independent Infantry Battalion" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "34th Independent Infantry Battalion" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "35th Independent Infantry Battalion" historical_model = 1 }
+				}
+			}
+			corps = {
+				name = "BIP/BIAP"
+				location = 5412
+				regiment = { type = hq_brigade name = "BIP/BIAP" historical_model = 1 }
+				division = {
+					is_reserve = yes
+					name = "1st Paratroop Brigade"
+					location = 5412
+					regiment = { type = paratrooper_brigade name = "11th Paratroop Battalion" historical_model = 1 }
+					regiment = { type = paratrooper_brigade name = "12th Paratroop Battalion" historical_model = 1 }
+					regiment = { type = paratrooper_brigade name = "13th Paratroop Battalion" historical_model = 1 }
+				}
+				division = {
+					is_reserve = yes
+					name = "2nd Paratroop Brigade"
+					location = 5412
+					regiment = { type = paratrooper_brigade name = "21st Paratroop Battalion" historical_model = 1 }
+					regiment = { type = paratrooper_brigade name = "22nd Paratroop Battalion" historical_model = 1 }
+					regiment = { type = paratrooper_brigade name = "23rd Paratroop Battalion" historical_model = 1 }
+				}
+				division = {
+					is_reserve = yes
+					name = "Airborne Battalions 1&2"
+					location = 5412
+					regiment = { type = paratrooper_brigade name = "1st Airborne Battalion" historical_model = 1 }
+					regiment = { type = paratrooper_brigade name = "2nd Airborne Battalion" historical_model = 1 }
+				}
+			}
+			division = {
+				is_reserve = yes
+				name = "Commando Battalions 1&2"
+				location = 5373
+				regiment = { type = special_forces_brigade name = "1st Commando Battalion" historical_model = 1 }
+				regiment = { type = special_forces_brigade name = "2nd Commando Battalion" historical_model = 1 }
+			}
+			division = {
+				is_reserve = yes
+				name = "Commando Battalions 3&4"
+				location = 5373
+				regiment = { type = special_forces_brigade name = "3rd Commando Battalion" historical_model = 1 }
+				regiment = { type = special_forces_brigade name = "4th Commando Battalion" historical_model = 1 }
+			}
+		}
+		army = { 
+			name = "Southern Command"
+			location = 9482
+			regiment = { type = hq_brigade name = "Southern Command HQ" historical_model = 1 }
+			corps = {
+				name = "RIMZ"
+				location = 9482
+				regiment = { type = hq_brigade name = "RIMZ" historical_model = 1 }
+				division = {
+					is_reserve = yes
+					name = "1st Mechanized Brigade"
+					location = 9568
+					regiment = { type = mechanized_brigade name = "11th Mechanized Battalion" historical_model = 0 }
+					regiment = { type = mechanized_brigade name = "12th Mechanized Battalion" historical_model = 0 }
+					regiment = { type = mechanized_brigade name = "13th Mechanized Battalion" historical_model = 0 }	
+				}
+				division = {
+					is_reserve = yes
+					name = "2nd Mechanized Brigade"
+					location = 9551
+					regiment = { type = mechanized_brigade name = "21st Mechanized Battalion" historical_model = 0 }
+					regiment = { type = mechanized_brigade name = "22nd Mechanized Battalion" historical_model = 0 }
+					regiment = { type = mechanized_brigade name = "23rd Mechanized Battalion" historical_model = 0 }	
+				}
+				division = {
+					is_reserve = yes
+					name = "3rd Mechanized Brigade"
+					location = 9532
+					regiment = { type = mechanized_brigade name = "31st Mechanized Battalion" historical_model = 0 }
+					regiment = { type = mechanized_brigade name = "32nd Mechanized Battalion" historical_model = 0 }
+					regiment = { type = mechanized_brigade name = "33rd Mechanized Battalion" historical_model = 0 }	
+				}
+			}
+			corps = {
+				name = "Light Security Brigades"
+				location = 9569
+				regiment = { type = hq_brigade name = "Light Security HQ" historical_model = 1 }
+				division = {
+					is_reserve = yes
+					name = "1st Light Security Brigade"
+					location = 9421
+					regiment = { type = garrison_brigade name = "11th Light Security Battalion" historical_model = 1 }
+					regiment = { type = garrison_brigade name = "12th Light Security Battalion" historical_model = 1 }
+					regiment = { type = garrison_brigade name = "13th Light Security Battalion" historical_model = 1 }
+				}
+				division = {
+					is_reserve = yes
+					name = "2nd Light Security Brigade"
+					location = 5602
+					regiment = { type = garrison_brigade name = "21st Light Security Battalion" historical_model = 1 }
+					regiment = { type = garrison_brigade name = "22nd Light Security Battalion" historical_model = 1 }
+					regiment = { type = garrison_brigade name = "23rd Light Security Battalion" historical_model = 1 }
+				}
+			}
+			corps = {
+				name = "Meharis"
+				location = 9482
+				regiment = { type = hq_brigade name = "Mehari HQ" historical_model = 1 }
+				division = {
+					is_reserve = yes
+					name = "Cavalry Battalions 1&2"
+					location = 9482
+					regiment = { type = mechanized_brigade name = "1st Cavalry Battalion" historical_model = 0 }
+					regiment = { type = mechanized_brigade name = "2nd Cavalry Battalion" historical_model = 0 }
+				}
+				division = {
+					is_reserve = yes
+					name = "Camel Corps"
+					location = 9507
+					regiment = { type = mechanized_brigade name = "1st Camel Corps Battalion" historical_model = 0 }
+					regiment = { type = mechanized_brigade name = "2nd Camel Corps Battalion" historical_model = 0 }
+					regiment = { type = mechanized_brigade name = "3rd Camel Corps Battalion" historical_model = 0 }
+				}
+			}
+		}
+	}
+	
+	air = {
+	name = "BAFRA 3"
+	base = 5373
+	location = 5373
+	wing = { type = multi_role name = "'Atlas' Wing" historical_model = 0 }
+	}
+	
+	air = {
+	name = "BAFRA 6"
+	base = 5458
+	location = 5458
+	wing = { type = multi_role name = "'Tigre' Wing" historical_model = 0 }
+	}
+	
+	air = {
+	name = "Aeronaval Base"
+	base = 5412
+	location = 5412
+	wing = { type = multi_role name = "'Sarab' Wing" historical_model = 0 }
+	}
+	
+	air = {
+	name = "Tan Tan Airbase"
+	base = 9568
+	location = 9568
+	wing = { type = transport_plane name = "1st Transport Wing" historical_model = 0 }
+	}
+	
+	navy = {
+	name = "Royal Moroccan Navy"
+	base = 5412
+	location = 5412
+	ship = { type = heavy_cruiser name = "Mohammed V" historical_model = 0 }
+	ship = { type = heavy_cruiser name = "Hassan II" historical_model = 0 }
+	ship = { type = light_cruiser name = "Lieutenant-Colonel Errahmani" historical_model = 0 }
+	ship = { type = patrol_boat name = "El Lahiq" historical_model = 0 }
+	ship = { type = patrol_boat name = "El Tawfiq" historical_model = 0 }
+	ship = { type = patrol_boat name = "El Hamiss" historical_model = 0 }
+	ship = { type = patrol_boat name = "El Karib" historical_model = 0 }
+	ship = { type = patrol_boat name = "El Khattabi" historical_model = 0 }
+	ship = { type = patrol_boat name = "Commandant Boutouba" historical_model = 0 }
+	ship = { type = patrol_boat name = "Commandant El Harty" historical_model = 0 }
+	ship = { type = patrol_boat name = "Commandant Azouggarh" historical_model = 0 }
+	ship = { type = patrol_boat name = "Okba" historical_model = 0 }
+	ship = { type = patrol_boat name = "Triki" historical_model = 0 }
+	ship = { type = invasion_transport_ship name = "Daoud Ben Aicha" historical_model = 0 }
+	ship = { type = invasion_transport_ship name = "Ahmed Es Sakali" historical_model = 0 }
+	ship = { type = invasion_transport_ship name = "Abou Abdallah El Ayach" historical_model = 0 }
+	}
+	
+}

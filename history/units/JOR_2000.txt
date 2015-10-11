@@ -1,0 +1,232 @@
+theatre = {
+	name = "Jordanian Armed Forces"
+	location = 7485
+	regiment = { type = hq_brigade name = "Jordanian Armed Forces HQ" historical_model = 1 }
+	army = {
+		name = "Royal Jordanian Army"
+		location = 7485
+		regiment = { type = hq_brigade name = "Jordanian Army HQ" historical_model = 1 }
+		division = {
+			is_reserve = yes
+			name = "Sayed Al-Shuhada"
+			location = 7485
+			regiment = { type = garrison_brigade name = "1st Royal Guard Battalion" historical_model = 1 }
+			regiment = { type = garrison_brigade name = "2nd Royal Guard Battalion" historical_model = 1 }
+			regiment = { type = garrison_brigade name = "3rd Royal Guard Battalion" historical_model = 1 }
+		}
+		corps = {
+			name = "Northern Command"
+			location = 7466
+			regiment = { type = hq_brigade name = "Northern Command HQ" historical_model = 0 }
+			division = {
+				is_reserve = yes
+				name = "3rd King Talal Mechanized Infantry Brigade"
+				location = 7466
+				regiment = { type = mechanized_brigade name = "31st Mechanized Infantry Battalion" historical_model = 0 }
+				regiment = { type = mechanized_brigade name = "32nd Mechanized Infantry Battalion" historical_model = 0 }
+				regiment = { type = armor_brigade name = "33rd Armored Battalion" historical_model = 1 }
+				regiment = { type = mobile_aa_brigade name = "12th Field AD Brigade" historical_model = 0 }
+			}
+			division = {
+				is_reserve = yes
+				name = "12th Al-Yarmouk Mechanized Infantry Brigade"
+				location = 7466
+				regiment = { type = mechanized_brigade name = "121st Mechanized Infantry Battalion" historical_model = 0 }
+				regiment = { type = mechanized_brigade name = "122nd Mechanized Infantry Battalion" historical_model = 0 }
+				regiment = { type = armor_brigade name = "123rd Armored Battalion" historical_model = 1 }
+				regiment = { type = tank_destroyer_brigade name = "12th Anti Tank Battalion" historical_model = 0 }
+			}
+			division = {
+				is_reserve = yes
+				name = "1st Princess Aliyah Infantry Brigade"
+				location = 7466
+				regiment = { type = infantry_brigade name = "11th Infantry Battalion" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "12th Infantry Battalion" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "13th Infantry Battalion" historical_model = 1 }
+				regiment = { type = engineer_brigade name = "Engineer Battalion" historical_model = 0 }
+			}
+		}
+		corps = {
+			name = "Central Command"
+			location = 7496
+			regiment = { type = hq_brigade name = "Central Command HQ" historical_model = 1 }
+			division = {
+				is_reserve = yes
+				name = "1st Mechanized Royal Guard Brigade"
+				location = 7496
+				regiment = { type = mechanized_brigade name = "11th Mechanized Royal Guard Battalion" historical_model = 0 }
+				regiment = { type = mechanized_brigade name = "12th Mechanized Royal Guard Battalion" historical_model = 0 }
+				regiment = { type = armor_brigade name = "13th Armored Royal Guard Battalion" historical_model = 1 }
+				regiment = { type = mobile_aa_brigade name = "4th Field AD Brigade" historical_model = 0 }
+			}
+			division = {
+				is_reserve = yes
+				name = "2nd Hashemite Infantry Brigade"
+				location = 7466
+				regiment = { type = infantry_brigade name = "21st Infantry Battalion" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "22nd Infantry Battalion" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "23rd Infantry Battalion" historical_model = 1 }
+				regiment = { type = engineer_brigade name = "Engineer Battalion" historical_model = 0 }
+			}
+		}
+		corps = {
+			name = "Eastern Command"
+			location = 7456
+			regiment = { type = hq_brigade name = "Eastern Command" historical_model = 1 }
+			division = {
+				is_reserve = yes
+				name = "2nd Mechanized Royal Guard Brigade"
+				location = 7456
+				regiment = { type = mechanized_brigade name = "21st Mechanized Royal Guard Battalion" historical_model = 0 }
+				regiment = { type = mechanized_brigade name = "22nd Mechanized Royal Guard Battalion" historical_model = 0 }
+				regiment = { type = armor_brigade name = "23rd Armored Royal Guard Battalion" historical_model = 1 }
+				regiment = { type = mobile_aa_brigade name = "5th Field AD Brigade" historical_model = 0 }
+			}
+			division = {
+				is_reserve = yes
+				name = "90th King Abdullah I Mechanized Infantry Brigade"
+				location = 7456
+				regiment = { type = mechanized_brigade name = "11th Mechanized Royal Guard Battalion" historical_model = 0 }
+				regiment = { type = mechanized_brigade name = "12th Mechanized Royal Guard Battalion" historical_model = 0 }
+				regiment = { type = tank_destroyer_brigade name = "5th Anti-tank Battalion" historical_model = 0 }
+			}
+		}
+		corps = {
+			name = "Southern Command"
+			location = 5647
+			regiment = { type = hq_brigade name = "Southern Command HQ" historical_model = 1 }
+			division = {
+				is_reserve = yes
+				name = "99th Wasfi Al Tal Armoured Brigade"
+				location = 5647
+				regiment = { type = armor_brigade name = "991st Armoured Battalion" historical_model = 1 }
+				regiment = { type = armor_brigade name = "992nd Armoured Battalion" historical_model = 1 }
+				regiment = { type = mechanized_brigade name = "993rd Mechanized Infantry Battalion" historical_model = 0 }
+			}
+			division = {
+				is_reserve = yes
+				name = "Prince Zeid Bin Hussein Infantry Brigade"
+				location = 5647
+				regiment = { type = infantry_brigade name = "1st Infantry Battalion" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "2nd Infantry Battalion" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "3rd Infantry Battalion" historical_model = 1 }
+				regiment = { type = mobile_aa_brigade name = "84th Field AD Battalion" historical_model = 0 }
+			}
+		}
+		corps = {
+			name = "King Abdullah II 3rd Armoured Division"
+			location = 7496
+			regiment = { type = hq_brigade name = "3rd Armoured Division HQ" historical_model = 1 }
+			division = {
+				is_reserve = yes
+				name = "40th King Hussein Royal Armoured Brigade"
+				location = 7496
+				regiment = { type = armor_brigade name = "401st Armoured Battalion" historical_model = 1 }
+				regiment = { type = armor_brigade name = "402nd Armoured Battalion" historical_model = 1 }
+				regiment = { type = mechanized_brigade name = "403rd Mechanized Infantry Battalion" historical_model = 0 }
+				regiment = { type = mobile_aa_brigade name = "3rd Field AD Brigade" historical_model = 0 }
+			}
+			division = {
+				is_reserve = yes
+				name = "60th Prince Hassan Royal Armoured Brigade"
+				location = 7496
+				regiment = { type = armor_brigade name = "601st Armoured Battalion" historical_model = 1 }
+				regiment = { type = armor_brigade name = "602nd Armoured Battalion" historical_model = 1 }
+				regiment = { type = mechanized_brigade name = "603rd Mechanized Infantry Battalion" historical_model = 0 }
+			}
+			division = {
+				is_reserve = yes
+				name = "91st Royal Armoured Brigade"
+				location = 7496
+				regiment = { type = armor_brigade name = "911th Armoured Battalion" historical_model = 1 }
+				regiment = { type = armor_brigade name = "912th Armoured Battalion" historical_model = 1 }
+				regiment = { type = mechanized_brigade name = "913th Mechanized Infantry Battalion" historical_model = 0 }
+			}
+		}
+		corps = {
+			name = "Joint Special Operation Command"
+			location = 7485
+			regiment = { type = hq_brigade name = "Joint Special Operation Command" historical_model = 1 }
+			division = {
+				is_reserve = yes
+				name = "28th Prince Hussein Bin Abdulah II Rangers Brigade"
+				location = 7485
+				regiment = { type = special_forces_brigade name = "1st Royal Rangers Battalion" historical_model = 1 }
+				regiment = { type = special_forces_brigade name = "2nd Royal Rangers Battalion" historical_model = 1 }
+				regiment = { type = special_forces_brigade name = "3rd Royal Rangers Battalion" historical_model = 1 }
+				regiment = { type = special_forces_brigade name = "111th Royal Rangers Battalion" historical_model = 1 }
+			}
+			division = {
+				is_reserve = yes
+				name = "5th Prince Hashem Bin Abdulah II Aviation Brigade"
+				location = 7485
+				regiment = { type = air_cavalry_brigade name = "28th Aviation Squadron" historical_model = 1 }
+				regiment = { type = air_cavalry_brigade name = "30th Aviation Squadron" historical_model = 1 }
+				regiment = { type = air_cavalry_brigade name = "31st Fixed Wing Squadron" historical_model = 1 }
+			}
+			division = {
+				is_reserve = yes
+				name = "Air Assault Battalions"
+				location = 7485
+				regiment = { type = paratrooper_brigade name = "81st Airborne Battalion" historical_model = 1 }
+				regiment = { type = paratrooper_brigade name = "91st Airborne Orientation Battalion" historical_model = 1 }
+			}
+		}
+		corps = {
+			name = "Border Guard Command"
+			location = 5646
+			regiment = { type = hq_brigade name = "Border Guard Command" historical_model = 1 }
+			division = {
+				is_reserve = yes
+				name = "1st Border Guard Brigade"
+				location = 5646
+				regiment = { type = garrison_brigade name = "11th Border Guard Battalion" historical_model = 1 }
+				regiment = { type = garrison_brigade name = "12th Border Guard Battalion" historical_model = 1 }
+				regiment = { type = garrison_brigade name = "13th Border Guard Battalion" historical_model = 1 }
+			}
+			division = {
+				is_reserve = yes
+				name = "2nd Border Guard Brigade"
+				location = 5646
+				regiment = { type = garrison_brigade name = "21st Border Guard Battalion" historical_model = 1 }
+				regiment = { type = garrison_brigade name = "22nd Border Guard Battalion" historical_model = 1 }
+				regiment = { type = garrison_brigade name = "23rd Border Guard Battalion" historical_model = 1 }
+			}
+			division = {
+				is_reserve = yes
+				name = "3rd Border Guard Brigade"
+				location = 5646
+				regiment = { type = garrison_brigade name = "31st Border Guard Battalion" historical_model = 1 }
+				regiment = { type = garrison_brigade name = "32nd Border Guard Battalion" historical_model = 1 }
+				regiment = { type = garrison_brigade name = "33rd Border Guard Battalion" historical_model = 1 }
+			}
+			division = {
+				is_reserve = yes
+				name = "4th Border Guard Brigade"
+				location = 5646
+				regiment = { type = garrison_brigade name = "41st Border Guard Battalion" historical_model = 1 }
+				regiment = { type = garrison_brigade name = "42nd Border Guard Battalion" historical_model = 1 }
+				regiment = { type = garrison_brigade name = "43rd Border Guard Battalion" historical_model = 1 }
+			}
+		}
+		division = {
+			is_reserve = yes
+			name = "30th Hussein Bin Ali Paratrooper Brigade"
+			location = 5616
+			regiment = { type = paratrooper_brigade name = "15th Khalid Bin Al-Waleed Paratrooper Battalion" historical_model = 1 }
+			regiment = { type = paratrooper_brigade name = "16th King Faysal Paratrooper Battalion" historical_model = 1 }
+			regiment = { type = paratrooper_brigade name = "20th Tariq Bin Zyad Paratrooper Battalion" historical_model = 1 }
+		}
+	}
+	
+	air = {
+	name = "Royal Jordanian Air Force"
+	location = 7485
+	base = 7485
+	wing = { type = multi_role name = "1st Fighter Wing" historical_model = 0 }
+	wing = { type = multi_role name = "2nd Fighter Wing" historical_model = 0 }
+	wing = { type = interceptor name = "1st Interceptor Wing" historical_model = 0 }
+	wing = { type = interceptor name = "2nd Interceptor Wing" historical_model = 0 }
+	}
+}
+	

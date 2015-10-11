@@ -1,0 +1,175 @@
+theatre = {
+	name = "Fortele Armate Române"
+	location = 3917
+	regiment = { type = hq_brigade name = "Fortele Armate Române" historical_model = 1 }
+	army = {
+		name = "Fortele Terestre Române"
+		location = 3917
+		regiment = { type = hq_brigade name = "Fortele Terestre Române" historical_model = 1 }
+		corps = {
+			name = "Brigada 6 Operatii Speciale 'Mihai Viteazu'"
+			location = 3303
+			regiment = { type = hq_brigade name = "Brigada 6 Operatii Speciale 'Mihai Viteazu'" historical_model = 1 }
+			division = {
+				is_reserve = yes
+				name = "Batalionul 1 Operatii Speciale 'Vulturi'"
+				location = 3303
+				regiment = { type = special_forces_brigade name = "Batalionul 1 Operatii Speciale 'Vulturi'" historical_model = 1 }
+			}
+			division = {
+				is_reserve = yes
+				name = "Doua Parasutist Brigada"
+				location = 3711
+				regiment = { type = paratrooper_brigade name = "Batalionul 60 Parasutisti 'Baneasa-Otopeni'" historical_model = 1 }
+				regiment = { type = paratrooper_brigade name = "Batalionul 498 Parasutisti 'Smaranda Braescu'" historical_model = 1 }
+			}
+		}
+		division = {
+			is_reserve = yes
+			name = "Sprijin Brigada"
+			location = 3511
+			regiment = { type = infantry_brigade name = "Primul Batalion" historical_model = 1 }
+			regiment = { type = artillery_brigade name = "Brigada 8 LAROM 'Alexandru Ioan Cuza'" historical_model = 0 }
+			regiment = { type = engineer_brigade name = "Brigada 10 Geniu" historical_model = 0 }
+		}
+		corps = {
+			name = "Divizia 1 Infanterie 'Dacica'"
+			location = 3917
+			regiment = { type = hq_brigade name = "Divizia 1 Infanterie" historical_model = 1 }
+			division = {
+				is_reserve = yes
+				name = "Brigada 1 Mecanizata 'Argedava'"
+				location = 3917
+				regiment = { type = armor_brigade name = "114 Tanc Batalion 'Petru Cercel'" historical_model = 0 }
+				regiment = { type = mechanized_brigade name = "2 Infanterie Batalion 'Calugareni'" historical_model = 0 }
+				regiment = { type = mechanized_brigade name = "495 Infanterie Batalion 'Capitan Stefan Soverth'" historical_model = 0 }
+			}
+			division = {
+				is_reserve = yes
+				name = "Brigada 2 Infanterie 'Rovine'"
+				location = 3987
+				regiment = { type = mechanized_brigade name = "20 Infanterie Batalion 'Black Scorpions'" historical_model = 0 }
+				regiment = { type = mechanized_brigade name = "26 Infanterie Batalion 'Red Scorpions'" historical_model = 0 }
+			}
+			division = {
+				is_reserve = yes
+				name = "Brigada 2 Vânatori de Munte 'Sarmizegetusa'"
+				location = 3577
+				regiment = { type = mountain_brigade name = "Batalion 21 'General Leonard Mociulschi'" historical_model = 1 }
+				regiment = { type = mountain_brigade name = "Batalion 30 'Dragoslavele'" historical_model = 1 }
+				regiment = { type = mountain_brigade name = "Batalion 33 'Posada'" historical_model = 1 }
+				regiment = { type = artillery_brigade name = "Regimentul 51 'General Cornel Paraniac'" historical_model = 0 }
+				regiment = { type = anti_air_brigade name = "Regimentul 61 'Pelendava'" historical_model = 0 }
+			}
+		}
+		corps = {
+			name = "Divizia 2 Infanterie 'Getica'"
+			location = 3711
+			regiment = { type = hq_brigade name = "Divizia 2 Infanterie" historical_model = 1 }
+			division = {
+				is_reserve = yes
+				name = "Brigada 9 Mecanizata 'Marasesti'"
+				location = 3919
+				regiment = { type = armor_brigade name = "912 Tanc Batalion 'Scythia Minor'" historical_model = 0 }
+				regiment = { type = mechanized_brigade name = "341 Infanterie Batalion 'Rechini Albi'" historical_model = 0 }
+				regiment = { type = mechanized_brigade name = "911 Infanterie Batalion 'Capidava'" historical_model = 0 }
+			}
+			division = {
+				is_reserve = yes
+				name = "Brigada 15 Mecanizata 'Podu Inalt'"
+				location = 3306
+				regiment = { type = armor_brigade name = "613 Tanc Batalion 'Bacau Ursi'" historical_model = 0 }
+				regiment = { type = mechanized_brigade name = "151 Infanterie Batalion 'Razboieni'" historical_model = 0 }
+				regiment = { type = mechanized_brigade name = "634 Infanterie Batalion 'Petrodava'" historical_model = 0 }
+			}
+			division = {
+				is_reserve = yes
+				name = "Brigada 282 Mecanizata 'Podu Inalt'"
+				location = 3511
+				regiment = { type = armor_brigade name = "284 Tanc Batalion 'Cuza Voda'" historical_model = 0 }
+				regiment = { type = mechanized_brigade name = "280 Mecanizat Infanterie Batalion" historical_model = 0 }
+				regiment = { type = mechanized_brigade name = "300 Mecanizat Infanterie Batalion 'Sfantul Andrei'" historical_model = 0 }
+			}
+			division = {
+				is_reserve = yes
+				name = "Mixte de Artilerie Brigada"
+				location = 3375
+				regiment = { type = infantry_brigade name = "1 Infanterie Batalion" historical_model = 1 }
+				regiment = { type = artillery_brigade name = "Regimentul 52 'General Alexandru Tell'" historical_model = 0 }
+				regiment = { type = anti_air_brigade name = "Regimentul 53 'Trophaeum Traiani'" historical_model = 0 }
+			}
+		}
+		corps = {
+			name = "Divizia 4 Infanterie 'Gemina'"
+			location = 3441
+			regiment = { type = hq_brigade name = "Divizia 4 Infanterie" historical_model = 1 }
+			division = {
+				is_reserve = yes
+				name = "Brigada 81 Mecanizata 'General Grigore Balan'"
+				location = 3169
+				regiment = { type = armor_brigade name = "814 Tanc Batalion 'Mihai Voda'" historical_model = 0 }
+				regiment = { type = mechanized_brigade name = "811 Infanterie Batalion 'Dragonii Transilvaniei'" historical_model = 0 }
+				regiment = { type = mechanized_brigade name = "812 Infanterie Batalion 'Soimii Carpatilor'" historical_model = 0 }
+			}
+			division = {
+				is_reserve = yes
+				name = "Brigada 18 Infanterie 'Banat'"
+				location = 3706
+				regiment = { type = mechanized_brigade name = "32 Infanterie Batalion 'Mircea'" historical_model = 0 }
+				regiment = { type = mechanized_brigade name = "191 Infanterie Batalion 'Colonel Radu Golescu'" historical_model = 0 }
+				regiment = { type = infantry_brigade name = "26 Batalion de Munte 'Avram Iancu'" historical_model = 1 }
+			}
+			division = {
+				is_reserve = yes
+				name = "Brigada 61 Vânatori de Munte 'General Virgil Badulescu'"
+				location = 3373
+				regiment = { type = mountain_brigade name = "Batalion 17 'Dragos Voda'" historical_model = 1 }
+				regiment = { type = mountain_brigade name = "Batalion 22 'Ciresoaia'" historical_model = 1 }
+				regiment = { type = mountain_brigade name = "Batalion 24 'General Gheorghe Avramescu'" historical_model = 1 }
+				regiment = { type = artillery_brigade name = "Regimentul 69 'Silvania'" historical_model = 0 }
+				regiment = { type = anti_air_brigade name = "Regimentul 50 'Andrei Muresianu'" historical_model = 0 }
+			}
+		}
+	}
+	
+	division = {
+		is_reserve = yes
+		name = "Batalionul 307 Infanterie Marina"
+		location = 3646
+		regiment = { type = marine_brigade name = "Batalionul 307 Infanterie Marina" historical_model = 1 }
+	}
+	
+	navy = {
+		name = "Fortele Navale Române"
+		base = 3919
+		location  = 3919
+		ship = { type = heavy_cruiser name = "Marasesti" historical_model = 1 }
+		ship = { type = light_cruiser name = "Vice-Amiral Eugeniu Rosca" historical_model = 0 }
+		ship = { type = light_cruiser name = "Amiral Petre Barbuneanu" historical_model = 0 }
+		ship = { type = light_cruiser name = "Contraamiral Eustatiu Sebastian" historical_model = 0 }
+		ship = { type = light_cruiser name = "Contraamiral Horia Macellariu" historical_model = 0 }
+		ship = { type = light_cruiser name = "Zborul" historical_model = 0 }
+		ship = { type = light_cruiser name = "Pescarusul" historical_model = 0 }
+		ship = { type = light_cruiser name = "Lastunul" historical_model = 0 }
+		ship = { type = patrol_boat name = "Smeul" historical_model = 0 }
+		ship = { type = patrol_boat name = "Vijelia" historical_model = 0 }
+		ship = { type = patrol_boat name = "Vulcanul" historical_model = 0 }
+	}
+	
+	air = {
+		name = "71 de Flotila Aeriana"
+		base = 3371
+		location = 3371
+		wing = { type = interceptor name = "711 Luptator Escadrila" historical_model = 0 }
+		wing = { type = interceptor name = "712 Luptator Escadrila" historical_model = 0 }
+	}
+	
+	air = {
+		name = "86 de Flotila Aeriana"
+		base = 3919
+		location = 3919
+		wing = { type = interceptor name = "861 Luptator Escadrila" historical_model = 0 }
+		wing = { type = interceptor name = "862 Luptator Escadrila" historical_model = 0 }
+	}
+}
+		

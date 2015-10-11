@@ -1,0 +1,26 @@
+theatre = {
+	name = "Force Republicaines de Cote d'Ivoire"
+	location = 9937
+	regiment = { type = hq_brigade name = "Force Republicaines de Cote d'Ivoire" historical_model = 0 }
+	division = {
+		name = "Belarussian Mercenaries"
+		location = 9968
+		regiment = { type = infantry_brigade name = "Belarussian Battalion" historical_model = 0 }
+	}
+	division = {
+		name = "Lima Militia"
+		location = 9968
+		regiment = { type = militia_brigade name = "Lima Militia" historical_model = 0 }
+	}
+	division = {
+		name = "1st Infantry Battalion"
+		location = 9937
+		regiment = { type = infantry_brigade name = "1st Infantry Battalion" historical_model = 0 }
+	}
+	division = {
+		name = "Young Patriots"
+		location = 9937
+		regiment = { type = militia_brigade name = "Young Patriots Volunteers" historical_model = 0 }
+	}
+}
+		

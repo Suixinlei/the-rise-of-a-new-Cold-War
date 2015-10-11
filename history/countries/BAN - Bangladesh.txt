@@ -1,0 +1,50 @@
+capital = 5843
+government = republic
+ideology = paternal_autocrat
+alignment = { x = 0 y = 50 }
+neutrality = 80
+national_unity = 70
+head_of_state = 9100
+head_of_government = 9101
+foreign_minister = 9102
+armament_minister = 9101
+minister_of_security = 9103
+minister_of_intelligence = 9103
+chief_of_staff = 9108
+chief_of_army = 9104
+chief_of_navy = 9105
+chief_of_air = 9106
+oob = "BAN_2000.txt"
+
+popularity = { 
+	national_socialist = 4
+	fascistic = 0
+	paternal_autocrat = 41
+	social_conservative = 0
+	market_liberal = 0
+	social_liberal = 40
+	social_democrat = 0
+	left_wing_radical = 0
+	leninist = 0
+	stalinist = 0
+}
+
+organization = { 
+	national_socialist = 12
+	fascistic = 0
+	paternal_autocrat = 123
+	social_conservative = 0
+	market_liberal = 0
+	social_liberal = 120
+	social_democrat = 0
+	left_wing_radical = 0
+	leninist = 0
+	stalinist = 0
+}
+
+conscription_policy = volunteer_army
+press_laws = free_press
+mobilisation_level = peace_time
+civil_laws = open_society
+service_length = eighteen_months
+economic_policy = lais_fair

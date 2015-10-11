@@ -1,0 +1,8 @@
+owner = SYR
+controller = SYR
+add_core = SYR
+infra = 7
+manpower = 1.80
+air_base = 6 #Aleppo and surrounding airbases
+points = 1
+industry = 1

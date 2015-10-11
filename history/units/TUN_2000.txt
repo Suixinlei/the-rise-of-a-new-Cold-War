@@ -1,0 +1,200 @@
+theatre = {
+	name = "Tunisian Armed Forces"
+	location = 5134
+	regiment = { type = hq_brigade name = "Tunisian Armed Forces HQ" historical_model = 1 }
+	army = {
+		name = "Tunisian Land Army"
+		location = 5134
+		regiment = { type = hq_brigade name = "Tunisian Land Army HQ" historical_model = 1 }
+		corps = {
+			name = "Bizerte Military Region"
+			location = 5133
+			regiment = { type = hq_brigade name = "Bizerte Region" historical_model = 1 }
+			division = {
+				is_reserve = yes
+				name = "1st Mechanized Regiment"
+				location = 5133
+				regiment = { type = mechanized_brigade name = "11th Mechanized Battalion" historical_model = 0 }
+				regiment = { type = mechanized_brigade name = "12th Mechanized Battalion" historical_model = 0 }
+				regiment = { type = mechanized_brigade name = "13th Mechanized Battalion" historical_model = 0 }
+			}
+			division = {
+				is_reserve = yes
+				name = "3rd Mechanized Regiment"
+				location = 5133
+				regiment = { type = mechanized_brigade name = "31st Mechanized Battalion" historical_model = 0 }
+				regiment = { type = mechanized_brigade name = "32nd Mechanized Battalion" historical_model = 0 }
+				regiment = { type = mechanized_brigade name = "33rd Mechanized Battalion" historical_model = 0 }
+			}
+			division = {
+				is_reserve = yes
+				name = "1st Special Forces Regiment"
+				location = 5167
+				regiment = { type = special_forces_brigade name = "11th Special Forces Battalion" historical_model = 1 }
+				regiment = { type = special_forces_brigade name = "12th Special Forces Battalion" historical_model = 1 }
+				regiment = { type = special_forces_brigade name = "13th Special Forces Battalion" historical_model = 1 }
+			}
+			division = {
+				is_reserve = yes
+				name = "1st Armoured Regiment"
+				location = 5166
+				regiment = { type = armor_brigade name = "11th Armoured Battalion" historical_model = 0 }
+				regiment = { type = armor_brigade name = "11th Armoured Battalion" historical_model = 0 }
+				regiment = { type = armor_brigade name = "11th Armoured Battalion" historical_model = 0 }
+			}
+		}
+		corps = {
+			name = "Tunis Military Region"
+			location = 5134
+			regiment = { type = hq_brigade name = "Tunis Region HQ" historical_model = 1 }
+			division = {
+				is_reserve = yes
+				name = "2nd Mechanized Regiment"
+				location = 5134
+				regiment = { type = mechanized_brigade name = "21st Mechanized Battalion" historical_model = 0 }
+				regiment = { type = mechanized_brigade name = "22nd Mechanized Battalion" historical_model = 0 }
+				regiment = { type = mechanized_brigade name = "23rd Mechanized Battalion" historical_model = 0 }
+			}
+			division = {
+				is_reserve = yes
+				name = "1st Paratrooper Regiment"
+				location = 5232
+				regiment = { type = paratrooper_brigade name = "11th Paratrooper Battalion" historical_model = 1 }
+				regiment = { type = paratrooper_brigade name = "12th Paratrooper Battalion" historical_model = 1 }
+				regiment = { type = paratrooper_brigade name = "13th Paratrooper Battalion" historical_model = 1 }
+			}
+			division = {
+				is_reserve = yes
+				name = "2nd Special Forces Regiment"
+				location = 5168
+				regiment = { type = special_forces_brigade name = "21st Special Forces Battalion" historical_model = 1 }
+				regiment = { type = special_forces_brigade name = "22nd Special Forces Battalion" historical_model = 1 }
+				regiment = { type = special_forces_brigade name = "23rd Special Forces Battalion" historical_model = 1 }
+			}
+			division = {
+				is_reserve = yes
+				name = "2nd Armoured Regiment"
+				location = 5265
+				regiment = { type = armor_brigade name = "21st Armoured Battalion" historical_model = 0 }
+				regiment = { type = armor_brigade name = "22nd Armoured Battalion" historical_model = 0 }
+				regiment = { type = armor_brigade name = "23rd Armoured Battalion" historical_model = 0 }
+			}
+		}
+		corps = {
+			name = "Gabes Military Region"
+			location = 5397
+			regiment = { type = hq_brigade name = "Gabes Region HQ" historical_model = 1 }
+			division = {
+				is_reserve = yes
+				name = "4th Mechanized Regiment"
+				location = 5397
+				regiment = { type = mechanized_brigade name = "41st Mechanized Battalion" historical_model = 0 }
+				regiment = { type = mechanized_brigade name = "42nd Mechanized Battalion" historical_model = 0 }
+				regiment = { type = mechanized_brigade name = "43rd Mechanized Battalion" historical_model = 0 }
+			}
+			division = {
+				is_reserve = yes
+				name = "5th Mechanized Regiment"
+				location = 5430
+				regiment = { type = mechanized_brigade name = "51st Mechanized Battalion" historical_model = 0 }
+				regiment = { type = mechanized_brigade name = "52nd Mechanized Battalion" historical_model = 0 }
+				regiment = { type = mechanized_brigade name = "53rd Mechanized Battalion" historical_model = 0 }
+			}
+			division = {
+				is_reserve = yes
+				name = "6th Mechanized Regiment"
+				location = 5413
+				regiment = { type = mechanized_brigade name = "61st Mechanized Battalion" historical_model = 0 }
+				regiment = { type = mechanized_brigade name = "62nd Mechanized Battalion" historical_model = 0 }
+				regiment = { type = mechanized_brigade name = "63rd Mechanized Battalion" historical_model = 0 }
+			}
+			division = {
+				is_reserve = yes
+				name = "3rd Armoured Regiment"
+				location = 5414
+				regiment = { type = armor_brigade name = "31st Armoured Battalion" historical_model = 0 }
+				regiment = { type = armor_brigade name = "32nd Armoured Battalion" historical_model = 0 }
+				regiment = { type = armor_brigade name = "33rd Armoured Battalion" historical_model = 0 }
+			}
+			division = {
+				is_reserve = yes
+				name = "4th Armoured Regiment"
+				location = 5429
+				regiment = { type = armor_brigade name = "41st Armoured Battalion" historical_model = 0 }
+				regiment = { type = armor_brigade name = "42nd Armoured Battalion" historical_model = 0 }
+				regiment = { type = armor_brigade name = "43rd Armoured Battalion" historical_model = 0 }
+			}
+		}
+		corps = {
+			name = "Beja Military Region"
+			location = 5202
+			regiment = { type = hq_brigade name = "Beja Region HQ" historical_model = 1 }
+			division = {
+				is_reserve = yes
+				name = "8th Mechanized Regiment"
+				location = 5201
+				regiment = { type = mechanized_brigade name = "81st Mechanized Battalion" historical_model = 0 }
+				regiment = { type = mechanized_brigade name = "82nd Mechanized Battalion" historical_model = 0 }
+				regiment = { type = mechanized_brigade name = "83rd Mechanized Battalion" historical_model = 0 }
+			}
+			division = {
+				is_reserve = yes
+				name = "7th Mechanized Regiment"
+				location = 5202
+				regiment = { type = mechanized_brigade name = "71st Mechanized Battalion" historical_model = 0 }
+				regiment = { type = mechanized_brigade name = "72nd Mechanized Battalion" historical_model = 0 }
+				regiment = { type = mechanized_brigade name = "73rd Mechanized Battalion" historical_model = 0 }
+			}
+			division = {
+				is_reserve = yes
+				name = "5th Armoured Regiment"
+				location = 5296
+				regiment = { type = armor_brigade name = "51st Armoured Battalion" historical_model = 0 }
+				regiment = { type = armor_brigade name = "52nd Armoured Battalion" historical_model = 0 }
+				regiment = { type = armor_brigade name = "53rd Armoured Battalion" historical_model = 0 }
+			}
+			division = {
+				is_reserve = yes
+				name = "2nd Paratrooper Regiment"
+				location = 5264
+				regiment = { type = paratrooper_brigade name = "21st Paratrooper Battalion" historical_model = 1 }
+				regiment = { type = paratrooper_brigade name = "22nd Paratrooper Battalion" historical_model = 1 }
+				regiment = { type = paratrooper_brigade name = "23rd Paratrooper Battalion" historical_model = 1 }
+			}
+		}
+	}
+	
+	air = {
+	name = "No. 15 Squadron"
+	base = 5134
+	location = 5134
+	wing = { type = interceptor name = "No. 15 Squadron" historical_model = 0 }
+	}
+	
+	air = {
+	name = "No. 21 Squadron"
+	base = 5134
+	location = 5134
+	wing = { type = transport_plane name = "No. 21 Squadron" historical_model = 0 }
+	}
+	
+	navy = {
+	name = "Tunisian Navy"
+	base = 5134
+	location = 5134
+	ship = { type = patrol_boat name = "Combattante I" historical_model = 0 }
+	ship = { type = patrol_boat name = "Combattante II" historical_model = 0 }
+	ship = { type = patrol_boat name = "Combattante III" historical_model = 0 }
+	ship = { type = patrol_boat name = "Albatros I" historical_model = 0 }
+	ship = { type = patrol_boat name = "Albatros II" historical_model = 0 }
+	ship = { type = patrol_boat name = "Albatros III" historical_model = 0 }
+	ship = { type = patrol_boat name = "Albatros IV" historical_model = 0 }
+	ship = { type = patrol_boat name = "Albatros V" historical_model = 0 }
+	ship = { type = patrol_boat name = "Albatros VI" historical_model = 0 }
+	ship = { type = patrol_boat name = "Bizerte I" historical_model = 0 }
+	ship = { type = patrol_boat name = "Bizerte II" historical_model = 0 }
+	ship = { type = patrol_boat name = "Bizerte III" historical_model = 0 }
+	ship = { type = patrol_boat name = "Bizerte IV" historical_model = 0 }
+	}
+}
+				

@@ -1,0 +1,10 @@
+owner = CZE
+controller = CZE
+add_core = CZE
+industry = 3
+manpower = 0.8
+infra = 10
+metal = 5.00
+air_base = 6 #Prague airport and Kbely and Caslav airbase
+leadership = 2.50
+points = 1

@@ -1,0 +1,8 @@
+owner = POR
+controller = POR
+add_core = POR
+rare_materials = 1.00
+infra = 6
+air_base = 6 #Beja airbase
+leadership = 2.50
+points = 1

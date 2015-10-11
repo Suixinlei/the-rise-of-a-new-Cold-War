@@ -1,0 +1,5 @@
+owner = MAC
+controller = MAC
+add_core = MAC
+
+infra = 6

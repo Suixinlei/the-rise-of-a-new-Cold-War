@@ -1,0 +1,500 @@
+theatre = {
+	name = "Canadian Forces"
+	location = 3342
+	regiment = { type = hq_brigade name = "Canadian Forces HQ" historical_model = 2 }
+	armygroup = {
+		name = "Canadian Army"
+		location = 3342
+		regiment = { type = hq_brigade name = "Army HQ" historical_model = 2 }
+		army = {
+			name = "Land Force Western Area"
+			location = 8472
+			regiment = { type = hq_brigade name = "Western Area HQ" historical_model = 2 }
+			division = {
+				is_reserve = yes
+				name = "4th Rangers Patrol Garrison"
+				location = 6682
+				regiment = { type = garrison_brigade name = "4th Rangers Patrol Garrison" historical_model = 2 }
+			}
+			division = {
+				is_reserve = yes
+				name = "1st Mechanized Brigade"
+				location = 8472
+				regiment = { type = armor_brigade name = "Lord Strathcona's Horse" historical_model = 0 }
+				regiment = { type = mechanized_brigade name = "1st Battalion Princess Patricia's Light Infantry" historical_model = 0 }
+				regiment = { type = mechanized_brigade name = "2nd Battalion Princess Patricia's Light Infantry" historical_model = 0 }
+				regiment = { type = infantry_brigade name = "3rd Battalion Princess Patricia's Light Infantry" historical_model = 2 }
+			}
+			corps = {
+				name = "38th Reserve Brigade Group"
+				location = 8445
+				regiment = { type = hq_brigade name = "38th Brigade Group HQ" historical_model = 2 }
+				division = {
+					is_reserve = yes
+					name = "Regina Reserve"
+					location = 8364
+					regiment = { type = infantry_brigade name = "Saskatchewan Dragoons" historical_model = 2 }
+					regiment = { type = infantry_brigade name = "Royal Regina Rifles" historical_model = 2 }
+				}
+				division = {
+					is_reserve = yes
+					name = "Winnipeg Reserve"
+					location = 8445
+					regiment = { type = infantry_brigade name = "Fort Garry Horse" historical_model = 2 }
+					regiment = { type = infantry_brigade name = "Royal Winnipeg Rifles" historical_model = 2 }
+					regiment = { type = infantry_brigade name = "Queen's Own Cameron Regiment" historical_model = 2 }
+				}
+				division = {
+					is_reserve = yes
+					name = "North Saskatchewan Regiment"
+					location = 8256
+					regiment = { type = infantry_brigade name = "North Saskatchewan Regiment" historical_model = 2 }
+				}
+				division = {
+					is_reserve = yes
+					name = "Lake Superior Scottish Regiment"
+					location = 8447
+					regiment = { type = infantry_brigade name = "Lake Superior Scottish Regiment" historical_model = 2 }
+				}
+			}
+			corps = {
+				name = "39th Reserve Brigade Group"
+				location = 6671
+				regiment = { type = hq_brigade name = "39th Brigade Group HQ" historical_model = 2 }
+				division = {
+					is_reserve = yes
+					name = "Vancouver Reserve"
+					location = 6671
+					regiment = { type = infantry_brigade name = "British Columbia Regiment" historical_model = 2 }
+					regiment = { type = infantry_brigade name = "Royal Westminster Regiment" historical_model = 2 }
+					regiment = { type = infantry_brigade name = "Seaforth Highlanders" historical_model = 2 }
+				}
+				division = {
+					is_reserve = yes
+					name = "British Columbia Dragoons"
+					location = 8334
+					regiment = { type = infantry_brigade name = "British Columbia Dragoons" historical_model = 2 }
+				}
+				division = {
+					is_reserve = yes
+					name = "Canadian Scottish Regiment"
+					location = 6682
+					regiment = { type = infantry_brigade name = "Canadian Scottish Regiment" historical_model = 2 }
+				}
+				division = {
+					is_reserve = yes
+					name = "Rocky Mountains Rangers"
+					location = 8255
+					regiment = { type = infantry_brigade name = "Rocky Mountains Rangers" historical_model = 2 }
+				}
+			}
+			corps = {
+				name = "41st Reserve Brigade Group"
+				location = 8336
+				regiment = { type = hq_brigade name = "41st Brigade Group HQ" historical_model = 2 }
+				division = {
+					is_reserve = yes
+					name = "South Alberta Light Horse"
+					location = 8387
+					regiment = { type = infantry_brigade name = "South Alberta Light Horse" historical_model = 2 }
+				}
+				division = {
+					is_reserve = yes
+					name = "Calgary Reserve"
+					location = 8336
+					regiment = { type = infantry_brigade name = "King's Own Calgary Regiment" historical_model = 2 }
+					regiment = { type = infantry_brigade name = "Calgary Highlanders" historical_model = 2 }
+				}
+				division = {
+					is_reserve = yes
+					name = "Loyal Edmonton Regiment"
+					location = 8472
+					regiment = { type = infantry_brigade name = "Loyal Edmonton Regiment" historical_model = 2 }
+				}
+			}
+		}
+		army = {
+			name = "Land Force Central Area"
+			location = 3541
+			regiment = { type = hq_brigade name = "Central Area HQ" historical_model = 2 }
+			division = {
+				is_reserve = yes
+				name = "3rd Rangers Patrol Garrison"
+				location = 3541
+				regiment = { type = garrison_brigade name = "3rd Rangers Patrol Garrison" historical_model = 2 }
+			}
+			division = {
+				is_reserve = yes
+				name = "2nd Mechanized Brigade"
+				location = 3205
+				regiment = { type = armor_brigade name = "Royal Canadian Dragoons" historical_model = 0 }
+				regiment = { type = mechanized_brigade name = "1st Battalion Royal Canadian Regiment" historical_model = 0 }
+				regiment = { type = infantry_brigade name = "3rd Battalion Royal Canadian Regiment" historical_model = 2 }
+			}
+			corps = {
+				name = "31st Reserve Brigade Group"
+				location = 3732
+				regiment = { type = hq_brigade name = "31st Brigade Group HQ" historical_model = 2 }
+				division = {
+					is_reserve = yes
+					name = "London Reserve"
+					location = 3732
+					regiment = { type = mechanized_brigade name = "1st Hussars" historical_model = 0 }
+					regiment = { type = infantry_brigade name = "4th Battalion Royal Canadian Regiment" historical_model = 2 }
+				}
+				division = {
+					is_reserve = yes
+					name = "Windsor Reserve"
+					location = 3798
+					regiment = { type = infantry_brigade name = "Windsor Regiment" historical_model = 2 }
+					regiment = { type = infantry_brigade name = "Essex and Kent Scottish" historical_model = 2 }
+				}
+				division = {
+					is_reserve = yes
+					name = "Hamilton Reserve"
+					location = 3605
+					regiment = { type = infantry_brigade name = "Argyll and Sutherland Highlanders" historical_model = 2 }
+					regiment = { type = infantry_brigade name = "Royal Hamilton Light Infantry" historical_model = 2 }
+				}
+				division = {
+					is_reserve = yes
+					name = "Royal Highlander Fusiliers"
+					location = 3604
+					regiment = { type = infantry_brigade name = "Royal Highlander Fusiliers" historical_model = 2 }
+				}
+			}
+			corps = {
+				name = "32nd Reserve Brigade Group"
+				location = 3541
+				regiment = { type = hq_brigade name = "32nd Brigade Group HQ" historical_model = 2 }
+				division = {
+					is_reserve = yes
+					name = "Toronto Reserve"
+					location = 3541
+					regiment = { type = infantry_brigade name = "Governor General's Horse Guards" historical_model = 2 }
+					regiment = { type = infantry_brigade name = "Queen's York Rangers" historical_model = 2 }
+					regiment = { type = infantry_brigade name = "48th Highlanders Canada" historical_model = 2 }
+					regiment = { type = infantry_brigade name = "Lorne Scots" historical_model = 2 }
+					regiment = { type = infantry_brigade name = "Toronto Scottish Regiment" historical_model = 2 }
+				}
+				division = {
+					is_reserve = yes
+					name = "Grey and Simcoe Foresters"
+					location = 3267
+					regiment = { type = infantry_brigade name = "Grey and Simcoe Foresters" historical_model = 2 }
+				}
+				division = {
+					is_reserve = yes
+					name = "Queen's Own Rifles Canada"
+					location = 3541
+					regiment = { type = paratrooper_brigade name = "Queen's Own Rifles Canada" historical_model = 2 }
+				}
+				division = {
+					is_reserve = yes
+					name = "Lincoln and Welland Regiment"
+					location = 3605
+					regiment = { type = infantry_brigade name = "Lincoln and Welland Regiment" historical_model = 2 }
+				}
+			}
+			corps = {
+				name = "33rd Reserve Brigade Group"
+				location = 3342
+				regiment = { type = hq_brigade name = "33rd Brigade Group HQ" historical_model = 2 }
+				division = {
+					is_reserve = yes
+					name = "Ontario Regiment"
+					location = 3476
+					regiment = { type = infantry_brigade name = "Ontario Regiment" historical_model = 2 }
+				}
+				division = {
+					is_reserve = yes
+					name = "Brockville Rifles"
+					location = 3341
+					regiment = { type = infantry_brigade name = "Brockville Rifles" historical_model = 2 }
+				}
+				division = {
+					is_reserve = yes
+					name = "Ottawa Reserve"
+					location = 3342
+					regiment = { type = infantry_brigade name = "Governor General's Foot Guards" historical_model = 2 }
+					regiment = { type = infantry_brigade name = "Cameron Highlanders of Ottawa" historical_model = 2 }
+				}
+				division = {
+					is_reserve = yes
+					name = "Algonquin Regiment"
+					location = 2933
+					regiment = { type = infantry_brigade name = "Algonquin Regiment" historical_model = 2 }
+				}
+				division = {
+					is_reserve = yes
+					name = "Hastings and Prince Edward Regiment"
+					location = 3408
+					regiment = { type = infantry_brigade name = "Hastings and Prince Edward Regiment" historical_model = 2 }
+				}
+				division = {
+					is_reserve = yes
+					name = "2nd Battalion Irish Regiment of Canada"
+					location = 6879
+					regiment = { type = infantry_brigade name = "2nd Battalion Irish Regiment of Canada" historical_model = 2 }
+				}
+				division = {
+					is_reserve = yes
+					name = "Stormont, Dundas and Glengarry Highlanders"
+					location = 6971
+					regiment = { type = infantry_brigade name = "Stormont, Dundas and Glengarry Highlanders" historical_model = 2 }
+				}
+				division = {
+					is_reserve = yes
+					name = "Princess of Wales' Own Regiment"
+					location = 3409
+					regiment = { type = infantry_brigade name = "Princess of Wales' Own Regiment" historical_model = 2 }
+				}
+			}
+		}
+		army = {
+			name = "Land Forces Quebec Area"
+			location = 6992
+			regiment = { type = hq_brigade name = "Quebec Area HQ" historical_model = 2 }
+			division = {
+				is_reserve = yes
+				name = "2nd Rangers Patrol Garrison"
+				location = 6950
+				regiment = { type = garrison_brigade name = "2nd Rangers Patrol Garrison" historical_model = 2 }
+			}
+			division = {
+				is_reserve = yes
+				name = "5e Brigade Mécani?
+				location = 3205
+				regiment = { type = armor_brigade name = "12e Rgt- Blind?Canada" historical_model = 0 }
+				regiment = { type = mechanized_brigade name = "1st Battalion Royal 22e Regiment" historical_model = 0 }
+				regiment = { type = mechanized_brigade name = "2nd Battalion Royal 22e Regiment" historical_model = 0 }
+				regiment = { type = infantry_brigade name = "3rd Battalion Royal 22e Regiment" historical_model = 2 }
+			}
+			corps = {
+				name = "34th Reserve Brigade Group"
+				location = 6992
+				regiment = { type = hq_brigade name = "34th Brigade Group HQ" historical_model = 2 }
+				division = {
+					is_reserve = yes
+					name = "1st Montreal Reserve"
+					location = 6992
+					regiment = { type = infantry_brigade name = "Royal Canadian Hussars" historical_model = 2 }
+					regiment = { type = infantry_brigade name = "4th Battalion Royal 22e Regiment" historical_model = 2 }
+					regiment = { type = infantry_brigade name = "Régiment de Maisonneuve" historical_model = 2 }
+				}
+				division = {
+					is_reserve = yes
+					name = "Régiment de Hull"
+					location = 3342
+					regiment = { type = infantry_brigade name = "Régiment de Hull" historical_model = 2 }
+				}
+				division = {
+					is_reserve = yes
+					name = "6th Battalion Royal 22e Regiment"
+					location = 6926
+					regiment = { type = infantry_brigade name = "6th Battalion Royal 22e Regiment" historical_model = 2 }
+				}
+				division = {
+					is_reserve = yes
+					name = "2nd Montreal Reserve"
+					location = 6992
+					regiment = { type = infantry_brigade name = "Canadian Grenadier Guards" historical_model = 2 }
+					regiment = { type = infantry_brigade name = "Fusiliers Mont-Royal" historical_model = 2 }
+					regiment = { type = infantry_brigade name = "Black Watch of Canada" historical_model = 2 }
+					regiment = { type = infantry_brigade name = "Royal Montreal Regiment" historical_model = 2 }
+				}
+			}
+			corps = {
+				name = "35th Reserve Brigade Group"
+				location = 6905
+				regiment = { type = hq_brigade name = "35th Brigade Group HQ" historical_model = 2 }
+				division = {
+					is_reserve = yes
+					name = "Sherbrooke Reserve"
+					location = 6993
+					regiment = { type = infantry_brigade name = "Sherbrooke Hussars" historical_model = 2 }
+					regiment = { type = infantry_brigade name = "Fusiliers de Sherbrooke" historical_model = 2 }
+				}
+				division = {
+					is_reserve = yes
+					name = "12e Rgt. Blind?Canada"
+					location = 6951
+					regiment = { type = infantry_brigade name = "12e Rgt. Blind?Canada" historical_model = 2 }
+				}
+				division = {
+					is_reserve = yes
+					name = "Quebec Reserve"
+					location = 6905
+					regiment = { type = infantry_brigade name = "Régiment de la Chaudiére" historical_model = 2 }
+					regiment = { type = infantry_brigade name = "Voltigeurs de Québec" historical_model = 2 }
+				}
+				division = {
+					is_reserve = yes
+					name = "Régiment du Saguenay"
+					location = 8621
+					regiment = { type = infantry_brigade name = "Régiment du Saguenay" historical_model = 2 }
+				}
+				division = {
+					is_reserve = yes
+					name = "Fusiliers du Saint-Laurent"
+					location = 6884
+					regiment = { type = infantry_brigade name = "Fusiliers du Saint-Laurent" historical_model = 2 }
+				}
+			}
+		}
+		army = {
+			name = "Land Force Atlantic Area"
+			location = 6997
+			regiment = { type = hq_brigade name = "Atlantic Area HQ" historical_model = 2 }
+			division = {
+				is_reserve = yes
+				name = "5th Rangers Patrol Garrison"
+				location = 8623
+				regiment = { type = garrison_brigade name = "5th Rangers Patrol Garrison" historical_model = 2 }
+			}
+			division = {
+				is_reserve = yes
+				name = "2nd Battalion Royal Canadian Regiment"
+				location = 6954
+				regiment = { type = mechanized_brigade name = "2nd Battalion Royal Canadian Regiment" historical_model = 0 }
+			}
+			corps = {
+				name = "36th Reserve Brigade Group"
+				location = 6997
+				regiment = { type = hq_brigade name = "36th Brigade Group HQ" historical_model = 2 }
+				division = {	
+					is_reserve = yes
+					name = "Halifax Reserve"
+					location = 6997
+					regiment = { type = infantry_brigade name = "Halifax Rifles" historical_model = 2 }
+					regiment = { type = infantry_brigade name = "Princess Louise Fusiliers" historical_model = 2 }
+					regiment = { type = infantry_brigade name = "West Nova Scotia Regiment" historical_model = 2 }
+				}
+				division = {	
+					is_reserve = yes
+					name = "Prince Edward Island Regiment"
+					location = 6931
+					regiment = { type = infantry_brigade name = "Prince Edward Island Regiment" historical_model = 2 }
+				}
+				division = {	
+					is_reserve = yes
+					name = "1st Battalion Nova Scotia Highlanders"
+					location = 6977
+					regiment = { type = infantry_brigade name = "1st Battalion Nova Scotia Highlanders" historical_model = 2 }
+				}
+				division = {	
+					is_reserve = yes
+					name = "Cape Breton Highlanders"
+					location = 6956
+					regiment = { type = infantry_brigade name = "Cape Breton Highlanders" historical_model = 2 }
+				}
+			}
+			corps = {
+				name = "37th Reserve Brigade Group"
+				location = 6976
+				regiment = { type = hq_brigade name = "37th Brigade Group HQ" historical_model = 2 }
+				division = {	
+					is_reserve = yes
+					name = "8th Canadian Hussars"
+					location = 6976
+					regiment = { type = infantry_brigade name = "8th Canadian Hussars" historical_model = 2 }
+				}
+				division = {	
+					is_reserve = yes
+					name = "1st Battalion Royal New Brunswick Regiment"
+					location = 6954
+					regiment = { type = infantry_brigade name = "1st Battalion Royal New Brunswick Regiment" historical_model = 2 }
+				}
+				division = {	
+					is_reserve = yes
+					name = "2nd Battalion Royal New Brunswick Regiment"
+					location = 6824
+					regiment = { type = infantry_brigade name = "2nd Battalion Royal New Brunswick Regiment" historical_model = 2 }
+				}
+				division = {	
+					is_reserve = yes
+					name = "1st Battalion Royal Newfound Regiment"
+					location = 8734
+					regiment = { type = infantry_brigade name = "1st Battalion Royal Newfound Regiment" historical_model = 2 }
+				}
+				division = {	
+					is_reserve = yes
+					name = "2nd Battalion Royal Newfound Regiment"
+					location = 8622
+					regiment = { type = infantry_brigade name = "2nd Battalion Royal Newfound Regiment" historical_model = 2 }
+				}
+			}
+		}
+	}
+	
+	air = {
+	name = "425 'Alouette' Tactical Fighter Squadron"
+	base = 8587
+	location = 8587
+	wing = { type = multi_role name = "425 'Alouette' Tactical Fighter Squadron" historical_model = 0 }
+	}
+	
+	air = {
+	name = "409 Tactical Fighter Squadron"
+	base = 8472
+	location = 8472
+	wing = { type = multi_role name = "409 Tactical Fighter Squadron" historical_model = 0 }
+	}
+	
+	air = {
+	name = "419 Tactical Fighter Squadron"
+	base = 8472
+	location = 8472
+	wing = { type = multi_role name = "419 Tactical Fighter Squadron" historical_model = 0 }
+	}
+	
+	air = {
+	name = "8 Wing Trenton"
+	base = 3408
+	location = 3408
+	wing = { type = transport_plane name = "412 Transport Squadron" historical_model = 0 }
+	wing = { type = transport_plane name = "429 Transport Squadron" historical_model = 0 }
+	}
+	
+	air = {
+	name = "405 Maritime Patrol Squadron"
+	base = 6997
+	location = 6997
+	wing = { type = cas name = "405 Maritime Patrol Squadron" historical_model = 0 }
+	}
+	
+	air = {
+	name = "407 Long Range Patrol Squadron"
+	base = 6670
+	location = 6670
+	wing = { type = cas name = "407 Long Range Patrol Squadron" historical_model = 0 }
+	}
+		
+	navy = {
+	name = "Maritime Forces Atlantic"
+	base = 6997
+	location = 6997
+	ship = { type = heavy_cruiser name = "HMCS Halifax" historical_model = 1 }
+	ship = { type = heavy_cruiser name = "HMCS Ville de Québec" historical_model = 1 }
+	ship = { type = heavy_cruiser name = "HMCS Toronto" historical_model = 1 }
+	ship = { type = heavy_cruiser name = "HMCS Montréal" historical_model = 1 }
+	ship = { type = heavy_cruiser name = "HMCS Fredericton" historical_model = 1 }
+	ship = { type = heavy_cruiser name = "HMCS Charlottetown" historical_model = 1 }
+	ship = { type = heavy_cruiser name = "HMCS St. John's" historical_model = 1 }
+	ship = { type = destroyer name = "HMCS Iroquois" historical_model = 0 }
+	ship = { type = destroyer name = "HMCS Athabaskan" historical_model = 0 }
+	}
+	
+	navy = {
+	name = "Maritime Forces Pacific"
+	base = 6671
+	location = 6671
+	ship = { type = heavy_cruiser name = "HMCS Vancouver" historical_model = 1 }
+	ship = { type = heavy_cruiser name = "HMCS Regina" historical_model = 1 }
+	ship = { type = heavy_cruiser name = "HMCS Calgary" historical_model = 1 }
+	ship = { type = heavy_cruiser name = "HMCS Winnipeg" historical_model = 1 }
+	ship = { type = heavy_cruiser name = "HMCS Ottawa" historical_model = 1 }
+	ship = { type = destroyer name = "HMCS Algonquin" historical_model = 0 }
+	ship = { type = submarine name = "HMCS Victoria" historical_model = 1 }
+	}
+}	

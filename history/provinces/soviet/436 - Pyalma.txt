@@ -1,0 +1,9 @@
+owner = SOV
+controller = SOV
+add_core = SOV 
+
+
+
+air_base = 2 #Petrozavodsk airbase
+infra = 2
+points = 1

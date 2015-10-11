@@ -1,0 +1,10 @@
+owner = EGU
+controller = EGU
+add_core = EGU
+manpower = 0.2
+crude_oil = 7.00
+infra = 4
+
+
+naval_base = 1
+points = 1

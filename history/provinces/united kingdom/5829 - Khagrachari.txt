@@ -1,0 +1,5 @@
+owner = BAN
+controller = BAN
+add_core = BAN
+
+infra = 6

@@ -1,0 +1,9 @@
+owner = ARM
+controller = ARM
+add_core = ARM
+
+infra = 6
+
+manpower = 0.7
+air_base = 5 #Shirak and Erebuni airbas
+points = 1

@@ -1,0 +1,688 @@
+75501 = {
+	name = "韩相熙"
+	country = KOR
+	type = land
+	skill = 3
+	max_skill = 6
+	loyalty = 1.00
+	picture = KOR1
+	add_trait = commando
+	add_trait = logistics_wizard
+	add_trait = defensive_doctrine
+	history = {
+		2000.1.1 = { rank = 1 }
+		2000.1.1 = { rank = 2 }
+		2000.1.1 = { rank = 3 }
+		2000.1.1 = { rank = 4 }
+	}
+}
+75502 = {
+	name = "謝烈余"
+	country = KOR
+	type = land
+	skill = 3
+	max_skill = 5
+	loyalty = 1.00
+	picture = KOR2
+	add_trait = logistics_wizard
+	history = {
+		2000.1.1 = { rank = 1 }
+		2000.1.1 = { rank = 2 }
+		2000.1.1 = { rank = 3 }
+	}
+}
+75503 = {
+	name = "趙新根"
+	country = KOR
+	type = land
+	skill = 3
+	max_skill = 6
+	loyalty = 1.00
+	picture = KOR3
+	add_trait = defensive_doctrine
+	history = {
+		2000.1.1 = { rank = 1 }
+		2000.1.1 = { rank = 2 }
+	}
+}
+75504 = {
+	name = "韓泰國"
+	country = KOR
+	type = land
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = KOR4
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+75505 = {
+	name = "鄭用厚"
+	country = KOR
+	type = land
+	skill = 1
+	max_skill = 3
+	loyalty = 1.00
+	picture = KOR5
+	add_trait = defensive_doctrine
+	history = {
+		2000.1.0 = { rank = 1 }
+	}
+}
+75506 = {
+	name = "夏立"
+	country = KOR
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = KOR6
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+75507 = {
+	name = "金相志"
+	country = KOR
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = KOR7
+	add_trait = offensive_doctrine
+	history = {
+		2000.1.1 = { rank = 1 }
+		2000.1.1 = { rank = 2 }
+	}
+}
+75508 = {
+	name = "智仁勇"
+	country = KOR
+	type = land
+	skill = 1
+	max_skill = 4
+	loyalty = 1.00
+	picture = KOR8
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+75509 = {
+	name = "鐘凌"
+	country = KOR
+	type = land
+	skill = 1
+	max_skill = 4
+	loyalty = 1.00
+	picture = KOR9
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+75510 = {
+	name = "赵真奎"
+	country = KOR
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = KOR10
+	add_trait = defensive_doctrine
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+75511 = {
+	name = "袁世博"
+	country = KOR
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = KOR11
+	add_trait = engineer
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+75512 = {
+	name = "尹堀左"
+	country = KOR
+	type = air
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = KOR12
+	add_trait = tank_buster
+	add_trait = night_flyer
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+75513 = {
+	name = "徐哲思"
+	country = KOR
+	type = land
+	skill = 3
+	max_skill = 4
+	loyalty = 1.00
+	picture = KOR13
+	add_trait = fortress_buster
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+75514 = {
+	name = "王耐勤"
+	country = KOR
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = KOR14
+	add_trait = logistics_wizard
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+75515 = {
+	name = "宋宇辰"
+	country = KOR
+	type = sea
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = KOR15
+	add_trait = blockade_runner
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+75516 = {
+	name = "史賢具"
+	country = KOR
+	type = land
+	skill = 0
+	max_skill = 4
+	loyalty = 1.00
+	picture = KOR16
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+75517 = {
+	name = "沈九"
+	country = KOR
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = KOR17
+	add_trait = logistics_wizard
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+75518 = {
+	name = "申樂至"
+	country = KOR
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 1.00
+	picture = KOR18
+	add_trait = logistics_wizard
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+75519 = {
+	name = "盧陸"
+	country = KOR
+	type = sea
+	skill = 0
+	max_skill = 5
+	loyalty = 1.00
+	picture = KOR20
+	add_trait = spotter
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+75520 = {
+	name = "李三全"
+	country = KOR
+	type = land
+	skill = 3
+	max_skill = 6
+	loyalty = 1.00
+	picture = KOR21
+	add_trait = engineer
+	add_trait = marine
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+75521 = {
+	name = "李樸俠"
+	country = KOR
+	type = land
+	skill = 1
+	max_skill = 4
+	loyalty = 1.00
+	picture = KOR22
+	add_trait = hard_defender
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+75522 = {
+	name = "丁玉根"
+	country = KOR
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = KOR23
+	add_trait = assaulter
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+75523 = {
+	name = "李翰學"
+	country = KOR
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = KOR24
+	add_trait = commando
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+75524 = {
+	name = "南海一"
+	country = KOR
+	type = land
+	skill = 1
+	max_skill = 7
+	loyalty = 1.00
+	picture = KOR25
+	add_trait = engineer
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+75525 = {
+	name = "慶俊"
+	country = KOR
+	type = air
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = KOR26
+	add_trait = learners_will
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+75526 = {
+	name = "文証一"
+	country = KOR
+	type = land
+	skill = 0
+	max_skill = 4
+	loyalty = 1.00
+	picture = KOR27
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+75527 = {
+	name = "張正吉"
+	country = KOR
+	type = sea
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = KOR28
+	add_trait = learners_will
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+75528 = {
+	name = "韓週奭"
+	country = KOR
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = KOR29
+	add_trait = versatile
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+75529 = {
+	name = "金仁基"
+	country = KOR
+	type = land
+	skill = 0
+	max_skill = 4
+	loyalty = 1.00
+	picture = KOR30
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+75530 = {
+	name = "金相台"
+	country = KOR
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = KOR31
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+75531 = {
+	name = "車勤動"
+	country = KOR
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = KOR32
+	add_trait = landlubber
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+75532 = {
+	name = "崔布基"
+	country = KOR
+	type = land
+	skill = 1
+	max_skill = 7
+	loyalty = 1.00
+	picture = KOR33
+	add_trait = versatile
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+75533 = {
+	name = "韓慧智"
+	country = KOR
+	type = land
+	skill = 2
+	max_skill = 4
+	loyalty = 1.00
+	picture = KOR34
+	add_trait = marine
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+75534 = {
+	name = "金基順"
+	country = KOR
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = KOR35
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+75535 = {
+	name = "金命煥"
+	country = KOR
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = KOR36
+	add_trait = improvisation
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+75536 = {
+	name = "金宗利"
+	country = KOR
+	type = land
+	skill = 0
+	max_skill = 4
+	loyalty = 1.00
+	picture = KOR37
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+75537 = {
+	name = "李甲珍"
+	country = KOR
+	type = land
+	skill = 1
+	max_skill = 4
+	loyalty = 1.00
+	picture = KOR38
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+75538 = {
+	name = "李秀勇"
+	country = KOR
+	type = land
+	skill = 0
+	max_skill = 8
+	loyalty = 1.09
+	picture = KOR39
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+75539 = {
+	name = "李哲禹"
+	country = KOR
+	type = land
+	skill = 2
+	max_skill = 4
+	loyalty = 1.10
+	picture = KOR40
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+75540 = {
+	name = "林一柳"
+	country = KOR
+	type = land
+	skill = 2
+	max_skill = 5
+	loyalty = 1.11
+	picture = KOR41
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+75541 = {
+	name = "權相佑"
+	country = KOR
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = KOR42
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+75542 = {
+	name = "孫仇亮"
+	country = KOR
+	type = land
+	skill = 1 
+	max_skill = 3
+	loyalty = 1.00
+	picture = KOR43
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+75543 = {
+	name = "吳京衛"
+	country = KOR
+	type = land
+	skill = 1
+	max_skill = 4
+	loyalty = 1.00
+	picture = KOR44
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+75544 = {
+	name = "元開羅"
+	country = KOR
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = KOR45
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+75545 = {
+	name = "張泰羅"
+	country = KOR
+	type = land
+	skill = 0
+	max_skill = 6
+	loyalty = 1.00
+	picture = KOR46
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+75546 = {
+	name = "橘棟樑"
+	country = KOR
+	type = air
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = KOR47
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+75547 = {
+	name = "金世虎"
+	country = KOR
+	type = land
+	skill = 0
+	max_skill = 4
+	loyalty = 1.00
+	picture = KOR48
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+75548 = {
+	name = "金廣律"
+	country = KOR
+	type = land
+	skill = 0
+	max_skill = 6
+	loyalty = 1.00
+	picture = KOR49
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+75549 = {
+	name = "吉斗宣"
+	country = KOR
+	type = sea
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = KOR50
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+75550 = {
+	name = "胡南軍"
+	country = KOR
+	type = air
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = KOR51
+	add_trait = carpet_bomber
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+75551 = {
+	name = "葛城愛"
+	country = KOR
+	type = land
+	skill = 0
+	max_skill = 3
+	loyalty = 1.00
+	picture = KOR52
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+75552 = {
+	name = "東旭君"
+	country = KOR
+	type = sea
+	skill = 0
+	max_skill = 4
+	loyalty = 1.00
+	picture = KOR53
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+75553 = {
+	name = "崔西鎮"
+	country = KOR
+	type = sea
+	skill = 3
+	max_skill = 5
+	loyalty = 1.00
+	picture = KOR54
+	add_trait = superior_tactician
+	history = {
+		2000.1.1 = { rank = 1 }
+		2000.1.1 = { rank = 2 }
+	}
+}
+75554 = {
+	name = "曹文出"
+	country = KOR
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = KOR55
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}

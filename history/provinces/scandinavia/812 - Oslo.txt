@@ -1,0 +1,13 @@
+owner = NOR
+controller = NOR
+add_core = NOR
+
+energy = 7.00
+industry = 3
+infra = 8
+manpower = 0.6
+
+air_base = 7 #Oslo airport and Lillestrom airbase
+naval_base = 6 #Oslo port
+leadership = 2.50
+points = 1

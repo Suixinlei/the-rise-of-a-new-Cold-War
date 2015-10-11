@@ -1,0 +1,11 @@
+owner = BUR
+
+controller = BUR
+
+add_core = BUR
+
+manpower = 7.00
+infra = 6
+
+
+

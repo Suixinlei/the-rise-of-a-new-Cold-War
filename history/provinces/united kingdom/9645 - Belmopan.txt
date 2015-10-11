@@ -1,0 +1,9 @@
+owner = BLZ
+controller = BLZ
+add_core = BLZ
+add_core = GUA
+infra = 6
+manpower = 0.1
+air_base = 2 #Air wing base
+naval_base = 2 #Belize City port
+points = 1

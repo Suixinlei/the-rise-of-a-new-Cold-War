@@ -1,0 +1,10 @@
+owner = FRA
+controller = FRA
+add_core = FRA
+
+
+infra = 9
+
+air_base = 5#Orleans airbase
+points = 1
+industry = 5

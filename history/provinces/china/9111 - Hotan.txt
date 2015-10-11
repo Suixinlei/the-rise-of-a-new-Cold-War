@@ -1,0 +1,7 @@
+owner = CHC
+controller = CHC
+add_core = CHC
+ 
+infra = 2
+air_base = 2 #Hotan and Kashi airbase
+points = 1

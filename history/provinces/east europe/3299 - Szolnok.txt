@@ -1,0 +1,9 @@
+owner = HUN
+controller = HUN
+add_core = HUN
+
+infra = 8
+
+air_base = 4 #Szolnok and Kecskemet airbase
+leadership = 2.50
+points = 1

@@ -1,0 +1,40 @@
+theatre = {
+	name = "Oružane snage Bosne i Hercegovine"
+	location = 4174
+	regiment = { type = hq_brigade name = "Oružane snage Bosne i Hercegovine" historical_model = 1 }
+	corps = {
+		name = "Bosanski Kopnenih Snaga"
+		location = 4174
+		regiment = { type = hq_brigade name = "Bosanski Kopnenih Snaga" historical_model = 1 }
+		division = {
+			is_reserve = yes
+			name = "4. Pješacke Brigade"
+			location = 3981
+			regiment = { type = infantry_brigade name = "Bošnjak Pješacka Bojna" historical_model = 1 }
+			regiment = { type = infantry_brigade name = "Srpskih Pješacka Bojna" historical_model = 1 }
+			regiment = { type = mechanized_brigade name = "Hrvatskih Pješacka Bojna" historical_model = 0 }
+		}
+		division = {
+			is_reserve = yes
+			name = "5. Pješacke Brigade"
+			location = 3979
+			regiment = { type = infantry_brigade name = "Srpskih Pješacka Bojna" historical_model = 1 }
+			regiment = { type = infantry_brigade name = "Hrvatskih Pješacka Bojna" historical_model = 1 }
+			regiment = { type = mechanized_brigade name = "Bošnjak Pješacka Bojna" historical_model = 0 }
+		}
+		division = {
+			is_reserve = yes
+			name = "6. Pješacke Brigade"
+			location = 4172
+			regiment = { type = infantry_brigade name = "Hrvatskih Pješacka Bojna" historical_model = 1 }
+			regiment = { type = infantry_brigade name = "Bošnjak Pješacka Bojna" historical_model = 1 }
+			regiment = { type = mechanized_brigade name = "Srpskih Pješacka Bojna" historical_model = 0 }
+		}
+		division = {
+			is_reserve = yes
+			name = "Takticka Podrška Brigada"
+			location = 3981
+			regiment = { type = armor_brigade name = "Oklopni Bojna" historical_model = 0 }
+		}
+	}
+}

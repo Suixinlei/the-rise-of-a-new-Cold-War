@@ -1,0 +1,6 @@
+owner = KIR
+controller = KIR
+add_core = KIR
+infra = 2
+
+

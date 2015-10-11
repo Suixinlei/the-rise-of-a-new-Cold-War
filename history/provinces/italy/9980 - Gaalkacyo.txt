@@ -1,0 +1,6 @@
+owner = SOM
+controller = SOM
+add_core = SOM
+infra = 3
+air_base = 6 #Abdullah Yusuf airbase
+points = 1

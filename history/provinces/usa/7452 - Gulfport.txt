@@ -1,0 +1,7 @@
+owner = USA
+controller = USA
+add_core = USA
+infra = 8
+air_base = 2 #Keesler airbase
+naval_base = 5 #Gulfport port
+points = 1

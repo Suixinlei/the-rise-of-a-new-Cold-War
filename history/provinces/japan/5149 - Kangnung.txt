@@ -1,0 +1,12 @@
+owner = KOR
+
+controller = KOR
+
+add_core = KOR
+
+infra = 6
+air_base = 4 #Gangneung and Yecheon airbase
+naval_base = 4 #Gangneung port
+leadership = 1.00
+points = 1
+industry = 7

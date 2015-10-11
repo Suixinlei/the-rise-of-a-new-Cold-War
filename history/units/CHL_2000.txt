@@ -1,0 +1,218 @@
+theatre = {
+	name = "Fuerzas Armadas de Chile"
+	location = 10336
+	regiment = { type = hq_brigade name = "Fuerzas Armadas de Chile" historical_model = 2 }
+	army = {
+		name = "Ejército de Chile"
+		location = 10336
+		regiment = { type = hq_brigade name = "Ejército de Chile" historical_model = 2 }
+		corps = {
+			name = "1st Army Division"
+			location = 10251
+			regiment = { type = hq_brigade name = "1st Division HQ" historical_model = 2 }
+			division = {
+				is_reserve = yes
+				name = "1st Reinforced 'Topater' Regiment"
+				location = 10219
+				regiment = { type = mechanized_brigade name = "15th 'Calama' Infantry Battalion" historical_model = 0 }
+			}
+			division = {
+				is_reserve = yes
+				name = "20th Reinforced 'La Concepció' Regiment"
+				location = 10251
+				regiment = { type = mechanized_brigade name = "7th 'Esmeralda' Infantry Battalion" historical_model = 0 }
+				regiment = { type = armor_brigade name = "8th Armoured Group 'Exploradores'" historical_model = 0 }
+			}
+			division = {
+				is_reserve = yes
+				name = "23rd 'Copiapó' Infantry Regiment"
+				location = 10278
+				regiment = { type = mechanized_brigade name = "23rd 'Copiapo' Infantry Regiment" historical_model = 0 }
+			}
+		}
+		corps = {
+			name = "2nd Army Division"
+			location = 10336
+			regiment = { type = hq_brigade name = "2nd Division HQ" historical_model = 2 }
+			division = {
+				is_reserve = yes
+				name = "3rd Reinforced 'Yungay' Regiment"
+				location = 10336
+				regiment = { type = mountain_brigade name= "18th 'Guardia Vieja' Mountain Infantry Battalion" historical_model = 2 }
+			}
+			division = {
+				is_reserve = yes
+				name = "1st 'Buin' Infantry Regiment"
+				location = 10336
+				regiment = { type = mechanized_brigade name = "1st 'Buin' Infantry Regiment" historical_model = 0 }
+			}
+			division = {
+				is_reserve = yes
+				name = "2nd 'Maipo' Infantry Regiment"
+				location = 10336
+				regiment = { type = mechanized_brigade name = "2nd 'Maipo' Infantry Regiment" historical_model = 0 }
+			}
+			division = {
+				is_reserve = yes
+				name = "16th 'Talca' Infantry Regiment"
+				location = 10342
+				regiment = { type = mechanized_brigade name = "16th 'Talca' Infantry Regiment" historical_model = 0 }
+			}
+			division = {
+				is_reserve = yes
+				name = "19th 'Colchagua' Infantry Regiment"
+				location = 10336
+				regiment = { type = mechanized_brigade name = "19th 'Colchagua' Infantry Regiment" historical_model = 0 }
+			}
+			division = {
+				is_reserve = yes
+				name = "21st 'Coquimbo' Infantry Regiment"
+				location = 10304
+				regiment = { type = infantry_brigade name = "21st 'Coquimbo' Infantry Regiment" historical_model = 2 }
+			}
+		}
+		corps = {
+			name = "3rd Army Division"
+			location = 10371
+			regiment = { type = hq_brigade name = "3rd Division HQ" historical_model = 2 }
+			division = {
+				is_reserve = yes
+				name = "7th Reinforced 'Chacabuco' Regiment"
+				location = 10371
+				regiment = { type = mechanized_brigade name = "6th 'Chacabucoä Infantry Battalion" historical_model = 0 }
+			}
+			division = {
+				is_reserve = yes
+				name = "9th Reinforced 'Arauco' Regiment"
+				location = 10371
+				regiment = { type = infantry_brigade name = "13th 'Andalién' Mountain Infantry Battalion" historical_model = 0 }
+			}
+			division = {
+				is_reserve = yes
+				name = "17th Reinforced 'Los Ángeles' Regiment"
+				location = 10371
+				regiment = { type = infantry_brigade name = "Mountain Infantry Battalion" historical_model = 0 }
+			}
+			division = {
+				is_reserve = yes
+				name = "8th 'Tucapol' Infantry Regiment"
+				location = 10371
+				regiment = { type = mechanized_brigade name = "8th 'Tucapol' Infantry Regiment" historical_model = 0 }
+			}
+			division = {
+				is_reserve = yes
+				name = "9th 'Chilán' Infantry Regiment"
+				location = 10371
+				regiment = { type = mechanized_brigade name = "9th 'Chilán' Infantry Regiment" historical_model = 0 }
+			}
+			division = {
+				is_reserve = yes
+				name = "12th 'Sangra' Infantry Regiment"
+				location = 10371
+				regiment = { type = mechanized_brigade name = "12th 'Sangra' Infantry Regiment" historical_model = 0 }
+			}
+		}
+		corps = {
+			name = "4th Army Division"
+			location = 10460
+			regiment = { type = hq_brigade name = "4th Division HQ" historical_model = 2 }
+			division = {
+				is_reserve = yes
+				name = "14th Reinforced 'Aysén' Regiment"
+				location = 10460
+				regiment = { type = mechanized_brigade name = "Motorized Infantry Battalion" historical_model = 0 }
+			}
+		}
+		corps = {
+			name = "5th Army Division"
+			location = 10496
+			regiment = { type = hq_brigade name = "5th Division HQ" historical_model = 2 }
+			division = {
+				is_reserve = yes
+				name = "5th Reinforced 'Lanceros' Regiment"
+				location = 10371
+				regiment = { type = armor_brigade name = "Armored Cavalry Group 'Lanceros'" historical_model = 0 }
+			}
+			division = {
+				is_reserve = yes
+				name = "11th Reinforced 'Caupolicán' Regiment"
+				location = 10371
+				regiment = { type = infantry_brigade name = "'Caupolicán' Infantry Battalion" historical_model = 2 }
+			}
+			division = {
+				is_reserve = yes
+				name = "10th 'Pudeto' Infantry Regiment"
+				location = 10371
+				regiment = { type = infantry_brigade name = "10th 'Pudeto' Infantry Regiment" historical_model = 2 }
+			}
+		}
+		corps = {
+			name = "6th Army Division"
+			location = 10161
+			regiment = { type = hq_brigade name = "6th Division HQ" historical_model = 2 }
+			division = {
+				is_reserve = yes
+				name = "2nd Reinforced 'Cazadores' Regiment"
+				location = 10161
+				regiment = { type = mechanized_brigade name = "5th 'Carampangue' Infantry Battalion" historical_model = 0 }
+				regiment = { type = armor_brigade name = "7th Armored Cavalry Group 'Guías'" historical_model = 0 }
+			}
+			division = {
+				is_reserve = yes
+				name = "4th Reinforced 'Rancagua' Regiment"
+				location = 10161
+				regiment = { type = mechanized_brigade name = "Mechanized Battalion" historical_model = 0 }
+			}
+			division = {
+				is_reserve = yes
+				name = "6th Reinforced 'Matucana' Regiment"
+				location = 10161
+				regiment = { type = armor_brigade name = "9th Armored Cavalry Group 'Vencedores'" historical_model = 0 }
+			}
+			division = {
+				is_reserve = yes
+				name = "24th Reinforced 'Huamachuco' Regiment"
+				location = 10161
+				regiment = { type = mechanized_brigade name = "Motorized Infantry Battalion" historical_model = 0 }
+			}
+		}
+		division = {
+			is_reserve = yes
+			name = "Special Operations Brigade 'Lautaro'"
+			location = 10336
+			regiment = { type = special_forces_brigade name = "1st 'Pelantaru' Paratrooper Battalion" historical_model = 2 }
+		}
+	}
+	
+	air = {
+	name = "First Air Brigade"
+	base = 10197
+	location = 10197
+	wing = { type = multi_role name = "1st Aviation Group" historical_model = 0 }
+	wing = { type = multi_role name = "2nd Aviation Group" historical_model = 0 }
+	wing = { type = interceptor name = "3rd Aviation Group" historical_model = 0 }
+	}
+	
+	air = {
+	name = "Second Air Brigade"
+	base = 10336
+	location = 10336
+	wing = { type = transport_plane name = "9th Aviation Group" historical_model = 0 }
+	}
+	
+	navy = {
+	name = "Chilean Navy"
+	base = 10336
+	location = 10336
+	ship = { type = patrol_boat name = "Teniente Uribe" historical_model = 0 }
+	ship = { type = patrol_boat name = "Teniente Orella" historical_model = 0 }
+	ship = { type = patrol_boat name = "Teniente Serrano" historical_model = 0 }
+	ship = { type = patrol_boat name = "Chipana" historical_model = 0 }
+	ship = { type = patrol_boat name = "Casma" historical_model = 0 }
+	ship = { type = patrol_boat name = "Angamos" historical_model = 0 }
+	ship = { type = transport_ship name = "Aquiles" historical_model = 0 }
+	ship = { type = transport_ship name = "Rancagua" historical_model = 0 }
+	ship = { type = transport_ship name = "Chacaburo" historical_model = 0 }
+	}
+	
+}

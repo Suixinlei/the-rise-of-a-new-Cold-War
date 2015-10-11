@@ -1,0 +1,34 @@
+capital = 2223
+government = republic
+ideology = social_liberal
+alignment = { x = 20 y = 50.0 }
+neutrality = 80
+national_unity = 70
+
+popularity = { 
+	national_socialist = 0
+	fascistic = 12
+	paternal_autocrat = 0
+	social_conservative = 0
+	market_liberal = 8
+	social_liberal = 25
+	social_democrat = 7
+	left_wing_radical = 3
+	leninist = 7
+	stalinist = 21
+}
+
+organization = { 
+	national_socialist = 0
+	fascistic = 36
+	paternal_autocrat = 0
+	social_conservative = 0
+	market_liberal = 24
+	social_liberal = 75
+	social_democrat = 21
+	left_wing_radical = 9
+	leninist = 21
+	stalinist = 63
+}
+
+service_length = six_months

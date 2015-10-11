@@ -1,0 +1,9 @@
+owner = IND
+controller = IND
+add_core = IND
+infra = 4
+
+air_base = 5 #INS Garuda and Kochi airport and Sulur airbase
+naval_base = 7 #Kochi port
+leadership = 2.00
+points = 1

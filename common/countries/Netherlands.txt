@@ -1,0 +1,148 @@
+color = { 203  138  74 }
+graphical_culture = Generic
+
+last_election = 2002.5.15
+duration = 48
+
+default_templates = {
+	generic_infantry = {
+		infantry_brigade
+		infantry_brigade
+		infantry_brigade
+	}
+	generic_milita = {
+		militia_brigade
+		militia_brigade
+		militia_brigade
+	}
+	generic_armoured = {
+		armor_brigade
+		motorized_brigade
+		motorized_brigade
+	}
+	generic_cavalry = {
+		cavalry_brigade
+		cavalry_brigade
+	}
+}
+
+unit_names = {
+	infantry_brigade = {
+		"1e Divisie" "2e Divisie" "3e Divisie" "4e Divisie" "5e Divisie" "6e Divisie" "7e Divisie" "8e Divisie" "Ie Divisie Java" "IIe Divisie Java" "IIIe Divisie Java" 
+		"Peel Divisie" "9e Divisie" "10e Divisie" "11e Divisie" "12e Divisie" "13e Divisie" "14e Divisie" "15e Divisie" "16e Divisie" "IVe Divisie Java" "Ve Divisie Java" 
+		"VIe Divisie Java" "VIIe Divisie Java" "17e Divisie" "18e Divisie" "19e Divisie" "20e Divisie" "21e Divisie" "22e Divisie" "23e Divisie" "24e Divisie" "VIIIe Divisie Java" 
+		"IXe Divisie Java" "Xe Divisie Java" "25e Divisie" "26e Divisie" "27e Divisie" "28e Divisie" "29e Divisie" "30e Divisie" 
+	}
+	cavalry_brigade = {
+		"1e Huzaren te Paard" "2e Huzaren te Paard" "3e Huzaren te Paard" "4e Huzaren te Paard" "5e Huzaren te Paard" "6e Huzaren te Paard" "7e Huzaren te Paard" "8e Huzaren te Paard" "9e Huzaren te Paard" "10e Huzaren te Paard" 
+	}
+	motorized_brigade = {
+		"1e Gemotoriseerde Huzaren" "2e Gemotoriseerde Huzaren" "3e Gemotoriseerde Huzaren" "4e Gemotoriseerde Huzaren" "5e Gemotoriseerde Huzaren" "6e Gemotoriseerde Huzaren" "7e Gemotoriseerde Huzaren" "8e Gemotoriseerde Huzaren" "9e Gemotoriseerde Huzaren" "10e Gemotoriseerde Huzaren" "11e Gemotoriseerde Huzaren" 
+		"12e Gemotoriseerde Huzaren" "13e Gemotoriseerde Huzaren" "14e Gemotoriseerde Huzaren" "15e Gemotoriseerde Huzaren" "16e Gemotoriseerde Huzaren" "17e Gemotoriseerde Huzaren" "18e Gemotoriseerde Huzaren" "19e Gemotoriseerde Huzaren" "20e Gemotoriseerde Huzaren" 
+	}
+	mechanized_brigade = {
+		"1e Lichte Divisie" "2e Lichte Divisie" "3e Lichte Divisie" "4e Lichte Divisie" "5e Lichte Divisie" "6e Lichte Divisie" "7e Lichte Divisie" "8e Lichte Divisie" "9e Lichte Divisie" "10e Lichte Divisie" "11e Lichte Divisie" 
+		"12e Lichte Divisie" "13e Lichte Divisie" "14e Lichte Divisie" "15e Lichte Divisie" "16e Lichte Divisie" "17e Lichte Divisie" "18e Lichte Divisie" "19e Lichte Divisie" "20e Lichte Divisie" 
+	}
+	light_armor_brigade = {
+		"1e Pantserdivisie" "2e Pantserdivisie" "3e Pantserdivisie" "4e Pantserdivisie" "5e Pantserdivisie" "6e Pantserdivisie" "7e Pantserdivisie" "8e Pantserdivisie" "9e Pantserdivisie" "10e Pantserdivisie" "11e Pantserdivisie" 
+		"12e Pantserdivisie" "13e Pantserdivisie" "14e Pantserdivisie" "15e Pantserdivisie" 
+	}
+	armor_brigade = {
+		"1e Pantserdivisie" "2e Pantserdivisie" "3e Pantserdivisie" "4e Pantserdivisie" "5e Pantserdivisie" "6e Pantserdivisie" "7e Pantserdivisie" "8e Pantserdivisie" "9e Pantserdivisie" "10e Pantserdivisie" "11e Pantserdivisie" 
+		"12e Pantserdivisie" "13e Pantserdivisie" "14e Pantserdivisie" "15e Pantserdivisie" 
+	}
+	paratrooper_brigade = {
+		"1e Parachutistendivisie" "2e Parachutistendivisie" "3e Parachutistendivisie" "4e Parachutistendivisie" "5e Parachutistendivisie" "6e Parachutistendivisie" "7e Parachutistendivisie" "8e Parachutistendivisie" "9e Parachutistendivisie" "10e Parachutistendivisie" 
+	}
+	marine_brigade = {
+		"1e Mariniersdivisie 'Zwarte Duivels'" "2e Mariniersdivisie" "3e Mariniersdivisie" "4e Mariniersdivisie" "5e Mariniersdivisie" "6e Mariniersdivisie" "7e Mariniersdivisie" "8e Mariniersdivisie" "9e Mariniersdivisie" "10e Mariniersdivisie" "11e Mariniersdivisie" 
+		"12e Mariniersdivisie" "13e Mariniersdivisie" "14e Mariniersdivisie" "15e Mariniersdivisie" "16e Mariniersdivisie" "17e Mariniersdivisie" "18e Mariniersdivisie" "19e Mariniersdivisie" "20e Mariniersdivisie" 
+	}
+	bergsjaeger_brigade = {
+		"1e Jagerdivisie" "2e Jagerdivisie" "3e Jagerdivisie" "4e Jagerdivisie" "5e Jagerdivisie" "6e Jagerdivisie" "7e Jagerdivisie" "8e Jagerdivisie" "9e Jagerdivisie" "10e Jagerdivisie" 
+	}
+	garrison_brigade = {
+		"1e Divisie" "2e Divisie" "3e Divisie" "4e Divisie" "5e Divisie" "6e Divisie" "7e Divisie" "8e Divisie" "9e Divisie" "10e Divisie" "11e Divisie" 
+		"12e Divisie" "13e Divisie" "14e Divisie" "15e Divisie" "16e Divisie" "17e Divisie" "18e Divisie" "19e Divisie" "20e Divisie" "21e Divisie" "22e Divisie" 
+		"23e Divisie" "24e Divisie" "25e Divisie" "26e Divisie" "27e Divisie" "28e Divisie" "29e Divisie" "30e Divisie" 
+	}
+	hq_brigade = {
+		"1e Veldleger" "2e Veldleger" "O.L.Z." "3e Veldleger" "4e Veldleger" 
+	}
+	militia_brigade = {
+		"Territoriaal Bevel Friesland" "Territoriaal Bevel Overijssel" "Territoriaal Bevel Noord-Brabant" "Territoriaal Bevel Limburg" "Commando Zeeland" "Stelling Den Helder" "1e Militiedivisie" "2e Militiedivisie" "3e Militiedivisie" "4e Militiedivisie" "5e Militiedivisie" 
+		"6e Militiedivisie" "7e Militiedivisie" "8e Militiedivisie" "9e Militiedivisie" "10e Militiedivisie" "11e Militiedivisie" "12e Militiedivisie" "13e Militiedivisie" "14e Militiedivisie" "15e Militiedivisie" "16e Militiedivisie" 
+		"17e Militiedivisie" "18e Militiedivisie" "19e Militiedivisie" "20e Militiedivisie" 
+	}
+	multi_role = {
+		"1e Jachtvliegtuiggroep" "2e Jachtvliegtuiggroep" "3e Jachtvliegtuiggroep" "4e Jachtvliegtuiggroep" "5e Jachtvliegtuiggroep" "6e Jachtvliegtuiggroep" "7e Jachtvliegtuiggroep" "8e Jachtvliegtuiggroep" "9e Jachtvliegtuiggroep" "10e Jachtvliegtuiggroep" "11e Jachtvliegtuiggroep" 
+		"12e Jachtvliegtuiggroep" "13e Jachtvliegtuiggroep" "14e Jachtvliegtuiggroep" "15e Jachtvliegtuiggroep" "16e Jachtvliegtuiggroep" "17e Jachtvliegtuiggroep" "18e Jachtvliegtuiggroep" "19e Jachtvliegtuiggroep" "20e Jachtvliegtuiggroep" 
+	}
+	interceptor = {
+		"1e Jachtvliegtuiggroep" "2e Jachtvliegtuiggroep" "3e Jachtvliegtuiggroep" "4e Jachtvliegtuiggroep" "5e Jachtvliegtuiggroep" "6e Jachtvliegtuiggroep" "7e Jachtvliegtuiggroep" "8e Jachtvliegtuiggroep" "9e Jachtvliegtuiggroep" "10e Jachtvliegtuiggroep" "11e Jachtvliegtuiggroep" 
+		"12e Jachtvliegtuiggroep" "13e Jachtvliegtuiggroep" "14e Jachtvliegtuiggroep" "15e Jachtvliegtuiggroep" "16e Jachtvliegtuiggroep" "17e Jachtvliegtuiggroep" "18e Jachtvliegtuiggroep" "19e Jachtvliegtuiggroep" "20e Jachtvliegtuiggroep" 
+	}
+	strategic_bomber = {
+		"1e Zware Bommenwerpergroep" "2e Zware Bommenwerpergroep" "3e Zware Bommenwerpergroep" "4e Zware Bommenwerpergroep" "5e Zware Bommenwerpergroep" "6e Zware Bommenwerpergroep" "7e Zware Bommenwerpergroep" "8e Zware Bommenwerpergroep" "9e Zware Bommenwerpergroep" "10e Zware Bommenwerpergroep" "11e Zware Bommenwerpergroep" 
+		"12e Zware Bommenwerpergroep" "13e Zware Bommenwerpergroep" "14e Zware Bommenwerpergroep" "15e Zware Bommenwerpergroep" "16e Zware Bommenwerpergroep" "17e Zware Bommenwerpergroep" "18e Zware Bommenwerpergroep" "19e Zware Bommenwerpergroep" "20e Zware Bommenwerpergroep" 
+	}
+	tactical_bomber = {
+		"1e Lichte Bommenwerpergroep" "2e Lichte Bommenwerpergroep" "3e Lichte Bommenwerpergroep" "4e Lichte Bommenwerpergroep" "5e Lichte Bommenwerpergroep" "6e Lichte Bommenwerpergroep" "7e Lichte Bommenwerpergroep" "8e Lichte Bommenwerpergroep" "9e Lichte Bommenwerpergroep" "10e Lichte Bommenwerpergroep" "11e Lichte Bommenwerpergroep" 
+		"12e Lichte Bommenwerpergroep" "13e Lichte Bommenwerpergroep" "14e Lichte Bommenwerpergroep" "15e Lichte Bommenwerpergroep" "16e Lichte Bommenwerpergroep" "17e Lichte Bommenwerpergroep" "18e Lichte Bommenwerpergroep" "19e Tac. Bommenwerpergroep" "20e Tac. Bommenwerpergroep" 
+	}
+	naval_bomber = {
+		"1e Marine-Bommenwerpergroep" "2e Marine-Bommenwerpergroep" "3e Marine-Bommenwerpergroep" "4e Marine-Bommenwerpergroep" "5e Marine-Bommenwerpergroep" "6e Marine-Bommenwerpergroep" "7e Marine-Bommenwerpergroep" "8e Marine-Bommenwerpergroep" "9e Marine-Bommenwerpergroep" "10e Marine-Bommenwerpergroep" "11e Marine-Bommenwerpergroep" 
+		"12e Marine-Bommenwerpergroep" "13e Marine-Bommenwerpergroep" "14e Marine-Bommenwerpergroep" "15e Marine-Bommenwerpergroep" "16e Marine-Bommenwerpergroep" "17e Marine-Bommenwerpergroep" "18e Marine-Bommenwerpergroep" "19e Marine-Bommenwerpergroep" "20e Marine-Bommenwerpergroep" "1e Marine-Torpedobommenwerpergroep" "2e Marine-Torpedobommenwerpergroep" 
+		"3e Marine-Torpedobommenwerpergroep" "4e Marine-Torpedobommenwerpergroep" "5e Marine-Torpedobommenwerpergroep" "6e Marine-Torpedobommenwerpergroep" "7e Marine-Torpedobommenwerpergroep" "8e Marine-Torpedobommenwerpergroep" "9e Marine-Torpedobommenwerpergroep" "10e Marine-Torpedobommenwerpergroep" "11e Marine-Torpedobommenwerpergroep" "12e Marine-Torpedobommenwerpergroep" "13e Marine-Torpedobommenwerpergroep" 
+		"14e Marine-Torpedobommenwerpergroep" "15e Marine-Torpedobommenwerpergroep" "16e Marine-Torpedobommenwerpergroep" "17e Marine-Torpedobommenwerpergroep" "18e Marine-Torpedobommenwerpergroep" "19e Marine-Torpedobommenwerpergroep" "20e Marine-Torpedobommenwerpergroep" 
+	}
+	cas = {
+		"1e Duikbommenwerpergroep" "2e Duikbommenwerpergroep" "3e Duikbommenwerpergroep" "4e Duikbommenwerpergroep" "5e Duikbommenwerpergroep" "6e Duikbommenwerpergroep" "7e Duikbommenwerpergroep" "8e Duikbommenwerpergroep" "9e Duikbommenwerpergroep" "10e Duikbommenwerpergroep" "11e Duikbommenwerpergroep" 
+		"12e Duikbommenwerpergroep" "13e Duikbommenwerpergroep" "14e Duikbommenwerpergroep" "15e Duikbommenwerpergroep" "16e Duikbommenwerpergroep" "17e Duikbommenwerpergroep" "18e Duikbommenwerpergroep" "19e Duikbommenwerpergroep" "20e Duikbommenwerpergroep" 
+	}
+	transport_plane = {
+		"1e Transportvliegtuiggroep" "2e Transportvliegtuiggroep" "3e Transportvliegtuiggroep" "4e Transportvliegtuiggroep" "5e Transportvliegtuiggroep" "6e Transportvliegtuiggroep" "7e Transportvliegtuiggroep" "8e Transportvliegtuiggroep" "9e Transportvliegtuiggroep" "10e Transportvliegtuiggroep" 
+	}
+	battleship = {
+		"HrMs Reinier Claeszen" "HrMs Evertsen" "HrMs Piet Hein" "HrMs Kortenaer" "HrMs Koningin Regentes" "HrMs Hertog Hendrik" "HrMs Van Speijk" "HrMs Witte de With" 
+	}
+	light_cruiser = {
+		"HrMs Tromp" "HrMs Jacob van Heemskerck" "HrMs Holland" "HrMs De Ruyter" "HrMs Zeeland" "HrMs Friesland" "HrMs Gelderland" "HrMs Noord-Brabant" "HrMs Utrecht" "HrMs Drenthe" "HrMs Brabant" 
+		"HrMs Limburg" 
+	}
+	heavy_cruiser = {
+		"HrMs De Zeven Provinciën" "HrMs Eendracht" "HrMs Java" "HrMs Sumatra" "HrMs Celebes" "HrMs Soerabaja" "HrMs Batjan" "HrMs Ceram" "HrMs Ambon" "HrMs Banda" "HrMs Ternate" 
+		"HrMs Boeroe" "HrMs Morotai" "HrMs Tidore" 
+	}
+	battlecruiser = {
+		"HrMs Van Speijk" "HrMs Witte de With" "HrMs Piet Hein" "HrMs Kortenaer" "HrMs Koningin Regentes" "HrMs Hertog Hendrik" 
+	}
+	destroyer = {
+		"1e Torpedobootjagersmaldeel" "2e Torpedobootjagersmaldeel" "3e Torpedobootjagersmaldeel" "4e Torpedobootjagersmaldeel" "5e Torpedobootjagersmaldeel" "6e Torpedobootjagersmaldeel" "7e Torpedobootjagersmaldeel" "8e Torpedobootjagersmaldeel" "9e Torpedobootjagersmaldeel" "10e Torpedobootjagersmaldeel" "11e Torpedobootjagersmaldeel" 
+		"12e Torpedobootjagersmaldeel" "13e Torpedobootjagersmaldeel" "14e Torpedobootjagersmaldeel" "15e Torpedobootjagersmaldeel" "16e Torpedobootjagersmaldeel" "17e Torpedobootjagersmaldeel" "18e Torpedobootjagersmaldeel" "19e Torpedobootjagersmaldeel" "20e Torpedobootjagersmaldeel" "21e Torpedobootjagersmaldeel" "22e Torpedobootjagersmaldeel" 
+		"23e Torpedobootjagersmaldeel" "24e Torpedobootjagersmaldeel" "25e Torpedobootjagersmaldeel" "26e Torpedobootjagersmaldeel" "27e Torpedobootjagersmaldeel" "28e Torpedobootjagersmaldeel" "29e Torpedobootjagersmaldeel" "30e Torpedobootjagersmaldeel" 
+	}
+	carrier = {
+		"HrMs Karel Doorman" "HrMs De Zeven Provinciën" "HrMs De Ruyter" "HrMs Tromp" "HrMs Piet Hein" 
+	}
+	escort_carrier = {
+		"HrMs Karel Doorman" "HrMs De Zeven Provinciën" "HrMs De Ruyter" "HrMs Tromp" "HrMs Piet Hein" 
+	}
+	submarine = {
+		"1e Onderzeebootsmaldeel" "2e Onderzeebootsmaldeel" "3e Onderzeebootsmaldeel" "4e Onderzeebootsmaldeel" "5e Onderzeebootsmaldeel" "6e Onderzeebootsmaldeel" "7e Onderzeebootsmaldeel" "8e Onderzeebootsmaldeel" "9e Onderzeebootsmaldeel" "10e Onderzeebootsmaldeel" "11e Onderzeebootsmaldeel" 
+		"12e Onderzeebootsmaldeel" "13e Onderzeebootsmaldeel" "14e Onderzeebootsmaldeel" "15e Onderzeebootsmaldeel" "16e Onderzeebootsmaldeel" "17e Onderzeebootsmaldeel" "18e Onderzeebootsmaldeel" "19e Onderzeebootsmaldeel" "20e Onderzeebootsmaldeel" "21e Onderzeebootsmaldeel" "22e Onderzeebootsmaldeel" 
+		"23e Onderzeebootsmaldeel" "24e Onderzeebootsmaldeel" "25e Onderzeebootsmaldeel" "26e Onderzeebootsmaldeel" "27e Onderzeebootsmaldeel" "28e Onderzeebootsmaldeel" "29e Onderzeebootsmaldeel" "30e Onderzeebootsmaldeel" 
+	}
+	transport_ship = {
+		"1e Transportsmaldeel" "2e Transportsmaldeel" "3e Transportsmaldeel" "4e Transportsmaldeel" "5e Transportsmaldeel" "6e Transportsmaldeel" "7e Transportsmaldeel" "8e Transportsmaldeel" "9e Transportsmaldeel" "10e Transportsmaldeel" "11e Transportsmaldeel" 
+		"12e Transportsmaldeel" "13e Transportsmaldeel" "14e Transportsmaldeel" "15e Transportsmaldeel" "16e Transportsmaldeel" "17e Transportsmaldeel" "18e Transportsmaldeel" "19e Transportsmaldeel" "20e Transportsmaldeel" "21e Transportsmaldeel" "22e Transportsmaldeel" 
+		"23e Transportsmaldeel" "24e Transportsmaldeel" "25e Transportsmaldeel" "26e Transportsmaldeel" "27e Transportsmaldeel" "28e Transportsmaldeel" "29e Transportsmaldeel" "30e Transportsmaldeel" 
+	}
+
+}
+
+ministers = {
+	
+}
+

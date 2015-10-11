@@ -1,0 +1,11 @@
+owner = GRE
+controller = GRE
+add_core = GRE
+manpower = 0.5
+infra = 8
+
+air_base = 4 #Araxos and Tripolis airbase 
+naval_base = 3 #Patras port
+leadership = 2.50
+points = 1
+industry = 2

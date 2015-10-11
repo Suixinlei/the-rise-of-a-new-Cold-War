@@ -1,0 +1,5 @@
+owner = BRA
+controller = BRA
+add_core = BRA
+metal = 96.7
+infra = 2

@@ -1,0 +1,10 @@
+owner = USA
+controller = USA
+add_core = USA
+infra = 8
+industry = 5
+manpower = 10.00
+energy = 29.00
+air_base = 10 #Chicago airport
+leadership = 2.00
+points = 1

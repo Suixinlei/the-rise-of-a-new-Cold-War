@@ -1,0 +1,17 @@
+bookmark =
+{
+	is_cgm = yes
+	cgm_folder = "RoadToWar"
+
+	icon = "GFX_bg_startdate_1936"
+	name = "ROAD_TO_WAR_NAME"
+	desc = "ROAD_TO_WAR_DESC"
+	date = 2008.1.1
+
+	
+	country = CHC
+	country = SOV
+	country = USA
+	country = FRA
+	country = CHI
+}

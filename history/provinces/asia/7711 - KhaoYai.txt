@@ -1,0 +1,8 @@
+owner = SIA
+controller = SIA
+add_core = SIA
+energy = 5.00
+infra = 6
+
+air_base = 3 #Korat Royal Thai Air Force base
+points = 1

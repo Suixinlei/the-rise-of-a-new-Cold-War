@@ -1,0 +1,6 @@
+owner = ENG
+controller = ENG
+add_core = ENG
+infra = 9
+
+air_base = 9 #RAF Cranwell and Barkston Heath

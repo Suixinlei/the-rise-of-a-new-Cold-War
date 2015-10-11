@@ -1,0 +1,342 @@
+color = { 211  125  198 }
+graphical_culture = Generic
+last_election = 1999.10.10
+duration = 60
+
+default_templates = {
+	generic_infantry = {
+		infantry_brigade
+		infantry_brigade
+		infantry_brigade
+	}
+	generic_milita = {
+		militia_brigade
+		militia_brigade
+		militia_brigade
+	}
+	generic_armoured = {
+		armor_brigade
+		motorized_brigade
+		motorized_brigade
+	}
+	generic_cavalry = {
+		cavalry_brigade
+		cavalry_brigade
+	}
+}
+
+
+
+
+unit_names = {
+	battleship = {
+		"Qazaqstan" "Astana" 
+	}
+	light_cruiser = {
+		"Bars" "Jambyl" "Aibar" "Byrkit" "Abai" 
+	}
+	heavy_cruiser = {
+		"Almaty" "Taraz" "Aybar" "Egemen" "Sunkar" 
+	}
+		
+	submarine = {
+		"1ya Flotiliya Podlodok Qazaqstana" "2ya Flotiliya Podlodok Qazaqstana" "3ya Flotiliya Podlodok Qazaqstana" "4ya Flotiliya Podlodok Qazaqstana" "5ya Flotiliya Podlodok Qazaqstana" 
+	}
+	transport_ship = {
+		"1ya Transportnaya Flotiliya" "2ya Transportnaya Flotiliya" "3ya Transportnaya Flotiliya"
+	}
+
+}
+
+ministers = {
+	41501 = {
+		name = "Nursultan Nazarbayev"
+		ideology = paternal_autocrat
+		loyalty = 0.25
+		picture = elbasy
+		head_of_state = autocratic_charmer
+		start_date = 1991.1.1
+	}
+	41502 = {
+		name = "Danial Akhmetov"
+		ideology = paternal_autocrat
+		loyalty = 0.25
+		picture = ahmetov
+		head_of_government = silent_workhorse
+				start_date = 2000.1.1
+	}
+	41503 = {
+		name = "Tokaev K."
+		ideology = paternal_autocrat
+		loyalty = 1.00
+		picture = tokaev
+		foreign_minister = biased_intellectual
+		start_date = 2000.1.1
+	}
+	41504 = {
+		name = "Altynbaev M.K."
+		ideology = paternal_autocrat
+		loyalty = 0.75
+		picture = altynbaev
+		chief_of_army = elastic_defence_doctrine
+		chief_of_staff = school_of_defence
+		start_date = 2000.1.1
+	}
+	41505 = {
+		name = "Kairbek Suleimenov"
+		ideology = paternal_autocrat
+		loyalty = 0.50
+		picture = suleimenov
+		minister_of_security = silent_lawyer
+		start_date = 2000.1.1
+	}
+	41506 = {
+		name = "Nartai Dutbayev"
+		ideology = paternal_autocrat
+		loyalty = 0.75
+		picture = dutbaev
+		minister_of_intelligence = political_specialist
+		start_date = 2000.1.1
+	}
+	41507 = {
+		name = "Bulat Darbekov"
+		ideology = paternal_autocrat
+		loyalty = 0.50
+		picture = darbekov
+		chief_of_staff = school_of_mass_combat
+		start_date = 2000.1.1
+	}
+	41508 = {
+		name = "Bulat Djanasaev"
+		ideology = paternal_autocrat
+		loyalty = 0.75
+		picture = djansaev
+		chief_of_army = decisive_battle_doctrine
+		chief_of_staff = school_of_manoeuvre
+		start_date = 2005.1.1
+	}
+	41509 = {
+		name = "Ratmir Komratov"
+		ideology = paternal_autocrat
+		loyalty = 0.75
+		picture = ratmir
+		chief_of_navy = open_seas_doctrine
+		start_date = 2000.1.1
+	}
+	41510 = {
+		name = "Kopen Akhmadiev"
+		ideology = paternal_autocrat
+		loyalty = 0.75
+		picture = akhmadiev
+		chief_of_air = air_superiority_doctrine
+		start_date = 2000.1.1
+	}
+	41511 = {
+		name = "Rakhat Aliev"
+		ideology = fascistic
+		loyalty = 0.50
+		picture = rakhat
+		minister_of_security = prince_of_terror
+		head_of_state = ruthless_powermonger
+		start_date = 2000.1.1
+	}
+	41512 = {
+		name = "Alnur Musaev"
+		ideology = fascistic
+		loyalty = 1.00
+		picture = musaev
+		head_of_government = backroom_backstabber
+		minister_of_intelligence = political_specialist
+		start_date = 2000.1.1
+	}
+	41513 = {
+		name = "Vladislav Kosarev"
+		ideology = leninist
+		loyalty = 1.00
+		picture = kosarev
+		head_of_state = benevolent_gentleman
+		start_date = 2000.1.1
+	}
+	41514 = {
+		name = "Kairat Satybaldy"
+		ideology = national_socialist
+		loyalty = 1.00
+		picture = satybaldy
+		head_of_state = ruthless_powermonger
+		armament_minister = corrupt_kleptocrat
+		start_date = 2000.1.1
+	}
+	41515 = {
+		name = "Zharmakhan Tuyakbai"
+		ideology = social_democrat
+		loyalty = 1.00
+		picture = tuyakbai
+		head_of_state = benevolent_gentleman
+		start_date = 2000.1.1
+	}
+	41516 = {
+		name = "Oraz Zhandosov"
+		ideology = social_democrat
+		loyalty = 1.00
+		picture = oraz
+		head_of_government = naive_optimist
+		minister_of_security = compassionate_gentleman
+		start_date = 2000.1.1
+	}
+	41517 = {
+		name = "Hussein Ibn-Usman"
+		ideology = national_socialist
+		loyalty = 1.00
+		picture = aslbek
+		head_of_government = backroom_backstabber
+		minister_of_security = prince_of_terror
+		minister_of_intelligence = technical_specialist
+		start_date = 2000.1.1
+	}
+	41518 = {
+		name = "Shabdarbaev A."
+		ideology = paternal_autocrat
+		loyalty = 1.00
+		picture = shabd
+		minister_of_intelligence = dismal_enigma
+		start_date = 2005.1.1
+	}
+	41519 = {
+		name = "Zhambyl Ahmetbekov"
+		ideology = leninist
+		loyalty = 1.00
+		picture = kazlen2
+		head_of_government = naive_optimist
+		minister_of_security = man_of_the_people
+		minister_of_intelligence = research_specialist
+		start_date = 2000.1.1
+	}
+	41520 = {
+		name = "Erlan Idrisov"
+		ideology = paternal_autocrat
+		loyalty = 1.00
+		picture = idrisov
+		foreign_minister = the_cloak_n_dagger_schemer
+		start_date = 2005.1.1
+	}
+	41521 = {
+		name = "Kalmukhanbet Kasymov"
+		ideology = paternal_autocrat
+		loyalty = 0.50
+		picture = kalmuh
+		minister_of_security = back_stabber
+		start_date = 2005.1.1
+	}
+	41522 = {
+		name = "Gaziz Aldamjarov"
+		ideology = leninist
+		loyalty = 1.00
+		picture = gaziz
+		foreign_minister = the_cloak_n_dagger_schemer
+		armament_minister = resource_industrialist
+		start_date = 2005.1.1
+	}
+	41523 = {
+		name = "Zhanzakov J."
+		ideology = paternal_autocrat
+		loyalty = 0.75
+		picture = zhanzakov
+		chief_of_navy = decisive_naval_battle_doctrine
+		start_date = 2005.1.1
+	}
+	41524 = {
+		name = "Bulat Abilov"
+		ideology = social_liberal
+		loyalty = 1.00
+		picture = abilov
+		head_of_state = weary_stiff_neck
+		head_of_government = flamboyant_tough_guy
+		start_date = 2000.1.1
+	}
+	41525 = {
+		name = "Gani Kasymov"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = kazkasym
+		chief_of_army = guns_and_butter_doctrine
+		head_of_state = resigned_generalissimo
+		start_date = 2000.1.1
+	}
+	41526 = {
+		name = "Murat Telibekov"
+		ideology = national_socialist
+		loyalty = 1.00
+		picture = telibekov
+		foreign_minister = great_compromiser
+		start_date = 2000.1.1
+	}
+	41527 = {
+		name = "Kanat Saudabaev"
+		ideology = social_democrat
+		loyalty = 1.00
+		picture = saudabaev
+		foreign_minister = the_cloak_n_dagger_schemer
+		start_date = 2000.1.1
+	}	
+	41528 = {
+		name = "Alikhan Baimenov"
+		ideology = social_liberal
+		loyalty = 1.00
+		picture = baimenov
+		head_of_government = flamboyant_tough_guy
+		armament_minister = resource_industrialist
+		start_date = 2000.1.1
+	}
+	41529 = {
+		name = "Marat Tajin"
+		ideology = paternal_autocrat
+		loyalty = 1.00
+		picture = tajin
+		foreign_minister = ideological_crusader
+		minister_of_intelligence = dismal_enigma
+		start_date = 2005.1.1
+	}
+	41530 = {
+		name = "Mels Eleusizov"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = mels
+		head_of_government = silent_workhorse
+		foreign_minister = iron_fisted_brute
+		start_date = 2000.1.1
+	}
+	41531 = {
+		name = "Abai Tasbulatov"
+		ideology = social_democrat
+		loyalty = 0.75
+		picture = KZ04
+		armament_minister = infantry_proponent
+		chief_of_army = decisive_battle_doctrine
+		chief_of_staff = school_of_manoeuvre
+		start_date = 2000.1.1
+	}
+	41532 = {
+		name = "Adilbek Jaksybekov"
+		ideology = paternal_autocrat
+		loyalty = 0.25
+		picture = jaksybekov
+		armament_minister = corrupt_kleptocrat
+				start_date = 2000.1.1
+	}
+	41533 = {
+		name = "Vladimir Shkolnik"
+		ideology = paternal_autocrat
+		loyalty = 0.25
+		picture = shkolnik
+		armament_minister = resource_industrialist
+				start_date = 2007.1.1
+	}
+	41534 = {
+		name = "Toktar Aubakirov"
+		ideology = social_democrat
+		loyalty = 0.75
+		picture = aubakirov
+		chief_of_air = army_aviation_doctrine
+		start_date = 2000.1.1
+	}
+}

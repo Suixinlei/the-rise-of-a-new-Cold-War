@@ -1,0 +1,91 @@
+theatre = {
+	name = "al-Quwat ul-Musalhatu as-Sultan ‘Uman"
+	location = 9598
+	regiment = { type = hq_brigade name = "al-Quwat ul-Musalhatu as-Sultan ‘Uman" historical_model = 0 }
+	army = {
+		name = "Royal Army of Oman"
+		location = 9598
+		regiment = { type = hq_brigade name = "Royal Army HQ" historical_model = 0 }
+		corps = {
+			name = "Northern Brigade"
+			location = 9598
+			regiment = { type = hq_brigade name = "Northern Brigade HQ" historical_model = 0 }
+			division = {
+				is_reserve = yes
+				name = "1st/2nd Armoured Regiments"
+				location = 9636
+				regiment = { type = armor_brigade name = "1st Armoured Battalion" historical_model = 0 }
+				regiment = { type = armor_brigade name = "2nd Armoured Battalion" historical_model = 0 }
+			}
+			division = {
+				is_reserve = yes
+				name = "3rd Mechanized Regiment"
+				location = 9654
+				regiment = { type = mechanized_brigade name = "3rd Mechanized Regiment" historical_model = 0 }
+			}
+			division = {
+				is_reserve = yes
+				name = "Muscat Regiment"
+				location = 9598
+				regiment = { type = infantry_brigade name = "Muscat Regiment" historical_model = 0 }
+			}
+			division = {
+				is_reserve = yes
+				name = "Northern Frontier Regiment"
+				location = 9616
+				regiment = { type = infantry_brigade name = "Northern Frontier Regiment" historical_model = 0 }
+			}
+		}
+		corps = {
+			name = "Southern Brigade"
+			location = 9682
+			regiment = { type = hq_brigade name = "Southern Brigade HQ" historical_model = 0 }
+			division = {
+				is_reserve = yes
+				name = "Desert Regiment"
+				location = 9695
+				regiment = { type = infantry_brigade name = "Desert Regiment" historical_model = 0 }
+			}
+			division = {
+				is_reserve = yes
+				name = "Jebel Regiment"
+				location = 9725
+				regiment = { type = infantry_brigade name = "Jebel Regiment" historical_model = 0 }
+			}
+			division = {
+				is_reserve = yes
+				name = "Southern Regiment"
+				location = 9710
+				regiment = { type = infantry_brigade name = "1st Baluchi Battalion" historical_model = 0 }
+				regiment = { type = infantry_brigade name = "2nd Baluchi Battalion" historical_model = 0 }
+			}
+		}
+	}
+	
+	navy = {
+	name = "Royal Navy of Oman"
+	base = 9598
+	location = 9598
+	ship = { type = light_cruiser name = "Al Shamikh" historical_model = 0 }
+	ship = { type = light_cruiser name = "Al Rahmani" historical_model = 0 }
+	ship = { type = light_cruiser name = "Al Rasikh" historical_model = 0 }
+	ship = { type = light_cruiser name = "Qahir Al Amwaj" historical_model = 0 }
+	ship = { type = light_cruiser name = "Al Mua'zzar" historical_model = 0 }
+	ship = { type = patrol_boat name = "Dhofar" historical_model = 0 }
+	ship = { type = patrol_boat name = "Al Sharquiyah" historical_model = 0 }
+	ship = { type = patrol_boat name = "Al Bat'nah" historical_model = 0 }
+	ship = { type = patrol_boat name = "Mussandam" historical_model = 0 }
+	ship = { type = patrol_boat name = "Al Bushra" historical_model = 0 }
+	ship = { type = patrol_boat name = "Al Mansoor" historical_model = 0 }
+	ship = { type = patrol_boat name = "Al Najah" historical_model = 0 }
+	}
+	
+	air = {
+	name = "Royal Air Force of Oman"
+	base = 9598
+	location = 9598
+	wing = { type = transport_plane name = "Transport Wing" historical_model = 0 }
+	wing = { type = interceptor name = "1st Fighter Wing" historical_model = 0 }
+	wing = { type = cas name = "Ground Attack Wing" historical_model = 0 }
+	}
+}

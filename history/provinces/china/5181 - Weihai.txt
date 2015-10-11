@@ -1,0 +1,11 @@
+owner = CHC
+
+controller = CHC
+
+ 
+add_core = CHC
+infra = 9
+
+air_base = 4 #Wendeng and Yancheng airbase
+naval_base = 7 #Weihai port
+points = 1

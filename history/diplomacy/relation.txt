@@ -1,0 +1,269 @@
+#Relations of Iran
+#http://www.ossimantylahti.com/wp-content/uploads/2013/10/alan-salehzadeh-iran-verkko.pdf
+relation = {
+	first = PER
+	second = SYR
+	value = 150
+	start_date = 2000.1.1
+	end_date = 2010.1.1
+}
+relation = {
+	first = PER
+	second = ARM
+	value = 75
+	start_date = 2000.1.1
+	end_date = 2010.1.1
+}
+relation = {
+	first = PER
+	second = TRK
+	value = 75
+	start_date = 2000.1.1
+	end_date = 2010.1.1
+}
+relation = {
+	first = PER
+	second = PAK
+	value = 75
+	start_date = 2000.1.1
+	end_date = 2010.1.1
+}
+relation = {
+	first = PER
+	second = OMN
+	value = 75
+	start_date = 2000.1.1
+	end_date = 2010.1.1
+}
+relation = {
+	first = PER
+	second = LEB
+	value = 75
+	start_date = 2000.1.1
+	end_date = 2010.1.1
+}
+relation = {
+	first = PER
+	second = TUR
+	value = 50
+	start_date = 2000.1.1
+	end_date = 2010.1.1
+}
+relation = {
+	first = PER
+	second = KUW
+	value = 50
+	start_date = 2000.1.1
+	end_date = 2010.1.1
+}
+relation = {
+	first = PER
+	second = QAT
+	value = 50
+	start_date = 2000.1.1
+	end_date = 2010.1.1
+}
+relation = {
+	first = PER
+	second = SOV
+	value = 50
+	start_date = 2000.1.1
+	end_date = 2010.1.1
+}
+relation = {
+	first = PER
+	second = CHC
+	value = 50
+	start_date = 2000.1.1
+	end_date = 2010.1.1
+}
+relation = {
+	first = PER
+	second = ISR
+	value = -100
+	start_date = 2000.1.1
+	end_date = 2010.1.1
+}
+relation = {
+	first = PER
+	second = SAU
+	value = -100
+	start_date = 2000.1.1
+	end_date = 2010.1.1
+}
+relation = {
+	first = PER
+	second = UAE
+	value = -50
+	start_date = 2000.1.1
+	end_date = 2010.1.1
+}
+relation = {
+	first = PER
+	second = AZB
+	value = -50
+	start_date = 2000.1.1
+	end_date = 2010.1.1
+}
+#Relations of Iran
+relation = {
+	first = CHC
+	second = PAK
+	value = 200
+	start_date = 2000.1.1
+	end_date = 2020.1.1
+}
+relation = {
+	first = CHC
+	second = BUR
+	value = 150
+	start_date = 2000.1.1
+	end_date = 2020.1.1
+}
+relation = {
+	first = CHC
+	second = JAP
+	value = 150
+	start_date = 2000.1.1
+	end_date = 2020.1.1
+}
+relation = {
+	first = CHC
+	second = SOV
+	value = 120
+	start_date = 2000.1.1
+	end_date = 2020.1.1
+}
+relation = {
+	first = CHC
+	second = USA
+	value = 50
+	start_date = 2000.1.1
+	end_date = 2020.1.1
+}
+relation = {
+	first = CHC
+	second = PRK
+	value = 180
+	start_date = 2000.1.1
+	end_date = 2020.1.1
+}
+relation = {
+	first = CHC
+	second = ISR
+	value = 190
+	start_date = 2000.1.1
+	end_date = 2020.1.1
+}
+relation = {
+	first = CHC
+	second = INO
+	value = -10
+	start_date = 2000.1.1
+	end_date = 2020.1.1
+}
+relation = {
+	first = CHC
+	second = IND
+	value = 30
+	start_date = 2000.1.1
+	end_date = 2020.1.1
+}
+relation = {
+	first = CHC
+	second = SIA
+	value = 50
+	start_date = 2000.1.1
+	end_date = 2020.1.1
+}
+relation = {
+	first = CHC
+	second = VIE
+	value = -20
+	start_date = 2000.1.1
+	end_date = 2020.1.1
+}
+relation = {
+	first = CHC
+	second = CAN
+	value = 60
+	start_date = 2000.1.1
+	end_date = 2020.1.1
+}
+relation = {
+	first = CHC
+	second = SSU
+	value = 100
+	start_date = 2000.1.1
+	end_date = 2020.1.1
+}
+relation = {
+	first = CHC
+	second = DRC
+	value = 100
+	start_date = 2000.1.1
+	end_date = 2020.1.1
+}
+relation = {
+	first = CHC
+	second = ENG
+	value = 60
+	start_date = 2000.1.1
+	end_date = 2020.1.1
+}
+relation = {
+	first = CHC
+	second = GER
+	value = 60
+	start_date = 2000.1.1
+	end_date = 2020.1.1
+}
+relation = {
+	first = CHC
+	second = ITA
+	value = 60
+	start_date = 2000.1.1
+	end_date = 2020.1.1
+}
+relation = {
+	first = CHC
+	second = KOR
+	value = 180
+	start_date = 2000.1.1
+	end_date = 2020.1.1
+}
+relation = {
+	first = CHC
+	second = PHI
+	value = -20
+	start_date = 2000.1.1
+	end_date = 2020.1.1
+}
+relation = {
+	first = CHC
+	second = KON
+	value = 100
+	start_date = 2000.1.1
+	end_date = 2020.1.1
+}
+relation = {
+	first = CHC
+	second = AST
+	value = 60
+	start_date = 2000.1.1
+	end_date = 2020.1.1
+}
+relation = {
+	first = CHC
+	second = BRA
+	value = 30
+	start_date = 2000.1.1
+	end_date = 2020.1.1
+}
+relation = {
+	first = ISR
+	second = USA
+	value = 200
+	start_date = 2000.1.1
+	end_date = 2020.1.1
+}

@@ -1,0 +1,8 @@
+owner = TAJ
+controller = TAJ
+add_core = TAJ
+
+infra = 6
+
+
+

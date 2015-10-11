@@ -1,0 +1,10 @@
+owner = BRA
+controller = BRA
+add_core = BRA
+infra = 6
+energy = 10.00
+infra = 4
+
+air_base = 3 #Val de Cans airbase
+naval_base = 3 #Belem port
+points = 1

@@ -1,0 +1,11 @@
+owner = PHI
+
+controller = PHI
+
+add_core = PHI
+industry = 3
+infra = 4
+manpower = 10.00
+naval_base = 5 #Davao port
+leadership = 2.50
+points = 1

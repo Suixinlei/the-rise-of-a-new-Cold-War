@@ -1,0 +1,8 @@
+owner = CZE
+controller = CZE
+add_core = CZE
+
+infra = 8
+air_base = 2 #Namest airbase
+leadership = 2.50
+points = 1

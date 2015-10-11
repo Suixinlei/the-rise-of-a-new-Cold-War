@@ -1,0 +1,8 @@
+owner = ALG
+controller = ALG
+add_core = ALG
+
+infra = 4
+
+air_base = 5 #In Amenas airbase
+points = 1

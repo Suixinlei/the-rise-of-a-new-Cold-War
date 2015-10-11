@@ -1,0 +1,26 @@
+theatre = {
+	name = "L'Armée de Terre"
+	location = 9760
+	regiment = { type = hq_brigade name = "L'Armée de Terre" historical_model = 0 }
+	division = {
+		is_reserve = yes
+		name = "Armoured Battalion"
+		location = 9760
+		regiment = { type = armor_brigade name = "Armoured Battalion" historical_model = 0 }
+	}
+	division = {
+		is_reserve = yes
+		name = "Infantry Regiments 1-3"
+		location = 9760
+		regiment = { type = infantry_brigade name = "1st Infantry Regiment" historical_model = 0 }
+		regiment = { type = infantry_brigade name = "2nd Infantry Regiment" historical_model = 0 }
+		regiment = { type = infantry_brigade name = "3rd Infantry Regiment" historical_model = 0 }
+	}
+	division = {
+		is_reserve = yes
+		name = "Infantry Regiments 4&5"
+		location = 9760
+		regiment = { type = infantry_brigade name = "5th Infantry Regiment" historical_model = 0 }
+		regiment = { type = infantry_brigade name = "4th Infantry Regiment" historical_model = 0 }
+	}
+}

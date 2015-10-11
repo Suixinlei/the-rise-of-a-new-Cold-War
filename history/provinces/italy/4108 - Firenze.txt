@@ -1,0 +1,8 @@
+owner = ITA
+controller = ITA
+add_core = ITA
+manpower = 0.50
+industry = 5
+infra = 10
+
+

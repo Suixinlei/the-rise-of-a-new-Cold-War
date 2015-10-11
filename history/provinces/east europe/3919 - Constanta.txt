@@ -1,0 +1,10 @@
+owner = ROM
+controller = ROM
+add_core = ROM
+manpower = 0.5
+infra = 8
+energy = 5.00
+air_base = 4 #Mihail Kogalniceanu and Fetesti airbase
+naval_base = 7 #Constanta port
+leadership = 2.50
+points = 1

@@ -1,0 +1,377 @@
+theatre = {
+	name = "Armed Forces of the Philippines"
+	location = 6142
+	regiment = { type = hq_brigade name = "Armed Forces HQ" historical_model = 1 }
+	army = {
+		name = "Philippine Army"
+		location = 6142
+		regiment = { type = hq_brigade name = "Army HQ" historical_model = 1 }
+		corps = {
+			name = "1st 'Tabak' Infantry Division"
+			location = 6307
+			regiment = { type = hq_brigade name = "1st Division HQ" historical_model = 1 }
+			division = {
+				is_reserve = yes
+				name = "101st 'Three Red Arrows' Brigade"
+				location = 6307
+				regiment = { type = infantry_brigade name = "5th 'Duty Bound' Battalion" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "10th 'Steady...on' Battalion" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "18th 'Deo et Patria' Battalion" historical_model = 1 }
+				regiment = { type = engineer_brigade name = "51st Engineering Brigade" historical_model = 0 }
+			}
+			division = {
+				is_reserve = yes
+				name = "102nd 'Igsoon' Brigade"
+				location = 6307
+				regiment = { type = infantry_brigade name = "32nd 'Daredevil' Battalion" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "35th 'Makamandag' Battalion" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "44th 'Agile n Stable' Battalion" historical_model = 1 }
+			}
+			division = {
+				is_reserve = yes
+				name = "103rd 'Haribon' Brigade"
+				location = 6307
+				regiment = { type = infantry_brigade name = "51st 'Fuerto Uno' Battalion" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "53rd 'Matapat' Battalion" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "55th 'Vigilant' Battalion" historical_model = 1 }
+			}
+			division = {
+				is_reserve = yes
+				name = "104th 'Sultan' Brigade"
+				location = 6307
+				regiment = { type = infantry_brigade name = "64th 'Knights' Battalion" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "1042nd Battalion" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "1043rd Battalion" historical_model = 1 }
+			}
+		}
+		corps = {
+			name = "2nd 'Jungle Fighter' Infantry Division"
+			location = 6153
+			regiment = { type = hq_brigade name ="2nd Division HQ" historical_model = 1 }
+			division = {
+				is_reserve = yes
+				name = "201st 'Kabalikat' Brigade"
+				location = 6153
+				regiment = { type = infantry_brigade name = "1st Battalion" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "4th 'Get Em' Battalion" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "16th 'Maglilingkod' Battalion" historical_model = 1 }
+				regiment = { type = engineer_brigade name = "52nd Engineering Brigade" historical_model = 0 }
+			}
+			division = {
+				is_reserve = yes
+				name = "202nd 'Unifier' Brigade"
+				location = 6153
+				regiment = { type = infantry_brigade name = "59th 'Protector' Battalion" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "68th Battalion" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "74th 'Matatag' Battalion" historical_model = 1 }
+			}
+			division = {
+				is_reserve = yes
+				name = "204th 'Bantay Kapayapaan' Brigade"
+				location = 6153
+				regiment = { type = infantry_brigade name = "76th 'Victrix' Battalion" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "80th 'Raging Tamarraw' Battalion" historical_model = 1 }
+			}
+		}
+		corps = {
+			name = "3rd Infantry Division"
+			location = 6238
+			regiment = { type = hq_brigade name = "3rd Division HQ" historical_model = 1 }
+			division = {
+				is_reserve = yes
+				name = "301st Brigade"
+				location = 6238
+				regiment = { type = infantry_brigade name = "3011th Battalion" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "3012th Battalion" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "3013th Battalion" historical_model = 1 }
+				regiment = { type = engineer_brigade name = "53rd Engineering Brigade" historical_model = 0 }
+			}
+			division = {
+				is_reserve = yes
+				name = "302nd Brigade"
+				location = 6238
+				regiment = { type = infantry_brigade name = "3021st Battalion" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "3022nd Battalion" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "3023rd Battalion" historical_model = 1 }
+			}
+			division = {
+				is_reserve = yes
+				name = "303rd Brigade"
+				location = 6238
+				regiment = { type = infantry_brigade name = "3031st Battalion" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "3032nd Battalion" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "3033rd Battalion" historical_model = 1 }
+			}
+		}
+		corps = {
+			name = "4th 'Diamond' Division"
+			location = 6278
+			regiment = { type = hq_brigade name = "4th Division HQ" historical_model = 1 }
+			division = {
+				is_reserve = yes
+				name = "401st 'Unite n Fight' Brigade"
+				location = 6278
+				regiment = { type = infantry_brigade name = "8th 'Dependable' Battalion" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "23rd 'Masigasig' Battalion" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "29th 'Matatag' Battalion" historical_model = 1 }
+				regiment = { type = engineer_brigade name = "54th Engineering Brigade" historical_model = 0 }
+			}
+			division = {
+				is_reserve = yes
+				name = "402nd 'Stingers' Brigade"
+				location = 6278
+				regiment = { type = infantry_brigade name = "30th 'Python' Battalion" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "36th 'Valor' Battalion" historical_model = 1 }
+			}
+			division = {
+				is_reserve = yes
+				name = "403rd 'Peacemaker' Brigade"
+				location = 6278
+				regiment = { type = infantry_brigade name = "26th 'Ever Onward' Battalion" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "58th 'Dimalulupig' Battalion" historical_model = 1 }
+			}
+		}
+		corps = {
+			name = "5th 'Star' Division"
+			location = 6078
+			regiment = { type = hq_brigade name = "5th Division HQ" historical_model = 1 }
+			division = {
+				is_reserve = yes
+				name = "501st 'Valiant' Brigade"
+				location = 6078
+				regiment = { type = infantry_brigade name = "77th 'Don't Dare the Double Seven' Battalion" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "17th 'Do or Die' Battalion" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "21st 'Invincible' Battalion" historical_model = 1 }
+				regiment = { type = engineer_brigade name = "55th Engineering Brigade" historical_model = 0 }
+			}
+			division = {
+				is_reserve = yes
+				name = "502nd Brigade"
+				location = 6078
+				regiment = { type = infantry_brigade name = "45th 'Gallant' Battalion" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "54th 'Magilas' Battalion" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "41st Battalion" historical_model = 1 }
+			}
+			division = {
+				is_reserve = yes
+				name = "503rd 'Justice and Peace' Brigade"
+				location = 6078
+				regiment = { type = infantry_brigade name = "50th 'Country' Battalion" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "86th 'Highlander' Battalion" historical_model = 1 }
+			}
+		}
+		corps = {
+			name = "6th 'Kampilan' Division"
+			location = 6324
+			regiment = { type = hq_brigade name = "6th Division HQ" historical_model = 1 }
+			division = {
+				is_reserve = yes
+				name = "601st Brigade"
+				location = 6324
+				regiment = { type = infantry_brigade name = "6011th Battalion" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "6012th Battalion" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "6013th Battalion" historical_model = 1 }
+			}
+			division = {
+				is_reserve = yes
+				name = "602nd Brigade"
+				location = 6324
+				regiment = { type = infantry_brigade name = "6021st Battalion" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "6022nd Battalion" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "6023rd Battalion" historical_model = 1 }
+			}
+			division = {
+				is_reserve = yes
+				name = "603rd Brigade"
+				location = 6324
+				regiment = { type = infantry_brigade name = "6031st Battalion" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "6032nd Battalion" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "6033rd Battalion" historical_model = 1 }
+			}
+			division = {
+				is_reserve = yes
+				name = "604th Brigade"
+				location = 6324
+				regiment = { type = infantry_brigade name = "6041st Battalion" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "6042nd Battalion" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "6043rd Battalion" historical_model = 1 }
+			}
+		}
+		corps = {
+			name = "7th 'Kaugnay' Division"
+			location = 6118
+			regiment = { type = hq_brigade name = "7th Division HQ" historical_model = 1 }
+			division = {
+				is_reserve = yes
+				name = "703rd Brigade"
+				location = 6118
+				regiment = { type = infantry_brigade name = "24th Battalion" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "48th Battalion" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "3rd Battalion" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "56th Battalion" historical_model = 1 }
+			}
+			division = {
+				is_reserve = yes
+				name = "702nd Brigade"
+				location = 6118
+				regiment = { type = infantry_brigade name = "70th Battalion" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "71st Battalion" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "84th 'Victorious' Battalion" historical_model = 1 }
+				regiment = { type = mechanized_brigade name = "3rd Mechanized Battalion" historical_model = 0 }
+			}
+		}
+		corps = {
+			name = "8th 'Storm Trooper' Division"
+			location = 6215
+			regiment = { type = hq_brigade name = "8th Division HQ" historical_model = 1 }
+			division = {
+				is_reserve = yes
+				name = "801st Brigade"
+				location = 6215
+				regiment = { type = infantry_brigade name = "14th 'Avenger' Battalion" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "19th 'Commando' Battalion" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "20th 'We Lead' Battalion" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "34th 'Reliable' Battalion" historical_model = 1 }
+			}
+			division = {
+				is_reserve = yes
+				name = "802nd Brigade"
+				location = 6215
+				regiment = { type = infantry_brigade name = "43rd 'We Search' Battalion" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "46th 'Peace Makers' Battalion" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "52nd 'Catch Em' Battalion" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "62nd 'Unifier' Battalion" historical_model = 1 }
+			}
+			division = {
+				is_reserve = yes
+				name = "803rd Brigade"
+				location = 6215
+				regiment = { type = infantry_brigade name = "63rd 'Innovator' Battalion" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "78th 'Warrior' Battalion" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "87th 'Hinirag' Battalion" historical_model = 1 }
+			}
+		}
+		corps = {
+			name = "9th 'Spear' Division"
+			location = 6181
+			regiment = { type = hq_brigade name = "9th Division HQ" historical_model = 1 }
+			division = {
+				is_reserve = yes
+				name = "901st 'Fight Em' Brigade"
+				location = 6181
+				regiment = { type = infantry_brigade name = "2nd 'Second to None' Battalion" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "22nd 'Valor' Battalion" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "42nd 'Tagapagtanggol' Battalion" historical_model = 1 }
+			}
+			division = {
+				is_reserve = yes
+				name = "902nd 'Fight and Serve' Brigade"
+				location = 6181
+				regiment = { type = infantry_brigade name = "31st 'Charge' Battalion" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "65th 'Stalwart' Battalion" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "9th 'Sandigan' Battalion" historical_model = 1 }
+			}
+		}
+		corps = {
+			name = "10th 'Agila' Division"
+			location = 6318
+			regiment = { type = hq_brigade name = "10th Division HQ" historical_model = 1 }
+			division = {
+				is_reserve = yes
+				name = "1001st Brigade"
+				location = 6318
+				regiment = { type = infantry_brigade name = "1st Battalion" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "2nd Battalion" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "3rd Battalion" historical_model = 1 }
+			}
+			division = {
+				is_reserve = yes
+				name = "1002nd Brigade"
+				location = 6318
+				regiment = { type = infantry_brigade name = "4th Battalion" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "5th Battalion" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "6th Battalion" historical_model = 1 }
+			}
+			division = {
+				is_reserve = yes
+				name = "1003rd Brigade"
+				location = 6318
+				regiment = { type = infantry_brigade name = "7th Battalion" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "8th Battalion" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "9th Battalion" historical_model = 1 }
+			}
+			division = {
+				is_reserve = yes
+				name = "701st Brigade"
+				location = 6318
+				regiment = { type = infantry_brigade name = "10th Battalion" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "11th Battalion" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "12th Battalion" historical_model = 1 }
+			}
+		}
+		corps = {
+			name = "Light Armor Division"
+			location = 6124
+			regiment = { type = hq_brigade name = "Light Armor Division HQ" historical_model = 1 }
+			division = {
+				is_reserve = yes
+				name = "1st 'Maasahan' Mechanized Brigade"
+				location = 6124
+				regiment = { type = mechanized_brigade name = "1st 'Lakan' Mechanized Battalion" historical_model = 0 }
+				regiment = { type = mechanized_brigade name = "2nd 'Makasag' Mechanized Battalion" historical_model = 0 }
+			}
+			division = {
+				is_reserve = yes
+				name = "2nd 'Magbalantay' Mechanized Brigade"
+				location = 6124
+				regiment = { type = mechanized_brigade name = "3rd 'Makatarungan' Mechanized Battalion" historical_model = 0 }
+				regiment = { type = mechanized_brigade name = "4th 'Kalasag' Mechanized Battalion" historical_model = 0 }
+			}
+		}
+		division = {
+			is_reserve = yes
+			name = "1st Scout Ranger Regiment"
+			location = 6132
+			regiment = { type = special_forces_brigade name = "1st Scout Ranger Battalion" historical_model = 1 }
+			regiment = { type = special_forces_brigade name = "2nd Scout Ranger Battalion" historical_model = 1 }
+			regiment = { type = special_forces_brigade name = "3rd Scout Ranger Battalion" historical_model = 1 }
+			regiment = { type = special_forces_brigade name = "4th Scout Ranger Battalion" historical_model = 1 }
+		}
+		division = {
+			is_reserve = yes
+			name = "1st Scout Ranger Regiment"
+			location = 6132
+			regiment = { type = special_forces_brigade name = "1st Special Forces Battalion" historical_model = 1 }
+			regiment = { type = special_forces_brigade name = "2nd Special Forces Battalion" historical_model = 1 }
+			regiment = { type = special_forces_brigade name = "3rd Special Forces Battalion" historical_model = 1 }
+			regiment = { type = special_forces_brigade name = "4th Special Forces Battalion" historical_model = 1 }
+			regiment = { type = special_forces_brigade name = "5th Special Forces Battalion" historical_model = 1 }
+		}
+	}
+	
+	navy = {
+	name = "Philippine Navy"
+	base = 6142
+	location = 6142
+	ship = { type = heavy_cruiser name = "BRP Rajah Humabon" historical_model = 0 }
+	ship = { type = light_cruiser name = "BRP Emilio Jacinto" historical_model = 0 }
+	ship = { type = light_cruiser name = "BRP Apolinario Mabini" historical_model = 0 }
+	ship = { type = light_cruiser name = "BRP Artemio Ricarte" historical_model = 0 }
+	ship = { type = light_cruiser name = "BRP Quezon" historical_model = 0 }
+	ship = { type = light_cruiser name = "BRP Rizal" historical_model = 0 }
+	ship = { type = light_cruiser name = "BRP Miguel Malvar" historical_model = 0 }
+	ship = { type = light_cruiser name = "BRP Magat Salamat" historical_model = 0 }
+	ship = { type = light_cruiser name = "BRP Sultan Kudarat" historical_model = 0 }
+	ship = { type = light_cruiser name = "BRP Cebu" historical_model = 0 }
+	ship = { type = light_cruiser name = "BRP Pangasinan" historical_model = 0 }
+	ship = { type = light_cruiser name = "BRP Iloilo" historical_model = 0 }
+	ship = { type = transport_ship name = "BRP Bacolod City" historical_model = 0 }
+	ship = { type = transport_ship name = "BRP Dagupan City" historical_model = 0 }
+	ship = { type = invasion_transport_ship name = "BRP Zamboanga del Sur" historical_model = 0 }
+	ship = { type = invasion_transport_ship name = "BRP Laguna" historical_model = 0 }
+	ship = { type = invasion_transport_ship name = "BRP Benguet" historical_model = 0 }
+	ship = { type = patrol_boat name = "BRP Datu Marikudo" historical_model = 0 }
+	ship = { type = patrol_boat name = "BRP Negros Occidental" historical_model = 0 }
+	}
+	
+}

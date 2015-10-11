@@ -1,0 +1,7 @@
+owner = UGA
+controller = UGA
+add_core = UGA
+manpower = 10.0
+infra = 6
+air_base = 10 #Entebbe and Nakasongola airbase
+points = 1

@@ -1,0 +1,49 @@
+capital = 3633
+government = republic
+ideology = social_democrat
+alignment = { x = 180 y = 182.7 }
+neutrality = 80
+national_unity = 70
+
+oob = "CRO_2000.txt"
+
+popularity = { 
+	national_socialist = 0
+	fascistic = 3
+	paternal_autocrat = 27
+	social_conservative = 11
+	market_liberal = 1
+	social_liberal = 17
+	social_democrat = 29
+	left_wing_radical = 0
+	leninist = 0
+	stalinist = 0
+}
+
+organization = { 
+	national_socialist = 0
+	fascistic = 9
+	paternal_autocrat = 81
+	social_conservative = 33
+	market_liberal = 3
+	social_liberal = 51
+	social_democrat = 87
+	left_wing_radical = 0
+	leninist = 0
+	stalinist = 0
+}
+
+conscription_policy = military_service
+press_laws = free_press
+mobilisation_level = peace_time
+civil_laws = open_society
+economic_policy = lais_fair
+service_length = six_months
+
+industrial_facilities = 1
+industral_production = 1
+industral_efficiency = 1
+weapon_design = 1
+the_fuselage_design = 1
+main_battle_tank = 1
+ship_hull = 1

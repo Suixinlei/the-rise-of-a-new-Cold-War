@@ -1,0 +1,11 @@
+controller = CHC
+owner = CHC
+
+ 
+add_core = CHC
+infra = 6
+air_base = 1 #Changde airbase
+leadership = 1.00
+industry = 5
+energy = 20.00
+manpower = 17

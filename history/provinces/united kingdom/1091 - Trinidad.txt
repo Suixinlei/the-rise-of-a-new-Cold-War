@@ -1,0 +1,10 @@
+owner = TAT
+controller = TAT
+add_core = TAT
+manpower = 0.3
+crude_oil = 3.00
+energy = 1.00
+infra = 6
+
+naval_base = 2 #Port of Spain
+points = 1

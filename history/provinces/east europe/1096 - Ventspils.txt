@@ -1,0 +1,8 @@
+owner = LAT
+controller = LAT
+add_core = LAT
+
+infra = 8
+
+naval_base = 5 #Ventspils port
+points = 1

@@ -1,0 +1,9 @@
+owner = LIB
+controller = REB
+add_core = LIB
+infra = 6
+manpower = 0.5
+air_base = 3 #Roberts airbase
+naval_base = 4 #Freeport of Monrovia
+points = 1
+leadership = 0.80

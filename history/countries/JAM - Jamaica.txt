@@ -1,0 +1,52 @@
+capital = 7669
+government = commonwealth
+ideology = social_democrat
+alignment = { x = 0 y = 50 }
+neutrality = 80
+national_unity = 70
+head_of_state = 14501
+head_of_government = 40001
+armament_minister = 40002
+foreign_minister = 40004
+minister_of_security = 40005
+minister_of_intelligence = 40018
+chief_of_staff = 40018
+chief_of_army = 40018
+chief_of_air = 40018
+chief_of_navy = 40018
+oob = "JAM_2000.txt"
+
+popularity = { 
+	national_socialist = 0
+	fascistic = 0
+	paternal_autocrat = 0
+	social_conservative = 0
+	market_liberal = 47
+	social_liberal = 0
+	social_democrat = 52
+	left_wing_radical = 0
+	leninist = 0
+	stalinist = 0
+}
+
+organization = { 
+	national_socialist = 0
+	fascistic = 0
+	paternal_autocrat = 0
+	social_conservative = 0
+	market_liberal = 141
+	social_liberal = 0
+	social_democrat = 150
+	left_wing_radical = 0
+	leninist = 0
+	stalinist = 0
+}
+
+conscription_policy = volunteer_army
+press_laws = free_press
+mobilisation_level = peace_time
+civil_laws = open_society
+economic_policy = limit_intervention
+service_length = six_months
+
+

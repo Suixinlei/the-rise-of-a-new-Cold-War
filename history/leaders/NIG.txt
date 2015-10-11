@@ -1,0 +1,1530 @@
+116001 = {
+	name = "Saskabe"
+	country = NIG
+	type = air
+	skill = 0
+	max_skill = 4
+	loyalty = 0.00
+	picture = L116001
+	add_trait = superior_air_tactician
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+116002 = {
+	name = "Obasanjo"
+	country = NIG
+	type = land
+	skill = 1
+	max_skill = 4
+	loyalty = 1.00
+	picture = L116002
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+116003 = {
+	name = "Soyinka"
+	country = NIG
+	type = land
+	skill = 0
+	max_skill = 4
+	loyalty = 0.00
+	picture = L116003
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+116004 = {
+	name = "Azikiwe"
+	country = NIG
+	type = land
+	skill = 0
+	max_skill = 4
+	loyalty = 0.00
+	picture = L116004
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+116005 = {
+	name = "Achebe"
+	country = NIG
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 0.00
+	picture = L116005
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+116006 = {
+	name = "Wiwa"
+	country = NIG
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 0.00
+	picture = L116006
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+116007 = {
+	name = "Ayodele"
+	country = NIG
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 0.00
+	picture = L116007
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+116008 = {
+	name = "Nwokeabia"
+	country = NIG
+	type = land
+	skill = 0
+	max_skill = 4
+	loyalty = 1.00
+	picture = L116008
+	history = {
+		2000.1.1 = { rank = 2 }
+	}
+}
+116009 = {
+	name = "Naumabe"
+	country = NIG
+	type = land
+	skill = 1
+	max_skill = 4
+	loyalty = 0.00
+	picture = L116009
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+116010 = {
+	name = "Obuljen"
+	country = NIG
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 0.00
+	picture = L116010
+	add_trait = defensive_doctrine
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+116011 = {
+	name = "Ekeanyanwu"
+	country = NIG
+	type = land
+	skill = 1
+	max_skill = 4
+	loyalty = 0.00
+	picture = L116011
+	add_trait = defensive_doctrine
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+116012 = {
+	name = "Petabe"
+	country = NIG
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 0.00
+	picture = L116012
+		2000.1.1 = { rank = 1 }
+	}
+}
+116013 = {
+	name = "Druvabe"
+	country = NIG
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L116013
+	add_trait = frontline_soldier
+	history = {
+		2003.1.1 = { rank = 4 }
+	}
+}
+116014 = {
+	name = "Abdullahi"
+	country = NIG
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L116014
+	add_trait = frontline_soldier
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+116015 = {
+	name = "Archibong"
+	country = NIG
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L116015
+	add_trait = commando
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+116016 = {
+	name = "Atewe"
+	country = NIG
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L116016
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+116017 = {
+	name = "Attahiru"
+	country = NIG
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L116017
+	add_trait = panzer_leader
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+116018 = {
+	name = "Azinta"
+	country = NIG
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 0.00
+	picture = L116018
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+116019 = {
+	name = "Boroh"
+	country = NIG
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L116019
+	add_trait = defensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+116020 = {
+	name = "Calabar"
+	country = NIG
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 0.00
+	picture = L116020
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+116021 = {
+	name = "Dan-Ali"
+	country = NIG
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L116021
+	add_trait = fortress_buster
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+116022 = {
+	name = "Ewansiha"
+	country = NIG
+	type = land
+	skill = 1
+	max_skill = 7
+	loyalty = 1.00
+	picture = L116022
+	add_trait = commando
+	add_trait = learners_will
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+116023 = {
+	name = "Iruh"
+	country = NIG
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 0.00
+	picture = L116023
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+116024 = {
+	name = "Koleoso"
+	country = NIG
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L116024
+	add_trait = offensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+116025 = {
+	name = "Kwabe"
+	country = NIG
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 0.00
+	picture = L116025
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+116026 = {
+	name = "Musa"
+	country = NIG
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L116026
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+116027 = {
+	name = "Okonkwo"
+	country = NIG
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L116027
+	add_trait = commando
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+116028 = {
+	name = "Olukolade"
+	country = NIG
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L116028
+	add_trait = logistics_wizard
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+116029 = {
+	name = "Owonibi"
+	country = NIG
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 0.00
+	picture = L116029
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+116030 = {
+	name = "Salihu"
+	country = NIG
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L116030
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+116031 = {
+	name = "Ude"
+	country = NIG
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L116031
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+116032 = {
+	name = "Awolowo"
+	country = NIG
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 1.00
+	picture = L116032
+	add_trait = trainer
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+116033 = {
+	name = "Bello"
+	country = NIG
+	type = land
+	skill = 0
+	max_skill = 4
+	loyalty = 0.00
+	picture = L116033
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+116034 = {
+	name = "Balewa"
+	country = NIG
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L116034
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+116035 = {
+	name = "Akintola"
+	country = NIG
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L116035
+	add_trait = assaulter
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+116036 = {
+	name = "Okotie-Eboh"
+	country = NIG
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 0.00
+	picture = L116036
+	add_trait = landing_specialist
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+116037 = {
+	name = "Nzeogwu"
+	country = NIG
+	type = land
+	skill = 0
+	max_skill = 6
+	loyalty = 1.00
+	picture = L116037
+	add_trait = landing_specialist
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+116038 = {
+	name = "Onwuatuegwu"
+	country = NIG
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L116038
+	add_trait = offensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+116039 = {
+	name = "Okafor"
+	country = NIG
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 0.00
+	picture = L116039
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+116040 = {
+	name = "Okereke"
+	country = NIG
+	type = land
+	skill = 1
+	max_skill = 7
+	loyalty = 1.00
+	picture = L116040
+	add_trait = landing_specialist
+	add_trait = learners_will
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+116041 = {
+	name = "Okeke"
+	country = NIG
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 0.00
+	picture = L116041
+	add_trait = commando
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+116042 = {
+	name = "Okoye"
+	country = NIG
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L116042
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+116043 = {
+	name = "Obasanjo"
+	country = NIG
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 1.00
+	picture = L116043
+	add_trait = commando
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+116044 = {
+	name = "Asari-Dokubo"
+	country = NIG
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 0.00
+	picture = L116044
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+116045 = {
+	name = "Jomo-Gbomo"
+	country = NIG
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L116045
+	add_trait = improvisation
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+116046 = {
+	name = "Iwu"
+	country = NIG
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 0.00
+	picture = L116046
+	add_trait = defensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+116047 = {
+	name = "Anenih"
+	country = NIG
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L116047
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+116048 = {
+	name = "Biobaku"
+	country = NIG
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L116048
+	add_trait = hard_defender
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+116049 = {
+	name = "Tinibu"
+	country = NIG
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 0.00
+	picture = L116049
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+116050 = {
+	name = "Ironsi"
+	country = NIG
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L116050
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+116051 = {
+	name = "Danjuma"
+	country = NIG
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L116051
+	add_trait = panzer_leader
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+116052 = {
+	name = "Attah"
+	country = NIG
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L116052
+	add_trait = improvisation
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+116053 = {
+	name = "Iweala"
+	country = NIG
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 0.00
+	picture = L116053
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+116054 = {
+	name = "Soyinka"
+	country = NIG
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 1.00
+	picture = L116054
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+116055 = {
+	name = "Solarin"
+	country = NIG
+	type = land
+	skill = 0
+	max_skill = 7
+	loyalty = 0.00
+	picture = L116055
+	add_trait = frontline_soldier
+	add_trait = improvisation
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+116056 = {
+	name = "Jakande"
+	country = NIG
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 0.00
+	picture = L116056
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+116057 = {
+	name = "Eze"
+	country = NIG
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L116057
+	add_trait = logistics_wizard
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+116058 = {
+	name = "Ngige"
+	country = NIG
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 1.00
+	picture = L116058
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+116059 = {
+	name = "Orji"
+	country = NIG
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L116059
+	add_trait = improvisation
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+116060 = {
+	name = "Egwu"
+	country = NIG
+	type = land
+	skill = 0
+	max_skill = 6
+	loyalty = 0.00
+	picture = L116060
+	add_trait = landing_specialist
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+116061 = {
+	name = "Fagbure"
+	country = NIG
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L116061
+	add_trait = offensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+116062 = {
+	name = "Saro-Wiwa"
+	country = NIG
+	type = land
+	skill = 0
+	max_skill = 6
+	loyalty = 1.00
+	picture = L116062
+	add_trait = landing_specialist
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+116063 = {
+	name = "Abacha"
+	country = NIG
+	type = land
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L116063
+	add_trait = frontline_soldier
+	history = {
+		1995.1.1 = { rank = 1 }
+		1998.1.1 = { rank = 2 }
+		2001.1.1 = { rank = 3 }
+		2003.1.1 = { rank = 4 }
+	}
+}
+116064 = {
+	name = "Abolurin"
+	country = NIG
+	type = land
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L116064
+	add_trait = commando
+	history = {
+		1995.1.1 = { rank = 1 }
+		1998.1.1 = { rank = 2 }
+		2001.1.1 = { rank = 3 }
+		2003.1.1 = { rank = 4 }
+	}
+}
+116065 = {
+	name = "Azazi"
+	country = NIG
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L116065
+	add_trait = logistics_wizard
+	history = {
+		1995.1.1 = { rank = 1 }
+		1998.1.1 = { rank = 2 }
+		2001.1.1 = { rank = 3 }
+		2003.1.1 = { rank = 4 }
+	}
+}
+116066 = {
+	name = "Dikko"
+	country = NIG
+	type = land
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L116066
+	add_trait = panzer_leader
+	history = {
+		1995.1.1 = { rank = 1 }
+		1998.1.1 = { rank = 2 }
+		2001.1.1 = { rank = 3 }
+		2003.1.1 = { rank = 4 }
+	}
+}
+116067 = {
+	name = "Abolorin"
+	country = NIG
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L116067
+	add_trait = commando
+	history = {
+		1998.1.1 = { rank = 1 }
+		2001.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+116068 = {
+	name = "Ihejirika"
+	country = NIG
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 0.00
+	picture = L116068
+	history = {
+		1998.1.1 = { rank = 1 }
+		2001.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+116069 = {
+	name = "Yusuf"
+	country = NIG
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L116069
+	add_trait = hard_defender
+	history = {
+		1998.1.1 = { rank = 1 }
+		2001.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+116070 = {
+	name = "Awala"
+	country = NIG
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L116070
+	add_trait = panzer_leader
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+116071 = {
+	name = "Ayoola"
+	country = NIG
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L116071
+	add_trait = commando
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+116072 = {
+	name = "Dogonyaro"
+	country = NIG
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 0.00
+	picture = L116072
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+116073 = {
+	name = "Idris"
+	country = NIG
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L116073
+	add_trait = frontline_soldier
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+116074 = {
+	name = "Jibrin"
+	country = NIG
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L116074
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+116075 = {
+	name = "Ngubani"
+	country = NIG
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L116075
+	add_trait = defensive_doctrine
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+116076 = {
+	name = "Onovo"
+	country = NIG
+	type = land
+	skill = 2
+	max_skill = 8
+	loyalty = 1.00
+	picture = L116076
+	add_trait = landing_specialist
+	add_trait = logistics_wizard
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+116077 = {
+	name = "Owonibi"
+	country = NIG
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L116077
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+116078 = {
+	name = "Shoboiki"
+	country = NIG
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L116078
+	add_trait = commando
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+116079 = {
+	name = "Umahi"
+	country = NIG
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L116079
+	add_trait = offensive_doctrine
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+116080 = {
+	name = "Wahab"
+	country = NIG
+	type = land
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L116080
+	add_trait = learners_will
+	add_trait = panzer_leader
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+116081 = {
+	name = "Adagboyi"
+	country = NIG
+	type = air
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L116081
+	add_trait = fleet_destroyer
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+116082 = {
+	name = "Ayamgha"
+	country = NIG
+	type = air
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L116082
+	add_trait = tank_buster
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+116083 = {
+	name = "Ilyasu"
+	country = NIG
+	type = air
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L116083
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+116084 = {
+	name = "Leks"
+	country = NIG
+	type = air
+	skill = 0
+	max_skill = 5
+	loyalty = 0.00
+	picture = L116084
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+116085 = {
+	name = "Nwagwu"
+	country = NIG
+	type = air
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L116085
+	add_trait = fleet_destroyer
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+116086 = {
+	name = "Oladunni"
+	country = NIG
+	type = air
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L116086
+	add_trait = superior_air_tactician
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+116087 = {
+	name = "Ozegbe"
+	country = NIG
+	type = air
+	skill = 0
+	max_skill = 4
+	loyalty = 0.00
+	picture = L116087
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+116088 = {
+	name = "Badeh"
+	country = NIG
+	type = air
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L116088
+	add_trait = carpet_bomber
+	add_trait = superior_air_tactician
+	history = {
+		1995.1.1 = { rank = 1 }
+		1998.1.1 = { rank = 2 }
+		2001.1.1 = { rank = 3 }
+		2003.1.1 = { rank = 4 }
+	}
+}
+116089 = {
+	name = "Umar"
+	country = NIG
+	type = air
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L116089
+	add_trait = superior_air_tactician
+	history = {
+		1995.1.1 = { rank = 1 }
+		1998.1.1 = { rank = 2 }
+		2001.1.1 = { rank = 3 }
+		2003.1.1 = { rank = 4 }
+	}
+}
+116090 = {
+	name = "Badeh"
+	country = NIG
+	type = air
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L116090
+	add_trait = tank_buster
+	history = {
+		1998.1.1 = { rank = 1 }
+		2001.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+116091 = {
+	name = "Dike"
+	country = NIG
+	type = air
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L116091
+	history = {
+		1998.1.1 = { rank = 1 }
+		2001.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+116092 = {
+	name = "Eduok"
+	country = NIG
+	type = air
+	skill = 2
+	max_skill = 5
+	loyalty = 0.00
+	picture = L116092
+	history = {
+		1998.1.1 = { rank = 1 }
+		2001.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+116093 = {
+	name = "Ifemeje"
+	country = NIG
+	type = air
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = L116093
+	add_trait = night_flyer
+	history = {
+		1998.1.1 = { rank = 1 }
+		2001.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+116094 = {
+	name = "Petinrin"
+	country = NIG
+	type = air
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L116094
+	add_trait = carpet_bomber
+	history = {
+		1998.1.1 = { rank = 1 }
+		2001.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+116095 = {
+	name = "Dillimono"
+	country = NIG
+	type = air
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = L116095
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+116096 = {
+	name = "Nashehu"
+	country = NIG
+	type = air
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L116096
+	add_trait = tank_buster
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+116097 = {
+	name = "Odesola"
+	country = NIG
+	type = air
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L116097
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+116098 = {
+	name = "Samson-Oje"
+	country = NIG
+	type = air
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L116098
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+116099 = {
+	name = "Oshoniyi"
+	country = NIG
+	type = air
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L116099
+	add_trait = fleet_destroyer
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+116100 = {
+	name = "Osim"
+	country = NIG
+	type = air
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L116100
+	add_trait = tank_buster
+	add_trait = superior_air_tactician
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+116101 = {
+	name = "Adamu"
+	country = NIG
+	type = sea
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L116101
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+116102 = {
+	name = "Ajibade"
+	country = NIG
+	type = sea
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L116102
+	add_trait = seawolf
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+116103 = {
+	name = "Aliyu"
+	country = NIG
+	type = sea
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L116103
+	add_trait = spotter
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+116104 = {
+	name = "Audu"
+	country = NIG
+	type = sea
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L116104
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+116105 = {
+	name = "Effedua"
+	country = NIG
+	type = sea
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L116105
+	add_trait = blockade_runner
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+116106 = {
+	name = "Kpou"
+	country = NIG
+	type = sea
+	skill = 0
+	max_skill = 4
+	loyalty = 1.00
+	picture = L116106
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+116107 = {
+	name = "Nwokenna"
+	country = NIG
+	type = sea
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L116107
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+116108 = {
+	name = "Olamilokun"
+	country = NIG
+	type = sea
+	skill = 1
+	max_skill = 5
+	loyalty = 0.00
+	picture = L116108
+	add_trait = spotter
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+116109 = {
+	name = "Ibrahim"
+	country = NIG
+	type = sea
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L116109
+	add_trait = superior_tactician
+	history = {
+		1995.1.1 = { rank = 1 }
+		1998.1.1 = { rank = 2 }
+		2001.1.1 = { rank = 3 }
+		2003.1.1 = { rank = 4 }
+	}
+}
+116110 = {
+	name = "Adekeye"
+	country = NIG
+	type = sea
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L116110
+	add_trait = seawolf
+	history = {
+		1998.1.1 = { rank = 1 }
+		2001.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+116111 = {
+	name = "Aliyu"
+	country = NIG
+	type = sea
+	skill = 2
+	max_skill = 6
+	loyalty = 0.00
+	picture = L116111
+	history = {
+		1998.1.1 = { rank = 1 }
+		2001.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+116112 = {
+	name = "Ezeoba"
+	country = NIG
+	type = sea
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = L116112
+	history = {
+		1998.1.1 = { rank = 1 }
+		2001.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+116113 = {
+	name = "Hotonu"
+	country = NIG
+	type = sea
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = L116113
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+116114 = {
+	name = "Lokoson"
+	country = NIG
+	type = sea
+	skill = 2
+	max_skill = 6
+	loyalty = 0.00
+	picture = L116114
+	add_trait = superior_tactician
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+116115 = {
+	name = "Ogbor"
+	country = NIG
+	type = sea
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L116115
+	add_trait = spotter
+	add_trait = superior_tactician
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+116116 = {
+	name = "Quashie"
+	country = NIG
+	type = sea
+	skill = 2
+	max_skill = 6
+	loyalty = 0.00
+	picture = L116116
+	add_trait = seawolf
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}

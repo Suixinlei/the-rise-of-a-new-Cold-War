@@ -1,0 +1,50 @@
+theatre = {
+	name = "Bahrain Defence Force"
+	location = 9596
+	regiment = { type = hq_brigade name = "Bahrain Defence Force HQ" historical_model = 2 }
+	corps = {
+		name = "Royal Bahraini Army"
+		location = 9596
+		regiment = { type = hq_brigade name = "Royal Bahraini Army HQ" historical_model = 2 }
+		division = {
+			is_reserve = yes
+			name = "1st Armoured Brigade"
+			location = 9596
+			regiment = { type = armor_brigade name = "11th Armoured Battalion" historical_model = 0 }
+			regiment = { type = armor_brigade name = "12th Armoured Battalion" historical_model = 0 }
+		}
+		division = {
+			is_reserve = yes
+			name = "2nd Mechanized Infantry Brigade"
+			location = 9596
+			regiment = { type = mechanized_brigade name = "21st Mechanized Infantry Battalion" historical_model = 0 }
+			regiment = { type = mechanized_brigade name = "22nd Mechanized Infantry Battalion" historical_model = 0 }
+			regiment = { type = infantry_brigade name = "23rd Infantry Battalion" historical_model = 2 }
+			regiment = { type = artillery_brigade name = "Artillery Brigade" historical_model = 0 }
+		}
+		division = {
+			is_reserve = yes
+			name = "Special Forces Battalion"
+			location = 9596
+			regiment = { type = special_forces_brigade name = "Special Forces Battalion" historical_model = 2 }
+		}
+	}
+	
+	air = {
+	name = "Royal Bahraini Air Force"
+	base = 9596
+	location = 9596
+	wing = { type = multi_role name = "1st Fighter Squadron" historical_model = 0 }
+	}
+	
+	navy = {
+	name = "Royal Bahrain Naval Force"
+	base = 9596
+	location = 9596
+	ship = { type = heavy_cruiser name = "RBNS Sabha" historical_model = 0 }
+	ship = { type = patrol_boat name = "Al-Manama I" historical_model = 0 }
+	ship = { type = patrol_boat name = "Al-Manama II" historical_model = 0 }
+	ship = { type = patrol_boat name = "Al-Riffa I" historical_model = 0 }
+	ship = { type = patrol_boat name = "Al-Riffa II" historical_model = 0 }
+	}
+}

@@ -1,0 +1,456 @@
+color = { 71  113  97 }
+graphical_culture = Generic
+last_election = 2000.5.5
+duration = 48
+major = yes
+
+default_templates = {
+	generic_infantry = {
+		infantry_brigade
+		infantry_brigade
+		infantry_brigade
+	}
+	generic_milita = {
+		militia_brigade
+		militia_brigade
+		militia_brigade
+	}
+	generic_armoured = {
+		armor_brigade
+		motorized_brigade
+		motorized_brigade
+	}
+}
+
+unit_names = {
+
+
+}
+
+ministers = {
+	37501 = {
+		name = "Ali Khamenei"
+		ideology = fascistic
+		loyalty = 1.00
+		picture = M37501
+		head_of_state = devout_muslim
+		start_date = 2000.1.1
+	}
+	37502 = {
+		name = "Mohammad Khatami"
+		ideology = fascistic
+		loyalty = 1.00
+		picture = M37502
+		head_of_government = die_hard_reformer
+		start_date = 2000.1.1
+	}
+	37503 = {
+		name = "Ahmad Tavakkoli"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M37503
+		head_of_government = silent_workhorse
+		start_date = 2000.1.1
+	}
+	37504 = {
+		name = "Abdollah Jassbi"
+		ideology = social_liberal
+		loyalty = 1.00
+		picture = M37504
+		head_of_government = theoretical_scientist
+		start_date = 2000.1.1
+	}
+	37505 = {
+		name = "Mahmoud Kashani"
+		ideology = market_liberal
+		loyalty = 1.00
+		picture = M37505
+		head_of_government = resource_industrialist
+		start_date = 2000.1.1
+	}
+	37506 = {
+		name = "Mahmoud Ahmadinejad"
+		ideology = national_socialist
+		loyalty = 1.00
+		picture = M37506
+		head_of_government = iron_fisted_brute
+		start_date = 2000.1.1
+	}
+	37507 = {
+		name = "Akbar Hashemi Rafsanjani"
+		ideology = social_liberal
+		loyalty = 1.00
+		picture = M37507
+		head_of_government = die_hard_reformer
+		start_date = 2000.1.1
+	}
+	37508 = {
+		name = "Mir-Hossein Mousavi"
+		ideology = paternal_autocrat
+		loyalty = 1.00
+		picture = M37508
+		head_of_government = compassionate_gentleman
+		start_date = 2000.1.1
+	}
+	37509 = {
+		name = "Mohsen Rezaee"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M37509
+		head_of_government = industrial_spy
+		start_date = 2009.1.1
+	}
+	37510 = {
+		name = "Mehdi Karroubi"
+		ideology = social_liberal
+		loyalty = 1.00
+		picture = M37510
+		head_of_government = planning_representative
+		start_date = 2009.1.1
+	}
+	37511 = {
+		name = "Hassan Rouhani"
+		ideology = fascistic
+		loyalty = 1.00
+		picture = M37511
+		head_of_government = happy_amateur
+		start_date = 2013.1.1
+	}
+	37512 = {
+		name = "Mohammad Bagher Ghalibaf"
+		ideology = market_liberal
+		loyalty = 1.00
+		picture = M37512
+		head_of_government = apologetic_clerk
+		start_date = 2013.1.1
+	}
+	37513 = {
+		name = "Saeed Jalili"
+		ideology = national_socialist
+		loyalty = 1.00
+		picture = M37513
+		head_of_government = staunch_capitalist
+		start_date = 2005.1.1
+	}
+	37514 = {
+		name = "Ali Akbar Velayati"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M37514
+		head_of_government = flamboyant_tough_guy
+		start_date = 2000.1.1
+	}
+	37515 = {
+		name = "Mohammad Gharazi"
+		ideology = left_wing_radical
+		loyalty = 1.00
+		picture = M37515
+		head_of_government = barking_buffoon
+		start_date = 2000.1.1
+	}
+	37516 = {
+		name = "Kamal Kharazi"
+		ideology = fascistic
+		loyalty = 1.00
+		picture = M37516
+		foreign_minister = staunch_capitalist
+		start_date = 2000.1.1
+	}
+	37517 = {
+		name = "Manouchehr Mottaki"
+		ideology = market_liberal
+		loyalty = 1.00
+		picture = M37517
+		foreign_minister = pig_headed_isolationist
+		start_date = 2000.1.1
+	}
+	37518 = {
+		name = "Ali Akbar Salehi"
+		ideology = national_socialist
+		loyalty = 1.00
+		picture = M37518
+		foreign_minister = untalented_nerd
+		start_date = 2000.1.1
+	}
+	37519 = {
+		name = "Ali Shamkhani"
+		ideology = national_socialist
+		loyalty = 1.00
+		picture = M37519
+		armament_minister = political_protege
+		start_date = 2000.1.1
+	}
+	37520 = {
+		name = "Mostafa Mohammad-Najjar"
+		ideology = national_socialist
+		loyalty = 1.00
+		picture = M37520
+		armament_minister = silent_lawyer
+		minister_of_security = resource_industrialist
+		start_date = 2005.1.1
+	}
+	37521 = {
+		name = "Ahmad Vahidi"
+		ideology = national_socialist
+		loyalty = 1.00
+		picture = M37520
+		armament_minister = intellectualist
+		start_date = 2009.1.1
+	}
+	37522 = {
+		name = "Abdolvahed Mousavi Lari"
+		ideology = fascistic
+		loyalty = 1.00
+		picture = M37522
+		minister_of_security = man_of_the_people
+		start_date = 2000.1.1
+	}
+	37523 = {
+		name = "Mostafa Pourmohammadi"
+		ideology = national_socialist
+		loyalty = 1.00
+		picture = M37523
+		minister_of_security = backroom_backstabber
+		start_date = 2000.1.1
+	}
+	37524 = {
+		name = "Ali Kordan"
+		ideology = national_socialist
+		loyalty = 1.00
+		picture = M32524
+		minister_of_security = corrupt_kleptocrat
+		start_date = 2007.1.1
+	}
+	37525 = {
+		name = "Sadegh Mahsouli"
+		ideology = national_socialist
+		loyalty = 1.00
+		picture = M32525
+		minister_of_security = economic_expert
+		start_date = 2008.1.1
+	}
+	37526 = {
+		name = "Ali Younesi"
+		ideology = fascistic
+		loyalty = 1.00
+		picture = M37526
+		minister_of_intelligence = service_enforcer
+		start_date = 2000.1.1
+	}
+	37527 = {
+		name = "Gholam-Hossein Mohseni-Eje'i"
+		ideology = national_socialist
+		loyalty = 1.00
+		picture = M37527
+		minister_of_intelligence = industrial_spy
+		start_date = 2005.1.1
+	}
+	37528 = {
+		name = "Heydar Moslehi"
+		ideology = national_socialist
+		loyalty = 1.00
+		picture = M32528
+		minister_of_intelligence = general_staffer
+		start_date = 2005.1.1
+	}
+	37529 = {
+		name = "Mohammad-Reza Bahonar"
+		ideology = market_liberal
+		loyalty = 1.00
+		picture = M37529
+		minister_of_security = die_hard_reformer
+		start_date = 2000.1.1
+	}
+	37530 = {
+		name = "Hamid Reza Katouzian"
+		ideology = market_liberal
+		loyalty = 1.00
+		picture = M37530
+		armament_minister = air_to_ground_proponent
+		start_date = 2000.1.1
+	}
+	37531 = {
+		name = "Morteza Nabavi"
+		ideology = market_liberal
+		loyalty = 1.00
+		picture = M37531
+		minister_of_intelligence = people_shamer
+		start_date = 2000.1.1
+	}
+	37532 = {
+		name = "Habibollah Asgaroladi"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M37532
+		foreign_minister = anti_imperialist
+		start_date = 2000.1.1
+	}
+	37533 = {
+		name = "Sgravlady Habib"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M37533
+		armament_minister = silent_workhorse
+		start_date = 2000.1.1
+	}
+	37534 = {
+		name = "Asad Allah Badamchyan"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M37534
+		minister_of_security = autocratic_charmer
+		start_date = 2000.1.1
+	}
+	37535 = {
+		name = "Mohammad Nabi Habibi"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M37535
+		minister_of_intelligence = patriot
+		start_date = 2000.1.1
+	}
+	37536 = {
+		name = "Mohammad-Reza Khatami"
+		ideology = social_liberal
+		loyalty = 1.00
+		picture = M37536
+		foreign_minister = flamboyant_tough_guy
+		start_date = 2000.1.1
+	}
+	37537 = {
+		name = "Elaheh Koulaei"
+		ideology = social_liberal
+		loyalty = 1.00
+		picture = M37537
+		minister_of_security = fanatical_academic
+		start_date = 2000.1.1
+	}
+	37538 = {
+		name = "Mohsen Mirdamadi"
+		ideology = social_liberal
+		loyalty = 1.00
+		picture = M37538
+		armament_minister = popular_figurehead
+		start_date = 2000.1.1
+	}
+	37539 = {
+		name = "Ali Shakouri-Rad"
+		ideology = social_liberal
+		loyalty = 1.00
+		picture = M37539
+		minister_of_intelligence = political_protege
+		start_date = 2000.1.1
+	}
+	37540 = {
+		name = "Mohammad-Reza Mahdavi Kani"
+		ideology = fascistic
+		loyalty = 1.00
+		picture = M37540
+		armament_minister = school_of_mass_combat
+		start_date = 2000.1.1
+	}
+	37541 = {
+		name = "Mohammad Bagher Nobakht"
+		ideology = paternal_autocrat
+		loyalty = 1.00
+		picture = M37541
+		foreign_minister = good_connections
+		start_date = 2000.1.1
+	}
+	37542 = {
+		name = "Mahmoud Vaezi"
+		ideology = paternal_autocrat
+		loyalty = 1.00
+		picture = M37542
+		armament_minister = back_stabber
+		start_date = 2000.1.1
+	}
+	37543 = {
+		name = "Nobakht Haghighi"
+		ideology = paternal_autocrat
+		loyalty = 1.00
+		picture = M37543
+		minister_of_security = responsive_industrialist
+		start_date = 2000.1.1
+	}
+	37544 = {
+		name = "Akbar Torkan"
+		ideology = paternal_autocrat
+		loyalty = 1.00
+		picture = M37544
+		minister_of_intelligence = ideological_crusader
+		start_date = 2000.1.1
+	}
+	37545 = {
+		name = "Maryam Rajavi"
+		ideology = leninist
+		loyalty = 1.00
+		picture = M37545
+		foreign_minister = ambitious_union_boss
+		start_date = 2000.1.1
+	}
+	37546 = {
+		name = "Massoud Rajavi"
+		ideology = leninist
+		loyalty = 1.00
+		picture = M37546
+		head_of_government = service_enforcer
+		start_date = 2000.1.1
+	}
+	37547 = {
+		name = "Adib Boroumand"
+		ideology = social_democrat
+		loyalty = 1.00
+		picture = M37547
+		head_of_government = undistinguished_suit
+		start_date = 2000.1.1
+	}
+	37548 = {
+		name = "Behrouz Khaliq"
+		ideology = social_democrat
+		loyalty = 1.00
+		picture = M37548
+		foreign_minister = man_of_the_people
+		start_date = 2000.1.1
+	}
+	37549 = {
+		name = "Seyed Hassan Firouzabadi"
+		ideology = fascistic
+		loyalty = 1.00
+		picture = M37549
+		chief_of_staff = armoured_spearhead_doctrine
+		start_date = 2000.1.1
+	}
+	37550 = {
+		name = "Mohammad Salimi"
+		ideology = fascistic
+		loyalty = 1.00
+		picture = M37550
+		chief_of_army = military_slob
+		start_date = 2000.1.1
+	}
+	37551 = {
+		name = "Ataollah Salehi"
+		ideology = fascistic
+		loyalty = 1.00
+		picture = M37551
+		chief_of_army = tank_proponent
+		start_date = 2005.1.1
+	}
+	37552 = {
+		name = "Hassan Shah-Safi"
+		ideology = fascistic
+		loyalty = 1.00
+		picture = M37552
+		chief_of_air = old_air_marshal
+		start_date = 2000.1.1
+	}
+	37553 = {
+		name = "Habibollah Sayyari"
+		ideology = fascistic
+		loyalty = 1.00
+		picture = M37553
+		chief_of_navy = battle_fleet_proponent
+		start_date = 2000.1.1
+	}
+}

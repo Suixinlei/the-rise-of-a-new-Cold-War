@@ -1,0 +1,8 @@
+owner = NOR
+controller = NOR
+add_core = NOR
+
+infra = 2
+terrain = arctic
+crude_oil = 8.00
+naval_base = 2 #Hammerfest port

@@ -1,0 +1,101 @@
+color = { 130  92  191 }
+graphical_culture = Generic
+
+default_templates = {
+	generic_infantry = {
+		infantry_brigade
+		infantry_brigade
+		infantry_brigade
+	}
+	generic_milita = {
+		militia_brigade
+		militia_brigade
+		militia_brigade
+	}
+	generic_armoured = {
+		armor_brigade
+		motorized_brigade
+		motorized_brigade
+	}
+}
+
+unit_names = {
+
+}
+
+ministers = {
+	85501 = {
+		name = "Zayed bin Sultan Al Nahyan"
+		ideology = social_liberal
+		loyalty = 1.00
+		picture = M85501
+		head_of_state = smiling_oilman
+		chief_of_staff = general_staffer
+		chief_of_army = military_slob
+		chief_of_navy = talented_recruiter
+		chief_of_air = master_of_skies
+		start_date = 2000.1.1
+	}
+	85502 = {
+		name = "Khalifa bin Zayed Al Nahyan"
+		ideology = social_liberal
+		loyalty = 1.00
+		picture = M85502
+		head_of_state = die_hard_reformer
+		chief_of_staff = fanatical_academic
+		chief_of_army = school_of_fire_support
+		chief_of_navy = submarine_proponent
+		chief_of_air = air_to_sea_proponent
+		start_date = 2000.1.1
+	}
+	85503 = {
+		name = "Maktoum bin Rashid Al Maktoum"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M85503
+		head_of_government = money_is_might
+		start_date = 2000.1.1
+	}
+	85504 = {
+		name = "Mohammed bin Rashid Al Maktoum"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M85504
+		head_of_government = laissez_faires_capitalist
+		armament_minister = school_of_psychology
+		start_date = 2000.1.1
+	}
+	85505 = {
+		name = "Rashid Abdullah Al Nuaimi"
+		ideology = social_liberal
+		loyalty = 1.00
+		picture = M85505
+		foreign_minister = naive_optimist
+		start_date = 2000.1.1
+	}
+	85506 = {
+		name = "Abdullah bin Zayed Al Nahyan"
+		ideology = social_liberal
+		loyalty = 1.00
+		picture = M85506
+		foreign_minister = political_protege
+		start_date = 2000.1.1
+	}
+	85507 = {
+		name = "Mohamed bin Saeed Al Badi"
+		ideology = social_liberal
+		loyalty = 1.00
+		picture = M85507
+		minister_of_security = silent_workhorse
+		start_date = 2000.1.1
+	}
+	85508 = {
+		name = "Saif bin Zayed Al Nahyan"
+		ideology = social_liberal
+		loyalty = 1.00
+		picture = M85508
+		minister_of_security = crime_fighter
+		minister_of_intelligence = back_stabber
+		start_date = 2000.1.1
+	}	
+}

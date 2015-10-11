@@ -1,0 +1,8 @@
+owner = HOL
+controller = HOL
+add_core = HOL
+
+infra = 6
+
+
+naval_base = 2 #Willemstad port

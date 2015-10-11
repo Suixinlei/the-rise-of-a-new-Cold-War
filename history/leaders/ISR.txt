@@ -1,0 +1,1268 @@
+78001 = {
+	name = "Adam"
+	country = ISR
+	type = land
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L78001
+	add_trait = frontline_soldier
+	add_trait = commando
+	history = {
+		2002.1.1 = { rank = 1 }
+	}
+}
+
+78002 = {
+	name = "Agmon"
+	country = ISR
+	type = land
+	skill = 2
+	max_skill = 8
+	loyalty = 1.00
+	picture = L78002
+	add_trait = defensive_doctrine
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+78003 = {
+	name = "Almog"
+	country = ISR
+	type = land
+	skill = 2
+	max_skill = 8
+	loyalty = 1.00
+	picture = L78003
+	add_trait = offensive_doctrine
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+78004 = {
+	name = "Alon"
+	country = ISR
+	type = land
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L78004
+	add_trait = panzer_leader
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+78005 = {
+	name = "Ashkenazi"
+	country = ISR
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L78005
+	add_trait = landing_specialist
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+78006 = {
+	name = "Avital"
+	country = ISR
+	type = land
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L78006
+	add_trait = landing_specialist
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+78007 = {
+	name = "Ayash"
+	country = ISR
+	type = land
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L78007
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+78008 = {
+	name = "Barak"
+	country = ISR
+	type = land
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L78008
+	add_trait = offensive_doctrine
+	add_trait = panzer_leader
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+78009 = {
+	name = "Barbivai"
+	country = ISR
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L78009
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+78010 = {
+	name = "Beer"
+	country = ISR
+	type = land
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L78010
+	add_trait = panzer_leader
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+78011 = {
+	name = "Benayahu"
+	country = ISR
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L78011
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+78012 = {
+	name = "Ben-Reuven"
+	country = ISR
+	type = land
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L78012
+	add_trait = commando
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+78013 = {
+	name = "Biton"
+	country = ISR
+	type = land
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L78013
+	add_trait = engineer
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+78014 = {
+	name = "Dagan"
+	country = ISR
+	type = land
+	skill = 4
+	max_skill = 8
+	loyalty = 1.00
+	picture = L78014
+	add_trait = offensive_doctrine
+	add_trait = assaulter
+	history = {
+		1995.1.1 = { rank = 1 }
+		2000.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+78015 = {
+	name = "Dayan"
+	country = ISR
+	type = land
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L78015
+	history = {
+		1995.1.1 = { rank = 1 }
+		2000.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+78016 = {
+	name = "Efroni"
+	country = ISR
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L78016
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+78017 = {
+	name = "Eisenberg"
+	country = ISR
+	type = land
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L78017
+	add_trait = panzer_leader
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+78018 = {
+	name = "Eizenkot"
+	country = ISR
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L78018
+	add_trait = commando
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+78019 = {
+	name = "Fares"
+	country = ISR
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L78019
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+78020 = {
+	name = "Galant"
+	country = ISR
+	type = land
+	skill = 4
+	max_skill = 8
+	loyalty = 1.00
+	picture = L78020
+	history = {
+		1998.1.1 = { rank = 1 }
+		2002.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+78021 = {
+	name = "Gantz"
+	country = ISR
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L78021
+	add_trait = landing_specialist
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+78022 = {
+	name = "Gershon"
+	country = ISR
+	type = land
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L78022
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+78023 = {
+	name = "Golan"
+	country = ISR
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L78023
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+78024 = {
+	name = "Harari"
+	country = ISR
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L78024
+	add_trait = improvisation
+	add_trait = logistics_wizard
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+78025 = {
+	name = "Harel"
+	country = ISR
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L78025
+	add_trait = panzer_leader
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+78026 = {
+	name = "Har-Even"
+	country = ISR
+	type = land
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L78026
+	add_trait = hard_defender
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+78027 = {
+	name = "Hirsch"
+	country = ISR
+	type = land
+	skill = 2
+	max_skill = 8
+	loyalty = 1.00
+	picture = L78027
+	add_trait = panzer_leader
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+78028 = {
+	name = "Kaplinsky"
+	country = ISR
+	type = land
+	skill = 2
+	max_skill = 8
+	loyalty = 1.00
+	picture = L78028
+	add_trait = commando
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+78029 = {
+	name = "Kochavi"
+	country = ISR
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L78029
+	add_trait = landing_specialist
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+78030 = {
+	name = "Mandelblit"
+	country = ISR
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L78030
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+78031 = {
+	name = "Mishleb"
+	country = ISR
+	type = land
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L78031
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+78032 = {
+	name = "Mizrahi"
+	country = ISR
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L78032
+	add_trait = trickster
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+78033 = {
+	name = "Mordechai"
+	country = ISR
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L78033
+	add_trait = frontline_soldier
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+78034 = {
+	name = "Peled"
+	country = ISR
+	type = land
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L78034
+	add_trait = logistics_wizard
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+78035 = {
+	name = "Peretz"
+	country = ISR
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L78035
+	add_trait = trainer
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+78036 = {
+	name = "Rosenthal"
+	country = ISR
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L78036
+	add_trait = panzer_leader
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+78037 = {
+	name = "Russo"
+	country = ISR
+	type = land
+	skill = 3
+	max_skill = 9
+	loyalty = 1.00
+	picture = L78037
+	add_trait = commando
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+78038 = {
+	name = "Shamni"
+	country = ISR
+	type = land
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L78038
+	add_trait = commando
+	add_trait = assaulter
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+78039 = {
+	name = "Sofrin"
+	country = ISR
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L78039
+	add_trait = defensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+78040 = {
+	name = "Stern"
+	country = ISR
+	type = land
+	skill = 4
+	max_skill = 8
+	loyalty = 1.00
+	picture = L78040
+	add_trait = offensive_doctrine
+	add_trait = panzer_leader
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+78041 = {
+	name = "Zamir"
+	country = ISR
+	type = land
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L78041
+	add_trait = panzer_leader
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+78042 = {
+	name = "Shapira"
+	country = ISR
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L78042
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+78043 = {
+	name = "Jerayesh"
+	country = ISR
+	type = land
+	skill = 1
+	max_skill = 8
+	loyalty = 1.00
+	picture = L78043
+	add_trait = learners_will
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+78044 = {
+	name = "Noam"
+	country = ISR
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L78044
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+78045 = {
+	name = "Immanuell"
+	country = ISR
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L78045
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+78046 = {
+	name = "Matpash"
+	country = ISR
+	type = land
+	skill = 1
+	max_skill = 7
+	loyalty = 1.00
+	picture = L78046
+	add_trait = improvisation
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+78047 = {
+	name = "Benesch"
+	country = ISR
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L78047
+	add_trait = panzer_leader
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+78048 = {
+	name = "Chodorow"
+	country = ISR
+	type = land
+	skill = 1
+	max_skill = 7
+	loyalty = 1.00
+	picture = L78048
+	add_trait = engineer
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+78049 = {
+	name = "Coﬂmann"
+	country = ISR
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L78049
+	add_trait = commando
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+78050 = {
+	name = "Dvorkin"
+	country = ISR
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L78050
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+78051 = {
+	name = "Ephron"
+	country = ISR
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L78051
+	add_trait = landing_specialist
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+78052 = {
+	name = "Finegold"
+	country = ISR
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L78052
+	add_trait = panzer_leader
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+78053 = {
+	name = "Frumkin"
+	country = ISR
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L78053
+	add_trait = fortress_buster
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+78054 = {
+	name = "Halperin"
+	country = ISR
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L78054
+	add_trait = landing_specialist
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+78055 = {
+	name = "Hershtik"
+	country = ISR
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L78055
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+78056 = {
+	name = "Israel"
+	country = ISR
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L78056
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+78057 = {
+	name = "Idelson"
+	country = ISR
+	type = land
+	skill = 2
+	max_skill = 8
+	loyalty = 1.00
+	picture = L78057
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+78058 = {
+	name = "Ivanoff"
+	country = ISR
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L78058
+	add_trait = improvisation
+	add_trait = learners_will
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+78059 = {
+	name = "Jaalon"
+	country = ISR
+	type = land
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L78059
+	add_trait = offensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+78060 = {
+	name = "Kuperwasser"
+	country = ISR
+	type = land
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L78060
+	add_trait = panzer_leader
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+78061 = {
+	name = "Lipkin-Shahak "
+	country = ISR
+	type = land
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L78061
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+78062 = {
+	name = "Ziv"
+	country = ISR
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L78062
+	add_trait = panzer_leader
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+78063 = {
+	name = "Levine"
+	country = ISR
+	type = land
+	skill = 2
+	max_skill = 8
+	loyalty = 1.00
+	picture = L78063
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+78064 = {
+	name = "Vilnai"
+	country = ISR
+	type = land
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L78064
+	add_trait = defensive_doctrine
+	add_trait = frontline_soldier
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+78065 = {
+	name = "Regev"
+	country = ISR
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L78065
+	add_trait = logistics_wizard
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+78066 = {
+	name = "Mofaz"
+	country = ISR
+	type = land
+	skill = 5
+	max_skill = 9
+	loyalty = 1.00
+	picture = L78066
+	add_trait = commando
+	history = {
+		1995.1.1 = { rank = 1 }
+		1998.1.1 = { rank = 2 }
+		2001.1.1 = { rank = 3 }
+		2003.1.1 = { rank = 4 }
+	}
+}
+78067 = {
+	name = "Stavi"
+	country = ISR
+	type = land
+	skill = 2
+	max_skill = 8
+	loyalty = 1.00
+	picture = L78067
+	add_trait = landing_specialist
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+78068 = {
+	name = "Amiti"
+	country = ISR
+	type = land
+	skill = 1
+	max_skill = 7
+	loyalty = 1.00
+	picture = L78068
+	add_trait = offensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+78069 = {
+	name = "Ben Eliyahu"
+	country = ISR
+	type = air
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L78069
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+78070 = {
+	name = "Bodinger"
+	country = ISR
+	type = air
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L78070
+	add_trait = superior_air_tactician
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+78071 = {
+	name = "Eshel"
+	country = ISR
+	type = air
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = L78071
+	add_trait = night_flyer
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+78072 = {
+	name = "Halutz"
+	country = ISR
+	type = air
+	skill = 4
+	max_skill = 8
+	loyalty = 1.00
+	picture = L78072
+	add_trait = carpet_bomber
+	add_trait = fleet_destroyer
+	history = {
+		1998.1.1 = { rank = 1 }
+		2001.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+78073 = {
+	name = "Hemeli"
+	country = ISR
+	type = air
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L78073
+	add_trait = fleet_destroyer
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+78074 = {
+	name = "Katabi"
+	country = ISR
+	type = air
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L78074
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+78075 = {
+	name = "Nehoshtan"
+	country = ISR
+	type = air
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L78075
+	add_trait = carpet_bomber
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+78076 = {
+	name = "Shkedi"
+	country = ISR
+	type = air
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L78076
+	add_trait = night_flyer
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+78077 = {
+	name = "Shohat"
+	country = ISR
+	type = air
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L78077
+	add_trait = superior_air_tactician
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+78078 = {
+	name = "Yadlin"
+	country = ISR
+	type = air
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L78078
+	add_trait = carpet_bomber
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+78079 = {
+	name = "Inbar"
+	country = ISR
+	type = air
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L78079
+	add_trait = superior_air_tactician
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+78080 = {
+	name = "Gefen"
+	country = ISR
+	type = air
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = L78080
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+78081 = {
+	name = "Tapuchi"
+	country = ISR
+	type = air
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L78081
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+78082 = {
+	name = "Ben-Tzvi"
+	country = ISR
+	type = air
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = L78082
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+78083 = {
+	name = "Har-El"
+	country = ISR
+	type = air
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L78083
+	add_trait = superior_air_tactician
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+78084 = {
+	name = "Sharett"
+	country = ISR
+	type = air
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L78084
+	add_trait = night_flyer
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+78085 = {
+	name = "Ben-Artzi"
+	country = ISR
+	type = air
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L78085
+	add_trait = tank_buster
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+78086 = {
+	name = "Avigur"
+	country = ISR
+	type = air
+	skill = 3
+	max_skill = 6
+	loyalty = 1.00
+	picture = L78086
+	add_trait = tank_buster
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+78087 = {
+	name = "Ba'ashat"
+	country = ISR
+	type = sea
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L78087
+	add_trait = seawolf
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+78088 = {
+	name = "Marom"
+	country = ISR
+	type = sea
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L78088
+	add_trait = superior_tactician
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+78089 = {
+	name = "Marum"
+	country = ISR
+	type = sea
+	skill = 4
+	max_skill = 7
+	loyalty = 1.00
+	picture = L78089
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+78090 = {
+	name = "Rothberg"
+	country = ISR
+	type = sea
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L78090
+	add_trait = spotter
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+78091 = {
+	name = "Ya'ari"
+	country = ISR
+	type = sea
+	skill = 5
+	max_skill = 8
+	loyalty = 1.00
+	picture = L78091
+	add_trait = spotter
+	add_trait = superior_tactician
+	history = {
+		1998.1.1 = { rank = 1 }
+		2000.1.1 = { rank = 2 }
+		2002.1.1 = { rank = 3 }
+		2003.1.1 = { rank = 4 }
+	}
+}
+78092 = {
+	name = "Talmi"
+	country = ISR
+	type = sea
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L78092
+	add_trait = seawolf
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+78093 = {
+	name = "Nimrod"
+	country = ISR
+	type = sea
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L78093
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+78094 = {
+	name = "Rozen"
+	country = ISR
+	type = land
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = L78094
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+78095 = {
+	name = "Ben-Tov"
+	country = ISR
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L78095
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+78096 = {
+	name = "Ashkenazi"
+	country = ISR
+	type = sea
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L78096
+	add_trait = seawolf
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+78097 = {
+	name = "Lazarus"
+	country = ISR
+	type = sea
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = L78097
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}

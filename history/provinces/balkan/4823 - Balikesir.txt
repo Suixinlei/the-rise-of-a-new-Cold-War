@@ -1,0 +1,7 @@
+owner = TUR
+controller = TUR
+add_core = TUR
+
+infra = 6
+air_base = 6 #Balikesir and Bandirma airbase
+points = 1

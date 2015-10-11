@@ -1,0 +1,12 @@
+owner = SOV
+controller = SOV
+add_core = SOV
+industry = 10
+infra = 10
+manpower = 15.00
+metal = 24.00
+rare_materials = 20.00
+air_base = 10 #Moscow airport
+leadership = 3.00
+points = 1
+energy = 50

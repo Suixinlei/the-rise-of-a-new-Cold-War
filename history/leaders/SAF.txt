@@ -1,0 +1,1037 @@
+145001 = {
+	name = "Armstrong"
+	country = SAF
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L145001
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+145002 = {
+	name = "Lammer"
+	country = SAF
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L145002
+	add_trait = offensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+145003 = {
+	name = "Anghothi"
+	country = SAF
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L145003
+	add_trait = panzer_leader
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+145004 = {
+	name = "Shoke"
+	country = SAF
+	type = land
+	skill = 4
+	max_skill = 8
+	loyalty = 1.00
+	picture = L145004
+	add_trait = defensive_doctrine
+	add_trait = improvisation
+	history = {
+		1995.1.1 = { rank = 1 }
+		1998.1.1 = { rank = 2 }
+		2001.1.1 = { rank = 3 }
+		2003.1.1 = { rank = 4 }
+	}
+}
+145005 = {
+	name = "Ngwenya"
+	country = SAF
+	type = land
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L145005
+	add_trait = offensive_doctrine
+	history = {
+		1995.1.1 = { rank = 1 }
+		1999.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+145006 = {
+	name = "Nyanda"
+	country = SAF
+	type = land
+	skill = 4
+	max_skill = 7
+	loyalty = 1.00
+	picture = L145006
+	history = {
+		1995.1.1 = { rank = 1 }
+		1999.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+145007 = {
+	name = "Bond"
+	country = SAF
+	type = land
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L145007
+	add_trait = trickster
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+145008 = {
+	name = "Masondo"
+	country = SAF
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L145008
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+145009 = {
+	name = "Mgwebi"
+	country = SAF
+	type = land
+	skill = 3
+	max_skill = 6
+	loyalty = 1.00
+	picture = L145009
+	add_trait = commando
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+145010 = {
+	name = "Romano"
+	country = SAF
+	type = land
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = L145010
+	add_trait = assaulter
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+145011 = {
+	name = "Andersen"
+	country = SAF
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L145011
+	add_trait = panzer_leader
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+145012 = {
+	name = "Gqiba"
+	country = SAF
+	type = land
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = L145012
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+145013 = {
+	name = "Hlatshwayo"
+	country = SAF
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L145013
+	add_trait = commando
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+145014 = {
+	name = "Jamangile"
+	country = SAF
+	type = land
+	skill = 2
+	max_skill = 8
+	loyalty = 1.00
+	picture = L145014
+	add_trait = trainer
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+145015 = {
+	name = "Kazura"
+	country = SAF
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L145015
+	add_trait = landing_specialist
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+145016 = {
+	name = "Lategan"
+	country = SAF
+	type = land
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L145016
+	add_trait = panzer_leader
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+145017 = {
+	name = "Magasela"
+	country = SAF
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L145017
+	add_trait = commando
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+145018 = {
+	name = "Marumo"
+	country = SAF
+	type = land
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = L145018
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+145019 = {
+	name = "Molefe"
+	country = SAF
+	type = land
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = L145019
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+145020 = {
+	name = "Mpaxa"
+	country = SAF
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L145020
+	add_trait = landing_specialist
+	add_trait = learners_will
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+145021 = {
+	name = "Peschel"
+	country = SAF
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L145021
+	add_trait = panzer_leader
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+145022 = {
+	name = "Rembrandt"
+	country = SAF
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L145022
+	add_trait = offensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+145023 = {
+	name = "Rolinyathi"
+	country = SAF
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L145023
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+145024 = {
+	name = "Rudman"
+	country = SAF
+	type = land
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L145024
+	add_trait = logistics_wizard
+	add_trait = offensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+145025 = {
+	name = "Yem"
+	country = SAF
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L145025
+	add_trait = frontline_soldier
+	add_trait = commando
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+145026 = {
+	name = "Gildenhuys"
+	country = SAF
+	type = land
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L145026
+	add_trait = defensive_doctrine
+	add_trait = hard_defender
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+145027 = {
+	name = "Mugisha"
+	country = SAF
+	type = land
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = L145027
+	add_trait = landing_specialist
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+145028 = {
+	name = "Achterberg"
+	country = SAF
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L145028
+	add_trait = commando
+	add_trait = engineer
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+145029 = {
+	name = "Aarde"
+	country = SAF
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L145029
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+145030 = {
+	name = "Ashmead"
+	country = SAF
+	type = land
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = L145030
+	add_trait = trickster
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+145031 = {
+	name = "Azzini"
+	country = SAF
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L145031
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+145032 = {
+	name = "Antwerpen"
+	country = SAF
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L145032
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+145033 = {
+	name = "Bank"
+	country = SAF
+	type = land
+	skill = 1
+	max_skill = 7
+	loyalty = 1.00
+	picture = L145033
+	add_trait = landing_specialist
+	add_trait = learners_will
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+145034 = {
+	name = "Bailey"
+	country = SAF
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L145034
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+145035 = {
+	name = "Bowels"
+	country = SAF
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L145035
+	add_trait = commando
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+145036 = {
+	name = "Creighton"
+	country = SAF
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L145036
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+145037 = {
+	name = "Donckerson"
+	country = SAF
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L145037
+	add_trait = frontline_soldier
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+145038 = {
+	name = "Erwee"
+	country = SAF
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L145038
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+145039 = {
+	name = "Fry"
+	country = SAF
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L145039
+	add_trait = logistics_wizard
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+145040 = {
+	name = "Freedman"
+	country = SAF
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L145040
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+145041 = {
+	name = "Gotham"
+	country = SAF
+	type = land
+	skill = 1
+	max_skill = 7
+	loyalty = 1.00
+	picture = L145041
+	add_trait = commando
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+145042 = {
+	name = "Gunter"
+	country = SAF
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L145042
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+145043 = {
+	name = "Heever"
+	country = SAF
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L145043
+	add_trait = panzer_leader
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+145044 = {
+	name = "Hill"
+	country = SAF
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L145044
+	add_trait = commando
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+145045 = {
+	name = "Hopgood"
+	country = SAF
+	type = land
+	skill = 1
+	max_skill = 8
+	loyalty = 1.00
+	picture = L145045
+	add_trait = trainer
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+145046 = {
+	name = "Liebenberg"
+	country = SAF
+	type = land
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L145046
+	add_trait = logistics_wizard
+	add_trait = offensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+145047 = {
+	name = "Hogben"
+	country = SAF
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L145047
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+145048 = {
+	name = "Hurter"
+	country = SAF
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L145048
+	add_trait = defensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+145049 = {
+	name = "Irving"
+	country = SAF
+	type = land
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = L145049
+	add_trait = panzer_leader
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+145050 = {
+	name = "Jaarsveld"
+	country = SAF
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L145050
+	add_trait = commando
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+145051 = {
+	name = "Jewitt"
+	country = SAF
+	type = land
+	skill = 1
+	max_skill = 7
+	loyalty = 1.00
+	picture = L145051
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+145052 = {
+	name = "Kaine"
+	country = SAF
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L145052
+	add_trait = engineer
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+145053 = {
+	name = "Krygsman"
+	country = SAF
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L145053
+	add_trait = commando
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+145054 = {
+	name = "Licence"
+	country = SAF
+	type = land
+	skill = 1
+	max_skill = 4
+	loyalty = 1.00
+	picture = L145054
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+145055 = {
+	name = "Orr"
+	country = SAF
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L145055
+	add_trait = improvisation
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+145056 = {
+	name = "Pereira"
+	country = SAF
+	type = air
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L145056
+	add_trait = night_flyer
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+145057 = {
+	name = "Pypers"
+	country = SAF
+	type = air
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = L145057
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+145058 = {
+	name = "Quinn"
+	country = SAF
+	type = air
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L145058
+	add_trait = tank_buster
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+145059 = {
+	name = "Reed"
+	country = SAF
+	type = air
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L145059
+	add_trait = superior_air_tactician
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+145060 = {
+	name = "Rovak"
+	country = SAF
+	type = air
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = L145060
+	add_trait = fleet_destroyer
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+145061 = {
+	name = "Sawyer"
+	country = SAF
+	type = air
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = L145061
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+145062 = {
+	name = "Swift"
+	country = SAF
+	type = air
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L145062
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+145063 = {
+	name = "Tyvass"
+	country = SAF
+	type = air
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L145063
+	add_trait = night_flyer
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+145064 = {
+	name = "Uys"
+	country = SAF
+	type = air
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = L145064
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+145065 = {
+	name = "Gagiano"
+	country = SAF
+	type = air
+	skill = 4
+	max_skill = 8
+	loyalty = 1.00
+	picture = L145065
+	add_trait = carpet_bomber
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+145066 = {
+	name = "Msimang"
+	country = SAF
+	type = air
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L145066
+	add_trait = carpet_bomber
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+145067 = {
+	name = "Vywer"
+	country = SAF
+	type = sea
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = L145067
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+145068 = {
+	name = "Vardy"
+	country = SAF
+	type = sea
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L145068
+	add_trait = seawolf
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+145069 = {
+	name = "Whittaker"
+	country = SAF
+	type = sea
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = L145069
+	add_trait = spotter
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+145070 = {
+	name = "Westhuizen"
+	country = SAF
+	type = sea
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L145070
+	add_trait = superior_tactician
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+145071 = {
+	name = "Yelverton"
+	country = SAF
+	type = sea
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L145071
+	add_trait = seawolf
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+145072 = {
+	name = "Mudimu"
+	country = SAF
+	type = sea
+	skill = 4
+	max_skill = 8
+	loyalty = 1.00
+	picture = L145072
+	add_trait = superior_tactician
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+145073 = {
+	name = "Foggo"
+	country = SAF
+	type = sea
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L145073
+	add_trait = seawolf
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+145074 = {
+	name = "Magalefa"
+	country = SAF
+	type = sea
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L145074
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+145075 = {
+	name = "Mphafi"
+	country = SAF
+	type = sea
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L145075
+	add_trait = spotter
+	add_trait = seawolf
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+145076 = {
+	name = "Schöultz"
+	country = SAF
+	type = sea
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L145076
+	add_trait = seawolf
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+145077 = {
+	name = "Teuteberg"
+	country = SAF
+	type = sea
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L145077
+	add_trait = superior_tactician
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+145078 = {
+	name = "Zaaiman"
+	country = SAF
+	type = sea
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L145078
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+145079 = {
+	name = "Grunwald"
+	country = SAF
+	type = sea
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L145079
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+145080 = {
+	name = "Benerak"
+	country = SAF
+	type = sea
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L145080
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}

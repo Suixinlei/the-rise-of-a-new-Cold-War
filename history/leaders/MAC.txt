@@ -1,0 +1,238 @@
+95001 = {
+	name = "Alaverdov"
+	country = MAC
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L95001
+	add_trait = commando
+	history = {
+		2003.1.1 = { rank = 1 }
+        }
+}
+95002 = {
+	name = "Dobrudzhanski"
+	country = MAC
+	type = air
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L95002
+	add_trait = old_guard
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+95003 = {
+	name = "Blazev"
+	country = MAC
+	type = sea
+	skill = 1
+	max_skill = 4
+	loyalty = 1.00
+	picture = L95003
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+95004 = {
+	name = "Markovski"
+	country = MAC
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L95004
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+95005 = {
+	name = "Selimi"
+	country = MAC
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 0.00
+	picture = L95005
+	add_trait = engineer
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+95006 = {
+	name = "Georgievski"
+	country = MAC
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 0.00
+	picture = L95006
+	add_trait = assaulter
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+95007 = {
+	name = "Grujo"
+	country = MAC
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 0.00
+	picture = L95007
+	add_trait = learners_will
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+95008 = {
+	name = "Bogdanovski"
+	country = MAC
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L95008
+	add_trait = defensive_doctrine
+	history = {
+		1998.1.1 = { rank = 1 }
+		2001.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+95009 = {
+	name = "Granic"
+	country = MAC
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 0.00
+	picture = L95009
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+95010 = {
+	name = "Petkoska"
+	country = MAC
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L95010
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+95011 = {
+	name = "Drakaski"
+	country = MAC
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L95011
+	add_trait = panzer_leader
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+95012 = {
+	name = "Trajkovski"
+	country = MAC
+	type = land
+	skill = 4
+	max_skill = 8
+	loyalty = 1.00
+	picture = L95012
+	history = {
+		1995.1.1 = { rank = 1 }
+		1998.1.1 = { rank = 2 }
+		2001.1.1 = { rank = 3 }
+		2003.1.1 = { rank = 4 }
+	}
+}
+95013 = {
+	name = "Stojanovski"
+	country = MAC
+	type = land
+	skill = 3
+	max_skill = 6
+	loyalty = 1.00
+	picture = L95013
+	add_trait = defensive_doctrine
+	history = {
+		1998.1.1 = { rank = 1 }
+		2001.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+95014 = {
+	name = "Boškoski"
+	country = MAC
+	type = land
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = L95014
+	add_trait = panzer_leader
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+95015 = {
+	name = "Dimov"
+	country = MAC
+	type = land
+	skill = 2
+	max_skill = 5
+	loyalty = 0.00
+	picture = L95015
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+95016 = {
+	name = "Koteski"
+	country = MAC
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L95016
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+95017 = {
+	name = "Nikolovski"
+	country = MAC
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L95017
+	add_trait = commando
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+95018 = {
+	name = "Petrovski"
+	country = MAC
+	type = air
+	skill = 3
+	max_skill = 6
+	loyalty = 1.00
+	picture = L95018
+	history = {
+		1998.1.1 = { rank = 1 }
+		2001.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}

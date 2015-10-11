@@ -1,0 +1,7 @@
+owner = AST
+controller = AST
+add_core = AST
+infra = 8
+air_base = 3 #RAAF Williamtown and Richmond
+naval_base = 6 #Newcastle port
+points = 1

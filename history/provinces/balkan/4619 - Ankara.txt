@@ -1,0 +1,12 @@
+owner = TUR
+controller = TUR
+add_core = TUR
+industry = 4
+
+manpower = 2.00
+
+
+infra = 8
+air_base = 8 #Esenboga airport and numerous airbases
+leadership = 2.50
+points = 1

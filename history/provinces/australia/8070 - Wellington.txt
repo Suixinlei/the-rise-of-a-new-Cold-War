@@ -1,0 +1,8 @@
+owner = NZL
+controller = NZL
+add_core = NZL
+infra = 8
+air_base = 5 #Wellington airport and RNAF Ohakea
+naval_base = 6 #Wellington port
+leadership = 2.50
+points = 1

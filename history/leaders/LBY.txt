@@ -1,0 +1,871 @@
+92001 = {
+	name = "al-Fitouri"
+	country = LBY
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L92001
+	add_trait = panzer_leader
+	add_trait = learners_will
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+92002 = {
+	name = "Abubakar"
+	country = LBY
+	type = land
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L92002
+	add_trait = improvisation
+	add_trait = commando
+	history = {
+		2000.1.1 = { rank = 4 }
+	}
+}
+92003 = {
+	name = "al-Manqush"
+	country = LBY
+	type = land
+	skill = 3
+	max_skill = 6
+	loyalty = 1.00
+	picture = L92003
+	add_trait = fortress_buster
+	history = {
+		2000.1.1 = { rank = 3 }
+	}
+}
+92004 = {
+	name = "Almbrok"
+	country = LBY
+	type = land
+	skill = 4
+	max_skill = 6
+	loyalty = 1.00
+	picture = L92004
+	history = {
+		2000.1.1 = { rank = 3 }
+	}
+}
+92005 = {
+	name = "al-Oubaydi"
+	country = LBY
+	type = land
+	skill = 2
+	max_skill = 5
+	loyalty = 0.00
+	picture = L92005
+	add_trait = offensive_doctrine
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+92006 = {
+	name = "Jaber"
+	country = LBY
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L92006
+	add_trait = hard_defender
+	add_trait = frontline_soldier
+	history = {
+		2000.1.1 = { rank = 2 }
+	}
+}
+92007 = {
+	name = "Haftar"
+	country = LBY
+	type = land
+	skill = 2
+	max_skill = 4
+	loyalty = 1.00
+	picture = L92007
+	add_trait = old_guard
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+92008 = {
+	name = "Mangoush"
+	country = LBY
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L92008
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+92009 = {
+	name = "K. al-Gaddafi "
+	country = LBY
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L92009
+	add_trait = defensive_doctrine
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+92010 = {
+	name = "Younes"
+	country = LBY
+	type = land
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L92010
+	add_trait = panzer_leader
+	history = {
+		2000.1.1 = { rank = 2 }
+	}
+}
+92011 = {
+	name = "Ali"
+	country = LBY
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L92011
+	add_trait = commando
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+92012 = {
+	name = "Aknin"
+	country = LBY
+	type = land
+	skill = 1
+	max_skill = 4
+	loyalty = 1.00
+	picture = L92012
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+92013 = {
+	name = "Hamuy"
+	country = LBY
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L92013
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+92014 = {
+	name = "Mulzac"
+	country = LBY
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L92014
+	add_trait = assaulter
+	add_trait = improvisation
+	history = {
+		2000.1.1 = { rank = 2 }
+	}
+}
+92015 = {
+	name = "Ohana"
+	country = LBY
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 1.00
+	picture = L92015
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+92016 = {
+	name = "Mammeri"
+	country = LBY
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L92016
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+92017 = {
+	name = "Quakni"
+	country = LBY
+	type = land
+	skill = 1
+	max_skill = 4
+	loyalty = 1.00
+	picture = L92017
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+92018 = {
+	name = "Tanzir"
+	country = LBY
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 1.00
+	picture = L92018
+	add_trait = versatile
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+92019 = {
+	name = "Ouyaha"
+	country = LBY
+	type = land
+	skill = 0
+	max_skill = 4
+	loyalty = 1.00
+	picture = L92019
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+92020 = {
+	name = "Abrika"
+	country = LBY
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L92020
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+92021 = {
+	name = "Mehenni"
+	country = LBY
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L92021
+	add_trait = engineer
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+92022 = {
+	name = "Othmani"
+	country = LBY
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L92022
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+92023 = {
+	name = "A. Demsiri"
+	country = LBY
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L92023
+	add_trait = marine
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+92024 = {
+	name = "M. Demsiri"
+	country = LBY
+	type = land
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = L92024
+	add_trait = panzer_leader
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+92025 = {
+	name = "Massi"
+	country = LBY
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L92025
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+92026 = {
+	name = "M. Djaout"
+	country = LBY
+	type = land
+	skill = 1
+	max_skill = 8
+	loyalty = 1.00
+	picture = L92026
+	add_trait = learners_will
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+92027 = {
+	name = "H. Djaout"
+	country = LBY
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L92027
+	add_trait = trainer
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+92028 = {
+	name = "K. Zidane"
+	country = LBY
+	type = land
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = L92028
+	add_trait = commando
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+92029 = {
+	name = "A. Zidane"
+	country = LBY
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L92029
+	add_trait = engineer
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+92030 = {
+	name = "Yahya"
+	country = LBY
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L92030
+	add_trait = improvisation
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+92031 = {
+	name = "Ibrahim"
+	country = LBY
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L92031
+	add_trait = commando
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+92032 = {
+	name = "A. Dawud"
+	country = LBY
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 1.00
+	picture = L92032
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+92033 = {
+	name = "Y. Dawud"
+	country = LBY
+	type = land
+	skill = 0
+	max_skill = 6
+	loyalty = 1.00
+	picture = L92033
+	add_trait = landlubber
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+92034 = {
+	name = "Chalid"
+	country = LBY
+	type = land
+	skill = 3
+	max_skill = 5
+	loyalty = 1.00
+	picture = L92034
+	add_trait = engineer
+	history = {
+		2000.1.1 = { rank = 2 }
+	}
+}
+92035 = {
+	name = "Reza"
+	country = LBY
+	type = land
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = L92035
+	add_trait = commando
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+92036 = {
+	name = "Samet"
+	country = LBY
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L92036
+	add_trait = panzer_leader
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+92037 = {
+	name = "Masaad"
+	country = LBY
+	type = land
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = L92037
+	add_trait = versatile
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+92038 = {
+	name = "Sa'ada"
+	country = LBY
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L92038
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+92039 = {
+	name = "al-Garzai"
+	country = LBY
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L92039
+	add_trait = landing_specialist
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+92040 = {
+	name = "al-Tuwaijri"
+	country = LBY
+	type = land
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = L92040
+	add_trait = commando
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+92041 = {
+	name = "al-Shalawi"
+	country = LBY
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L92041
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+92042 = {
+	name = "al-Kaabi"
+	country = LBY
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L92042
+	add_trait = frontline_soldier
+	history = {
+		2000.1.1 = { rank = 2 }
+	}
+}
+92043 = {
+	name = "Maalouf"
+	country = LBY
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L92043
+	add_trait = engineer
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+92044 = {
+	name = "Haldeimaoul"
+	country = LBY
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L92044
+	add_trait = commando
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+92045 = {
+	name = "al-Ahmad"
+	country = LBY
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L92045
+	add_trait = panzer_leader
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+92046 = {
+	name = "al-Blawi"
+	country = LBY
+	type = land
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = L92046
+	add_trait = defensive_doctrine
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+92047 = {
+	name = "Mohammed"
+	country = LBY
+	type = land
+	skill = 3
+	max_skill = 6
+	loyalty = 1.00
+	picture = L92047
+	history = {
+		2000.1.1 = { rank = 2 }
+	}
+}
+92048 = {
+	name = "al-Akira"
+	country = LBY
+	type = land
+	skill = 1
+	max_skill = 4
+	loyalty = 1.00
+	picture = L92048
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+92049 = {
+	name = "al-Fakir"
+	country = LBY
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L92049
+	add_trait = fortress_buster
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+92050 = {
+	name = "al-Mezul"
+	country = LBY
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L92050
+	add_trait = trickster
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+92051 = {
+	name = "al-Arab"
+	country = LBY
+	type = land
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = L92051
+	add_trait = offensive_doctrine
+	history = {
+		2000.1.1 = { rank = 2 }
+	}
+}
+92052 = {
+	name = "al-Murzi"
+	country = LBY
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L92052
+	add_trait = panzer_leader
+	add_trait = frontline_soldier
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+92053 = {
+	name = "al-Murzi"
+	country = LBY
+	type = air
+	skill = 2
+	max_skill = 4
+	loyalty = 1.00
+	picture = L92053
+	add_trait = tank_buster
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+92054 = {
+	name = "al-Arab"
+	country = LBY
+	type = air
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L92054
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+92055 = {
+	name = "Mohammed"
+	country = LBY
+	type = air
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L92055
+	add_trait = carpet_bomber
+	history = {
+		2000.1.1 = { rank = 2 }
+	}
+}
+92056 = {
+	name = "Mahmoud"
+	country = LBY
+	type = air
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L92056
+	add_trait = superior_air_tactician
+	history = {
+		2000.1.1 = { rank = 4 }
+	}
+}
+92057 = {
+	name = "Ali"
+	country = LBY
+	type = air
+	skill = 1
+	max_skill = 4
+	loyalty = 1.00
+	picture = L92057
+	add_trait = night_flyer
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+92058 = {
+	name = "al-Hedscha"
+	country = LBY
+	type = air
+	skill = 1
+	max_skill = 4
+	loyalty = 1.00
+	picture = L92058
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+92059 = {
+	name = "Abrash"
+	country = LBY
+	type = air
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L92059
+	add_trait = fleet_destroyer
+	history = {
+		2000.1.1 = { rank = 2 }
+	}
+}
+92060 = {
+	name = "al-Fiqri"
+	country = LBY
+	type = air
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L92060
+	add_trait = carpet_bomber
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+92061 = {
+	name = "Sillou"
+	country = LBY
+	type = air
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L92061
+	add_trait = superior_air_tactician
+	add_trait = tank_buster
+	history = {
+		2000.1.1 = { rank = 3 }
+	}
+}
+92062 = {
+	name = "al-Shishakli"
+	country = LBY
+	type = air
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L92062
+	add_trait = fleet_destroyer
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+92063 = {
+	name = "al-Aslan"
+	country = LBY
+	type = sea
+	skill = 1
+	max_skill = 4
+	loyalty = 1.00
+	picture = L92063
+	add_trait = spotter
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+92064 = {
+	name = "al-Hedschas"
+	country = LBY
+	type = sea
+	skill = 1
+	max_skill = 4
+	loyalty = 1.00
+	picture = L92064
+	history = {
+		2000.1.1 = { rank = 2 }
+	}
+}
+92065 = {
+	name = "M. Abrash"
+	country = LBY
+	type = sea
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L92065
+	add_trait = seawolf
+	history = {
+		2000.1.1 = { rank = 2 }
+	}
+}
+92066 = {
+	name = "al-Fiqri"
+	country = LBY
+	type = sea
+	skill = 3
+	max_skill = 6
+	loyalty = 1.00
+	picture = L92066
+	add_trait = superior_tactician
+	history = {
+		2000.1.1 = { rank = 4 }
+	}
+}
+92067 = {
+	name = "al-Tobru"
+	country = LBY
+	type = sea
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L92067
+	history = {
+		2000.1.1 = { rank = 2 }
+	}
+}
+92068 = {
+	name = "al-Shishakli"
+	country = LBY
+	type = sea
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = L92068
+	add_trait = seawolf
+	add_trait = blockade_runner
+	history = {
+		2000.1.1 = { rank = 3 }
+	}
+}

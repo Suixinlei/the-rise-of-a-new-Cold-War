@@ -1,0 +1,15 @@
+owner = UKR
+controller = UKR
+add_core = UKR
+manpower = 1.00
+infra = 8
+
+
+air_base = 2 #Odessa airbase
+naval_base = 10 #Odessa port
+leadership = 2.50
+points = 1
+industry = 6
+rare_materials = 10.00
+metal = 25.00
+energy = 35.00

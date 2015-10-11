@@ -1,0 +1,9 @@
+owner = GER
+controller = GER
+add_core = GER
+
+
+infra = 10
+
+naval_base = 2 #Rostock port
+points = 1

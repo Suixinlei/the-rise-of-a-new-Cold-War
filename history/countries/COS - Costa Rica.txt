@@ -1,0 +1,49 @@
+capital = 7721
+government = republic
+ideology = social_conservative
+alignment = { x = 40 y = 10 }
+neutrality = 80
+national_unity = 75
+oob = "COS_2000.txt"
+
+popularity = { 
+	national_socialist = 0
+	fascistic = 0
+	paternal_autocrat = 0
+	social_conservative = 30
+	market_liberal = 4
+	social_liberal = 9
+	social_democrat = 27
+	left_wing_radical = 22
+	leninist = 0
+	stalinist = 0
+}
+
+organization = { 
+	national_socialist = 0
+	fascistic = 0
+	paternal_autocrat = 0
+	social_conservative = 90
+	market_liberal = 12
+	social_liberal = 27
+	social_democrat = 81
+	left_wing_radical = 66
+	leninist = 0
+	stalinist = 0
+}
+
+conscription_policy = abolished_military
+press_laws = free_press
+mobilisation_level = peace_time
+civil_laws = open_society
+economic_policy = lais_fair
+service_length = six_months
+
+
+
+infra_building = 1
+ic_building = 1
+air_base_building = 1
+naval_base_building = 1
+land_fort_building = 1
+coastal_fort_building = 1

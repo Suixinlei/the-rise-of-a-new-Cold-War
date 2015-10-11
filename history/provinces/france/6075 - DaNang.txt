@@ -1,0 +1,12 @@
+owner = VIE
+controller = VIE
+add_core = VIE
+
+infra = 6
+
+
+infra = 6
+air_base = 6 #Da Nang airbase
+naval_base = 5 #Da Nang port
+leadership = 2.50
+points = 1

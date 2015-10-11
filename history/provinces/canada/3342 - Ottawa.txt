@@ -1,0 +1,13 @@
+owner = CAN
+controller = CAN
+add_core = CAN
+
+
+infra = 8
+air_base = 1 #Ottawa airport
+leadership = 2.50
+energy = 60.00
+metal = 40.00
+rare_materials = 30.00
+points = 1
+industry = 1

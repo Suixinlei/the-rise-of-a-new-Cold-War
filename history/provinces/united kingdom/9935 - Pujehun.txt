@@ -1,0 +1,5 @@
+owner = SIE
+controller = SIE
+add_core = SIE
+
+infra = 6

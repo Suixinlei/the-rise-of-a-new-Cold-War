@@ -1,0 +1,8 @@
+owner = MOR
+controller = MOR
+add_core = MOR
+add_core = SAH
+infra = 4
+
+air_base = 2 #Tan Tan airbase
+points = 1

@@ -1,0 +1,33 @@
+capital = 1341
+government = republic
+ideology = social_democrat
+alignment = { x = 0 y = -146 }
+neutrality = 80
+national_unity = 80
+
+popularity = { 
+	national_socialist = 0
+	fascistic = 0
+	paternal_autocrat = 0
+	social_conservative = 25
+	market_liberal = 8
+	social_liberal = 0
+	social_democrat = 63
+	left_wing_radical = 0
+	leninist = 0
+	stalinist = 0
+}
+
+organization = { 
+	national_socialist = 0
+	fascistic = 0
+	paternal_autocrat = 0
+	social_conservative = 75
+	market_liberal = 36
+	social_liberal = 0
+	social_democrat = 189
+	left_wing_radical = 0
+	leninist = 0
+	stalinist = 0
+}
+

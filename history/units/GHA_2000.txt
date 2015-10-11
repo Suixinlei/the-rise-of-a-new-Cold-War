@@ -1,0 +1,68 @@
+theatre = {
+	name = "Ghana Armed Forces"
+	location = 9969
+	regiment = { type = hq_brigade name = "Armed Forces HQ" historical_model = 1 }
+	army = {
+		name = "Ghana Army"
+		location = 9969
+		regiment = { type = hq_brigade name = "Army HQ" historical_model = 1 }
+		corps = {
+			name = "Northern Command"
+			location = 9918
+			regiment = { type = hq_brigade name = "Northern Command HQ" historical_model = 1 }
+			division = {
+				is_reserve = yes
+				name = "3rd Infantry Battalion"
+				location = 9899
+				regiment = { type = infantry_brigade name = "3rd Infantry Battalion" historical_model = 1 }
+			}
+			division = {
+				is_reserve = yes
+				name = "4th Infantry Battalion"
+				location = 9918
+				regiment = { type = infantry_brigade name = "4th Infantry Battalion" historical_model = 1 }
+			}
+			division = {
+				is_reserve = yes
+				name = "6th Infantry Battalion"
+				location = 9837
+				regiment = { type = infantry_brigade name = "6th Infantry Battalion" historical_model = 1 }
+			}
+			division = {
+				is_reserve = yes
+				name = "Airborne Force"
+				location = 9918
+				regiment = { type = paratrooper_brigade name = "Airborne Force" historical_model = 1 }
+			}
+		}
+		corps = {
+			name = "Southern Command"
+			location = 9969
+			regiment = { type = hq_brigade name = "Southern Command HQ" historical_model = 1 }
+			division = {
+				is_reserve = yes
+				name = "1st Infantry Battalion"
+				location = 9969
+				regiment = { type = infantry_brigade name = "1st Infantry Battalion" historical_model = 1 }
+			}
+			division = {
+				is_reserve = yes
+				name = "5th Infantry Battalion"
+				location = 9969
+				regiment = { type = infantry_brigade name = "5th Infantry Battalion" historical_model = 1 }
+			}
+			division = {
+				is_reserve = yes
+				name = "2nd Infantry Battalion"
+				location = 9954
+				regiment = { type = infantry_brigade name = "2nd Infantry Battalion" historical_model = 1 }
+			}
+			division = {
+				is_reserve = yes
+				name = "64th Infantry Regiment"
+				location = 9969
+				regiment = { type = infantry_brigade name = "64th Infantry Regiment" historical_model = 1 }
+			}
+		}
+	}
+}

@@ -1,0 +1,11 @@
+owner = SYR
+controller = SYR
+add_core = SYR
+infra = 8
+
+points = 1
+leadership = 2.50
+air_base = 10
+energy = 4.00
+manpower = 1.50
+industry = 3

@@ -1,0 +1,8 @@
+owner = CRO
+controller = CRO
+add_core = CRO
+manpower = 0.2
+
+infra = 8
+naval_base = 7 #Rijeka port
+points = 1

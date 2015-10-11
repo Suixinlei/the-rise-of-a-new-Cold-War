@@ -1,0 +1,7 @@
+owner = SOL
+
+controller = SOL
+
+add_core = SOL
+
+infra = 4

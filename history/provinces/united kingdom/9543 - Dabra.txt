@@ -1,0 +1,8 @@
+owner = IND
+controller = IND
+add_core = IND
+
+infra = 6
+
+air_base = 3 #Gwalior and Jhansi airbase
+points = 1

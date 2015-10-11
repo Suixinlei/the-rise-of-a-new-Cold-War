@@ -1,0 +1,494 @@
+conscription_policy = {
+	abolished_military = {
+		cost = 0.5
+		allow = {
+			NOT = {
+				war = yes
+			}
+		}
+		global_manpower_modifier = -0.99
+		officer_recruitment = -0.80
+		reserves_penalty_size = -0.80
+	}
+
+	volunteer_army = {
+		cost = 0.5
+		allow = {
+			OR = {
+				AND = {
+					NOT = {
+						neutrality = 90
+					}
+					national_unity = 70
+				}
+				AND = {
+					OR = { 
+						government = dictatorship
+						government = islamic_dictatorship
+                                                government = The_system_of_people's_Congress
+					}
+					national_unity = 60
+				}
+				war = yes
+			}
+		}
+        	global_manpower_modifier = -0.70
+		officer_recruitment = -0.50
+		reserves_penalty_size = -0.50
+	}
+	
+	partial_draft = {
+		cost = 0.5
+		allow = {
+			OR = {
+				AND = {
+					NOT = {
+						neutrality = 70
+					}
+					national_unity = 80
+				}
+				AND = {
+					NOT = {
+						neutrality = 80
+					}
+					OR = { 
+						government = dictatorship
+						government = islamic_dictatorship
+                                                government = The_system_of_people's_Congress
+					}
+					national_unity = 70
+				}
+				war = yes
+			}
+		}
+		global_manpower_modifier = -0.30
+		officer_recruitment = -0.25
+		reserves_penalty_size = -0.20
+	}
+	
+	military_service = {
+		cost = 0.5
+		allow = {
+			OR = {
+				AND = {
+					NOT = {
+						neutrality = 65
+					}
+					national_unity = 80
+				}
+				AND = {
+					NOT = {
+						neutrality = 75
+					}
+					OR = { 
+						government = dictatorship
+						government = islamic_dictatorship
+                                                government = The_system_of_people's_Congress
+					}
+					national_unity = 70
+				}
+				war = yes
+			}
+		}
+		officer_recruitment = 0.10
+	}
+	
+	universal_military_service = {
+		cost = 0.5
+		allow = {
+			OR = {
+				AND = {
+					war = yes
+					popularity = 70
+				}
+				AND = {
+					war = yes
+					OR = { 
+						government = dictatorship
+						government = islamic_dictatorship
+                                                government = The_system_of_people's_Congress
+					}
+					popularity = 60
+				}
+			}
+		}
+		global_manpower_modifier = 0.50
+		officer_recruitment = 0.50
+	}
+}
+#####################################################
+### The following press laws do not work because of magic and unicorns. If you're a magical
+### man (or possibly a leprechaun) and can fix them, contact me (Niko92). I will then proceed
+### to give birth to 54 (fifty four) of your children and come clean your house in a latex
+### suit. The creation of a cult might be possible as well (and a kudos in the credits). 
+########################################################
+#
+#press_laws = {
+#	free_press = {
+#		cost = 0.5
+#		allow = {
+#		}
+#	    national_unity_effect = 0.2
+#       counter_espionage = -0.10
+#       drift_speed = 0.1
+#	}
+#	limited_censorship = {
+#		cost = 0.5
+#		allow = {
+#			OR = {
+#				war = yes
+#				government = autocratic_democracy
+#				government = dictatorship
+#				government = islamic_republic
+#				government = islamic_dictatorship
+#				government = absolute_monarchy
+#			}
+#		}
+#      drift_speed = 0.05
+#	}
+#	censorship = {
+#		cost = 0.5
+#		allow = {
+#			OR = {
+#				AND = {
+#					war = yes
+#					OR = {
+#						government = autocratic_democracy
+#						government = islamic_republic
+#						government = absolute_monarchy
+#				}
+#				}
+#				government = dictatorship
+#			government = islamic_dictatorship
+#			}
+#		}
+#		national_unity_effect = -0.05
+#      counter_espionage = 0.05
+#     drift_speed = -0.05
+#	}
+#	state_press = {
+#		cost = 0.5
+#		allow = {
+#			AND = {
+#				war = yes
+#				OR = {
+#					government = dictatorship
+#					government = islamic_dictatorship
+#                                       government = The_system_of_people's_Congress
+#				}
+#			}
+#		}
+#		national_unity_effect = -0.1
+#      counter_espionage = 0.10
+#     drift_speed = -0.1
+#	}
+#}
+
+
+mobilisation_level = {
+	peace_time = {
+		cost = 0.5
+		allow = {
+		}
+                global_money = 0.1
+	}
+	low_mobilisation = {
+		cost = 0.5
+		allow = {
+			OR = {
+				NOT = {
+					neutrality = 60
+				}
+				AND = {
+					OR = {
+						government = dictatorship
+						government = islamic_dictatorship
+                                                government = The_system_of_people's_Congress
+					}
+					NOT = {
+						neutrality = 70
+					}
+				}
+			}
+		}
+		global_ic = 0.10
+	}
+	l_mobilisation = {
+		cost = 0.5
+		allow = {
+			OR = {
+				NOT = {
+					neutrality = 40
+					}
+				AND = {
+					OR = {
+						government = dictatorship
+						government = islamic_dictatorship
+                                                government = The_system_of_people's_Congress
+					}
+					NOT = {
+						neutrality = 50
+					}
+				}
+			}
+		}
+		global_ic = 0.20
+                global_money = -0.05
+	}
+	high_alert = {
+		cost = 0.5
+		allow = {
+			OR = {
+				NOT = {
+					neutrality = 20
+					}
+				AND = {
+					OR = {
+						government = dictatorship
+						government = islamic_dictatorship
+                                                government = The_system_of_people's_Congress
+					}
+					NOT = {
+						neutrality = 30
+					}
+				}
+			}
+		}
+		global_ic = 0.30
+                global_money = -0.1
+	}
+	war_time = {
+		cost = 0.5
+		allow = {
+			OR = {
+				war = yes
+				AND = {
+					OR = {
+						government = dictatorship
+						government = islamic_dictatorship
+                                                government = The_system_of_people's_Congress
+					}
+					NOT = {
+						neutrality = 10
+					}
+				}
+			}
+		}
+		global_ic = 0.40
+                global_money = -0.15
+	}
+}
+
+environmental_policy = {
+	full_protection = {
+		cost = 0.5
+		allow = {
+
+		}
+	global_energy = -0.10
+        global_metal = -0.20
+        global_rare_materials = -0.30
+        global_crude_oil = -0.40
+	}
+	multiple_laws = {
+		cost = 0.5
+		allow = {
+			NOT = {
+				neutrality = 60
+			}
+		}
+        global_metal = -0.10
+        global_rare_materials = -0.20
+        global_crude_oil = -0.30
+	}
+	some_laws = {
+		cost = 0.5
+		allow = {
+			NOT = {
+				neutrality = 30
+			}
+		}
+        dissent = 0.05
+	global_energy = 0.10
+        global_metal = 0.10
+	}
+	no_laws = {
+		cost = 0.5
+		allow = {
+		OR = {
+			war = yes
+				AND = {
+					OR = {
+						government = dictatorship
+						government = islamic_dictatorship
+                                                government = The_system_of_people's_Congress
+					}
+					NOT = {
+						neutrality = 10
+					}
+				}
+                        }
+		}
+	global_resources = 0.4
+	}
+}
+
+civil_laws = {
+	open_society = {
+		cost = 0.5
+		allow = {
+		}
+                dissent = -0.10
+	}
+	restrictions = {
+		cost = 0.5
+		allow = {
+				OR = {
+					government = autocratic_democracy
+					government = islamic_dictatorship
+					government = dictatorship
+                                        government = The_system_of_people's_Congress
+
+				}
+		}
+		peace_consumer_goods_demand = -0.20
+		counter_intelligence = 0.10
+		partisan_efficiency = 1
+	}
+	police_state = {
+		cost = 0.5
+		allow = {
+			war = yes
+		}
+		peace_consumer_goods_demand = -0.40
+		counter_intelligence = 0.20
+		partisan_efficiency = 2
+	}
+	totalitarianism = {
+		cost = 0.5
+		allow = {
+			faction = allies
+		}
+		peace_consumer_goods_demand = -0.30
+		counter_intelligence = 0.30
+		partisan_efficiency = 3
+                dissent = -0.05
+	}
+}
+
+service_length = {
+	six_months = {
+		cost = 0.5
+		allow = {
+		}
+	unit_recruitment_time = -0.30
+	}
+	twelve_months = {
+		cost = 0.5
+		allow = {	
+		}
+        unit_recruitment_time = -0.10
+        unit_start_experience = 10
+        defend_reinforce_chance = 0.1
+	}
+	eighteen_months = {
+		cost = 0.5
+		allow = {
+	}
+	unit_recruitment_time = 0.05
+        unit_start_experience = 25
+        amm_movement_speed = 0.1
+	}
+	twofour_months = {
+		cost = 0.5
+		allow = {
+		OR = {
+			total_ic = 150
+		}
+        }
+	unit_recruitment_time = 0.15
+        org_regain = 0.1
+        unit_start_experience = 35
+	}
+}
+
+economic_policy = {
+	lais_fair = {
+		cost = 0.5
+		allow = {
+}
+	global_leadership_modifier = -0.1
+        research_efficiency = -0.05 
+	}
+	limit_intervention = {
+		cost = 0.5
+		allow = {
+        national_unity = 50
+}
+        global_money = -0.05
+	global_leadership_modifier = 0.1	
+	}
+	partial_control = {
+		cost = 0.5
+		allow = {
+        national_unity = 65
+}
+        global_money = -0.1
+	global_leadership_modifier = 0.2
+	}
+	state_control = {
+		cost = 0.5
+		allow = {
+        national_unity = 75
+}
+        global_money = -0.15
+	global_leadership_modifier = 0.3
+        research_efficiency = 0.05
+	}
+}
+
+healthcare = {
+	no_healthcare = {
+		cost = 0.5
+		allow = {
+		}
+		global_ic = -0.40
+		global_money = 0.20
+		peace_consumer_goods_demand = -0.10
+		industrial_efficiency = -0.05
+	}
+	aid_groups = {
+		cost = 0.5
+		allow = {
+			NOT = {
+				neutrality = 70
+                        }
+                }
+		global_ic = -0.30
+		global_money = 0.10
+		supply_throughput = 0.03
+	}
+	private_care = {
+		cost = 0.5
+		allow = {
+			OR = {
+				government = The_system_of_people's_Congress
+                                ideology = stalinist
+			}
+		}
+		global_ic = -0.15
+		war_consumer_goods_demand = -0.10
+		industrial_efficiency = 0.05
+		supply_throughput = 0.07
+	}
+	public_care = {
+		cost = 0.5
+		allow = {
+			war = yes
+		}
+		global_money = -0.10
+		war_consumer_goods_demand = -0.20
+		industrial_efficiency = 0.10
+		supply_throughput = 0.10
+	}
+}

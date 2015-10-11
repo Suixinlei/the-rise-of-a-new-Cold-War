@@ -1,0 +1,3 @@
+government = republic
+
+oob = "REB_2000.txt"

@@ -1,0 +1,11 @@
+owner = LBY
+controller = LBY
+add_core = LBY
+
+infra = 4
+
+air_base = 3 #Misrata airbase
+ 
+naval_base = 4 #Misrata port
+leadership = 0.50
+points = 1

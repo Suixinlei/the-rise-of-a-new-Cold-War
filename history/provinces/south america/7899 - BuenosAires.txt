@@ -1,0 +1,11 @@
+owner = ARG
+controller = ARG
+add_core = ARG
+infra = 7
+industry = 5
+manpower = 7.00
+metal = 4.00
+air_base = 8 #Buenos Aires airport and airbase
+naval_base = 10 #Buenos Aires port
+leadership = 2.50
+points = 1

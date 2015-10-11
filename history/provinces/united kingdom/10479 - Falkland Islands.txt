@@ -1,0 +1,10 @@
+owner = ENG
+controller = ENG
+add_core = ENG
+add_core = ARG
+
+
+infra = 4
+air_base = 3 #RAF Mount Pleasant
+naval_base = 3
+points = 1

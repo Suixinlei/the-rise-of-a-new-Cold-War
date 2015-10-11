@@ -1,0 +1,7 @@
+owner = NAM
+controller = NAM
+add_core = NAM
+add_core = BOT
+add_core = ZAM
+add_core = ZIM
+infra = 2

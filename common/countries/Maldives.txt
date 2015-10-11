@@ -1,0 +1,165 @@
+color = { 239  159  252 }
+graphical_culture = Generic
+
+default_templates = {
+	generic_infantry = {
+		infantry_brigade
+		infantry_brigade
+		infantry_brigade
+	}
+	generic_milita = {
+		militia_brigade
+		militia_brigade
+		militia_brigade
+	}
+	generic_armoured = {
+		armor_brigade
+		motorized_brigade
+		motorized_brigade
+	}
+	generic_cavalry = {
+		cavalry_brigade
+		cavalry_brigade
+	}
+}
+
+
+
+
+ministers = {
+	49501 = {
+		name = "Maumoon Abdul Gayoom"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M49501
+		head_of_state = guns_and_butter_doctrine
+		head_of_government = die_hard_reformer
+		start_date = 2000.1.1
+	}
+	49502 = {
+		name = "Mohamed Nasheed"
+		ideology = social_liberal 
+		loyalty = 1.00
+		picture = M49502
+		head_of_state = ideological_crusader
+		head_of_government = air_superiority_doctrine
+		start_date = 2000.1.1
+	}
+	49503 = {
+		name = "Mohammed Waheed Hassan"
+		ideology = market_liberal
+		loyalty = 1.00
+		picture = M49503
+		head_of_state = good_connections
+		head_of_government = school_of_fire_support
+		start_date = 2000.1.1
+	}
+	49504 = {
+		name = "Ismail Shafeeu"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M49504
+		armament_minister = silent_workhorse
+		minister_of_security = talented_and_concealed
+		start_date = 2000.1.1
+	}
+	49505 = {
+		name = "Abdullah Shahid"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M49505
+		foreign_minister = political_protege
+		start_date = 2000.1.1
+	}
+	49506 = {
+		name = "Ahmed Shaheed"
+		ideology = social_liberal
+		loyalty = 1.00
+		picture = M49506
+		foreign_minister = crime_fighter
+		start_date = 2000.1.1
+	}
+	49507 = {
+		name = "Ameen Faisal"
+		ideology = social_liberal
+		loyalty = 1.00
+		picture = M49507
+		armament_minister = weary_stiff_neck
+		minister_of_security = political_protege
+		start_date = 2008.1.1
+	}
+	49508 = {
+		name = "Thalhath Ibrahim Kaleyfaanu"
+		ideology = market_liberal
+		loyalty = 1.00
+		picture = M49508
+		armament_minister = devout_muslim
+		minister_of_security = crime_fighter
+		start_date = 2011.1.1
+	}
+	49509 = {
+		name = "Qasim Ibrahim"
+		ideology = social_democrat
+		loyalty = 1.00
+		picture = M49509
+		head_of_state = money_is_might
+		head_of_government = corporate_suit
+		start_date = 2000.1.1
+	}
+	49510 = {
+		name = "Imran Abdulla"
+		ideology = national_socialist
+		loyalty = 1.00
+		picture = M49510
+		head_of_state = devout_muslim
+		head_of_government = silent_lawyer
+		start_date = 2000.1.1
+	}
+	49511 = {
+		name = "Abdulla Riyaz"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M49511
+		minister_of_intelligence = happy_amateur
+		start_date = 2000.1.1
+	}
+	49512 = {
+		name = "Ahmed Shiyam"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M49512
+		chief_of_staff = good_connections
+		chief_of_army = army_aviation_doctrine
+		chief_of_air = master_of_skies
+		start_date = 2000.1.1
+	}
+	49513 = {
+		name = "Ahmed Shahid"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M49513
+		chief_of_navy = power_projection_doctrine
+		start_date = 2000.1.1
+	}
+	49514 = {
+		name = "Mohamed Zahir"
+		ideology = social_conservative 
+		loyalty = 1.00
+		picture = M49514
+		chief_of_staff = military_slob
+		chief_of_army = armoured_spearhead_doctrine
+		chief_of_air = advertising_figure
+		start_date = 2000.1.1
+	}
+	49515 = {
+		name = "Moosa Ali Jaleel"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M49515
+		chief_of_staff = veteran
+		chief_of_army = school_of_psychology
+		chief_of_air = old_air_marshal
+		start_date = 2000.1.1
+	}
+	
+}

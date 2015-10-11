@@ -1,0 +1,9 @@
+owner = MEX
+controller = MEX
+add_core = MEX
+
+infra = 4
+air_base = 6 #Tijuana airbase
+naval_base = 2 #Ensenada port
+ 
+points = 1

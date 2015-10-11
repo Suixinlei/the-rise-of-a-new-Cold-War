@@ -1,0 +1,304 @@
+105001 = {
+	name = "Calmoi"
+	country = MOL
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L105001
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+105002 = {
+	name = "Cutie"
+	country = MOL
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L105002
+	add_trait = defensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+105003 = {
+	name = "Colenov"
+	country = MOL
+	type = land
+	skill = 1
+	max_skill = 7
+	loyalty = 1.00
+	picture = L105003
+	add_trait = trainer
+	add_trait = hard_defender
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+105004 = {
+	name = "Gaina"
+	country = MOL
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 0.00
+	picture = L105004
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+105005 = {
+	name = "Grigorescu"
+	country = MOL
+	type = land
+	skill = 0
+	max_skill = 6
+	loyalty = 1.00
+	picture = L105005
+	add_trait = commando
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+105006 = {
+	name = "Lahovary"
+	country = MOL
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 1.00
+	picture = L105006
+	add_trait = improvisation
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+105007 = {
+	name = "Stefanescu"
+	country = MOL
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L105007
+	add_trait = offensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+105008 = {
+	name = "Szilágyi"
+	country = MOL
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 0.00
+	picture = L105008
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+105009 = {
+	name = "Vladimiri"
+	country = MOL
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L105009
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+105010 = {
+	name = "Tavitian"
+	country = MOL
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L105010
+	add_trait = offensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+105011 = {
+	name = "Stirbei"
+	country = MOL
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L105011
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+105012 = {
+	name = "Draghici"
+	country = MOL
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 0.00
+	picture = L105012
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+105013 = {
+	name = "Eliade"
+	country = MOL
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L105013
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+105014 = {
+	name = "Movila"
+	country = MOL
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L105014
+	add_trait = improvisation
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+105015 = {
+	name = "Dominic"
+	country = MOL
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L105015
+	add_trait = hard_defender
+	add_trait = trickster
+	history = {
+		1995.1.1 = { rank = 1 }
+		1998.1.1 = { rank = 2 }
+		2001.1.1 = { rank = 3 }
+		2003.1.1 = { rank = 4 }
+	}
+}
+105016 = {
+	name = "Marinuta"
+	country = MOL
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L105016
+	add_trait = panzer_leader
+	history = {
+		1998.1.1 = { rank = 1 }
+		2001.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+105017 = {
+	name = "Mudrenco"
+	country = MOL
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L105017
+	add_trait = defensive_doctrine
+	history = {
+		1998.1.1 = { rank = 1 }
+		2001.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+105018 = {
+	name = "Sarban"
+	country = MOL
+	type = land
+	skill = 2
+	max_skill = 5
+	loyalty = 0.00
+	picture = L105018
+	history = {
+		1998.1.1 = { rank = 1 }
+		2001.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+105019 = {
+	name = "Gorgan"
+	country = MOL
+	type = land
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = L105019
+	add_trait = engineer
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+105020 = {
+	name = "Roibu"
+	country = MOL
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L105020
+	add_trait = assaulter
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+105021 = {
+	name = "Cemîrtan"
+	country = MOL
+	type = air
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L105021
+	add_trait = night_flyer
+	history = {
+		1998.1.1 = { rank = 1 }
+		2001.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+105022 = {
+	name = "Draghicescu"
+	country = MOL
+	type = air
+	skill = 1
+	max_skill = 5
+	loyalty = 0.00
+	picture = L105022
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+105023 = {
+	name = "Neagoe"
+	country = MOL
+	type = air
+	skill = 0
+	max_skill = 5
+	loyalty = 1.00
+	picture = L105023
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}

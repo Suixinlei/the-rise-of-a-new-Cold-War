@@ -1,0 +1,6 @@
+owner = ARG
+controller = ARG
+add_core = ARG
+infra = 2
+air_base = 5 #Ricardo Salomon and Peron airbase
+points = 1

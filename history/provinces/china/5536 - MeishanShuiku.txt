@@ -1,0 +1,20 @@
+owner = CHC
+
+controller = CHC
+
+ 
+add_core = CHC
+infra = 9
+
+infra = 7
+
+infra = 7
+
+infra = 7
+
+infra = 7
+
+infra = 7
+
+infra = 6
+

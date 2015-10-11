@@ -1,0 +1,7 @@
+owner = IVO
+controller = IVO
+add_core = IVO
+manpower = 4.00
+infra = 6
+
+points = 1

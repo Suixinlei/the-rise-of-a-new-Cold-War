@@ -1,0 +1,7 @@
+owner = NZL
+controller = NZL
+add_core = NZL
+energy = 5.00
+infra = 6
+metal = 1.00
+rare_materials = 6.00

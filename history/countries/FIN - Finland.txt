@@ -1,0 +1,63 @@
+capital = 739
+government = republic
+ideology = social_democrat
+alignment = { x = 0 y = -20 }
+neutrality = 80
+national_unity = 70
+head_of_state = 28001
+head_of_government = 28002
+foreign_minister = 28003
+armament_minister = 28004
+minister_of_security = 28005
+minister_of_intelligence = 28006
+chief_of_staff = 28007
+chief_of_army = 28008
+chief_of_navy = 28009
+chief_of_air = 28010
+
+oob = "FIN_2000.txt"
+
+popularity = { 
+	national_socialist = 0
+	fascistic = 0
+	paternal_autocrat = 2
+	social_conservative = 6
+	market_liberal = 22
+	social_liberal = 29
+	social_democrat = 28
+	left_wing_radical = 12
+	leninist = 0
+	stalinist = 1
+}
+
+organization = { 
+	national_socialist = 0
+	fascistic = 0
+	paternal_autocrat = 6
+	social_conservative = 18
+	market_liberal = 66
+	social_liberal = 87
+	social_democrat = 84
+	left_wing_radical = 36
+	leninist = 0
+	stalinist = 3
+}
+
+conscription_policy = military_service
+press_laws = free_press
+mobilisation_level = peace_time
+civil_laws = open_society
+service_length = twelve_months
+economic_policy = limit_intervention
+
+
+
+industrial_facilities = 1
+industral_production = 2
+industral_efficiency = 2
+military_supplies_production = 1
+industrialization = 1
+weapon_design = 1
+the_fuselage_design = 1
+main_battle_tank = 1
+ship_hull = 1

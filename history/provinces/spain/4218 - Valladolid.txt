@@ -1,0 +1,9 @@
+owner = SPR
+controller = SPR
+add_core = SPR
+
+
+infra = 8
+
+air_base = 3 #Valladolid airbase
+points = 1

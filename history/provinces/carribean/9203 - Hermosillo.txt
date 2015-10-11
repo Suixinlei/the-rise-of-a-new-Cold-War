@@ -1,0 +1,6 @@
+owner = MEX
+controller = MEX
+add_core = MEX
+infra = 5
+air_base = 2 #General Garcia airbase
+points = 1

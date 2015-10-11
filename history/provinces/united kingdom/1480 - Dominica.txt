@@ -1,0 +1,7 @@
+owner = LUC
+controller = LUC
+add_core = LUC
+
+infra = 6
+naval_base = 1
+points = 1

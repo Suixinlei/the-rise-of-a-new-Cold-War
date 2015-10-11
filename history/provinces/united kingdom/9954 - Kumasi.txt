@@ -1,0 +1,5 @@
+owner = GHA
+controller = GHA
+add_core = GHA
+infra = 6
+manpower = 4.00

@@ -1,0 +1,9 @@
+owner = GAB
+controller = GAB
+add_core = GAB
+infra = 6
+manpower = 0.5
+crude_oil = 5.00
+air_base = 6 #Libreville and M'Vengue airbase
+naval_base = 2 #Libreville port
+points = 1

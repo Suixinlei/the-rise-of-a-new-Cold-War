@@ -1,0 +1,8 @@
+owner = BEN
+controller = BEN
+add_core = BEN
+manpower = 3.5
+infra = 6
+leadership = 0.50
+naval_base = 1
+points = 1

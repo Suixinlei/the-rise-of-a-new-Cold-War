@@ -1,0 +1,122 @@
+theatre = {
+	name = "Armed Forces of Uzbekistan"
+	location = 8925
+	regiment = { type = hq_brigade name = "Armed Forces HQ" historical_model = 1 }
+	army = {
+		name = "Land Forces"
+		location = 8925
+		regiment = { type = hq_brigade name = "Land Forces HQ" historical_model = 1 }
+		corps = {
+			name = "Northwest Military District"
+			location = 7131
+			regiment = { type = hq_brigade name = "Northwest HQ" historical_model = 1 }
+			division = {
+				is_reserve = yes
+				name = "36th Motor Rifle Brigade"
+				location = 7131
+				regiment = { type = infantry_brigade name = "361st Motori Rifle Battalion" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "362nd Motori Rifle Battalion" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "363rd Motori Rifle Battalion" historical_model = 1 }
+			}
+		}
+		corps = {
+			name = "Southwest Military District"
+			location = 9024
+			regiment = { type = hq_brigade name = "Southwest HQ" historical_model = 1 }
+			division = {
+				is_reserve = yes
+				name = "25th Motor Rifle Brigade"
+				location = 9024
+				regiment = { type = infantry_brigade name = "251st Motori Rifle Battalion" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "252nd Motori Rifle Battalion" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "253rd Motori Rifle Battalion" historical_model = 1 }
+			}
+			division = {
+				is_reserve = yes
+				name = "96th Motor Rifle Brigade"
+				location = 9024
+				regiment = { type = infantry_brigade name = "961st Motori Rifle Battalion" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "962nd Motori Rifle Battalion" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "963rd Motori Rifle Battalion" historical_model = 1 }
+			}
+		}
+		corps = {
+			name = "Central Military District"
+			location = 8974
+			regiment = { type = hq_brigade name = "Central HQ" historical_model = 1 }
+			division = {
+				is_reserve = yes
+				name = "65th Motor Rifle Brigade"
+				location = 8974
+				regiment = { type = infantry_brigade name = "651st Motori Rifle Battalion" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "652nd Motori Rifle Battalion" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "653rd Motori Rifle Battalion" historical_model = 1 }
+				regiment = { type = artillery_brigade name = "93rd Artillery Brigade" historical_model = 0 }
+			}
+		}
+		corps = {
+			name = "Eastern Military District"
+			location = 8950
+			regiment = { type = hq_brigade name = "Eastern HQ" historical_model = 1 }
+			division = {
+				is_reserve = yes
+				name = "37th Motor Rifle Brigade"
+				location = 8950
+				regiment = { type = infantry_brigade name = "371st Motori Rifle Battalion" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "372nd Motori Rifle Battalion" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "373rd Motori Rifle Battalion" historical_model = 1 }
+				regiment = { type = artillery_brigade name = "78th Artillery Brigade" historical_model = 0 }
+			}
+			division = {
+				is_reserve = yes
+				name = "17th Air Assault Brigade"
+				location = 8950
+				regiment = { type = air_cavalry_brigade name = "361st Motori Rifle Battalion" historical_model = 1 }
+				regiment = { type = air_cavalry_brigade name = "362nd Motori Rifle Battalion" historical_model = 1 }
+				regiment = { type = air_cavalry_brigade name = "363rd Motori Rifle Battalion" historical_model = 1 }
+			}
+		}
+		corps = {
+			name = "Tashkent Military District"
+			location = 8925
+			regiment = { type = hq_brigade name = "Tashkent HQ" historical_model = 1 }
+			division = {
+				is_reserve = yes
+				name = "64th Motor Rifle Brigade"
+				location = 8925
+				regiment = { type = infantry_brigade name = "641st Motori Rifle Battalion" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "642nd Motori Rifle Battalion" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "643rd Motori Rifle Battalion" historical_model = 1 }
+				regiment = { type = artillery_brigade name = "63rd Artillery Brigade" historical_model = 0 }
+			}
+		}
+	}
+	
+	air = {
+	name = "60th Separate Mixed Aviation Brigade"
+	base = 9024
+	location = 9024
+	wing = { type = multi_role name = "1st Fighter Wing" historical_model = 0 }
+	wing = { type = cas name = "2nd Attack Wing" historical_model = 0 }
+	wing = { type = multi_role name = "3rd Fighter Wing" historical_model = 0 }
+	wing = { type = multi_role name = "4th Fighter Wing" historical_model = 0 }
+	}
+			
+	air = {
+	name = "Separate Mixed Aviation Brigade"
+	base = 8974
+	location = 8974
+	wing = { type = cas name = "5th Attack Wing" historical_model = 0 }
+	wing = { type = cas name = "6th Attack Wing" historical_model = 0 }
+	}
+	
+	air = {
+	name = "Separate Mixed Aviation Squadron"
+	base = 8925
+	location = 8925
+	wing = { type = transport_plane name = "1st Transport Wing" historical_model = 0 }
+	}
+	
+}
+	
+	

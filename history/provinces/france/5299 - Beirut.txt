@@ -1,0 +1,11 @@
+owner = LEB
+controller = LEB
+add_core = LEB
+
+manpower = 1.00
+infra = 8
+energy = 1.00
+
+air_base = 9 #Beirut airport and Rayak and Rene Mouawad airbase
+naval_base = 4 #Beirut port
+points = 1

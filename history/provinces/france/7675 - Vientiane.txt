@@ -1,0 +1,9 @@
+owner = LAO
+controller = LAO
+add_core = LAO
+manpower = 2.30
+rare_materials = 1.00
+infra = 4
+
+air_base = 3 #Vientiane airbase
+points = 1

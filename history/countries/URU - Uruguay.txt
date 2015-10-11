@@ -1,0 +1,40 @@
+capital = 7893
+government = republic
+ideology = left_wing_radical
+alignment = { x = 0 y = 50 }
+neutrality = 80
+national_unity = 70
+oob = "URU_2000.txt"
+
+popularity = { 
+	national_socialist = 0
+	fascistic = 0
+	paternal_autocrat = 0
+	social_conservative = 0
+	market_liberal = 22
+	social_liberal = 33
+	social_democrat = 5
+	left_wing_radical = 40
+	leninist = 0
+	stalinist = 0
+}
+
+organization = { 
+	national_socialist = 0
+	fascistic = 0
+	paternal_autocrat = 0
+	social_conservative = 0
+	market_liberal = 66
+	social_liberal = 99
+	social_democrat = 15
+	left_wing_radical = 120
+	leninist = 0
+	stalinist = 0
+}
+
+conscription_policy = volunteer_army
+press_laws = free_press
+mobilisation_level = peace_time
+civil_laws = open_society
+service_length = six_months
+economic_policy = lais_fair 

@@ -1,0 +1,8 @@
+owner = FRA
+controller = FRA
+add_core = FRA
+
+
+infra = 9
+air_base = 4#saint-dizier airbase
+points = 1

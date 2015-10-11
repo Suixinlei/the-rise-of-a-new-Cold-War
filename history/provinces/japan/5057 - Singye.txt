@@ -1,0 +1,8 @@
+owner = PRK
+controller = PRK
+add_core = PRK
+infra = 6
+
+rare_materials = 20.00
+air_base = 2 #Koksan airbase
+industry = 2

@@ -1,0 +1,8 @@
+owner = BAA
+controller = BAA
+add_core = BAA
+manpower = 0.1
+infra = 6
+air_base = 1 #Lynden Pindling airport
+naval_base = 3 #Nassau port
+points = 1

@@ -1,0 +1,747 @@
+76001 = {
+	name = "al-Askari"
+	country = IRQ
+	type = land
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = IRQ1
+	add_trait = logistics_wizard
+	history = {
+		2000.1.1 = { rank = 4 }
+	}
+}
+76002 = {
+	name = "Douri"
+	country = IRQ
+	type = land
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = IRQ2
+	history = {
+		2000.1.1 = { rank = 3 }
+	}
+}
+76003 = {
+	name = "Vahidi"
+	country = IRQ
+	type = land
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = IRQ3
+	add_trait = logistics_wizard
+	history = {
+		2000.1.1 = { rank = 3 }
+	}
+}
+76004 = {
+	name = "al-Rawi"
+	country = IRQ
+	type = land
+	skill = 1
+	max_skill = 4
+	loyalty = 1.00
+	picture = IRQ4
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+76005 = {
+	name = "al-Umari"
+	country = IRQ
+	type = land
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = IRQ5
+	add_trait = panzer_leader
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+76006 = {
+	name = "as-Sabbagh"
+	country = IRQ
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 0.00
+	picture = IRQ6
+	add_trait = defensive_doctrine
+	add_trait = old_guard
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+76007 = {
+	name = "Yasseen"
+	country = IRQ
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = IRQ7
+	add_trait = assaulter
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+76008 = {
+	name = "Bakr Sidqi"
+	country = IRQ
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 0.00
+	picture = IRQ8
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+76009 = {
+	name = "Dafni"
+	country = IRQ
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 0.00
+	picture = IRQ9
+	add_trait = commando
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+76010 = {
+	name = "Yusif"
+	country = IRQ
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = IRQ10
+	add_trait = trainer
+	history = {
+		2000.1.1 = { rank = 2 }
+	}
+}
+76011 = {
+	name = "Erekat"
+	country = IRQ
+	type = land
+	skill = 2
+	max_skill = 8
+	loyalty = 1.00
+	picture = IRQ11
+	add_trait = panzer_leader
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+76012 = {
+	name = "Fawzi"
+	country = IRQ
+	type = land
+	skill = 0
+	max_skill = 4
+	loyalty = 1.00
+	picture = IRQ12
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+76013 = {
+	name = "al-Waili"
+	country = IRQ
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = IRQ13
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+76014 = {
+	name = "al-Mufti"
+	country = IRQ
+	type = land
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = IRQ14
+	add_trait = improvisation
+	add_trait = offensive_doctrine
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+76015 = {
+	name = "Ishakat"
+	country = IRQ
+	type = land
+	skill = 0
+	max_skill = 6
+	loyalty = 1.00
+	picture = IRQ15
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+76016 = {
+	name = "Zebari"
+	country = IRQ
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = IRQ16
+	add_trait = panzer_leader
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+76017 = {
+	name = "Jazayeri"
+	country = IRQ
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 0.00
+	picture = IRQ17
+	add_trait = defensive_doctrine
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+76018 = {
+	name = "Sha'alan"
+	country = IRQ
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 0.00
+	picture = IRQ18
+	add_trait = fortress_buster
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+76019 = {
+	name = "Shawkat"
+	country = IRQ
+	type = land
+	skill = 0
+	max_skill = 4
+	loyalty = 0.00
+	picture = IRQ19
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+76020 = {
+	name = "Saleh"
+	country = IRQ
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = IRQ20
+	add_trait = learners_will
+	add_trait = versatile
+	history = {
+		2000.1.1 = { rank = 2 }
+	}
+}
+76021 = {
+	name = "Talal"
+	country = IRQ
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 1.00
+	picture = IRQ21
+	add_trait = panzer_leader
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+76022 = {
+	name = "as-Sabbaghi"
+	country = IRQ
+	type = land
+	skill = 1
+	max_skill = 7
+	loyalty = 0.00
+	picture = IRQ22
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+76023 = {
+	name = "Nye"
+	country = IRQ
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = IRQ23
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+76024 = {
+	name = "Tatton"
+	country = IRQ
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 1.00
+	picture = IRQ24
+	add_trait = landlubber
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+76025 = {
+	name = "Salah-il-Din"
+	country = IRQ
+	type = land
+	skill = 2
+	max_skill = 9
+	loyalty = 1.00
+	picture = IRQ25
+	add_trait = hard_defender
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+76026 = {
+	name = "al-Tell"
+	country = IRQ
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 0.00
+	picture = IRQ26
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+76027 = {
+	name = "ben Jawad"
+	country = IRQ
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = IRQ27
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+76028 = {
+	name = "Salaries"
+	country = IRQ
+	type = land
+	skill = 3
+	max_skill = 9
+	loyalty = 1.00
+	picture = IRQ28
+	add_trait = versatile
+	add_trait = panzer_leader
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+76029 = {
+	name = "Qanbar"
+	country = IRQ
+	type = land
+	skill = 1
+	max_skill = 7
+	loyalty = 1.00
+	picture = IRQ29
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+76030 = {
+	name = "Ra'ad"
+	country = IRQ
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = IRQ30
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+76031 = {
+	name = "Aziz"
+	country = IRQ
+	type = land
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = IRQ31
+	history = {
+		2000.1.1 = { rank = 2 }
+	}
+}
+76032 = {
+	name = "al-Zuhairi"
+	country = IRQ
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = IRQ32
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+76033 = {
+	name = "al-Rawy"
+	country = IRQ
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 0.00
+	picture = IRQ33
+	add_trait = learners_will
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+76034 = {
+	name = "al-Bhadly"
+	country = IRQ
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = IRQ34
+	add_trait = fortress_buster
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+76035 = {
+	name = "al-Karbalai"
+	country = IRQ
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 0.00
+	picture = IRQ35
+	add_trait = marine
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+76036 = {
+	name = "al-Baghdadi"
+	country = IRQ
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = IRQ36
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+76037 = {
+	name = "al-Hassani"
+	country = IRQ
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = IRQ37
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+76038 = {
+	name = "Ali"
+	country = IRQ
+	type = land
+	skill = 1
+	max_skill = 7
+	loyalty = 1.00
+	picture = IRQ38
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+76039 = {
+	name = "Zerjawy"
+	country = IRQ
+	type = land
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = IRQ39
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+76040 = {
+	name = "al-Dahwi"
+	country = IRQ
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = IRQ40
+	add_trait = frontline_soldier
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+76041 = {
+	name = "al-Bayati"
+	country = IRQ
+	type = land
+	skill = 0
+	max_skill = 4
+	loyalty = 1.00
+	picture = IRQ41
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+76042 = {
+	name = "al-Basri"
+	country = IRQ
+	type = land
+	skill = 1
+	max_skill = 7
+	loyalty = 0.00
+	picture = IRQ42
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+76043 = {
+	name = "al-Dujaili"
+	country = IRQ
+	type = land
+	skill = 2
+	max_skill = 8
+	loyalty = 1.00
+	picture = IRQ43
+	add_trait = commando
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+76044 = {
+	name = "al-Shamari"
+	country = IRQ
+	type = land
+	skill = 2
+	max_skill = 9
+	loyalty = 1.00
+	picture = IRQ44
+	add_trait = versatile
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+76045 = {
+	name = "al-Husseini"
+	country = IRQ
+	type = land
+	skill = 0
+	max_skill = 7
+	loyalty = 1.00
+	picture = IRQ45
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+76046 = {
+	name = "al-Tamimi"
+	country = IRQ
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = IRQ46
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+76047 = {
+	name = "al-Saadi"
+	country = IRQ
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 1.00
+	picture = IRQ47
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+76048 = {
+	name = "al-Musawi"
+	country = IRQ
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = IRQ48
+	add_trait = learners_will
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+76049 = {
+	name = "Khalaf"
+	country = IRQ
+	type = land
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = IRQ49
+	add_trait = fortress_buster
+	add_trait = commando
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+76050 = {
+	name = "Letif"
+	country = IRQ
+	type = land
+	skill = 3
+	max_skill = 9
+	loyalty = 1.00
+	picture = IRQ50
+	add_trait = trainer
+	history = {
+		2000.1.1 = { rank = 2 }
+	}
+}
+76051 = {
+	name = "Mohan"
+	country = IRQ
+	type = land
+	skill = 2
+	max_skill = 9
+	loyalty = 1.00
+	picture = IRQ51
+	add_trait = panzer_leader
+	add_trait = offensive_doctrine
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+76052 = {
+	name = "Harbi"
+	country = IRQ
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = IRQ52
+	add_trait = engineer
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+76053 = {
+	name = "al-Tikriti"
+	country = IRQ
+	type = air
+	skill = 1
+	max_skill = 7
+	loyalty = 1.00
+	picture = IRQ53
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+76054 = {
+	name = "Zerjawy"
+	country = IRQ
+	type = air
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = IRQ54
+	add_trait = tank_buster
+	history = {
+		2000.1.1 = { rank = 2 }
+	}
+}
+76055 = {
+	name = "al-Nuaimi"
+	country = IRQ
+	type = air
+	skill = 3
+	max_skill = 6
+	loyalty = 1.00
+	picture = IRQ55
+	add_trait = superior_air_tactician
+	history = {
+		2000.1.1 = { rank = 2 }
+	}
+}
+76056 = {
+	name = "Saddam"
+	country = IRQ
+	type = air
+	skill = 0
+	max_skill = 4
+	loyalty = 1.00
+	picture = IRQ56
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+76057 = {
+	name = "al-Basri"
+	country = IRQ
+	type = air
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = IRQ57
+	add_trait = night_flyer
+	history = {
+		2000.1.1 = { rank = 2 }
+	}
+}
+76058 = {
+	name = "al-Dujaili"
+	country = IRQ
+	type = air
+	skill = 2
+	max_skill = 8
+	loyalty = 1.00
+	picture = IRQ58
+	add_trait = tank_buster
+	history = {
+		2000.1.1 = { rank = 3 }
+	}
+}
+76059 = {
+	name = "al-Shamari"
+	country = IRQ
+	type = sea
+	skill = 2
+	max_skill = 9
+	loyalty = 1.00
+	picture = IRQ59
+	add_trait = spotter
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}

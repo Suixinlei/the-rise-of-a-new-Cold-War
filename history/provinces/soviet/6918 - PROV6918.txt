@@ -1,0 +1,12 @@
+owner = KAZ
+
+controller = KAZ
+
+add_core = KAZ
+industry = 3
+manpower = 4.00
+metal = 3.00
+rare_materials = 5.00
+infra = 6
+leadership = 2.50
+points = 1

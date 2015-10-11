@@ -1,0 +1,10 @@
+owner = ITA
+controller = ITA
+add_core = ITA
+industry = 3
+manpower = 2.00
+infra = 6
+energy = 4.00
+air_base = 3 #Palermo airport and Trapani airbase
+naval_base = 5 #Palermo port
+points = 1

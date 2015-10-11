@@ -1,0 +1,8 @@
+owner = USA
+controller = USA
+add_core = USA
+infra = 8
+air_base = 6 #Whiteman airbase and Kansas City airport
+points = 1
+industry = 10
+leadership = 0.50

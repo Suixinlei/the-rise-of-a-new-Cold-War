@@ -1,0 +1,7 @@
+owner = IRE
+controller = IRE
+add_core = IRE
+
+infra = 7
+naval_base = 3 #Galway port
+points = 1

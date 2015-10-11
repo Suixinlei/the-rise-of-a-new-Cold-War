@@ -1,0 +1,6 @@
+owner = MON
+controller = MON
+add_core = MON
+infra = 2
+air_base = 2 #Altai airbase
+points = 1

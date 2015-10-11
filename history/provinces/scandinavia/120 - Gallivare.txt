@@ -1,0 +1,7 @@
+owner = SWE
+controller = SWE
+add_core = SWE
+
+terrain = woods
+rare_materials = 4.00
+infra = 4

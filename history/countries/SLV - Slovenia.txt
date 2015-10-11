@@ -1,0 +1,49 @@
+capital = 3565
+government = republic
+ideology = social_liberal
+alignment = { x = 100 y = 78.9 }
+neutrality = 80
+national_unity = 70
+
+oob = "SLV_2000.txt"
+
+popularity = { 
+	national_socialist = 0
+	fascistic = 0
+	paternal_autocrat = 4
+	social_conservative = 10
+	market_liberal = 16
+	social_liberal = 36
+	social_democrat = 11
+	left_wing_radical = 0
+	leninist = 0
+	stalinist = 0
+}
+
+organization = { 
+	national_socialist = 0
+	fascistic = 0
+	paternal_autocrat = 12
+	social_conservative = 30
+	market_liberal = 48
+	social_liberal = 108
+	social_democrat = 33
+	left_wing_radical = 0
+	leninist = 0
+	stalinist = 0
+}
+
+conscription_policy = volunteer_army
+press_laws = free_press
+mobilisation_level = peace_time
+civil_laws = open_society
+service_length = six_months
+economic_policy = lais_fair
+
+industrial_facilities = 1
+industral_production = 1
+industral_efficiency = 1
+weapon_design = 1
+the_fuselage_design = 1
+main_battle_tank = 1
+ship_hull = 1

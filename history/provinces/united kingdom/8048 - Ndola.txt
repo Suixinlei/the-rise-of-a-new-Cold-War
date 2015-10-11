@@ -1,0 +1,6 @@
+owner = ZAM
+controller = ZAM
+add_core = ZAM
+add_core = DRC
+infra = 6
+

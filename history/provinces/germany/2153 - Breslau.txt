@@ -1,0 +1,5 @@
+owner = POL
+controller = POL
+add_core = POL
+infra = 10
+manpower = 0.5

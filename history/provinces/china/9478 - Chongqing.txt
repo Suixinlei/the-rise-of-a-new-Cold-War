@@ -1,0 +1,15 @@
+owner = CHC
+
+controller = CHC
+
+ 
+add_core = CHC
+industry = 5
+infra = 9
+manpower = 17.00
+energy = 20.00
+rare_materials = 4.00
+metal = 15.00
+air_base = 2 #Chongqing airbase
+leadership = 1.50
+points = 1

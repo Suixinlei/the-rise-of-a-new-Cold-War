@@ -1,0 +1,9 @@
+owner = POR
+controller = POR
+add_core = POR
+
+infra = 7
+
+air_base = 3 #Monte Real airbase
+leadership = 2.50
+points = 1

@@ -1,0 +1,115 @@
+theatre = {
+	name = "Union Defence Force"
+	location = 9597
+	regiment = { type = hq_brigade name = "Union Defence Force HQ" historical_model = 1 }
+	corps = {
+		name = "Emirati Army"
+		location = 9597
+		regiment = { type = hq_brigade name = "Emirati Army HQ" historical_model = 1 }
+		division = {
+			is_reserve = yes
+			name = "Royal Guard Brigade"
+			location = 9597
+			regiment = { type = garrison_brigade name = "1st Royal Guard Battalion" historical_model = 1 }
+			regiment = { type = garrison_brigade name = "2nd Royal Guard Battalion" historical_model = 1 }
+			regiment = { type = garrison_brigade name = "3rd Royal Guard Battalion" historical_model = 1 }
+		}
+		division = {
+			is_reserve = yes
+			name = "1st Armored Brigade"
+			location = 9597
+			regiment = { type = armor_brigade name = "11th Armored Battalion" historical_model = 0 }
+			regiment = { type = armor_brigade name = "12th Armored Battalion" historical_model = 0 }
+			regiment = { type = armor_brigade name = "13th Armored Battalion" historical_model = 0 }
+		}
+		division = {
+			is_reserve = yes
+			name = "2nd Armored Brigade"
+			location = 9597
+			regiment = { type = armor_brigade name = "21st Armored Battalion" historical_model = 0 }
+			regiment = { type = armor_brigade name = "22nd Armored Battalion" historical_model = 0 }
+			regiment = { type = armor_brigade name = "23rd Armored Battalion" historical_model = 0 }
+		}
+		division = {
+			is_reserve = yes
+			name = "3rd Mechanized Brigade"
+			location = 9578
+			regiment = { type = mechanized_brigade name = "31st Mechanized Battalion" historical_model = 0 }
+			regiment = { type = mechanized_brigade name = "32nd Mechanized Battalion" historical_model = 0 }
+			regiment = { type = mechanized_brigade name = "33rd Mechanized Battalion" historical_model = 0 }
+		}
+		division = {
+			is_reserve = yes
+			name = "4th Mechanized Brigade"
+			location = 9578
+			regiment = { type = mechanized_brigade name = "41st Mechanized Battalion" historical_model = 0 }
+			regiment = { type = mechanized_brigade name = "42nd Mechanized Battalion" historical_model = 0 }
+			regiment = { type = mechanized_brigade name = "43rd Mechanized Battalion" historical_model = 0 }
+		}
+		division = {
+			is_reserve = yes
+			name = "5th Mechanized Brigade"
+			location = 9578
+			regiment = { type = mechanized_brigade name = "51st Mechanized Battalion" historical_model = 0 }
+			regiment = { type = mechanized_brigade name = "52nd Mechanized Battalion" historical_model = 0 }
+			regiment = { type = mechanized_brigade name = "53rd Mechanized Battalion" historical_model = 0 }
+		}
+		division = {
+			is_reserve = yes
+			name = "6th Infantry Brigade"
+			location = 9577
+			regiment = { type = infantry_brigade name = "61st Infantry Battalion" historical_model = 1 }
+			regiment = { type = infantry_brigade name = "62nd Infantry Battalion" historical_model = 1 }
+			regiment = { type = infantry_brigade name = "63rd Infantry Battalion" historical_model = 1 }
+		}
+		division = {
+			is_reserve = yes
+			name = "7th Infantry Brigade"
+			location = 9577
+			regiment = { type = infantry_brigade name = "71st Infantry Battalion" historical_model = 1 }
+			regiment = { type = infantry_brigade name = "72nd Infantry Battalion" historical_model = 1 }
+			regiment = { type = infantry_brigade name = "73rd Infantry Battalion" historical_model = 1 }
+			regiment = { type = artillery_brigade name = "8th Artillery Brigade" historical_model = 0 }
+		}
+	}
+	
+	navy = {
+	name = "Emirate Navy"
+	base = 9578
+	location = 9578
+	ship = { type = light_cruiser name = "Abu Dhabi I" historical_model = 0 }
+	ship = { type = light_cruiser name = "Abu Dhabi II" historical_model = 0 }
+	ship = { type = light_cruiser name = "Abu Dhabi III" historical_model = 0 }
+	ship = { type = light_cruiser name = "Muray-Jib I" historical_model = 0 }
+	ship = { type = light_cruiser name = "Muray-Jib II" historical_model = 0 }
+	ship = { type = patrol_boat name = "Ban-Yas I" historical_model = 0 }
+	ship = { type = patrol_boat name = "Ban-Yas II" historical_model = 0 }
+	ship = { type = patrol_boat name = "Ban-Yas IV" historical_model = 0 }
+	ship = { type = patrol_boat name = "Ban-Yas III" historical_model = 0 }
+	ship = { type = patrol_boat name = "Ban-Yas V" historical_model = 0 }
+	ship = { type = patrol_boat name = "Ban-Yas VI" historical_model = 0 }
+	ship = { type = patrol_boat name = "Mubarraz" historical_model = 0 }
+	ship = { type = patrol_boat name = "Makasib" historical_model = 0 }
+	}
+	
+	air = {
+	name = "Fighter Wing"
+	base = 9597
+	location = 9597
+	wing = { type = multi_role name = "1st Shaheen Squadron" historical_model = 0 }
+	wing = { type = multi_role name = "2nd Shaheen Squadron" historical_model = 0 }
+	wing = { type = multi_role name = "3rd Shaheen Squadron" historical_model = 0 }
+	wing = { type = multi_role name = "71st Fighter Squadron" historical_model = 0 }
+	wing = { type = multi_role name = "76th Fighter Squadron" historical_model = 0 }
+	}
+	
+	air = {
+	name = "Transport Wing"
+	base = 9597
+	location = 9597
+	wing = { type = transport_plane name = "C-130 Squadron" historical_model = 0 }
+	wing = { type = transport_plane name = "CASA Squadron" historical_model = 0 }
+	}
+}
+	
+	

@@ -1,0 +1,50 @@
+capital = 7307
+government = autocratic_democracy
+ideology = social_liberal
+alignment = { x = 0 y = 20 }
+neutrality = 80
+national_unity = 70
+
+oob = "AZB_2000.txt"
+
+popularity = { 
+	national_socialist = 0
+	fascistic = 0
+	paternal_autocrat = 6
+	social_conservative = 11
+	market_liberal = 5
+	social_liberal = 62
+	social_democrat = 0
+	left_wing_radical = 0
+	leninist = 0
+	stalinist = 6
+}
+
+organization = { 
+	national_socialist = 0
+	fascistic = 0
+	paternal_autocrat = 12
+	social_conservative = 15
+	market_liberal = 15
+	social_liberal = 3
+	social_democrat = 3
+	left_wing_radical = 0
+	leninist = 24
+	stalinist = 36
+}
+
+conscription_policy = volunteer_army
+press_laws = limited_censorship
+mobilisation_level = peace_time
+civil_laws = restrictions
+service_length = eighteen_months
+economic_policy = lais_fair
+
+
+industrial_facilities = 1
+industral_production = 1
+industral_efficiency = 1
+weapon_design = 1
+the_fuselage_design = 1
+main_battle_tank = 1
+ship_hull = 1

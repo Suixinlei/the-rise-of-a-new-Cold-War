@@ -1,0 +1,51 @@
+capital = 7485
+government = constitutional_monarchy
+ideology = social_conservative
+alignment = { x = 30 y = 20 }
+neutrality = 80
+national_unity = 75
+head_of_state = 41001
+head_of_government = 41004
+foreign_minister = 41013
+armament_minister = 41004
+minister_of_security = 41019
+minister_of_intelligence = 41030
+chief_of_staff = 41032
+chief_of_army = 41032
+chief_of_air = 41033
+chief_of_navy = 41037
+
+oob = "JOR_2000.txt"
+
+popularity = { 
+	national_socialist = 0
+	fascistic = 0
+	paternal_autocrat = 0
+	social_conservative = 14
+	market_liberal = 0
+	social_liberal = 0
+	social_democrat = 0
+	left_wing_radical = 0
+	leninist = 0
+	stalinist = 0
+}
+
+organization = {
+	national_socialist = 0
+	fascistic = 0
+	paternal_autocrat = 0
+	social_conservative = 42
+	market_liberal = 0
+	social_liberal = 0
+	social_democrat = 0
+	left_wing_radical = 0
+	leninist = 0
+	stalinist = 0
+}
+
+conscription_policy = volunteer_army
+press_laws = free_press
+mobilisation_level = peace_time
+civil_laws = open_society
+service_length = eighteen_months
+economic_policy = lais_fair

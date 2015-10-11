@@ -1,0 +1,10 @@
+owner = BEL
+controller = BEL
+add_core = BEL
+manpower = 0.5
+industry = 2
+metal = 5.00
+
+infra = 9
+
+air_base = 2 #Ursel airbase

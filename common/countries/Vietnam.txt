@@ -1,0 +1,110 @@
+color = { 199  252  8 }
+graphical_culture = Generic
+
+default_templates = {
+	generic_infantry = {
+		infantry_brigade
+		infantry_brigade
+		infantry_brigade
+	}
+	generic_milita = {
+		militia_brigade
+		militia_brigade
+		militia_brigade
+	}
+	generic_armoured = {
+		armor_brigade
+		motorized_brigade
+		motorized_brigade
+	}
+	generic_cavalry = {
+		cavalry_brigade
+		cavalry_brigade
+	}
+}
+ministers = {
+        72200 = {
+		name = "³ÂµÂÁ¼"
+		ideology = stalinist
+		loyalty = 1.00
+		picture = 101
+                head_of_state = stern_imperialist
+                head_of_government = naive_optimist
+		start_date = 2000.1.1
+        }
+        72201 = {
+		name = "ÅËÎÄ¿­"
+		ideology = stalinist
+		loyalty = 1.00
+		picture = 102
+                head_of_government = silent_workhorse
+		start_date = 2000.1.1
+        }
+	72202 = {
+		name = "ÈîâùÄê"
+		ideology = stalinist
+		loyalty = 1.00
+		picture = 103
+                minister_of_foreign = ideological_crusader
+		start_date = 2000.1.1
+        }
+	72203 = {
+		name = "·¶¼ÒÇ«"
+		ideology = stalinist
+		loyalty = 1.00
+		picture = 104
+                minister_of_foreign = apologetic_clerk
+		start_date = 2000.1.1
+        }
+	72204 = {
+		name = "ÈîÉúĞÛ"
+		ideology = stalinist
+		loyalty = 1.00
+		picture = 105
+                minister_of_finance = administrative_genius
+		start_date = 2000.1.1
+        }
+	72205 = {
+		name = "ÀèºèÓ¢"
+		ideology = stalinist
+		loyalty = 1.00
+		picture = 106
+                minister_of_security = prince_of_terror
+                minister_of_intelligence = dismal_enigma
+		start_date = 2000.1.1
+        }
+	72206 = {
+		name = "Èî¹úÌ©"
+		ideology = stalinist
+		loyalty = 1.00
+		picture = 107
+                minister_of_security = silent_lawyer
+		start_date = 2000.1.1
+        }
+	72207 = {
+		name = "·¶ÎÄ²è"
+		ideology = stalinist
+		loyalty = 1.00
+		picture = 108
+                minister_of_defence = school_of_psychology
+		start_date = 2000.1.1
+        }
+	72208 = {
+		name = "·ë¹âÇà"
+		ideology = stalinist
+		loyalty = 1.00
+		picture = 109
+                minister_of_defence = school_of_fire_support
+                chief_of_army = elastic_defence_doctrine 
+                chief_of_air = army_aviation_doctrine
+		start_date = 2000.1.1
+        }
+	72209 = {
+		name = "ÈîÎÄÔ£"
+		ideology = stalinist
+		loyalty = 1.00
+		picture = 110
+                chief_of_navy = indirect_approach_doctrine
+		start_date = 2000.1.1
+        }
+}

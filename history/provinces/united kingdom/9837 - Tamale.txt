@@ -1,0 +1,4 @@
+owner = GHA
+controller = GHA
+add_core = GHA
+infra = 4

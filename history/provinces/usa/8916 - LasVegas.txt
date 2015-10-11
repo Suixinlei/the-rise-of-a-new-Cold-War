@@ -1,0 +1,8 @@
+owner = USA
+controller = USA
+add_core = USA
+infra = 6
+
+
+air_base = 10 #Nellis airbase and Las Vegas airport
+points = 1

@@ -1,0 +1,196 @@
+color = { 139  6  91 }
+graphical_culture = Generic
+last_election = 2002.12.15
+duration = 60
+
+default_templates = {
+	generic_infantry = {
+		infantry_brigade
+		infantry_brigade
+		infantry_brigade
+	}
+	generic_milita = {
+		militia_brigade
+		militia_brigade
+		militia_brigade
+	}
+	generic_armoured = {
+		armor_brigade
+		motorized_brigade
+		motorized_brigade
+	}
+	generic_cavalry = {
+		cavalry_brigade
+		cavalry_brigade
+	}
+}
+
+unit_names = {
+}
+
+
+
+ministers = {
+	48001 = {
+		name = "Marc Ravalomanana"
+		ideology = paternal_autocrat
+		loyalty = 1.00
+		picture = M48001
+		head_of_state = die_hard_reformer
+		start_date = 2000.1.1
+	}
+	48002 = {
+		name = "Jean Lahiniriko"
+		ideology = leninist
+		loyalty = 1.00
+		picture = M48002
+		head_of_state = resource_industrialist
+		start_date = 2000.1.1
+	}
+	48003 = {
+		name = "Herizo Razafimahaleo"
+		ideology = market_liberal
+		loyalty = 1.00
+		picture = M48003
+		head_of_state = administrative_genius
+		start_date = 2000.1.1
+	}
+	48004 = {
+		name = "Norbert Ratsirahonana"
+		ideology = left_wing_radical
+		loyalty = 1.00
+		picture = M48004
+		head_of_state = guns_and_butter_doctrine
+		start_date = 2000.1.1
+	}
+	48005 = {
+		name = "Ny Hasina Andriamanjato"
+		ideology = stalinist
+		loyalty = 1.00
+		picture = M48005
+		head_of_state = responsive_industrialist
+		start_date = 2000.1.1
+	}
+	48006 = {
+		name = "Jacques Sylla"
+		ideology = paternal_autocrat
+		loyalty = 1.00
+		picture = M48006
+		head_of_government = patriot
+		start_date = 2000.1.1
+	}
+	48007 = {
+		name = "Jean-Jacques Rasolondraibe"
+		ideology = social_conservative 
+		loyalty = 1.00
+		picture = M48007
+		head_of_government = popular_figurehead
+		start_date = 2000.1.1
+	}
+	48008 = {
+		name = "Charles Rabemananjara"
+		ideology = paternal_autocrat
+		loyalty = 1.00
+		picture = M48008
+		head_of_government = corrupt_kleptocrat
+		start_date = 2004.1.1
+	}
+	48009 = {
+		name = "Omer Beriziky"
+		ideology = market_liberal
+		loyalty = 1.00
+		picture = M48009
+		head_of_government = industry_servant
+		start_date = 2000.1.1
+	}
+	48010 = {
+		name = "Pierrot Rajaonarivelo"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M48010
+		head_of_state = talented_liar
+		start_date = 2000.1.1
+	}
+	48011 = {
+		name = "Pierre Houlder Ramaholimasy"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M48011
+		foreign_minister = crooked_kleptocrat
+		start_date = 2000.1.1
+	}
+	48012 = {
+		name = "Julien Reboza"
+		ideology = left_wing_radical
+		loyalty = 1.00
+		picture = M48012
+		head_of_government = back_stabber
+		start_date = 2000.1.1
+	}
+	48013 = {
+		name = "Roger Mahazoasy"
+		ideology = left_wing_radical
+		loyalty = 1.00
+		picture = M48013
+		foreign_minister = talented_and_concealed
+		start_date = 2000.1.1
+	}
+	48014 = {
+		name = "Jean-Jacques Rabenirina"
+		ideology = left_wing_radical
+		loyalty = 1.00
+		picture = M48014
+		armament_minister = power_hungry_demagogue
+		start_date = 2000.1.1
+	}
+	48015 = {
+		name = "Manassé Esoavelomandroso"
+		ideology = market_liberal
+		loyalty = 1.00
+		picture = M48015
+		minister_of_security = staunch_capitalist
+		start_date = 2000.1.1
+	}
+	48016 = {
+		name = "Jean Max Rakotomamonjy"
+		ideology = market_liberal
+		loyalty = 1.00
+		picture = M48016
+		foreign_minister = service_enforcer
+		start_date = 2000.1.1
+	}
+	48017 = {
+		name = "Benja Razafimahaleo"
+		ideology = market_liberal
+		loyalty = 1.00
+		picture = M48017
+		armament_minister = iron_fisted_brute
+		start_date = 2000.1.1
+	}
+	48018 = {
+		name = "Solofonantenaina Razoarimihaja"
+		ideology = paternal_autocrat
+		loyalty = 1.00
+		picture = M48018
+		foreign_minister = old_hippie
+		start_date = 2000.1.1
+	}
+	48019 = {
+		name = "Yvan Randriasandratriniony"
+		ideology = paternal_autocrat
+		loyalty = 1.00
+		picture = M48019
+		armament_minister = ambitious_union_boss
+		start_date = 2000.1.1
+	}
+	48020 = {
+		name = "Ivohasina Razafimahefa"
+		ideology = paternal_autocrat
+		loyalty = 1.00
+		picture = M48020
+		minister_of_security = tempered_speaker
+		start_date = 2000.1.1
+	}
+	
+	
+}

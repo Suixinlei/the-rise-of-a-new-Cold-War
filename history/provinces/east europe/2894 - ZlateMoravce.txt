@@ -1,0 +1,5 @@
+owner = SLO
+controller = SLO
+add_core = SLO
+rare_materials = 3.00
+infra = 7

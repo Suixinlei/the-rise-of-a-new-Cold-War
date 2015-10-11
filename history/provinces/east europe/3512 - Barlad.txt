@@ -1,0 +1,7 @@
+owner = MOL
+controller = MOL
+add_core = MOL
+
+infra = 8
+
+

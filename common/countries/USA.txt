@@ -1,0 +1,221 @@
+color = { 67  123  237 }
+graphical_culture = Us
+last_election = 2004.11.2
+duration = 48
+major = yes
+
+default_templates = {
+	USA_infantry = {
+		infantry_brigade
+		infantry_brigade
+		infantry_brigade
+	}
+	USA_national_guard = {
+		infantry_brigade
+		infantry_brigade
+		infantry_brigade
+		infantry_brigade
+	}
+	USA_cavalry = {
+		cavalry_brigade
+		cavalry_brigade
+	}
+	USA_armour_1940 = {
+		armor_brigade
+		light_armor_brigade
+		light_armor_brigade
+		motorized_brigade
+	}
+	USA_motorised = {
+		motorized_brigade
+		motorized_brigade
+		motorized_brigade
+	}
+	USA_armour_1942 = {
+		armor_brigade
+ 		armor_brigade
+		mechanized_brigade
+	}
+	USA_airborne = {
+		paratrooper_brigade
+		paratrooper_brigade
+		paratrooper_brigade
+	}
+	USA_marine = {
+		marine_brigade
+		marine_brigade
+		marine_brigade
+	}
+}
+
+unit_names = {
+
+}
+
+ministers = {
+        71101 = {
+		name = "巴拉克.侯赛因.奥巴马"
+		ideology = fascistic
+		loyalty = 1.00
+		picture = Barack.Hussein.Obama
+                head_of_state = die_hard_reformer
+                head_of_government = flamboyant_tough_guy
+		start_date = 2000.1.1
+        }
+        71102 = {
+		name = "乔治沃克.布什"
+		ideology = paternal_autocrat
+		loyalty = 1.00
+		picture = George.Walker.Bush
+                head_of_state = stern_imperialist
+                head_of_government = flamboyant_tough_guy
+		start_date = 2000.1.1
+        }
+	71103 = {
+		name = "约翰.克里.福布斯"
+		ideology = fascistic
+		loyalty = 1.00
+		picture = John.Forbes.Kerry
+                minister_of_foreign = ideological_crusader
+		start_date = 2000.1.1
+        }
+	71104 = {
+		name = "希拉里戴安娜-克林顿"
+		ideology = paternal_autocrat
+		loyalty = 1.00
+		picture = Hillary.Diane.Rodham.Clinton
+                minister_of_foreign = ideological_crusader
+		start_date = 2000.1.1
+        }
+	71105 = {
+		name = "亨利“汉克”梅利特保尔森"
+		ideology = paternal_autocrat
+		loyalty = 1.00
+		picture = HenryHankMerritt.Paulson.Jr
+                minister_of_finance = resource_industrialist
+		start_date = 2000.1.1
+        }
+	71106 = {
+		name = "盖纳特"
+		ideology = fascistic
+		loyalty = 1.00
+		picture = Timothy.Geithne
+                minister_of_finance = tank_proponent
+		start_date = 2000.1.1
+        }
+	71107 = {
+		name = "雅各伯"
+		ideology = fascistic
+		loyalty = 1.00
+		picture = Jacob.Lew
+                minister_of_finance = organisation_genius
+		start_date = 2000.1.1
+        }
+	71108 = {
+		name = "罗伯特米勒"
+		ideology = paternal_autocrat
+		loyalty = 1.00
+		picture = Robert.Miller
+                minister_of_security = crime_fighter 
+		start_date = 2000.1.1
+        }
+	71109 = {
+		name = "杰姆斯科米"
+		ideology = fascistic
+		loyalty = 1.00
+		picture = James.Comey
+                minister_of_security = patriot
+		start_date = 2000.1.1
+        }
+	71110 = {
+		name = "迈克尔-海登"
+		ideology = paternal_autocrat
+		loyalty = 1.00
+		picture = Michael.Hayden
+                minister_of_intelligence = talented_and_concealed
+		start_date = 2000.1.1
+        }
+	71111 = {
+		name = "列昂.帕内塔"
+		ideology = fascistic
+		loyalty = 1.00
+		picture = Leon.Panetta
+                minister_of_defence = tank_proponent
+                minister_of_intelligence = technical_specialist
+		start_date = 2000.1.1
+        }
+	71112 = {
+		name = "戴维.豪厄尔.彼得雷乌斯"
+		ideology = fascistic
+		loyalty = 1.00
+		picture = David.Howell.Petraeus
+                minister_of_intelligence = political_specialist
+		start_date = 2000.1.1
+        }
+	71113 = {
+		name = "彼得佩斯"
+		ideology = paternal_autocrat
+		loyalty = 1.00
+		picture = Peter.Pais
+                minister_of_defence = school_of_psychology
+		start_date = 2000.1.1
+        }
+	71114 = {
+		name = "迈克尔.马伦"
+		ideology = fascistic
+		loyalty = 1.00
+		picture = Michael.Mullen
+                minister_of_defence = school_of_fire_support
+                chief_of_navy = open_seas_doctrine
+		start_date = 2000.1.1
+        }
+	71115 = {
+		name = "马丁邓普西"
+		ideology = paternal_autocrat
+		loyalty = 1.00
+		picture = Martin.Dempsey
+                chief_of_army = elastic_defence_doctrine 
+		start_date = 2000.1.1
+        }
+	71116 = {
+		name = "杰姆斯阿摩司"
+		ideology = fascistic
+		loyalty = 1.00
+		picture = James.Amos
+                chief_of_army = guns_and_butter_doctrine
+		start_date = 2000.1.1
+        }
+	71117 = {
+		name = "杰姆斯亚力山大"
+		ideology = paternal_autocrat
+		loyalty = 1.00
+		picture = James.Alexander.Winnefeld.Jr
+                chief_of_navy = submarine_proponent
+		start_date = 2000.1.1
+        }
+	71118 = {
+		name = "萨缪尔.洛克里尔三世"
+		ideology = fascistic
+		loyalty = 1.00
+		picture = Samuel.J.Locklear.III
+                chief_of_navy = open_seas_doctrine
+		start_date = 2000.1.1
+        }
+	71119 = {
+		name = "查尔斯.H.雅各比"
+		ideology = paternal_autocrat
+		loyalty = 1.00
+		picture = Charles.H.Jacoby
+                chief_of_air = army_aviation_doctrine
+		start_date = 2000.1.1
+        }
+	71120 = {
+		name = "威廉·M·弗雷泽三世"
+		ideology = fascistic
+		loyalty = 1.00
+		picture = William.M.Fraser
+                chief_of_air = air_superiority_proponent
+		start_date = 2000.1.1
+        }
+}
+

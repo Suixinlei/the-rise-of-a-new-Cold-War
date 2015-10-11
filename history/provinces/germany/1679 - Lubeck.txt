@@ -1,0 +1,10 @@
+owner = GER
+controller = GER
+add_core = GER
+
+
+
+infra = 10
+naval_base = 7 #Lubeck port
+leadership = 2.50
+points = 1

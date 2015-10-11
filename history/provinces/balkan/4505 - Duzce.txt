@@ -1,0 +1,7 @@
+owner = TUR
+controller = TUR
+add_core = TUR
+energy = 5.00
+
+infra = 7
+

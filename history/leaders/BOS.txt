@@ -1,0 +1,513 @@
+20001 = {
+	name = "Jerkic"
+	country = BOS
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L20001
+	add_trait = marine
+								history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+20002 = {
+	name = "Lovric"
+	country = BOS
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L20002
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+20003 = {
+	name = "Radišic"
+	country = BOS
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L20003
+	add_trait = panzer_leader
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+20004 = {
+	name = "Vukovic"
+	country = BOS
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L20004
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+20005 = {
+	name = "Milojcic"
+	country = BOS
+	type = land
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L20005
+	add_trait = defensive_doctrine
+	history = {
+		1995.1.1 = { rank = 1 }
+		1998.1.1 = { rank = 2 }
+		2001.1.1 = { rank = 3 }
+		2003.1.1 = { rank = 4 }
+	}
+}
+20006 = {
+	name = "Foric"
+	country = BOS
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L20006
+	add_trait = offensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+20007 = {
+	name = "Gutic"
+	country = BOS
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L20007
+	add_trait = winter_specialist
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+20008 = {
+	name = "Bešlagic"
+	country = BOS
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L20008
+	add_trait = offensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+20009 = {
+	name = "Baljic"
+	country = BOS
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 0.00
+	picture = L20009
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+20010 = {
+	name = "Cejvan"
+	country = BOS
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 0.00
+	picture = L20010
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+20011 = {
+	name = "Cengic"
+	country = BOS
+	type = land
+	skill = 1
+	max_skill = 7
+	loyalty = 1.00
+	picture = L20011
+	add_trait = frontline_soldier
+	add_trait = commando
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+20012 = {
+	name = "Demirovic"
+	country = BOS
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 0.00
+	picture = L20012
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+20013 = {
+	name = "Golubovic"
+	country = BOS
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L20013
+	add_trait = trainer
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+20014 = {
+	name = "Gudelj"
+	country = BOS
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L20014
+	add_trait = engineer
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+20015 = {
+	name = "Hadžic"
+	country = BOS
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L20015
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+20016 = {
+	name = "Izetbegovic"
+	country = BOS
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L20016
+	add_trait = assaulter
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+20017 = {
+	name = "Majstorovic"
+	country = BOS
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L20017
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+20018 = {
+	name = "Mandic"
+	country = BOS
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L20018
+	add_trait = offensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+20019 = {
+	name = "Mehmedbašic"
+	country = BOS
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L20019
+	add_trait = improvisation
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+20020 = {
+	name = "Nadarevic"
+	country = BOS
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 0.00
+	picture = L20020
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+20021 = {
+	name = "Predojevic"
+	country = BOS
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 0.00
+	picture = L20021
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+20022 = {
+	name = "Rakic"
+	country = BOS
+	type = land
+	skill = 1
+	max_skill = 7
+	loyalty = 1.00
+	picture = L20022
+	add_trait = hard_defender
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+20023 = {
+	name = "Salihovic"
+	country = BOS
+	type = land
+	skill = 0
+	max_skill = 6
+	loyalty = 0.00
+	picture = L20023
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+20024 = {
+	name = "Sarajlic"
+	country = BOS
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L20024
+	add_trait = engineer
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+20025 = {
+	name = "Šaric"
+	country = BOS
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L20025
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+20026 = {
+	name = "Sidran"
+	country = BOS
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L20026
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+20027 = {
+	name = "Sokolovic"
+	country = BOS
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L20027
+	add_trait = logistics_wizard
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+20028 = {
+	name = "Sušic"
+	country = BOS
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L20028
+	add_trait = defensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+20029 = {
+	name = "Tahirovic"
+	country = BOS
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 0.00
+	picture = L20029
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+20030 = {
+	name = "Lovric"
+	country = BOS
+	type = land
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L20030
+	history = {
+		1998.1.1 = { rank = 1 }
+		2001.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+20031 = {
+	name = "Puljic"
+	country = BOS
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 0.00
+	picture = L20031
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+20032 = {
+	name = "Delic"
+	country = BOS
+	type = land
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L20032
+	add_trait = offensive_doctrine
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+20033 = {
+	name = "Jelec"
+	country = BOS
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L20033
+	add_trait = panzer_leader
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+20034 = {
+	name = "Bešic"
+	country = BOS
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L20034
+	add_trait = frontline_soldier
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+20035 = {
+	name = "Babic"
+	country = BOS
+	type = air
+	skill = 1
+	max_skill = 5
+	loyalty = 0.00
+	picture = L20035
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+20036 = {
+	name = "Bolic"
+	country = BOS
+	type = air
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L20036
+	add_trait = night_flyer
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+20037 = {
+	name = "Mandic"
+	country = BOS
+	type = air
+	skill = 2
+	max_skill = 5
+	loyalty = 0.00
+	picture = L20037
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+20038 = {
+	name = "Dautovic"
+	country = BOS
+	type = air
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L20038
+	add_trait = tank_buster
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+20039 = {
+	name = "Jusupovic"
+	country = BOS
+	type = air
+	skill = 1
+	max_skill = 5
+	loyalty = 0.00
+	picture = L20039
+	add_trait = superior_air_tactician
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+20040 = {
+	name = "Semov"
+	country = BOS
+	type = air
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L20040
+	add_trait = fleet_destroyer
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}

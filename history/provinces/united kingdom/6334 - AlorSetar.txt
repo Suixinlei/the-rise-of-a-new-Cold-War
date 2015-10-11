@@ -1,0 +1,9 @@
+owner = MLY
+controller = MLY
+add_core = MLY
+
+
+infra = 4
+
+air_base = 5 #Numerous RMAF airbases
+leadership = 2.50

@@ -1,0 +1,7 @@
+owner = GUA
+controller = GUA
+add_core = GUA
+
+infra = 6
+air_base = 8 #Airbases of Guatemala
+naval_base = 2 #Puerto Barrios port

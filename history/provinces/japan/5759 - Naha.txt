@@ -1,0 +1,11 @@
+owner = JAP
+
+controller = JAP
+
+add_core = JAP
+
+
+infra = 4
+air_base = 2 #MCAS Futenma
+naval_base = 1
+points = 1

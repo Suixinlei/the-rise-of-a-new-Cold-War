@@ -1,0 +1,10 @@
+owner = ISR
+
+controller = ISR
+
+add_core = ISR
+add_core = PAL
+
+infra = 6
+naval_base = 10 #Ashdod port
+points = 1

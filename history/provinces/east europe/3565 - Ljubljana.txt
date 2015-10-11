@@ -1,0 +1,10 @@
+owner = SLV
+controller = SLV
+add_core = SLV
+energy = 1.00
+
+
+infra = 8
+
+
+points = 1

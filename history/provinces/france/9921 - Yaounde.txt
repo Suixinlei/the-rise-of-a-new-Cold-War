@@ -1,0 +1,8 @@
+owner = CAM
+controller = CAM
+add_core = CAM
+infra = 6
+manpower = 7.00
+crude_oil = 1.00
+rare_materials = 1.00
+points = 1

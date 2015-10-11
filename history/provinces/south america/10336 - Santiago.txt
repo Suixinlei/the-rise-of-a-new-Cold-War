@@ -1,0 +1,12 @@
+owner = CHL
+controller = CHL
+add_core = CHL
+infra = 6
+industry = 5
+manpower = 4.6
+metal = 6.00
+rare_materials = 20.00
+air_base = 7 #Santiago airport and Vina del Mar airbase
+naval_base = 6 #Valparaiso port
+leadership = 2.50
+points = 1

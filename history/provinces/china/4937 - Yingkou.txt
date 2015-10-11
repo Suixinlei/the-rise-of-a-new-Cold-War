@@ -1,0 +1,8 @@
+owner = CHC
+controller = CHC
+add_core = CHC
+ 
+
+infra = 9
+naval_base = 2 #Yingkou port
+points = 1

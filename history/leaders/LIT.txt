@@ -1,0 +1,188 @@
+93001 = {
+	name = "Andrejevas"
+	country = LIT
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = LIT1
+	add_trait = frontline_soldier
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+93002 = {
+	name = "Gaizevskis"
+	country = LIT
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = LIT2
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+93003 = {
+	name = "Vadas"
+	country = LIT
+	type = land
+	skill = 3
+	max_skill = 6
+	loyalty = 1.00
+	picture = LIT3
+	add_trait = panzer_leader
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+93004 = {
+	name = "Lelka"
+	country = LIT
+	type = land
+	skill = 1
+	max_skill = 4
+	loyalty = 1.00
+	picture = LIT4
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+93005 = {
+	name = "Rokos"
+	country = LIT
+	type = land
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = LIT5
+	history = {
+		2000.1.1 = { rank = 2 }
+	}
+}
+93006 = {
+	name = "Jackus"
+	country = LIT
+	type = land
+	skill = 1
+	max_skill = 3
+	loyalty = 1.00
+	picture = LIT6
+	add_trait = landlubber
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+93007 = {
+	name = "Tamosaitis"
+	country = LIT
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = LIT7
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+93008 = {
+	name = "Karvelis"
+	country = LIT
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = LIT8
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+93009 = {
+	name = "Mazeikis"
+	country = LIT
+	type = land
+	skill = 4
+	max_skill = 9
+	loyalty = 1.00
+	picture = LIT9
+	add_trait = trickster
+	add_trait = trainer
+	history = {
+		2000.1.1 = { rank = 4 }
+	}
+}
+93010 = {
+	name = "Maza"
+	country = LIT
+	type = land
+	skill = 0
+	max_skill = 4
+	loyalty = 1.00
+	picture = LIT10
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+93011 = {
+	name = "Vasiliauskas"
+	country = LIT
+	type = land
+	skill = 1
+	max_skill = 3
+	loyalty = 1.00
+	picture = LIT11
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+93012 = {
+	name = "Nagevitchius"
+	country = LIT
+	type = land
+	skill = 1
+	max_skill = 3
+	loyalty = 1.00
+	picture = LIT12
+	add_trait = defensive_doctrine
+	add_trait = improvisation
+	history = {
+		2000.1.1 = { rank = 2 }
+	}
+}
+93013 = {
+	name = "Papieliushko"
+	country = LIT
+	type = land
+	skill = 0
+	max_skill = 3
+	loyalty = 1.00
+	picture = LIT13
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+93014 = {
+	name = "Plechavicius"
+	country = LIT
+	type = sea
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = LIT14
+	add_trait = learners_will
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+93015 = {
+	name = "Zenkavicius"
+	country = LIT
+	type = air
+	skill = 1
+	max_skill = 4
+	loyalty = 1.00
+	picture = LIT15
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}

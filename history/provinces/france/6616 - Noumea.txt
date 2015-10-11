@@ -1,0 +1,8 @@
+owner = FRA
+controller = FRA
+add_core = FRA
+rare_materials = 9.00
+infra = 4
+
+naval_base = 1
+points = 1

@@ -1,0 +1,6 @@
+owner = TNZ
+controller = TNZ
+add_core = TNZ
+
+infra = 2
+

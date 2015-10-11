@@ -1,0 +1,1759 @@
+}
+117001 = {
+	name = "Yop"
+	country = PRK
+	type = land
+	skill = 1
+	max_skill = 4
+	loyalty = 1.00
+	picture = L117001
+	add_trait = marine
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+117002 = {
+	name = "Ga"
+	country = PRK
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L117002
+	add_trait = commando
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+117003 = {
+	name = "Gan"
+	country = PRK
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L117003
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+117004 = {
+	name = "Gal"
+	country = PRK
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L117004
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+117005 = {
+	name = "Gam"
+	country = PRK
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L117005
+	add_trait = defensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+117006 = {
+	name = "Gang"
+	country = PRK
+	type = land
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L117006
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+117007 = {
+	name = "Gangjeon"
+	country = PRK
+	type = land
+	skill = 0
+	max_skill = 6
+	loyalty = 1.00
+	picture = L117007
+	add_trait = engineer
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+117008 = {
+	name = "Gae"
+	country = PRK
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L117008
+	add_trait = panzer_leader
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+117009 = {
+	name = "Gyeon"
+	country = PRK
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L117009
+	add_trait = fortress_buster
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+117010 = {
+	name = "Gye"
+	country = PRK
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L117010
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+117011 = {
+	name = "Go"
+	country = PRK
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L117011
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+117012 = {
+	name = "Gok"
+	country = PRK
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L117012
+	add_trait = learners_will
+	add_trait = hard_defender
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+117013 = {
+	name = "Gwak"
+	country = PRK
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L117013
+	add_trait = panzer_leader
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+117014 = {
+	name = "Gyo"
+	country = PRK
+	type = land
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L117014
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+117015 = {
+	name = "Gun"
+	country = PRK
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L117015
+	add_trait = frontline_soldier
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+117016 = {
+	name = "Kwon"
+	country = PRK
+	type = land
+	skill = 1
+	max_skill = 8
+	loyalty = 1.00
+	picture = L117016
+	add_trait = improvisation
+	add_trait = commando
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+117017 = {
+	name = "Kil"
+	country = PRK
+	type = land
+	skill = 1
+	max_skill = 7
+	loyalty = 1.00
+	picture = L117017
+	add_trait = trainer
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+117018 = {
+	name = "Ra"
+	country = PRK
+	type = land
+	skill = 3
+	max_skill = 6
+	loyalty = 1.00
+	picture = L117018
+	add_trait = commando
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+117019 = {
+	name = "Nam"
+	country = PRK
+	type = land
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = L117019
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+117020 = {
+	name = "Rang"
+	country = PRK
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 1.00
+	picture = L117020
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+117021 = {
+	name = "Ro"
+	country = PRK
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L117021
+	add_trait = offensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+117022 = {
+	name = "Roe"
+	country = PRK
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L117022
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+117023 = {
+	name = "Tam"
+	country = PRK
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L117023
+	add_trait = fortress_buster
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+117024 = {
+	name = "Dang"
+	country = PRK
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L117024
+	add_trait = panzer_leader
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+117025 = {
+	name = "To"
+	country = PRK
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L117025
+	add_trait = improvisation
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+117026 = {
+	name = "Tokko"
+	country = PRK
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L117026
+	add_trait = panzer_leader
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+117027 = {
+	name = "Dokgo"
+	country = PRK
+	type = land
+	skill = 0
+	max_skill = 6
+	loyalty = 1.00
+	picture = L117027
+	add_trait = commando
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+117028 = {
+	name = "Dongbang"
+	country = PRK
+	type = land
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L117028
+	add_trait = logistics_wizard
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+117029 = {
+	name = "Tu"
+	country = PRK
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L117029
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+117030 = {
+	name = "Ma"
+	country = PRK
+	type = land
+	skill = 1
+	max_skill = 7
+	loyalty = 1.00
+	picture = L117030
+	add_trait = commando
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+117031 = {
+	name = "Mangjol"
+	country = PRK
+	type = land
+	skill = 2
+	max_skill = 8
+	loyalty = 1.00
+	picture = L117031
+	add_trait = offensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+117032 = {
+	name = "Maeng"
+	country = PRK
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L117032
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+117033 = {
+	name = "Myong"
+	country = PRK
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L117033
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+117034 = {
+	name = "Mo"
+	country = PRK
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L117034
+	add_trait = defensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+117035 = {
+	name = "Myo"
+	country = PRK
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L117035
+	add_trait = landing_specialist
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+117036 = {
+	name = "Muk"
+	country = PRK
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L117036
+	add_trait = panzer_leader
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+117037 = {
+	name = "Mun"
+	country = PRK
+	type = land
+	skill = 1
+	max_skill = 7
+	loyalty = 1.00
+	picture = L117037
+	add_trait = landing_specialist
+	add_trait = learners_will
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+117038 = {
+	name = "Meeh"
+	country = PRK
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L117038
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+117039 = {
+	name = "Pang"
+	country = PRK
+	type = land
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L117039
+	add_trait = offensive_doctrine
+	add_trait = panzer_leader
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+117040 = {
+	name = "Paek"
+	country = PRK
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L117040
+	add_trait = hard_defender
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+117041 = {
+	name = "Byeon"
+	country = PRK
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L117041
+	add_trait = offensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+117042 = {
+	name = "Bong"
+	country = PRK
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L117042
+	add_trait = commando
+	add_trait = learners_will
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+117043 = {
+	name = "Bu"
+	country = PRK
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L117043
+	add_trait = landing_specialist
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+117044 = {
+	name = "Pi"
+	country = PRK
+	type = land
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L117044
+	add_trait = panzer_leader
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+117045 = {
+	name = "Ping"
+	country = PRK
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L117045
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+117046 = {
+	name = "Sah"
+	country = PRK
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L117046
+	add_trait = landing_specialist
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+117047 = {
+	name = "Sagong"
+	country = PRK
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L117047
+	add_trait = trickster
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+117048 = {
+	name = "Sang"
+	country = PRK
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L117048
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+117049 = {
+	name = "So"
+	country = PRK
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L117049
+	add_trait = commando
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+117050 = {
+	name = "Seon"
+	country = PRK
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L117050
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+117051 = {
+	name = "Sol"
+	country = PRK
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L117051
+	add_trait = assaulter
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+117052 = {
+	name = "Seong"
+	country = PRK
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L117052
+	add_trait = hard_defender
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+117053 = {
+	name = "Sobong"
+	country = PRK
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L117053
+	add_trait = panzer_leader
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+117054 = {
+	name = "Soun"
+	country = PRK
+	type = land
+	skill = 2
+	max_skill = 8
+	loyalty = 1.00
+	picture = L117054
+	add_trait = frontline_soldier
+	add_trait = improvisation
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+117055 = {
+	name = "Sun"
+	country = PRK
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L117055
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+117056 = {
+	name = "Si"
+	country = PRK
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L117056
+	add_trait = defensive_doctrine
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+117057 = {
+	name = "Sheem"
+	country = PRK
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L117057
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+117058 = {
+	name = "Sihb"
+	country = PRK
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L117058
+	add_trait = engineer
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+117059 = {
+	name = "Arn"
+	country = PRK
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L117059
+	add_trait = offensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+117060 = {
+	name = "G. Kim"
+	country = PRK
+	type = land
+	skill = 4
+	max_skill = 7
+	loyalty = 1.00
+	picture = L117060
+	add_trait = frontline_soldier
+	add_trait = assaulter
+	history = {
+		1995.1.1 = { rank = 1 }
+		2000.1.1 = { rank = 2 }
+		2002.1.1 = { rank = 3 }
+		2003.1.1 = { rank = 4 }
+	}
+}
+117061 = {
+	name = "Ya"
+	country = PRK
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L117061
+	add_trait = winter_specialist
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+117062 = {
+	name = "H. C. Hyon"
+	country = PRK
+	type = land
+	skill = 4
+	max_skill = 7
+	loyalty = 1.00
+	picture = L117062
+	history = {
+		1995.1.1 = { rank = 1 }
+		1998.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+117063 = {
+	name = "H. R. Kim"
+	country = PRK
+	type = land
+	skill = 4
+	max_skill = 8
+	loyalty = 1.00
+	picture = L117063
+	add_trait = panzer_leader
+	add_trait = assaulter
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+117064 = {
+	name = "H. Y. Ri"
+	country = PRK
+	type = air
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L117064
+	add_trait = superior_air_tactician
+	history = {
+		1998.1.1 = { rank = 1 }
+		2000.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+117065 = {
+	name = "Ryang"
+	country = PRK
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L117065
+	add_trait = panzer_leader
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+117066 = {
+	name = "Eoh"
+	country = PRK
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L117066
+	add_trait = landing_specialist
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+117067 = {
+	name = "Ogum"
+	country = PRK
+	type = land
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L117067
+	add_trait = offensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+117068 = {
+	name = "Om"
+	country = PRK
+	type = land
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = L117068
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+117069 = {
+	name = "Ryo"
+	country = PRK
+	type = land
+	skill = 1
+	max_skill = 7
+	loyalty = 1.00
+	picture = L117069
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+117070 = {
+	name = "Ryeon"
+	country = PRK
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L117070
+	add_trait = commando
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+117071 = {
+	name = "Yeh"
+	country = PRK
+	type = land
+	skill = 1
+	max_skill = 7
+	loyalty = 1.00
+	picture = L117071
+	add_trait = frontline_soldier
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+117072 = {
+	name = "Au"
+	country = PRK
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L117072
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+117073 = {
+	name = "Ok"
+	country = PRK
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L117073
+	add_trait = marine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+117074 = {
+	name = "Ong"
+	country = PRK
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L117074
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+117075 = {
+	name = "Kyok"
+	country = PRK
+	type = land
+	skill = 4
+	max_skill = 7
+	loyalty = 1.00
+	picture = L117075
+	add_trait = offensive_doctrine
+	history = {
+		1995.1.1 = { rank = 1 }
+		1998.1.1 = { rank = 2 }
+		2000.1.1 = { rank = 3 }
+		2003.1.1 = { rank = 4 }
+	}
+}
+117076 = {
+	name = "M. R. Jo"
+	country = PRK
+	type = land
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L117076
+	add_trait = panzer_leader
+	history = {
+		1995.1.1 = { rank = 1 }
+		2000.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+117077 = {
+	name = "M. S. Ri"
+	country = PRK
+	type = land
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L117077
+	add_trait = commando
+	add_trait = offensive_doctrine
+	history = {
+		1995.1.1 = { rank = 1 }
+		1998.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+117078 = {
+	name = "Wang"
+	country = PRK
+	type = land
+	skill = 2
+	max_skill = 8
+	loyalty = 1.00
+	picture = L117078
+	add_trait = panzer_leader
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+117079 = {
+	name = "Wi"
+	country = PRK
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L117079
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+117080 = {
+	name = "Ryuk"
+	country = PRK
+	type = land
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L117080
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+117081 = {
+	name = "Yoon"
+	country = PRK
+	type = land
+	skill = 0
+	max_skill = 6
+	loyalty = 1.00
+	picture = L117081
+	add_trait = commando
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+117082 = {
+	name = "Eun"
+	country = PRK
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L117082
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+117083 = {
+	name = "Um"
+	country = PRK
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L117083
+	add_trait = landing_specialist
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+117084 = {
+	name = "Lee"
+	country = PRK
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L117084
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+117085 = {
+	name = "Lin"
+	country = PRK
+	type = land
+	skill = 2
+	max_skill = 8
+	loyalty = 1.00
+	picture = L117085
+	add_trait = offensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+117086 = {
+	name = "In"
+	country = PRK
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L117086
+	add_trait = winter_specialist
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+117087 = {
+	name = "Im"
+	country = PRK
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L117087
+	add_trait = engineer
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+117088 = {
+	name = "Cha"
+	country = PRK
+	type = land
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L117088
+	add_trait = winter_specialist
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+117089 = {
+	name = "Jang"
+	country = PRK
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L117089
+	add_trait = engineer
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+117090 = {
+	name = "Jeo"
+	country = PRK
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 1.00
+	picture = L117090
+	add_trait = commando
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+117091 = {
+	name = "Chong"
+	country = PRK
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L117091
+	add_trait = offensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+117092 = {
+	name = "Jou"
+	country = PRK
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 1.00
+	picture = L117092
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+117093 = {
+	name = "Jwa"
+	country = PRK
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L117093
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+117094 = {
+	name = "P'yong"
+	country = PRK
+	type = land
+	skill = 2
+	max_skill = 8
+	loyalty = 1.00
+	picture = L117094
+	add_trait = trickster
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+117095 = {
+	name = "P. S. Ri"
+	country = PRK
+	type = land
+	skill = 4
+	max_skill = 7
+	loyalty = 1.00
+	picture = L117095
+	add_trait = offensive_doctrine
+	add_trait = panzer_leader
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+117096 = {
+	name = "R. G. Kim"
+	country = PRK
+	type = land
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L117096
+	add_trait = offensive_doctrine
+	add_trait = hard_defender
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+117097 = {
+	name = "P'an"
+	country = PRK
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L117097
+	add_trait = commando
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+117098 = {
+	name = "T'ak"
+	country = PRK
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L117098
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+117099 = {
+	name = "Tae"
+	country = PRK
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 1.00
+	picture = L117099
+	add_trait = frontline_soldier
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+117100 = {
+	name = "Pho"
+	country = PRK
+	type = land
+	skill = 1
+	max_skill = 7
+	loyalty = 1.00
+	picture = L117100
+	add_trait = assaulter
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+117101 = {
+	name = "Poong"
+	country = PRK
+	type = land
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = L117101
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+117102 = {
+	name = "S. K. Ri"
+	country = PRK
+	type = land
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L117102
+	add_trait = defensive_doctrine
+	add_trait = frontline_soldier
+	history = {
+		1995.1.1 = { rank = 1 }
+		1999.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+117103 = {
+	name = "Hahk"
+	country = PRK
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L117103
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+117104 = {
+	name = "Hann"
+	country = PRK
+	type = land
+	skill = 1
+	max_skill = 7
+	loyalty = 1.00
+	picture = L117104
+	add_trait = trainer
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+117105 = {
+	name = "Hay"
+	country = PRK
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L117105
+	add_trait = panzer_leader
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+117106 = {
+	name = "Hyeong"
+	country = PRK
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L117106
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+117107 = {
+	name = "Hyeung"
+	country = PRK
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L117107
+	add_trait = winter_specialist
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+117108 = {
+	name = "Ho"
+	country = PRK
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L117108
+	add_trait = landing_specialist
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+117109 = {
+	name = "Hong"
+	country = PRK
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L117109
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+117110 = {
+	name = "Hwa"
+	country = PRK
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L117110
+	add_trait = fortress_buster
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+117111 = {
+	name = "Hwan"
+	country = PRK
+	type = land
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = L117111
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+117112 = {
+	name = "Howan"
+	country = PRK
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L117112
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+117113 = {
+	name = "Hwangbo"
+	country = PRK
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L117113
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+117114 = {
+	name = "Hoo"
+	country = PRK
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L117114
+	add_trait = offensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+117115 = {
+	name = "Heung"
+	country = PRK
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L117115
+	add_trait = landing_specialist
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+117116 = {
+	name = "Y. Choe"
+	country = PRK
+	type = land
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L117116
+	add_trait = improvisation
+	history = {
+		1995.1.1 = { rank = 1 }
+		1999.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+117117 = {
+	name = "Y. Ri"
+	country = PRK
+	type = land
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L117117
+	add_trait = trickster
+	history = {
+		1995.1.1 = { rank = 1 }
+		1999.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+		2005.1.1 = { rank = 4 }
+	}
+}
+117118 = {
+	name = "Y. C. Hyon"
+	country = PRK
+	type = land
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L117118
+	add_trait = commando
+	add_trait = learners_will
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+117119 = {
+	name = "Y. C. Kim"
+	country = PRK
+	type = land
+	skill = 4
+	max_skill = 7
+	loyalty = 1.00
+	picture = L117119
+	add_trait = panzer_leader
+	add_trait = assaulter
+	history = {
+		1996.1.1 = { rank = 1 }
+		1998.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+		2005.1.1 = { rank = 4 }
+	}
+}
+117120 = {
+	name = "Kym"
+	country = PRK
+	type = air
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L117120
+	add_trait = night_flyer
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+117121 = {
+	name = "Rhee"
+	country = PRK
+	type = air
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L117121
+	add_trait = superior_air_tactician
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+117122 = {
+	name = "Bac"
+	country = PRK
+	type = air
+	skill = 3
+	max_skill = 6
+	loyalty = 1.00
+	picture = L117122
+	add_trait = fleet_destroyer
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+117123 = {
+	name = "Chey"
+	country = PRK
+	type = air
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L117123
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+117124 = {
+	name = "Khang"
+	country = PRK
+	type = air
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = L117124
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+117125 = {
+	name = "Zhang"
+	country = PRK
+	type = air
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = L117125
+	add_trait = tank_buster
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+117126 = {
+	name = "Leem"
+	country = PRK
+	type = air
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L117126
+	add_trait = carpet_bomber
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+117127 = {
+	name = "Gwon"
+	country = PRK
+	type = air
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L117127
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+117128 = {
+	name = "Whang"
+	country = PRK
+	type = sea
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = L117128
+	add_trait = seawolf
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+117129 = {
+	name = "Ryeung"
+	country = PRK
+	type = sea
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L117129
+	add_trait = spotter
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+117130 = {
+	name = "Moon"
+	country = PRK
+	type = sea
+	skill = 3
+	max_skill = 6
+	loyalty = 1.00
+	picture = L117130
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+117131 = {
+	name = "Pack"
+	country = PRK
+	type = sea
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = L117131
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+117132 = {
+	name = "Nho"
+	country = PRK
+	type = sea
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L117132
+	add_trait = superior_tactician
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+117133 = {
+	name = "Chee"
+	country = PRK
+	type = sea
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = L117133
+	add_trait = seawolf
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+117134 = {
+	name = "W. H. Kim"
+	country = PRK
+	type = sea
+	skill = 4
+	max_skill = 7
+	loyalty = 1.00
+	picture = L117134
+	add_trait = spotter
+	add_trait = superior_tactician
+	history = {
+		1995.1.1 = { rank = 1 }
+		1998.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}

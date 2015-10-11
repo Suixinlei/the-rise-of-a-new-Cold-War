@@ -1,0 +1,13 @@
+owner = ENG
+controller = ENG
+add_core = ENG
+
+infra = 10
+industry = 10
+manpower = 2.4
+energy = 50
+metal = 30
+rare_materials = 20
+air_base = 10 #Heathrow
+leadership = 3.00
+points = 1

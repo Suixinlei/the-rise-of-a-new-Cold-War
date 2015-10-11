@@ -1,0 +1,125 @@
+color = { 255  180  136 }
+graphical_culture = Generic
+last_election = 2001.12.18
+duration = 48
+
+default_templates = {
+	generic_infantry = {
+		infantry_brigade
+		infantry_brigade
+		infantry_brigade
+	}
+	generic_milita = {
+		militia_brigade
+		militia_brigade
+		militia_brigade
+	}
+	generic_armoured = {
+		armor_brigade
+		motorized_brigade
+		motorized_brigade
+	}
+	generic_cavalry = {
+		cavalry_brigade
+		cavalry_brigade
+	}
+}
+
+unit_names = {
+	infantry_brigade = {
+		"1. División de Inf. 'Bolívar'" "2. División de Infantería" "3. División de Infantería" "4. División de Infantería" "5. División de Infantería" "6. División de Infantería" "7. División de Infantería" "8. División de Infantería" "9. División de Infantería" "10. División de Infantería" "11. División de Infantería" 
+		"12. División de Infantería" "13. División de Infantería" "14. División de Infantería" "15. División de Infantería" "16. División de Infantería" "17. División de Infantería" "18. División de Infantería" "19. División de Infantería" "20. División de Infantería" "21. División de Infantería" "22. División de Infantería" 
+		"23. División de Infantería" "24. División de Infantería" "25. División de Infantería" "26. División de Infantería" "27. División de Infantería" "28. División de Infantería" "29. División de Infantería" "30. División de Infantería" 
+	}
+	cavalry_brigade = {
+		"1. División de Cab. 'Chaco'" "2. División de Caballería" "3. División de Caballería" "4. División de Caballería" "5. División de Caballería" "6. División de Caballería" "7. División de Caballería" "8. División de Caballería" "9. División de Caballería" "10. División de Caballería" 
+	}
+	motorized_brigade = {
+		"1. División Motorizada" "2. División Motorizada" "3. División Motorizada" "4. División Motorizada" "5. División Motorizada" "6. División Motorizada" "7. División Motorizada" "8. División Motorizada" "9. División Motorizada" "10. División Motorizada" "11. División Motorizada" 
+		"12. División Motorizada" "13. División Motorizada" "14. División Motorizada" "15. División Motorizada" 
+	}
+	mechanized_brigade = {
+		"1. División Mecanizada" "2. División Mecanizada" "3. División Mecanizada" "4. División Mecanizada" "5. División Mecanizada" "6. División Mecanizada" "7. División Mecanizada" "8. División Mecanizada" "9. División Mecanizada" "10. División Mecanizada" "11. División Mecanizada" 
+		"12. División Mecanizada" "13. División Mecanizada" "14. División Mecanizada" "15. División Mecanizada" 
+	}
+	light_armor_brigade = {
+		"1. División Acorazada de Bolivia" "2. División Acorazada de Bolivia" "3. División Acorazada de Bolivia" "4. División Acorazada de Bolivia" "5. División Acorazada de Bolivia" "6. División Acorazada de Bolivia" "7. División Acorazada de Bolivia" "8. División Acorazada de Bolivia" "9. División Acorazada de Bolivia" "10. División Acorazada de Bolivia" "11. División Acorazada de Bolivia" 
+		"12. División Acorazada de Bolivia" "13. División Acorazada de Bolivia" "14. División Acorazada de Bolivia" "15. División Acorazada de Bolivia" 
+	}
+	armor_brigade = {
+		"1. División Acorazada de Bolivia" "2. División Acorazada de Bolivia" "3. División Acorazada de Bolivia" "4. División Acorazada de Bolivia" "5. División Acorazada de Bolivia" "6. División Acorazada de Bolivia" "7. División Acorazada de Bolivia" "8. División Acorazada de Bolivia" "9. División Acorazada de Bolivia" "10. División Acorazada de Bolivia" "11. División Acorazada de Bolivia" 
+		"12. División Acorazada de Bolivia" "13. División Acorazada de Bolivia" "14. División Acorazada de Bolivia" "15. División Acorazada de Bolivia" 
+	}
+	paratrooper_brigade = {
+		"I División de Paracaidistas" "II División de Paracaidistas" "III División de Paracaidistas" "IV División de Paracaidistas" "V División de Paracaidistas" "VI División de Paracaidistas" "VII División de Paracaidistas" "VIII División de Paracaidistas" "IX División de Paracaidistas" "X División de Paracaidistas" 
+	}
+	marine_brigade = {
+		"I División de Comandos Navales" "II División de Comandos Navales" "III División de Comandos Navales" "IV División de Comandos Navales" "V División de Comandos Navales" "VI División de Comandos Navales" "VII División de Comandos Navales" "VIII División de Comandos Navales" "IX División de Comandos Navales" "X División de Comandos Navales" 
+	}
+	bergsjaeger_brigade = {
+		"I División de Montaña 'Pazitas'" "II División de Montaña" "III División de Montaña" "IV División de Montaña" "V División de Montaña" "VI División de Montaña" "VII División de Montaña" "VIII División de Montaña" "IX División de Montaña" "X División de Montaña" 
+	}
+	garrison_brigade = {
+		"11. División de Infantería" "12. División de Infantería" "13. División de Infantería" "14. División de Infantería" "15. División de Infantería" "16. División de Infantería" "17. División de Infantería" "18. División de Infantería" "19. División de Infantería" "20. División de Infantería" "21. División de Infantería" 
+		"22. División de Infantería" "23. División de Infantería" "24. División de Infantería" "25. División de Infantería" "26. División de Infantería" "27. División de Infantería" "28. División de Infantería" "29. División de Infantería" "30. División de Infantería" 
+	}
+	hq_brigade = {
+		"Cuartel General 2o Ejército" "Cuartel General 3er Ejército" "Cuartel General 4o Ejército" "Cuartel General 5o Ejército" "Cuartel General 6o Ejército" "Cuartel General 7o Ejército" "Cuartel General 8o Ejército" "Cuartel General 9o Ejército" "Cuartel General 10o Ejército" 
+	}
+	militia_brigade = {
+		"1. División de Milicia de Bolivia" "2. División de Milicia de Bolivia" "3. División de Milicia de Bolivia" "4. División de Milicia de Bolivia" "5. División de Milicia de Bolivia" "6. División de Milicia de Bolivia" "7. División de Milicia de Bolivia" "8. División de Milicia de Bolivia" "9. División de Milicia de Bolivia" "10. División de Milicia de Bolivia" "11. División de Milicia de Bolivia" 
+		"12. División de Milicia de Bolivia" "13. División de Milicia de Bolivia" "14. División de Milicia de Bolivia" "15. División de Milicia de Bolivia" "16. División de Milicia de Bolivia" "17. División de Milicia de Bolivia" "18. División de Milicia de Bolivia" "19. División de Milicia de Bolivia" "20. División de Milicia de Bolivia" 
+	}
+	multi_role = {
+		"1. Grupo Aéreo de Caza" "2. Grupo Aéreo de Caza" "3. Grupo Aéreo de Caza" "4. Grupo Aéreo de Caza" "5. Grupo Aéreo de Caza" "6. Grupo Aéreo de Caza" "7. Grupo Aéreo de Caza" "8. Grupo Aéreo de Caza" "9. Grupo Aéreo de Caza" "10. Grupo Aéreo de Caza" 
+	}
+	interceptor = {
+		"1. Grupo Aéreo de Caza" "2. Grupo Aéreo de Caza" "3. Grupo Aéreo de Caza" "4. Grupo Aéreo de Caza" "5. Grupo Aéreo de Caza" "6. Grupo Aéreo de Caza" "7. Grupo Aéreo de Caza" "8. Grupo Aéreo de Caza" "9. Grupo Aéreo de Caza" "10. Grupo Aéreo de Caza" 
+	}
+	strategic_bomber = {
+		"1. Grupo Aéreo Estratégico" "2. Grupo Aéreo Estratégico" "3. Grupo Aéreo Estratégico" "4. Grupo Aéreo Estratégico" "5. Grupo Aéreo Estratégico" "6. Grupo Aéreo Estratégico" "7. Grupo Aéreo Estratégico" "8. Grupo Aéreo Estratégico" "9. Grupo Aéreo Estratégico" "10. Grupo Aéreo Estratégico" 
+	}
+	tactical_bomber = {
+		"1. Grupo Aéreo Táctico" "2. Grupo Aéreo Táctico" "3. Grupo Aéreo Táctico" "4. Grupo Aéreo Táctico" "5. Grupo Aéreo Táctico" "6. Grupo Aéreo Táctico" "7. Grupo Aéreo Táctico" "8. Grupo Aéreo Táctico" "9. Grupo Aéreo Táctico" "10. Grupo Aéreo Táctico" 
+	}
+	naval_bomber = {
+		"1. Grupo Aeronaval" "2. Grupo Aeronaval" "3. Grupo Aeronaval" "4. Grupo Aeronaval" "5. Grupo Aeronaval" "6. Grupo Aeronaval" "7. Grupo Aeronaval" "8. Grupo Aeronaval" "9. Grupo Aeronaval" "10. Grupo Aeronaval" "1. Grupo Aéreo Torpedero" 
+		"2. Grupo Aéreo Torpedero" "3. Grupo Aéreo Torpedero" "4. Grupo Aéreo Torpedero" "5. Grupo Aéreo Torpedero" "6. Grupo Aéreo Torpedero" "7. Grupo Aéreo Torpedero" "8. Grupo Aéreo Torpedero" "9. Grupo Aéreo Torpedero" "10. Grupo Aéreo Torpedero" 
+	}
+	cas = {
+		"1. Grupo Aéreo de Asalto" "2. Grupo Aéreo de Asalto" "3. Grupo Aéreo de Asalto" "4. Grupo Aéreo de Asalto" "5. Grupo Aéreo de Asalto" "6. Grupo Aéreo de Asalto" "7. Grupo Aéreo de Asalto" "8. Grupo Aéreo de Asalto" "9. Grupo Aéreo de Asalto" "10. Grupo Aéreo de Asalto" 
+	}
+	transport_plane = {
+		"1. Grupo Aerotransportado" "2. Grupo Aerotransportado" "3. Grupo Aerotransportado" "4. Grupo Aerotransportado" "5. Grupo Aerotransportado" "6. Grupo Aerotransportado" "7. Grupo Aerotransportado" "8. Grupo Aerotransportado" "9. Grupo Aerotransportado" "10. Grupo Aerotransportado" 
+	}
+	battleship = {
+		"ARB Bolivia" "ARB La Paz" 
+	}
+	light_cruiser = {
+		"ARB Santa Cruz" "ARB Montero" "ARB Cochabamba" "ARB Oruro" "ARB Puerto Heath" "ARB Trinidad" 
+	}
+	heavy_cruiser = {
+		"ARB Santa Cruz" "ARB Montero" "ARB Cochabamba" "ARB Oruro" "ARB Puerto Heath" "ARB Trinidad" 
+	}
+	battlecruiser = {
+		"ARB Bolivia" "ARB La Paz" 
+	}
+	destroyer = {
+		"1. Flotilla de Destructores" "2. Flotilla de Destructores" "3. Flotilla de Destructores" "4. Flotilla de Destructores" "5. Flotilla de Destructores" "6. Flotilla de Destructores" "7. Flotilla de Destructores" "8. Flotilla de Destructores" "9. Flotilla de Destructores" "10. Flotilla de Destructores" 
+	}
+	carrier = {
+		"ARB Simón Bolívar" 
+	}
+	submarine = {
+		"1. Flotilla de Submarinos" "2. Flotilla de Submarinos" "3. Flotilla de Submarinos" "4. Flotilla de Submarinos" "5. Flotilla de Submarinos" "6. Flotilla de Submarinos" "7. Flotilla de Submarinos" "8. Flotilla de Submarinos" "9. Flotilla de Submarinos" "10. Flotilla de Submarinos" 
+	}
+	transport_ship = {
+		"1. Flotilla de Transporte Naval" "2. Flotilla de Transporte Naval" "3. Flotilla de Transporte Naval" "4. Flotilla de Transporte Naval" "5. Flotilla de Transporte Naval" "6. Flotilla de Transporte Naval" "7. Flotilla de Transporte Naval" "8. Flotilla de Transporte Naval" "9. Flotilla de Transporte Naval" "10. Flotilla de Transporte Naval" 
+	}
+
+}
+
+
+ministers = {
+	
+}

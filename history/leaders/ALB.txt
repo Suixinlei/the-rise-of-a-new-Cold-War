@@ -1,0 +1,313 @@
+1001 = {
+	name = "Agani"
+	country = ALB
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L1001
+	add_trait = offensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+1002 = {
+	name = "Dedej"
+	country = ALB
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L1002
+	add_trait = improvisation
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+1003 = {
+	name = "Dejti"
+	country = ALB
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 1.00
+	picture = L1003
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+1004 = {
+	name = "Demachi"
+	country = ALB
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L1004
+	add_trait = engineer
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+1005 = {
+	name = "Hyseni"
+	country = ALB
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L1005
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+1006 = {
+	name = "Morina"
+	country = ALB
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L1006
+	add_trait = commando
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+1007 = {
+	name = "Troshani"
+	country = ALB
+	type = land
+	skill = 0
+	max_skill = 3
+	loyalty = 0.00
+	picture = L1007
+	add_trait = landlubber
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+1008 = {
+	name = "Tzeka"
+	country = ALB
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L1008
+	add_trait = frontline_soldier
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+1009 = {
+	name = "Varoshi"
+	country = ALB
+	type = land
+	skill = 0
+	max_skill = 4
+	loyalty = 1.00
+	picture = L1009
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+1010 = {
+	name = "Veseli"
+	country = ALB
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L1010
+	add_trait = landing_specialist
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+1011 = {
+	name = "Ymeri"
+	country = ALB
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 0.00
+	picture = L1011
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+1012 = {
+	name = "Zagreda"
+	country = ALB
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 0.00
+	picture = L1012
+	add_trait = offensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+1013 = {
+	name = "Veseli"
+	country = ALB
+	type = sea
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L1013
+	add_trait = blockade_runner
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+1014 = {
+	name = "Ymeri"
+	country = ALB
+	type = sea
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L1014
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+1015 = {
+	name = "Bizi"
+	country = ALB
+	type = air
+	skill = 0
+	max_skill = 5
+	loyalty = 1.00
+	picture = L1015
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+1016 = {
+	name = "Tzeka"
+	country = ALB
+	type = air
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = L1016
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+1017 = {
+	name = "Bazo"
+	country = ALB
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L1017
+	add_trait = offensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+1018 = {
+	name = "Gjunkshi"
+	country = ALB
+	type = land
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L1018
+	add_trait = panzer_leader
+	history = {
+		1995.1.1 = { rank = 1 }
+		1998.1.1 = { rank = 2 }
+		2001.1.1 = { rank = 3 }
+		2003.1.1 = { rank = 4 }
+	}
+}
+1019 = {
+	name = "Zaimi"
+	country = ALB
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L1019
+	add_trait = hard_defender
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+1020 = {
+	name = "Bajraktari"
+	country = ALB
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 0.00
+	picture = L1020
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+1021 = {
+	name = "Chocholi"
+	country = ALB
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L1021
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+1022 = {
+	name = "Spirollari"
+	country = ALB
+	type = air
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L1022
+	add_trait = tank_buster
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+1023 = {
+	name = "Cela"
+	country = ALB
+	type = sea
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L1023
+	add_trait = superior_tactician
+	history = {
+		1996.1.1 = { rank = 1 }
+		1998.1.1 = { rank = 2 }
+		2001.1.1 = { rank = 3 }
+		2003.1.1 = { rank = 4 }
+	}
+}
+1024 = {
+	name = "Zaimi"
+	country = ALB
+	type = sea
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L1024
+	add_trait = seawolf
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}

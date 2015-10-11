@@ -1,0 +1,10 @@
+owner = FIJ
+
+controller = FIJ
+
+add_core = FIJ
+
+infra = 8
+manpower = 0.3
+naval_base = 1
+points = 1

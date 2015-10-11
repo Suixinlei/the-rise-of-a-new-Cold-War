@@ -1,0 +1,716 @@
+modern_blitzkrieg = {
+
+	research_bonus_from = {
+		spearhead_theory = 0.3
+		land_doctrine_practical = 0.7
+	}
+	
+	change = no
+	
+	on_completion = spearhead_theory
+	
+	difficulty = 20
+	start_year = 2005
+	folder = land_doctrine_folder
+}
+
+breakthrough_exploitation = {
+
+	mechanized_brigade = {
+		default_morale = 0.05
+	}
+
+   tactic_breakthrough = 5
+   tactic_superior_breakthrough = 2
+   
+	allow = {
+		modern_blitzkrieg = 1
+	}
+	
+	research_bonus_from = {
+		spearhead_theory = 0.3
+		land_doctrine_practical = 0.7
+	}
+	
+	change = no
+	
+	on_completion = spearhead_theory
+	
+	difficulty = 10
+	start_year = 2008
+	first_offset = 2010
+	additional_offset = 2
+	max_level = 12
+	folder = land_doctrine_folder
+}
+
+elastic_defence = {
+
+	mechanized_brigade = {
+		default_organisation = 5
+	}
+
+	tactic_elastic_defence = 3
+	tactic_backhand_blow = 1
+	
+	allow = {
+		modern_blitzkrieg = 1
+	}
+	
+	research_bonus_from = {
+		spearhead_theory = 0.3
+		land_doctrine_practical = 0.7
+	}
+	
+	change = no
+	
+	on_completion = spearhead_theory
+	
+	difficulty = 10
+	start_year = 2008
+	first_offset = 2010
+	additional_offset = 2
+	max_level = 12
+	folder = land_doctrine_folder
+}
+
+flanking_maneuvers = {
+
+	tactic_encirclement = 3
+	
+	allow = {
+		modern_blitzkrieg = 1
+	}
+	
+	research_bonus_from = {
+		spearhead_theory = 0.3
+		land_doctrine_practical = 0.7
+	}
+	
+	change = no
+	
+	on_completion = spearhead_theory
+	
+	difficulty = 10
+	start_year = 2008
+	first_offset = 2010
+	additional_offset = 2
+	max_level = 12
+	folder = land_doctrine_folder
+}
+
+shock_and_awe = {
+
+	sp_artillery_brigade = {
+		default_morale = 0.05
+		default_organisation = 5
+	}
+	mobile_aa_brigade = {
+		default_morale = 0.05
+		default_organisation = 5
+	}
+	tank_destroyer_brigade = {
+		default_morale = 0.05
+		default_organisation = 5
+	}
+	allow = {
+		modern_blitzkrieg = 1
+	}
+	
+	research_bonus_from = {
+		spearhead_theory = 0.3
+		land_doctrine_practical = 0.7
+	}
+	
+	change = no
+	
+	on_completion = spearhead_theory
+	
+	difficulty = 10
+	start_year = 2008
+	first_offset = 2010
+	additional_offset = 2
+	max_level = 12
+	folder = land_doctrine_folder
+}
+
+armor_tactics = {
+
+	armor_brigade = {
+		default_morale = 0.05
+		default_organisation = 5
+	}
+	wheeled_vehicles = {
+		default_morale = 0.05
+		default_organisation = 5
+	}
+	
+	allow = {
+		modern_blitzkrieg = 1
+	}
+	
+	research_bonus_from = {
+		spearhead_theory = 0.3
+		land_doctrine_practical = 0.7
+	}
+	
+	change = no
+	
+	on_completion = spearhead_theory
+	
+	difficulty = 10
+	start_year = 2008
+	first_offset = 2010
+	additional_offset = 2
+	max_level = 12
+	folder = land_doctrine_folder
+}
+
+asymmetrical_warfare = {
+
+	research_bonus_from = {
+		grand_battleplan_theory = 0.3
+		land_doctrine_practical = 0.7
+	}
+	
+	change = no
+	
+	on_completion = grand_battleplan_theory
+	
+	difficulty = 20
+	start_year = 2005
+	folder = land_doctrine_folder
+}
+
+defence_in_depth = {
+
+	engineer_brigade = {
+		default_morale = 0.05
+		default_organisation = 5
+	}
+
+	tactic_tactical_withdrawal = 3
+
+	allow = {
+		asymmetrical_warfare = 1
+	}
+	
+	research_bonus_from = {
+		grand_battleplan_theory = 0.3
+		land_doctrine_practical = 0.7
+	}
+	
+	change = no
+	
+	on_completion = grand_battleplan_theory
+	
+	difficulty = 10
+	start_year = 2008
+	first_offset = 2010
+	additional_offset = 2
+	max_level = 12
+	folder = land_doctrine_folder
+}
+
+flexible_defence = {
+
+	tactic_counterattack = 3
+		
+	allow = {
+		asymmetrical_warfare = 1
+	}
+	
+	research_bonus_from = {
+		grand_battleplan_theory = 0.3
+		land_doctrine_practical = 0.7
+	}
+	
+	change = no
+	
+	on_completion = grand_battleplan_theory
+	
+	difficulty = 10
+	start_year = 2008
+	first_offset = 2010
+	additional_offset = 2
+	max_level = 12
+	folder = land_doctrine_folder
+}	
+
+guerilla_tactics = {
+
+	police_brigade = {
+		default_morale = 0.05
+		default_organisation = 5
+	}
+	partisan_brigade = {
+		default_morale = 0.05
+		default_organisation = 5
+	}
+	
+	allow = {
+		asymmetrical_warfare = 1
+	}
+	
+	research_bonus_from = {
+		grand_battleplan_theory = 0.3
+		land_doctrine_practical = 0.7
+	}
+	
+	change = no
+	
+	on_completion = grand_battleplan_theory
+	
+	difficulty = 10
+	start_year = 2008
+	first_offset = 2010
+	additional_offset = 2
+	max_level = 12
+	folder = land_doctrine_folder
+}	
+
+special_forces_doctrine = {
+
+	marine_brigade = {
+		default_morale = 0.05
+		default_organisation = 5
+	}
+	paratrooper_brigade = {
+		default_morale = 0.05
+		default_organisation = 5
+	}
+	special_forces_brigade = {
+		default_morale = 0.05
+		default_organisation = 5
+	}
+	mountain_brigade = {
+		default_morale = 0.05
+		default_organisation = 5
+	}
+
+	allow = {
+		asymmetrical_warfare = 1
+	}
+	
+	research_bonus_from = {
+		grand_battleplan_theory = 0.3
+		land_doctrine_practical = 0.7
+	}
+	
+	change = no
+	
+	on_completion = grand_battleplan_theory
+	
+	difficulty = 10
+	start_year = 2008
+	first_offset = 2010
+	additional_offset = 2
+	max_level = 12
+	folder = land_doctrine_folder
+}	
+
+reserves_doctrine = {
+
+	militia_brigade = {
+		default_morale = 0.05
+		default_organisation = 5
+	}
+	garrison_brigade = {
+		default_morale = 0.05
+		default_organisation = 5
+	}
+
+	allow = {
+		asymmetrical_warfare = 1
+	}
+	
+	research_bonus_from = {
+		grand_battleplan_theory = 0.3
+		land_doctrine_practical = 0.7
+	}
+	
+	change = no
+	
+	on_completion = grand_battleplan_theory
+	
+	difficulty = 10
+	start_year = 2008
+	first_offset = 2010
+	additional_offset = 2
+	max_level = 12
+	folder = land_doctrine_folder
+}	
+
+superior_firepower = {
+
+	research_bonus_from = {
+		superior_firepower_theory = 0.3
+		land_doctrine_practical = 0.7
+	}
+	
+	change = no
+	
+	on_completion = superior_firepower_theory
+	
+	difficulty = 20
+	start_year = 2008
+	folder = land_doctrine_folder
+}	
+
+static_defence = {
+
+	infantry_brigade = {
+		default_organisation = 5
+	}
+	anti_tank_brigade = {
+		default_morale = 0.05
+		default_organisation = 5
+	}
+	
+	tactic_delay = 3
+	tactic_slower_delay = 1
+	
+	allow = {
+		superior_firepower = 1
+	}
+	
+	research_bonus_from = {
+		superior_firepower_theory = 0.3
+		land_doctrine_practical = 0.7
+	}
+	
+	change = no
+	
+	on_completion = superior_firepower_theory
+	
+	difficulty = 10
+	start_year = 2008
+	first_offset = 2010
+	additional_offset = 2
+	max_level = 12
+	folder = land_doctrine_folder
+}	
+
+close_air_support_doctrine = {
+
+	attack_helicopter_brigade = {
+		default_morale = 0.05
+		default_organisation = 5
+	}
+	air_cavalry_brigade = {
+		default_morale = 0.05
+		default_organisation = 5
+	}
+
+	allow = {
+		superior_firepower = 1
+	}
+	
+	research_bonus_from = {
+		superior_firepower_theory = 0.3
+		land_doctrine_practical = 0.7
+	}
+	
+	change = no
+	
+	on_completion = superior_firepower_theory
+	
+	difficulty = 10
+	start_year = 2008
+	first_offset = 2010
+	additional_offset = 2
+	max_level = 12
+	folder = land_doctrine_folder
+}
+
+human_wave = {
+
+	infantry_brigade = {
+		default_morale = 0.05
+	}
+
+	tactic_assault = 3
+	tactic_reckless_assault = 1
+	
+	allow = {
+		superior_firepower = 1
+	}
+	
+	research_bonus_from = {
+		superior_firepower_theory = 0.3
+		land_doctrine_practical = 0.7
+	}
+	
+	change = no
+	
+	on_completion = superior_firepower_theory
+	
+	difficulty = 10
+	start_year = 2008
+	first_offset = 2010
+	additional_offset = 2
+	max_level = 12
+	folder = land_doctrine_folder
+}
+
+firesupport_coordination = {
+
+	artillery_brigade = {
+		default_morale = 0.05
+		default_organisation = 5
+	}
+
+	tactic_shock = 3
+
+	allow = {
+		superior_firepower = 1
+	}
+	
+	research_bonus_from = {
+		superior_firepower_theory = 0.3
+		land_doctrine_practical = 0.7
+	}
+	
+	change = no
+	
+	on_completion = superior_firepower_theory
+	
+	difficulty = 10
+	start_year = 2008
+	first_offset = 2010
+	additional_offset = 2
+	max_level = 12
+	folder = land_doctrine_folder
+}
+
+solid_air_defence = {
+
+	anti_air_brigade = {
+		default_morale = 0.05
+		default_organisation = 5
+	}
+	
+	allow = {
+		superior_firepower = 1
+	}
+	
+	research_bonus_from = {
+		superior_firepower_theory = 0.3
+		land_doctrine_practical = 0.7
+	}
+	
+	change = no
+	
+	on_completion = superior_firepower_theory
+	
+	difficulty = 10
+	start_year = 2008
+	first_offset = 2010
+	additional_offset = 2
+	max_level = 12
+	folder = land_doctrine_folder
+}
+
+lujunxinxihua = {
+
+	marine_brigade = {
+                default_morale = 0.1
+                toughness = 2
+                maximum_speed = 5
+	}
+	paratrooper_brigade = {
+                default_morale = 0.1
+                toughness = 2
+                maximum_speed = 5
+	}
+	special_forces_brigade = {
+                default_morale = 0.1
+                toughness = 2
+                maximum_speed = 5
+	}
+	mountain_brigade = {
+                default_morale = 0.1
+                toughness = 2
+                maximum_speed = 5
+	}
+	mechanized_brigade = {
+                default_morale = 0.1
+                toughness = 2
+                maximum_speed = 5
+	}
+	armor_brigade = {
+                default_morale = 0.1
+                toughness = 2
+                maximum_speed = 5
+	}
+	wheeled_vehicles = {
+                default_morale = 0.1
+                toughness = 2
+                maximum_speed = 5
+	}
+	attack_helicopter_brigade = {
+                default_morale = 0.1
+                toughness = 2
+                maximum_speed = 5
+	}
+	sp_artillery_brigade = {
+                default_morale = 0.1
+                toughness = 2
+                maximum_speed = 5
+	}
+	mobile_aa_brigade = {
+                default_morale = 0.1
+                toughness = 2
+                maximum_speed = 5
+	}
+	tank_destroyer_brigade = {
+                default_morale = 0.1
+                toughness = 2
+                maximum_speed = 5
+	}
+        air_cavalry_brigade = {
+                default_morale = 0.1
+                toughness = 2
+                maximum_speed = 5
+	}
+	
+	allow = {
+		organisation_tech = 1
+                breakthrough_exploitation = 1
+                armor_tactics = 1
+                promotion_of_information_technology = 1
+                
+	}
+	
+	research_bonus_from = {
+		superior_firepower_theory = 0.3
+		land_doctrine_practical = 0.7
+	}
+	
+	change = no
+	
+	on_completion = superior_firepower_theory
+	
+	difficulty = 35
+	start_year = 2005
+	folder = land_doctrine_folder
+}
+
+organisation_tech = {
+
+	attack_delay = 24
+	
+	research_bonus_from = {
+		human_wave_theory = 0.3
+		land_doctrine_practical = 0.7
+	}
+	
+	change = no
+	
+	on_completion = human_wave_theory
+	
+	difficulty = 10
+	start_year = 2008
+	first_offset = 2010
+	additional_offset = 2
+	max_level = 12
+	folder = land_doctrine_folder
+}
+
+staff_combat_sections = {
+
+	hq_brigade = {
+		soft_attack = 0.1
+		hard_attack = 0.1
+	}
+	
+	research_bonus_from = {
+		human_wave_theory = 0.3
+		land_doctrine_practical = 0.7
+	}
+	
+	change = no
+	
+	on_completion = human_wave_theory
+		
+	difficulty = 10
+	start_year = 2008
+	first_offset = 2010
+	additional_offset = 2
+	max_level = 12
+	folder = land_doctrine_folder
+}
+
+unit_cooperation_tech = {
+
+	hq_brigade = {
+		default_morale = 0.05
+	}
+
+	attack_movement_speed = 0.02
+	
+	research_bonus_from = {
+		human_wave_theory = 0.3
+		land_doctrine_practical = 0.7
+	}
+	
+	change = no
+	
+	on_completion = human_wave_theory
+	
+	difficulty = 10
+	start_year = 2008
+	first_offset = 2010
+	additional_offset = 2
+	max_level = 12
+	folder = land_doctrine_folder
+}
+
+unit_cohesion = {
+
+	hq_brigade = {
+		toughness = 1
+		defensiveness = 1
+	}
+	
+	research_bonus_from = {
+		human_wave_theory = 0.3
+		land_doctrine_practical = 0.7
+	}
+	
+	change = no
+	
+	on_completion = human_wave_theory
+	
+	difficulty = 10
+	start_year = 2008
+	first_offset = 2010
+	additional_offset = 2
+	max_level = 12
+	folder = land_doctrine_folder
+}
+
+logistics_tech = {
+
+	hq_brigade = {
+		supply_consumption = -0.02
+		default_organisation = 5
+		maximum_speed = 0.5
+	}
+	
+	research_bonus_from = {
+		human_wave_theory = 0.3
+		land_doctrine_practical = 0.7
+	}
+	
+	change = no
+	
+	on_completion = human_wave_theory
+	
+	difficulty = 10
+	start_year = 2008
+	first_offset = 2010
+	additional_offset = 2
+	max_level = 12
+	folder = land_doctrine_folder
+}

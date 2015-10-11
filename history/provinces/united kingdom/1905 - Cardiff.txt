@@ -1,0 +1,11 @@
+owner = ENG
+controller = ENG
+add_core = ENG
+add_core = WAL
+infra = 8
+air_base = 1 #RAF Saint Athan
+naval_base = 5 #Cardiff port
+leadership = 1.50
+points = 1
+energy = 35.00
+industry = 5

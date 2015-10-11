@@ -1,0 +1,8 @@
+owner = SPR
+controller = SPR
+add_core = SPR
+infra = 5
+manpower = 0.5
+air_base = 8
+naval_base = 3 #Las Palmas port
+points = 1

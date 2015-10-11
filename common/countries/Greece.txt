@@ -1,0 +1,103 @@
+color = { 93  181  227 }
+graphical_culture = Generic
+
+last_election = 2000.4.8
+duration = 48
+
+default_templates = {
+	generic_infantry = {
+		infantry_brigade
+		infantry_brigade
+		infantry_brigade
+	}
+	generic_milita = {
+		militia_brigade
+		militia_brigade
+		militia_brigade
+	}
+	generic_armoured = {
+		armor_brigade
+		motorized_brigade
+		motorized_brigade
+	}
+	generic_cavalry = {
+		cavalry_brigade
+		cavalry_brigade
+	}
+}
+
+unit_names = {
+
+}
+
+ministers = {
+	27500 = {
+		name = "卡罗洛斯·帕普利亚斯"
+		ideology = social_democrat
+		loyalty = 1.00
+		picture = M27500
+		head_of_state = naive_optimist
+		minister_of_foreign  = apologetic_clerk
+		start_date = 2000.1.1
+	}
+	27501 = {
+		name = "安东尼斯·萨马拉斯"
+		ideology = social_democrat
+		loyalty = 1.00
+		picture = M27501
+		minister_of_finance = smiling_oilman
+		start_date = 2000.1.1
+	}
+	27502 = {
+		name = "多拉·芭戈雅妮"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M27502
+		head_of_government  = power_hungry_demagogue
+		minister_of_foreign  = iron_fisted_brute
+		start_date = 2000.1.1
+	}
+	27503 = {
+		name = "科斯蒂斯·斯特凡诺普洛斯"
+		ideology = social_democrat
+		loyalty = 1.00
+		picture = M27503
+		minister_of_intelligence = logistics_specialist
+		start_date = 2000.1.1
+	}
+	27504 = {
+		name = "帕纳约蒂斯·皮克拉梅诺斯"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M27504
+		minister_of_defence = armoured_spearhead_doctrine
+		start_date = 2000.1.1
+	}
+	27505 = {
+		name = "乔治·帕潘德里欧"
+		ideology = social_democrat
+		loyalty = 1.00
+		picture = M27505
+		head_of_government  = resource_industrialist
+		minister_of_intelligence  = research_specialist 
+		start_date = 2000.1.1
+	}
+	27506 = {
+		name = "伊万杰洛斯·梅伊马拉基斯"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M27506
+		minister_of_finance = corrupt_kleptocrat
+		start_date = 2000.1.1
+	}
+	27507 = {
+		name = "佩特洛斯·莫利维亚提斯"
+		ideology = social_democrat
+		loyalty = 1.00
+		picture = M27507
+		minister_of_intelligence = political_specialist
+		start_date = 2000.1.1
+	}
+	
+}
+

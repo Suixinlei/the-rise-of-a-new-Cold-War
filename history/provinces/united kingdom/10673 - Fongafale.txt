@@ -1,0 +1,10 @@
+owner = TUV
+
+controller = TUV
+
+add_core = TUV
+
+infra = 8
+
+naval_base = 1
+points = 1

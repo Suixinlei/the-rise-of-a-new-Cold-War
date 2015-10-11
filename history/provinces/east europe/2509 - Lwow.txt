@@ -1,0 +1,13 @@
+owner = UKR
+controller = UKR
+add_core = UKR
+
+infra = 8
+manpower = 3.00
+
+air_base = 2 #Horodok airbase
+points = 1
+industry = 4
+energy = 25.00
+metal = 15.00
+rare_materials = 10.00

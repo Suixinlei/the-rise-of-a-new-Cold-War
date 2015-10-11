@@ -1,0 +1,10 @@
+owner = NAU
+
+controller = NAU
+
+add_core = NAU
+
+
+infra = 6
+naval_base = 1
+points = 1

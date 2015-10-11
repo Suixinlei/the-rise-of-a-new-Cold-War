@@ -1,0 +1,7 @@
+owner = GRN
+controller = GRN
+add_core = GRN
+
+infra = 6
+naval_base = 1
+points = 1

@@ -1,0 +1,6 @@
+owner = SPR
+controller = SPR
+add_core = SPR
+energy = 5.00
+infra = 6
+

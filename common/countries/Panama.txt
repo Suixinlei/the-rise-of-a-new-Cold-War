@@ -1,0 +1,117 @@
+color = { 150  85  61 }
+graphical_culture = Generic
+last_election = 1999.3.2
+duration = 60
+
+default_templates = {
+	generic_infantry = {
+		infantry_brigade
+		infantry_brigade
+		infantry_brigade
+	}
+	generic_milita = {
+		militia_brigade
+		militia_brigade
+		militia_brigade
+	}
+	generic_armoured = {
+		armor_brigade
+		motorized_brigade
+		motorized_brigade
+	}
+	generic_cavalry = {
+		cavalry_brigade
+		cavalry_brigade
+	}
+}
+
+unit_names = {
+	infantry_brigade = {
+		"1a División de Infantería" "2a División de Infantería" "3a División de Infantería" "4a División de Infantería" "5a División de Infantería" "6a División de Infantería" "7a División de Infantería" "8a División de Infantería" "9a División de Infantería" "10a División de Infantería" "11a División de Infantería" 
+		"12a División de Infantería" "13a División de Infantería" "14a División de Infantería" "15a División de Infantería" "16a División de Infantería" 
+	}
+	cavalry_brigade = {
+		"1a División de Caballería" "2a División de Caballería" "3a División de Caballería" "4a División de Caballería" "5a División de Caballería" 
+	}
+	motorized_brigade = {
+		"1a División Camiones de Panamá" "2a División Camiones de Panamá" "3a División Camiones de Panamá" "4a División Camiones de Panamá" "5a División Camiones de Panamá" 
+	}
+	mechanized_brigade = {
+		"1a División Mecanizada Panamá" "2a División Mecanizada Panamá" "3a División Mecanizada Panamá" "4a División Mecanizada Panamá" "5a División Mecanizada Panamá" 
+	}
+	light_armor_brigade = {
+		"1a División Blindada Panamá" "2a División Blindada Panamá" "3a División Blindada Panamá" "4a División Blindada Panamá" "5a División Blindada Panamá" 
+	}
+	armor_brigade = {
+		"1a División Blindada Panamá" "2a División Blindada Panamá" "3a División Blindada Panamá" "4a División Blindada Panamá" "5a División Blindada Panamá" 
+	}
+	paratrooper_brigade = {
+		"1a División de Paracaidistas Panamá" "2a División de Paracaidistas Panamá" "3a División de Paracaidistas Panamá" "4a División de Paracaidistas Panamá" "5a División de Paracaidistas Panamá" 
+	}
+	marine_brigade = {
+		"1a División de Marinos Panamá" "2a División de Marinos Panamá" "3a División de Marinos Panamá" "4a División de Marinos Panamá" "5a División de Marinos Panamá" 
+	}
+	bergsjaeger_brigade = {
+		"1a División de Montaña Panamá" "2a División de Montaña Panamá" "3a División de Montaña Panamá" "4a División de Montaña Panamá" "5a División de Montaña Panamá" 
+	}
+	garrison_brigade = {
+		"10a División de Infantería" "11a División de Infantería" "12a División de Infantería" "13a División de Infantería" "14a División de Infantería" "15a División de Infantería" "16a División de Infantería" "17a División de Infantería" "18a División de Infantería" "19a División de Infantería" "20a División de Infantería" 
+			}
+	hq_brigade = {
+		"Cuartel General 1er Ejército" "Cuartel General 2o Ejército" "Cuartel General 3er Ejército" "Cuartel General 4o Ejército" "Cuartel General 5o Ejército" "Cuartel General 6o Ejército" "Cuartel General 7o Ejército" "Cuartel General 8o Ejército" "Cuartel General 9o Ejército" "Cuartel General 10o Ejército" 
+	}
+	militia_brigade = {
+		"Agrupación PPF nro. 1" "Agrupación PPF nro. 2" "Agrupación PPF nro. 3" "Agrupación PPF nro. 4" "Agrupación PPF nro. 5" "Agrupación PPF nro. 6" "Agrupación PPF nro. 7" "Agrupación PPF nro. 8" "Agrupación PPF nro. 9" "Agrupación PPF nro. 10" "Agrupación PPF nro. 11" 
+		"Agrupación PPF nro. 12" "Agrupación PPF nro. 13" "Agrupación PPF nro. 14" "Agrupación PPF nro. 15" "Agrupación PPF nro. 16" "Agrupación PPF nro. 17" "Agrupación PPF nro. 18" "Agrupación PPF nro. 19" "Agrupación PPF nro. 20" 
+	}
+	multi_role = {
+		"1. Grupo Aéreo de Caza" "2. Grupo Aéreo de Caza" "3. Grupo Aéreo de Caza" "4. Grupo Aéreo de Caza" "5. Grupo Aéreo de Caza" 
+	}
+	interceptor = {
+		"1. Grupo Aéreo de Caza" "2. Grupo Aéreo de Caza" "3. Grupo Aéreo de Caza" "4. Grupo Aéreo de Caza" "5. Grupo Aéreo de Caza" 
+	}
+	strategic_bomber = {
+		"1. Grupo Aéreo Estratégico" "2. Grupo Aéreo Estratégico" "3. Grupo Aéreo Estratégico" "4. Grupo Aéreo Estratégico" "5. Grupo Aéreo Estratégico" 
+	}
+	tactical_bomber = {
+		"1. Grupo Aéreo Táctico" "2. Grupo Aéreo Táctico" "3. Grupo Aéreo Táctico" "4. Grupo Aéreo Táctico" "5. Grupo Aéreo Táctico" 
+	}
+	naval_bomber = {
+		"1. Grupo Aéreo de la Marina" "2. Grupo Aéreo de la Marina" "3. Grupo Aéreo de la Marina" "4. Grupo Aéreo de la Marina" "5. Grupo Aéreo de la Marina" 
+	}
+	cas = {
+		"1. Grupo Aéreo de Asalto" "2. Grupo Aéreo de Asalto" "3. Grupo Aéreo de Asalto" "4. Grupo Aéreo de Asalto" "5. Grupo Aéreo de Asalto" 
+	}
+	transport_plane = {
+		"1. Lineas Aereas de Panamá" "2. Lineas Aereas de Panamá" "3. Lineas Aereas de Panamá" "4. Lineas Aereas de Panamá" "5. Lineas Aereas de Panamá" 
+	}
+	battleship = {
+		"ARP Ciudad de Panamá" "ARP La Revolución de 1889" 
+	}
+	light_cruiser = {
+		"ARP Colon" "ARP La Chorrera" "ARP David" "ARP Penonomé" "ARP Punta Mata" 
+	}
+	heavy_cruiser = {
+		"ARP Colon" "ARP La Chorrera" "ARP David" "ARP Penonomé" "ARP Punta Mata" 
+	}
+	battlecruiser = {
+		"ARP Ciudad de Panamá" "ARP La Revolución de 1889" 
+	}
+	destroyer = {
+		"1a Flotilla de Torpederos" "2a Flotilla de Torpederos" "3a Flotilla de Torpederos" "4a Flotilla de Torpederos" "5a Flotilla de Torpederos" 
+	}
+	carrier = {
+		"ARP República de Panamá" "ARP El Destructor" 
+	}
+	submarine = {
+		"1a Flotilla de Submarinos" "2a Flotilla de Submarinos" "3a Flotilla de Submarinos" "4a Flotilla de Submarinos" "5a Flotilla de Submarinos" 
+	}
+	transport_ship = {
+		"1a Flotilla de Transporte" "2a Flotilla de Transporte" "3a Flotilla de Transporte" "4a Flotilla de Transporte" "5a Flotilla de Transporte" 
+	}
+
+}
+
+ministers = {
+	
+}

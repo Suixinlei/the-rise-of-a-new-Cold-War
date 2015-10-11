@@ -1,0 +1,21 @@
+theatre = {
+	name = "Armed Forces of Tajikistan"
+	location = 9054
+	regiment = { type = hq_brigade name = "Armed Forces HQ" historical_model = 1 }
+	division = {
+		is_reserve = yes
+		name = "Rapid Reaction Brigade"
+		location = 9054
+		regiment = { type = infantry_brigade name = "1st Rapid Battalion" historical_model = 1 }
+		regiment = { type = infantry_brigade name = "2nd Rapid Battalion" historical_model = 1 }
+		regiment = { type = infantry_brigade name = "3rd Rapid Battalion" historical_model = 1 }
+	}
+	division = {
+		is_reserve = yes
+		name = "11th 'Faizali' Brigade"
+		location = 9054
+		regiment = { type = infantry_brigade name = "111th Battalion" historical_model = 1 }
+		regiment = { type = infantry_brigade name = "112th Battalion" historical_model = 1 }
+		regiment = { type = infantry_brigade name = "113th Battalion" historical_model = 1 }
+	}	
+}

@@ -1,0 +1,10 @@
+owner = CHC
+controller = CHC
+ 
+add_core = CHC
+infra = 9
+energy = 20.00
+
+air_base = 3 #Daishan and Lishe airbase
+naval_base = 10 #Ningbo port
+points = 1

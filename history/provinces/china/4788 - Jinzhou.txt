@@ -1,0 +1,7 @@
+owner = CHC
+controller = CHC
+add_core = CHC
+ 
+infra = 9
+air_base = 5 #Jinzhou airbase
+naval_base = 3 #Jinzhou port

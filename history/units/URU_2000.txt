@@ -1,0 +1,50 @@
+theatre = {
+	name = "Fuerzas armadas del Uruguay"
+	location = 7893
+	regiment = { type = hq_brigade name = "Fuerzas armadas del Uruguay" historical_model = 1 }
+	corps = {
+		name = "Ejército Nacional"
+		location = 7893
+		regiment = { type = hq_brigade name = "Ejército Nacional" historical_model = 1 }
+		division = {
+			is_reserve = yes
+			name = "1st Brigade"
+			location = 7893
+			regiment = { type = infantry_brigade name = "11th Infantry Battalion" historical_model = 1 }
+			regiment = { type = infantry_brigade name = "12th Infantry Battalion" historical_model = 1 }
+			regiment = { type = infantry_brigade name = "13th Infantry Battalion" historical_model = 1 }
+		}
+		division = {
+			is_reserve = yes
+			name = "2nd Brigade"
+			location = 7893
+			regiment = { type = infantry_brigade name = "21st Infantry Battalion" historical_model = 1 }
+			regiment = { type = infantry_brigade name = "22nd Infantry Battalion" historical_model = 1 }
+			regiment = { type = infantry_brigade name = "23rd Infantry Battalion" historical_model = 1 }
+		}
+		division = {
+			is_reserve = yes
+			name = "3rd Brigade"
+			location = 7893
+			regiment = { type = infantry_brigade name = "31st Infantry Battalion" historical_model = 1 }
+			regiment = { type = infantry_brigade name = "32nd Infantry Battalion" historical_model = 1 }
+			regiment = { type = infantry_brigade name = "33rd Infantry Battalion" historical_model = 1 }
+		}
+		division = {
+			is_reserve = yes
+			name = "4th Brigade"
+			location = 7893
+			regiment = { type = infantry_brigade name = "41st Infantry Battalion" historical_model = 1 }
+			regiment = { type = infantry_brigade name = "42nd Infantry Battalion" historical_model = 1 }
+			regiment = { type = infantry_brigade name = "43rd Infantry Battalion" historical_model = 1 }
+		}
+	}
+	
+	air = {
+	name = "Nº1 Squadron"
+	base = 7893
+	location = 7893
+	wing = { type = cas name = "Nº1 Squadron" historical_model = 0 }
+	}
+	
+}

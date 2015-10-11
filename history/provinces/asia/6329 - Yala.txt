@@ -1,0 +1,5 @@
+owner = SIA
+controller = SIA
+add_core = SIA
+crude_oil = 8.00
+infra = 6

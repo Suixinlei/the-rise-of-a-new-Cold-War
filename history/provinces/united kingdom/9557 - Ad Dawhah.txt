@@ -1,0 +1,12 @@
+owner = QAT
+
+controller = QAT
+
+add_core = QAT
+
+crude_oil = 80.00
+energy = 25.00
+infra = 8
+air_base = 7 #Doha airport and Al Udeid airbase
+naval_base = 4 #Doha port
+points = 1

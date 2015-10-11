@@ -1,0 +1,8 @@
+owner = POL
+controller = POL
+add_core = POL
+infra = 10
+manpower = 0.5
+leadership = 2.50
+naval_base = 5 #Szczecin port
+points = 1

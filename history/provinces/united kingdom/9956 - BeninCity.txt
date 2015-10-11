@@ -1,0 +1,6 @@
+owner = NIG
+controller = NIG
+add_core = NIG
+manpower = 6.00
+infra = 4
+crude_oil = 13.00

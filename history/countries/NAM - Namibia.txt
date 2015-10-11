@@ -1,0 +1,40 @@
+capital = 8021
+government = republic
+ideology = social_democrat
+alignment = { x = 0 y = 50 }
+neutrality = 80
+national_unity = 70
+oob = "NAM_2000.txt"
+
+popularity = { 
+	national_socialist = 0
+	fascistic = 0
+	paternal_autocrat = 0
+	social_conservative = 1
+	market_liberal = 9
+	social_liberal = 0
+	social_democrat = 76
+	left_wing_radical = 10
+	leninist = 0
+	stalinist = 0
+}
+
+organization = { 
+	national_socialist = 0
+	fascistic = 0
+	paternal_autocrat = 3
+	social_conservative = 0
+	market_liberal = 27
+	social_liberal = 0
+	social_democrat = 150
+	left_wing_radical = 30
+	leninist = 0
+	stalinist = 0
+}
+
+conscription_policy = volunteer_army
+press_laws = free_press
+mobilisation_level = peace_time
+civil_laws = open_society
+economic_policy = lais_fair
+service_length = six_months

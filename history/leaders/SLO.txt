@@ -1,0 +1,415 @@
+141001 = {
+	name = "Kocian"
+	country = SLO
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L141001
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+141002 = {
+	name = "Brazda"
+	country = SLO
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L141002
+	add_trait = commando
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+141003 = {
+	name = "Fiala"
+	country = SLO
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L141003
+	add_trait = offensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+141004 = {
+	name = "Havran"
+	country = SLO
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 0.00
+	picture = L141004
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+141005 = {
+	name = "Hlinka"
+	country = SLO
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L141005
+	add_trait = frontline_soldier
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+141006 = {
+	name = "Hudak"
+	country = SLO
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L141006
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+141007 = {
+	name = "Hviezdoslav"
+	country = SLO
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 0.00
+	picture = L141007
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+141008 = {
+	name = "Janosik"
+	country = SLO
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 0.00
+	picture = L141008
+	add_trait = panzer_leader
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+141009 = {
+	name = "Komorovsky"
+	country = SLO
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L141009
+	add_trait = old_guard
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+141010 = {
+	name = "Konopka"
+	country = SLO
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 0.00
+	picture = L141010
+	add_trait = commando
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+141011 = {
+	name = "Kratochvíl"
+	country = SLO
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L141011
+	add_trait = engineer
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+141012 = {
+	name = "Michalík"
+	country = SLO
+	type = land
+	skill = 1
+	max_skill = 7
+	loyalty = 1.00
+	picture = L141012
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+141013 = {
+	name = "Moravec"
+	country = SLO
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 1.00
+	picture = L141013
+	add_trait = defensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+141014 = {
+	name = "Morawitz"
+	country = SLO
+	type = land
+	skill = 2
+	max_skill = 5
+	loyalty = 0.00
+	picture = L141014
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+141015 = {
+	name = "Polák"
+	country = SLO
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 1.00
+	picture = L141015
+	add_trait = fortress_buster
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+141016 = {
+	name = "Rybár"
+	country = SLO
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 0.00
+	picture = L141016
+	add_trait = improvisation
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+141017 = {
+	name = "Sedlak"
+	country = SLO
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L141017
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+141018 = {
+	name = "Sejna"
+	country = SLO
+	type = land
+	skill = 1
+	max_skill = 7
+	loyalty = 1.00
+	picture = L141018
+	add_trait = trainer
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+141019 = {
+	name = "Smrek"
+	country = SLO
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L141019
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+141020 = {
+	name = "Stehlík"
+	country = SLO
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L141020
+	add_trait = hard_defender
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+141021 = {
+	name = "Sykora"
+	country = SLO
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 0.00
+	picture = L141021
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+141022 = {
+	name = "Novosad"
+	country = SLO
+	type = land
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L141022
+	add_trait = commando
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+141023 = {
+	name = "Pucik"
+	country = SLO
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L141023
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+141024 = {
+	name = "Viktorin"
+	country = SLO
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L141024
+	add_trait = offensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+141025 = {
+	name = "Bulik"
+	country = SLO
+	type = land
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L141025
+	add_trait = logistics_wizard
+	history = {
+		1996.1.1 = { rank = 1 }
+		1998.1.1 = { rank = 2 }
+		2001.1.1 = { rank = 3 }
+		2003.1.1 = { rank = 4 }
+	}
+}
+141026 = {
+	name = "Gaplovsky"
+	country = SLO
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 0.00
+	picture = L141026
+	history = {
+		1995.1.1 = { rank = 1 }
+		1998.1.1 = { rank = 2 }
+		2001.1.1 = { rank = 3 }
+		2003.1.1 = { rank = 4 }
+	}
+}
+141027 = {
+	name = "Gajdoš"
+	country = SLO
+	type = land
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L141027
+	add_trait = frontline_soldier
+	history = {
+		1995.1.1 = { rank = 1 }
+		1998.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+141028 = {
+	name = "Pavel"
+	country = SLO
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L141028
+	history = {
+		1998.1.1 = { rank = 1 }
+		2001.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+141029 = {
+	name = "Belus"
+	country = SLO
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L141029
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+141030 = {
+	name = "Korba"
+	country = SLO
+	type = air
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L141030
+	add_trait = tank_buster
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+141031 = {
+	name = "Vojtek"
+	country = SLO
+	type = air
+	skill = 3
+	max_skill = 6
+	loyalty = 1.00
+	picture = L141031
+	add_trait = superior_air_tactician
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+141032 = {
+	name = "Sztraka"
+	country = SLO
+	type = air
+	skill = 1
+	max_skill = 5
+	loyalty = 0.00
+	picture = L141032
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}

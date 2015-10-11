@@ -1,0 +1,6 @@
+owner = LBY
+controller = LBY
+add_core = LBY
+infra = 3
+crude_oil = 10.00
+air_base = 3 #Nanur airbase

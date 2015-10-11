@@ -1,0 +1,89 @@
+color = { 171  190  152 }
+graphical_culture = Generic
+last_election = 2002.11.3
+duration = 48
+
+default_templates = {
+	generic_infantry = {
+		infantry_brigade
+		infantry_brigade
+		infantry_brigade
+	}
+	generic_milita = {
+		militia_brigade
+		militia_brigade
+		militia_brigade
+	}
+	generic_armoured = {
+		armor_brigade
+		motorized_brigade
+		motorized_brigade
+	}
+	generic_cavalry = {
+		cavalry_brigade
+		cavalry_brigade
+	}
+}
+
+unit_names = {
+
+}
+
+ministers = {
+
+	27580 = {
+		name = "À×½ÜÆÕ¡¤ËşÒÁÆÕ¡¤°£¶û¶à°²"
+		ideology = social_liberal
+		loyalty = 1.00
+		picture = M27580
+		head_of_state = stern_imperialist
+		head_of_government = naive_optimist
+		start_date = 2000.1.1
+		}
+	27581 = {
+		name = "°¢²·¶ÅÀ­¡¤¾Ó¶û"
+		ideology = social_liberal
+		loyalty = 1.00
+		picture = M27581
+		head_of_state = stern_imperialist
+		minister_of_foreign = naive_optimist
+		minister_of_finance = silent_workhorse
+		start_date = 2000.1.1
+		}
+	27582 = {
+		name = "°¢Àï¡¤°Í°ÍÕ²"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M27582
+		minister_of_defence = army_reformer
+		start_date = 2000.1.1
+		}
+	27583 = {
+		name = "±ÈÂ×ÌØ¡¤°£½ÜÎ¬ÌØ"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M27583
+		head_of_government = devout_muslim
+		minister_of_finance = staunch_capitalist
+		start_date = 2000.1.1
+		}
+	27584 = {
+		name = "°¢ºÕÂõÌØ¡¤ÄÚ¼ª´úÌØ¡¤ÈûÔó¶û"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M27584
+		minister_of_foreign = tempered_speaker
+		start_date = 2000.1.1
+		}
+	27585 = {
+		name = "Ì¹ËÕ¡¤ÆæÀ³¶û"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M27585
+		minister_of_finance = econimic_expert
+		minister_of_intelligence = political_specialist
+		start_date = 2000.1.1
+		}
+
+	
+}

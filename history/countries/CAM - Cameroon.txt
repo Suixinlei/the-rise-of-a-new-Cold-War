@@ -1,0 +1,41 @@
+capital = 9921
+government = autocratic_democracy
+ideology = paternal_autocrat
+alignment = { x = 0 y = 50 }
+neutrality = 80
+national_unity = 70
+oob = "CAM_2000.txt"
+
+popularity = { 
+	national_socialist = 0
+	fascistic = 0
+	paternal_autocrat = 83
+	social_conservative = 3
+	market_liberal = 0
+	social_liberal = 1
+	social_democrat = 12
+	left_wing_radical = 2
+	leninist = 0
+	stalinist = 0
+}
+
+organization = { 
+	national_socialist = 0
+	fascistic = 0
+	paternal_autocrat = 200
+	social_conservative = 9
+	market_liberal = 0
+	social_liberal = 3
+	social_democrat = 36
+	left_wing_radical = 6
+	leninist = 0
+	stalinist = 0
+}
+
+conscription_policy = volunteer_army
+press_laws = free_press
+mobilisation_level = peace_time
+civil_laws = restrictions
+economic_policy = lais_fair
+service_length = eighteen_months
+

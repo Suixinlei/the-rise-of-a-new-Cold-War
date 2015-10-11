@@ -1,0 +1,10 @@
+owner = USA
+controller = USA
+add_core = USA
+infra = 8
+industry = 7
+energy = 29.00
+rare_materials = 20.00
+metal = 30.00
+air_base = 4 #Charlotte airport
+points = 1

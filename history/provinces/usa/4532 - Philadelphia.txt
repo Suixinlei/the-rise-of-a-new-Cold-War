@@ -1,0 +1,11 @@
+owner = USA
+controller = USA
+add_core = USA
+
+infra = 10
+industry = 5
+manpower = 10.00
+energy = 40.00
+rare_materials = 5.00
+air_base = 4 #Philadelphia airport
+points = 1

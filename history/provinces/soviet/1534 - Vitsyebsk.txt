@@ -1,0 +1,12 @@
+owner = BLR
+controller = BLR
+add_core = BLR
+
+infra = 7
+
+air_base = 2 #Vitebsk airbase
+leadership = 2.50
+points = 1
+rare_materials = 10.00
+energy = 35.00
+metal = 15.00

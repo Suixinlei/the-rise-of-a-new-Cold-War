@@ -1,0 +1,8 @@
+owner = ZIM
+controller = ZIM
+add_core = ZIM
+manpower = 5.00
+infra = 6
+energy = 1.00
+air_base = 7 #Multiple airbases
+points = 1

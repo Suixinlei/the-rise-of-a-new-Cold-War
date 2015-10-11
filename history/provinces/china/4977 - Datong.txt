@@ -1,0 +1,10 @@
+owner = CHC
+controller = CHC
+ 
+add_core = CHC
+infra = 7
+energy = 20.00
+air_base = 3 #Datong airbase
+ 
+points = 1
+industry = 10

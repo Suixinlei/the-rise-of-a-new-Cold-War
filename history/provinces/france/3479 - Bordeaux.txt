@@ -1,0 +1,14 @@
+owner = FRA
+controller = FRA
+add_core = FRA
+industry = 10
+infra = 9
+manpower = 1.00
+energy = 45.00
+
+
+
+air_base = 5 #Bordeaux airbase
+naval_base = 7 #Bordeaux port
+leadership = 2.00
+points = 1

@@ -1,0 +1,63 @@
+theatre = {
+	name = "Qatar Armed Forces"
+	location = 9557
+	regiment = { type = hq_brigade name = "Qatar Armed Fores HQ" historical_model = 1 }
+	corps = {
+		name = "Qatari Army"
+		location = 9557
+		regiment = { type = hq_brigade name = "Qatari Army HQ" historical_model = 1 }
+		division = {
+			is_reserve = yes
+			name = "1st Armored Brigade"
+			location = 9557
+			regiment = { type = armor_brigade name = "11th Armored Battalion" historical_model = 0 }
+			regiment = { type = mechanized_brigade name = "12th Mechanized Battalion" historical_model = 0 }
+		}
+		division = {
+			is_reserve = yes
+			name = "2nd Mechanized Brigade"
+			location = 9557
+			regiment = { type = mechanized_brigade name = "21st Mechanized Battalion" historical_model = 0 }
+			regiment = { type = mechanized_brigade name = "22nd Mechanized Battalion" historical_model = 0 }
+		}
+		division = {
+			is_reserve = yes
+			name = "3rd Mechanized Brigade"
+			location = 9557
+			regiment = { type = mechanized_brigade name = "31st Mechanized Battalion" historical_model = 0 }
+			regiment = { type = mechanized_brigade name = "32nd Mechanized Battalion" historical_model = 0 }
+		}
+		division = {
+			is_reserve = yes
+			name = "Royal Guard Brigade"
+			location = 9557
+			regiment = { type = infantry_brigade name = "1st Royal Guard Battalion" historical_model = 1 }
+			regiment = { type = infantry_brigade name = "2nd Royal Guard Battalion" historical_model = 1 }
+			regiment = { type = infantry_brigade name = "3rd Royal Guard Battalion" historical_model = 1 }
+		}
+		division = {
+			is_reserve = yes
+			name = "Special Forces Battalion"
+			location = 9557
+			regiment = { type = special_forces_brigade name = "Special Forces Battalion" historical_model = 1 }
+		}
+	}
+	
+	navy = {
+	name = "Qatari Navy"
+	base = 9557
+	location = 9557
+	ship = { type = patrol_boat name = "Vosper I" historical_model = 0 }
+	ship = { type = patrol_boat name = "Vosper II" historical_model = 0 }
+	ship = { type = patrol_boat name = "Vosper III" historical_model = 0 }
+	ship = { type = patrol_boat name = "Vosper IV" historical_model = 0 }
+	ship = { type = patrol_boat name = "Vosper Thornycroft I" historical_model = 0 }
+	ship = { type = patrol_boat name = "Vosper Thornycroft II" historical_model = 0 }
+	ship = { type = patrol_boat name = "Vosper Thornycroft III" historical_model = 0 }
+	ship = { type = patrol_boat name = "Vosper Thornycroft IV" historical_model = 0 }
+	ship = { type = patrol_boat name = "Combattante I" historical_model = 0 }
+	ship = { type = patrol_boat name = "Combattante II" historical_model = 0 }
+	ship = { type = patrol_boat name = "Combattante III" historical_model = 0 }
+	}
+}
+	

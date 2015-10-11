@@ -1,0 +1,7 @@
+owner = HAI
+controller = HAI
+add_core = HAI
+infra = 6
+manpower = 3.7
+naval_base = 3 #Port au Prince port
+points = 1

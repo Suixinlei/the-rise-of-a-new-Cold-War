@@ -1,0 +1,235 @@
+theatre = {
+	name = "Fuerza Armada Nacional Bolivariana"
+	location = 9792
+	regiment = { type = hq_brigade name = "Fuerza Armada Nacional Bolivariana" historical_model = 1 }
+	army = {
+		name = "Ejército Nacional de la República Bolivariana de Venezuela"
+		location = 9792
+		regiment = { type = hq_brigade name = "Ejército Nacional de la República Bolivariana de Venezuela" historical_model = 1 }
+		corps = {
+			name = "1st Infantry Division"
+			location = 9792
+			regiment = { type = hq_brigade name = "1st Division HQ" historical_model = 1 }
+			division = {
+				is_reserve = yes
+				name = "11th Armored Brigade"
+				location = 9792
+				regiment = { type = armor_brigade name = "111th Armored Battalion" historical_model = 0 }
+				regiment = { type = armor_brigade name = "112th Armored Battalion" historical_model = 0 }
+				regiment = { type = armor_brigade name = "113th Armored Battalion" historical_model = 0 }
+			}
+			division = {
+				is_reserve = yes
+				name = "12th Caribbean Ranger Brigade"
+				location = 9792
+				regiment = { type = infantry_brigade name = "121st Ranger Battalion" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "122nd Ranger Battalion" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "123rd Ranger Battalion" historical_model = 1 }
+			}
+			division = {
+				is_reserve = yes
+				name = "13th Infantry Brigade"
+				location = 9792
+				regiment = { type = infantry_brigade name = "131st Infantry Battalion" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "132nd Infantry Battalion" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "133rd Infantry Battalion" historical_model = 1 }
+			}
+			division = {
+				is_reserve = yes
+				name = "14th Armored Infantry Brigade"
+				location = 9792
+				regiment = { type = mechanized_brigade name = "141st Armored Infantry Battalion" historical_model = 0 }
+				regiment = { type = mechanized_brigade name = "142nd Armored Infantry Battalion" historical_model = 0 }
+				regiment = { type = mechanized_brigade name = "143rd Armored Infantry Battalion" historical_model = 0 }
+			}
+		}
+		corps = {
+			name = "2nd Infantry Division"
+			location = 9773
+			regiment = { type = hq_brigade name = "2nd Division HQ" historical_model = 1 }
+			division = {
+				is_reserve = yes
+				name = "21st Motorized Infantry Brigade"
+				location = 9773
+				regiment = { type = infantry_brigade name = "211th Motorized Infantry Battalion" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "212th Motorized Infantry Battalion" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "213th Motorized Infantry Battalion" historical_model = 1 }
+			}
+			division = {
+				is_reserve = yes
+				name = "22nd Mountain Infantry Brigade"
+				location = 9773
+				regiment = { type = infantry_brigade name = "221st Mountain Infantry Battalion" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "222nd Mountain Infantry Battalion" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "223rd Mountain Infantry Battalion" historical_model = 1 }
+			}
+			division = {
+				is_reserve = yes
+				name = "23rd Development and Security Brigade"
+				location = 9773
+				regiment = { type = garrison_brigade name = "231st Development and Security Battalion" historical_model = 1 }
+				regiment = { type = garrison_brigade name = "232nd Development and Security Battalion" historical_model = 1 }
+				regiment = { type = garrison_brigade name = "233rd Development and Security Battalion" historical_model = 1 }
+			}
+			division = {
+				is_reserve = yes
+				name = "24th Light Infantry Brigade"
+				location = 9773
+				regiment = { type = infantry_brigade name = "241st Light Infantry Battalion" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "242nd Light Infantry Battalion" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "243rd Light Infantry Battalion" historical_model = 1 }
+			}
+			division = {
+				is_reserve = yes
+				name = "25th Mechanized Infantry Brigade"
+				location = 9773
+				regiment = { type = mechanized_brigade name = "251st Mechanized Infantry Battalion" historical_model = 0 }
+				regiment = { type = mechanized_brigade name = "252nd Mechanized Infantry Battalion" historical_model = 0 }
+				regiment = { type = mechanized_brigade name = "253rd Mechanized Infantry Battalion" historical_model = 0 }
+			}
+		}
+		corps = {
+			name = "3rd Infantry Division"
+			location = 9740
+			regiment = { type = hq_brigade name = "3rd Division HQ" historical_model = 1 }
+			division = {
+				is_reserve = yes
+				name = "31st Infantry Brigade"
+				location = 9740
+				regiment = { type = infantry_brigade name = "311th Infantry Battalion" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "312th Infantry Battalion" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "313th Infantry Battalion" historical_model = 1 }
+				regiment = { type = police_brigade name = "35th Military Police Brigade" historical_model = 1 }
+			}
+			division = {
+				is_reserve = yes
+				name = "32nd Caribbean Ranger Brigade"
+				location = 9740
+				regiment = { type = infantry_brigade name = "321st Ranger Battalion" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "322nd Ranger Battalion" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "323rd Ranger Battalion" historical_model = 1 }
+				regiment = { type = anti_air_brigade name = "39th Air Defence Artillery Brigade" historical_model = 0 }
+			}
+		}
+		corps = {
+			name = "5th Jungle Infantry Division"
+			location = 9850
+			regiment = { type = hq_brigade name = "5th Division HQ" historical_model = 1 }
+			division = {
+				is_reserve = yes
+				name = "51st Jungle Infantry Brigade"
+				location = 9850
+				regiment = { type = infantry_brigade name = "511th Jungle Infantry Battalion" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "512th Jungle Infantry Battalion" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "513th Jungle Infantry Battalion" historical_model = 1 }
+			}
+			division = {
+				is_reserve = yes
+				name = "52nd Jungle Infantry Brigade"
+				location = 9850
+				regiment = { type = infantry_brigade name = "521st Jungle Infantry Battalion" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "522nd Jungle Infantry Battalion" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "523rd Jungle Infantry Battalion" historical_model = 1 }
+			}
+			division = {
+				is_reserve = yes
+				name = "53rd Jungle Infantry Brigade"
+				location = 9850
+				regiment = { type = infantry_brigade name = "531st Jungle Infantry Battalion" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "532nd Jungle Infantry Battalion" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "533rd Jungle Infantry Battalion" historical_model = 1 }
+			}
+			division = {
+				is_reserve = yes
+				name = "507th Special Operations Battalion" 
+				location = 9850
+				regiment = { type = special_forces_brigade name = "507th Special Operations Battalion" historical_model = 1 }
+			}
+		}
+		corps = {
+			name = "9th Cavalry Division"
+			location = 9853
+			regiment = { type = hq_brigade name = "9th Division HQ" historical_model = 1 }
+			division = {
+				is_reserve = yes
+				name = "91st Cavalry Brigade"
+				location = 9853
+				regiment = { type = mechanized_brigade name = "911th Cavalry Battalion" historical_model = 0 }
+				regiment = { type = mechanized_brigade name = "912th Cavalry Battalion" historical_model = 0 }
+				regiment = { type = mechanized_brigade name = "913th Cavalry Battalion" historical_model = 0 }
+			}
+			division = {
+				is_reserve = yes
+				name = "92nd Caribbean Ranger Brigade"
+				location = 9853
+				regiment = { type = infantry_brigade name = "921st Ranger Battalion" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "922nd Ranger Battalion" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "923rd Ranger Battalion" historical_model = 1 }
+				regiment = { type = anti_air_brigade name = "Air Defence Artillery Brigade" historical_model = 0 }
+			}
+			division = {
+				is_reserve = yes
+				name = "93rd Caribbean Ranger Brigade"
+				location = 9853
+				regiment = { type = infantry_brigade name = "931st Ranger Battalion" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "932nd Ranger Battalion" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "933rd Ranger Battalion" historical_model = 1 }
+			}
+		}
+	}
+	
+	corps = {
+		name = "División de Infantería de Marina General Simón Bolívar"
+		location = 7691
+		regiment = { type = hq_brigade name = "División de Infantería de Marina General Simón Bolívar" historical_model = 1 }
+		division = {
+			is_reserve = yes
+			name = "1st Marine Brigade"
+			location = 7691
+			regiment = { type = marine_brigade name = "2nd Marine Battalion" historical_model = 1 }
+			regiment = { type = marine_brigade name = "9th Marine Battalion" historical_model = 1 }
+		}
+		division = {
+			is_reserve = yes
+			name = "2nd Marine Brigade"
+			location = 7691
+			regiment = { type = marine_brigade name = "3rd Marine Battalion" historical_model = 1 }
+			regiment = { type = marine_brigade name = "7th Marine Battalion" historical_model = 1 }
+			regiment = { type = marine_brigade name = "5th Marine Battalion" historical_model = 1 }
+		}
+		division = {
+			is_reserve = yes
+			name = "3rd Marine Brigade"
+			location = 7691
+			regiment = { type = marine_brigade name = "1st Marine Battalion" historical_model = 1 }
+			regiment = { type = marine_brigade name = "6th Marine Battalion" historical_model = 1 }
+		}
+		division = {
+			is_reserve = yes
+			name = "2nd Marine Brigade"
+			location = 7691
+			regiment = { type = marine_brigade name = "4th Marine Battalion" historical_model = 1 }
+			regiment = { type = marine_brigade name = "8th Marine Battalion" historical_model = 1 }
+		}
+	}
+	
+	air = {
+	name = "Air Group 16"
+	base = 9792
+	location = 9792
+	wing = { type = interceptor name = "Air Group 16" historical_model = 0 }
+	}
+	
+	navy = {
+	name = "Armada Bolivariana de Venezuela"
+	base = 9792
+	location = 9792
+	ship = { type = heavy_cruiser name = "Mariscal Sucre" historical_model = 0 }
+	ship = { type = heavy_cruiser name = "Almirante Brión" historical_model = 0 }
+	ship = { type = heavy_cruiser name = "General Urdaneta" historical_model = 0 }
+	ship = { type = heavy_cruiser name = "General Soublette" historical_model = 0 }
+	ship = { type = heavy_cruiser name = "General Salóm" historical_model = 0 }
+	ship = { type = heavy_cruiser name = "Almirante García" historical_model = 0 }
+	}
+	
+}

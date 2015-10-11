@@ -1,0 +1,133 @@
+color = { 111  71  71 }
+graphical_culture = Generic
+
+last_election = 2001.10.9
+duration = 48
+
+default_templates = {
+	generic_infantry = {
+		infantry_brigade
+		infantry_brigade
+		infantry_brigade
+	}
+	generic_milita = {
+		militia_brigade
+		militia_brigade
+		militia_brigade
+	}
+	generic_armoured = {
+		armor_brigade
+		motorized_brigade
+		motorized_brigade
+	}
+	generic_cavalry = {
+		cavalry_brigade
+		cavalry_brigade
+	}
+}
+
+unit_names = {
+	infantry_brigade = {
+		"1. Infanteridivisjon" "2. Infanteridivisjon" "3. Infanteridivisjon" "4. Infanteridivisjon" "5. Infanteridivisjon" "6. Infanteridivisjon" "7. Infanteridivisjon" "8. Infanteridivisjon" "9. Infanteridivisjon" "10. Infanteridivisjon" "11. Infanteridivisjon" 
+		"12. Infanteridivisjon" "13. Infanteridivisjon" "14. Infanteridivisjon" "15. Infanteridivisjon" "16. Infanteridivisjon" "17. Infanteridivisjon" "18. Infanteridivisjon" "19. Infanteridivisjon" "20. Infanteridivisjon" "21. Infanteridivisjon" "22. Infanteridivisjon" 
+		"23. Infanteridivisjon" "24. Infanteridivisjon" "25. Infanteridivisjon" "26. Infanteridivisjon" "27. Infanteridivisjon" "28. Infanteridivisjon" "29. Infanteridivisjon" "30. Infanteridivisjon" 
+	}
+	cavalry_brigade = {
+		"1. Dragondivisjon" "2. Dragondivisjon" "3. Dragondivisjon" "4. Dragondivisjon" "5. Dragondivisjon" "6. Dragondivisjon" "7. Dragondivisjon" "8. Dragondivisjon" "9. Dragondivisjon" "10. Dragondivisjon" 
+	}
+	motorized_brigade = {
+		"1. Motoriserte Infanteridivisjon" "2. Motoriserte Infanteridivisjon" "3. Motoriserte Infanteridivisjon" "4. Motoriserte Infanteridivisjon" "5. Motoriserte Infanteridivisjon" "6. Motoriserte Infanteridivisjon" "7. Motoriserte Infanteridivisjon" "8. Motoriserte Infanteridivisjon" "9. Motoriserte Infanteridivisjon" "10. Motoriserte Infanteridivisjon" "11. Motoriserte Infanteridivisjon" 
+		"12. Motoriserte Infanteridivisjon" "13. Motoriserte Infanteridivisjon" "14. Motoriserte Infanteridivisjon" "15. Motoriserte Infanteridivisjon" 
+	}
+	mechanized_brigade = {
+		"1. Mekaniserte Infanteridivisjon" "2. Mekaniserte Infanteridivisjon" "3. Mekaniserte Infanteridivisjon" "4. Mekaniserte Infanteridivisjon" "5. Mekaniserte Infanteridivisjon" "6. Mekaniserte Infanteridivisjon" "7. Mekaniserte Infanteridivisjon" "8. Mekaniserte Infanteridivisjon" "9. Mekaniserte Infanteridivisjon" "10. Mekaniserte Infanteridivisjon" "11. Mekaniserte Infanteridivisjon" 
+		"12. Mekaniserte Infanteridivisjon" "13. Mekaniserte Infanteridivisjon" "14. Mekaniserte Infanteridivisjon" "15. Mekaniserte Infanteridivisjon" 
+	}
+	light_armor_brigade = {
+		"1. Panser Divisjon" "2. Panser Divisjon" "3. Panser Divisjon" "4. Panser Divisjon" "5. Panser Divisjon" "6. Panser Divisjon" "7. Panser Divisjon" "8. Panser Divisjon" "9. Panser Divisjon" "10. Panser Divisjon" "11. Panser Divisjon" 
+		"12. Panser Divisjon" "13. Panser Divisjon" "14. Panser Divisjon" "15. Panser Divisjon" 
+	}
+	armor_brigade = {
+		"1. Panser Divisjon" "2. Panser Divisjon" "3. Panser Divisjon" "4. Panser Divisjon" "5. Panser Divisjon" "6. Panser Divisjon" "7. Panser Divisjon" "8. Panser Divisjon" "9. Panser Divisjon" "10. Panser Divisjon" "11. Panser Divisjon" 
+		"12. Panser Divisjon" "13. Panser Divisjon" "14. Panser Divisjon" "15. Panser Divisjon" 
+	}
+	paratrooper_brigade = {
+		"1. Fallskjermsjegerdivisjon" "2. Fallskjermsjegerdivisjon" "3. Fallskjermsjegerdivisjon" "4. Fallskjermsjegerdivisjon" "5. Fallskjermsjegerdivisjon" "6. Fallskjermsjegerdivisjon" "7. Fallskjermsjegerdivisjon" "8. Fallskjermsjegerdivisjon" "9. Fallskjermsjegerdivisjon" "10. Fallskjermsjegerdivisjon" 
+	}
+	marine_brigade = {
+		"1. Marineinfanteri Divisjon" "2. Marineinfanteri Divisjon" "3. Marineinfanteri Divisjon" "4. Marineinfanteri Divisjon" "5. Marineinfanteri Divisjon" "6. Marineinfanteri Divisjon" "7. Marineinfanteri Divisjon" "8. Marineinfanteri Divisjon" "9. Marineinfanteri Divisjon" "10. Marineinfanteri Divisjon" "11. Marineinfanteri Divisjon" 
+		"12. Marineinfanteri Divisjon" "13. Marineinfanteri Divisjon" "14. Marineinfanteri Divisjon" 
+	}
+	bergsjaeger_brigade = {
+		"1. Bergdivisjon" "2. Bergdivisjon" "3. Bergdivisjon" "4. Bergdivisjon" "5. Bergdivisjon" "6. Bergdivisjon" "7. Bergdivisjon" "8. Bergdivisjon" "9. Bergdivisjon" "10. Bergdivisjon" "11. Bergdivisjon" 
+		"12. Bergdivisjon" "13. Bergdivisjon" "14. Bergdivisjon" "15. Bergdivisjon" "16. Bergdivisjon" "17. Bergdivisjon" "18. Bergdivisjon" "19. Bergdivisjon" "20. Bergdivisjon" 
+	}
+	garrison_brigade = {
+		"1. Infanteridivisjon" "2. Infanteridivisjon" "3. Infanteridivisjon" "4. Infanteridivisjon" "5. Infanteridivisjon" "6. Infanteridivisjon" "7. Infanteridivisjon" "8. Infanteridivisjon" "9. Infanteridivisjon" "10. Infanteridivisjon" "11. Infanteridivisjon" 
+		"12. Infanteridivisjon" "13. Infanteridivisjon" "14. Infanteridivisjon" "15. Infanteridivisjon" "16. Infanteridivisjon" "17. Infanteridivisjon" "18. Infanteridivisjon" "19. Infanteridivisjon" "20. Infanteridivisjon" "21. Infanteridivisjon" "22. Infanteridivisjon" 
+		"23. Infanteridivisjon" "24. Infanteridivisjon" "25. Infanteridivisjon" "26. Infanteridivisjon" "27. Infanteridivisjon" "28. Infanteridivisjon" "29. Infanteridivisjon" "30. Infanteridivisjon" 
+	}
+	hq_brigade = {
+		"1. Hær" "2. Hær" "3. Hær" "4. Hær" "5. Hær" "6. Hær" "7. Hær" "8. Hær" 
+	}
+	militia_brigade = {
+		"Heimevernets 1. Divisjon" "Heimevernets 2. Divisjon" "Heimevernets 3. Divisjon" "Heimevernets 4. Divisjon" "Heimevernets 5. Divisjon" "Heimevernets 6. Divisjon" "Heimevernets 7. Divisjon" "Heimevernets 8. Divisjon" "Heimevernets 9. Divisjon" "Heimevernets 10. Divisjon" "Heimevernets 11. Divisjon" 
+		"Heimevernets 12. Divisjon" "Heimevernets 13. Divisjon" "Heimevernets 14. Divisjon" "Heimevernets 15. Divisjon" "Heimevernets 16. Divisjon" "Heimevernets 17. Divisjon" "Heimevernets 18. Divisjon" "Heimevernets 19. Divisjon" "Heimevernets 20. Divisjon" 
+	}
+	multi_role = {
+		"1. Fornebu Jagergruppe" "2. Jagergruppe" "3. Jagergruppe" "4. Jagergruppe" "5. Jagergruppe" "6. Jagergruppe" "7. Jagergruppe" "8. Jagergruppe" "9. Jagergruppe" "10. Jagergruppe" 
+	}
+	interceptor = {
+		"1. Fornebu Jagergruppe" "2. Jagergruppe" "3. Jagergruppe" "4. Jagergruppe" "5. Jagergruppe" "6. Jagergruppe" "7. Jagergruppe" "8. Jagergruppe" "9. Jagergruppe" "10. Jagergruppe" 
+	}
+	strategic_bomber = {
+		"1. Strategiske Flyvegruppe" "2. Strategiske Flyvegruppe" "3. Strategiske Flyvegruppe" "4. Strategiske Flyvegruppe" "5. Strategiske Flyvegruppe" "6. Strategiske Flyvegruppe" "7. Strategiske Flyvegruppe" "8. Strategiske Flyvegruppe" "9. Strategiske Flyvegruppe" "10. Strategiske Flyvegruppe" 
+	}
+	tactical_bomber = {
+		"1. Taktiske Flyvegruppe" "2. Taktiske Flyvegruppe" "3. Taktiske Flyvegruppe" "4. Taktiske Flyvegruppe" "5. Taktiske Flyvegruppe" "6. Taktiske Flyvegruppe" "7. Taktiske Flyvegruppe" "8. Taktiske Flyvegruppe" "9. Taktiske Flyvegruppe" "10. Taktiske Flyvegruppe" 
+	}
+	naval_bomber = {
+		"Marinens 1. Bombeflygruppe" "Marinens 2. Bombeflygruppe" "Marinens 3. Bombeflygruppe" "Marinens 4. Bombeflygruppe" "Marinens 5. Bombeflygruppe" "Marinens 6. Bombeflygruppe" "Marinens 7. Bombeflygruppe" "Marinens 8. Bombeflygruppe" "Marinens 9. Bombeflygruppe" "Marinens 10. Bombeflygruppe" "Marinens 1. Torpedoflygruppe" 
+		"Marinens 2. Torpedoflygruppe" "Marinens 3. Torpedoflygruppe" "Marinens 4. Torpedoflygruppe" "Marinens 5. Torpedoflygruppe" "Marinens 6. Torpedoflygruppe" "Marinens 7. Torpedoflygruppe" "Marinens 8. Torpedoflygruppe" "Marinens 9. Torpedoflygruppe" "Marinens 10. Torpedoflygruppe" 
+	}
+	cas = {
+		"Hærens 1. Bombeflygruppe" "Hærens 2. Bombeflygruppe" "Hærens 3. Bombeflygruppe" "Hærens 4. Bombeflygruppe" "Hærens 5. Bombeflygruppe" "Hærens 6. Bombeflygruppe" "Hærens 7. Bombeflygruppe" "Hærens 8. Bombeflygruppe" "Hærens 9. Bombeflygruppe" "Hærens 10. Bombeflygruppe" 
+	}
+	transport_plane = {
+		"Hærens 1. Transportgruppe" "Hærens 2. Transportgruppe" "Hærens 3. Transportgruppe" "Hærens 4. Transportgruppe" "Hærens 5. Transportgruppe" 
+	}
+	battleship = {
+		"KNM Vestlandet" "KNM Finnmark" "KNM Norge" "KNM Eidsvold" "KNM Akershus" "KNM Bergen" "KNM Nidaros" "KNM Narvik" "KNM Tordenskjold" "KNM Harald Hårfagre" 
+	}
+	light_cruiser = {
+		"KNM Norge" "KNM Eidsvold" "KNM Akershus" "KNM Bergen" "KNM Nidaros" "KNM Narvik" "KNM Tordenskjold" "KNM Harald Hårfagre" 
+	}
+	heavy_cruiser = {
+		"KNM Norge" "KNM Eidsvold" "KNM Akershus" "KNM Bergen" "KNM Nidaros" "KNM Narvik" "KNM Tordenskjold" "KNM Harald Hårfagre" 
+	}
+	battlecruiser = {
+		"KNM Vestlandet" "KNM Finnmark" "KNM Norge" "KNM Eidsvold" "KNM Akershus" "KNM Bergen" "KNM Nidaros" "KNM Narvik" "KNM Tordenskjold" "KNM Harald Hårfagre" 
+	}
+	destroyer = {
+		"1. Destroyereskadre" "2. Destroyereskadre" "3. Destroyereskadre" "4. Destroyereskadre" "5. Destroyereskadre" "6. Destroyereskadre" "7. Destroyereskadre" "8. Destroyereskadre" "9. Destroyereskadre" "10. Destroyereskadre" "11. Destroyereskadre" 
+		"12. Destroyereskadre" "13. Destroyereskadre" "14. Destroyereskadre" "15. Destroyereskadre" "16. Destroyereskadre" "17. Destroyereskadre" "18. Destroyereskadre" "19. Destroyereskadre" "20. Destroyereskadre" 
+	}
+	carrier = {
+		"KNM Eidsvold" "KNM Olav den Hellige" "KNM Haakon Haakonsson" "KNM Sigurd Jorsalfar" "KNM Norge" "KNM Eidsvold" "KNM Akershus" "KNM Bergen" "KNM Nidaros" "KNM Narvik" "KNM Tordenskjold" 
+		"KNM Harald Hårfagre" 
+	}
+	escort_carrier = {
+		"KNM Uredd" "KNM Ula" "KNM Utsira" "KNM Utstein" "KNM Utvær" "KNM Uthaug" 
+	}
+	submarine = {
+		"1. Undervannsbåteskadre" "2. Undervannsbåteskadre" "3. Undervannsbåteskadre" "4. Undervannsbåteskadre" "5. Undervannsbåteskadre" "6. Undervannsbåteskadre" "7. Undervannsbåteskadre" "8. Undervannsbåteskadre" "9. Undervannsbåteskadre" "10. Undervannsbåteskadre" "11. Undervannsbåteskadre" 
+		"12. Undervannsbåteskadre" "13. Undervannsbåteskadre" "14. Undervannsbåteskadre" "15. Undervannsbåteskadre" "16. Undervannsbåteskadre" "17. Undervannsbåteskadre" "18. Undervannsbåteskadre" "19. Undervannsbåteskadre" "20. Undervannsbåteskadre" 
+	}
+	transport_ship = {
+		"Marinens 1. Transporteskadre" "Marinens 2. Transporteskadre" "Marinens 3. Transporteskadre" "Marinens 4. Transporteskadre" "Marinens 5. Transporteskadre" "Marinens 6. Transporteskadre" "Marinens 7. Transporteskadre" "Marinens 8. Transporteskadre" "Marinens 9. Transporteskadre" "Marinens 10. Transporteskadre" "Marinens 11. Transporteskadre" 
+		"Marinens 12. Transporteskadre" "Marinens 13. Transporteskadre" "Marinens 14. Transporteskadre" "Marinens 15. Transporteskadre" "Marinens 16. Transporteskadre" "Marinens 17. Transporteskadre" "Marinens 18. Transporteskadre" "Marinens 19. Transporteskadre" "Marinens 20. Transporteskadre" 
+	}
+
+}
+
+ministers = { }

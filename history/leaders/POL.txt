@@ -1,0 +1,1070 @@
+126001 = {
+	name = "Abramowicz"
+	country = POL
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L126001
+	add_trait = landlubber
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+126002 = {
+	name = "Antek"
+	country = POL
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L126002
+	add_trait = defensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+126003 = {
+	name = "Babiuch"
+	country = POL
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L126003
+	add_trait = assaulter
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+126004 = {
+	name = "Bartosiewicz"
+	country = POL
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L126004
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+126005 = {
+	name = "Bielszowski"
+	country = POL
+	type = land
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L126005
+	add_trait = panzer_leader
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+126006 = {
+	name = "Brodzki"
+	country = POL
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L126006
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+126007 = {
+	name = "Cebertowicz"
+	country = POL
+	type = land
+	skill = 2
+	max_skill = 8
+	loyalty = 1.00
+	picture = L126007
+	add_trait = learners_will
+	add_trait = panzer_leader
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+126008 = {
+	name = "Cichy"
+	country = POL
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L126008
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+126009 = {
+	name = "Dabrowski"
+	country = POL
+	type = land
+	skill = 1
+	max_skill = 7
+	loyalty = 1.00
+	picture = L126009
+	add_trait = panzer_leader
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+126010 = {
+	name = "Dobrowolski"
+	country = POL
+	type = land
+	skill = 2
+	max_skill = 8
+	loyalty = 1.00
+	picture = L126010
+	add_trait = landing_specialist
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+126011 = {
+	name = "Drzyzga"
+	country = POL
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L126011
+	add_trait = landlubber
+	add_trait = panzer_leader
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+126012 = {
+	name = "Cieniuch"
+	country = POL
+	type = land
+	skill = 4
+	max_skill = 9
+	loyalty = 1.00
+	picture = L126012
+	add_trait = logistics_wizard
+	history = {
+		1995.1.1 = { rank = 1 }
+		1998.1.1 = { rank = 2 }
+		2000.1.1 = { rank = 3 }
+		2003.1.1 = { rank = 4 }
+	}
+}
+126013 = {
+	name = "Glowienka"
+	country = POL
+	type = land
+	skill = 4
+	max_skill = 8
+	loyalty = 1.00
+	picture = L126013
+	add_trait = assaulter
+	add_trait = winter_specialist
+	history = {
+		1998.1.1 = { rank = 1 }
+		2000.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+126014 = {
+	name = "Buk"
+	country = POL
+	type = land
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L126014
+	add_trait = engineer
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+126015 = {
+	name = "Gocul"
+	country = POL
+	type = land
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L126015
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+126016 = {
+	name = "Bojarski"
+	country = POL
+	type = land
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L126016
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+126017 = {
+	name = "Buszka"
+	country = POL
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L126017
+	add_trait = commando
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+126018 = {
+	name = "Patalong"
+	country = POL
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L126018
+	add_trait = commando
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+126019 = {
+	name = "Samol"
+	country = POL
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L126019
+	add_trait = landing_specialist
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+126020 = {
+	name = "Tracz"
+	country = POL
+	type = land
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = L126020
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+126021 = {
+	name = "Trepkowski"
+	country = POL
+	type = land
+	skill = 3
+	max_skill = 9
+	loyalty = 1.00
+	picture = L126021
+	add_trait = offensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+126022 = {
+	name = "Zuna"
+	country = POL
+	type = land
+	skill = 2
+	max_skill = 8
+	loyalty = 1.00
+	picture = L126022
+	add_trait = offensive_doctrine
+	add_trait = panzer_leader
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+126023 = {
+	name = "Dworzak"
+	country = POL
+	type = land
+	skill = 1
+	max_skill = 7
+	loyalty = 1.00
+	picture = L126023
+	add_trait = frontline_soldier
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+126024 = {
+	name = "Filipowicz"
+	country = POL
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L126024
+	add_trait = commando
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+126025 = {
+	name = "Flatau"
+	country = POL
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L126025
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+126026 = {
+	name = "Geremek"
+	country = POL
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L126026
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+126027 = {
+	name = "Godlewski"
+	country = POL
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L126027
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+126028 = {
+	name = "Grycz"
+	country = POL
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L126028
+	add_trait = fortress_buster
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+126029 = {
+	name = "Hospod"
+	country = POL
+	type = land
+	skill = 1
+	max_skill = 8
+	loyalty = 1.00
+	picture = L126029
+	add_trait = offensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+126030 = {
+	name = "Hurwicz"
+	country = POL
+	type = land
+	skill = 2
+	max_skill = 8
+	loyalty = 1.00
+	picture = L126030
+	add_trait = improvisation
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+126031 = {
+	name = "Jachowska"
+	country = POL
+	type = land
+	skill = 2
+	max_skill = 8
+	loyalty = 1.00
+	picture = L126031
+	add_trait = hard_defender
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+126032 = {
+	name = "Jagielska"
+	country = POL
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L126032
+	add_trait = offensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+126033 = {
+	name = "Jonilowicz"
+	country = POL
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L126033
+	add_trait = old_guard
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+126034 = {
+	name = "Klimowicz"
+	country = POL
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L126034
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+126035 = {
+	name = "Konopka"
+	country = POL
+	type = land
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L126035
+	add_trait = offensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+126036 = {
+	name = "Krzywicka"
+	country = POL
+	type = land
+	skill = 1
+	max_skill = 7
+	loyalty = 1.00
+	picture = L126036
+	add_trait = improvisation
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+126037 = {
+	name = "Kwiatkowski"
+	country = POL
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L126037
+	add_trait = frontline_soldier
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+126038 = {
+	name = "Leszczynski"
+	country = POL
+	type = land
+	skill = 2
+	max_skill = 8
+	loyalty = 1.00
+	picture = L126038
+	add_trait = landing_specialist
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+126039 = {
+	name = "Lukasiewicz"
+	country = POL
+	type = land
+	skill = 2
+	max_skill = 8
+	loyalty = 1.00
+	picture = L126039
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+126040 = {
+	name = "Maciejewska"
+	country = POL
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L126040
+	add_trait = fortress_buster
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+126041 = {
+	name = "Pietrzak"
+	country = POL
+	type = land
+	skill = 2
+	max_skill = 8
+	loyalty = 1.00
+	picture = L126041
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+126042 = {
+	name = "Swoboda"
+	country = POL
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L126042
+	add_trait = panzer_leader
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+126043 = {
+	name = "Bieniek"
+	country = POL
+	type = land
+	skill = 4
+	max_skill = 9
+	loyalty = 1.00
+	picture = L126043
+	history = {
+		1996.1.1 = { rank = 1 }
+		2000.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+126044 = {
+	name = "Ekiert"
+	country = POL
+	type = land
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L126044
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+126045 = {
+	name = "Piatas"
+	country = POL
+	type = land
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L126045
+	add_trait = defensive_doctrine
+	history = {
+		1997.1.1 = { rank = 1 }
+		2000.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+126046 = {
+	name = "Gagor"
+	country = POL
+	type = land
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L126046
+	add_trait = winter_specialist
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+126047 = {
+	name = "Goral"
+	country = POL
+	type = land
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L126047
+	history = {
+		1996.1.1 = { rank = 1 }
+		2000.1.1 = { rank = 2 }
+	}
+}
+126048 = {
+	name = "Sorokosz"
+	country = POL
+	type = land
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L126048
+	add_trait = panzer_leader
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+126049 = {
+	name = "Stachowiak"
+	country = POL
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L126049
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+126050 = {
+	name = "Tyszkiewicz"
+	country = POL
+	type = land
+	skill = 2
+	max_skill = 8
+	loyalty = 1.00
+	picture = L126050
+	add_trait = old_guard
+	add_trait = landlubber
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+126051 = {
+	name = "Chyla"
+	country = POL
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L126051
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+126052 = {
+	name = "Cieslik"
+	country = POL
+	type = land
+	skill = 2
+	max_skill = 8
+	loyalty = 1.00
+	picture = L126052
+	add_trait = defensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+126053 = {
+	name = "Czekaj"
+	country = POL
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L126053
+	add_trait = offensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+126054 = {
+	name = "Duleba"
+	country = POL
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L126054
+	add_trait = commando
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+126055 = {
+	name = "E. Pietrzyk"
+	country = POL
+	type = land
+	skill = 3
+	max_skill = 9
+	loyalty = 1.00
+	picture = L126055
+	add_trait = panzer_leader
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+126056 = {
+	name = "Flis"
+	country = POL
+	type = land
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = L126056
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+126057 = {
+	name = "Jablonski"
+	country = POL
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L126057
+	add_trait = defensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+126058 = {
+	name = "Nowakowicz"
+	country = POL
+	type = land
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = L126058
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+126059 = {
+	name = "Palus"
+	country = POL
+	type = land
+	skill = 2
+	max_skill = 8
+	loyalty = 1.00
+	picture = L126059
+	add_trait = learners_will
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+126060 = {
+	name = "Skarbowski"
+	country = POL
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L126060
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+126061 = {
+	name = "Usarek"
+	country = POL
+	type = air
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L126061
+	add_trait = superior_air_tactician
+	history = {
+		1998.1.1 = { rank = 1 }
+		2000.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+126062 = {
+	name = "Majewski"
+	country = POL
+	type = air
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L126062
+	add_trait = tank_buster
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+126063 = {
+	name = "Block"
+	country = POL
+	type = air
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = L126063
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+126064 = {
+	name = "Cwojdzinski"
+	country = POL
+	type = air
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L126064
+	add_trait = night_flyer
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+126065 = {
+	name = "Mažeikis"
+	country = POL
+	type = air
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L126065
+	add_trait = carpet_bomber
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+126066 = {
+	name = "Nowak"
+	country = POL
+	type = air
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L126066
+	add_trait = carpet_bomber
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+126067 = {
+	name = "Ziec"
+	country = POL
+	type = air
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L126067
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+126068 = {
+	name = "Bielewicz"
+	country = POL
+	type = air
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L126068
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+126069 = {
+	name = "Bragoszewski"
+	country = POL
+	type = air
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L126069
+	add_trait = tank_buster
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+126070 = {
+	name = "Krzyzelewski"
+	country = POL
+	type = air
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L126070
+	add_trait = superior_air_tactician
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+126071 = {
+	name = "Majewski"
+	country = POL
+	type = air
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L126071
+	add_trait = night_flyer
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+126072 = {
+	name = "Smutniak"
+	country = POL
+	type = air
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L126072
+	add_trait = carpet_bomber
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+126073 = {
+	name = "Targosz"
+	country = POL
+	type = air
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L126073
+	add_trait = tank_buster
+	add_trait = superior_air_tactician
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+126074 = {
+	name = "Anczok"
+	country = POL
+	type = air
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L126074
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+126075 = {
+	name = "Juraszczyk"
+	country = POL
+	type = air
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L126075
+	add_trait = superior_air_tactician
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+126076 = {
+	name = "Kruk"
+	country = POL
+	type = air
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L126076
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+126077 = {
+	name = "Krzyzelewski"
+	country = POL
+	type = sea
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L126077
+	add_trait = superior_tactician
+	history = {
+		1995.1.1 = { rank = 1 }
+		2000.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+126078 = {
+	name = "Mathea"
+	country = POL
+	type = sea
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L126078
+	add_trait = seawolf
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+126079 = {
+	name = "Sikora"
+	country = POL
+	type = sea
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L126079
+	add_trait = spotter
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+126080 = {
+	name = "Hanski"
+	country = POL
+	type = sea
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L126080
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+126081 = {
+	name = "Kravtsov"
+	country = POL
+	type = sea
+	skill = 2
+	max_skill = 8
+	loyalty = 1.00
+	picture = L126081
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+126082 = {
+	name = "Zdanowicz"
+	country = POL
+	type = sea
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L126082
+	add_trait = seawolf
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}

@@ -1,0 +1,8 @@
+owner = ALG
+controller = ALG
+add_core = ALG
+metal = 1.00
+infra = 6
+air_base = 2 #Chlef and Blida airbase
+leadership = 1.00
+points = 1

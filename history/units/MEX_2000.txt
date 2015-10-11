@@ -1,0 +1,216 @@
+theatre = {
+	name = "Fuerzas Armadas de Mexico"
+	location = 9604
+	regiment = { type = hq_brigade name = "Fuerzas Armadas de Mexico" historical_model = 2 }
+	corps = {
+		name = "Ejército Mexicano"
+		location = 9604
+		regiment = { type = hq_brigade name = "Ejército Mexicano" historical_model = 2 }
+		division = {
+			is_reserve = yes
+			name = "Presidential Guard Brigade"
+			location = 9604
+			regiment = { type = infantry_brigade name  = "1st Presidential Guard Regiment" historical_model = 2 }
+			regiment = { type = infantry_brigade name  = "2nd Presidential Guard Regiment" historical_model = 2 }
+			regiment = { type = infantry_brigade name  = "3rd Presidential Guard Regiment" historical_model = 2 }
+		}
+		division = {
+			is_reserve = yes
+			name = "Armored Brigade"
+			location = 9606
+			regiment = { type = armor_brigade name = "1st Armored Regiment" historical_model = 0 }
+			regiment = { type = armor_brigade name = "2nd Armored Regiment" historical_model = 0 }
+			regiment = { type = armor_brigade name = "3rd Armored Regiment" historical_model = 0 }
+			regiment = { type = mechanized_brigade name = "4th Mechanized Regiment" historical_model = 0 }
+		}
+		division = {
+			is_reserve = yes
+			name = "1st Infantry Brigade"
+			location = 9626
+			regiment = { type = infantry_brigade name = "11th Infantry Regiment" historical_model = 2 }
+			regiment = { type = infantry_brigade name = "12th Infantry Regiment" historical_model = 2 }
+			regiment = { type = infantry_brigade name = "13th Infantry Regiment" historical_model = 2 }
+		}
+		division = {
+			is_reserve = yes
+			name = "2nd Infantry Brigade"
+			location = 9644
+			regiment = { type = infantry_brigade name = "21st Infantry Regiment" historical_model = 2 }
+			regiment = { type = infantry_brigade name = "22nd Infantry Regiment" historical_model = 2 }
+			regiment = { type = infantry_brigade name = "23rd Infantry Regiment" historical_model = 2 }
+		}
+		division = {
+			is_reserve = yes
+			name = "Motorized Brigade"
+			location = 9660
+			regiment = { type = infantry_brigade name = "1st Motorized Regiment" historical_model = 2 }
+			regiment = { type = infantry_brigade name = "2nd Motorized Regiment" historical_model = 2 }
+			regiment = { type = infantry_brigade name = "3rd Motorized Regiment" historical_model = 2 }
+		}
+		division = {
+			is_reserve = yes
+			name = "Airborne Brigade"
+			location = 9624
+			regiment = { type = paratrooper_brigade name = "1st Airborne Regiment" historical_model = 2 }
+			regiment = { type = paratrooper_brigade name = "2nd Airborne Regiment" historical_model = 2 }
+			regiment = { type = paratrooper_brigade name = "3rd Airborne Regiment" historical_model = 2 }
+		}
+		division = {
+			is_reserve = yes
+			name = "Armored Cavalry Regiment"
+			location = 9643
+			regiment = { type = armor_brigade name = "Armored Cavalry Regiment" historical_model = 0 }
+		}
+		division = {
+			is_reserve = yes
+			name = "1st Motorized Cavalry Regiment"
+			location = 9658
+			regiment = { type = infantry_brigade name = "1st Motorized Cavalry Regiment" historical_model = 2 }
+		}
+		division = {
+			is_reserve = yes
+			name = "2nd Motorized Cavalry Regiment"
+			location = 9604
+			regiment = { type = infantry_brigade name = "2nd Motorized Cavalry Regiment" historical_model = 2 }
+		}
+		division = {
+			is_reserve = yes
+			name = "3rd Motorized Cavalry Regiment"
+			location = 9565
+			regiment = { type = infantry_brigade name = "3rd Motorized Cavalry Regiment" historical_model = 2 }
+		}
+		division = {
+			is_reserve = yes
+			name = "4th Motorized Cavalry Regiment"
+			location = 9549
+			regiment = { type = infantry_brigade name = "4th Motorized Cavalry Regiment" historical_model = 2 }
+		}
+		division = {
+			is_reserve = yes
+			name = "5th Motorized Cavalry Regiment"
+			location = 9481
+			regiment = { type = infantry_brigade name = "5th Motorized Cavalry Regiment" historical_model = 2 }
+		}
+		division = {
+			is_reserve = yes
+			name = "6th Motorized Cavalry Regiment"
+			location = 9448
+			regiment = { type = infantry_brigade name = "6th Motorized Cavalry Regiment" historical_model = 2 }
+		}
+		division = {
+			is_reserve = yes
+			name = "7th Motorized Cavalry Regiment"
+			location = 9417
+			regiment = { type = infantry_brigade name = "7th Motorized Cavalry Regiment" historical_model = 2 }
+		}
+		division = {
+			is_reserve = yes
+			name = "8th Motorized Cavalry Regiment"
+			location = 9385
+			regiment = { type = infantry_brigade name = "8th Motorized Cavalry Regiment" historical_model = 2 }
+		}
+		division = {
+			is_reserve = yes
+			name = "9th Motorized Cavalry Regiment"
+			location = 9268
+			regiment = { type = infantry_brigade name = "9th Motorized Cavalry Regiment" historical_model = 2 }
+		}
+		division = {
+			is_reserve = yes
+			name = "10th Motorized Cavalry Regiment"
+			location = 9203
+			regiment = { type = infantry_brigade name = "10th Motorized Cavalry Regiment" historical_model = 2 }
+		}
+		division = {
+			is_reserve = yes
+			name = "11th Motorized Cavalry Regiment"
+			location = 7369
+			regiment = { type = infantry_brigade name = "11th Motorized Cavalry Regiment" historical_model = 2 }
+		}
+		division = {
+			is_reserve = yes
+			name = "12th Motorized Cavalry Regiment"
+			location = 9384
+			regiment = { type = infantry_brigade name = "12th Motorized Cavalry Regiment" historical_model = 2 }
+		}
+		division = {
+			is_reserve = yes
+			name = "13th Motorized Cavalry Regiment"
+			location = 9606
+			regiment = { type = infantry_brigade name = "13th Motorized Cavalry Regiment" historical_model = 2 }
+		}
+		division = {
+			is_reserve = yes
+			name = "14th Motorized Cavalry Regiment"
+			location = 9626
+			regiment = { type = infantry_brigade name = "14th Motorized Cavalry Regiment" historical_model = 2 }
+		}
+		division = {
+			is_reserve = yes
+			name = "15th Motorized Cavalry Regiment"
+			location = 9644
+			regiment = { type = infantry_brigade name = "15th Motorized Cavalry Regiment" historical_model = 2 }
+		}
+		division = {
+			is_reserve = yes
+			name = "16th Motorized Cavalry Regiment"
+			location = 9660
+			regiment = { type = infantry_brigade name = "16th Motorized Cavalry Regiment" historical_model = 2 }
+		}
+		division = {
+			is_reserve = yes
+			name = "17th Motorized Cavalry Regiment"
+			location = 9643
+			regiment = { type = infantry_brigade name = "17th Motorized Cavalry Regiment" historical_model = 2 }
+		}
+		division = {
+			is_reserve = yes
+			name = "18th Motorized Cavalry Regiment"
+			location = 9624
+			regiment = { type = infantry_brigade name = "18th Motorized Cavalry Regiment" historical_model = 2 }
+		}
+		division = {
+			is_reserve = yes
+			name = "19th Motorized Cavalry Regiment"
+			location = 9658
+			regiment = { type = infantry_brigade name = "19th Motorized Cavalry Regiment" historical_model = 2 }
+		}
+		division = {
+			is_reserve = yes
+			name = "Mechanized Regiment"
+			location = 9481
+			regiment = { type = mechanized_brigade name = "Mechanized Regiment" historical_model = 0 }
+		}
+	}
+	
+	air = {
+	name = "3rd Air Group"
+	base = 9604
+	location = 9604
+	wing = { type = transport_plane name = "301 Air Squadron" historical_model = 0 }
+	wing = { type = transport_plane name = "302 Air Squadron" historical_model = 0 }
+	}
+	
+	navy = {
+	name = "Armada de México"
+	base = 9624
+	location = 9624
+	ship = { type = destroyer name = "ARM Netzahualcóyotl" historical_model = 0 }
+	ship = { type = destroyer name = "ARM Manuel Azueta" historical_model = 0 }
+	ship = { type = heavy_cruiser name = "ARM Bravo" historical_model = 0 }
+	ship = { type = heavy_cruiser name = "ARM Galeana" historical_model = 0 }
+	ship = { type = heavy_cruiser name = "ARM Allende" historical_model = 0 }
+	ship = { type = heavy_cruiser name = "ARM Abasolo" historical_model = 0 }
+	ship = { type = heavy_cruiser name = "ARM Victoria" historical_model = 0 }
+	ship = { type = heavy_cruiser name = "ARM Mina" historical_model = 0 }
+	ship = { type = light_cruiser name = "ARM Sierra" historical_model = 2 }
+	ship = { type = light_cruiser name = "ARM Prierto" historical_model = 2 }
+	ship = { type = light_cruiser name = "ARM Romero" historical_model = 2 }
+	ship = { type = patrol_boat name = "ARM Durango" historical_model = 2 }
+	ship = { type = patrol_boat name = "ARM Sonora" historical_model = 2 }
+	ship = { type = patrol_boat name = "ARM Guanajuato" historical_model = 2 }
+	ship = { type = patrol_boat name = "ARM Veracruz" historical_model = 2 }
+	ship = { type = transport_ship name = "ARM Papaloapan" historical_model = 0 }
+	ship = { type = transport_ship name = "ARM Usumacinta" historical_model = 0 }
+	}
+}

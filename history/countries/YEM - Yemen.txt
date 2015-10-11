@@ -1,0 +1,42 @@
+capital = 9750
+government = autocratic_democracy
+ideology = paternal_autocrat
+alignment = { x = 0 y = 50 }
+neutrality = 80
+national_unity = 70
+
+oob = "YEM_2000.txt"
+
+popularity = { 
+	national_socialist = 0
+	fascistic = 1
+	paternal_autocrat = 58
+	social_conservative = 23
+	market_liberal = 0
+	social_liberal = 0
+	social_democrat = 2
+	left_wing_radical = 0
+	leninist = 4
+	stalinist = 0
+}
+
+organization = { 
+	national_socialist = 0
+	fascistic = 3
+	paternal_autocrat = 176
+	social_conservative = 69
+	market_liberal = 0
+	social_liberal = 0
+	social_democrat = 6
+	left_wing_radical = 0
+	leninist = 12
+	stalinist = 0
+}
+
+conscription_policy = volunteer_army
+press_laws = limited_censorship
+mobilisation_level = peace_time
+civil_laws = restrictions
+service_length = eighteen_months
+economic_policy = limit_intervention
+

@@ -1,0 +1,164 @@
+theatre = {
+	name = "Fuerzas Armadas de la República Argentina"
+	location = 7899
+	regiment = { type = hq_brigade name = "Fuerzas Armadas de la República Argentina" historical_model = 2 }
+	army = {
+		name = "Ejército Argentino"
+		location = 7899
+		regiment = { type = hq_brigade name = "Ejército Argentino" historical_model = 2 }
+		division = {
+			is_reserve = yes
+			name = "Buenos Aires Garrison"
+			location = 7899
+			regiment = { type = air_cavalry_brigade name = "1st 'Patricians' Infantry Regiment" historical_model = 0 }
+			regiment = { type = garrison_brigade name = "'General San Martín' Horse Grenadier Regiment" historical_model = 2 }
+			regiment = { type = anti_air_brigade name = "601st Anti-Air Artillery Group" historical_model = 0 }
+			regiment = { type = engineer_brigade name = "601st Equipment Group" historical_model = 2 }
+		}
+		corps = {
+			name = "Rapid Deployable Force"
+			location = 7899
+			regiment = { type = hq_brigade name = "Rapid Force HQ" historical_model = 2 }
+			division = {
+				is_reserve = yes
+				name = "4th Parachute Brigade"
+				location = 10306
+				regiment = { type = paratrooper_brigade name = "2nd 'General Balcarce' Paratroopers Regiment" historical_model = 2 }
+				regiment = { type = paratrooper_brigade name = "14th Paratroopers Regiment" historical_model = 2 }
+			}
+			division = {
+				is_reserve = yes
+				name = "10th 'Lieutenant General Nicolás Levalle' Mechanized Infantry Brigade"
+				location = 10364
+				regiment = { type = armor_brigade name = "13th 'Lieutenant General Juan Esteban Pedernera' Light Cavalry Regiment" historical_model = 0 }
+				regiment = { type = mechanized_brigade name = "3rd 'General Belgrano' Mechanized Infantry Regiment" historical_model = 0 }
+				regiment = { type = mechanized_brigade name = "6th 'General Viamonte' Mechanized Infantry Regiment" historical_model = 0 }
+				regiment = { type = mechanized_brigade name = "12th 'General Arenales' Mechanized Infantry Regiment" historical_model = 0 }
+			}
+			division = {
+				is_reserve = yes
+				name = "Special Operations Group"
+				location = 7899
+				regiment = { type = special_forces_brigade name = "601st Air Assault Regiment" historical_model = 2 }
+			}
+		}
+		corps = {
+			name = "1st 'Lieutenant General Juan Carlos Sanchez' Division"
+			location = 10308
+			regiment = { type = hq_brigade name = "1st Division HQ" historical_model = 2 }
+			division = {
+				is_reserve = yes
+				name = "2nd 'General Justo Jos?de Urquiza' Armored Brigade"
+				location = 10316
+				regiment = { type = armor_brigade name = "1st 'Colonel Brandsen' Tank Cavalry Regiment" historical_model = 0 }
+				regiment = { type = armor_brigade name = "6th 'Blandengues' Tank Cavalry Regiment" historical_model = 0 }
+				regiment = { type = armor_brigade name = "7th 'Coraceros Coronel Ramón Estomba' Tank Cavalry Regiment" historical_model = 0 }
+				regiment = { type = armor_brigade name = "12th 'Duque de Caxias' Tank Cavalry Regiment" historical_model = 0 }
+				regiment = { type = mechanized_brigade name = "5th Mechanized Infantry Regiment" historical_model = 0 }
+			}
+		}
+		corps = {
+			name = "2nd 'Army of the North' Division"
+			location = 10306
+			regiment = { type = hq_brigade name = "2nd Division HQ" historical_model = 2 }
+			division = {
+				is_reserve = yes
+				name = "1st 'Brigadier Martin Rodriguez' Armored Brigade"
+				location = 7926
+				regiment = { type = armor_brigade name = "2nd 'Lanceros General Paz' Tank Cavalry Regiment" historical_model = 0 }
+				regiment = { type = armor_brigade name = "8th 'Cazadores General Necochea' Tank Cavalry Regiment" historical_model = 0 }
+				regiment = { type = armor_brigade name = "10th 'Húsares de Pueyrredón' Tank Cavalry Regiment" historical_model = 0 }
+				regiment = { type = mechanized_brigade name = "7th 'Coronel Conde' Mechanized Infantry Regiment" historical_model = 0 }
+			}
+			division = {
+				is_reserve = yes
+				name = "5th 'General Manuel Belgrano' Mountain Infantry Brigade"
+				location = 10252
+				regiment = { type = armor_brigade name = "5th 'General Güemes' Light Cavalry Brigade" historical_model = 0 }
+				regiment = { type = mountain_brigade name = "15th 'General Francisco Ortiz de Ocampo' Mountain Infantry Regiment" historical_model = 2 }
+				regiment = { type = mountain_brigade name = "20th 'Cazadores de Los Andes' Mountain Infantry Regiment" historical_model = 2 }
+			}
+			division = {
+				is_reserve = yes
+				name = "8th 'Brigadier General Toribio de Luzuriaga' Mountain Infantry Brigade"
+				location = 10330
+				regiment = { type = armor_brigade name = "15th 'Libertador Simón Bolívar' Light Cavalry Brigade" historical_model = 0 }
+				regiment = { type = mountain_brigade name = "11th 'General Las Heras' Mountain Infantry Regiment" historical_model = 2 }
+				regiment = { type = mountain_brigade name = "16th 'Cazadores de Los Andes' Mountain Infantry Regiment" historical_model = 2 }
+				regiment = { type = mountain_brigade name = "22nd 'Lieutenant Colonel Juan Manuel Cabot' Mountain Infantry Regiment" historical_model = 2 }
+			}
+		}
+		corps = {
+			name = "3rd 'Lieutenant General Julio Argentino Roca' Division"
+			location = 7945
+			regiment = { type = hq_brigade name = "3rd Division HQ" historical_model = 2 }
+			division = {
+				is_reserve = yes
+				name = "6th 'Major General Conrado Excelso Villegas' Mountain Infantry Brigade"
+				location = 10380
+				regiment = { type = armor_brigade name = "4th 'Libertador Simón Bolívar' Light Cavalry Brigade" historical_model = 0 }
+				regiment = { type = infantry_brigade name = "10th 'Lieutenant General Racedo' Mountain Infantry Regiment" historical_model = 2 }
+				regiment = { type = infantry_brigade name = "21st 'Lieutenant General Rufino Ortega' Mountain Infantry Regiment" historical_model = 2 }
+				regiment = { type = infantry_brigade name = "26th 'Colonel Benjamín Moritán' Mountain Infantry Regiment" historical_model = 2 }
+			}
+			division = {
+				is_reserve = yes
+				name = "9th 'Colonel Luis Jorge Fontana' Mechanized Infantry Brigade"
+				location = 10461
+				regiment = { type = armor_brigade name = "3rd 'Coraceros General Pacheco' Light Cavalry Regiment" historical_model = 0 }
+				regiment = { type = armor_brigade name = "9th 'General Jos?Gervasio Artigas' Light Cavalry Regiment" historical_model = 0 }
+				regiment = { type = mechanized_brigade name = "8th 'General O'Higgins' Mechanized Infantry Regiment" historical_model = 0 }
+				regiment = { type = mechanized_brigade name = "25th Mechanized Infantry Regiment" historical_model = 0 }
+			}
+			division = {
+				is_reserve = yes
+				name = "11th 'Brigadier General Juan Manuel de Rosas' Mechanized Infantry Brigade"
+				location = 10487
+				regiment = { type = armor_brigade name = "11th Light Cavalry Regiment" historical_model = 0 }
+				regiment = { type = mechanized_brigade name = "24th Mechanized Infantry Regiment" historical_model = 0 }
+				regiment = { type = mechanized_brigade name = "35th Mechanized Infantry Regiment" historical_model = 0 }
+			}
+		}
+	}
+	
+	air = {
+	name = "3rd Air Brigade"
+	base = 10316
+	location = 10316
+	wing = { type = cas name = "3rd Air Brigade" historical_model = 0 }
+	}
+	
+	air = {
+	name = "5th Air Brigade"
+	base = 10338
+	location = 10338
+	wing = { type = cas name = "5th Air Brigade" historical_model = 2 }
+	}
+	
+	navy = {
+	name = "Armada de la República Argentina"
+	base = 7899
+	location = 7899
+	ship = { type = submarine name = "ARA Santa Cruz" historical_model = 0 }
+	ship = { type = submarine name = "ARA San Juan" historical_model = 0 }
+	ship = { type = submarine name = "ARA Salta" historical_model = 0 }
+	ship = { type = heavy_cruiser name = "ARA Almirante Brown" historical_model = 0 }
+	ship = { type = heavy_cruiser name = "ARA La Argentina" historical_model = 0 }
+	ship = { type = heavy_cruiser name = "ARA Heroína" historical_model = 0 }
+	ship = { type = heavy_cruiser name = "ARA Sarand? historical_model = 0 }
+	ship = { type = transport_ship name = "ARA Hércules" historical_model = 0 }
+	ship = { type = transport_ship name = "ARA Bahía San Blais" historical_model = 0 }
+	ship = { type = light_cruiser name = "ARA Espora" historical_model = 0 }
+	ship = { type = light_cruiser name = "ARA Rosales" historical_model = 0 }
+	ship = { type = light_cruiser name = "ARA Spiro" historical_model = 0 }
+	ship = { type = light_cruiser name = "ARA Parker" historical_model = 0 }
+	ship = { type = light_cruiser name = "ARA Robinson" historical_model = 2 }
+	ship = { type = light_cruiser name = "ARA Gómez Roca" historical_model = 2 }
+	ship = { type = light_cruiser name = "ARA Drummond" historical_model = 0 }
+	ship = { type = light_cruiser name = "ARA Guerrico" historical_model = 0 }
+	ship = { type = light_cruiser name = "ARA Granville" historical_model = 0 }
+	ship = { type = patrol_boat name = "ARA Intrépida" historical_model = 0 }
+	ship = { type = patrol_boat name = "ARA Indómita" historical_model = 0 }
+	}
+	
+}

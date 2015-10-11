@@ -1,0 +1,11 @@
+owner = GEO
+controller = GEO
+add_core = GEO
+
+infra = 4
+
+
+infra = 7
+naval_base = 5 #Batumi port
+leadership = 2.50
+points = 1

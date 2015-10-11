@@ -1,0 +1,14 @@
+controller = CHC
+owner = CHC
+ 
+add_core = CHC
+infra = 8
+manpower = 17.00
+leadership = 1.00
+
+industry = 5
+energy = 20.00
+rare_materials = 4.00
+metal = 15.00
+air_base = 3 #Chengde airbase
+points = 1

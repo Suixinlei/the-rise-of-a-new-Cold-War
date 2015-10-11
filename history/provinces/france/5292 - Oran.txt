@@ -1,0 +1,10 @@
+owner = ALG
+controller = ALG
+add_core = ALG
+industry = 3
+infra = 7
+manpower = 3.00
+air_base = 2 #Oran Tafraoui airbase
+naval_base = 5 #Oran port
+leadership = 1.00
+points = 1

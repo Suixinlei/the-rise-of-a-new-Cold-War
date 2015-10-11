@@ -1,0 +1,22 @@
+theatre = {
+	name = "Royal Brunei Armed Forces"
+	location = 6362
+	regiment = { type = hq_brigade name = "Armed Forces HQ" historical_model = 1 }
+	division = {
+		is_reserve = yes
+		name = "Royal Brunei Land Forces"
+		location = 6362
+		regiment = { type = infantry_brigade name = "1st Battalion" historical_model = 1 }
+		regiment = { type = infantry_brigade name = "2nd Battalion" historical_model = 1 }
+		regiment = { type = infantry_brigade name = "3rd Battalion" historical_model = 1 }
+	}
+	
+	navy = {
+	name = "Royal Brunei Navy"
+	base = 6362
+	location = 6362
+	ship = { type = patrol_boat name = "Waspada" historical_model = 0 }
+	ship = { type = patrol_boat name = "Pejuang" historical_model = 0 }
+	ship = { type = patrol_boat name = "Seteria" historical_model = 0 }
+	}
+}

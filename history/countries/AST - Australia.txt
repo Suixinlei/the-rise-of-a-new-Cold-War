@@ -1,0 +1,42 @@
+capital = 8007
+government = commonwealth
+ideology = market_liberal
+alignment = { x = 0 y = -111 }
+neutrality = 80
+national_unity = 80
+oob = "AST_2000.txt"
+
+
+popularity = { 
+	national_socialist = 0
+	fascistic = 0
+	paternal_autocrat = 4
+	social_conservative = 6
+	market_liberal = 37
+	social_liberal = 5
+	social_democrat = 38
+	left_wing_radical = 0
+	leninist = 0
+	stalinist = 0
+}
+
+organization = { 
+	national_socialist = 0
+	fascistic = 0
+	paternal_autocrat = 12
+	social_conservative = 18
+	market_liberal = 111
+	social_liberal = 15
+	social_democrat = 114
+	left_wing_radical = 0
+	leninist = 0
+	stalinist = 0
+}
+
+conscription_policy = volunteer_army
+press_laws = free_press
+mobilisation_level = peace_time
+civil_laws = open_society
+economic_policy = lais_fair
+service_length = six_months
+

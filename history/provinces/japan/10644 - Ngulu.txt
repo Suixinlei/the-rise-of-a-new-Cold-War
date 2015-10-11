@@ -1,0 +1,5 @@
+owner = MIC
+controller = MIC
+add_core = MIC
+
+infra = 3

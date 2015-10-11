@@ -1,0 +1,7 @@
+owner = SYR
+controller = SYR
+add_core = SYR
+infra = 6
+air_base = 4 #Bassel Al-Assad, Hamah and al Qusayr airbase
+leadership = 2.50
+points = 1

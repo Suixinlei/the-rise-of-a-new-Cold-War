@@ -1,0 +1,7 @@
+owner = KOR
+controller = KOR
+add_core = KOR
+
+infra = 6
+air_base = 4 #Jeju airport
+points = 1

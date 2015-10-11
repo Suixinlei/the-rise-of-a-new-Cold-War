@@ -1,0 +1,14 @@
+owner = PER
+
+controller = PER
+
+add_core = PER
+
+crude_oil = 15.00
+infra = 6
+rare_materials = 5.00
+air_base = 6 #Bandar Abbas airbase
+naval_base = 10 #Bandar Abbas port
+points = 1
+leadership = 1.50
+crude_oil = 60.00

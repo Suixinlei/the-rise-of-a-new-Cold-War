@@ -1,0 +1,126 @@
+color = { 252  231  178 }
+graphical_culture = Generic
+last_election = 2000.7.30
+duration = 60
+
+default_templates = {
+	generic_infantry = {
+		infantry_brigade
+		infantry_brigade
+		infantry_brigade
+	}
+	generic_milita = {
+		militia_brigade
+		militia_brigade
+		militia_brigade
+	}
+	generic_armoured = {
+		armor_brigade
+		motorized_brigade
+		motorized_brigade
+	}
+	generic_cavalry = {
+		cavalry_brigade
+		cavalry_brigade
+	}
+}
+
+unit_names = {
+	infantry_brigade = {
+		"1a Div. de Inf. 'Eduardo Blanco'" "2a División de Infantería" "3a División de Infantería" "4a División de Infantería" "5a División de Infantería" "6a División de Infantería" "7a División de Infantería" "8a División de Infantería" "9a División de Infantería" "10a División de Infantería" "11a División de Infantería" 
+		"12a División de Infantería" "13a División de Infantería" "14a División de Infantería" "15a División de Infantería" "16a División de Infantería" "17a División de Infantería" "18a División de Infantería" "19a División de Infantería" "20a División de Infantería" 
+	}
+	cavalry_brigade = {
+		"Los Caballos de Venezuela" "2a División de Caballería" "3a División de Caballería" "4a División de Caballería" "5a División de Caballería" "6a División de Caballería" "7a División de Caballería" "8a División de Caballería" "9a División de Caballería" "10a División de Caballería" 
+	}
+	motorized_brigade = {
+		"1a División de Inf. en Camión" "2a División de Inf. en Camión" "3a División de Inf. en Camión" "4a División de Inf. en Camión" "5a División de Inf. en Camión" "6a División de Inf. en Camión" "7a División de Inf. en Camión" "8a División de Inf. en Camión" "9a División de Inf. en Camión" "10a División de Inf. en Camión" "11a División de Inf. en Camión" 
+		"12a División de Inf. en Camión" "13a División de Inf. en Camión" "14a División de Inf. en Camión" "15a División de Inf. en Camión" 
+	}
+	mechanized_brigade = {
+		"1a División Mecanizada" "2a División Mecanizada" "3a División Mecanizada" "4a División Mecanizada" "5a División Mecanizada" "6a División Mecanizada" "7a División Mecanizada" "8a División Mecanizada" "9a División Mecanizada" "10a División Mecanizada" "11a División Mecanizada" 
+		"12a División Mecanizada" "13a División Mecanizada" "14a División Mecanizada" "15a División Mecanizada" 
+	}
+	light_armor_brigade = {
+		"1a División Blindada de Venezuela" "2a División Blindada de Venezuela" "3a División Blindada de Venezuela" "4a División Blindada de Venezuela" "5a División Blindada de Venezuela" "6a División Blindada de Venezuela" "7a División Blindada de Venezuela" "8a División Blindada de Venezuela" "9a División Blindada de Venezuela" "10a División Blindada de Venezuela" "11a División Blindada de Venezuela" 
+		"12a División Blindada de Venezuela" "13a División Blindada de Venezuela" "14a División Blindada de Venezuela" "15a División Blindada de Venezuela" 
+	}
+	armor_brigade = {
+		"1a División Blindada de Venezuela" "2a División Blindada de Venezuela" "3a División Blindada de Venezuela" "4a División Blindada de Venezuela" "5a División Blindada de Venezuela" "6a División Blindada de Venezuela" "7a División Blindada de Venezuela" "8a División Blindada de Venezuela" "9a División Blindada de Venezuela" "10a División Blindada de Venezuela" "11a División Blindada de Venezuela" 
+		"12a División Blindada de Venezuela" "13a División Blindada de Venezuela" "14a División Blindada de Venezuela" "15a División Blindada de Venezuela" 
+	}
+	paratrooper_brigade = {
+		"1a División Para. 'Los Immortales'" "2a División de Paracaidistas" "3a División de Paracaidistas" "4a División de Paracaidistas" "5a División de Paracaidistas" "6a División de Paracaidistas" "7a División de Paracaidistas" "8a División de Paracaidistas" "9a División de Paracaidistas" "10a División de Paracaidistas" 
+	}
+	marine_brigade = {
+		"1a División de Infantería de Marina" "2a División de Infantería de Marina" "3a División de Infantería de Marina" "4a División de Infantería de Marina" "5a División de Infantería de Marina" "6a División de Infantería de Marina" "7a División de Infantería de Marina" "8a División de Infantería de Marina" "9a División de Infantería de Marina" "10a División de Infantería de Marina" 
+	}
+	bergsjaeger_brigade = {
+		"1a División Alpina 'Los Salinas'" "2a División Alpina" "3a División Alpina" "4a División Alpina" "5a División Alpina" "6a División Alpina" "7a División Alpina" "8a División Alpina" "9a División Alpina" "10a División Alpina" 
+	}
+	garrison_brigade = {
+		"2a División de Infantería" "3a División de Infantería" "4a División de Infantería" "5a División de Infantería" "6a División de Infantería" "7a División de Infantería" "8a División de Infantería" "9a División de Infantería" "10a División de Infantería" "11a División de Infantería" "12a División de Infantería" 
+		"13a División de Infantería" "14a División de Infantería" "15a División de Infantería" "16a División de Infantería" "17a División de Infantería" "18a División de Infantería" "19a División de Infantería" "20a División de Infantería" 
+	}
+	hq_brigade = {
+		"Cuartel General 1er Ejército" "Cuartel General 2o Ejército" "Cuartel General 3er Ejército" "Cuartel General 4o Ejército" "Cuartel General 5o Ejército" "Cuartel General 6o Ejército" "Cuartel General 7o Ejército" "Cuartel General 8o Ejército" "Cuartel General 9o Ejército" "Cuartel General 10o Ejército" 
+	}
+	militia_brigade = {
+		"1a División de la Guardia Naciónal" "2a División de la Guardia Naciónal" "3a División de la Guardia Naciónal" "4a División de la Guardia Naciónal" "5a División de la Guardia Naciónal" "6a División de la Guardia Naciónal" "7a División de la Guardia Naciónal" "8a División de la Guardia Naciónal" "9a División de la Guardia Naciónal" "10a División de la Guardia Naciónal" "11a División de la Guardia Naciónal" 
+		"12a División de la Guardia Naciónal" "13a División de la Guardia Naciónal" "14a División de la Guardia Naciónal" "15a División de la Guardia Naciónal" "16a División de la Guardia Naciónal" "17a División de la Guardia Naciónal" "18a División de la Guardia Naciónal" "19a División de la Guardia Naciónal" "20a División de la Guardia Naciónal" 
+	}
+	multi_role = {
+		"1. Grupo Aéreo de Caza" "2. Grupo Aéreo de Caza" "3. Grupo Aéreo de Caza" "4. Grupo Aéreo de Caza" "5. Grupo Aéreo de Caza" "6. Grupo Aéreo de Caza" "7. Grupo Aéreo de Caza" "8. Grupo Aéreo de Caza" "9. Grupo Aéreo de Caza" "10. Grupo Aéreo de Caza" 
+	}
+	interceptor = {
+		"1. Grupo Aéreo de Caza" "2. Grupo Aéreo de Caza" "3. Grupo Aéreo de Caza" "4. Grupo Aéreo de Caza" "5. Grupo Aéreo de Caza" "6. Grupo Aéreo de Caza" "7. Grupo Aéreo de Caza" "8. Grupo Aéreo de Caza" "9. Grupo Aéreo de Caza" "10. Grupo Aéreo de Caza" 
+	}
+	strategic_bomber = {
+		"1. Grupo Aéreo Estratégico" "2. Grupo Aéreo Estratégico" "3. Grupo Aéreo Estratégico" "4. Grupo Aéreo Estratégico" "5. Grupo Aéreo Estratégico" "6. Grupo Aéreo Estratégico" "7. Grupo Aéreo Estratégico" "8. Grupo Aéreo Estratégico" "9. Grupo Aéreo Estratégico" "10. Grupo Aéreo Estratégico" 
+	}
+	tactical_bomber = {
+		"1. Grupo Aéreo Táctico" "2. Grupo Aéreo Táctico" "3. Grupo Aéreo Táctico" "4. Grupo Aéreo Táctico" "5. Grupo Aéreo Táctico" "6. Grupo Aéreo Táctico" "7. Grupo Aéreo Táctico" "8. Grupo Aéreo Táctico" "9. Grupo Aéreo Táctico" "10. Grupo Aéreo Táctico" 
+	}
+	naval_bomber = {
+		"1. Grupo Aéreo de la Marina" "2. Grupo Aéreo de la Marina" "3. Grupo Aéreo de la Marina" "4. Grupo Aéreo de la Marina" "5. Grupo Aéreo de la Marina" "6. Grupo Aéreo de la Marina" "7. Grupo Aéreo de la Marina" "8. Grupo Aéreo de la Marina" "9. Grupo Aéreo de la Marina" "10. Grupo Aéreo de la Marina" "1. Grupo Aéreo Torpedero" 
+		"2. Grupo Aéreo Torpedero" "3. Grupo Aéreo Torpedero" "4. Grupo Aéreo Torpedero" "5. Grupo Aéreo Torpedero" "6. Grupo Aéreo Torpedero" 
+	}
+	cas = {
+		"1. Grupo Aéreo de Asalto" "2. Grupo Aéreo de Asalto" "3. Grupo Aéreo de Asalto" "4. Grupo Aéreo de Asalto" "5. Grupo Aéreo de Asalto" "6. Grupo Aéreo de Asalto" "7. Grupo Aéreo de Asalto" "8. Grupo Aéreo de Asalto" "9. Grupo Aéreo de Asalto" "10. Grupo Aéreo de Asalto" 
+	}
+	transport_plane = {
+		"1. Lineas Aéreas de Venezuela" "2. Lineas Aéreas de Venezuela" "3. Lineas Aéreas de Venezuela" "4. Lineas Aéreas de Venezuela" "5. Lineas Aéreas de Venezuela" 
+	}
+	battleship = {
+		"ARV Coronel Eduardo Blanco" "ARV Almirante San Pablo" "ARV Caracas" 
+	}
+	light_cruiser = {
+		"ARV Maracay" "ARV Barquisimeto" "ARV Valencia" "ARV Petare Teques" "ARV Puerto de la Cruz" "ARV Cumana" "ARV Maturin" "ARV Sotavento" "ARV Isla de Tortuga" "ARV Pedregal" 
+	}
+	heavy_cruiser = {
+		"ARV Maracay" "ARV Barquisimeto" "ARV Valencia" "ARV Petare Teques" "ARV Puerto de la Cruz" "ARV Cumana" "ARV Maturin" "ARV Sotavento" "ARV Isla de Tortuga" "ARV Pedregal" 
+	}
+	battlecruiser = {
+		"ARV Coronel Eduardo Blanco" "ARV Almirante San Pablo" "ARV Caracas" 
+	}
+	destroyer = {
+		"Flotilla San Fernando" "Flotilla Achaguas" "Flotilla Puerto Ayacucho" "Flotilla Puerto Páez" "Flotilla Puerto Carreño" "Flotilla La Esmeralda" "Flotilla San Carlos" "Flotilla Rio Negro" "Flotilla El Dorado" "Flotilla Lumeremo" 
+	}
+	carrier = {
+		"ARV República de Venezuela" "ARV Simón Bolívar" 
+	}
+	escort_carrier = {
+		"ARV General Urdaneta" "ARV Almirante Brión" "ARV General Soublette" "ARV General Salóm" 
+	}
+	submarine = {
+		"Flotilla de Submarinos S100" "Flotilla de Submarinos S101" "Flotilla de Submarinos S102" "Flotilla de Submarinos S103" "Flotilla de Submarinos S104" "Flotilla de Submarinos S105" "Flotilla de Submarinos S106" "Flotilla de Submarinos S107" "Flotilla de Submarinos S108" "Flotilla de Submarinos S109" 
+	}
+	transport_ship = {
+		"Fl. de Transporte Naval nro. 1" "Fl. de Transporte Naval nro. 2" "Fl. de Transporte Naval nro. 3" "Fl. de Transporte Naval nro. 4" "Fl. de Transporte Naval nro. 5" "Fl. de Transporte Naval nro. 6" "Fl. de Transporte Naval nro. 7" "Fl. de Transporte Naval nro. 8" "Fl. de Transporte Naval nro. 9" "Fl. de Transporte Naval nro. 10" 
+	}
+
+}
+
+ministers = {
+	
+}

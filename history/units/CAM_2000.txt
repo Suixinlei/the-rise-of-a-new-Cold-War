@@ -1,0 +1,78 @@
+theatre = {
+	name = "Forces Armees Camerounaises"
+	location = 9921
+	regiment = { type = hq_brigade name = "Forces Armees Camerounaises" historical_model = 0 }
+	army = {
+		name = "L'Armee de Terre"
+		location = 9921
+		regiment = { type = hq_brigade name = "L'Armee de Terre" historical_model = 0 }
+		division = {
+			is_reserve = yes
+			name = "The General Headquarter Brigade"
+			location = 9921
+			regiment = { type = garrison_brigade name = "1st Battalion" historical_model = 0 }
+			regiment = { type = garrison_brigade name = "2nd Battalion" historical_model = 0 }
+			regiment = { type = garrison_brigade name = "3rd Battalion" historical_model = 0 }
+		}
+		corps = {
+			name = "Rapid Intervention Brigade"
+			location = 9986
+			regiment = { type = hq_brigade name = "Intervention Brigade HQ" historical_model = 0 }
+			division = {
+				is_reserve = yes
+				name = "Bataillon Special Amphibie"
+				location = 9986
+				regiment = { type = special_forces_brigade name = "Bataillon Special Amphibie" historical_model = 0 }
+			}
+			division = {
+				is_reserve = yes
+				name = "Bataillon des Troupes Aeroportees"
+				location = 9986
+				regiment = { type = air_cavalry_brigade name = "Bataillon des Troupes Aeroportees" historical_model = 0 }
+			}
+			division = {
+				is_reserve = yes
+				name = "Bataillon Blinde de Reconnaissance"
+				location = 9957
+				regiment = { type = mechanized_brigade name = "Bataillon Blinde de Reconnaissanc" historical_model = 0 }
+			}
+		}
+		division = {
+			is_reserve = yes
+			name = "1st Motorized Brigade"
+			location = 9882
+			regiment = { type = infantry_brigade name = "11th Motorized Battalion" historical_model = 0 }
+			regiment = { type = infantry_brigade name = "12th Motorized Battalion" historical_model = 0 }
+			regiment = { type = infantry_brigade name = "13th Motorized Battalion" historical_model = 0 }
+		}
+		division = {
+			is_reserve = yes
+			name = "2nd Motorized Brigade"
+			location = 9921
+			regiment = { type = infantry_brigade name = "21st Motorized Battalion" historical_model = 0 }
+			regiment = { type = infantry_brigade name = "22nd Motorized Battalion" historical_model = 0 }
+		}
+		division = {
+			is_reserve = yes
+			name = "3rd Motorized Brigade"
+			location = 9986
+			regiment = { type = infantry_brigade name = "31st Motorized Battalion" historical_model = 0 }
+			regiment = { type = infantry_brigade name = "32nd Motorized Battalion" historical_model = 0 }
+		}
+		division = {
+			is_reserve = yes
+			name = "4th Motorized Brigade"
+			location = 9978
+			regiment = { type = infantry_brigade name = "41st Motorized Battalion" historical_model = 0 }
+			regiment = { type = infantry_brigade name = "42nd Motorized Battalion" historical_model = 0 }
+		}
+		division = {
+			is_reserve = yes
+			name = "5th Motorized Brigade"
+			location = 9957
+			regiment = { type = infantry_brigade name = "51st Motorized Battalion" historical_model = 0 }
+			regiment = { type = infantry_brigade name = "52nd Motorized Battalion" historical_model = 0 }
+		}
+	}
+	
+}

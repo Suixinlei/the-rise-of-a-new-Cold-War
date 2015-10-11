@@ -1,0 +1,9 @@
+owner = NIG
+controller = NIG
+add_core = NIG
+manpower = 6.00
+infra = 6
+crude_oil = 37.00
+naval_base = 3 #Port Harcourt port
+leadership = 1.50
+points = 1

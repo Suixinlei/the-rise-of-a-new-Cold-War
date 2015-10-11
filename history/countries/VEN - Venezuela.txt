@@ -1,0 +1,40 @@
+capital = 9792
+government = federation
+ideology = leninist
+alignment = { x = 0 y = 100 }
+neutrality = 80
+national_unity = 70
+oob = "VEN_2000.txt"
+
+popularity = { 
+	national_socialist = 0
+	fascistic = 0
+	paternal_autocrat = 0
+	social_conservative = 7
+	market_liberal = 5
+	social_liberal = 0
+	social_democrat = 16
+	left_wing_radical = 5
+	leninist = 44
+	stalinist = 0
+}
+
+organization = { 
+	national_socialist = 0
+	fascistic = 0
+	paternal_autocrat = 0
+	social_conservative = 21
+	market_liberal = 15
+	social_liberal = 0
+	social_democrat = 48
+	left_wing_radical = 15
+	leninist = 132
+	stalinist = 0
+}
+
+conscription_policy = universal_military_service
+press_laws = free_press
+mobilisation_level = peace_time
+civil_laws = open_society
+service_length = eighteen_months
+economic_policy =  limit_intervention

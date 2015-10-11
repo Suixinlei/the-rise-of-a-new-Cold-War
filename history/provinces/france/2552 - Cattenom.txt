@@ -1,0 +1,10 @@
+owner = FRA
+controller = FRA
+add_core = FRA
+
+energy = 5.00
+infra = 7
+
+
+terrain = woods
+

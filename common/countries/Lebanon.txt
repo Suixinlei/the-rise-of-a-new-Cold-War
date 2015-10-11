@@ -1,0 +1,441 @@
+color = { 123  183  123 }
+graphical_culture = Generic
+last_election = 2000.9.3
+duration = 48
+
+default_templates = {
+	generic_infantry = {
+		infantry_brigade
+		infantry_brigade
+		infantry_brigade
+	}
+	generic_milita = {
+		militia_brigade
+		militia_brigade
+		militia_brigade
+	}
+	generic_armoured = {
+		armor_brigade
+		motorized_brigade
+		motorized_brigade
+	}
+}
+
+unit_names = {
+	
+}
+
+ministers = {
+	45001 = {
+		name = "Émile Lahoud"
+		ideology = national_socialist
+		loyalty = 1.00
+		picture = M45001
+		head_of_state = happy_amateur
+		start_date = 2000.1.1
+	}
+	45002 = {
+		name = "Michel Suleiman"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M45002
+		head_of_state = silent_workhorse
+		chief_of_staff = autocratic_charmer
+		chief_of_army = infantry_proponent
+		start_date = 2000.1.1
+	}
+	45003 = {
+		name = "Rafic Hariri"
+		ideology = market_liberal
+		loyalty = 1.00
+		picture = M45003
+		head_of_government = industrial_beast
+		start_date = 2000.1.1
+	}
+	45004 = {
+		name = "Omar Karami"
+		ideology = national_socialist
+		loyalty = 1.00
+		picture = M45004
+		head_of_government = dismal_enigma
+		start_date = 2000.1.1
+	}
+	45005 = {
+		name = "Najib Mikati"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M45005
+		head_of_government = flamboyant_tough_guy
+		start_date = 2000.1.1
+	}
+	45006 = {
+		name = "Fouad Siniora"
+		ideology = market_liberal
+		loyalty = 1.00
+		picture = M45006
+		head_of_government = corporate_suit
+		start_date = 2005.1.1
+	}
+	45007 = {
+		name = "Saad Hariri"
+		ideology = market_liberal
+		loyalty = 1.00
+		picture = M45007
+		head_of_government = unexperienced_diplomat
+		start_date = 2009.1.1
+	}
+	45008 = {
+		name = "Fawzi Salloukh"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M45008
+		foreign_minister = political_specialist
+		start_date = 2000.1.1
+	}
+	45009 = {
+		name = "Ali Al Shami"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M45009
+		foreign_minister = backroom_backstabber
+		start_date = 2009.1.1
+	}
+	45010 = {
+		name = "Tarek Mitri"
+		ideology = market_liberal
+		loyalty = 1.00
+		picture = M45010
+		foreign_minister = unexperienced_diplomat
+		start_date = 2000.1.1
+	}
+	45011 = {
+		name = "Adnan Mansour"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M45011
+		foreign_minister = benevolent_gentleman
+		start_date = 2011.1.1
+	}
+	45012 = {
+		name = "Elias Murr"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M45012
+		armament_minister = man_of_the_people
+		minister_of_security = good_connections
+		start_date = 2000.1.1
+	}
+	45013 = {
+		name = "Suleiman Frangieh"
+		ideology = paternal_autocrat
+		loyalty = 1.00
+		picture = M45013
+		minister_of_security = silent_workhorse
+		start_date = 2000.1.1
+	}
+	45014 = {
+		name = "Hassan Sabeh"
+		ideology = market_liberal
+		loyalty = 1.00
+		picture = M45014
+		minister_of_security = apologetic_clerk
+		start_date = 2000.1.1
+	}
+	45015 = {
+		name = "Ziyad Baroud"
+		ideology = market_liberal
+		loyalty = 1.00
+		picture = M45015
+		minister_of_security = silent_workhorse
+		start_date = 2008.1.1
+	}
+	45016 = {
+		name = "Marwan Charbel"
+		ideology = paternal_autocrat
+		loyalty = 1.00
+		picture = M45016
+		minister_of_security = hazardous_clean
+		start_date = 2011.1.1
+	}
+	45017 = {
+		name = "Fayez Ghosn"
+		ideology = paternal_autocrat
+		loyalty = 1.00
+		picture = M45017
+		armament_minister = school_of_mass_combat
+		start_date = 2000.1.1
+	}
+	45018 = {
+		name = "Michel Aoun"
+		ideology = paternal_autocrat
+		loyalty = 1.00
+		picture = M45018
+		head_of_state = great_compromiser
+		start_date = 2000.1.1
+	}
+	45019 = {
+		name = "Issam Abu Jamra"
+		ideology = paternal_autocrat
+		loyalty = 1.00
+		picture = M45019
+		head_of_government = fanatical_academic
+		start_date = 2000.1.1
+	}
+	45020 = {
+		name = "Gebran Bassil"
+		ideology = paternal_autocrat
+		loyalty = 1.00
+		picture = M45020
+		foreign_minister = industry_servant
+		start_date = 2000.1.1
+	}
+	45021 = {
+		name = "Hassan Nasrallah"
+		ideology = national_socialist
+		loyalty = 1.00
+		picture = M45021
+		foreign_minister = tempered_speaker
+		start_date = 2000.1.1
+	}
+	45022 = {
+		name = "Naim Qassem"
+		ideology = national_socialist
+		loyalty = 1.00
+		picture = M45022
+		armament_minister = military_entrepreneur
+		start_date = 2000.1.1
+	}
+	45023 = {
+		name = "Muhammad Fneish"
+		ideology = national_socialist
+		loyalty = 1.00
+		picture = M45023
+		minister_of_security = smiling_oilman
+		start_date = 2000.1.1
+	}
+	45024 = {
+		name = "Assem Qanso"
+		ideology = fascistic
+		loyalty = 1.00
+		picture = M45025
+		head_of_state = iron_fisted_brute
+		start_date = 2000.1.1
+	}
+	45025 = {
+		name = "Fayez Shukr"
+		ideology = fascistic
+		loyalty = 1.00
+		picture = M45025
+		head_of_government = old_general
+		start_date = 2000.1.1
+	}
+	45026 = {
+		name = "Sayf al-Din Ghazi"
+		ideology = fascistic
+		loyalty = 1.00
+		picture = M45026
+		armament_minister = autocratic_charmer
+		start_date = 2000.1.1
+	}
+	45027 = {
+		name = "Imad Jaara"
+		ideology = social_liberal
+		loyalty = 1.00
+		picture = M45027
+		head_of_state = back_stabber
+		start_date = 2000.1.1
+	}
+	45028 = {
+		name = "Osama Saad"
+		ideology = leninist
+		loyalty = 1.00
+		picture = M45028
+		head_of_state = crooked_kleptocrat
+		start_date = 2000.1.1
+	}
+	45029 = {
+		name = "Khaled Hadadi"
+		ideology = stalinist
+		loyalty = 1.00
+		picture = M45029
+		head_of_state = apologetic_clerk
+		start_date = 2000.1.1
+	}
+	45030 = {
+		name = "Saadallah Mazraani"
+		ideology = stalinist
+		loyalty = 1.00
+		picture = M45030
+		head_of_government = people_shamer
+		start_date = 2000.1.1
+	}
+	45031 = {
+		name = "Anwar Yassin"
+		ideology = stalinist
+		loyalty = 1.00
+		picture = M45031
+		armament_minister = smiling_oilman
+		start_date = 2000.1.1
+	}
+	45032 = {
+		name = "Farouq Dahrouj"
+		ideology = stalinist
+		loyalty = 1.00
+		picture = M45032
+		foreign_minister = power_hungry_demagogue
+		start_date = 2000.1.1
+	}
+	45033 = {
+		name = "Ibrahim Kulaylat"
+		ideology = leninist
+		loyalty = 1.00
+		picture = M45033
+		head_of_government = talented_and_concealed
+		start_date = 2000.1.1
+	}
+	45034 = {
+		name = "Zaher el-Khatib"
+		ideology = left_wing_radical
+		loyalty = 1.00
+		picture = M45034
+		head_of_state = industry_servant
+		start_date = 2000.1.1
+	}
+	45035 = {
+		name = "Nasser Kandil"
+		ideology = left_wing_radical
+		loyalty = 1.00
+		picture = M45035
+		head_of_government = silent_workhorse
+		start_date = 2000.1.1
+	}
+	45036 = {
+		name = "Najah Wakim"
+		ideology = leninist
+		loyalty = 1.00
+		picture = M45036
+		minister_of_security = silent_workhorse
+		start_date = 2000.1.1
+	}
+	45037 = {
+		name = "Kamal Chatilla"
+		ideology = leninist
+		loyalty = 1.00
+		picture = M45037
+		foreign_minister = dismal_enigma
+		start_date = 2000.1.1
+	}
+	45038 = {
+		name = "Ali Eid"
+		ideology = leninist
+		loyalty = 1.00
+		picture = M45038
+		armament_minister = school_of_mass_combat
+		start_date = 2000.1.1
+	}
+	45039 = {
+		name = "Dory Chamoun"
+		ideology = market_liberal
+		loyalty = 1.00
+		picture = M45039
+		head_of_state = happy_amateur
+		start_date = 2000.1.1
+	}
+	45040 = {
+		name = "Elias Atallah"
+		ideology = left_wing_radical
+		loyalty = 1.00
+		picture = M45040
+		foreign_minister = biased_intellectual
+		start_date = 2000.1.1
+	}
+	45041 = {
+		name = "Nassib Lahoud"
+		ideology = social_liberal
+		loyalty = 1.00
+		picture = M45041
+		head_of_government = autocratic_charmer
+		start_date = 2000.1.1
+	}
+	45042 = {
+		name = "Fouad Makhzoumi"
+		ideology = market_liberal
+		loyalty = 1.00
+		picture = M45042
+		armament_minister = fanatical_academic
+		start_date = 2000.1.1
+	}
+	45043 = {
+		name = "Jack Tamer"
+		ideology = social_democrat
+		loyalty = 1.00
+		picture = M45043
+		head_of_state = fanatical_academic
+		start_date = 2000.1.1
+	}
+	45044 = {
+		name = "Ahmad al-Asaad"
+		ideology = social_liberal
+		loyalty = 1.00
+		picture = M45044
+		minister_of_security = talented_liar
+		start_date = 2000.1.1
+	}
+	45045 = {
+		name = "Charles Chidiac"
+		ideology = social_liberal
+		loyalty = 1.00
+		picture = M45045
+		foreign_minister = iron_fisted_brute
+		start_date = 2000.1.1
+	}
+	45046 = {
+		name = "Wajeb Kanso"
+		ideology = left_wing_radical
+		loyalty = 1.00
+		picture = M45046
+		armament_minister = die_hard_reformer
+		start_date = 2000.1.1
+	}
+	45047 = {
+		name = "Ibrahim Muhsen"
+		ideology = stalinist
+		loyalty = 1.00
+		picture = M45047
+		minister_of_security = ambitious_union_boss
+		start_date = 2000.1.1
+	}
+	45048 = {
+		name = "George Karaa"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M45048
+		minister_of_intelligence = power_hungry_demagogue
+		start_date = 2000.1.1
+	}
+	45049 = {
+		name = "Jean Kahwaji"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M45049
+		chief_of_staff = air_to_sea_proponent
+		chief_of_army = air_to_ground_proponent
+		start_date = 2008.1.1
+	}
+	45050 = {
+		name = "Ghassan Chahine"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M45050
+		chief_of_air = air_reformer
+		start_date = 2000.1.1
+	}
+	45051 = {
+		name = "Nazih Baroudi"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M45051
+		chief_of_navy = base_control_doctrine
+		start_date = 2000.1.1
+	}
+}

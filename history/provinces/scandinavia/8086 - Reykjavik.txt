@@ -1,0 +1,10 @@
+owner = ICL
+controller = ICL
+add_core = ICL
+infra = 5
+
+energy = 1.00
+rare_materials = 15.00
+air_base = 1 #Reykjavik airport
+naval_base = 2 #Reykjavik port
+points = 1

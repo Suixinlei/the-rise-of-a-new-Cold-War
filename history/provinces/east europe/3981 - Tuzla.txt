@@ -1,0 +1,9 @@
+owner = BOS
+controller = BOS
+add_core = BOS
+
+infra = 7
+
+air_base = 2 #Tuzla airbase
+leadership = 2.50
+points = 1

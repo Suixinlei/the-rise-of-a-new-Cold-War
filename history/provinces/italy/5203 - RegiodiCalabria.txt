@@ -1,0 +1,10 @@
+owner = ITA
+controller = ITA
+add_core = ITA
+
+
+infra = 6
+
+
+air_base = 1 #Reggio Calabria airbase
+points = 1

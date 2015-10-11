@@ -1,0 +1,331 @@
+color = { 255  188  102 }
+graphical_culture = Generic
+last_election = 1999.9.3
+duration = 60
+major = yes
+
+default_templates = {
+	generic_infantry = {
+		infantry_brigade
+		infantry_brigade
+		infantry_brigade
+	}
+	generic_milita = {
+		militia_brigade
+		militia_brigade
+		militia_brigade
+	}
+	generic_armoured = {
+		armor_brigade
+		motorized_brigade
+		motorized_brigade
+	}
+	generic_cavalry = {
+		cavalry_brigade
+		cavalry_brigade
+	}
+}
+
+unit_names = {
+}
+
+ministers = {
+	52000 = {
+		name = "°¢²·¶Å¶û¡¤¿¨À­Ä·"
+		ideology = paternal_autocrat
+		loyalty = 1.00
+		picture = INDM01
+		head_of_state = military_entrepreneur
+		start_date = 2002.7.25
+	}
+	52001 = {
+		name = "ÆÕÀ­µÙ°Í¡¤ÅÁµÙ¶û"
+		ideology = leninist
+		loyalty = 1.00
+		picture = INDM02
+		head_of_state = apologetic_clerk
+		start_date = 2002.7.25
+	}
+	52002 = {
+		name = "ÆÕÀ­ÄÉ²¼¡¤Ä½¿Ë¼ª"
+		ideology = leninist
+		loyalty = 1.00
+		picture = INDM03
+		head_of_state = economic_expert
+		start_date = 2006.7.25
+	}
+	52003 = {
+		name = "°¢Ëş¶û¡¤±È¹şÀï¡¤Íß½ÜÅÁÒÁ"
+		ideology = paternal_autocrat
+		loyalty = 1.00
+		picture = INDM04
+		head_of_government = political_specialist
+		minister_of_intelligence = naval_intelligence_specialist
+		start_date = 1998.3.19
+	}
+	52004 = {
+		name = "ÂüÄªºº¡¤ĞÁ¸ñ"
+		ideology = social_democrat
+		loyalty = 1.00
+		picture = INDM05
+		head_of_government = money_is_might
+		minister_of_intelligence = research_specialist
+		start_date = 2002.5.22
+	}
+	52005 = {
+		name = "ÑÇÊ©ÍúÌØ¡¤ĞÁ¹ş"
+		ideology = market_liberal
+		loyalty = 1.00
+		picture = INDM06
+		foreign_minister = man_of_the_people
+		start_date = 2002.7.1
+	}
+	52006 = {
+		name = "ÄÉÍş¡¤ĞÁ¸ñ"
+		ideology = social_democrat
+		loyalty = 1.00
+		picture = INDM07
+		foreign_minister = tempered_speaker
+		start_date = 2002.5.22
+	}
+	52007 = {
+		name = "ÂüÄªºº¡¤ĞÁ¸ñ"
+		ideology = social_democrat
+		loyalty = 1.00
+		picture = INDM05
+		foreign_minister = majestic
+		start_date = 2002.11.6
+	}
+	52008 = {
+		name = "ÆÕÀ­ÄÉ²¼¡¤Ä½¿Ë¼ª"
+		ideology = social_democrat
+		loyalty = 1.00
+		picture = INDM03
+		foreign_minister = talented_liar
+		start_date = 2004.10.24
+	}
+	52009 = {
+		name = "Ë÷ÂêÄÉ¹şÀû¡¤ÂíÀ×°¢¡¤¿ËÀïÏ£ÄÉ"
+		ideology = social_democrat
+		loyalty = 1.00
+		picture = INDM08
+		foreign_minister = unexperienced_diplomat
+		start_date = 2005.5.22
+	}
+	52010 = {
+		name = "Èø¶ûÂü¡¤¿âÊ²µÏ"
+		ideology = social_democrat
+		loyalty = 1.00
+		picture = INDM09
+		foreign_minister = good_connections
+		start_date = 2006.10.28
+	}
+	52011 = {
+		name = "ÇÇÖÎ¡¤·ÑÄÏµÂË¹"
+		ideology = market_liberal
+		loyalty = 1.00
+		picture = INDM10
+		armament_minister = smiling_oilman
+		start_date = 2001.1.1
+	}
+	52012 = {
+		name = "¼ÖË¹ÍúÌØ¡¤ĞÁ¸ñ"
+		ideology = paternal_autocrat
+		loyalty = 1.00
+		picture = INDM34
+		armament_minister = military_slob
+		start_date = 2001.1.1
+	}
+	52013 = {
+		name = "ÆÕÀ­ÄÉ²¼¡¤Ä½¿Ë¼ª"
+		ideology = social_democrat
+		loyalty = 1.00
+		picture = INDM03
+		armament_minister = service_enforcer
+		start_date = 2002.5.22
+	}
+	52014 = {
+		name = "A¡¤¿âÀï°²¡¤°²¶«Äá"
+		ideology = social_democrat
+		loyalty = 1.00
+		picture = INDM11
+		armament_minister = military_custom_breaker
+		start_date = 2004.10.24
+	}
+	52015 = {
+		name = "À­¶û¡¤°¢µÂÍßÄá"
+		ideology = paternal_autocrat
+		loyalty = 1.00
+		picture = INDM12
+		minister_of_security = people_shamer
+		start_date = 1998.3.18
+	}
+	52016 = {
+		name = "Ï£·òÀ­¼ª¡¤ÅÁµÙ¶û"
+		ideology = social_democrat
+		loyalty = 1.00
+		picture = INDM13
+		minister_of_security = dismal_enigma
+		start_date = 2002.5.22
+	}
+	52017 = {
+		name = "P¡¤µ¤°ÍÀ­Ä·"
+		ideology = social_democrat
+		loyalty = 1.00
+		picture = INDM14
+		minister_of_security = compassionate_gentleman
+		start_date = 2006.11.30
+	}
+	52018 = {
+		name = "ËÕÏ£¶û¿âÂí¶û¡¤ĞÁµÂ"
+		ideology = social_democrat
+		loyalty = 1.00
+		picture = INDM15
+		minister_of_security = the_cloak_n_dagger_schemer
+		start_date = 2008.7.31
+	}
+	52019 = {
+		name = "°İÁú¡¤ĞÁ¸ñ¡¤Ğ»¿¨ÍßÌØ"
+		ideology = paternal_autocrat
+		loyalty = 1.00
+		picture = INDM16
+		chief_of_staff = general_staffer
+		start_date = 2002.8.19
+	}
+	52020 = {
+		name = "ÄÂº±Ä¬µÂ¡¤¹şÃ×µÂ¡¤°²ÈøÀï"
+		ideology = social_democrat
+		loyalty = 1.00
+		picture = INDM17
+		chief_of_staff = organisation_genius
+		start_date = 2005.8.11
+	}
+	52021 = {
+		name = "Äá¶ûÂí¶û¡¤Ç®µÂ¡¤Î¬¼ª"
+		ideology = paternal_autocrat
+		loyalty = 1.00
+		picture = INDM18
+		chief_of_army = veteran
+		start_date = 2002.12.31
+	}
+	52022 = {
+		name = "ÇÇ¾©µÂ¶û¡¤¼ÖË¹ÍúÌØ¡¤ĞÁ¸ñ"
+		ideology = paternal_autocrat
+		loyalty = 1.00
+		picture = INDM19
+		chief_of_army = school_of_manoeuvre
+		start_date = 2002.1.31
+	}
+	52023 = {
+		name = "µÏÅÁ¿Ë¡¤¿¨ÆÕ¶û"
+		ideology = social_democrat
+		loyalty = 1.00
+		picture = INDM20
+		chief_of_army = armoured_spearhead_doctrine
+		start_date = 2002.9.30
+	}
+	52024 = {
+		name = "Î¬½Ü¡¤¿âÂê¶û¡¤ĞÁ¸ñ"
+		ideology = paternal_autocrat
+		loyalty = 1.00
+		picture = INDM21
+		chief_of_army = old_general
+		start_date = 2008.3.31
+	}
+	52025 = {
+		name = "±È¿ËÀ­Ä·¡¤ĞÁ¸ñ"
+		ideology = social_democrat
+		loyalty = 1.00
+		picture = INDM22
+		chief_of_army = army_reformer
+		start_date = 2008.5.31
+	}
+	52026 = {
+		name = "µÂÎÄµÂÀ­¡¤ĞÁ¸ñ"
+		ideology = paternal_autocrat
+		loyalty = 1.00
+		picture = INDM23
+		chief_of_navy = destroyer_lover
+		start_date = 2001.12.29
+	}
+	52027= {
+		name = "°¢Â×¡¤ÆÕÀ­¿¨Ê²"
+		ideology = paternal_autocrat
+		loyalty = 1.00
+		picture = INDM24
+		chief_of_navy = submarine_lover
+		start_date = 2002.7.31
+	}
+	52028= {
+		name = "ËÕÀ×Ê²¡¤Ã·Ëş"
+		ideology = social_democrat
+		loyalty = 1.00
+		picture = INDM25
+		chief_of_navy = decisive_naval_battle_doctrine
+		start_date = 2005.10.31
+	}
+	52029= {
+		name = "ÄáÂí¶û¡¤¿âÂê¶û¡¤Î¬¶ûÂí"
+		ideology = paternal_autocrat
+		loyalty = 1.00
+		picture = INDM26
+		chief_of_navy = destroyer_lover
+		start_date = 2007.8.31
+	}
+	52030= {
+		name = "µÒÎÄ´ï¡¤¿âÂê¶û¡¤ÇÇÏ£"
+		ideology = social_democrat
+		loyalty = 1.00
+		picture = INDM27
+		chief_of_navy = submarine_lover
+		start_date = 2008.8.31
+	}
+	52031= {
+		name = "Ë¹ÄáÎÖÈøÆÕÄ·¡¤¿ÆË¹ÄÉÉ­ÎÖÃ×"
+		ideology = paternal_autocrat
+		loyalty = 1.00
+		picture = INDM28
+		chief_of_air = master_of_skies
+		start_date = 2001.12.31
+	}
+	52032= {
+		name = "É³ĞÁ¼Ó¡¤ÅÁ¡¤Ì©ÑÇ¼ª"
+		ideology = paternal_autocrat
+		loyalty = 1.00
+		picture = INDM29
+		chief_of_air = air_reformer
+		start_date = 2004.12.31
+	}
+	52033= {
+		name = "·ÆÁ¦¡¤ºòÃ×¡¤Ã·×¿"
+		ideology = social_democrat
+		loyalty = 1.00
+		picture = INDM30
+		chief_of_air = air_reformer
+		start_date = 2005.3.31
+	}
+	52034= {
+		name = "°ÍÌá¡¤ÍßÉ£ÌØ¡¤ÄÎ¿Ë"
+		ideology = social_democrat
+		loyalty = 1.00
+		picture = INDM31
+		chief_of_air = air_superiority_proponent
+		start_date = 2007.3.31
+	}
+	52035= {
+		name = "ÅµÂü¡¤°¢Äá¶û¡¤¿âÂí¶û¡¤²¼ÀÊ"
+		ideology = social_democrat
+		loyalty = 1.00
+		picture = INDM32
+		chief_of_air = veteran
+		start_date = 2008.7.31
+	}
+	52036= {
+		name = "°¢ÀÕÆÕ¡¤ÈÈ¹ş"
+		ideology = paternal_autocrat
+		loyalty = 1.00
+		picture = INDM33
+		chief_of_air = air_superiority_proponent
+		start_date = 2010.12.31
+	}
+}

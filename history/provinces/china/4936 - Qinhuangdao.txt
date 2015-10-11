@@ -1,0 +1,8 @@
+owner = CHC
+controller = CHC
+add_core = CHC
+ 
+infra = 9
+air_base = 2 #Shanhaiquan airbase
+naval_base = 5 #Qinhuangdao port
+points = 1

@@ -1,0 +1,98 @@
+color = { 113  104  76 }
+graphical_culture = Generic
+
+default_templates = {
+	generic_infantry = {
+		infantry_brigade
+		infantry_brigade
+		infantry_brigade
+	}
+	generic_milita = {
+		militia_brigade
+		militia_brigade
+		militia_brigade
+	}
+}
+
+unit_names = {
+}
+
+ministers = {
+	64001 = {
+		name = "Hamad bin Khalifa Al Thani"
+		ideology = market_liberal
+		loyalty = 1.00
+		picture = M64001
+		head_of_state = industrial_beast
+		armament_minister = economic_expert
+		start_date = 2000.1.1
+	}
+	64002 = {
+		name = "Tamim bin Hamad Al Thani"
+		ideology = market_liberal
+		loyalty = 1.00
+		picture = M64002
+		head_of_state = money_is_might
+		armament_minister = benevolent_gentleman
+		start_date = 2000.1.1
+	}
+	64003 = {
+		name = "Abdullah bin Khalifa Al Thani"
+		ideology = market_liberal
+		loyalty = 1.00
+		picture = M64003
+		head_of_government = prince_of_terror
+		start_date = 2000.1.1
+	}
+	64004 = {
+		name = "Hamad bin Jassim bin Jaber Al Thani"
+		ideology = market_liberal
+		loyalty = 1.00
+		picture = M64004
+		foreign_minister = political_specialist
+		start_date = 2000.1.1
+	}
+	64005 = {
+		name = "Abdullah bin Nasser bin Khalifa Al Thani"
+		ideology = market_liberal
+		loyalty = 1.00
+		picture = M64005
+		minister_of_security = back_stabber
+		start_date = 2000.1.1
+	}
+	64006 = {
+		name = "Khalid bin Mohammad Al Attiyah"
+		ideology = market_liberal
+		loyalty = 1.00
+		picture = M65006
+		foreign_minister = ideological_crusader
+		start_date = 2008.1.1
+	}
+	64007 = {
+		name = "Ghanim bin Shaheen Al-Ghanim"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M65007
+		chief_of_staff = intellectualist
+		chief_of_army = decisive_battle_doctrine
+		minister_of_intelligence = dismal_enigma
+		start_date = 2000.1.1
+	}
+	64008 = {
+		name = "Mubarak Mohammed Al Kumait Al Khayarin"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M64008
+		chief_of_air = master_of_skies
+		start_date = 2000.1.1
+	}
+	64009 = {
+		name = "Mohammed Nasser al-Mohanadi"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M64009
+		chief_of_navy = power_projection_doctrine
+		start_date = 2000.1.1
+	}
+	
+}

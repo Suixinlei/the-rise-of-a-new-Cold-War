@@ -1,0 +1,8 @@
+owner = IND
+controller = IND
+add_core = IND
+infra = 6
+industry = 6
+manpower = 20.00
+energy = 16.00
+metal = 31.00

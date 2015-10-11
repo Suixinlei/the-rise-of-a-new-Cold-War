@@ -1,0 +1,19 @@
+ owner = USA
+
+ controller = USA
+
+add_core = IRQ
+add_core = PER
+
+industry = 2
+infra = 7
+manpower = 2.00
+
+crude_oil = 100.00
+energy = 50.00
+metal = 35.00
+rare_materials = 15.00
+air_base = 10 #Basra and Ali airbase
+naval_base = 5
+leadership = 2.50
+points = 1

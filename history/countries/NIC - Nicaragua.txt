@@ -1,0 +1,40 @@
+capital = 9739
+government = republic
+ideology = market_liberal
+alignment = { x = 0 y = 50 }
+neutrality = 80
+national_unity = 70
+oob = "NIC_2000.txt"
+
+popularity = { 
+	national_socialist = 0
+	fascistic = 0
+	paternal_autocrat = 0
+	social_conservative = 5
+	market_liberal = 53
+	social_liberal = 0
+	social_democrat = 43
+	left_wing_radical = 0
+	leninist = 0
+	stalinist = 0
+}
+
+organization = { 
+	national_socialist = 0
+	fascistic = 0
+	paternal_autocrat = 0
+	social_conservative = 15
+	market_liberal = 150
+	social_liberal = 0
+	social_democrat = 129
+	left_wing_radical = 0
+	leninist = 0
+	stalinist = 0
+}
+
+conscription_policy = volunteer_army
+press_laws = free_press
+mobilisation_level = peace_time
+civil_laws = open_society
+service_length = eighteen_months
+economic_policy = limit_intervention

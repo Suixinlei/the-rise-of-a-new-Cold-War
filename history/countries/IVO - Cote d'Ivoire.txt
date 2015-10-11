@@ -1,0 +1,41 @@
+capital = 9937
+government = autocratic_democracy
+ideology = social_democrat
+alignment = { x = 0 y = 50 }
+neutrality = 80
+national_unity = 50
+oob = "IVO_2000.txt"
+
+popularity = { 
+	national_socialist = 0
+	fascistic = 0
+	paternal_autocrat = 0
+	social_conservative = 42
+	market_liberal = 0
+	social_liberal = 2
+	social_democrat = 43
+	left_wing_radical = 1
+	leninist = 0
+	stalinist = 0
+}
+
+organization = { 
+	national_socialist = 0
+	fascistic = 50
+	paternal_autocrat = 50
+	social_conservative = 50
+	market_liberal = 0
+	social_liberal = 6
+	social_democrat = 50
+	left_wing_radical = 3
+	leninist = 0
+	stalinist = 0
+}
+
+conscription_policy = military_service
+press_laws = free_press
+mobilisation_level = low_mobilisation
+civil_laws = open_society
+economic_policy = lais_fair
+service_length = six_months
+

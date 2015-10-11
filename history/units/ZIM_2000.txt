@@ -1,0 +1,76 @@
+theatre = {
+	name = "Zimbabwe Defence Forces"
+	location = 10298
+	regiment = { type = hq_brigade name = "Zimbabwe Defence Forces" historical_model = 0 }
+	corps = {
+		name = "Zimbabwe National Army"
+		location = 10298
+		regiment = { type = hq_brigade name = "Army HQ" historical_model = 0 }
+		division = {
+			is_reserve = yes
+			name = "1st Brigade"
+			location = 10298
+			regiment = { type = infantry_brigade name = "11th Battalion" historical_model = 0 }
+			regiment = { type = infantry_brigade name = "12th Battalion" historical_model = 0 }
+			regiment = { type = infantry_brigade name = "13th Battalion" historical_model = 0 }
+		}
+		division = {
+			is_reserve = yes
+			name = "2nd Brigade"
+			location = 10298
+			regiment = { type = infantry_brigade name = "21st Battalion" historical_model = 0 }
+			regiment = { type = infantry_brigade name = "22nd Battalion" historical_model = 0 }
+			regiment = { type = infantry_brigade name = "23rd Battalion" historical_model = 0 }
+		}
+		division = {
+			is_reserve = yes
+			name = "3rd Brigade"
+			location = 10298
+			regiment = { type = infantry_brigade name = "31st Battalion" historical_model = 0 }
+			regiment = { type = infantry_brigade name = "32nd Battalion" historical_model = 0 }
+			regiment = { type = infantry_brigade name = "33rd Battalion" historical_model = 0 }
+		}
+		division = {
+			is_reserve = yes
+			name = "4th Brigade"
+			location = 10298
+			regiment = { type = infantry_brigade name = "41st Battalion" historical_model = 0 }
+			regiment = { type = infantry_brigade name = "42nd Battalion" historical_model = 0 }
+			regiment = { type = infantry_brigade name = "43rd Battalion" historical_model = 0 }
+		}
+		division = {
+			is_reserve = yes
+			name = "5th Brigade"
+			location = 10298
+			regiment = { type = infantry_brigade name = "51st Battalion" historical_model = 0 }
+			regiment = { type = infantry_brigade name = "52nd Battalion" historical_model = 0 }
+			regiment = { type = infantry_brigade name = "53rd Battalion" historical_model = 0 }
+		}
+		division = {
+			is_reserve = yes
+			name = "Mobile Brigade"
+			location = 10310
+			regiment = { type = armor_brigade name = "Armor Regiment" historical_model = 0 }
+			regiment = { type = mechanized_brigade name = "Mechanized Regiment" historical_model = 0 }
+		}
+		division = {
+			is_reserve = yes
+			name = "Commando Regiment"
+			location = 10310
+			regiment = { type = special_forces_brigade name = "Commando Regiment" historical_model = 0 }
+		}
+		division = {
+			is_reserve = yes
+			name = "Parachute Regiment"
+			location = 10310
+			regiment = { type = paratrooper_brigade name = "Parachute Regiment" historical_model = 0 }
+		}
+	}
+	
+	air = {
+	name = "Zimbabwe Air Force"
+	location = 10298
+	base = 10298
+	wing = { type = interceptor name = "1st Fighter Wing" historical_model = 0 }
+	}
+}

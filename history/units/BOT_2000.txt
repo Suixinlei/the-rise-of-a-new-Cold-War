@@ -1,0 +1,53 @@
+theatre = {
+	name = "Botswana Defence Force"
+	location = 10407
+	regiment = { type = hq_brigade name = "Botswana Defence Force" historical_model = 0 }
+	corps = {
+		name = "Botswana Ground Force"
+		location = 10407
+		regiment = { type = hq_brigade name = "Ground Force HQ" historical_model = 0 }
+		division = {
+			is_reserve = yes
+			name = "1st Armoured Brigade"
+			location = 10407
+			regiment = { type = armor_brigade name = "11th Armoured Battalion" historical_model = 0 }
+			regiment = { type = armor_brigade name = "12th Armoured Battalion" historical_model = 0 }
+		}
+		division = {
+			is_reserve = yes
+			name = "1st Infantry Brigade"
+			location = 10407
+			regiment = { type = mechanized_brigade name = "11th Infantry Battalion" historical_model = 0 }
+			regiment = { type = mechanized_brigade name = "12th Infantry Battalion" historical_model = 0 }
+		}
+		division = {
+			is_reserve = yes
+			name = "2nd Infantry Brigade"
+			location = 8023
+			regiment = { type = infantry_brigade name = "21st Infantry Battalion" historical_model = 0 }
+			regiment = { type = infantry_brigade name = "22nd Infantry Battalion" historical_model = 0 }
+		}
+		division = {
+			is_reserve = yes
+			name = "3rd Infantry Brigade"
+			location = 7995
+			regiment = { type = infantry_brigade name = "31st Infantry Battalion" historical_model = 0 }
+			regiment = { type = infantry_brigade name = "32nd Infantry Battalion" historical_model = 0 }
+		}
+		division = {
+			is_reserve = yes
+			name = "1st Commando Regiment"
+			location = 10407
+			regiment = { type = special_forces_brigade name = "1st Commando Regiment" historical_model = 0 }
+		}
+	}
+	
+	air = {
+	name = "Z28 Fighter Squadron"
+	location = 8023
+	base = 8023
+	wing = { type = multi_role name = "Z28 Fighter Squadron" historical_model = 0 }
+	}
+	
+}
+		

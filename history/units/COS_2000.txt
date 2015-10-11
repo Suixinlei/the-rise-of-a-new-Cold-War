@@ -1,0 +1,5 @@
+theatre = {
+	name = "Costa Rican Public Forces"
+	location = 7721
+	regiment = { type = hq_brigade name = "Costa Rican Public Forces" historical_model = 0 }
+}

@@ -1,0 +1,16 @@
+controller = CHC
+owner = CHC
+
+ 
+ 
+add_core = CHC
+infra = 10
+industry = 8
+manpower = 17.00
+rare_materials = 4.00
+metal = 20.00
+energy = 30.00
+air_base = 5 #Yangcun airbase
+naval_base = 10 #Tianjin port
+leadership = 1.00
+points = 1

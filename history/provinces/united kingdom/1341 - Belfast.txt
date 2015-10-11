@@ -1,0 +1,11 @@
+owner = ENG
+controller = ENG
+add_core = ENG
+add_core = NIR
+
+infra = 9
+manpower = 0.5
+air_base = 2 #Belfast airport
+naval_base = 7 #Belfast port
+leadership = 2.00
+points = 1

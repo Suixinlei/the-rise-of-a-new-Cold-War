@@ -1,0 +1,8 @@
+owner = ALG
+controller = ALG
+add_core = ALG
+
+infra = 6
+
+air_base = 1 #Annaba airbase
+points = 1

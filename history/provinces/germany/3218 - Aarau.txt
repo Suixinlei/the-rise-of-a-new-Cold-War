@@ -1,0 +1,6 @@
+owner = SCH
+controller = SCH
+add_core = SCH
+energy = 8.00
+infra = 8
+

@@ -1,0 +1,19 @@
+owner = CHC
+
+controller = CHC
+
+ 
+add_core = CHC
+
+
+infra = 10
+
+industry = 10
+energy = 30.00
+manpower = 17.00
+rare_materials = 4.00
+metal = 20.00
+air_base = 10 #Shanghai airbase
+naval_base = 10 #Shanghai port
+leadership = 3.00
+points = 1

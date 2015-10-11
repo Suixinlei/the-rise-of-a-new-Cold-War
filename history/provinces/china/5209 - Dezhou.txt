@@ -1,0 +1,10 @@
+owner = CHC
+
+controller = CHC
+
+ 
+add_core = CHC
+infra = 9
+crude_oil = 10.00
+air_base = 2 #Jiuguchen airbase
+points = 1

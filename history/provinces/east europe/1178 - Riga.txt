@@ -1,0 +1,11 @@
+owner = LAT
+controller = LAT
+add_core = LAT
+
+
+infra = 8
+manpower = 0.3
+air_base = 3 #Riga airport and Lielvarde airbase
+naval_base = 7 #Riga port
+leadership = 3.00
+points = 1

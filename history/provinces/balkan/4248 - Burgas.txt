@@ -1,0 +1,7 @@
+owner = BUL
+controller = BUL
+add_core = BUL
+
+infra = 8
+air_base = 3 #Burgas airport and Bezmer airbase
+naval_base = 4 #Burgas port

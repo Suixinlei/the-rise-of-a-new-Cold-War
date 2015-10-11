@@ -1,0 +1,11 @@
+owner = KOR
+
+controller = KOR
+
+add_core = KOR
+industry = 8
+infra = 6
+land_fort = 5
+metal = 7.00
+air_base = 10 #Incheon airport
+naval_base = 5 #Incheon port

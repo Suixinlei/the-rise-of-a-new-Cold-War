@@ -1,0 +1,6 @@
+owner = UZB
+controller = UZB
+add_core = UZB
+manpower = 3.9
+infra = 6
+crude_oil = 1.00

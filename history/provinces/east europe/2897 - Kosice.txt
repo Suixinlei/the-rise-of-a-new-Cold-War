@@ -1,0 +1,7 @@
+owner = SLO
+controller = SLO
+add_core = SLO
+
+manpower = 0.4
+
+infra = 7

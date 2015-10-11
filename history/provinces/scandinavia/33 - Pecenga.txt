@@ -1,0 +1,10 @@
+owner = SOV
+controller = SOV
+add_core = SOV
+
+terrain = arctic
+
+infra = 2
+
+air_base = 1 #Pechenga airbase
+points = 1

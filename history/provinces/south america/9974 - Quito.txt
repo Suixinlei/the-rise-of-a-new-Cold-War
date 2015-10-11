@@ -1,0 +1,9 @@
+owner = ECU
+controller = ECU
+add_core = ECU
+infra = 6
+energy = 2.00
+air_base = 7 #Cotopaxi and Eloy Alfaro airbase and Quito airport
+leadership = 3.00
+points = 1
+industry = 2

@@ -1,0 +1,25 @@
+theatre = {
+	name = "Ozbrojené Sily Slovenskej Republiky"
+	location = 3027
+	regiment = { type = hq_brigade name = "Ozbrojené Sily Slovenskej Republiky" historical_model = 2 }
+	corps = {
+		name = "Pozemné Sily Slovenskej Republiky"
+		location = 2827
+		regiment = { type = hq_brigade name = "Pozemné Sily Slovenskej Republiky" historical_model = 2 }
+		division = {
+			is_reserve = yes
+			name = "1. Mechanizované Brigáda"
+			location = 2960
+			regiment = { type = mechanized_brigade name = "11. Mechanizovaný Prápor 'Jána Francisciho'" historical_model = 0 }
+			regiment = { type = mechanized_brigade name = "12. Mechanizovaný Prápor" historical_model = 0 }
+			regiment = { type = mechanized_brigade name = "13. Mechanizovaný Prápor" historical_model = 0 }
+		}
+		division = {
+			is_reserve = yes
+			name = "2. Mechanizované Brigáda"
+			location = 2766
+			regiment = { type = mechanized_brigade name = "21. Mechanizovaný Prápor" historical_model = 0 }
+			regiment = { type = mechanized_brigade name = "22. Mechanizovaný Prápor 'Generál Mikulása Markusa'" historical_model = 0 }
+		}
+	}
+}

@@ -1,0 +1,14 @@
+owner = HOL
+controller = HOL
+add_core = HOL
+industry = 4
+terrain = plains
+manpowr = 10.00
+metal = 5.00
+rare_materials = 3.00
+infra = 10
+
+air_base = 10 #Amsterdam airport
+naval_base = 10 #Amsterdam port
+leadership = 2.50
+points = 1

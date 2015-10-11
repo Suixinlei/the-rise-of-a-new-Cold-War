@@ -1,0 +1,529 @@
+theatre = {
+	name = "Forze Armate Italiane"
+	location = 4549
+	regiment = { type = hq_brigade name = "Forze Armate Italiane" historical_model = 2 }
+	armygroup = {
+		name = "Esercito Italiano"
+		location = 4549
+		regiment = { type = hq_brigade name = "Esercito Italiano" historical_model = 2 }
+		army = {
+			name = "Comando Truppe Alpine"
+			location = 3428
+			regiment = { type = hq_brigade name = "Comando Truppe Alpine" historical_model = 2 }
+			division = {
+				is_reserve = yes
+				name = "4?Reggimento Alpini Paracadutist"
+				location = 3695
+				regiment = { type = paratrooper_brigade name = "Alpini Battalion 'Monte Cervino'" historical_model = 2 }
+			}
+			corps = {
+				name = "Brigata Alpina 'Taurinense'"
+				location = 3827
+				regiment = { type = hq_brigade name = "Brigata Alpina 'Taurinense'" historical_model = 2 }
+				division = {
+					is_reserve = yes
+					name = "1st Cavalry Regiment 'Nizza Cavalleria'"
+					location = 3898
+					regiment = { type = mechanized_brigade name = "11th Cavalry Battalion" historical_model = 2 }
+					regiment = { type = mechanized_brigade name = "12th Cavalry Battalion" historical_model = 2 }
+					regiment = { type = mechanized_brigade name = "13th Cavalry Battalion" historical_model = 2 }
+				}
+				division = {
+					is_reserve = yes
+					name = "2?Reggimento Alpini 'Btg Saluzzo'"
+					location = 3970
+					regiment = { type = mountain_brigade name = "Battaglione Alpini 'Saluzzo'" historical_model = 2 }
+					regiment = { type = artillery_brigade name = "1?Reggimento Artiglieria da Montagna" historical_model = 0 }
+				}
+				division = {
+					is_reserve = yes
+					name = "3?Reggimento Alpini 'Btg Susa'"
+					location = 3898
+					regiment = { type = mountain_brigade name = "Battaglione Alpini 'Susa'" historical_model = 2 }
+					regiment = { type = engineer_brigade name = "32?Reggimento Genio Guastatori Alpino" historical_model = 2 }
+				}
+				division = {
+					is_reserve = yes
+					name = "9?Reggimento Alpini 'Btg l'Aquila'"
+					location = 4424
+					regiment = { type = mountain_brigade name = "Battaglione Alpini 'L'Aguila'" historical_model = 2 }
+				}
+			}
+			corps = {
+				name = "Brigata Alpina 'Julia'"
+				location = 3562
+				regiment = { type = hq_brigade name = "Brigata Alpina 'Julia'" historical_model = 2 }
+				division = {
+					is_reserve = yes
+					name = "5?Reggimento Alpini 'Btg Morbegno'"
+					location = 3428
+					regiment = { type = mountain_brigade name = "Battaglione Alpini 'Morbegno'" historical_model = 2 }
+					regiment = { type = artillery_brigade name = "3?Reggimento Artiglieria da Montagna" historical_model = 0 }
+				}
+				division = {
+					is_reserve = yes
+					name = "7?Reggimento Alpini 'Btg Feltre'"
+					location = 3495
+					regiment = { type = mountain_brigade name = "Battaglione Alpini 'Feltre'" historical_model = 2 }
+					regiment = { type = engineer_brigade name = "2?Reggimento Genio Guastatori Alpino" historical_model = 2 }
+				}
+				division = {
+					is_reserve = yes
+					name = "8?Reggimento Alpini 'Btg Tolmezzo'"
+					location = 3563
+					regiment = { type = mountain_brigade name = "Battaglione Alpini 'Tolmezzo'" historical_model = 2 }
+				}
+			}
+		}
+		army = {
+			name = "Comando Forze di Difesa 1"
+			location = 3696
+			regiment = { type = hq_brigade name = "Comando Forze di Difesa 1" historical_model = 2 }
+			corps = {
+				name = "Brigata Corazzata 'Ariete'"
+				location = 3696
+				regiment = { type = hq_brigade name = "Brigata Corazzata Ariete" historical_model = 2 }
+				division = {
+					is_reserve = yes
+					name = "4?Reggimento Corrazzata"
+					location = 3694
+					regiment = { type = armor_brigade name = "41?Battaglione Corrazzata" historical_model = 1 }
+					regiment = { type = armor_brigade name = "42?Battaglione Corrazzata" historical_model = 1 }
+					regiment = { type = armor_brigade name = "43?Battaglione Corrazzata" historical_model = 1 }
+					regiment = { type = sp_artillery_brigade name = "132?Reggimento Auto Artiglieria a Propulsione 'Ariete'" historical_model = 0 }
+				}
+				division = {
+					is_reserve = yes
+					name = "32?Reggimento Corrazzata"
+					location = 3562
+					regiment = { type = armor_brigade name = "321?Battaglione Corrazzata" historical_model = 1 }
+					regiment = { type = armor_brigade name = "322?Battaglione Corrazzata" historical_model = 1 }
+					regiment = { type = armor_brigade name = "323?Battaglione Corrazzata" historical_model = 1 }
+				}
+				division = {
+					is_reserve = yes
+					name = "132?Reggimento Corrazzata"
+					location = 3562
+					regiment = { type = armor_brigade name = "131?Battaglione Corrazzata" historical_model = 1 }
+					regiment = { type = armor_brigade name = "132?Battaglione Corrazzata" historical_model = 1 }
+					regiment = { type = armor_brigade name = "133?Battaglione Corrazzata" historical_model = 1 }
+				}
+				division = {
+					is_reserve = yes
+					name = "11?Reggimento Meccanizzato Bersaglieri"
+					location = 3562
+					regiment = { type = mechanized_brigade name = "111?Battaglione Meccanizzato" historical_model = 2 }
+					regiment = { type = mechanized_brigade name = "112?Battaglione Meccanizzato" historical_model = 2 }
+					regiment = { type = mechanized_brigade name = "113?Battaglione Meccanizzato" historical_model = 2 }
+					regiment = { type = engineer_brigade name = "10?Reggimento Genio Guastatori" historical_model = 2 }
+				}
+			}
+			corps = {
+				name = "Brigata Paracadutisti 'Folgore'"
+				location = 4231
+				regiment = { type = hq_brigade name = "Brigata Paracadutisti 'Folgore'" historical_model = 2 }
+				division = {
+					is_reserve = yes
+					name = "9?Reggimento d'Assalto Paracadutisti 'Col Moschin'"
+					location = 4231
+					regiment = { type = special_forces_brigade name = "1?Battaglione Incursori" historical_model = 2 }
+				}
+				division = {
+					is_reserve = yes
+					name = "183?Reggimento Paracadutisti 'Nembo'"
+					location = 4041
+					regiment = { type = paratrooper_brigade name = "181?Battaglione" historical_model = 2 }
+					regiment = { type = paratrooper_brigade name = "182?Battaglione" historical_model = 2 }
+					regiment = { type = paratrooper_brigade name = "183?Battaglione" historical_model = 2 }
+					regiment = { type = engineer_brigade name = "8?Reggimento Paracadutisti Genio Guastatori" historical_model = 2 }
+				}
+				division = {
+					is_reserve = yes
+					name = "186?Reggimento Paracadutisti 'Nembo'"
+					location = 4232
+					regiment = { type = paratrooper_brigade name = "184?Battaglione" historical_model = 2 }
+					regiment = { type = paratrooper_brigade name = "185?Battaglione" historical_model = 2 }
+					regiment = { type = paratrooper_brigade name = "186?Battaglione" historical_model = 2 }
+				}
+				division = {
+					is_reserve = yes
+					name = "187?Reggimento Paracadutisti 'Nembo'"
+					location = 4231
+					regiment = { type = paratrooper_brigade name = "187?Battaglione" historical_model = 2 }
+					regiment = { type = paratrooper_brigade name = "188?Battaglione" historical_model = 2 }
+					regiment = { type = paratrooper_brigade name = "189?Battaglione" historical_model = 2 }
+				}
+			}
+			corps = {
+				name = "Brigata Aeromobile 'Friuli'"
+				location = 3903
+				regiment = { type = hq_brigade name = "Brigata Aeromobile 'Friuli'" historical_model = 2 }
+				division = {
+					is_reserve = yes
+					name = "3?Reggimento Cavalleria 'Savoia Cavalleria'"
+					location = 4360
+					regiment = { type = mechanized_brigade name = "31?Battaglione" historical_model = 2 }
+					regiment = { type = mechanized_brigade name = "32?Battaglione" historical_model = 2 }
+					regiment = { type = mechanized_brigade name = "33?Battaglione" historical_model = 2 }
+				}
+				division = {
+					is_reserve = yes
+					name = "66?Reggimento Aria Assalto Infanteria 'Trieste'"
+					location = 4042
+					regiment = { type = air_cavalry_brigade name = "661?Battaglione" historical_model = 2 }
+					regiment = { type = air_cavalry_brigade name = "662?Battaglione" historical_model = 2 }
+					regiment = { type = attack_helicopter_brigade name = "5?Reggimento Aviazione Esercito" historical_model = 0 }
+					regiment = { type = attack_helicopter_brigade name = "7?Reggimento Aviazione Esercito" historical_model = 0 }
+				}
+			}
+			corps = {
+				name = "Brigata di Cavalleria 'Pozzuolo del Friuli'"
+				location = 3563
+				regiment = { type = hq_brigade name = "Brigata di Cavalleria 'Pozzuolo del Friuli'" historical_model = 2 }
+				division = {
+					is_reserve = yes
+					name = "2?Reggimento Cavalleria 'Piemonte Cavalleria'"
+					location = 3630
+					regiment = { type = mechanized_brigade name = "21?Battaglione" historical_model = 2 }
+					regiment = { type = mechanized_brigade name = "22?Battaglione" historical_model = 2 }
+					regiment = { type = mechanized_brigade name = "23?Battaglione" historical_model = 2 }
+				}
+				division = {
+					is_reserve = yes
+					name = "4?Reggimento Cavalleria 'Genova Cavalleria'"
+					location = 3562
+					regiment = { type = mechanized_brigade name = "41?Battaglione" historical_model = 2 }
+					regiment = { type = mechanized_brigade name = "42?Battaglione" historical_model = 2 }
+					regiment = { type = mechanized_brigade name = "43?Battaglione" historical_model = 2 }
+				}
+				division = {
+					is_reserve = yes
+					name = "5?Reggimento Cavalleria 'Lancieri di Novara'"
+					location = 3562
+					regiment = { type = mechanized_brigade name = "51?Battaglione" historical_model = 2 }
+					regiment = { type = mechanized_brigade name = "52?Battaglione" historical_model = 2 }
+					regiment = { type = mechanized_brigade name = "53?Battaglione" historical_model = 2 }
+					regiment = { type = artillery_brigade name = "Reggimento Artiglieria a Cavallo 'Vol骾re'" historical_model = 0 }
+				}
+				division = {
+					is_reserve = yes
+					name = "Reggimento Lagunari 'Serenissima'"
+					location = 3696
+					regiment = { type = marine_brigade name = "1?Battaglione" historical_model = 2 }
+					regiment = { type = marine_brigade name = "2?Battaglione" historical_model = 2 }
+					regiment = { type = marine_brigade name = "3?Battaglione" historical_model = 2 }
+					regiment = { type = engineer_brigade name = "3?Reggimento Genio Guastatori" historical_model = 2 }
+				}
+			}
+		}
+		army = {
+			name = "Comando Forze di Difesa 2"
+			location = 4765
+			regiment = { type = hq_brigade name = "Comando Forze di Difesa 2" historical_model = 2 }
+			corps = {
+				name = "Brigata Bersaglieri 'Garibaldi'"
+				location = 4713
+				regiment = { type = hq_brigade name = "Brigata Bersaglieri 'Garibaldi'" historical_model = 2 }
+				division = {
+					is_reserve = yes
+					name = "131?Reggimento Corrazzata"
+					location = 4815
+					regiment = { type = armor_brigade name = "131?Battaglione" historical_model = 1 }
+					regiment = { type = armor_brigade name = "132?Battaglione" historical_model = 1 }
+					regiment = { type = armor_brigade name = "133?Battaglione" historical_model = 1 }
+				}
+				division = {
+					is_reserve = yes
+					name = "19?Reggimento Cavalleria 'Cavalleggeri Guide'"
+					location = 4815
+					regiment = { type = mechanized_brigade name = "191?Battaglione" historical_model = 2 }
+					regiment = { type = mechanized_brigade name = "192?Battaglione" historical_model = 2 }
+					regiment = { type = mechanized_brigade name = "193?Battaglione" historical_model = 2 }
+				}
+				division = {
+					is_reserve = yes
+					name = "1?Reggimento Bersaglieri"
+					location = 5074
+					regiment = { type = mechanized_brigade name = "11?Battaglione" historical_model = 2 }
+					regiment = { type = mechanized_brigade name = "12?Battaglione" historical_model = 2 }
+					regiment = { type = mechanized_brigade name = "13?Battaglione" historical_model = 2 }
+					regiment = { type = sp_artillery_brigade name = "8?Reggimento Auto Artiglieria a Propulsione 'Pasubio'" historical_model = 0 }
+				}
+				division = {
+					is_reserve = yes
+					name = "8?Reggimento Bersaglieri"
+					location = 4713
+					regiment = { type = mechanized_brigade name = "81?Battaglione" historical_model = 2 }
+					regiment = { type = mechanized_brigade name = "82?Battaglione" historical_model = 2 }
+					regiment = { type = mechanized_brigade name = "83?Battaglione" historical_model = 2 }
+					regiment = { type = engineer_brigade name = "21?Reggimento Genio Gustatori" historical_model = 2 }
+				}
+			}
+			corps = {
+				name = "Brigata Meccanizata 'Granatieri di Sardegna'"
+				location = 4549
+				regiment = { type = hq_brigade name = "Brigata Meccanizata 'Granatieri di Sardegna'" historical_model = 2 }
+				division = {
+					is_reserve = yes
+					name = "1?Reggimento Meccanizata Infateria 'Granatieri di Sardegna'"
+					location = 4549
+					regiment = { type = mechanized_brigade name = "11?Battaglione" historical_model = 2 }
+					regiment = { type = mechanized_brigade name = "12?Battaglione" historical_model = 2 }
+					regiment = { type = mechanized_brigade name = "13?Battaglione" historical_model = 2 }
+					regiment = { type = sp_artillery_brigade name = "33?Reggimento Auto Artiglieria a Propulsione 'Acqui'" historical_model = 0 }
+				}
+				division = {
+					is_reserve = yes
+					name = "8?Reggimento Cavalleria 'Lancieri di Montebello'"
+					location = 4549
+					regiment = { type = mechanized_brigade name = "81?Battaglione" historical_model = 2 }
+					regiment = { type = mechanized_brigade name = "82?Battaglione" historical_model = 2 }
+					regiment = { type = mechanized_brigade name = "83?Battaglione" historical_model = 2 }
+				}
+			}
+			corps = {
+				name = "Brigata Meccanizata 'Pinerolo'"
+				location = 4768
+				regiment = { type = hq_brigade name = "Brigata Meccanizata 'Pinerolo'" historical_model = 2 }
+				division = {
+					is_reserve = yes
+					name = "7?Reggimento Bersaglieri"
+					location = 4768
+					regiment = { type = mechanized_brigade name = "71?Battaglione" historical_model = 2 }
+					regiment = { type = mechanized_brigade name = "72?Battaglione" historical_model = 2 }
+					regiment = { type = mechanized_brigade name = "73?Battaglione" historical_model = 2 }
+				}
+				division = {
+					is_reserve = yes
+					name = "9?Reggimento Infanteria 'Bari'"
+					location = 4767
+					regiment = { type = mechanized_brigade name = "91?Battaglione" historical_model = 2 }
+					regiment = { type = mechanized_brigade name = "92?Battaglione" historical_model = 2 }
+					regiment = { type = mechanized_brigade name = "93?Battaglione" historical_model = 2 }
+					regiment = { type = sp_artillery_brigade name = "21?Reggimento Auto Artiglieria a Propulsione 'Trieste'" historical_model = 0 }
+				}
+				division = {
+					is_reserve = yes
+					name = "82?Reggimento Infanteria 'Torino'"
+					location = 4767
+					regiment = { type = mechanized_brigade name = "821?Battaglione" historical_model = 2 }
+					regiment = { type = mechanized_brigade name = "822?Battaglione" historical_model = 2 }
+					regiment = { type = mechanized_brigade name = "823?Battaglione" historical_model = 2 }
+					regiment = { type = engineer_brigade name = "11?Reggimento Genio Gustatori" historical_model = 2 }
+				}
+			}
+			corps = {
+				name = "Brigata Meccanizzata 'Aosta'"
+				location = 5236
+				regiment = { type = hq_brigade name = "Brigata Meccanizzata 'Aosta'" historical_model = 2 }
+				division = {
+					is_reserve = yes
+					name = "6?Reggimento Cavalleria 'Lancieri d'Aosta'"
+					location = 5233
+					regiment = { type = mechanized_brigade name = "61?Battaglione" historical_model = 2 }
+					regiment = { type = mechanized_brigade name = "62?Battaglione" historical_model = 2 }
+					regiment = { type = mechanized_brigade name = "63?Battaglione" historical_model = 2 }
+					regiment = { type = engineer_brigade name = "4?Reggimento Genio Gustatori" historical_model = 2 }
+				}
+				division = {
+					is_reserve = yes
+					name = "6?Reggimento Bersaglieri"
+					location = 5266
+					regiment = { type = mechanized_brigade name = "61?Battaglione" historical_model = 2 }
+					regiment = { type = mechanized_brigade name = "62?Battaglione" historical_model = 2 }
+					regiment = { type = mechanized_brigade name = "63?Battaglione" historical_model = 2 }
+					regiment = { type = sp_artillery_brigade name = "24?Reggimento Auto Artiglieria a Propulsione 'Peloritani'" historical_model = 0 }
+				}
+				division = {
+					is_reserve = yes
+					name = "5?Reggimento Infanteria 'Aosta'"
+					location = 5236
+					regiment = { type = mechanized_brigade name = "51?Battaglione" historical_model = 2 }
+					regiment = { type = mechanized_brigade name = "52?Battaglione" historical_model = 2 }
+					regiment = { type = mechanized_brigade name = "53?Battaglione" historical_model = 2 }
+				}
+				division = {
+					is_reserve = yes
+					name = "62?Reggimento Infanteria 'Sicilia'"
+					location = 5269
+					regiment = { type = mechanized_brigade name = "621?Battaglione" historical_model = 2 }
+					regiment = { type = mechanized_brigade name = "622?Battaglione" historical_model = 2 }
+					regiment = { type = mechanized_brigade name = "623?Battaglione" historical_model = 2 }
+				}
+			}
+			corps = {
+				name = "Brigata Meccanizzata 'Sassari'"
+				location = 4712
+				regiment = { type = hq_brigade name = "Brigata Meccanizzata 'Sassari'" historical_model = 2 }
+				division = {
+					is_reserve = yes
+					name = "3?Reggimento Bersaglieri"
+					location = 4914
+					regiment = { type = mechanized_brigade name = "31?Battaglione" historical_model = 2 }
+					regiment = { type = mechanized_brigade name = "32?Battaglione" historical_model = 2 }
+					regiment = { type = mechanized_brigade name = "33?Battaglione" historical_model = 2 }
+				}
+				division = {
+					is_reserve = yes
+					name = "151?Reggimento Infanteria 'Sassari'"
+					location = 4914
+					regiment = { type = mechanized_brigade name = "151?Battaglione" historical_model = 2 }
+					regiment = { type = mechanized_brigade name = "152?Battaglione" historical_model = 2 }
+					regiment = { type = mechanized_brigade name = "153?Battaglione" historical_model = 2 }
+				}
+				division = {
+					is_reserve = yes
+					name = "152?Reggimento Infanteria 'Sassari'"
+					location = 4712
+					regiment = { type = mechanized_brigade name = "151?Battaglione" historical_model = 2 }
+					regiment = { type = mechanized_brigade name = "152?Battaglione" historical_model = 2 }
+					regiment = { type = mechanized_brigade name = "153?Battaglione" historical_model = 2 }
+					regiment = { type = engineer_brigade name = "5?Reggimento Genio Gustatori" historical_model = 2 }
+				}	
+			}
+		}
+	}
+	
+	navy = {
+	name = "意大利海军"
+	base = 4765
+	location = 4765
+	ship = { type = transport_ship name = "第一运输舰" historical_model = 0 }
+	ship = { type = transport_ship name = "第二运输舰" historical_model = 0 }
+	ship = { type = invasion_transport_ship name = "登陆" historical_model = 0 }
+	}
+	
+	navy = {
+	name = "Comando Forze d'Altura"
+	base = 4768
+	location = 4768
+	ship = { type = escort_carrier name = "加里波第" historical_model = 0 
+		air = {
+			location = 4768
+			wing = { type = cag name = "加富尔空军联队" historical_model = 0 }
+		}
+	}
+	ship = { type = heavy_cruiser name = "西风" historical_model = 0 }
+	ship = { type = destroyer name = "路易吉·杜兰德·德拉佩讷" historical_model = 1 }
+	ship = { type = destroyer name = "弗朗西斯科明·波力" historical_model = 1 }
+	ship = { type = assault_ship name = "圣乔治" historical_model = 0 }
+	ship = { type = assault_ship name = "圣马可" historical_model = 0 }
+	ship = { type = assault_ship name = "圣朱斯托" historical_model = 0 }
+	}
+	
+	navy = {
+	name = "COMSQUAFR 1"
+	base = 4768
+	location = 4768
+	ship = { type = heavy_cruiser name = "信风" historical_model = 0 }
+	ship = { type = heavy_cruiser name = "欧罗" historical_model = 0 }
+	ship = { type = heavy_cruiser name = "和风" historical_model = 0 }	
+	ship = { type = heavy_cruiser name = "炮手" historical_model = 0 }
+	ship = { type = heavy_cruiser name = "博萨利" historical_model = 0 }
+	ship = { type = heavy_cruiser name = "格雷纳迪尔" historical_model = 0 }
+	ship = { type = heavy_cruiser name = "阿瓦利" historical_model = 0 }
+	}
+	
+	navy = {
+	name = "COMSQUAFR 2"
+	base = 3971
+	location = 3971
+	ship = { type = heavy_cruiser name = "西北风" historical_model = 0 }
+	ship = { type = heavy_cruiser name = "东北风" historical_model = 0 }
+	ship = { type = heavy_cruiser name = "利贝乔" historical_model = 0 }
+	ship = { type = heavy_cruiser name = "西罗科" historical_model = 0 }
+	}
+	
+	navy = {
+	name = "COMSQUACORV"
+	base = 5236
+	location = 5236
+	ship = { type = light_cruiser name = "密涅瓦" historical_model = 0 }
+	ship = { type = light_cruiser name = "达内德" historical_model = 0 }
+	ship = { type = light_cruiser name = "尼亚" historical_model = 0 }
+	ship = { type = light_cruiser name = "斯芬克斯" historical_model = 0 }
+	ship = { type = light_cruiser name = "德赖厄德" historical_model = 0 }
+	ship = { type = light_cruiser name = "西米拉" historical_model = 0 }
+	ship = { type = light_cruiser name = "凤凰" historical_model = 0 }
+	ship = { type = light_cruiser name = "锡比拉" historical_model = 0 }
+	}
+	
+	navy = {
+	name = "COMSQUAPAT 1"
+	base = 5236
+	location = 5236
+	ship = { type = patrol_boat name = "仙后座" historical_model = 0 }
+	ship = { type = patrol_boat name = "天秤座" historical_model = 0 }
+	ship = { type = patrol_boat name = "角宿一" historical_model = 0 }
+	ship = { type = patrol_boat name = "维加" historical_model = 0 }
+	}
+	
+	navy = {
+	name = "COMSQUAPAT 2"
+	base = 5236
+	location = 5236
+	ship = { type = patrol_boat name = "天狼星" historical_model = 3 }
+	ship = { type = patrol_boat name = "猎户座" historical_model = 3 }
+	}
+	
+	navy = {
+	name = "COMGRUPSOM"
+	base = 4768
+	location = 4768
+	ship = { type = submarine name = "普瑞莫·朗伯德" historical_model = 0 }
+	ship = { type = submarine name = "詹弗兰科·戈扎纳·普里亚罗贾" historical_model = 0 }
+	ship = { type = submarine name = "萨尔瓦托雷·佩洛西" historical_model = 0 }
+	ship = { type = submarine name = "朱利安·普里尼" historical_model = 0 }
+	}
+	
+	air = {
+	name = "32?Stormo Armando Boetto"
+	base = 4662
+	location = 4662
+	wing = { type = cas name = "13?Gruppo FBA" historical_model = 0 }
+	}
+	
+	air = {
+	name = "51?Stormo Ferruccio Serafini"
+	base = 3628
+	location = 3628
+	wing = { type = cas name = "103?Gruppo FBA" historical_model = 0 }
+	}
+	
+	air = {
+	name = "36?Stormo Riccardo Helmut Seidl"
+	base = 4869
+	location = 4869
+	wing = { type = multi_role name = "10?Gruppo ADX" historical_model = 2 }
+	}
+	
+	air = {
+	name = "4?Stormo Amedeo d'Aosta"
+	base = 4360
+	location = 4360
+	wing = { type = multi_role name = "9?Gruppo ADX" historical_model = 2 }
+	}
+	
+	air = {
+	name = "6?Stormo Alfredo Fusco"
+	base = 3626
+	location = 3626
+	wing = { type = multi_role name = "154?Gruppo FBX-STRIKE-RECCE" historical_model = 0 }
+	wing = { type = multi_role name = "156?Gruppo FBX" historical_model = 0 }
+	}
+	
+	air = {
+	name = "46?Brigata Aerea Silvio Angelucci"
+	base = 4107
+	location = 4107
+	wing = { type = transport_plane name = "2?Gruppo" historical_model = 0 }
+	wing = { type = transport_plane name = "50?Gruppo" historical_model = 0 }
+	}
+}
+				
+				
+					
+				
+					
+					
+					

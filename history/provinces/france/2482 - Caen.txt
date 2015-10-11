@@ -1,0 +1,13 @@
+owner = FRA
+controller = FRA
+add_core = FRA
+
+
+
+infra = 9
+
+naval_base = 2 #Ouistreham port
+points = 1
+leadership = 1.00
+industry = 5
+energy = 30.00

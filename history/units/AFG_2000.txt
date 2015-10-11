@@ -1,0 +1,5 @@
+theatre = {
+	name = "°¢¸»º¹¹ú·À¾ü"
+	location = 9191
+	regiment = { type = hq_brigade name = "Exp. Force HQ" historical_model = 0 }
+}

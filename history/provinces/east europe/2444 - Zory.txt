@@ -1,0 +1,8 @@
+owner = POL
+controller = POL
+add_core = POL
+
+infra = 8
+
+air_base = 3 #Czestochowa airbase and Katowice airport
+points = 1

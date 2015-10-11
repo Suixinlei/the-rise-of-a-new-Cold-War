@@ -1,0 +1,9 @@
+owner = DOM
+controller = DOM
+add_core = DOM
+infra = 6
+manpower = 3.3
+energy = 1.00
+air_base = 7#Las Americas airport and airbases surrounding Santo Domingo
+naval_base = 3 #Santo Domingo port
+points = 1

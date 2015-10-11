@@ -1,0 +1,10 @@
+owner = SAU
+controller = SAU
+add_core = SAU
+
+infra = 3
+industry = 4
+manpower = 1.0
+energy = 5.00
+air_base = 10 #Taif airbase and King Abdulaziz airport
+points = 1

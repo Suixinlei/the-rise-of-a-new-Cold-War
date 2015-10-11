@@ -1,0 +1,231 @@
+theatre = {
+	name = "Armed Forces of the Republic of Kazakhstan"
+	location = 6918
+	regiment = { type = hq_brigade name = "Armed Forces HQ" historical_model = 1 }
+	corps = {
+		name = "Republican Guard"
+		location = 6918
+		regiment = { type = hq_brigade name = "Republican Guard HQ" historical_model = 1 }
+		division = {
+			is_reserve = yes
+			name = "1st Republican Guard Brigade"
+			location = 6918
+			regiment = { type = mechanized_brigade name = "11th Republican Guard Battalion" historical_model = 0 }
+			regiment = { type = mechanized_brigade name = "12th Republican Guard Battalion" historical_model = 0 }
+			regiment = { type = mechanized_brigade name = "13th Republican Guard Battalion" historical_model = 0 }
+		}
+		division = {
+			is_reserve = yes
+			name = "2nd Republican Guard Brigade"
+			location = 6918
+			regiment = { type = mechanized_brigade name = "21st Republican Guard Battalion" historical_model = 0 }
+			regiment = { type = mechanized_brigade name = "22nd Republican Guard Battalion" historical_model = 0 }
+			regiment = { type = mechanized_brigade name = "23rd Republican Guard Battalion" historical_model = 0 }
+		}
+	}
+	armygroup = {
+		name = "Land Forces"
+		location = 6918
+		regiment = { type = hq_brigade name = "Land Forces HQ" historical_model = 1 }
+		army = {
+			name = "Regional Command Astana"
+			location = 8709
+			regiment = { type = hq_brigade name = "Astana HQ" historical_model = 1 }
+			division = {
+				is_reserve = yes
+				name = "7th Separate Motor Rifle Brigade"
+				location = 8709
+				regiment = { type = infantry_brigade name = "71st Motor Rifle Battalion" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "72nd Motor Rifle Battalion" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "73rd Motor Rifle Battalion" historical_model = 1 }
+			}
+		}
+		army = {
+			name = "Regional Command East"
+			location = 8737
+			regiment = { type = hq_brigade name = "East HQ" historical_model = 1 }
+			corps = {
+				name = "78th Tank Division"
+				location = 8790
+				regiment = { type = hq_brigade name = "78th Division HQ" historical_model = 1 }
+				division = {
+					is_reserve = yes
+					name = "781st Tank Brigade"
+					location = 8790
+					regiment = { type = armor_brigade name = "7811th Tank Battalion" historical_model = 0 }
+					regiment = { type = armor_brigade name = "7812th Tank Battalion" historical_model = 0 }
+					regiment = { type = armor_brigade name = "7813th Tank Battalion" historical_model = 0 }
+				}
+				division = {
+					is_reserve = yes
+					name = "782nd Tank Brigade"
+					location = 8790
+					regiment = { type = armor_brigade name = "7821st Tank Battalion" historical_model = 0 }
+					regiment = { type = armor_brigade name = "7822nd Tank Battalion" historical_model = 0 }
+					regiment = { type = armor_brigade name = "7823rd Tank Battalion" historical_model = 0 }
+				}
+				division = {
+					is_reserve = yes
+					name = "783rd Mechanized Brigade"
+					location = 8790
+					regiment = { type = mechanized_brigade name = "7831st Mechanized Battalion" historical_model = 0 }
+					regiment = { type = mechanized_brigade name = "7832nd Mechanized Battalion" historical_model = 0 }
+					regiment = { type = mechanized_brigade name = "7833rd Mechanized Battalion" historical_model = 0 }
+				}
+			}
+			division = {
+				is_reserve = yes
+				name = "3rd Separate Motor Rifle Brigade"
+				location = 8908
+				regiment = { type = infantry_brigade name = "31st Motor Rifle Battalion" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "32nd Motor Rifle Battalion" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "33rd Motor Rifle Battalion" historical_model = 1 }
+			}
+			division = {
+				is_reserve = yes
+				name = "4th Separate Motor Rifle Brigade"
+				location = 8791
+				regiment = { type = infantry_brigade name = "41st Motor Rifle Battalion" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "42nd Motor Rifle Battalion" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "43rd Motor Rifle Battalion" historical_model = 1 }
+			}
+		}
+		army = {
+			name = "Regional Command West"
+			location = 3064
+			regiment = { type = hq_brigade name = "West HQ" historical_model = 1 }
+			division = {
+				is_reserve = yes
+				name = "61st Separate Motor Rifle Brigade"
+				location = 3064
+				regiment = { type = infantry_brigade name = "611th Motor Rifle Battalion" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "612th Motor Rifle Battalion" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "613th Motor Rifle Battalion" historical_model = 1 }
+			}
+		}
+		army = {
+			name = "Regional Command South"
+			location = 8838
+			regiment = { type = hq_brigade name = "South HQ" historical_model = 1 }
+			corps = {
+				name = "4th Motor Rifle Division"
+				location = 8815
+				regiment = { type = hq_brigade name = "4th Division HQ" historical_model = 1 }
+				division = {
+					is_reserve = yes
+					name = "41st Motor Rifle Brigade"
+					location = 8815
+					regiment = { type = infantry_brigade name = "411th Motor Rifle Battalion" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "412th Motor Rifle Battalion" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "413th Motor Rifle Battalion" historical_model = 1 }
+				}
+				division = {
+					is_reserve = yes
+					name = "42nd Motor Rifle Brigade"
+					location = 8815
+					regiment = { type = infantry_brigade name = "421st Motor Rifle Battalion" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "422nd Motor Rifle Battalion" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "423rd Motor Rifle Battalion" historical_model = 1 }
+				}
+				division = {
+					is_reserve = yes
+					name = "43rd Motor Rifle Brigade"
+					location = 8815
+					regiment = { type = infantry_brigade name = "431st Motor Rifle Battalion" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "432nd Motor Rifle Battalion" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "433rd Motor Rifle Battalion" historical_model = 1 }
+				}
+			}
+			division = {
+				is_reserve = yes
+				name = "5th Separate Motor Rifle Brigade"
+				location = 8838
+				regiment = { type = infantry_brigade name = "51st Motor Rifle Battalion" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "52nd Motor Rifle Battalion" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "53rd Motor Rifle Battalion" historical_model = 1 }
+			}
+			division = {
+				is_reserve = yes
+				name = "6th Separate Motor Rifle Brigade"
+				location = 8860
+				regiment = { type = infantry_brigade name = "61st Motor Rifle Battalion" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "62nd Motor Rifle Battalion" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "63rd Motor Rifle Battalion" historical_model = 1 }
+			}
+		}
+		corps = {
+			name = "Airmobile Force"
+			location = 6918
+			regiment = { type = hq_brigade name = "Airmobile Force HQ" historical_model = 1 }
+			division = {
+				is_reserve = yes
+				name = "35th Air Assault Brigade"
+				location = 8841
+				regiment = { type = air_cavalry_brigade name = "351st Air Assault Battalion" historical_model = 1 }
+				regiment = { type = air_cavalry_brigade name = "352nd Air Assault Battalion" historical_model = 1 }
+				regiment = { type = air_cavalry_brigade name = "353rd Air Assault Battalion" historical_model = 1 }
+			}
+			division = {
+				is_reserve = yes
+				name = "36th Air Assault Brigade"
+				location = 6918
+				regiment = { type = air_cavalry_brigade name = "361st Air Assault Battalion" historical_model = 1 }
+				regiment = { type = air_cavalry_brigade name = "362nd Air Assault Battalion" historical_model = 1 }
+				regiment = { type = air_cavalry_brigade name = "363rd Air Assault Battalion" historical_model = 1 }
+			}
+			division = {
+				is_reserve = yes
+				name = "37th Air Assault Brigade"
+				location = 8816
+				regiment = { type = air_cavalry_brigade name = "371st Air Assault Battalion" historical_model = 1 }
+				regiment = { type = air_cavalry_brigade name = "372nd Air Assault Battalion" historical_model = 1 }
+				regiment = { type = air_cavalry_brigade name = "373rd Air Assault Battalion" historical_model = 1 }
+			}
+			division = {
+				is_reserve = yes
+				name = "38th Air Assault Brigade"
+				location = 8815
+				regiment = { type = air_cavalry_brigade name = "381st Air Assault Battalion" historical_model = 1 }
+				regiment = { type = air_cavalry_brigade name = "382nd Air Assault Battalion" historical_model = 1 }
+				regiment = { type = air_cavalry_brigade name = "383rd Air Assault Battalion" historical_model = 1 }
+			}
+		}
+	}
+	
+	air = {
+	name = "600th Guards Air Base"
+	base = 6943
+	location = 6943
+	wing = { type = multi_role name = "1st Fighter Wing" historical_model = 0 }
+	wing = { type = cas name = "2nd Attack Wing" historical_model = 0 }
+	}
+	
+	air = {
+	name = "602nd Air Base"
+	base = 8904
+	location = 8904
+	wing = { type = cas name = "3rd Attack Wing" historical_model = 0 }
+	}
+	
+	air = {
+	name = "604th Air Base"
+	base = 8816
+	location = 8816
+	wing = { type = interceptor name = "4th Attack Wing" historical_model = 0 }
+	}
+	
+	air = {
+	name = "610th Air Base"
+	base = 6943
+	location = 6943
+	wing = { type = interceptor name = "5th Attack Wing" historical_model = 0 }
+	}
+	
+	air = {
+	name = "6th Transport Wing"
+	base = 8526
+	location = 8526
+	wing = { type = transport_plane name = "6th Transport Wing" historical_model = 0 }
+	}
+	
+}

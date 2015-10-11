@@ -1,0 +1,5 @@
+owner = YEM
+controller = YEM
+add_core = YEM
+infra = 6
+crude_oil = 6.00

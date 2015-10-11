@@ -1,0 +1,8 @@
+owner = TUR
+controller = TUR
+add_core = TUR
+
+infra = 7
+naval_base = 2 #Samsun port
+leadership = 2.50
+points = 1

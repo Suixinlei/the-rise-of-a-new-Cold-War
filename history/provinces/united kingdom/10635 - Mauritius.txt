@@ -1,0 +1,11 @@
+owner = MUR
+
+controller = MUR
+
+add_core = MUR
+
+infra = 4
+manpower = 0.3
+air_base = 1 #Mauritius airport
+naval_base = 2 #Port Louis
+points = 1

@@ -1,0 +1,8 @@
+owner = KEN
+controller = KEN
+add_core = KEN
+infra = 6
+manpower = 9.00
+air_base = 5 #Moi and Jomo Kenyatta airbase
+leadership = 2.50
+points = 1

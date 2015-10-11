@@ -1,0 +1,7 @@
+owner = SAF
+controller = SAF
+add_core = SAF
+
+infra = 6
+air_base = 3 #AFB Langebaanweg
+points = 1

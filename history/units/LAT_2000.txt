@@ -1,0 +1,51 @@
+theatre = {
+	name = "Nacionalie Brunotie Speki"
+	location = 1178
+	regiment = { type = hq_brigade name = "Nacionalie Brunotie Speki" historical_model = 2 }
+	division = {
+		is_reserve = yes
+		name = "Sauszemes Speki"
+		location = 1178
+		regiment = { type = infantry_brigade name = "1. Kajnieku Bataljons" historical_model = 2 }
+		regiment = { type = infantry_brigade name = "2. Kajnieku Bataljons" historical_model = 2 }
+	}
+	corps = {
+		name = "Zemessardze"
+		location = 1178
+		regiment = { type = hq_brigade name = "Zemessardze" historical_model = 2 }
+		division = {
+			is_reserve = yes
+			name = "1. Aizsardzibas Rajons"
+			location = 1218
+			regiment = { type = garrison_brigade name = "44. Kajnieku Bataljons" historical_model = 2 }
+			regiment = { type = garrison_brigade name = "46. Kajnieku Bataljons" historical_model = 2 }
+			regiment = { type = garrison_brigade name = "51. Kajnieku Bataljons" historical_model = 2 }
+			regiment = { type = garrison_brigade name = "52. Kajnieku Bataljons" historical_model = 2 }
+		}
+		division = {
+			is_reserve = yes
+			name = "2. Aizsardzibas Rajons"
+			location = 1140
+			regiment = { type = garrison_brigade name = "25. Kajnieku Bataljons" historical_model = 2 }
+			regiment = { type = garrison_brigade name = "32. Kajnieku Bataljons" historical_model = 2 }
+			regiment = { type = garrison_brigade name = "55. Kajnieku Bataljons" historical_model = 2 }
+			regiment = { type = garrison_brigade name = "56. Kajnieku Bataljons" historical_model = 2 }
+		}
+		division = {
+			is_reserve = yes
+			name = "3. Aizsardzibas Rajons"
+			location = 1098
+			regiment = { type = garrison_brigade name = "Studentu Bataljons" historical_model = 2 }
+			regiment = { type = garrison_brigade name = "22. Kajnieku Bataljons" historical_model = 2 }
+			regiment = { type = garrison_brigade name = "27. Kajnieku Bataljons" historical_model = 2 }
+		}
+	}
+	
+	navy = {
+		name = "Juras Speki"
+		base = 1178
+		location = 1178
+		ship = { type = patrol_boat name = "P-01 Zibens" historical_model = 0 }
+		ship = { type = patrol_boat name = "P-02 Lode" historical_model = 0 }
+	}
+}	

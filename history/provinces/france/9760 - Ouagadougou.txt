@@ -1,0 +1,7 @@
+owner = BUF
+controller = BUF
+add_core = BUF
+manpower = 4.2
+infra = 6
+air_base = 4 #Ougadougou airbase
+points = 1

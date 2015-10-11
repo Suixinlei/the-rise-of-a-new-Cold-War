@@ -1,0 +1,11 @@
+owner = PHI
+controller = PHI
+add_core = PHI
+industry = 7
+infra = 6
+manpower = 14.5
+rare_materials = 4.00
+air_base = 10 #Danilo Atienza and Villamor airbase and Manila airport
+naval_base = 7 #Manila port
+leadership = 2.50
+points = 1

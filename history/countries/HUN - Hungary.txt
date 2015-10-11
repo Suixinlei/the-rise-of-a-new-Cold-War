@@ -1,0 +1,50 @@
+capital = 3164
+government = republic
+ideology = left_wing_radical
+alignment = { x = 120 y = 113.5 }
+neutrality = 80
+national_unity = 70
+2008.1.1 = { join_faction = allies } 
+
+oob = "HUN_2000.txt"
+
+popularity = { 
+	national_socialist = 0
+	fascistic = 0
+	paternal_autocrat = 5
+	social_conservative = 39
+	market_liberal = 3
+	social_liberal = 7
+	social_democrat = 0
+	left_wing_radical = 41
+	leninist = 11
+	stalinist = 0
+}
+
+organization = { 
+	national_socialist = 0
+	fascistic = 0
+	paternal_autocrat = 15
+	social_conservative = 117
+	market_liberal = 9
+	social_liberal = 21
+	social_democrat = 0
+	left_wing_radical = 123
+	leninist = 33
+	stalinist = 0
+}
+
+conscription_policy = volunteer_army
+press_laws = free_press
+mobilisation_level = peace_time
+civil_laws = open_society
+service_length = six_months
+economic_policy = lais_fair
+
+industrial_facilities = 1
+industral_production = 1
+industral_efficiency = 1
+weapon_design = 1
+the_fuselage_design = 1
+main_battle_tank = 1
+ship_hull = 1

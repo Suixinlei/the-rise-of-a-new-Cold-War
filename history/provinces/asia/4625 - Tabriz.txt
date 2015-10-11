@@ -1,0 +1,13 @@
+owner = PER
+controller = PER
+add_core = PER
+add_core = AZB
+infra = 6
+industry = 10
+energy = 50.00
+metal = 25.00
+rare_materials = 20.00
+manpower = 3.00
+air_base = 6 #Tabriz airbase
+points = 1
+leadership = 2.00

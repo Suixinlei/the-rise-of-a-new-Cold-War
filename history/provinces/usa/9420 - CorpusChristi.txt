@@ -1,0 +1,7 @@
+owner = USA
+controller = USA
+add_core = USA
+infra = 8
+naval_base = 10 #Corpus Christi port
+ 
+points = 1

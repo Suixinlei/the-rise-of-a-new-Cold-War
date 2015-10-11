@@ -1,0 +1,6 @@
+owner = FRA
+controller = FRA
+add_core = FRA
+energy = 6.00
+infra = 9
+air_base = 4#Orange airbase

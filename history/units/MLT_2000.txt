@@ -1,0 +1,12 @@
+theatre = {
+	name = "Armed Forces of Malta"
+	location = 5359
+	regiment = { type = hq_brigade name = "Armed Forces of Malta HQ" historical_model = 2 }
+	division = {
+		is_reserve = yes
+		name = "1st Regiment"
+		location = 5359
+		regiment = { type = infantry_brigade name = "1st Regiment" historical_model = 2 }
+		regiment = { type = engineer_brigade name = "3rd Regiment" historical_model = 2 }
+	}
+}

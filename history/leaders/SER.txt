@@ -1,0 +1,1199 @@
+137001 = {
+	name = "Krstic"
+	country = SER
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L137001
+	add_trait = panzer_leader
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+137002 = {
+	name = "Ljajic"
+	country = SER
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 0.00
+	picture = L137002
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+137003 = {
+	name = "Jovanovic"
+	country = SER
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 0.00
+	picture = L137003
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+137004 = {
+	name = "Grlic"
+	country = SER
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L137004
+	add_trait = offensive_doctrine
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+137005 = {
+	name = "Tolimir"
+	country = SER
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L137005
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+137006 = {
+	name = "Janicijevic"
+	country = SER
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L137006
+	add_trait = fortress_buster
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+137007 = {
+	name = "Vukasinov"
+	country = SER
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L137007
+	add_trait = old_guard
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+137008 = {
+	name = "Udovicki"
+	country = SER
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 1.00
+	picture = L137008
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+137009 = {
+	name = "Opacic"
+	country = SER
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 0.00
+	picture = L137009
+	add_trait = engineer
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+137010 = {
+	name = "Novakovic"
+	country = SER
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L137010
+	add_trait = assaulter
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+137011 = {
+	name = "Forca"
+	country = SER
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 0.00
+	picture = L137011
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+137012 = {
+	name = "Kovac"
+	country = SER
+	type = air
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = L137012
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+137013 = {
+	name = "Mladic"
+	country = SER
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L137013
+	add_trait = panzer_leader
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+137014 = {
+	name = "Pavkovic"
+	country = SER
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 0.00
+	picture = L137014
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+137015 = {
+	name = "Tucovic"
+	country = SER
+	type = air
+	skill = 1
+	max_skill = 5
+	loyalty = 0.00
+	picture = L137015
+	add_trait = night_flyer
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+137016 = {
+	name = "Bajic"
+	country = SER
+	type = land
+	skill = 0
+	max_skill = 6
+	loyalty = 1.00
+	picture = L137016
+	add_trait = trickster
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+137017 = {
+	name = "Davidovic"
+	country = SER
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L137017
+	add_trait = frontline_soldier
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+137018 = {
+	name = "Nisevic"
+	country = SER
+	type = air
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L137018
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+137019 = {
+	name = "Lukic"
+	country = SER
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L137019
+	add_trait = defensive_doctrine
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+137020 = {
+	name = "Lazarevic"
+	country = SER
+	type = air
+	skill = 2
+	max_skill = 6
+	loyalty = 0.00
+	picture = L137020
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+137021 = {
+	name = "Jovanovic"
+	country = SER
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 0.00
+	picture = L137021
+	add_trait = offensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+137022 = {
+	name = "Stoajnovic"
+	country = SER
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L137022
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+137023 = {
+	name = "Dragomanovic"
+	country = SER
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L137023
+	add_trait = panzer_leader
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+137024 = {
+	name = "Jugovic"
+	country = SER
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L137024
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+137025 = {
+	name = "Zupljanin"
+	country = SER
+	type = land
+	skill = 1
+	max_skill = 7
+	loyalty = 0.00
+	picture = L137025
+	add_trait = learners_will
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+137026 = {
+	name = "Stolic"
+	country = SER
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 1.00
+	picture = L137026
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+137027 = {
+	name = "Telacevic"
+	country = SER
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L137027
+	add_trait = logistics_wizard
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+137028 = {
+	name = "Veselin"
+	country = SER
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L137028
+	add_trait = commando
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+137029 = {
+	name = "Adzovic"
+	country = SER
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 0.00
+	picture = L137029
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+137030 = {
+	name = "Aleksic"
+	country = SER
+	type = air
+	skill = 1
+	max_skill = 5
+	loyalty = 0.00
+	picture = L137030
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+
+137031 = {
+	name = "Batinic"
+	country = SER
+	type = land
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = L137031
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+137032 = {
+	name = "Bogoljuba"
+	country = SER
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L137032
+	add_trait = offensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+137033 = {
+	name = "Branko"
+	country = SER
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L137033
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+137034 = {
+	name = "Brankovic"
+	country = SER
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L137034
+	add_trait = commando
+	add_trait = assaulter
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+137035 = {
+	name = "Dusan"
+	country = SER
+	type = land
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = L137035
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+137036 = {
+	name = "Glisovic"
+	country = SER
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L137036
+	add_trait = logistics_wizard
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+137037 = {
+	name = "Jankovic"
+	country = SER
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L137037
+	add_trait = commando
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+137038 = {
+	name = "Jelisavcic"
+	country = SER
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 0.00
+	picture = L137038
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+137039 = {
+	name = "Jondic"
+	country = SER
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 0.00
+	picture = L137039
+	add_trait = hard_defender
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+137040 = {
+	name = "Kovac"
+	country = SER
+	type = land
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = L137040
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+137041 = {
+	name = "Lackovic"
+	country = SER
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L137041
+	add_trait = improvisation
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+137042 = {
+	name = "Ljubomir"
+	country = SER
+	type = land
+	skill = 1
+	max_skill = 7
+	loyalty = 1.00
+	picture = L137042
+	add_trait = trainer
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+137043 = {
+	name = "Lubura"
+	country = SER
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L137043
+	add_trait = panzer_leader
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+137044 = {
+	name = "Marinko"
+	country = SER
+	type = land
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = L137044
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+137045 = {
+	name = "Milosav"
+	country = SER
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L137045
+	add_trait = offensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+137046 = {
+	name = "Mladen"
+	country = SER
+	type = land
+	skill = 2
+	max_skill = 8
+	loyalty = 1.00
+	picture = L137046
+	add_trait = trainer
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+137047 = {
+	name = "Novakovic"
+	country = SER
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L137047
+	add_trait = engineer
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+137048 = {
+	name = "Pajovic"
+	country = SER
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 0.00
+	picture = L137048
+	add_trait = frontline_soldier
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+137049 = {
+	name = "Petrovic"
+	country = SER
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L137049
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+137050 = {
+	name = "Radivojevic"
+	country = SER
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L137050
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+137051 = {
+	name = "Radoslav"
+	country = SER
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L137051
+	add_trait = panzer_leader
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+137052 = {
+	name = "Simovic"
+	country = SER
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L137052
+	add_trait = landlubber
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+137053 = {
+	name = "Smiljkovic"
+	country = SER
+	type = land
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = L137053
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+137054 = {
+	name = "Stanic"
+	country = SER
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L137054
+	add_trait = panzer_leader
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+137055 = {
+	name = "Stojan"
+	country = SER
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L137055
+	add_trait = winter_specialist
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+137056 = {
+	name = "Stojanovic"
+	country = SER
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L137056
+	add_trait = offensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+137057 = {
+	name = "Todorov"
+	country = SER
+	type = land
+	skill = 2
+	max_skill = 8
+	loyalty = 1.00
+	picture = L137057
+	add_trait = commando
+	add_trait = learners_will
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+137058 = {
+	name = "Todorovic"
+	country = SER
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L137058
+	add_trait = commando
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+137059 = {
+	name = "Vladisavljevic"
+	country = SER
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L137059
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+137060 = {
+	name = "Vuruna"
+	country = SER
+	type = land
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = L137060
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+137061 = {
+	name = "Z. Zoran"
+	country = SER
+	type = land
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L137061
+	add_trait = panzer_leader
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+137062 = {
+	name = "Zarko"
+	country = SER
+	type = land
+	skill = 2
+	max_skill = 5
+	loyalty = 0.00
+	picture = L137062
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+137063 = {
+	name = "Zarkovic"
+	country = SER
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L137063
+	add_trait = assaulter
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+137064 = {
+	name = "Zoran"
+	country = SER
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L137064
+	add_trait = defensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+137065 = {
+	name = "Belic"
+	country = SER
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L137065
+	add_trait = commando
+	add_trait = logistics_wizard
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+137066 = {
+	name = "Pokrajac"
+	country = SER
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 0.00
+	picture = L137066
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+137067 = {
+	name = "Uzelac"
+	country = SER
+	type = land
+	skill = 0
+	max_skill = 6
+	loyalty = 1.00
+	picture = L137067
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+137068 = {
+	name = "Krga"
+	country = SER
+	type = land
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L137068
+	add_trait = logistics_wizard
+	add_trait = engineer
+	history = {
+		1995.1.1 = { rank = 1 }
+		1999.1.1 = { rank = 2 }
+		2001.1.1 = { rank = 3 }
+		2003.1.1 = { rank = 4 }
+	}
+}
+137069 = {
+	name = "Miletic"
+	country = SER
+	type = land
+	skill = 4
+	max_skill = 8
+	loyalty = 1.00
+	picture = L137069
+	add_trait = defensive_doctrine
+	add_trait = improvisation
+	history = {
+		1995.1.1 = { rank = 1 }
+		1998.1.1 = { rank = 2 }
+		2001.1.1 = { rank = 3 }
+		2003.1.1 = { rank = 4 }
+	}
+}
+137070 = {
+	name = "Dikovic"
+	country = SER
+	type = land
+	skill = 3
+	max_skill = 6
+	loyalty = 1.00
+	picture = L137070
+	add_trait = offensive_doctrine
+	history = {
+		1998.1.1 = { rank = 1 }
+		2001.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+137071 = {
+	name = "Jevtic"
+	country = SER
+	type = land
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L137071
+	add_trait = winter_specialist
+	history = {
+		1998.1.1 = { rank = 1 }
+		2001.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+137072 = {
+	name = "Ponoš"
+	country = SER
+	type = land
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L137072
+	add_trait = offensive_doctrine
+	history = {
+		1995.1.1 = { rank = 1 }
+		2000.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+137073 = {
+	name = "Zivkovic"
+	country = SER
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 0.00
+	picture = L137073
+	history = {
+		1995.1.1 = { rank = 1 }
+		2001.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+137074 = {
+	name = "Bjelica"
+	country = SER
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 0.00
+	picture = L137074
+	add_trait = hard_defender
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+137075 = {
+	name = "Vuruna"
+	country = SER
+	type = land
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L137075
+	add_trait = offensive_doctrine
+	add_trait = assaulter
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+137076 = {
+	name = "Goran"
+	country = SER
+	type = land
+	skill = 3
+	max_skill = 6
+	loyalty = 1.00
+	picture = L137076
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+137077 = {
+	name = "Jovanovic"
+	country = SER
+	type = land
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L137077
+	add_trait = trickster
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+137078 = {
+	name = "Vukobradovic"
+	country = SER
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L137078
+	add_trait = defensive_doctrine
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+137079 = {
+	name = "Zivak"
+	country = SER
+	type = land
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L137079
+	add_trait = offensive_doctrine
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+137080 = {
+	name = "Bandic"
+	country = SER
+	type = air
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L137080
+	add_trait = superior_air_tactician
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+137081 = {
+	name = "Gordic"
+	country = SER
+	type = air
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L137081
+	add_trait = tank_buster
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+137082 = {
+	name = "Joksimovic"
+	country = SER
+	type = air
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L137082
+	add_trait = carpet_bomber
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+137083 = {
+	name = "Lackovic"
+	country = SER
+	type = air
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L137083
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+137084 = {
+	name = "Malinovic"
+	country = SER
+	type = air
+	skill = 1
+	max_skill = 5
+	loyalty = 0.00
+	picture = L137084
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+137085 = {
+	name = "Predrag"
+	country = SER
+	type = air
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L137085
+	add_trait = carpet_bomber
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+137086 = {
+	name = "Tomislav"
+	country = SER
+	type = air
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L137086
+	add_trait = night_flyer
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+137087 = {
+	name = "Živak"
+	country = SER
+	type = air
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L137087
+	add_trait = tank_buster
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+137088 = {
+	name = "Zrnic"
+	country = SER
+	type = air
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L137088
+	add_trait = fleet_destroyer
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+137089 = {
+	name = "Djordjevic"
+	country = SER
+	type = air
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L137089
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+137090 = {
+	name = "Jokic"
+	country = SER
+	type = air
+	skill = 4
+	max_skill = 7
+	loyalty = 1.00
+	picture = L137090
+	add_trait = tank_buster
+	add_trait = superior_air_tactician
+	history = {
+		1995.1.1 = { rank = 1 }
+		1998.1.1 = { rank = 2 }
+		2001.1.1 = { rank = 3 }
+		2003.1.1 = { rank = 4 }
+	}
+}
+137091 = {
+	name = "Draganic"
+	country = SER
+	type = air
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L137091
+	add_trait = superior_air_tactician
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+137092 = {
+	name = "Koteski"
+	country = SER
+	type = air
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L137092
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}

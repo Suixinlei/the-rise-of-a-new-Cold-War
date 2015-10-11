@@ -1,0 +1,6 @@
+owner = POR
+controller = POR
+add_core = POR
+manpower = 0.2
+infra = 7
+

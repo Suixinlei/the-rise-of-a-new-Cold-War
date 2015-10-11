@@ -1,0 +1,7 @@
+owner = SWA
+controller = SWA
+add_core = SWA
+manpower = 0.5
+infra = 6
+points = 1
+leadership = 0.50

@@ -1,0 +1,11 @@
+owner = USA
+controller = USA
+add_core = USA
+infra = 6
+industry = 10
+manpower = 10.00
+energy = 29.00
+rare_materials = 7.3
+air_base = 10 #Luke airbase and Phoenix airport
+points = 1
+leadership = 1.00

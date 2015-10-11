@@ -1,0 +1,8 @@
+owner = ANG
+controller = ANG
+add_core = ANG
+infra = 6
+
+air_base = 1 #Lobito airbase
+leadership = 2.50
+points = 1

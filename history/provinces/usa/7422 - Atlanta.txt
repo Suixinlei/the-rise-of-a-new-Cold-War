@@ -1,0 +1,8 @@
+owner = USA
+controller = USA
+add_core = USA
+infra = 8
+energy = 20.00
+metal = 20.00
+air_base = 10 #Atlanta airport
+leadership = 1.00

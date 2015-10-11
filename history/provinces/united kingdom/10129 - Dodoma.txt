@@ -1,0 +1,7 @@
+owner = TNZ
+controller = TNZ
+add_core = TNZ
+
+infra = 6
+
+points = 1

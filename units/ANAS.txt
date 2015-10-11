@@ -1,0 +1,51 @@
+ANAS = {
+	type = naval
+	sprite = Submarine
+	is_sub = yes
+	active = no
+	
+	hull = 1.0
+	
+	#Size Definitions
+	max_strength = 100
+	default_organisation = 30
+	default_morale = 0.30
+	officers = 0
+
+
+	#Building Costs
+	build_cost_ic =  8.00
+	build_cost_manpower = 0.10
+	build_time = 280
+	repair_cost_multiplier = 0.05
+
+	#Misc Abilities
+	maximum_speed = 20.00
+	transport_capability = 0.00
+	supply_consumption = 0.15
+	fuel_consumption = 0.6
+	range = 9000.00
+	distance = 0.15
+	radio_strength = 1.25
+	
+	#Detection Abilities
+	surface_detection = 4.00
+	air_detection = 1.00
+	sub_detection = 1.00
+	visibility = 5
+
+	#Defensive Abilities
+	sea_defence = 6.00
+	air_defence = 1.00
+
+	#Offensive Abilities
+	convoy_attack = 7.00
+	sea_attack = 8.00
+	sub_attack = 0.00
+	air_attack = 0.00
+	shore_bombardment = 0.00
+
+	completion_size = 0.3
+	on_completion = submarine_practical
+	priority = 4
+}

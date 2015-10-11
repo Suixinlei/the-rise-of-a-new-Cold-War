@@ -1,0 +1,5 @@
+owner = UKR
+controller = UKR
+add_core = UKR
+add_core = NOV
+infra = 8

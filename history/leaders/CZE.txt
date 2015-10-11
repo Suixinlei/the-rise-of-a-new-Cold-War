@@ -1,0 +1,932 @@
+42001 = {
+	name = "Gurnik"
+	country = CZE
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L42001
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+42002 = {
+	name = "Adam"
+	country = CZE
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L42002
+	add_trait = fortress_buster
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+42003 = {
+	name = "Jung"
+	country = CZE
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L42003
+	add_trait = commando
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+42004 = {
+	name = "Kantorovi"
+	country = CZE
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L42004
+	add_trait = improvisation
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+42005 = {
+	name = "Klemeš"
+	country = CZE
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L42005
+	add_trait = old_guard
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+42006 = {
+	name = "Kovanda"
+	country = CZE
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L42006
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+42007 = {
+	name = "Kulovaný"
+	country = CZE
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L42007
+	add_trait = offensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+42008 = {
+	name = "Ložek"
+	country = CZE
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L42008
+	add_trait = defensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+42009 = {
+	name = "Macko"
+	country = CZE
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 0.00
+	picture = L42009
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+42010 = {
+	name = "Maleninský"
+	country = CZE
+	type = land
+	skill = 1
+	max_skill = 7
+	loyalty = 1.00
+	picture = L42010
+	add_trait = trainer
+	add_trait = commando
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+42011 = {
+	name = "Páleník"
+	country = CZE
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L42011
+	add_trait = improvisation
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+42012 = {
+	name = "Palenik"
+	country = CZE
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L42012
+	add_trait = commando
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+42013 = {
+	name = "Prucha"
+	country = CZE
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L42013
+	add_trait = offensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+42014 = {
+	name = "Rybák"
+	country = CZE
+	type = land
+	skill = 2
+	max_skill = 8
+	loyalty = 1.00
+	picture = L42014
+	add_trait = panzer_leader
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+42015 = {
+	name = "Micánek"
+	country = CZE
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L42015
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+42016 = {
+	name = "Trojan"
+	country = CZE
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L42016
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+42017 = {
+	name = "Urban"
+	country = CZE
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L42017
+	add_trait = panzer_leader
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+42018 = {
+	name = "Vojkovský"
+	country = CZE
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L42018
+	add_trait = hard_defender
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+42019 = {
+	name = "Zborila"
+	country = CZE
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 0.00
+	picture = L42019
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+42020 = {
+	name = "Žižka"
+	country = CZE
+	type = land
+	skill = 2
+	max_skill = 8
+	loyalty = 1.00
+	picture = L42020
+	add_trait = commando
+	add_trait = logistics_wizard
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+42021 = {
+	name = "Barák"
+	country = CZE
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 1.00
+	picture = L42021
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+42022 = {
+	name = "Behounek"
+	country = CZE
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 0.00
+	picture = L42022
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+42023 = {
+	name = "Beranek"
+	country = CZE
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L42023
+	add_trait = frontline_soldier
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+42024 = {
+	name = "Borovský"
+	country = CZE
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L42024
+	add_trait = engineer
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+42025 = {
+	name = "Burian"
+	country = CZE
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 0.00
+	picture = L42025
+	add_trait = commando
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+42026 = {
+	name = "Cápová"
+	country = CZE
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 1.00
+	picture = L42026
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+42027 = {
+	name = "Celanský"
+	country = CZE
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L42027
+	add_trait = offensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+42028 = {
+	name = "Chalupa"
+	country = CZE
+	type = land
+	skill = 1
+	max_skill = 7
+	loyalty = 1.00
+	picture = L42028
+	add_trait = assaulter
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+42029 = {
+	name = "Chvátal"
+	country = CZE
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 0.00
+	picture = L42029
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+42030 = {
+	name = "Czermak"
+	country = CZE
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 1.00
+	picture = L42030
+	add_trait = frontline_soldier
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+42031 = {
+	name = "Doležal"
+	country = CZE
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L42031
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+42032 = {
+	name = "Dvorak"
+	country = CZE
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 0.00
+	picture = L42032
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+42033 = {
+	name = "Forman"
+	country = CZE
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L42033
+	add_trait = frontline_soldier
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+42034 = {
+	name = "Frýdek"
+	country = CZE
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L42034
+	add_trait = panzer_leader
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+42035 = {
+	name = "Fucíková"
+	country = CZE
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 0.00
+	picture = L42035
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+42036 = {
+	name = "Gyrowetz"
+	country = CZE
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 0.00
+	picture = L42036
+	add_trait = defensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+42037 = {
+	name = "Havlícek"
+	country = CZE
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 0.00
+	picture = L42037
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+42038 = {
+	name = "Horcicka"
+	country = CZE
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L42038
+	add_trait = panzer_leader
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+42039 = {
+	name = "Hrbácková"
+	country = CZE
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 0.00
+	picture = L42039
+	add_trait = learners_will
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+42040 = {
+	name = "Hutka"
+	country = CZE
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 1.00
+	picture = L42040
+	add_trait = frontline_soldier
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+42041 = {
+	name = "Jágr"
+	country = CZE
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L42041
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+42042 = {
+	name = "Jerábek"
+	country = CZE
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 0.00
+	picture = L42042
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+42043 = {
+	name = "Jirecek"
+	country = CZE
+	type = land
+	skill = 1
+	max_skill = 7
+	loyalty = 1.00
+	picture = L42043
+	add_trait = frontline_soldier
+	add_trait = improvisation
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+42044 = {
+	name = "Kittlová"
+	country = CZE
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L42044
+	add_trait = panzer_leader
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+42045 = {
+	name = "Kohoutová"
+	country = CZE
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L42045
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+42046 = {
+	name = "Kulhánek"
+	country = CZE
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L42046
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+42047 = {
+	name = "Látal"
+	country = CZE
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 0.00
+	picture = L42047
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+42048 = {
+	name = "Matoušek"
+	country = CZE
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L42048
+	add_trait = winter_specialist
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+42049 = {
+	name = "Sedlácek"
+	country = CZE
+	type = land
+	skill = 4
+	max_skill = 7
+	loyalty = 1.00
+	picture = L42049
+	history = {
+		1995.1.1 = { rank = 1 }
+		1998.1.1 = { rank = 2 }
+		2001.1.1 = { rank = 3 }
+		2003.1.1 = { rank = 4 }
+	}
+}
+42050 = {
+	name = "Štefka"
+	country = CZE
+	type = land
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L42050
+	add_trait = hard_defender
+	history = {
+		1995.1.1 = { rank = 1 }
+		1998.1.1 = { rank = 2 }
+		2001.1.1 = { rank = 3 }
+		2003.1.1 = { rank = 4 }
+	}
+}
+42051 = {
+	name = "Gajdos"
+	country = CZE
+	type = land
+	skill = 3
+	max_skill = 6
+	loyalty = 1.00
+	picture = L42051
+	history = {
+		1998.1.1 = { rank = 1 }
+		2001.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+42052 = {
+	name = "Kolkus"
+	country = CZE
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L42052
+	add_trait = frontline_soldier
+	history = {
+		1998.1.1 = { rank = 1 }
+		2001.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+42053 = {
+	name = "Páleníkovi"
+	country = CZE
+	type = land
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L42053
+	add_trait = engineer
+	add_trait = winter_specialist
+	history = {
+		1998.1.1 = { rank = 1 }
+		2001.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+42054 = {
+	name = "Picek"
+	country = CZE
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L42054
+	history = {
+		1998.1.1 = { rank = 1 }
+		2001.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+42055 = {
+	name = "Stefka"
+	country = CZE
+	type = land
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L42055
+	add_trait = panzer_leader
+	history = {
+		1998.1.1 = { rank = 1 }
+		2001.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+42056 = {
+	name = "Baloun"
+	country = CZE
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L42056
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+42057 = {
+	name = "Blaško"
+	country = CZE
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L42057
+	add_trait = offensive_doctrine
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+42058 = {
+	name = "Kocián"
+	country = CZE
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L42058
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+42059 = {
+	name = "Lavicka"
+	country = CZE
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L42059
+	add_trait = engineer
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+42060 = {
+	name = "Pavel"
+	country = CZE
+	type = land
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L42060
+	add_trait = commando
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+42061 = {
+	name = "Prokš"
+	country = CZE
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L42061
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+42062 = {
+	name = "Pugzík"
+	country = CZE
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L42062
+	add_trait = offensive_doctrine
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+42063 = {
+	name = "Sedlák"
+	country = CZE
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L42063
+	add_trait = trickster
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+42064 = {
+	name = "Nedved"
+	country = CZE
+	type = air
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L42064
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+42065 = {
+	name = "Fucíková"
+	country = CZE
+	type = air
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L42065
+	add_trait = night_flyer
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+42066 = {
+	name = "Škarvada"
+	country = CZE
+	type = air
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = L42066
+	add_trait = old_guard
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+42067 = {
+	name = "Tesarík"
+	country = CZE
+	type = air
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L42067
+	add_trait = tank_buster
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+42068 = {
+	name = "Verner"
+	country = CZE
+	type = air
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L42068
+	add_trait = superior_air_tactician
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+42069 = {
+	name = "Šedivý"
+	country = CZE
+	type = air
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L42069
+	history = {
+		1998.1.1 = { rank = 1 }
+		2001.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+42070 = {
+	name = "Štefánika"
+	country = CZE
+	type = air
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L42070
+	add_trait = carpet_bomber
+	history = {
+		1998.1.1 = { rank = 1 }
+		2001.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+42071 = {
+	name = "Picek"
+	country = CZE
+	type = air
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L42071
+	add_trait = tank_buster
+	add_trait = superior_air_tactician
+	history = {
+		1995.1.1 = { rank = 1 }
+		1998.1.1 = { rank = 2 }
+		2001.1.1 = { rank = 3 }
+		2003.1.1 = { rank = 4 }
+	}
+}

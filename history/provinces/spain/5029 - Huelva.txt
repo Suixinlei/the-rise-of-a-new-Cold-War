@@ -1,0 +1,6 @@
+owner = SPR
+controller = SPR
+add_core = SPR
+
+infra = 7
+naval_base = 3 #Huelva port

@@ -1,0 +1,10 @@
+owner = AST
+controller = AST
+add_core = AST
+infra = 8
+industry = 2
+energy = 10.00
+air_base = 9 #RAAF Amberley and Brisbane airport
+naval_base = 7 #Brisbane port 
+leadership = 2.50
+points = 1

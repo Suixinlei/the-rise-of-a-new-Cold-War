@@ -1,0 +1,146 @@
+color = { 22  124  62 }
+graphical_culture = Generic
+last_election = 2002.10.10
+duration = 60
+
+default_templates = {
+	generic_infantry = {
+		infantry_brigade
+		infantry_brigade
+		infantry_brigade
+	}
+	generic_milita = {
+		militia_brigade
+		militia_brigade
+		militia_brigade
+	}
+	generic_armoured = {
+		armor_brigade
+		motorized_brigade
+		motorized_brigade
+	}
+	generic_cavalry = {
+		cavalry_brigade
+		cavalry_brigade
+	}
+}
+
+unit_names = {
+}
+
+ministers = {
+        72223 = {
+		name = "ÄÂÉ³À­·ò×ÜÍ³"
+		ideology = paternal_autocrat
+		loyalty = 1
+		picture = M72223
+		head_of_state = resigned_generalissimo
+		start_date = 1999.1.1
+	}
+	72210 = {
+		name = "¼ªÀ­Äá"
+		ideology = paternal_autocrat
+		loyalty = 1
+		picture = M72210 
+		head_of_government = old_general
+		start_date = 2001.1.1
+	}
+	72211 = {
+		name = "¿¨ËÕÀï"
+		ideology = paternal_autocrat
+		loyalty = 1.00
+		picture = M72211
+		foreign_minister  = great_compromiser
+		start_date = 2000.1.1
+	}
+	72212 = {
+		name = "¿¨Á¢µÂ¡¤À¼¼Ö"
+		ideology = paternal_autocrat
+		loyalty = 1
+		picture = M72212
+		minister_of_security = crime_fighter
+		start_date = 2000.1.1
+	}
+	72213 = {
+		name = "°¢Æë×È"
+		ideology = paternal_autocrat
+		loyalty = 1
+		picture = M72213
+		armament_minister = resource_industrialist
+		start_date = 2000.1.1
+	}
+	72214 = {
+		name = "ËşÀï¿Ë¡¤Âí¼ªµÂ"
+		ideology = paternal_autocrat
+		loyalty = 1
+		picture = M72214
+		chief_of_army = armoured_spearhead_doctrine
+		start_date = 2000.1.1
+	}
+	72215 = {
+		name = "»ùÑÇÄá"
+		ideology = paternal_autocrat
+		loyalty = 1
+		picture = M72215
+		chief_of_army = decisive_battle_doctrine
+		armament_minister = corrupt_kleptocrat
+		start_date = 2001.1.1
+	}
+	72216 = {
+		name = "ÇÇ¶ÅÀï¡¤°¬¹şÂõµÂ¡¤ÄÂºÕËş¶û"
+		ideology = paternal_autocrat
+		loyalty = 1.00
+		picture = M72216
+		chief_of_staff = school_of_manoeuvre
+		start_date = 2000.1.1
+	}
+	72217 = {
+		name = "°¢Æë×È¡¤¿Éº¹"
+		ideology = paternal_autocrat
+		loyalty = 1.00
+		picture = M72217
+		chief_of_staff = static_defence_doctrine
+		start_date = 2000.1.1
+	}
+	72218 = {
+		name = "°ÍÏ£¶û"
+		ideology = paternal_autocrat
+		loyalty = 1.00
+		picture = M72218
+		chief_of_navy = base_control_doctrine
+		start_date = 2000.1.1
+	}
+	72219 = {
+		name = "É³Ï£µÂ"
+		ideology = paternal_autocrat
+		loyalty = 1.00
+		picture = M72219
+		chief_of_navy = base_control_doctrine
+		start_date = 2000.1.1
+	}
+	72220 = {
+		name = "ÀÍ¡¤¿¨Âê¶û¡¤ËÕÀ³Âü"
+		ideology = paternal_autocrat
+		loyalty = 1.00
+		picture = M72220
+		chief_of_air = air_superiority_doctrine
+		start_date = 2000.1.1
+	}
+	72221 = {
+		name = "ÈüÒÁµÂ¡¤ºîÈüÒò"
+		ideology = paternal_autocrat
+		loyalty = 1.00
+		picture = M72221
+		chief_of_air = army_aviation_doctrine
+		start_date = 2000.1.1
+	}
+        72222 = {
+		name = "°£ÈøÄÉ¿ËÄ¦¡¤¹ş¿Ë"
+		ideology = paternal_autocrat
+		loyalty = 1.00
+		picture = M72222
+		minister_of_intelligence = logistics_specialist
+		start_date = 2000.1.1
+	}
+
+}

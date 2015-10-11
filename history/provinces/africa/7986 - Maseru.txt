@@ -1,0 +1,8 @@
+owner = LES
+controller = LES
+add_core = LES
+manpower = 0.6
+infra = 6
+air_base = 1 #Maseru airbase
+points = 1
+leadership = 0.50

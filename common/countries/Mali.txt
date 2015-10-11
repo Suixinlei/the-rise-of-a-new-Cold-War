@@ -1,0 +1,227 @@
+color = { 144  53  32 }
+graphical_culture = Generic
+last_election = 2002.5.5
+duration = 60
+
+default_templates = {
+	generic_infantry = {
+		infantry_brigade
+		infantry_brigade
+		infantry_brigade
+	}
+	generic_milita = {
+		militia_brigade
+		militia_brigade
+		militia_brigade
+	}
+	generic_armoured = {
+		armor_brigade
+		motorized_brigade
+		motorized_brigade
+	}
+
+}
+
+unit_names = {
+
+}
+
+
+ministers = {
+	50001 = {
+		name = "Amadou Toumani Touré"
+		ideology = social_democrat
+		loyalty = 1.00
+		picture = M50001
+		head_of_state = resigned_generalissimo
+		start_date = 2000.1.1
+	}
+	50002 = {
+		name = "Soumaïla Cissé"
+		ideology = social_democrat
+		loyalty = 1.00
+		picture = M50002
+		head_of_state = crooked_kleptocrat
+		start_date = 2000.1.1
+	}
+	50003 = {
+		name = "Ibrahim Boubacar Keïta"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M50003
+		head_of_state = talented_and_concealed
+		start_date = 2000.1.1
+	}
+	50004 = {
+		name = "Tiébilé Dramé"
+		ideology = social_liberal
+		loyalty = 1.00
+		picture = M50004
+		head_of_state = untalented_nerd
+		start_date = 2000.1.1
+	}
+	50005 = {
+		name = "Mountaga Tall"
+		ideology = market_liberal
+		loyalty = 1.00
+		picture = M50005
+		head_of_state = silent_workhorse
+		start_date = 2000.1.1
+	}
+	50006 = {
+		name = "Choguel Kokalla Maïga"
+		ideology = paternal_autocrat
+		loyalty = 1.00
+		picture = M50006
+		head_of_state = hazardous_clean
+		start_date = 2000.1.1
+	}
+	50007 = {
+		name = "Oumar Mariko"
+		ideology = stalinist
+		loyalty = 1.00
+		picture = M50007
+		head_of_state = technical_specialist
+		start_date = 2000.1.1
+	}
+	50008 = {
+		name = "Mamadou Blaise Sangaré"
+		ideology = social_democrat
+		loyalty = 1.00
+		picture = M50008
+		head_of_state = military_slob
+		start_date = 2007.1.1
+	}
+	50009 = {
+		name = "Ahmed Mohamed ag Hamani"
+		ideology = social_democrat
+		loyalty = 1.00
+		picture = M50009
+		head_of_government = insignificant_layman
+		start_date = 2000.1.1
+	}
+	50010 = {
+		name = "Ousmane Issoufi Maïga"
+		ideology = social_democrat
+		loyalty = 1.00
+		picture = M50010
+		head_of_government = resource_industrialist
+		start_date = 2004.1.1
+	}
+	50011 = {
+		name = "Modibo Sidibé"
+		ideology = social_democrat
+		loyalty = 1.00
+		picture = M50011
+		head_of_government = dismal_enigma
+		start_date = 2000.1.1
+	}
+	50012 = {
+		name = "Cissé Mariam Kaïdama Sidibé"
+		ideology = social_democrat
+		loyalty = 1.00
+		picture = M50012
+		head_of_government = political_specialist
+		start_date = 2011.1.1
+	}
+	50013 = {
+		name = "Lassana Traoré"
+		ideology = social_democrat
+		loyalty = 1.00
+		picture = M50013
+		foreign_minister = resource_industrialist
+		start_date = 2000.1.1
+	}
+	50014 = {
+		name = "Moctar Ouane"
+		ideology = social_democrat
+		loyalty = 1.00
+		picture = M50014
+		foreign_minister = benevolent_gentleman
+		start_date = 2007.1.1
+	}
+	50015 = {
+		name = "Soumeylou Boubèye Maïga"
+		ideology = social_democrat
+		loyalty = 1.00
+		picture = M50015
+		foreign_minister = organisation_genius
+		start_date = 2011.1.1
+	}
+	50016 = {	
+		name = "Natia Plea"
+		ideology = social_democrat
+		loyalty = 1.00
+		picture = M50016
+		armament_minister = insignificant_layman
+		start_date = 2000.1.1
+	}
+	50017 = {
+		name = "Yamoussa Camara"
+		ideology = social_democrat
+		loyalty = 1.00
+		picture = M50017
+		armament_minister = administrative_genius
+		start_date = 2012.1.1
+	}
+	50018 = {
+		name = "Tiéfing Konaté"
+		ideology = social_democrat
+		loyalty = 1.00
+		picture = M50018
+		minister_of_security = scandalous
+		start_date = 2000.1.1
+	}
+	50019 = {
+		name = "Sadio Gassama"
+		ideology = social_democrat
+		loyalty = 1.00
+		picture = M50019
+		minister_of_security = crooked_kleptocrat
+		start_date = 2012.1.1
+	}
+	50020 = {
+		name = "Iyad Ag Ghaly"
+		ideology = national_socialist
+		loyalty = 1.00
+		picture = M50020
+		head_of_state = research_specialist
+		start_date = 2000.1.1
+	}
+	50021 = {
+		name = "Alghabass Ag Intalla"
+		ideology = national_socialist
+		loyalty = 1.00
+		picture = M50021
+		head_of_government = ambitious_union_boss
+		start_date = 2000.1.1
+	}
+	50022 = {
+		name = "N'Diaye Bah"
+		ideology = market_liberal
+		loyalty = 1.00
+		picture = M50022
+		head_of_government = untalented_nerd
+		start_date = 2000.1.1
+	}
+	50023 = {
+		name = "Mamadou Bamou Touré"
+		ideology = fascistic
+		loyalty = 1.00
+		picture = M50023
+		head_of_state = apologetic_clerk
+		start_date = 2000.1.1
+	}
+	50024 = {
+		name = "Gabriel Podiougou"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M50024
+		minister_of_intelligence = industrial_specialist
+		chief_of_staff = naive_optimist
+		chief_of_army = military_slob
+		chief_of_air = air_to_ground_proponent
+		chief_of_navy = submarine_proponent
+		start_date = 2000.1.1
+	}
+}

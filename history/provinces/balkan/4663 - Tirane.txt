@@ -1,0 +1,9 @@
+owner = ALB
+controller = ALB
+add_core = ALB
+
+manpower = 0.6
+infra = 6
+
+
+points = 1

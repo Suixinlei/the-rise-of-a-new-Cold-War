@@ -1,0 +1,7 @@
+owner = PRU
+controller = PRU
+add_core = PRU
+
+infra = 6
+air_base = 1 #Talara airbase
+points = 1

@@ -1,0 +1,7 @@
+owner = ANG
+controller = ANG
+add_core = ANG
+infra = 4
+
+naval_base = 2 #Cabinda port
+points = 1

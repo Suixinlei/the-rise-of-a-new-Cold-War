@@ -1,0 +1,118 @@
+color = { 146  154  198 }
+graphical_culture = Japanese
+last_election = 2000.7.2
+duration = 48
+
+default_templates = {
+	generic_infantry = {
+		infantry_brigade
+		infantry_brigade
+		infantry_brigade
+	}
+	generic_milita = {
+		militia_brigade
+		militia_brigade
+		militia_brigade
+	}
+	generic_armoured = {
+		armor_brigade
+		motorized_brigade
+		motorized_brigade
+	}
+	generic_cavalry = {
+		cavalry_brigade
+		cavalry_brigade
+	}
+}
+
+unit_names = {
+	infantry_brigade = {
+		"1. Mongol Strelkovaya Div." "2. Mongol Strelkovaya Div." "3. Mongol Strelkovaya Div." "4. Mongol Strelkovaya Div." "5. Mongol Strelkovaya Div." "6. Mongol Strelkovaya Div." "8. Mongol Strelkovaya Div." "10. Mongol Strelkovaya Div." "11. Mongol Strelkovaya Div." "12. Mongol Strelkovaya Div." "13. Mongol Strelkovaya Div." 
+		"14. Mongol Strelkovaya Div." "16. Mongol Strelkovaya Div." "17. Mongol Strelkovaya Div." "19. Mongol Strelkovaya Div." "21. Mongol Strelkovaya Div." "22. Mongol Strelkovaya Div." "23. Mongol Strelkovaya Div." "24. Mongol Strelkovaya Div." "25. Mongol Strelkovaya Div." 
+	}
+	cavalry_brigade = {
+		"1. Nayramdakh Kavaleriyskaya Div." "2. Nayramdakh Kavaleriyskaya Div." "3. Nayramdakh Kavaleriyskaya Div." "4. Nayramdakh Kavaleriyskaya Div." "5. Nayramdakh Kavaleriyskaya Div." "6. Nayramdakh Kavaleriyskaya Div." "7. Nayramdakh Kavaleriyskaya Div." "8. Nayramdakh Kavaleriyskaya Div." "9. Nayramdakh Kavaleriyskaya Div." "10. Nayramdakh Kavaleriyskaya Div." 
+	}
+	motorized_brigade = {
+		"1. Mongol Motorizovannaya Div." "2. Mongol Motorizovannaya Div." "3. Mongol Motorizovannaya Div." "4. Mongol Motorizovannaya Div." "5. Mongol Motorizovannaya Div." "6. Mongol Motorizovannaya Div." "8. Mongol Motorizovannaya Div." "10. Mongol Motorizovannaya Div." "11. Mongol Motorizovannaya Div." "12. Mongol Motorizovannaya Div." 
+	}
+	mechanized_brigade = {
+		"1. Mongol Motostrelkovaya Div." "2. Mongol Motostrelkovaya Div." "3. Mongol Motostrelkovaya Div." "4. Mongol Motostrelkovaya Div." "5. Mongol Motostrelkovaya Div." "6. Mongol Motostrelkovaya Div." "8. Mongol Motostrelkovaya Div." "10. Mongol Motostrelkovaya Div." "11. Mongol Motostrelkovaya Div." "12. Mongol Motostrelkovaya Div." "13. Mongol Motostrelkovaya Div." 
+			}
+	light_armor_brigade = {
+		"1. Mongol Tankovaya Div." "2. Mongol Tankovaya Div." "3. Mongol Tankovaya Div." "4. Mongol Tankovaya Div." "5. Mongol Tankovaya Div." "6. Mongol Tankovaya Div." "7. Mongol Tankovaya Div." "8. Mongol Tankovaya Div." "9. Mongol Tankovaya Div." "10. Mongol Tankovaya Div." 
+	}
+	armor_brigade = {
+		"1. Mongol Tankovaya Div." "2. Mongol Tankovaya Div." "3. Mongol Tankovaya Div." "4. Mongol Tankovaya Div." "5. Mongol Tankovaya Div." "6. Mongol Tankovaya Div." "7. Mongol Tankovaya Div." "8. Mongol Tankovaya Div." "9. Mongol Tankovaya Div." "10. Mongol Tankovaya Div." 
+	}
+	paratrooper_brigade = {
+		"1. Mongol Vozdushno-Desantnaya Div." "2. Mongol Vozdushno-Desantnaya Div." "3. Mongol Vozdushno-Desantnaya Div." "4. Mongol Vozdushno-Desantnaya Div." "5. Mongol Vozdushno-Desantnaya Div." "6. Mongol Vozdushno-Desantnaya Div." "7. Mongol Vozdushno-Desantnaya Div." "8. Mongol Vozdushno-Desantnaya Div." "9. Mongol Vozdushno-Desantnaya Div." "10. Mongol Vozdushno-Desantnaya Div." 
+	}
+	marine_brigade = {
+		"1. Div. Mongol Morskoi Pekhoty" "2. Div. Mongol Morskoi Pekhoty" "3. Div. Mongol Morskoi Pekhoty" "4. Div. Mongol Morskoi Pekhoty" "5. Div. Mongol Morskoi Pekhoty" "6. Div. Mongol Morskoi Pekhoty" "7. Div. Mongol Morskoi Pekhoty" "8. Div. Mongol Morskoi Pekhoty" "9. Div. Mongol Morskoi Pekhoty" "10. Div. Mongol Morskoi Pekhoty" 
+	}
+	bergsjaeger_brigade = {
+		"1. Mongol Gornostrelkovaya Div." "2. Mongol Gornostrelkovaya Div." "3. Mongol Gornostrelkovaya Div." "4. Mongol Gornostrelkovaya Div." "5. Mongol Gornostrelkovaya Div." "6. Mongol Gornostrelkovaya Div." "8. Mongol Gornostrelkovaya Div." "10. Mongol Gornostrelkovaya Div." "11. Mongol Gornostrelkovaya Div." "12. Mongol Gornostrelkovaya Div." 
+	}
+	garrison_brigade = {
+		"1. Mongol Strelkovaya Div." "2. Mongol Strelkovaya Div." "3. Mongol Strelkovaya Div." "4. Mongol Strelkovaya Div." "5. Mongol Strelkovaya Div." "6. Mongol Strelkovaya Div." "8. Mongol Strelkovaya Div." "10. Mongol Strelkovaya Div." "11. Mongol Strelkovaya Div." "12. Mongol Strelkovaya Div." "13. Mongol Strelkovaya Div." 
+		"14. Mongol Strelkovaya Div." "16. Mongol Strelkovaya Div." "17. Mongol Strelkovaya Div." "19. Mongol Strelkovaya Div." "21. Mongol Strelkovaya Div." "22. Mongol Strelkovaya Div." "23. Mongol Strelkovaya Div." "24. Mongol Strelkovaya Div." "25. Mongol Strelkovaya Div." 
+	}
+	hq_brigade = {
+		"1ya Mongol Armiya" "2ya Mongol Armiya" "3ya Mongol Armiya" "4ya Mongol Armiya" "5ya Mongol Armiya" 
+	}
+	militia_brigade = {
+		"1. Nayramdakh Opolcheniya Div." "2. Nayramdakh Opolcheniya Div." "3. Nayramdakh Opolcheniya Div." "4. Nayramdakh Opolcheniya Div." "5. Nayramdakh Opolcheniya Div." "6. Nayramdakh Opolcheniya Div." "8. Nayramdakh Opolcheniya Div." "10. Nayramdakh Opolcheniya Div." "11. Nayramdakh Opolcheniya Div." "12. Nayramdakh Opolcheniya Div." "13. Nayramdakh Opolcheniya Div." 
+		"14. Nayramdakh Opolcheniya Div." "16. Nayramdakh Opolcheniya Div." "17. Nayramdakh Opolcheniya Div." "19. Nayramdakh Opolcheniya Div." "21. Nayramdakh Opolcheniya Div." "22. Nayramdakh Opolcheniya Div." "23. Nayramdakh Opolcheniya Div." "24. Nayramdakh Opolcheniya Div." "25. Nayramdakh Opolcheniya Div." 
+	}
+	multi_role = {
+		"1. Mongol IAD" "2. Mongol IAD" "3. Mongol IAD" "4. Mongol IAD" "5. Mongol IAD" 
+	}
+	interceptor = {
+		"1. Mongol IAD" "2. Mongol IAD" "3. Mongol IAD" "4. Mongol IAD" "5. Mongol IAD" 
+	}
+	strategic_bomber = {
+		"1. Mongol DBAD" "2. Mongol DBAD" "3. Mongol DBAD" "4. Mongol DBAD" "5. Mongol DBAD" 
+	}
+	tactical_bomber = {
+		"1. Mongol BAD" "2. Mongol BAD" "3. Mongol BAD" "4. Mongol BAD" "5. Mongol BAD" "10. Mongol BAD" 
+	}
+	naval_bomber = {
+		"1. Mongol MBAD" "2. Mongol MBAD" "3. Mongol MBAD" "4. Mongol MBAD" "5. Mongol MBAD" 
+	}
+	cas = {
+		"23. Mongol ShAD" "46. Mongol ShAD" "77. Mongol ShAD" "25. Mongol ShAD" 
+	}
+	transport_plane = {
+		"1. Mongol TrAD" "2. Mongol TrAD" "3. Mongol TrAD" "4. Mongol TrAD" "5. Mongol TrAD" 
+	}
+	battleship = {
+		"Mongol Nayramdakh Ard Uls" "Ulan Bator" 
+	}
+	light_cruiser = {
+		"Lenin" "Ba-Cagan" "Dzargalant" "Bajan-Ula" "Arbaj-Here" 
+	}
+	heavy_cruiser = {
+		"Lenin" "Ba-Cagan" "Dzargalant" "Bajan-Ula" "Arbaj-Here" 
+	}
+	battlecruiser = {
+		"Mongol Nayramdakh Ard Uls" "Ulan Bator" 
+	}
+	destroyer = {
+		"1. Mongol Flotiliya Esmintsev" "2. Mongol Flotiliya Esmintsev" "3. Mongol Flotiliya Esmintsev" "4. Mongol Flotiliya Esmintsev" "5. Mongol Flotiliya Esmintsev" 
+	}
+	carrier = {
+		"Choibalsan" "Stalin" 
+	}
+	submarine = {
+		"1. Mongol Flotiliya Podlodok" "2. Mongol Flotiliya Podlodok" "3. Mongol Flotiliya Podlodok" "4. Mongol Flotiliya Podlodok" "5. Mongol Flotiliya Podlodok" 
+	}
+	transport_ship = {
+		"1. Mongol Transportnaya Flotiliya" "2. Mongol Transportnaya Flotiliya" "3. Mongol Transportnaya Flotiliya" "4. Mongol Transportnaya Flotiliya" "5. Mongol Transportnaya Flotiliya" 
+	}
+
+}
+
+ministers = {
+	
+}

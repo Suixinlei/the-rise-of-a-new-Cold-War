@@ -1,0 +1,7 @@
+owner = SPR
+controller = SPR
+add_core = SPR
+
+infra = 6
+
+naval_base = 4 #Avilas port

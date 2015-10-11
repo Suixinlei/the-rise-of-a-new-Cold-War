@@ -1,0 +1,7 @@
+owner = IND
+controller = IND
+add_core = IND
+infra = 4
+
+air_base = 2 #Car Nicobar airforce base
+naval_base = 3 #Port Blair

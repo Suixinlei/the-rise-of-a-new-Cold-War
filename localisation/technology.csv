@@ -1,0 +1,414 @@
+##################################################;;;;;;;;;;;;;;x;;;;
+# Abilities;;;;;;;;;;;;;;x;;;;
+##################################################;;;;;;;;;;;;;;x;;;;
+MAX_STRENGTH;最大兵力;Puissance max;Max. St鋜ke;;Fuerza m醲ima;;;;;;;;;x;;;;
+DEFAULT_ORG;组织度;Organisation;Organisation;;Organizaci髇;;;;;;;;;x;;;;
+DEFAULT_MORALE;士气;Moral;Moral;;Moral;;;;;;;;;x;;;;
+BUILD_COST_IC;IC消耗;Co鹴 de construction CI;IK-Baukosten;;Coste de construcci髇 en CI;;;;;;;;;x;;;;
+BUILD_COST_MP;人力消耗;Co鹴 en main d'渦vre;Mannst鋜ke-Kosten;;Coste rec. hum.;;;;;;;;;x;;;;
+BUILD_TIME;建造时间;Dur閑 de construction;Bauzeit;;Tiempo cons.;;;;;;;;;x;;;;
+MAXIMUM_SPEED;最大速度;Vitesse max;Max. Geschw.;;Velocidad m醲ima;;;;;;;;;x;;;;
+TRANSPORT_WEIGHT;运输重量;Poids;Gewicht;;Peso;;;;;;;;;x;;;;
+SUPPLY_CONSUMPTION;补给消耗;Consommation en ravitaillement;Nachschubverbrauch;;Consumo suministros;;;;;;;;;x;;;;
+FUEL_CONSUMPTION;燃料消耗;Consommation en carburant;Treibstoffverbrauch;;Consumo combustible;;;;;;;;;x;;;;
+DEFENSIVENESS;防御能力;Capacit閟 d閒ensives;Verteidigungskraft;;Defensa;;;;;;;;;x;;;;
+TOUGHNESS;坚韧程度;R閟istance;Z鋒igkeit;;Resistencia;;;;;;;;;x;;;;
+SOFTNESS;非装甲度;Faiblesses;Schw鋍he;;Debilidad;;;;;;;;;x;;;;
+AIR_DEFENCE;对空防御;D閒ense a閞ienne;Luftverteidigung;;Defensa a閞ea;;;;;;;;;x;;;;
+SUPPRESSION;镇压能力;R閜ression;Unterdr點kung;;Neutralizaci髇;;;;;;;;;x;;;;
+SOFT_ATTACK;非装甲攻击;Attaque de cibles non blind閑s;Angr. auf ungep. Ziele;;Ataque antipersonal;;;;;;;;;x;;;;
+HARD_ATTACK;装甲攻击;Attaque de cibles blind閑s;Angr. auf gep. Ziele;;Ataque anticarro;;;;;;;;;x;;;;
+AIR_ATTACK;对空攻击;Attaque a閞ienne;;;Ataque a閞eo;;;;;;;;;x;;;;
+COMBAT_WIDTH;战术宽度;Aire de combat;Gefechtsbreite;;Anchura de combate;;;;;;;;;x;;;;
+GDE_FROM_TECH;地面防御效率;Efficacit?de la d閒ense au sol;Bodenverteidigungseffizienz;;Eficacia defensa terrestre;;;;;;;;;x;;;;
+DIGIN_FROM_TECH;筑垒能力;Capacit??se retrancher;Max. Eingrabung;;Cap. antrinch.;;;;;;;;;x;;;;
+ATTACK_DELAY_FROM_TECH;发起进攻后的迟滞时间缩短;Temps entre les attaques r閐uit par;Verz鰃erung zw. Angriffen reduziert um;;Retraso entre ataques reducido con;;;;;;;;;x;;;;
+AD_HOURS;小时;heures;Stunden;;horas;;;;;;;;;x;;;;
+DIVISION_SIZE_FROM_TECH;旅级单位可配置的营;Brigades autoris閑s dans la division;Erlaubte Brigadenzahl in Division;;Brigadas permitidas en divisi髇;;;;;;;;;x;;;;
+SUPPLY_TRANSFER_COST_TECH;补给运输损耗;Co鹴 du transfert du ravitaillement;Nachschub-Transferkosten;;Coste de transferencia de suministros;;;;;;;;;x;;;;
+SUPPLY_THROUGHPUT_TECH;补给吞吐能力;Capacit?en ravitaillement;Nachschubdurchsatz;;Rendimiento de los suministros;;;;;;;;;x;;;;
+REFINERY_EFFICIENCY_TECH;精炼效率;Efficacit?du raffinage;Raffinierungseffizienz;;Rendimiento del refinado;;;;;;;;;x;;;;
+RADAR_EFFICIENCY_TECH;雷达效率;Efficacit?radar;Radareffizienz;;Eficacia de radares;;;;;;;;;x;;;;
+RADIO_STRENGTH_TECH;雷达强度;Puissance radio;Funkst鋜ke;;Potencia de radiotransmisi髇;;;;;;;;;x;;;;
+DECRYPTION_TECH;解码能力;Capacit?en d閏ryptage;Dekodierungsf鋒igkeit;;Capacidad de descifrado;;;;;;;;;x;;;;
+ENCRYPTION_TECH;编码能力;Capacit?en cryptage;Kodierungsf鋒igkeit;;Capacidad de cifrado;;;;;;;;;x;;;;
+INTEL_OP_US_TECH;谍报工作;Ops de renseignements;Spionageaktionen;;Operaciones de inteligencia;;;;;;;;;x;;;;
+INTEL_OP_THEM_TECH;反谍工作;Ops de contre-renseignements;Gegenspionageaktionen;;Operaciones de contrainteligencia;;;;;;;;;x;;;;
+CONVOY_COST_TECH;运输舰建造消耗;Co鹴 de construction du convoi;Konvoi-Baukosten;;Coste de construcci髇 de convoy;;;;;;;;;x;;;;
+CONVOY_TIME_TECH;运输舰建造时间;Dur閑 de construction du convoi;Konvoi-Bauzeit;;Tiempo de construcci髇 de convoy;;;;;;;;;x;;;;
+ESCORT_COST_TECH;护航舰建造消耗;Co鹴 de construction de l'escorte;Eskorte-Baukosten;;Coste de construcci髇 de escolta;;;;;;;;;x;;;;
+ESCORT_TIME_TECH;护航舰建造时间;Dur閑 de construction de l'escorte;Eskorte-Bauzeit;;Tiempo de construcci髇 de escolta;;;;;;;;;x;;;;
+UNIT_COOP_TECH;单位协作;Coop閞ation de l'unit?Einheitenkooperation;;Cooperaci髇 de unidades;;;;;;;;;x;;;;
+COMBINED_ARMS_TECH;混合兵种加成;Bonus pour les armes combin閑s;Bonus f黵 Op. verb. Kr鋐te;;Bonificaci髇 por interarma;;;;;;;;;x;;;;
+REINFORCE_CHANCE_TECH;战斗增援几率;Probabilit?d'arriv閑 de renforts en combat;Verst鋜kungswahrscheinlichkeit;;Probabilidad de refuerzos de combate;;;;;;;;;x;;;;
+ATTACK_MOVEMENT_SPEED_TECH;攻击运动;Mouvement d'attaque;Angriffsgeschwindigkeit;;Movimiento de ataque;;;;;;;;;x;;;;
+ENABLE_UNIT_TECH;允许生产：;Permettre la construction de;Bau erm鰃lichen von;;Permitir la construcci髇 de;;;;;;;;;x;;;;
+ENABLE_BUILDING_TECH;允许建造：;Permettre la construction de;Bau erm鰃lichen von;;Permitir la construcci髇 de;;;;;;;;;x;;;;
+TRANSPORT_CAPABILITY;运输能力;Capacit?de transport;Transportf鋒igkeit;;Capacidad de transporte;;;;;;;;;x;;;;
+RANGE;航程;Rayon d'action;Reichweite;;Radio de acci髇;;;;;;;;;x;;;;
+DISTANCE;射程;Distance;Entfernung;;Distancia;;;;;;;;;x;;;;
+SURFACE_DETECTION;对海探测;D閠ection de surface;Oberfl鋍henortung;;Detec. superficie;;;;;;;;;x;;;;
+AIR_DETECTION;对空探测;D閠ection a閞ienne;Luftortung;;Detec. a閞ea;;;;;;;;;x;;;;
+SUB_DETECTION;对潜探测;D閠ection sous-marine;Unterwasserortung;;Detecci髇 sub.;;;;;;;;;x;;;;
+VISIBILITY;可见度;Visibilit?Sichtbarkeit;;Visibilidad;;;;;;;;;x;;;;
+SEA_DEFENCE;对海防御;D閒ense navale;Seeverteidigung;;Def. mar韙ima;;;;;;;;;x;;;;
+CONVOY_ATTACK;护航攻击;Attaque du convoi;Konvoiangriff;;Ataque a convoy;;;;;;;;;x;;;;
+SEA_ATTACK;对海攻击;Attaque navale;Seeangriff;;Ataque mar韙imo;;;;;;;;;x;;;;
+SUB_ATTACK;对潜攻击;Attaque sous-marine;Unterwasserangriff;;Ataque sub.;;;;;;;;;x;;;;
+SHORE_BOMBARDMENT;舰炮支援;Bombardement c魌ier;K黶tenbombardement;;Bombardeo costero;;;;;;;;;x;;;;
+SURFACE_DEFENCE;水面防御;D閒ense en surface;Oberfl鋍henverteidigung;;Defensa superf.;;;;;;;;;x;;;;
+STRATEGIC_ATTACK;战略攻击;Attaque strat間ique;Strategischer Angriff;;Ataque estrat.;;;;;;;;;x;;;;
+RADIO_STRENGTH;无线电强度;Puissance radio;Funkst鋜ke;;Potencia de radiotransmisi髇;;;;;;;;;x;;;;
+HULL;船体;Coque;Rumpf;;Casco;;;;;;;;;x;;;;
+POSITIONING;兵力布置;Positionnement;Positionierung;;Despliegue;;;;;;;;;x;;;;
+ALLOW_ESCORTS_TECH;允许建设运输舰以及护航舰;Permet la construction d'escortes pour les convois;Bau von Konvoi-Geleitschiffen erm鰃lichen;;Permite la construcci髇 de escoltas para convoyes;;;;;;;;;x;;;;
+ESCORT_EFFICIENCY_TECH;护航效率;Efficacit?de l'escorte;Geleitschiff-Effizienz;;Rendimiento de la escolta;;;;;;;;;x;;;;
+TARGET_CHOICE_TECH;目标选择;Choix de la cible;Zielwahl;;Selecci髇 de objetivo;;;;;;;;;x;;;;
+TARGET_CHANCE_TECH;目标可能;Probabilit?d'atteinte de la cible;Zielwahl;;Probabilidad de objetivo;;;;;;;;;x;;;;
+NAVAL_BASE_EFF_TECH;海军基地效率;Efficacit?de la base navale;Marinebasis-Effizienz;;Rendimiento de base naval;;;;;;;;;x;;;;
+CASUALTY_TRICKLEBACK_TECH;伤亡恢复;蓈acuation des victimes;Verwundetenr點kkehr;;Goteo de vuelta de bajas;;;;;;;;;x;;;;
+MAX_ATTRITION_TECH;损耗;Attrition;Verlustquote;;El desgaste;;;;;;;;;x;;;;
+MANPOWER_GAIN_TECH;人力;Main d'渦vre;Mannst鋜ke;;Rec. hum.;;;;;;;;;x;;;;
+IC_MOD_TECH;IC;CI;IK;;Aco Iro;;;;;;;;;x;;;;
+IC_EFFICIENCY_TECH;IC效率;Efficacit?CI;IK-Effizienz;;Rendimiento de CI;;;;;;;;;x;;;;
+ENERGY_TO_OIL_TECH;煤转油;蒼ergie en p閠role;Energie zu 謑;;Energ韆 en combustible;;;;;;;;;x;;;;
+IC_TO_SUPPLIES_TECH;补给生产;Production de ravitaillement;Nachschubproduktion;;Producci髇 de suministros;;;;;;;;;x;;;;
+PROV_AA_TECH;地区防空效率;Efficacit?DCA provinciale;Provinzielle Flak-Effizienz;;Eficacia de la AA provincial;;;;;;;;;x;;;;
+COMBAT_EFF_TECH;战斗效率;Efficacit?au combat;Kampfeffizienz;;Eficacia en combate;;;;;;;;;x;;;;
+RESEARC_EFF_TECH;科研效率;Efficacit?des recherches;Forschungseffizienz;;Rendimiento de la investigaci髇;;;;;;;;;x;;;;
+METAL_PROD_TECH;钢铁生产;Production de m閠aux;Metallproduktion;;Producci髇 de metal;;;;;;;;;x;;;;
+RARES_PROD_TECH;稀有金属生产;Production de mat閞iaux rares;Prod. seltener Materialien;;Producci髇 de materiales raros;;;;;;;;;x;;;;
+ENERGY_PROD_TECH;能源生产;Production d'閚ergie;Energieproduktion;;Producci髇 de energ韆;;;;;;;;;x;;;;
+LEADERSHIP_GAIN_TECH;领导力;Leadership;F黨rung;;Liderazgo;;;;;;;;;x;;;;
+NIGHT_ADJUSTER;夜战;Nuit;Nacht;;Noche;;;;;;;;;x;;;;
+FORT_ADJUSTER;要塞;Fort;Fort;;Fuerte;;;;;;;;;x;;;;
+RIVER_ADJUSTER;河流;Fleuve;Fluss;;R韔;;;;;;;;;x;;;;
+AMPH_ADJUSTER;两栖作战;Amphibie;Amphibisch;;Anfibio;;;;;;;;;x;;;;
+UA_ATTACK;进攻;Attaque;Angriff;;Ataque;;;;;;;;;x;;;;
+UA_DEFENCE;防御;D閒ense;Verteidigung;;Defensa;;;;;;;;;x;;;;
+UA_MOVEMENT;移动;Mouvement;Bewegung;;Movimiento;;;;;;;;;x;;;;
+UA_ATTRITION;损耗;Attrition;Verlustquote;;El desgaste;;;;;;;;;x;;;;
+NUKE_PROD_GAIN_TECH;原子弹生产;Production nucl閍ire;Atomare Prod.;;Producci髇 nuclear;;;;;;;;;x;;;;
+ORD_RED;组织度惩罚;P閚alit?d'organisation; Organisationsabzug;; Penalizaci髇 a la organizaci髇;;;;;;;;;x;;;;
+ORD_EFF; 效率;Efficacit? Effizienz;; Rendimiento;;;;;;;;;x;;;;
+RADAR_IMPACT_TECH;雷达战术效果;Impact du radar sur le combat;Radard-Gefechtseinfluss;;Impacto del radar en combate;;;;;;;;;x;;;;
+REPAIR_RATE_TECH;维修速度;Taux de r閜aration;Reparaturgeschwindigkeit;;Velocidad de reparaci髇;;;;;;;;;x;;;;
+BOMBER_TARGET_TECH;轰炸目标选择;S閘ection de la cible du bombardier;Bomber-Zielauswahl;;Selecci髇 de objetivos de bombardero;;;;;;;;;x;;;;
+FIGHTER_TARGET_TECH;空战目标选择;S閘ection de la cible du chasseur;J鋑er-Zielauswahl;;Selecci髇 de objetivos de caza;;;;;;;;;x;;;;
+FRONTLINE_FOCUS_TECH;前线目标集中;Cible ligne de front;Fronttruppen-Hauptziele;;Prioridad de objetivos del frente;;;;;;;;;x;;;;
+RESERVE_FOCUS_TECH;后备目标集中;Cible r閟erves;Reserven-Hauptziele;;Prioridad de objetivos de la reserva;;;;;;;;;x;;;;
+NAVAL_AIR_TARGET_CHANCE_TECH;海轰目标选择;Probabilit?d'atteinte de la cible par bombardement naval;Marinebombardement - Trefferwahrsch.;;Oportunidad de objetivo de bombardeo naval ;;;;;;;;;x;;;;
+CARRIER_CAPACITY;航母舰载机群容量;Taille du groupe a閞ien embarqu?Tr鋑ergeschwader-Gr鲞e;;Portaaviones tama駉 GAE;;;;;;;;;x;;;;
+LISTENING_STATION_TECH;允许雷达设施作为监听站工作;Permettre aux installations radar d'op閞er en tant que stations d'閏oute;Radareinr. erm鰃lichen, als Horchposten zu fungieren;;Permitir que los puestos de radar act鷈n como puestos de escucha;;;;;;;;;x;;;;
+##################################################;;;;;;;;;;;;;;x;;;;
+# Theories and Practicals;;;;;;;;;;;;;;x;;;;
+##################################################;;;;;;;;;;;;;;x;;;;
+infantry_theory;步兵学说 ;;;;;;;;;;X
+infantry_practical;步兵应用 ;;;;;;;;;;X
+militia_practical;民兵应用;Connaissances prat. milice;Miliz-Praxis;;Práctica de la milicia;;;;;;;;;x;;;;
+mobile_theory;移动机动学;-;-;;-;;;;;;;;;x;;;;
+mobile_practical;移动机动应用;Connaissances pratiques de l'unité mobile;Mobile Einheiten-Praxis;;Práctica de la unidad de maniobra;;;;;;;;;x;;;;
+artillery_theory;炮兵理论;Théorie de l'artillerie;Artillerie-Theorie;;Teoría de la artillería;;;;;;;;;x;;;;
+artillery_practical;炮兵应用;Connaissances pratiques de l'artillerie;Artillerie-Praxis;;Práctica de la artillería;;;;;;;;;x;;;;
+rocket_science;火箭科学;Fuséologie;Raketen-Theorie;;Técnica de cohetes;;;;;;;;;x;;;;
+rocket_practical;火箭应用;Connaissances pratiques en fuséologie;Raketen-Praxis;;Práctica de cohetes;;;;;;;;;x;;;;
+naval_engineering;海军工程学;Ing閚ierie navale;Marine-Ingenieurswesen;;Ingenier韆 naval;;;;;;;;;x;;;;
+destroyer_practical;大型船舶应用;Petit Navire Pratique;Kleines Schiff Praktische;;Barco Peque?o Práctico;;;;;;;;;x;;;;
+cruiser_practical;小型船舶应用;Grand Navire Pratique;Gro?es Schiff Praktische;;Gran Nave Práctico;;;;;;;;;x;;;;
+capitalship_practical;-;-;-;;-;;;;;;;;;x;;;;
+carrier_practical;航母应用 ;;;;;;;;;;X
+submarine_engineering;潜艇工程学;Ing閚ierie sous-marine;U-Boot-Ingenieurswesen;;Ingenier韆 submarina;;;;;;;;;x;;;;
+submarine_practical;潜艇应用 ;;;;;;;;;;X
+electornicegineering_theory;电子工程学 ;;;;;;;;;;X
+electornicegineering_practical;电子工程应用 ;;;;;;;;;;X
+automotive_theory;装甲学说 ;;;;;;;;;;X
+armour_practical;装甲应用 ;;;;;;;;;;X
+aeronautic_engineering;航空工程学;Ing閚ierie a閞onautique;Flugingenieurwesen;;Ingenier韆 aeron醬tica;;;;;;;;;x;;;;
+single_engine_aircraft_practical;轻型飞机应用;Connaissances pratiques des avions l間ers;Jagdflugzeug-Praxis;;Pr醕tica de aviones ligeros;;;;;;;;;x;;;;
+twin_engine_aircraft_practical;重型飞机应用;Connaissances pratiques des avions lourds;Schwere Bomber-Praxis;;Pr醕tica de bombardero pesado;;;;;;;;;x;;;;
+four_engine_aircraft_practical;直升机应用;H閘icopt鑢e Pratique;Hubschrauber Praktische;;Helic髉tero Pr醕tico;;;;;;;;;x;;;;
+spearhead_theory;现代闪电战学说;Doctrine du moderne blitzkrieg;Modernen Blitzkrieg-Doktrin;;Doctrina de moderna blitzkrieg;;;;;;;;;x;;;;
+superior_firepower_theory;优势火力学说;Doctrine de la puissance de feu dominante;Feuer黚erlegenheit-Doktrin;;Doctrina de la potencia de fuego superior;;;;;;;;;x;;;;
+grand_battleplan_theory;非对称战争学说;Doctrine du guerre asym閠rique;Asymmetrische Kriegsf黨rung-Doktrin;;Doctrina del guerra asim閠rica;;;;;;;;;x;;;;
+human_wave_theory;综合管理;Direction G閚閞ale;General Management;;Gesti髇 General;;;;;;;;;x;;;;
+land_doctrine_theory;陆军学说;Th閛rie de la doctrine terrestre;Landdoktrin-Theorie;;Teor韆 de la doctrina de tierra;;;;;;;;;x;;;;
+land_doctrine_practical;陆军战斗经验;Exp閞ience en combat terrestre;Bodenkampferfahrung;;Experiencia en combate terrestre;;;;;;;;;x;;;;
+naval_doctrine_practical;海军战斗经验;Exp閞ience en combat naval;Seekampferfahrung;;Experiencia en combate naval;;;;;;;;;x;;;;
+base_strike_doctrine;远洋作战学说;Doctrine de L'Eau Bleue;Hochsee-Doktrin;;Doctrina del alta mar;;;;;;;;;x;;;;
+fleet_in_being_doctrine;近海作战学说;Doctrine du vert d'eau marine;Gr黱-Wasser-Marine-Doktrin;;Doctrina de verde-agua marina;;;;;;;;;x;;;;
+sealane_interdiction_doctrine;潜艇战学说;Guerre Sous-marine;U-Boot-Kriegsf黨rung;;La Guerra Submarina;;;;;;;;;x;;;;
+air_doctrine_practical;空军战斗经验;Exp閞ience en combat a閞ien;Luftkampferfahrung;;Experiencia en combate a閞eo;;;;;;;;;x;;;;
+fighter_focus;战斗机应用;Objectif chasseur;Fokus auf Jagdflugzeuge;;Prioridad de los cazas;;;;;;;;;x;;;;
+cas_focus;近空支援应用;Objectif soutien a閞ien rapproch?Fokus auf Luftnahunterst黷zung;;Prioridad del apoyo a閞eo;;;;;;;;;x;;;;
+tac_focus;轰炸机应用;Objectif bombardier;Fokus auf bomberen;;Prioridad del bombardero;;;;;;;;;x;;;;
+nav_focus;海军航空应用;Objectif aviation navale;Fokus auf Marineflieger;;Prioridad de la aviaci髇 naval;;;;;;;;;x;;;;
+strategic_air_focus;-;-;-;;-;;;;;;;;;x;;;;
+mechanicalengineering_theory;机械工程学;G閚ie m閏anique;Maschinenbau;;Ingenier韆 mec醤ica;;;;;;;;;x;;;;
+chemical_engineering;能源材料工程学;G閚ie des Mat閞iaux et de L'蒼ergie;Material und Energietechnik;;Ingenier韆 de Materiales y Energ韆;;;;;;;;;x;;;;
+jetengine_theory;-;-;-;;-;;;;;;;;;x;;;;
+jetengine_practical;-;-;-;;-;;;;;;;;;x;;;;
+nuclear_physics;核能工程学;Physique nucl閍ire;Atomphysik;;F韘ica nuclear;;;;;;;;;x;;;;
+nuclear_bomb;核能应用;Fabrication de bombe nucl閍ire;Atombombenherstellung;;Producci髇 de bomba nuclear;;;;;;;;;x;;;;
+transport_practical;运输船应用;Connaissances pratiques des transports;Transport-Praxis;;Pr醕tica del transporte;;;;;;;;;x;;;;
+##################################################;;;;;;;;;;;;;;x;;;;
+# Folders;;;;;;;;;;;;;;x;;;;
+##################################################;;;;;;;;;;;;;;x;;;;
+infantry_folder;步兵;Infanterie;Infanterie;;Infanter韆;;;;;;;;;x;;;;
+armour_folder;装甲;Blindage;Panzer;;Blindaje;;;;;;;;;x;;;;
+smallship_folder;舰载武器;Petits navires;Kleinschiffe;;Buques ligeros;;;;;;;;;x;;;;
+capitalship_folder;军用舰船;Navires capitaux;Gro遱chiffe;;Grandes unidades;;;;;;;;;x;;;;
+bomber_folder;机载武器;Gros Avions;Gro遝 Flugzeuge;;Aeronaves de Gran Tama駉;;;;;;;;;x;;;;
+fighter_folder;军用飞机;Chasseurs;J鋑er;;Cazas;;;;;;;;;x;;;;
+industry_folder;工业;Industrie;Industrie;;Industria;;;;;;;;;x;;;;
+secretweapon_folder;秘密武器;Armes secr鑤es;Geheimwaffen;;Armas secretas;;;;;;;;;x;;;;
+theory_folder;理论学说;Th閛ries;Theorien;;Teor韆s;;;;;;;;;x;;;;
+land_doctrine_folder;陆军学说;Doctrine terrestre;Landdoktrin;;Doctrina de tierra;;;;;;;;;x;;;;
+naval_doctrine_folder;海军学说;Doctrine navale;Marinedoktrin;;Doctrina naval;;;;;;;;;x;;;;
+air_doctrine_folder;空军学说;Doctrine a閞ienne;Luftdoktrin;;Doctrina a閞ea;;;;;;;;;x;;;;
+##################################################;;;;;;;;;;;;;;x;;;;
+# Top Buttons;;;;;;;;;;;;;;x;;;;
+##################################################;;;;;;;;;;;;;;x;;;;
+TECH_INFANTRY;步兵;Infanterie;Infanterie;;Infanter韆;;;;;;;;;x;;;;
+TECH_ARMOUR;装甲;Blind閟;Panzer;;Blindaje;;;;;;;;;x;;;;
+TECH_ESCORTS;轻型舰船;Petits navires;Kleinschiffe;;Buques ligeros;;;;;;;;;x;;;;
+TECH_CAPITAL;主力舰船;Navires capitaux;Gro遱chiffe;;Grandes unidades;;;;;;;;;x;;;;
+TECH_BOMBER;大型飞机;Gros Avions;Gro遝 Flugzeuge;;Aeronaves de Gran Tama駉;;;;;;;;;x;;;;
+TECH_FIGHTER;战斗机;Chasseur;J鋑er;;Caza;;;;;;;;;x;;;;
+TECH_INDUSTRY;工业;Industrie;Industrie;;Industria;;;;;;;;;x;;;;
+TECH_SECRET;秘密武器;Secret;Geheim;;Secreto;;;;;;;;;x;;;;
+TECH_THEORY;理论学说;Th閛rie;Theorie;;Teor韆;;;;;;;;;x;;;;
+TECH_LAND;陆军学说;Terrestre;Land;;Tierra;;;;;;;;;x;;;;
+TECH_NAVAL;海军学说;Naval;See;;Naval;;;;;;;;;x;;;;
+TECH_AIR;空军学说;A閞ien;Luft;;A閞eos;;;;;;;;;x;;;;
+##################################################;;;;;;;;;;;;;;x;x,,,;;;
+# Theoretical Research;;;;;;;;;;;;;;x;x,,,;;;
+##################################################;;;;;;;;;;;;;;x;x,,;;;
+naval_engineering_research;海军工程研究;;;;;;;;;;X
+submarine_engineering_research;潜艇工程研究;;;;;;;;;;X
+aeronautic_engineering_research;航空工程研究;;;;;;;;;;X
+rocket_science_research;火箭技术研究;;;;;;;;;;X
+chemical_engineering_research;化学工程研究;;;;;;;;;;X
+nuclear_physics_research;核物理学研究;;;;;;;;;;X
+jetengine_research;直升机研究;;;;;;;;;;X
+mechanicalengineering_research;机械工程研究;;;;;;;;;;X
+automotive_research;自动化研究;;;;;;;;;;X
+electornicegineering_research;电子工程研究;;;;;;;;;;X
+artillery_research;炮兵研究;;;;;;;;;;X
+mobile_research;机动作战研究;;;;;;;;;;X
+militia_research;民兵作战研究;;;;;;;;;;X
+infantry_research;步兵作战研究;;;;;;;;;;X
+naval_engineering_research_desc;海军工程理论是为我们的舰船研究新的技术的必要因素。一般而言这将随着具\n体科学的发展而提升。然而，如果我们在这一领域成立科研小组，他们的研究\n将提升我们的理论并加快其他研究项目。;;;;;;;;;;X
+submarine_engineering_research_desc;潜艇工程理论是为我们的潜艇研究新的技术的必要因素。一般而言这将随着具\n体科学的发展而提升。然而，如果我们在这一领域成立科研小组，他们的研究\n将提升我们的理论并加快其他研究项目。;;;;;;;;;;X
+aeronautic_engineering_research_desc;航空工程理论是为我们的飞机研究新的技术的必要因素。一般而言这将随着具\n体科学的发展而提升。然而，如果我们在这一领域成立科研小组，他们的研究\n将提升我们的理论并加快其他研究项目。;;;;;;;;;;X
+rocket_science_research_desc;火箭技术是必要的如果对任何部队想要使用火箭无论用作武器还是推进。一般\n而言这将随着具体科学的发展而提升。然而，如果我们在这一领域成立科研小\n组，他们的研究将提升我们的理论并加快其他研究项目。;;;;;;;;;;X
+chemical_engineering_research_desc;化学工程是必要的对于开发新材料，武器和工业。一般而言这将随着具体科学\n的发展而提升。然而，如果我们在这一领域成立科研小组，他们的研究将提升\n我们的理论并加快其他研究项目。;;;;;;;;;;X
+nuclear_physics_research_desc;核理论是艰巨的科学领域，如果我们希望在军事上应用则应尽我们所能发展核\n技术。一般而言这将随着具体科学的发展而提升。然而，如果我们在这一领域\n成立科研小组，他们的研究将提升我们的理论并加快其他研究项目。;;;;;;;;;;X
+jetengine_research_desc;开发喷气引擎前景是诱人的。然而，除非我们有足够的经验来建立原型我们就\n可以提升这方面的理论通过在这方面调查的理论。这将提升任何应用喷气引擎\n的研究项目。;;;;;;;;;;X
+mechanicalengineering_research_desc;机械工程理论是发展新的工业设备，车辆和发动机的关键。一般而言这将随着\n具体科学的发展而提升。然而，如果我们在这一领域成立科研小组，他们的研\n究将提升我们的理论并加快其他研究项目。;;;;;;;;;;X
+automotive_research_desc;汽车理论是发展关于坦克和装甲部队的新技术的关键。一般而言这将随着具体\n科学的发展而提升。然而，如果我们在这一领域成立科研小组，他们的研究将\n提升我们的理论并加快其他研究项目。;;;;;;;;;;X
+electornicegineering_research_desc;电气和电子工程理论开始变得重要在通讯，雷达，和很多其他组成部分。一般\n而言这将随着具体科学的发展而提升。然而，如果我们在这一领域成立科研小\n组，他们的研究将提升我们的理论并加快其他研究项目。;;;;;;;;;;X
+artillery_research_desc;炮兵理论是为部队开发重武器的关键。一般而言这将随着具体科学的发展而提\n升。然而，如果我们在这一领域成立科研小组，他们的研究将提升我们的理论\n并加快其他研究项目。;;;;;;;;;;X
+mobile_research_desc;机动作战理论是为轻型及机动部队发展新技术的关键。一般而言这将随着具体\n科学的发展而提升。然而，如果我们在这一领域成立科研小组，他们的研究将\n提升我们的理论并加快其他研究项目。;;;;;;;;;;X
+militia_research_desc;民兵理论是为轻型部队例如民兵和卫戎开发新式武器装备的关键。一般而言这\n将随着具体科学的发展而提升。然而，如果我们在这一领域成立科研小组，他\n们的研究将提升我们的理论并加快其他研究项目。;;;;;;;;;;X
+infantry_research_desc;步兵理论是为步兵旅发展新式武器装备的关键。一般而言这将随着具体科学的\n发展而提升。然而，如果我们在这一领域成立科研小组，他们的研究将提升我\n们的理论并加快其他研究项目。;;;;;;;;;;X
+##################################################;;;;;;;;;;x;;;;;;;;
+# Buliding Names;;;;;;;;;;x;;;;;;;;
+##################################################;;;;;;;;;;x;;;;;;;;
+air_base;AB空军基地;;;;;;;;;;X
+naval_base;NB海军基地;;;;;;;;;;X
+industry;IC工厂;;;;;;;;;;X
+costal_fort;CF海岸要塞;;;;;;;;;;X
+land_fort;LF陆上要塞;;;;;;;;;;X
+anti_air;AG防空火炮;;;;;;;;;;X
+infra;IF基础设施;;;;;;;;;;X
+radar_station;RS雷达站;;;;;;;;;;X
+nuclear_reactor;NT核试验场;;;;;;;;;;X
+rocket_test;SL卫星发射基地;;;;;;;;;;X
+air_base_short;空军基地;;;;;;;;;;X
+naval_base_short;海军基地;;;;;;;;;;X
+industry_short;工厂;;;;;;;;;;X
+coastal_fort_short;海岸要塞;;;;;;;;;;X
+land_fort_short;要塞;;;;;;;;;;X
+anti_air_short;防空;;;;;;;;;;X
+infra_short;基础设施;;;;;;;;;;X
+radar_station_short;雷达;;;;;;;;;;X
+nuclear_reactor_short;核试验场;;;;;;;;;;X
+rocket_test_short;卫星发射基地;;;;;;;;;;X
+;;;;;;;;;;;;;;;;;;
+##################################################;;;;;;;;;;;;;;;x;;;
+# Theoretical Research;;;;;;;;;;;;;;;x;;;
+##################################################;;;;;;;;;;;;;;;x;;;
+naval_engineering_research;海军工程研究;;;;;;;;;;X
+submarine_engineering_research;潜艇工程研究;;;;;;;;;;X
+aeronautic_engineering_research;航空工程研究;;;;;;;;;;X
+rocket_science_research;火箭技术研究;;;;;;;;;;X
+chemical_engineering_research;化学工程研究;;;;;;;;;;X
+nuclear_physics_research;核物理学研究;;;;;;;;;;X
+jetengine_research;喷气引擎研究;;;;;;;;;;X
+mechanicalengineering_research;机械工程研究;;;;;;;;;;X
+automotive_research;自动化研究;;;;;;;;;;X
+electornicegineering_research;电子工程研究;;;;;;;;;;X
+artillery_research;炮兵作战研究;;;;;;;;;;X
+mobile_research;机动作战研究;;;;;;;;;;X
+militia_research;民兵作战研究;;;;;;;;;;X
+infantry_research;步兵作战研究;;;;;;;;;;X
+;;;;;;;;;;;;;;;x;;;
+##################################################;;;;;;;;;;;;;;;x;;;
+# Land Doctrine Techs;;;;;;;;;;;;;;;x;;;
+##################################################;;;;;;;;;;;;;;;x;;;
+modern_blitzkrieg;现代闪击战;;;;;;;;;;X
+modern_blitzkrieg_desc;闪电战的理论是指通过运用坦克群迅速突破敌人的防线并在敌人作出回应之前迂回到敌人的后方，这需要训练有素的装甲部队来执行。;;;;;;;;;;X
+breakthrough_exploitation;重点突破战术;;;;;;;;;;X
+breakthrough_exploitation_desc;一旦我们取得了突破，将这种优势充分发挥是极其重要的。;;;;;;;;;;X
+elastic_defence;弹性防御;;;;;;;;;;X
+elastic_defence_desc;通过在前线部署较少的力量并在后方组织援军进行反攻，我们将能够进行更加有效，弹性的防御。这意味着我们的部队在被攻击时将更有可能进行战术撤退并且我们的指挥部将更有组织。;;;;;;;;;;X
+flanking_maneuvers;迂回策略;;;;;;;;;;X
+flanking_maneuvers_Desc;有时敌方的防线过于坚固以至于根本无法突破，因此我们将不得不尝试迂回到敌军后方。;;;;;;;;;;X
+shock_and_awe;震慑作战;;;;;;;;;;X
+shock_and_awe_desc;震慑作战是指集中使用优势火力攻击一个特定的点以压垮敌军。;;;;;;;;;;X
+armor_tactics;装甲战术;;;;;;;;;;X
+armor_tactics_desc;改进我们装甲部队的战术将让它们在战场上更有威力。;;;;;;;;;;X
+asymmetrical_warfare;不对称战争;;;;;;;;;;X
+asymmetrical_warfare_desc;在不对称战争中，我们需要避免与敌方的直接对抗并使用伏击或一击脱离战术来打击敌人。;;;;;;;;;;X
+defence_in_depth;纵深防御;;;;;;;;;;X
+defence_in_depth_desc;纵深防御由多条防线构成。这样即使敌军突破了第一道防线，后面还有一条等着它们。;;;;;;;;;;X
+flexible_defence;灵活防御;;;;;;;;;;X
+flexible_defence_desc;灵活的防御使得我方部队能够快速地交换防守位置并沿前线高速机动以击退敌方的主要攻势。;;;;;;;;;;X
+guerilla_tactics;游击战术;;;;;;;;;;X
+guerilla_tactics_desc;有时是最好的打击是通过小股部队游弋在前线的骚扰，避免战斗并造成混乱。如果我们的军队正在准备这样的游击战争，那么我们的部队能够对敌进行骚攻击。指挥部旅也将消耗更少的用品。;;;;;;;;;;X
+special_forces_doctrine;特种部队学说;;;;;;;;;;X
+special_forces_doctrine_desc;我们的空降兵，海军陆战队和山地兵都是由士气良好的适应能力极强的士兵组\n成的。然而，他们也需要特殊训练，因为他们经常在缺乏补给的状态下进行作\n战。通过这种训练可以提高特种部队的作战效率和组织度。;;;;;;;;;;X
+reserves_doctrine;后备学说;;;;;;;;;;X
+reserves_doctrine_desc;拥有充足的预备役部队是十分重要的，这样我们可以替换那些在战斗中损耗殆尽的部队。;;;;;;;;;;X
+superior_firepower;优势火力学说;;;;;;;;;;X
+superior_firepower_desc;如果我们在步兵进攻之前已经对敌人有了火力压制，那么它们的战斗效率将会得到极大地提升。;;;;;;;;;;X
+static_defence;静态防御;;;;;;;;;;X
+static_defence_desc;通过把所有的火力集中在一条防线上，它将变得不可突破。;;;;;;;;;;X
+close_air_support_doctrine;近距离空中支援学说;;;;;;;;;;X
+close_air_support_doctrine_desc;通过出动战机，无人机和直升机来为我们的部队提供火力支援将让它们在战场上更有威力。;;;;;;;;;;X
+human_wave;人海战术;;;;;;;;;;X
+human_wave_desc;即使这种战术已经过时，人海理论仍然受到一些军队的青眯。即使一个做了充足战斗准备的敌人在面大量的目标和大规模攻击时也会被击垮，尤其是这种突击在近距离发动时。;;;;;;;;;;X
+firesupport_coordination;火力支援配合;;;;;;;;;;X
+firesupport_coordination_desc;在过去，步兵和炮兵各自拥有独立的编制，几乎是不同的军种，但是现代战争需要步兵和支援他们的炮兵以及反坦克部队密切合作。这种合作训练将能够增加我们部队包围敌军的机会并略微提高我们指挥部的反坦克能力。;;;;;;;;;;X
+solid_air_defence;固态防空体系;;;;;;;;;;X
+solid_air_defence_desc;部署固态防空体系将使敌机难以进入我方领空。;;;;;;;;;;X
+lujunxinxihua;陆军信息化;;;;;;;;;;X
+solid_air_defence_desc;部署固态防空体系将使敌机难以进入我方领空。;;;;;;;;;;X
+organisation_tech;部队组织科技;;;;;;;;;;X
+organisation_tech_desc;我们的部队必需组织起来完成战略目标而不是各自为战，提高军队的组织能力将能够减少我方部队的攻击准备时间。;;;;;;;;;;X
+staff_combat_sections;指挥部战斗部门;;;;;;;;;;X
+staff_combat_sections_desc;有时即使是我们的指挥部也会受到威胁，因此它们必需拥有足够的防御能力。;;;;;;;;;;X
+unit_cooperation_tech;单位合作科技;;;;;;;;;;X
+unit_cooperation_tech_desc;让我们的部队能够相互合作是十分重要的。;;;;;;;;;;X
+unit_cohesion;单位凝聚力;;;;;;;;;;X
+unit_cohesion_desc;我们的每一个士兵必需感到它们在为一个共同的团体目标而战斗。;;;;;;;;;;X
+logistics_tech;后勤科技;;;;;;;;;;X
+logistics_tech_desc;改进后勤技术将能够提高我们部队的命令传递速度并减少补给物资的损耗。;;;;;;;;;;X
+;;;;;;;;;;;;;;;x;;;
+##################################################;;;;;;;;;;;;;;x;;;;
+# Naval Doctrine Techs;;;;;;;;;;;;;;x;;;;
+##################################################;;;;;;;;;;;;;;x;;;;
+blue_water_doctrine;远洋作战学说;;;;;;;;;;X
+blue_water_doctrine_desc;远洋作战学说推崇使用航母战斗群投送力量。;;;;;;;;;;X
+carrier_aircraft_crew_training;航母舰载机飞行员训练;;;;;;;;;;X
+carrier_aircraft_crew_training_desc;如果我们想要发挥战机的最佳性能，飞行员的训练十分重要。即使是教授飞行员简单的技巧如最佳的射击时间以减少弹药消耗也能让他们能更充分地发挥飞机性能，这将使我们战机更有威力。;;;;;;;;;;X
+carrier_battlegroups;航母战斗群;;;;;;;;;;X
+carrier_battlegroups_desc;航母需要航母战斗群中其他舰船的支持这一事实越来越明显。研究航母战斗群学说意味着我们航母将获得更好战斗位置，并减小在海战中受到的损失。;;;;;;;;;;X
+carrier_crew_training;航母乘员训练;;;;;;;;;;X
+carrier_crew_training_desc;航空母舰在海军中起了至关重要的作用。给航母乘员提供更好的训练，可以提高他们处理飞机和航母战略的能力，这意味着我们的航母将拥有更高的组织度和士气。;;;;;;;;;;X
+cruiser_tactics;巡洋舰战术;;;;;;;;;;X
+cruiser_tactics_desc;通过改进我们巡洋舰的战术，它们将在战斗中更有效率。;;;;;;;;;;X
+destroyer_tactics;驱逐舰战术;;;;;;;;;;X
+destroyer_tactics_desc;通过改进我们驱逐舰的战术，它们将在战斗中更有效率。;;;;;;;;;;X
+green_water_doctrine;近海作战学说;;;;;;;;;;X
+green_water_doctrine_desc;近海作战学说推崇海岸防御。;;;;;;;;;;X
+small_ship_tactics;小型舰艇战术;;;;;;;;;;X
+small_ship_tactics_desc;通过改进我们护卫舰的战术，它们将在战斗中更有效率。;;;;;;;;;;X
+corvette_crew_training;轻型护卫舰乘员训练;;;;;;;;;;X
+corvette_crew_training_desc;轻型护卫舰在海军中起了至关重要的作用。通过给轻型护卫舰乘员提供更好的训练，他们将能够更好地执行侦查，警戒和护航任务，这意味着我们的轻型护卫舰将拥有更高的组织度和士气。;;;;;;;;;;X
+frigate_crew_training;护卫舰乘员训练;;;;;;;;;;X
+frigate_crew_training_desc;护卫舰的乘员长时间远离家乡，但冒险的刺激弥补了这一点。给予船员更多的训练，我们的护卫舰将拥有更高的组织度和士气。;;;;;;;;;;X
+basing_doctrine;基地学说;;;;;;;;;;X
+basing_doctrine_desc;在远方的海军基地进行战争对后勤是一个巨大的挑战。我们应该投入一些时间和精力来研究这个问题，这意味着我们的军舰将能够更高效地在海军基地进行补给。;;;;;;;;;;X
+fire_control_systems;火控系统;;;;;;;;;;X
+fire_control_systems_desc;战舰上的武器通常很难瞄准，这是由于己方战舰和攻击目标都在进行高速移动并且炮弹或导弹需要飞行几分钟才能命中。通过提高船员使用机械测距仪和火控计算机的能力，我们将能够提高我方战舰的战斗效率。;;;;;;;;;;X
+submarine_warfare_doctrine;潜艇战学说;;;;;;;;;;X
+submarine_warfare_doctrine_desc;潜艇战学说专注于利用潜艇偷袭运输船和敌方舰队。;;;;;;;;;;X
+anti_submarine_tactics;反潜战术;;;;;;;;;;X
+anti_submarine_tactics_desc;拥有能够对抗敌方潜艇的措施是十分重要的。;;;;;;;;;;X
+submarine_crew_training;潜艇乘员训练;;;;;;;;;;X
+submarine_crew_training_desc;潜艇乘员通常一次出海上月并极易遭受敌方战机和驱逐舰的攻击。但它们在战争中扮演着重要角色，为我们的潜艇成员提供更好地训练将提高我方潜艇的组织度和士气。;;;;;;;;;;X
+convoy_raiding_tactics;护航袭击战术;;;;;;;;;;X
+convoy_raiding_tactics_desc;我们认识到，潜艇专长于在远离陆地的地区伏击商船。提高这方面的经验将使我们的潜艇能够在遭遇敌军时获得更好的战斗位置和进攻效率。;;;;;;;;;;X
+submarine_combat_tactics;潜艇作战战术;;;;;;;;;;X
+submarine_combat_tactics_desc;提高我们潜艇的作战能力和战术是十分重要的。;;;;;;;;;;X
+anti_submarine_patrols;反潜巡逻;;;;;;;;;;X
+anti_submarine_patrols_desc;巡逻艇擅长于执行反潜巡逻任务。;;;;;;;;;;X
+haijunxinxihua;海军信息化;;;;;;;;;;X
+;;;;;;;;;;;;;;;x;;;
+##################################################;;;;;;;;;;;;;;;x;;;
+# Air Doctrine Techs;;;;;;;;;;;;;;;x;;;
+##################################################;;;;;;;;;;;;;;;x;;;
+air_superiority_doctrine;空中优势学说;;;;;;;;;;X
+air_superiority_doctrine_desc;空中优势学说专注于夺取敌方的制空权，这项理论崇尚于大规模使用战斗机。;;;;;;;;;;X
+fighter_pilot_training;战斗机飞行员训练;;;;;;;;;;X
+fighter_pilot_training_desc;如果我们想要发挥战机的最佳性能，飞行员的训练十分重要。即使是教授飞行员简单的技巧如最佳的射击时间以减少弹药消耗也能让他们能更充分地发挥飞机性能，这将使我们的战斗机能够持续作战更长时间并更有战斗效率。;;;;;;;;;;X
+fighter_groundcrew_training;战斗机地勤训练;;;;;;;;;;X
+fighter_groundcrew_training_desc;维护战斗机是一项复杂的工作。通过改进地勤人员的训练方式我们将能够提高战机在行动后安全返航的几率以及它们重新武装，补给和维修的速度。;;;;;;;;;;X
+interception_tactics;拦截战术;;;;;;;;;;X
+interception_tactics_desc;战斗机的首要任务是拦截进入己方领空的敌机。通过改进战术理论，我们的战机将能够更有效地执行这一重要任务。;;;;;;;;;;X
+fighter_ground_control;战斗机地面控制;;;;;;;;;;X
+fighter_ground_control_desc;在空对空作战中燃料十分重要。尽可能地节省它们在搜寻敌机时消耗的燃料，它们就能够将更多的燃料投入到之后的缠斗中。己方的雷达站可以为我们提供敌机的精确位置，有效地使用这些情报将提高我们战机的作战效率。;;;;;;;;;;X
+bomber_targerting_focus;轰炸机火力集中;;;;;;;;;;X
+bomber_targerting_focus_desc;当遭遇敌方多机种编队时，我们的飞行员需要决定专注与攻击战斗机还是轰炸机。通过这种训练，我们的飞行员将优先攻击敌轰炸机以降低它们对地面部队的威胁。;;;;;;;;;;X
+fighter_targerting_focus;战斗机火力集中;;;;;;;;;;X
+fighter_targerting_focus_desc;当遭遇敌方多机种编队时，我们的飞行员需要决定专注与攻击战斗机还是轰炸机。通过这种训练，我们的飞行员将优先攻击敌战斗机以夺取制空权。;;;;;;;;;;X
+cas_doctrine;近距离空中支援学说;;;;;;;;;;X
+cas_doctrine_desc;近距离空中支援学说专注于使用攻击机摧毁敌方地面部队。;;;;;;;;;;X
+cas_pilot_training;近距离空中支援飞行员训练;;;;;;;;;;X
+cas_pilot_training_desc;如果我们想要发挥战机的最佳性能，飞行员的训练十分重要。即使是教授飞行员简单的技巧如在己方空域的最佳巡航高度也能让他们能更充分地发挥飞机性能，这将使我们的近距支援机能够持续作战更长时间并更有战斗效率。;;;;;;;;;;X
+cas_groundcrew_training;近距离空中支援地勤训练;;;;;;;;;;X
+cas_groundcrew_training_desc;维护近距支援机是一项复杂的工作。通过改进地勤人员的训练方式我们将能够提高战机在行动后安全返航的几率以及它们重新武装，补给和维修的速度。;;;;;;;;;;X
+ground_attack_tactics;对地攻击战术;;;;;;;;;;X
+ground_attack_tactics_desc;近距支援机的首要任务是打击敌方地面目标。通过改进战术理论，我们的战机将能够更有效地执行这一重要任务。;;;;;;;;;;X
+forward_air_control;前线空中管制;;;;;;;;;;X
+forward_air_control_desc;当我们的地面部队在战斗时，我们的飞行员需要决定优先攻击敌方的作战部队还是援军。前线空中管制让我们的飞行员专注于攻击敌人的前线部队。;;;;;;;;;;X
+battlefield_interdiction;战场遮断;;;;;;;;;;X
+battlefield_interdiction_desc;当我们的地面部队在战斗时，我们的飞行员需要决定优先攻击敌方的作战部队还是援军。战场遮断让我们的飞行员专注于攻击并摧毁敌方援军。;;;;;;;;;;X
+interdiction_tactics;遮断战术;;;;;;;;;;X
+interdiction_tactics_desc;战术空军的一个重要职责是打击敌方的基础设施以限制他们的机动力。通过发展这种战术，我们的战机将能更有效的执行这一任务。;;;;;;;;;;X
+tactical_air_command;战术空军指挥部;;;;;;;;;;X
+tactical_air_command_desc;连续的作战任务将降低我们战术空军的作战效率。通过改进现有的指挥结构，我们将能够更有效地进行利用资源并降低飞行员和战机的压力。;;;;;;;;;;X
+bomber_focus_doctrine;轰炸机集中学说;;;;;;;;;;X
+bomber_focus_doctrine_desc;轰炸机集中学说强调使用轰炸机来削弱我们的敌人。;;;;;;;;;;X
+bomber_pilot_training;轰炸机飞行员训练;;;;;;;;;;X
+bomber_pilot_training_desc;如果我们想要发挥战机的最佳性能，飞行员的训练十分重要。即使是教授飞行员简单的技巧如怎样更好地瞄准炸弹也能让他们能更充分地发挥飞机性能，这将使我们的轰炸机能够持续作战更长时间并更有战斗效率。;;;;;;;;;;X
+bomber_groundcrew_training;轰炸机地勤培训;;;;;;;;;;X
+bomber_groundcrew_training_desc;维护战术轰炸机是一项复杂的工作。通过改进地勤人员的训练方式我们将能够提高战机在行动后安全返航的几率以及它们重新武装，补给和维修的速度。;;;;;;;;;;X
+logistical_strike_tactics;后勤打击战术;;;;;;;;;;X
+logistical_strike_tactics_desc;战术空军的一个重要职责是打击敌方的补给线以限制他们的机动力。通过发展这种战术，我们的战机将能更有效的执行这一任务。;;;;;;;;;;X
+installation_strike_tactics;设施打击战术;;;;;;;;;;X
+installation_strike_tactics_desc;战术空军的一个重要职责是打击敌方的要塞和其他基础设施以降低他们的战斗效率。通过发展这种战术，我们的战机将能更有效的执行这一任务。;;;;;;;;;;X
+airbase_strike_tactics;机场打击战术;;;;;;;;;;X
+airbase_strike_tactics_desc;战术空军的一个重要职责是打击敌方的机场以摧毁敌机并降低他们的作战效率。通过发展这种战术，我们的战机将能更有效的执行这一任务。;;;;;;;;;;X
+strategic_bombardment_tactics;战略轰炸战术;;;;;;;;;;X
+strategic_bombardment_tactics_desc;轰炸敌方大型城市的周围很容易。然而，这需要不计其数的炸弹。通过改进战略轰炸战术，我们将能够更有效的打击敌方工业设施。;;;;;;;;;;X
+airborne_assault_tactics;空降突袭战术;;;;;;;;;;X
+airborne_assault_tactics_desc;一个空降突袭行动需要出动大量的飞机。仅仅是让伞兵们降落在一个集中的地区也比听起来难得多，改进我们的战术将使得空降更为顺利。;;;;;;;;;;X
+strategic_air_command;战略空军司令部;;;;;;;;;;X
+strategic_air_command_desc;连续的作战任务将降低我们战略空军的作战效率。通过改进现有的指挥结构，我们将能够更有效地进行利用资源并降低飞行员和战机的压力。;;;;;;;;;;X
+naval_aviation_doctrine;海军航空兵学说;;;;;;;;;;X
+naval_aviation_doctrine_desc;海军航空学说专注于使用舰载机和海军轰炸机来摧毁敌人的海上力量。;;;;;;;;;;X
+nav_pilot_training;海军航空兵飞行员训练;;;;;;;;;;X
+nav_pilot_training_desc;如果我们想要发挥战机的最佳性能，飞行员的训练十分重要。即使是教授飞行员简单的技巧如怎样更快地识别敌方海上目标也能让他们能更充分地发挥飞机性能，这将使我们的海军航空兵能够持续作战更长时间并更有战斗效率。;;;;;;;;;;X
+nav_groundcrew_training;海军航空兵地勤训练;;;;;;;;;;X
+nav_groundcrew_training_desc;维护海军航空兵是一项复杂的工作。通过改进地勤人员的训练方式我们将能够提高战机在行动后安全返航的几率以及它们重新武装，补给和维修的速度。;;;;;;;;;;X
+portstrike_tactics;港口打击战术;;;;;;;;;;X
+portstrike_tactics_desc;将敌方军舰在港口里摧毁是海军航空兵的主要任务之一，因此，发展的正确的战术以确保这项任务能够有效进行是至关重要的。;;;;;;;;;;X
+navalstrike_tactics;海军打击战术;;;;;;;;;;X
+navalstrike_tactics_desc;攻击敌方海上舰船是海军航空兵的主要任务之一，因此，发展的正确的战术以确保这项任务能够有效进行是至关重要的。;;;;;;;;;;X
+naval_air_targeting;海军轰炸机瞄准技术;;;;;;;;;;X
+naval_air_targeting_desc;当遭遇敌方大规模舰队时，很难分辨那些目标是有价值的。通过精心训练我们的飞行员，他们将能够更好地选择攻击目标。;;;;;;;;;;X
+naval_tactics;海军航空战术;;;;;;;;;;X
+naval_tactics_desc;持续的海军航空任务对于战机和飞行员都是一个考验，发展更优秀的战术理论，我们将能够减少这些因素带来的负面影响。;;;;;;;;;;X
+kongjunxinxihua;空军信息化;;;;;;;;;;X

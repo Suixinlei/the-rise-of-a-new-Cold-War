@@ -1,0 +1,6 @@
+owner = CAR
+controller = CAR
+add_core = CAR
+infra = 3
+manpower = 1.8
+points = 1

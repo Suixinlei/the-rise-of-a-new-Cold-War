@@ -1,0 +1,1089 @@
+166001 = {
+	name = "李杰"
+	country = CHI
+type = air
+	skill = 2
+	max_skill = 8
+	loyalty = 1.00
+	picture = CHI1
+	add_trait = superior_tactician
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+166002 = {
+	name = "唐飞"
+	country = CHI
+type = air
+	skill = 2
+	max_skill = 8
+	loyalty = 1.00
+	picture = CHI2
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+166003 = {
+	name = "汤曜明"
+	country = CHI
+	type = land
+	skill = 2
+	max_skill = 8
+	loyalty = 1.00
+	picture = CHI3
+	add_trait = defensive_doctrine
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+166004 = {
+	name = "李天羽"
+	country = CHI
+type = air
+	skill = 0
+	max_skill = 5
+	loyalty = 1.00
+	picture = CHI4
+	add_trait = old_guard
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+166005 = {
+	name = "霍守业"
+	country = CHI
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = CHI5
+	add_trait = offensive_doctrine
+	add_trait = panzer_leader
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+166006 = {
+	name = "林镇夷"
+	country = CHI
+type = sea
+	skill = 2
+	max_skill = 8
+	loyalty = 1.00
+	picture = CHI6
+	add_trait = superior_tactician
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+166007 = {
+	name = "严明"
+	country = CHI
+type = air
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = CHI7
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+166008 = {
+	name = "高广圻"
+	country = CHI
+type = sea
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = CHI8
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+166009 = {
+	name = "谢建东"
+	country = CHI
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 1.00
+	picture = CHI9
+	add_trait = defensive_doctrine
+	add_trait = logistics_wizard
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+166010 = {
+	name = "高华柱"
+	country = CHI
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = CHI10
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+166011 = {
+	name = "戴伯特"
+	country = CHI
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 1.00
+	picture = CHI11
+	add_trait = logistics_wizard
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+166012 = {
+	name = "季麟连"
+	country = CHI
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = CHI12
+	add_trait = logistics_wizard
+	add_trait = commando
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+166013 = {
+	name = "金乃杰"
+	country = CHI
+type = air
+	skill = 0
+	max_skill = 5
+	loyalty = 1.00
+	picture = CHI13
+	add_trait = old_guard
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+166014 = {
+	name = "吴有明"
+	country = CHI
+	type = land
+	skill = 0
+	max_skill = 6
+	loyalty = 1.00
+	picture = CHI14
+	add_trait = defensive_doctrine
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+166015 = {
+	name = "董翔龙"
+	country = CHI
+type = sea
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = CHI15
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+166016 = {
+	name = "赵世璋"
+	country = CHI
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = CHI16
+	add_trait = offensive_doctrine
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+166017 = {
+	name = "吴达澎"
+	country = CHI
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = CHI17
+	add_trait = defensive_doctrine
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+166018 = {
+	name = "武剑刚"
+	country = CHI
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = CHI18
+	add_trait = old_guard
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+166019 = {
+	name = "陈良浚"
+	country = CHI
+	type = land
+	skill = 0
+	max_skill = 4
+	loyalty = 1.00
+	picture = CHI19
+	add_trait = defensive_doctrine
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+166020 = {
+	name = "陈良瀚"
+	country = CHI
+	type = land
+	skill = 0
+	max_skill = 4
+	loyalty = 1.00
+	picture = CHI20
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+166021 = {
+	name = "陈良沛"
+	country = CHI
+	type = land
+	skill = 0
+	max_skill = 4
+	loyalty = 1.00
+	picture = CHI21
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+166022 = {
+	name = "严德发"
+	country = CHI
+type = air
+	skill = 0
+	max_skill = 5
+	loyalty = 1.00
+	picture = CHI22
+	add_trait = engineer
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+166023 = {
+	name = "孙玦新"
+	country = CHI
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = CHI23
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+166024 = {
+	name = "胡镇埔"
+	country = CHI
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = CHI24
+	add_trait = logistics_wizard
+	add_trait = panzer_leader
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+166025 = {
+	name = "雷光旦"
+	country = CHI
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 1.00
+	picture = CHI25
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+166026 = {
+	name = "程士瑜"
+	country = CHI
+	type = land
+	skill = 0
+	max_skill = 4
+	loyalty = 1.00
+	picture = CHI26
+	add_trait = old_guard
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+166027 = {
+	name = "吴斯怀"
+	country = CHI
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = CHI27
+	add_trait = defensive_doctrine
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+166028 = {
+	name = "邱国正"
+	country = CHI
+	type = land
+	skill = 0
+	max_skill = 4
+	loyalty = 1.00
+	picture = CHI28
+	add_trait = old_guard
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+166029 = {
+	name = "朱玉书"
+	country = CHI
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 1.00
+	picture = CHI29
+	add_trait = old_guard
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+166030 = {
+	name = "陈泉官"
+	country = CHI
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = CHI30
+	add_trait = defensive_doctrine
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+166031 = {
+	name = "王信龙"
+	country = CHI
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = CHI31
+	add_trait = logistics_wizard
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+166032 = {
+	name = "贾辅义"
+	country = CHI
+	type = land
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = CHI32
+	add_trait = commando
+	add_trait = trickster
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+166033 = {
+	name = "曾金陵"
+	country = CHI
+	type = land
+	skill = 1
+	max_skill = 4
+	loyalty = 1.00
+	picture = CHI33
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+166034 = {
+	name = "朱善权"
+	country = CHI
+	type = land
+	skill = 0
+	max_skill = 6
+	loyalty = 1.00
+	picture = CHI34
+	add_trait = defensive_doctrine
+	add_trait = commando
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+166035 = {
+	name = "李清国"
+	country = CHI
+	type = land
+	skill = 1
+	max_skill = 4
+	loyalty = 1.00
+	picture = CHI35
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+166036 = {
+	name = "赵希平"
+	country = CHI
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 1.00
+	picture = CHI36
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+166037 = {
+	name = "黄奕炳"
+	country = CHI
+	type = land
+	skill = 0
+	max_skill = 4
+	loyalty = 1.00
+	picture = CHI37
+	add_trait = old_guard
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+166041 = {
+	name = "张怒潮"
+	country = CHI
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 1.00
+	picture = CHI41
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+166039 = {
+	name = "黄承华"
+	country = CHI
+	type = land
+	skill = 1
+	max_skill = 7
+	loyalty = 1.00
+	picture = CHI39
+	add_trait = offensive_doctrine
+	add_trait = commando
+	history = {
+		2004.1.1 = { rank = 1 }
+	}
+}
+166038 = {
+	name = "陈铭同"
+	country = CHI
+	type = land
+	skill = 1
+	max_skill = 4
+	loyalty = 1.00
+	picture = CHI38
+	add_trait = commando
+	history = {
+		2007.1.1 = { rank = 1 }
+	}
+}
+166040 = {
+	name = "黄国明"
+	country = CHI
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = CHI40
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+166042 = {
+	name = "许志陆"
+	country = CHI
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = CHI42
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+166048 = {
+	name = "王绳果"
+	country = CHI
+	type = land
+	skill = 1
+	max_skill = 4
+	loyalty = 1.00
+	picture = CHI48
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+166043 = {
+	name = "董剑城"
+	country = CHI
+	type = land
+	skill = 0
+	max_skill = 4
+	loyalty = 1.00
+	picture = CHI43
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+166047 = {
+	name = "徐炳强"
+	country = CHI
+	type = land
+	skill = 0
+	max_skill = 4
+	loyalty = 1.00
+	picture = CHI47
+	add_trait = old_guard
+	add_trait = logistics_wizard
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+166044 = {
+	name = "张行宇"
+	country = CHI
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = CHI44
+	add_trait = commando
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+166045 = {
+	name = "陈皇绵"
+	country = CHI
+	type = land
+	skill = 0
+	max_skill = 4
+	loyalty = 1.00
+	picture = CHI45
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+166046 = {
+	name = "陈体端"
+	country = CHI
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = CHI46
+	add_trait = panzer_leader
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+166049 = {
+	name = "师国强"
+	country = CHI
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = CHI49
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+166050 = {
+	name = "徐台生"
+	country = CHI
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = CHI50
+	add_trait = commando
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+166051 = {
+	name = "庞豫铜"
+	country = CHI
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 1.00
+	picture = CHI51
+	add_trait = engineer
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+166052 = {
+	name = "刘溪烈"
+	country = CHI
+	type = land
+	skill = 0
+	max_skill = 4
+	loyalty = 1.00
+	picture = CHI52
+	history = {
+		2004.1.1 = { rank = 1 }
+	}
+}
+166053 = {
+	name = "葛广明"
+	country = CHI
+	type = land
+	skill = 0
+	max_skill = 4
+	loyalty = 1.00
+	picture = CHI53
+	add_trait = old_guard
+	history = {
+		2004.1.1 = { rank = 1 }
+	}
+}
+166054 = {
+	name = "王正霄"
+	country = CHI
+type = air
+	skill = 1
+	max_skill = 4
+	loyalty = 1.00
+	picture = CHI54
+	history = {
+		2004.1.1 = { rank = 1 }
+	}
+}
+166055 = {
+	name = "王木荣"
+	country = CHI
+type = air
+	skill = 0
+	max_skill = 4
+	loyalty = 1.00
+	picture = CHI55
+	history = {
+		2004.1.1 = { rank = 1 }
+	}
+}
+166056 = {
+	name = "常四伟"
+	country = CHI
+type = air
+	skill = 0
+	max_skill = 4
+	loyalty = 1.00
+	picture = CHI56
+	history = {
+		2004.1.1 = { rank = 1 }
+	}
+}
+166057 = {
+	name = "陆经纬"
+	country = CHI
+type = sea
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = CHI57
+	add_trait = superior_tactician
+	history = {
+		2004.1.1 = { rank = 1 }
+	}
+}
+166058 = {
+	name = "吴济时"
+	country = CHI
+type = sea
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = CHI58
+	add_trait = superior_tactician
+	history = {
+		2004.1.1 = { rank = 1 }
+	}
+}
+166059 = {
+	name = "袁嘉量"
+	country = CHI
+type = sea
+	skill = 0
+	max_skill = 5
+	loyalty = 1.00
+	picture = CHI59
+	add_trait = night_flyer
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+166060 = {
+	name = "王永年"
+	country = CHI
+type = sea
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = CHI60
+	add_trait = tank_buster
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+166061 = {
+	name = "井延渊"
+	country = CHI
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 1.00
+	picture = CHI61
+	history = {
+		2004.1.1 = { rank = 1 }
+	}
+}
+166062 = {
+	name = "段庆生"
+	country = CHI
+	type = land
+	skill = 1
+	max_skill = 4
+	loyalty = 1.00
+	picture = CHI62
+	history = {
+		2004.1.1 = { rank = 1 }
+	}
+}
+166063 = {
+	name = "侯舜仁"
+	country = CHI
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = CHI63
+	add_trait = defensive_doctrine
+	history = {
+		2005.1.1 = { rank = 1 }
+	}
+}
+166064 = {
+	name = "徐尚文"
+	country = CHI
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = CHI64
+	add_trait = offensive_doctrine
+	add_trait = trickster
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+166065 = {
+	name = "梁明德"
+	country = CHI
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = CHI65
+	history = {
+		2012.1.1 = { rank = 1 }
+	}
+}
+166066 = {
+	name = "王瑞麟"
+	country = CHI
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = CHI66
+	history = {
+		2014.1.1 = { rank = 1 }
+	}
+}
+166067 = {
+	name = "廖宏杰"
+	country = CHI
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = CHI67
+	history = {
+		2010.1.1 = { rank = 1 }
+	}
+}
+166068 = {
+	name = "夏复华"
+	country = CHI
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = CHI68
+	add_trait = old_guard
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+166069 = {
+	name = "李芳仑"
+	country = CHI
+type = sea
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = CHI69
+	add_trait = superior_tactician
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+166073 = {
+	name = "张志澄"
+	country = CHI
+type = sea
+	skill = 2
+	max_skill = 4
+	loyalty = 1.00
+	picture = CHI73
+	history = {
+		2004.1.1 = { rank = 1 }
+	}
+}
+166070 = {
+	name = "高扬"
+	country = CHI
+type = sea
+	skill = 0
+	max_skill = 4
+	loyalty = 1.00
+	picture = CHI70
+	add_trait = spotter
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+166074 = {
+	name = "申伯之"
+	country = CHI
+type = sea
+	skill = 0
+	max_skill = 6
+	loyalty = 1.00
+	picture = CHI74
+	history = {
+		2005.1.1 = { rank = 1 }
+	}
+}
+166071 = {
+	name = "金丰乡"
+	country = CHI
+type = sea
+	skill = 0
+	max_skill = 5
+	loyalty = 1.00
+	picture = CHI71
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+166075 = {
+	name = "王昭举"
+	country = CHI
+type = sea
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = CHI75
+	history = {
+		2007.1.1 = { rank = 1 }
+	}
+}
+166072 = {
+	name = "黄正云"
+	country = CHI
+type = sea
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = CHI72
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+166076 = {
+	name = "陈新发"
+	country = CHI
+type = sea
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = CHI76
+	history = {
+		2009.1.1 = { rank = 1 }
+	}
+}
+166077 = {
+	name = "任渝生"
+	country = CHI
+type = air
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = CHI77
+	add_trait = superior_tactician
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+166079 = {
+	name = "雷玉其"
+	country = CHI
+type = air
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = CHI79
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+166078 = {
+	name = "彭胜竹"
+	country = CHI
+type = air
+	skill = 0
+	max_skill = 4
+	loyalty = 1.00
+	picture = CHI78
+	add_trait = tank_buster
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+166080 = {
+	name = "李天翼"
+	country = CHI
+type = air
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = CHI80
+	history = {
+		2004.1.1 = { rank = 1 }
+	}
+}
+166081 = {
+	name = "廖荣鑫"
+	country = CHI
+type = air
+	skill = 0
+	max_skill = 5
+	loyalty = 1.00
+	picture = CHI81
+	add_trait = superior_tactician
+	history = {
+		2004.1.1 = { rank = 1 }
+	}
+}
+166082 = {
+	name = "唐齐中"
+	country = CHI
+type = air
+	skill = 1
+	max_skill = 4
+	loyalty = 1.00
+	picture = CHI82
+	add_trait = night_flyer
+	history = {
+		2005.1.1 = { rank = 1 }
+	}
+}
+166083 = {
+	name = "田在劢"
+	country = CHI
+type = air
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = CHI83
+	history = {
+		2005.1.1 = { rank = 1 }
+	}
+}
+166084 = {
+	name = "柯文安"
+	country = CHI
+type = air
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = CHI84
+	history = {
+		2006.1.1 = { rank = 1 }
+	}
+}
+166085 = {
+	name = "朱玉志"
+	country = CHI
+type = air
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = CHI85
+	add_trait = superior_tactician
+	history = {
+		2006.1.1 = { rank = 1 }
+	}
+}
+166086 = {
+	name = "王立申"
+	country = CHI
+type = sea
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = CHI86
+	add_trait = seawolf
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}

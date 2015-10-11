@@ -1,0 +1,12 @@
+controller = CHI
+owner = CHI
+
+add_core = CHI
+add_core = CHC
+crude oil = 1
+infra = 8
+industry = 5
+terrain = plains
+anti_air = 4
+PROV5780;тфаж;;;;;;;;;;X
+

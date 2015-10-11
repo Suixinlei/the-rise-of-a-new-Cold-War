@@ -1,0 +1,11 @@
+owner = USA
+controller = USA
+add_core = USA
+
+
+infra = 8
+energy = 20.00
+rare_materials = 15.00
+air_base = 4 #Detroit airport
+points = 1
+leadership = 1.00

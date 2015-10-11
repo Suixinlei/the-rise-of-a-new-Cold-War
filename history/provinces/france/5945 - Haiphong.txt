@@ -1,0 +1,9 @@
+owner = VIE
+controller = VIE
+add_core = VIE
+manpower = 7.5
+infra = 6
+
+air_base = 3 #Kien An and Kep airbase
+naval_base = 6 #Haiphong port
+points = 1

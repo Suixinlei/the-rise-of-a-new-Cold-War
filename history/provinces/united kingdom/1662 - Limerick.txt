@@ -1,0 +1,7 @@
+owner = IRE
+controller = IRE
+add_core = IRE
+
+infra = 8
+manpower = 0.2
+rare_materials = 3.00

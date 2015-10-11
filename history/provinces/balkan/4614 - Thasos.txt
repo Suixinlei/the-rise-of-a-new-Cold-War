@@ -1,0 +1,8 @@
+owner = GRE
+controller = GRE
+add_core = GRE
+
+
+infra = 6
+naval_base = 3 #Alexandroupolis port
+leadership = 2.50

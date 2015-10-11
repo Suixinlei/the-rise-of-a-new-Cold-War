@@ -1,0 +1,119 @@
+color = { 196  189  204 }
+graphical_culture = Generic
+last_election = 2001.5.5
+duration = 60
+
+default_templates = {
+	generic_infantry = {
+		infantry_brigade
+		infantry_brigade
+		infantry_brigade
+	}
+	generic_milita = {
+		militia_brigade
+		militia_brigade
+		militia_brigade
+	}
+	generic_armoured = {
+		armor_brigade
+		motorized_brigade
+		motorized_brigade
+	}
+	generic_cavalry = {
+		cavalry_brigade
+		cavalry_brigade
+	}
+}
+
+unit_names = {
+	infantry_brigade = {
+		"1a Div. de Inf. del Peru 'Bolognesi'" "2a Div. de Infantería del Peru" "3a Div. de Infantería del Peru" "4a Div. de Infantería del Peru" "5a Div. de Infantería del Peru" "6a Div. de Infantería del Peru" "7a Div. de Infantería del Peru" "8a Div. de Infantería del Peru" "9a Div. de Infantería del Peru" "10a Div. de Infantería del Peru" "11a Div. de Infantería del Peru" 
+		"12a Div. de Infantería del Peru" "13a Div. de Infantería del Peru" "14a Div. de Infantería del Peru" "15a Div. de Infantería del Peru" "16a Div. de Infantería del Peru" "17a Div. de Infantería del Peru" "18a Div. de Infantería del Peru" "19a Div. de Infantería del Peru" "20a Div. de Infantería del Peru" 
+	}
+	cavalry_brigade = {
+		"1a División de Caballería" "2a División de Caballería" "3a División de Caballería" "4a División de Caballería" "5a División de Caballería" "6a División de Caballería" "7a División de Caballería" "8a División de Caballería" "9a División de Caballería" "10a División de Caballería" 
+	}
+	motorized_brigade = {
+		"1a División Infantería de Camión" "2a División Infantería de Camión" "3a División Infantería de Camión" "4a División Infantería de Camión" "5a División Infantería de Camión" 
+	}
+	mechanized_brigade = {
+		"1a División Infantería Mecanizada" "2a División Infantería Mecanizada" "3a División Infantería Mecanizada" "4a División Infantería Mecanizada" "5a División Infantería Mecanizada" 
+	}
+	light_armor_brigade = {
+		"1a División Blindada del Perú" "2a División Blindada del Perú" "3a División Blindada del Perú" "4a División Blindada del Perú" "5a División Blindada del Perú" 
+	}
+	armor_brigade = {
+		"1a División Blindada del Perú" "2a División Blindada del Perú" "3a División Blindada del Perú" "4a División Blindada del Perú" "5a División Blindada del Perú" 
+	}
+	paratrooper_brigade = {
+		"1a División Fuerza Paracaidista" "2a División Fuerza Paracaidista" "3a División Fuerza Paracaidista" "4a División Fuerza Paracaidista" "5a División Fuerza Paracaidista" 
+	}
+	marine_brigade = {
+		"1a División Fuerza Inf. de Marina" "2a División Fuerza Inf. de Marina" "3a División Fuerza Inf. de Marina" "4a División Fuerza Inf. de Marina" "5a División Fuerza Inf. de Marina" 
+	}
+	bergsjaeger_brigade = {
+		"1a División Fuerzas Especiales" "2a División Fuerzas Especiales" "3a División Fuerzas Especiales" "4a División Fuerzas Especiales" "5a División Fuerzas Especiales" 
+	}
+	garrison_brigade = {
+		"2a Div. de Infantería del Peru" "3a Div. de Infantería del Peru" "4a Div. de Infantería del Peru" "5a Div. de Infantería del Peru" "6a Div. de Infantería del Peru" "7a Div. de Infantería del Peru" "8a Div. de Infantería del Peru" "9a Div. de Infantería del Peru" "10a Div. de Infantería del Peru" "11a Div. de Infantería del Peru" "12a Div. de Infantería del Peru" 
+		"13a Div. de Infantería del Peru" "14a Div. de Infantería del Peru" "15a Div. de Infantería del Peru" "16a Div. de Infantería del Peru" "17a Div. de Infantería del Peru" "18a Div. de Infantería del Peru" "19a Div. de Infantería del Peru" "20a Div. de Infantería del Peru" 
+	}
+	hq_brigade = {
+		"Cuartel General 1er Ejército" "Cuartel General 2o Ejército" "Cuartel General 3er Ejército" "Cuartel General 4o Ejército" "Cuartel General 5o Ejército" "Cuartel General 6o Ejército" "Cuartel General 7o Ejército" "Cuartel General 8o Ejército" "Cuartel General 9o Ejército" "Cuartel General 10o Ejército" 
+	}
+	militia_brigade = {
+		"División de Policia Militar nro. 1" "División de Policia Militar nro. 2" "División de Policia Militar nro. 3" "División de Policia Militar nro. 4" "División de Policia Militar nro. 5" "División de Policia Militar nro. 6" "División de Policia Militar nro. 7" "División de Policia Militar nro. 8" "División de Policia Militar nro. 9" "División de Policia Militar nro. 10" "División de Policia Militar nro. 11" 
+		"División de Policia Militar nro. 12" "División de Policia Militar nro. 13" "División de Policia Militar nro. 14" "División de Policia Militar nro. 15" 
+	}
+	multi_role = {
+		"1. Grupo PFA de Caza" "2. Grupo PFA de Caza" "3. Grupo PFA de Caza" "4. Grupo PFA de Caza" "5. Grupo PFA de Caza" 
+	}
+	interceptor = {
+		"1. Grupo PFA de Caza" "2. Grupo PFA de Caza" "3. Grupo PFA de Caza" "4. Grupo PFA de Caza" "5. Grupo PFA de Caza" 
+	}
+	strategic_bomber = {
+		"1. Grupo PFA Estratégico" "2. Grupo PFA Estratégico" "3. Grupo PFA Estratégico" "4. Grupo PFA Estratégico" "5. Grupo PFA Estratégico" 
+	}
+	tactical_bomber = {
+		"1. Grupo PFA Táctico" "2. Grupo PFA Táctico" "3. Grupo PFA Táctico" "4. Grupo PFA Táctico" "5. Grupo PFA Táctico" 
+	}
+	naval_bomber = {
+		"1. Grupo PFA de la Marina" "2. Grupo PFA de la Marina" "3. Grupo PFA de la Marina" "4. Grupo PFA de la Marina" "5. Grupo PFA de la Marina" 
+	}
+	cas = {
+		"1. Grupo PFA de Asalto" "2. Grupo PFA de Asalto" "3. Grupo PFA de Asalto" "4. Grupo PFA de Asalto" "5. Grupo PFA de Asalto" 
+	}
+	transport_plane = {
+		"1. Grupo de Transporte del Ejército" "2. Grupo de Transporte del Ejército" "3. Grupo de Transporte del Ejército" "4. Grupo de Transporte del Ejército" "5. Grupo de Transporte del Ejército" 
+	}
+	battleship = {
+		"BAP Lima" "BAP Mariscal Cáceres" "BAP Gloriosa" 
+	}
+	light_cruiser = {
+		"BAP Almirante Grau" "BAP Coronel Bolognesi" "BAP Chimbote" "BAP Callao" "BAP Arequipa" "BAP Huancayo" "BAP Cusco" "BAP Puno" 
+	}
+	heavy_cruiser = {
+		"BAP Almirante Grau" "BAP Coronel Bolognesi" "BAP Chimbote" "BAP Callao" "BAP Arequipa" "BAP Huancayo" "BAP Cusco" "BAP Puno" 
+	}
+	battlecruiser = {
+		"BAP Lima" "BAP Mariscal Cáceres" "BAP Gloriosa" 
+	}
+	destroyer = {
+		"Flotilla Suliana" "Flotilla Talara" "Flotilla Aybaca" "Flotilla Chulucanes" "Flotilla Cerro de Pasca" "Flotilla Oroye" "Flotilla Patvilcha" "Flotilla Punta Lachar" 
+	}
+	carrier = {
+		"BAP República del Perú" "BAP Los Andes" "BAP Cordillera Occidental" 
+	}
+	submarine = {
+		"Flotilla Tacna" "Flotilla Tarata" "Flotilla Punta Coles" "Flotilla Abancay" "Flotilla Huanta" "Flotilla Puquio" 
+	}
+	transport_ship = {
+		"1. Transportes de la Marina" "2. Transportes de la Marina" "3. Transportes de la Marina" "4. Transportes de la Marina" "5. Transportes de la Marina" 
+	}
+
+}
+
+
+ministers = {
+	
+}

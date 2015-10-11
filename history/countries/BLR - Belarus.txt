@@ -1,0 +1,49 @@
+capital = 1694
+government = autocratic_democracy
+ideology = stalinist
+alignment = { x = 150 y = 180.0 }
+neutrality = 80
+national_unity = 60
+
+oob = "BLR_2000.txt"
+
+popularity = { 
+	national_socialist = 0
+	fascistic = 5
+	paternal_autocrat = 5
+	social_conservative = 0
+	market_liberal = 5
+	social_liberal = 5
+	social_democrat = 11
+	left_wing_radical = 5
+	leninist = 27
+	stalinist = 30
+}
+
+organization = { 
+	national_socialist = 0
+	fascistic = 15
+	paternal_autocrat = 15
+	social_conservative = 0
+	market_liberal = 15
+	social_liberal = 15
+	social_democrat = 33
+	left_wing_radical = 15
+	leninist = 81
+	stalinist = 150
+}
+
+conscription_policy = military_service
+press_laws = censorship
+mobilisation_level = peace_time
+civil_laws = restrictions
+service_length = eighteen_months
+economic_policy = state_control
+
+industrial_facilities = 1
+industral_production = 1
+industral_efficiency = 1
+weapon_design = 1
+the_fuselage_design = 1
+main_battle_tank = 1
+ship_hull = 1

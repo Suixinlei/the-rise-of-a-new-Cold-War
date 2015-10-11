@@ -1,0 +1,1478 @@
+standard_air_weapons = {
+
+	allow = {
+		the_fuselage_design = 1
+	}
+	
+	research_bonus_from = {
+		aeronautic_engineering = 1.0
+	}
+	
+	on_completion = aeronautic_engineering
+	
+	difficulty = 40
+	start_year = 2000
+	folder = bomber_folder
+}
+
+air_cannon = {
+
+	interceptor = {
+		air_defence = 0.50
+	}
+	cas = { 
+		air_defence = 0.50
+	}
+	cag = {
+		air_defence = 0.50
+	}
+	caz = {
+		air_defence = 0.50
+	}
+	multi_role = {
+		air_defence = 0.50
+	}
+	vtol = {
+		air_defence = 0.50
+	}
+	light_fighter = {
+		air_defence = 0.50
+	}
+	strategic_bomber = {
+		air_defence = 1.00
+	}
+        transport_plane = {
+		air_defence = 1.00
+	}
+	
+	allow = {
+		standard_air_weapons = 1
+	}
+	
+	research_bonus_from = {
+		aeronautic_engineering = 0.3
+		single_engine_aircraft_practical = 0.7
+	}
+	
+	on_completion = aeronautic_engineering
+	
+	difficulty = 20
+	start_year = 2000
+	first_offset = 2003
+	additional_offset = 5
+	max_level = 6
+	folder = bomber_folder
+	can_upgrade = no
+}
+
+a_small_bomb = {
+
+	interceptor = {
+		soft_attack = 1.00
+		hard_attack = 0.50
+	}
+	cas = { 
+		soft_attack = 1.00
+		hard_attack = 1.00
+	}
+	cag = {
+		soft_attack = 0.50
+		hard_attack = 0.50
+	}
+	caz = {
+		soft_attack = 0.80
+		hard_attack = 0.50
+	}
+	multi_role = {
+		soft_attack = 0.50
+		hard_attack = 0.50
+	}
+	vtol = {
+		soft_attack = 0.20
+	}
+	light_fighter = {
+		soft_attack = 0.20
+	}
+	strategic_bomber = {
+		soft_attack = 1.00
+		hard_attack = 0.80
+	}
+	
+	allow = {
+		standard_air_weapons = 1
+	}
+	
+	research_bonus_from = {
+		aeronautic_engineering = 0.3
+		single_engine_aircraft_practical = 0.7
+	}
+	
+	on_completion = aeronautic_engineering
+	
+	difficulty = 20
+	start_year = 2000
+	first_offset = 2003
+	additional_offset = 5
+	max_level = 6
+	folder = bomber_folder 
+	can_upgrade = no
+}
+
+a_large_bomb = {
+
+	interceptor = {
+		soft_attack = 1.00
+		hard_attack = 0.80
+	}
+	cas = { 
+		soft_attack = 1.20
+		hard_attack = 1.20
+	}
+	cag = {
+		soft_attack = 0.80
+		hard_attack = 0.80
+	}
+	caz = {
+		soft_attack = 1.00
+		hard_attack = 0.80
+	}
+	strategic_bomber = {
+		soft_attack = 1.50
+		hard_attack = 1.00
+		strategic_attack = 1.00 
+	}
+	
+	allow = {
+		standard_air_weapons = 1
+	}
+	
+	research_bonus_from = {
+		aeronautic_engineering = 0.3
+                twin_engine_aircraft_practical = 0.7
+	}
+	
+	on_completion = aeronautic_engineering
+	
+	difficulty = 20
+	start_year = 2000
+	first_offset = 2003
+	additional_offset = 5
+	max_level = 6
+	folder = bomber_folder 
+	can_upgrade = no
+}
+
+airborne_air_superiority_weapons = {
+
+	allow = {
+		fighter_design_details = 1
+	}
+	
+	research_bonus_from = {
+		aeronautic_engineering = 0.3
+		twin_engine_aircraft_practical = 0.7
+	}
+	
+	on_completion = aeronautic_engineering
+	
+	difficulty = 40
+	start_year = 2000
+	folder = bomber_folder
+}
+
+short_range_missiles = {
+
+	interceptor = {
+		air_attack = 1.50
+	}
+	cag = {
+		air_attack = 1.50
+	}
+	caz = {
+		air_attack = 1.50
+	}
+	multi_role = {
+		air_attack = 1.50
+	}
+	vtol = {
+		air_attack = 1.50
+	}
+	light_fighter = {
+		air_attack = 1.50
+	}
+	
+	allow = {
+		airborne_air_superiority_weapons = 1
+	}
+	
+	research_bonus_from = {
+		aeronautic_engineering = 0.3
+		single_engine_aircraft_practical = 0.7
+	}
+	
+
+	on_completion = aeronautic_engineering
+	
+	difficulty = 20
+	start_year = 2000
+	first_offset = 2003
+	additional_offset = 5
+	max_level = 6
+	folder = bomber_folder 
+	can_upgrade = no
+}
+
+medium_range_air_to_air_missile = {
+
+	interceptor = {
+		air_attack = 1.00
+	}
+	cag = {
+		air_attack = 1.00
+	}
+	caz = {
+		air_attack = 1.00
+	}
+	multi_role = {
+		air_attack = 1.00
+	}
+	
+	allow = {
+		airborne_air_superiority_weapons = 1
+                short_range_missiles = 1
+	}
+	
+	research_bonus_from = {
+		aeronautic_engineering = 0.3
+		single_engine_aircraft_practical = 0.7
+	}
+	
+
+	on_completion = aeronautic_engineering
+	
+	difficulty = 20
+	start_year = 2000
+	first_offset = 2003
+	additional_offset = 5
+	max_level = 6
+	folder = bomber_folder 
+	can_upgrade = no
+}
+
+long_range_air_to_air_missile = {
+
+	interceptor = {
+		air_attack = 1.00
+	}
+	caz = {
+		air_attack = 1.00
+	}
+	
+	allow = {
+		airborne_air_superiority_weapons = 1
+                medium_range_air_to_air_missile = 1
+	}
+	
+	research_bonus_from = {
+		aeronautic_engineering = 0.3
+		single_engine_aircraft_practical = 0.7
+	}
+	
+
+	on_completion = aeronautic_engineering
+	
+	difficulty = 20
+	start_year = 2000
+	first_offset = 2003
+	additional_offset = 5
+	max_level = 6
+	folder = bomber_folder
+	can_upgrade = no 
+}
+
+air_to_Ground_Weapons = {
+
+	allow = {
+	   OR = {
+		attack_aircraft_design_details = 1
+                the_details_of_the_design = 1
+	   }
+	}
+	
+	research_bonus_from = {
+		aeronautic_engineering = 0.3
+		twin_engine_aircraft_practical = 0.7
+	}
+	
+	on_completion = twin_engine_aircraft_practical
+	
+	difficulty = 40
+	start_year = 2000
+	folder = bomber_folder
+}
+
+guided_bomb = {
+
+	interceptor = {
+		soft_attack = 1.00
+		hard_attack = 0.50
+	}
+	cas = { 
+		soft_attack = 1.50
+		hard_attack = 1.50
+	}
+	cag = {
+		soft_attack = 0.50
+		hard_attack = 0.50
+	}
+	caz = {
+		soft_attack = 0.80
+		hard_attack = 0.50
+	}
+	multi_role = {
+		soft_attack = 0.50
+		hard_attack = 0.50
+	}
+	vtol = {
+		soft_attack = 0.20
+	}
+	light_fighter = {
+		soft_attack = 0.20
+	}
+	strategic_bomber = {
+		soft_attack = 1.00
+		hard_attack = 0.80
+	}
+	
+	allow = {
+		air_to_Ground_Weapons = 1
+	}
+	
+	research_bonus_from = {
+		aeronautic_engineering = 0.3
+		single_engine_aircraft_practical = 0.5
+		twin_engine_aircraft_practical = 0.5
+	}
+
+	
+	on_completion = aeronautic_engineering
+	
+	difficulty = 20
+	start_year = 2000
+	first_offset = 2003
+	additional_offset = 5
+	max_level = 6
+	folder = bomber_folder 
+	can_upgrade = no
+}
+
+air_to_ground_missile = {
+
+	interceptor = {
+		soft_attack = 1.00
+		hard_attack = 0.50
+	}
+	cas = { 
+		soft_attack = 1.50
+		hard_attack = 1.50
+	}
+	cag = {
+		soft_attack = 0.50
+		hard_attack = 0.50
+	}
+	caz = {
+		soft_attack = 0.80
+		hard_attack = 0.50
+	}
+	multi_role = {
+		soft_attack = 0.50
+		hard_attack = 0.50
+	}
+	vtol = {
+		soft_attack = 0.20
+	}
+	light_fighter = {
+		soft_attack = 0.20
+	}
+	strategic_bomber = {
+		soft_attack = 1.00
+		hard_attack = 0.80
+		strategic_attack = 1.00 
+	}
+	
+	allow = {
+		air_to_Ground_Weapons = 1
+	}
+	
+	research_bonus_from = {
+		aeronautic_engineering = 0.3
+		single_engine_aircraft_practical = 0.5
+                  twin_engine_aircraft_practical = 0.5
+	}
+
+	
+	on_completion = aeronautic_engineering
+	
+	difficulty = 20
+	start_year = 2000
+	first_offset = 2003
+	additional_offset = 5
+	max_level = 6
+	folder = bomber_folder 
+	can_upgrade = no
+}
+
+air_to_ground_FAE = {
+
+	interceptor = {
+		soft_attack = 1.50
+		hard_attack = 0.50
+	}
+	cas = { 
+		soft_attack = 1.50
+		hard_attack = 1.50
+	}
+	cag = {
+		soft_attack = 0.80
+		hard_attack = 0.80
+	}
+	caz = {
+		soft_attack = 0.80
+		hard_attack = 0.50
+	}
+	multi_role = {
+		soft_attack = 0.50
+		hard_attack = 0.50
+	}
+	vtol = {
+		soft_attack = 0.30
+	}
+	light_fighter = {
+		soft_attack = 0.30
+	}
+	strategic_bomber = {
+		soft_attack = 1.00
+		hard_attack = 1.00
+		strategic_attack = 2.00 
+	}
+	
+	allow = {
+		air_to_Ground_Weapons = 1
+	}
+	
+	research_bonus_from = {
+		aeronautic_engineering = 0.3
+		single_engine_aircraft_practical = 0.5
+                twin_engine_aircraft_practical = 0.5
+	}
+	
+	on_completion = aeronautic_engineering
+	
+	difficulty = 20
+	start_year = 2000
+	first_offset = 2003
+	additional_offset = 5
+	max_level = 6
+	folder = bomber_folder 
+	can_upgrade = no
+}
+
+air_to_surface_weapons = {
+
+	allow = {
+	   OR = {
+                attack_aircraft_design_details = 1
+                the_details_of_the_design = 1
+	   }
+	}
+	
+	research_bonus_from = {
+		aeronautic_engineering = 0.3
+		single_engine_aircraft_practical = 0.5
+                twin_engine_aircraft_practical = 0.5
+	}
+	
+	on_completion = twin_engine_aircraft_practical
+	
+	difficulty = 45
+	start_year = 2000
+	folder = bomber_folder
+}
+
+antisubmarine_bomb = {
+
+        interceptor = {
+		sub_attack = 0.40
+	}
+	cas = { 
+		sub_attack = 1.00
+	}
+	cag = {
+		sub_attack = 1.50
+	}
+	caz = {
+		sub_attack = 1.00
+	}
+	multi_role = {
+		sub_attack = 0.30
+	}
+	strategic_bomber = {
+		sub_attack = 0.80
+	}
+	
+	allow = {
+		air_to_surface_weapons = 1
+	}
+	
+	research_bonus_from = {
+		aeronautic_engineering = 0.3
+		single_engine_aircraft_practical = 0.5
+                twin_engine_aircraft_practical = 0.5
+	}
+	
+	on_completion = aeronautic_engineering
+	
+	difficulty = 20
+	start_year = 2000
+	first_offset = 2003
+	additional_offset = 5
+	max_level = 6
+	folder = bomber_folder 
+	can_upgrade = no
+}
+
+small_air_to_ship_missile = {
+
+        interceptor = {
+		sea_attack = 0.75
+	}
+	cas = { 
+		sea_attack = 1.50
+	}
+	cag = {
+		sea_attack = 2.00
+	}
+	caz = {
+		sea_attack = 1.20
+	}
+	multi_role = {
+		sea_attack = 0.60
+	}
+	strategic_bomber = {
+		sea_attack = 1.50
+	}
+	
+	allow = {
+		air_to_surface_weapons = 1
+	}
+	
+	research_bonus_from = {
+		aeronautic_engineering = 0.3
+		single_engine_aircraft_practical = 0.5
+                twin_engine_aircraft_practical = 0.5
+	}
+	
+	on_completion = aeronautic_engineering
+	
+	difficulty = 20
+	start_year = 2000
+	first_offset = 2003
+	additional_offset = 5
+	max_level = 6
+	folder = bomber_folder 
+	can_upgrade = no
+}
+
+large_air_to_ship_missile = {
+
+        interceptor = {
+		sea_attack = 0.75
+	}
+	cas = { 
+		sea_attack = 1.50
+	}
+	cag = {
+		sea_attack = 2.00
+	}
+	caz = {
+		sea_attack = 1.20
+	}
+	multi_role = {
+		sea_attack = 0.60
+	}
+	strategic_bomber = {
+		sea_attack = 1.50
+	}
+	
+	allow = {
+		air_to_surface_weapons = 1
+	}
+	
+	research_bonus_from = {
+		aeronautic_engineering = 0.3
+		single_engine_aircraft_practical = 0.5
+                twin_engine_aircraft_practical = 0.5
+	}
+	
+	on_completion = aeronautic_engineering
+	
+	difficulty = 20
+	start_year = 2000
+	first_offset = 2003
+	additional_offset = 5
+	max_level = 6
+	folder = bomber_folder 
+	can_upgrade = no
+}
+
+cruise_missile = {
+
+	activate_unit = tbm
+	
+	research_bonus_from = {
+		rocket_science = 0.3
+		rocket_practical = 0.7
+	}
+	
+	allow = {
+		industrialization = 1.0
+                the_first_satellite = 1.0
+	}
+
+	on_completion = rocket_science
+	
+	difficulty = 40
+	start_year = 2000
+	folder = bomber_folder
+}
+
+cruise_missile_propulsion = {
+
+	tbm = {
+		range = 500
+	}
+	
+	allow = {
+		cruise_missile = 1
+	}
+	
+	research_bonus_from = {
+		rocket_science = 0.3
+		rocket_practical = 0.7
+	}
+	
+	on_completion = rocket_science
+	
+	difficulty = 20
+	start_year = 2000
+	first_offset = 2003
+	additional_offset = 5
+	max_level = 6
+	folder = bomber_folder 
+}
+
+cruise_missile_warhead = {
+
+	tbm = {
+                soft_attack = 10.00
+	        hard_attack = 8.00
+		strategic_attack = 5.00
+	}
+	
+	allow = {
+		cruise_missile = 1
+	}
+	
+	research_bonus_from = {
+		rocket_science = 0.3
+		rocket_practical = 0.7
+	}
+	
+	on_completion = rocket_science
+	
+	difficulty = 20
+	start_year = 2000
+	first_offset = 2003
+	additional_offset = 5
+	max_level = 6
+	folder = bomber_folder 
+}
+
+intercontinental_ballistic_missile = {
+
+	activate_unit = icbm
+	
+	research_bonus_from = {
+		rocket_science = 0.3
+		rocket_practical = 0.7
+	}
+
+	allow = {
+		industrialization = 1.0
+                communication_satellite = 1.0
+	}
+
+	
+	on_completion = rocket_science
+	
+	difficulty = 40
+	start_year = 2000
+	folder = bomber_folder
+}
+
+intercontinental_missile_propulsion = {
+
+	icbm = {
+		range = 1000
+	}
+	
+	allow = {
+		intercontinental_ballistic_missile = 1
+	}
+	
+	research_bonus_from = {
+		rocket_science = 0.3
+		rocket_practical = 0.7
+	}
+	
+	on_completion = rocket_science
+	
+	difficulty = 20
+	start_year = 2000
+	first_offset = 2003
+	additional_offset = 5
+	max_level = 6
+	folder = bomber_folder 
+}
+
+intercontinental_missile_warhead = {
+
+	icbm = {
+                soft_attack = 3.50
+	        hard_attack = 2.00
+		strategic_attack = 50
+	}
+	
+	allow = {
+		intercontinental_ballistic_missile = 1
+	}
+	
+	research_bonus_from = {
+		rocket_science = 0.3
+		rocket_practical = 0.7
+	}
+	
+	on_completion = rocket_science
+	
+	difficulty = 20
+	start_year = 2000
+	first_offset = 2003
+	additional_offset = 5
+	max_level = 6
+	folder = bomber_folder 
+}
+the_fuselage_design = {
+
+	
+	research_bonus_from = {
+		aeronautic_engineering = 1.0
+	}
+
+	allow = {
+		industrialization = 1.0
+	}
+	
+	on_completion = aeronautic_engineering
+	
+	difficulty = 40
+	start_year = 2000
+	folder = fighter_folder 
+	can_upgrade = no
+}
+
+light_body = {
+
+	light_fighter = {
+		surface_defence = 0.20
+		air_defence = 1.20
+	}
+	vtol = {
+		surface_defence = 0.20
+		air_defence = 1.20
+	}
+	
+	allow = {
+		the_fuselage_design = 1
+	}
+	
+	research_bonus_from = {
+		aeronautic_engineering = 0.3
+		single_engine_aircraft_practical = 0.7
+	}
+	
+	on_completion = aeronautic_engineering
+	
+	difficulty = 20
+	start_year = 2000
+	first_offset = 2003
+	additional_offset = 5
+	max_level = 6
+	folder = fighter_folder 
+	can_upgrade = no
+}
+
+medium_body = {
+
+	multi_role = {
+		surface_defence = 0.40
+		air_defence = 1.60
+	}
+	cag = {
+		surface_defence = 0.40
+		air_defence = 1.60
+	}
+	
+	allow = {
+		the_fuselage_design = 1
+	}
+	
+	research_bonus_from = {
+		aeronautic_engineering = 0.3
+		single_engine_aircraft_practical = 0.7
+	}
+	
+	on_completion = aeronautic_engineering
+	
+	difficulty = 20
+	start_year = 2000
+	first_offset = 2003
+	additional_offset = 5
+	max_level = 6
+	folder = fighter_folder 
+	can_upgrade = no
+}
+
+heavy_body = {
+
+	interceptor = {
+		surface_defence = 0.60
+		air_defence = 2.00
+	}
+	caz = {
+		surface_defence = 0.60
+		air_defence = 2.00
+	}
+	
+	allow = {
+		the_fuselage_design = 1
+	}
+	
+	research_bonus_from = {
+		aeronautic_engineering = 0.3
+		single_engine_aircraft_practical = 0.7
+	}
+	
+	on_completion = aeronautic_engineering
+	
+	difficulty = 20
+	start_year = 2000
+	first_offset = 2003
+	additional_offset = 5
+	max_level = 6
+	folder = fighter_folder 
+	can_upgrade = no
+}
+
+large_body = {
+
+	strategic_bomber = {
+		surface_defence = 0.80
+		air_defence = 3.00
+	}
+	
+	allow = {
+		the_fuselage_design = 1
+	}
+	
+	research_bonus_from = {
+		aeronautic_engineering = 0.3
+		twin_engine_aircraft_practical = 0.7
+	}
+	
+	on_completion = aeronautic_engineering
+	
+	difficulty = 20
+	start_year = 2000
+	first_offset = 2003
+	additional_offset = 5
+	max_level = 6
+	folder = fighter_folder 
+	can_upgrade = no
+}
+extra_large_body = {
+
+	transport_plane = {
+		surface_defence = 0.20
+		air_defence = 1.50
+		transport_capability = 5
+	}
+	
+	allow = {
+		the_fuselage_design = 1
+	}
+	
+	research_bonus_from = {
+		aeronautic_engineering = 0.3
+		twin_engine_aircraft_practical = 0.7
+	}
+	
+	on_completion = aeronautic_engineering
+	
+	difficulty = 20
+	start_year = 2000
+	first_offset = 2003
+	additional_offset = 5
+	max_level = 6
+	folder = fighter_folder 
+	can_upgrade = no
+}
+
+aero_engine_design = {
+
+	allow = {
+                the_fuselage_design = 1 
+	}
+	
+	research_bonus_from = {
+		aeronautic_engineering = 1.00
+	}
+	
+	on_completion = aeronautic_engineering
+	
+	difficulty = 40
+	start_year = 2000
+	folder = fighter_folder 
+}
+
+small_aviation_engine = {
+
+	light_fighter = {
+		maximum_speed = 80
+		range = 100
+	}
+	vtol = {
+		maximum_speed = 80
+		range = 80
+	}
+	
+	allow = {
+		aero_engine_design = 1
+	}
+	
+	research_bonus_from = {
+		aeronautic_engineering = 0.3
+		single_engine_aircraft_practical = 0.5
+                twin_engine_aircraft_practical = 0.5
+	}
+	
+	on_completion = aeronautic_engineering
+	
+	difficulty = 20
+	start_year = 2000
+	first_offset = 2003
+	additional_offset = 5
+	max_level = 6
+	folder = fighter_folder 
+	can_upgrade = no
+}
+
+medium_sized_aircraft_engine = {
+
+	multi_role = {
+		maximum_speed = 80
+		range = 150
+	}
+	cag = {
+		maximum_speed = 80
+		range = 120
+	}
+	
+	allow = {
+		aero_engine_design = 1
+	}
+	
+	research_bonus_from = {
+		aeronautic_engineering = 0.3
+		single_engine_aircraft_practical = 0.5
+                twin_engine_aircraft_practical = 0.5
+	}
+	
+	on_completion = aeronautic_engineering
+	
+	difficulty = 20
+	start_year = 2000
+	first_offset = 2003
+	additional_offset = 5
+	max_level = 6
+	folder = fighter_folder 
+	can_upgrade = no
+}
+
+large_aircraft_engine = {
+
+	interceptor = {
+		maximum_speed = 100
+		range = 200
+	}
+	caz = {
+		maximum_speed = 100
+		range = 180
+	}
+	cas = {
+		maximum_speed = 80
+		range = 150
+	}
+	strategic_bomber = {
+		maximum_speed = 50
+		range = 60
+	}
+	transport_plane = {
+		maximum_speed = 50
+		range = 50
+	}
+	
+	allow = {
+		aero_engine_design = 1
+	}
+	
+	research_bonus_from = {
+		aeronautic_engineering = 0.3
+		single_engine_aircraft_practical = 0.5
+                twin_engine_aircraft_practical = 0.5
+	}
+	
+	on_completion = aeronautic_engineering
+	
+	difficulty = 20
+	start_year = 2000
+	first_offset = 2003
+	additional_offset = 5
+	max_level = 6
+	folder = fighter_folder 
+	can_upgrade = no
+}
+
+fighter_design_details = {
+
+	allow = {
+	   OR = {
+                light_body = 1
+                medium_body = 1
+                heavy_body = 1
+	   }
+	}
+	
+	research_bonus_from = {
+		aeronautic_engineering = 0.3
+		single_engine_aircraft_practical = 0.7
+	}
+	
+	on_completion = aeronautic_engineering
+	
+	difficulty = 35
+	start_year = 2000
+	folder = fighter_folder 
+}
+
+attack_aircraft_design_details = {
+
+	allow = {
+	   OR = {
+                medium_body = 1
+                heavy_body = 1
+	   }
+	}
+	
+	research_bonus_from = {
+		aeronautic_engineering = 0.3
+		single_engine_aircraft_practical = 0.7
+	}
+	
+	on_completion = aeronautic_engineering
+	
+	difficulty = 35
+	start_year = 2000
+	folder = fighter_folder 
+}
+
+the_details_of_the_design = {
+
+	allow = {
+	   OR = {
+                large_body = 1
+                extra_large_body = 1
+	   }
+	}
+	
+	research_bonus_from = {
+		aeronautic_engineering = 0.3
+                twin_engine_aircraft_practical = 0.7
+	}
+	
+	on_completion = aeronautic_engineering
+	
+	difficulty = 35
+	start_year = 2000
+	folder = fighter_folder 
+}
+
+fighter_airborne_radar = {
+
+	interceptor = {
+		air_detection = 1.50
+		surface_detection = 0.5
+	}
+	cas = {
+		air_detection = 1.50
+		surface_detection = 0.5
+	}
+	cag = {
+		air_detection = 1.50
+		surface_detection = 0.5
+	}
+	caz = {
+		air_detection = 1.50
+		surface_detection = 0.5
+	}
+	multi_role = {
+		air_detection = 1.50
+		surface_detection = 0.5
+	}
+	vtol = {
+		air_detection = 1.50
+		surface_detection = 0.5
+	}
+	light_fighter = {
+		air_detection = 1.50
+		surface_detection = 0.5
+	}
+
+	allow = {
+	   OR = {
+                light_fighter = 1
+                STOL_aircraft = 1
+                medium_combat_aircraft = 1
+                medium-sized_aircraft = 1
+                heavy_fighter = 1
+                heavy_aircraft = 1
+                attack_aircraft = 1
+	   }
+	}
+	
+	research_bonus_from = {
+		aeronautic_engineering = 1.0
+	}
+
+	
+	on_completion = aeronautic_engineering
+	
+	difficulty = 20
+	start_year = 2000
+	first_offset = 2003
+	additional_offset = 5
+	max_level = 6
+	folder = fighter_folder 
+	can_upgrade = no
+}
+
+fighter_counter_system = {
+
+	interceptor = {
+		air_defence = 1.00
+		surface_defence = 1.00
+	}
+	cas = { 
+		air_defence = 1.00
+		surface_defence = 1.00
+	}
+	cag = {
+		air_defence = 1.00
+		surface_defence = 1.00
+	}
+	caz = {
+		air_defence = 1.00
+		surface_defence = 1.00
+	}
+	multi_role = {
+		air_defence = 1.00
+		surface_defence = 1.00
+	}
+	vtol = {
+		air_defence = 1.00
+		surface_defence = 1.00
+	}
+	light_fighter = {
+		air_defence = 1.00
+		surface_defence = 1.00
+	}
+
+	allow = {
+	   OR = {
+                light_fighter = 1
+                STOL_aircraft = 1
+                medium_combat_aircraft = 1
+                medium-sized_aircraft = 1
+                heavy_fighter = 1
+                heavy_aircraft = 1
+                attack_aircraft = 1
+	   }
+	}
+	
+	research_bonus_from = {
+		aeronautic_engineering = 1.0
+	}
+	allow = {
+		promotion_of_information_technology = 1.0
+	}
+
+	
+	on_completion = aeronautic_engineering
+	
+	difficulty = 20
+	start_year = 2000
+	first_offset = 2003
+	additional_offset = 5
+	max_level = 6
+	folder = fighter_folder 
+	can_upgrade = no
+}
+
+the_airborne_radar = {
+	
+         strategic_bomber = {
+		air_detection = 0.5
+		surface_detection = 1.5
+	}
+	transport_plane = {
+		air_detection = 0.5
+		surface_detection = 1.5
+	}
+	
+	research_bonus_from = {
+		aeronautic_engineering = 1.0
+	}
+
+	allow = {
+	   OR = {
+                bomber = 1
+                STOL_aircraft = 1
+                medium_combat_aircraft = 1
+                medium-sized_aircraft = 1
+                heavy_fighter = 1
+                heavy_aircraft = 1
+                attack_aircraft = 1
+	   }
+	}
+	
+	on_completion = aeronautic_engineering
+	
+	difficulty = 20
+	start_year = 2000
+	first_offset = 2003
+	additional_offset = 5
+	max_level = 6
+	folder = fighter_folder 
+	can_upgrade = no
+}
+
+light_fighter = {
+
+	activate_unit = light_fighter
+	
+        allow = {
+	       fighter_design_details = 1
+               small_aviation_engine = 1  
+	}
+	
+	research_bonus_from = {
+		aeronautic_engineering = 0.3
+		single_engine_aircraft_practical = 0.7
+	}
+	
+	on_completion = aeronautic_engineering
+	
+	difficulty = 35
+	start_year = 2000
+	folder = fighter_folder 
+}
+
+STOL_aircraft = {
+
+	activate_unit = vtol
+
+        allow = {
+	       fighter_design_details = 1
+               light_body = 2
+               small_aviation_engine = 1
+	}
+	
+	research_bonus_from = {
+		aeronautic_engineering = 0.3
+		single_engine_aircraft_practical = 0.7
+	}
+	
+	on_completion = aeronautic_engineering
+	
+	difficulty = 35
+	start_year = 2000
+	folder = fighter_folder 
+	can_upgrade = no
+}
+
+medium_combat_aircraft = {
+
+	activate_unit = multi_role
+
+        allow = {
+               fighter_design_details = 1
+               medium_sized_aircraft_engine = 1
+	}
+	research_bonus_from = {
+		aeronautic_engineering = 0.3
+		single_engine_aircraft_practical = 0.7
+	}
+	
+	on_completion = aeronautic_engineering
+	
+	difficulty = 35
+	start_year = 2000
+	folder = fighter_folder 
+}
+
+medium-sized_aircraft = {
+
+	activate_unit = cag
+
+        allow = {
+               fighter_design_details = 1
+               medium_body = 2
+               medium_sized_aircraft_engine = 1
+	}
+	
+	research_bonus_from = {
+		aeronautic_engineering = 0.3
+		single_engine_aircraft_practical = 0.7
+	}
+	
+	on_completion = aeronautic_engineering
+	
+	difficulty = 35
+	start_year = 2000
+	folder = fighter_folder 
+}
+
+heavy_fighter = {
+
+	activate_unit = interceptor
+
+        allow = {
+               fighter_design_details = 1
+               large_aircraft_engine = 1
+	}
+	
+	research_bonus_from = {
+		aeronautic_engineering = 0.3
+		single_engine_aircraft_practical = 0.7
+	}
+	
+	on_completion = aeronautic_engineering
+	
+	difficulty = 35
+	start_year = 2000
+	folder = fighter_folder 
+}
+
+heavy_aircraft = {
+
+	activate_unit = caz
+
+        allow = {
+               fighter_design_details = 1
+               heavy_body = 2
+               large_aircraft_engine = 1
+	}
+	
+	research_bonus_from = {
+		aeronautic_engineering = 0.3
+		single_engine_aircraft_practical = 0.7
+	}
+	
+	on_completion = aeronautic_engineering
+	
+	difficulty = 35
+	start_year = 2000
+	folder = fighter_folder 
+}
+
+attack_aircraft = {
+
+	activate_unit = cas
+
+        allow = {
+               attack_aircraft_design_details = 1
+               large_aircraft_engine = 1
+	}
+	
+	research_bonus_from = {
+		aeronautic_engineering = 0.3
+		single_engine_aircraft_practical = 0.7
+	}
+	
+	on_completion = aeronautic_engineering
+	
+	difficulty = 35
+	start_year = 2000
+	folder = fighter_folder 
+}
+
+bomber = {
+
+	activate_unit = strategic_bomber
+
+        allow = {
+               the_details_of_the_design = 1
+               large_aircraft_engine = 1
+	}
+	
+	research_bonus_from = {
+		aeronautic_engineering = 0.3
+                twin_engine_aircraft_practical = 0.7
+	}
+	
+	on_completion = aeronautic_engineering
+	
+	difficulty = 35
+	start_year = 2000
+	folder = fighter_folder 
+}
+
+transport_planes = {
+
+	activate_unit = transport_plane
+
+        allow = {
+               the_details_of_the_design = 1
+               large_aircraft_engine = 1
+	}
+	
+	research_bonus_from = {
+		aeronautic_engineering = 0.3
+                twin_engine_aircraft_practical = 0.7
+	}
+	
+	on_completion = aeronautic_engineering
+	
+	difficulty = 35
+	start_year = 2000
+	folder = fighter_folder 
+}

@@ -1,0 +1,6449 @@
+34001 = {
+	name = "岳军"
+	country = CHC
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = CHC1
+	add_trait = fortress_buster
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+34002 = {
+	name = "王玉仁"
+	country = CHC
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = CHC2
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+34003 = {
+	name = "张志书"
+	country = CHC
+	type = land
+	skill = 3
+	max_skill = 7
+	loyalty = 0.00
+	picture = CHC3
+	history = {
+	2000.1.1 = { rank = 2 }
+	}
+}
+34004 = {
+	name = "常吉平"
+	country = CHC
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 0.00
+	picture = CHC4
+	add_trait = old_guard
+	history = {
+	2000.1.1 = { rank = 3 }
+	}
+}
+34233 = {
+	name = "朱永清"
+	country = CHC
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L34233
+	add_trait = assaulter
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34234 = {
+	name = "聂诚"
+	country = CHC
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L34234
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34235 = {
+	name = "崔建"
+	country = CHC
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L34235
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34236 = {
+	name = "冯孟波"
+	country = CHC
+	type = land
+	skill = 1
+	max_skill = 7
+	loyalty = 1.00
+	picture = L34236
+	add_trait = improvisation
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34237 = {
+	name = "顾城"
+	country = CHC
+	type = land
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L34237
+	add_trait = panzer_leader
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34238 = {
+	name = "胡嘉"
+	country = CHC
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L34238
+	add_trait = logistics_wizard
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34239 = {
+	name = "左建昌"
+	country = CHC
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L34239
+	add_trait = defensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34240 = {
+	name = "李达伟"
+	country = CHC
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 0.00
+	picture = L34240
+	add_trait = engineer
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34241 = {
+	name = "赵兴法"
+	country = CHC
+	type = land
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L34241
+	add_trait = hard_defender
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34242 = {
+	name = "李遂智"
+	country = CHC
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L34242
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34243 = {
+	name = "刘白羽"
+	country = CHC
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L34243
+	add_trait = panzer_leader
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34244 = {
+	name = "陆浩"
+	country = CHC
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 1.00
+	picture = L34244
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34245 = {
+	name = "陆家明"
+	country = CHC
+	type = land
+	skill = 1
+	max_skill = 7
+	loyalty = 1.00
+	picture = L34245
+	add_trait = commando
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34246 = {
+	name = "邵嘉义"
+	country = CHC
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L34246
+	add_trait = engineer
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34247 = {
+	name = "孙道临"
+	country = CHC
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 0.00
+	picture = L34247
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34248 = {
+	name = "滕海冰"
+	country = CHC
+	type = land
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L34248
+	add_trait = panzer_leader
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34249 = {
+	name = "王度庐"
+	country = CHC
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L34249
+	add_trait = winter_specialist
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34250 = {
+	name = "王蒙"
+	country = CHC
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 0.00
+	picture = L34250
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34251 = {
+	name = "王涛"
+	country = CHC
+	type = land
+	skill = 2
+	max_skill = 8
+	loyalty = 1.00
+	picture = L34251
+	add_trait = frontline_soldier
+	add_trait = commando
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34252 = {
+	name = "冉威"
+	country = CHC
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 0.00
+	picture = L34252
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34253 = {
+	name = "程阳"
+	country = CHC
+	type = land
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L34253
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34254 = {
+	name = "尹若诚"
+	country = CHC
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L34254
+	add_trait = offensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34255 = {
+	name = "张凌"
+	country = CHC
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 0.00
+	picture = L34255
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34256 = {
+	name = "张友代"
+	country = CHC
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L34256
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34257 = {
+	name = "李启元"
+	country = CHC
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L34257
+	add_trait = engineer
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34258 = {
+	name = "陈希同"
+	country = CHC
+	type = land
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L34258
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34259 = {
+	name = "林湖佳"
+	country = CHC
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L34259
+	add_trait = offensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34260 = {
+	name = "谢富治"
+	country = CHC
+	type = land
+	skill = 2
+	max_skill = 8
+	loyalty = 1.00
+	picture = L34260
+	add_trait = trainer
+	add_trait = frontline_soldier
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34261 = {
+	name = "郭金龙"
+	country = CHC
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 0.00
+	picture = L34261
+	add_trait = offensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34262 = {
+	name = "潘广"
+	country = CHC
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 0.00
+	picture = L34262
+	add_trait = frontline_soldier
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34263 = {
+	name = "刘浩"
+	country = CHC
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 0.00
+	picture = L34263
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34264 = {
+	name = "胡锦涛"
+	country = CHC
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L34264
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34265 = {
+	name = "徐承云"
+	country = CHC
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L34265
+	add_trait = learners_will
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34266 = {
+	name = "王立庆"
+	country = CHC
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 0.00
+	picture = L34266
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34267 = {
+	name = "马宝江"
+	country = CHC
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L34267
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34268 = {
+	name = "马庆华"
+	country = CHC
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 0.00
+	picture = L34268
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34269 = {
+	name = "严培明"
+	country = CHC
+	type = land
+	skill = 1
+	max_skill = 8
+	loyalty = 1.00
+	picture = L34269
+	add_trait = learners_will
+	add_trait = panzer_leader
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34270 = {
+	name = "黄献中"
+	country = CHC
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L34270
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34271 = {
+	name = "贾润兴"
+	country = CHC
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L34271
+	add_trait = commando
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34272 = {
+	name = "孙远"
+	country = CHC
+	type = land
+	skill = 2
+	max_skill = 8
+	loyalty = 1.00
+	picture = L34272
+	add_trait = offensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34273 = {
+	name = "秋晓龙"
+	country = CHC
+	type = land
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L34273
+	add_trait = logistics_wizard
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34274 = {
+	name = "林银旭"
+	country = CHC
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 0.00
+	picture = L34274
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34275 = {
+	name = "娄烨"
+	country = CHC
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L34275
+	add_trait = landing_specialist
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34276 = {
+	name = "赵世炎"
+	country = CHC
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 0.00
+	picture = L34276
+	add_trait = defensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34277 = {
+	name = "张希果"
+	country = CHC
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L34277
+	add_trait = panzer_leader
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34278 = {
+	name = "王国胜"
+	country = CHC
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L34278
+	add_trait = commando
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34279 = {
+	name = "贾达群"
+	country = CHC
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 0.00
+	picture = L34279
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34280 = {
+	name = "刘振来"
+	country = CHC
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L34280
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34475 = {
+	name = "贺华"
+	country = CHC
+	type = sea
+	skill = 1
+	max_skill = 5
+	loyalty = 0.00
+	picture = L34475
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34476 = {
+	name = "吴胜利"
+	country = CHC
+	type = sea
+	skill = 5
+	max_skill = 9
+	loyalty = 1.00
+	picture = L34476
+	add_trait = spotter
+	add_trait = superior_tactician
+	history = {
+		1995.1.1 = { rank = 1 }
+		1998.1.1 = { rank = 2 }
+		2001.1.1 = { rank = 3 }
+		2003.1.1 = { rank = 4 }
+	}
+}
+34477 = {
+	name = "赵国钧"
+	country = CHC
+	type = sea
+	skill = 4
+	max_skill = 8
+	loyalty = 1.00
+	picture = L34477
+	add_trait = seawolf
+	history = {
+		1998.1.1 = { rank = 1 }
+		2001.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+34478 = {
+	name = "李世宏"
+	country = CHC
+	type = sea
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L34478
+	add_trait = superior_tactician
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+34479 = {
+	name = "丁一平"
+	country = CHC
+	type = sea
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L34479
+	add_trait = spotter
+	add_trait = seawolf
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+34480 = {
+	name = "马林"
+	country = CHC
+	type = sea
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L34480
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+34481 = {
+	name = "杨益怀"
+	country = CHC
+	type = sea
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L34481
+	add_trait = blockade_runner
+	add_trait = superior_tactician
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+34482 = {
+	name = "王红山"
+	country = CHC
+	type = land
+	skill = 2
+	max_skill = 8
+	loyalty = 1.00
+	picture = L34482
+	add_trait = winter_specialist
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34483 = {
+	name = "金俊"
+	country = CHC
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 0.00
+	picture = L34483
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34484 = {
+	name = "黄磊"
+	country = CHC
+	type = land
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L34484
+	add_trait = improvisation
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34485 = {
+	name = "岳世兴"
+	country = CHC
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L34485
+	add_trait = landlubber
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34486 = {
+	name = "王宁"
+	country = CHC
+	type = land
+	skill = 2
+	max_skill = 8
+	loyalty = 1.00
+	picture = L34486
+	add_trait = trainer
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34487 = {
+	name = "郭琦"
+	country = CHC
+	type = land
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L34487
+	add_trait = assaulter
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34488 = {
+	name = "秦卫江"
+	country = CHC
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L34488
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34489 = {
+	name = "李洪川"
+	country = CHC
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 0.00
+	picture = L34489
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34490 = {
+	name = "温克华"
+	country = CHC
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 0.00
+	picture = L34490
+	add_trait = improvisation
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34491 = {
+	name = "吴越"
+	country = CHC
+	type = land
+	skill = 2
+	max_skill = 8
+	loyalty = 1.00
+	picture = L34491
+	add_trait = offensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34492 = {
+	name = "许瑾川"
+	country = CHC
+	type = land
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L34492
+	add_trait = hard_defender
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34493 = {
+	name = "严凯"
+	country = CHC
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L34493
+	add_trait = old_guard
+	add_trait = panzer_leader
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34494 = {
+	name = "阎维文"
+	country = CHC
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 0.00
+	picture = L34494
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34495 = {
+	name = "郁钧剑"
+	country = CHC
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L34495
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34496 = {
+	name = "周觅"
+	country = CHC
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L34496
+	add_trait = logistics_wizard
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34497 = {
+	name = "谭希杰"
+	country = CHC
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 0.00
+	picture = L34497
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34498 = {
+	name = "张建平"
+	country = CHC
+	type = land
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L34498
+	add_trait = logistics_wizard
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34281 = {
+	name = "张鹏翔"
+	country = CHC
+	type = land
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L34281
+	add_trait = panzer_leader
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34282 = {
+	name = "刘嵩"
+	country = CHC
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L34282
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34283 = {
+	name = "杨志琦"
+	country = CHC
+	type = land
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L34283
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34284 = {
+	name = "张建启"
+	country = CHC
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L34284
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34285 = {
+	name = "赵红兵"
+	country = CHC
+	type = land
+	skill = 2
+	max_skill = 8
+	loyalty = 1.00
+	picture = L34285
+	add_trait = commando
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34286 = {
+	name = "童建"
+	country = CHC
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L34286
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34287 = {
+	name = "张豪"
+	country = CHC
+	type = land
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L34287
+	add_trait = trickster
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34288 = {
+	name = "王朔"
+	country = CHC
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 0.00
+	picture = L34288
+	add_trait = defensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34289 = {
+	name = "张远"
+	country = CHC
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L34289
+	add_trait = engineer
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34290 = {
+	name = "吴鹏根"
+	country = CHC
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L34290
+	add_trait = panzer_leader
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34291 = {
+	name = "秦华来"
+	country = CHC
+	type = land
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L34291
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34292 = {
+	name = "王度"
+	country = CHC
+	type = land
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L34292
+	add_trait = panzer_leader
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34293 = {
+	name = "郝军明"
+	country = CHC
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L34293
+	add_trait = panzer_leader
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34294 = {
+	name = "吴瑜"
+	country = CHC
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 0.00
+	picture = L34294
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34295 = {
+	name = "张又侠"
+	country = CHC
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L34295
+	add_trait = landing_specialist
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34296 = {
+	name = "林锦源"
+	country = CHC
+	type = land
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L34296
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34297 = {
+	name = "戴思捷"
+	country = CHC
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 0.00
+	picture = L34297
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34298 = {
+	name = "谭作仁"
+	country = CHC
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L34298
+	add_trait = improvisation
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34299 = {
+	name = "李东华"
+	country = CHC
+	type = land
+	skill = 1
+	max_skill = 7
+	loyalty = 1.00
+	picture = L34299
+	add_trait = learners_will
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34300 = {
+	name = "秋安雄"
+	country = CHC
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L34300
+	add_trait = commando
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34402 = {
+	name = "赵树立"
+	country = CHC
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L34402
+	add_trait = landlubber
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34403 = {
+	name = "蒋哲涵"
+	country = CHC
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 0.00
+	picture = L34403
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34404 = {
+	name = "何映华"
+	country = CHC
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L34404
+	add_trait = landlubber
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34405 = {
+	name = "杨硕"
+	country = CHC
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L34405
+	add_trait = panzer_leader
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34406 = {
+	name = "房峰辉"
+	country = CHC
+	type = land
+	skill = 4
+	max_skill = 9
+	loyalty = 1.00
+	picture = L34406
+	add_trait = logistics_wizard
+	add_trait = assaulter
+	history = {
+		1995.1.1 = { rank = 1 }
+		1998.1.1 = { rank = 2 }
+		2001.1.1 = { rank = 3 }
+		2003.1.1 = { rank = 4 }
+	}
+}
+34407 = {
+	name = "刘白羽"
+	country = CHC
+	type = land
+	skill = 0
+	max_skill = 6
+	loyalty = 1.00
+	picture = L34407
+	add_trait = landlubber
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34408 = {
+	name = "秦牧"
+	country = CHC
+	type = land
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = L34408
+	add_trait = old_guard
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34409 = {
+	name = "博洋"
+	country = CHC
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L34409
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34410 = {
+	name = "陆文峰"
+	country = CHC
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L34410
+	add_trait = commando
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34411 = {
+	name = "王梦"
+	country = CHC
+	type = land
+	skill = 2
+	max_skill = 8
+	loyalty = 1.00
+	picture = L34411
+	add_trait = panzer_leader
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34412 = {
+	name = "李嘉明"
+	country = CHC
+	type = land
+	skill = 2
+	max_skill = 5
+	loyalty = 0.00
+	picture = L34412
+	add_trait = old_guard
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34413 = {
+	name = "郑毅"
+	country = CHC
+	type = land
+	skill = 3
+	max_skill = 9
+	loyalty = 1.00
+	picture = L34413
+	add_trait = offensive_doctrine
+	add_trait = assaulter
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34414 = {
+	name = "吴云峰"
+	country = CHC
+	type = land
+	skill = 1
+	max_skill = 7
+	loyalty = 1.00
+	picture = L34414
+	add_trait = landing_specialist
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34415 = {
+	name = "崔景龙"
+	country = CHC
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L34415
+	add_trait = offensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34416 = {
+	name = "田毅功"
+	country = CHC
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L34416
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34417 = {
+	name = "杨莲"
+	country = CHC
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 0.00
+	picture = L34417
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34418 = {
+	name = "汪烁"
+	country = CHC
+	type = land
+	skill = 2
+	max_skill = 8
+	loyalty = 1.00
+	picture = L34418
+	add_trait = learners_will
+	add_trait = assaulter
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34419 = {
+	name = "严立克"
+	country = CHC
+	type = land
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L34419
+	add_trait = landing_specialist
+	add_trait = hard_defender
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34420 = {
+	name = "余华"
+	country = CHC
+	type = land
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L34420
+	add_trait = frontline_soldier
+	add_trait = panzer_leader
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34421 = {
+	name = "席川"
+	country = CHC
+	type = land
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L34421
+	add_trait = fortress_buster
+	add_trait = improvisation
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34422 = {
+	name = "毕玉峰"
+	country = CHC
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L34422
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34423 = {
+	name = "郑卫平"
+	country = CHC
+	type = air
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L34423
+	add_trait = old_guard
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34424 = {
+	name = "李国辉"
+	country = CHC
+	type = air
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L34424
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34425 = {
+	name = "陈定"
+	country = CHC
+	type = air
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L34425
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34426 = {
+	name = "董斌"
+	country = CHC
+	type = air
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L34426
+	add_trait = tank_buster
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34427 = {
+	name = "纪伟"
+	country = CHC
+	type = air
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L34427
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34428 = {
+	name = "曹建国"
+	country = CHC
+	type = air
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L34428
+	add_trait = superior_air_tactician
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34429 = {
+	name = "戴旭"
+	country = CHC
+	type = air
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L34429
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34430 = {
+	name = "杜文龙"
+	country = CHC
+	type = air
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L34430
+	add_trait = carpet_bomber
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34431 = {
+	name = "李文超"
+	country = CHC
+	type = air
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L34431
+	add_trait = fleet_destroyer
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34432 = {
+	name = "李世华"
+	country = CHC
+	type = air
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L34432
+	add_trait = night_flyer
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34433 = {
+	name = "刘勇"
+	country = CHC
+	type = air
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L34433
+	add_trait = tank_buster
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34434 = {
+	name = "吴国辉"
+	country = CHC
+	type = air
+	skill = 2
+	max_skill = 8
+	loyalty = 1.00
+	picture = L34434
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34435 = {
+	name = "许平"
+	country = CHC
+	type = air
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L34435
+	add_trait = carpet_bomber
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34436 = {
+	name = "杨传明"
+	country = CHC
+	type = air
+	skill = 2
+	max_skill = 6
+	loyalty = 0.00
+	picture = L34436
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34437 = {
+	name = "张烈刚"
+	country = CHC
+	type = air
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L34437
+	add_trait = superior_air_tactician
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34438 = {
+	name = "任海泉"
+	country = CHC
+	type = air
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L34438
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34439 = {
+	name = "李顿"
+	country = CHC
+	type = air
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L34439
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34440 = {
+	name = "马晓天"
+	country = CHC
+	type = air
+	skill = 5
+	max_skill = 9
+	loyalty = 1.00
+	picture = L34440
+	add_trait = tank_buster
+	add_trait = superior_air_tactician
+	history = {
+		1995.1.1 = { rank = 1 }
+		1998.1.1 = { rank = 2 }
+		2001.1.1 = { rank = 3 }
+		2003.1.1 = { rank = 4 }
+	}
+}
+34441 = {
+	name = "许其亮"
+	country = CHC
+	type = air
+	skill = 4
+	max_skill = 8
+	loyalty = 1.00
+	picture = L34441
+	add_trait = carpet_bomber
+	history = {
+		1995.1.1 = { rank = 1 }
+		1998.1.1 = { rank = 2 }
+		2001.1.1 = { rank = 3 }
+		2003.1.1 = { rank = 4 }
+	}
+}
+34442 = {
+	name = "潘昌杰"
+	country = CHC
+	type = air
+	skill = 4
+	max_skill = 7
+	loyalty = 1.00
+	picture = L34442
+	add_trait = carpet_bomber
+	history = {
+		1998.1.1 = { rank = 1 }
+		2001.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+34443 = {
+	name = "刘亚洲"
+	country = CHC
+	type = air
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L34443
+	add_trait = superior_air_tactician
+	history = {
+		1998.1.1 = { rank = 1 }
+		2001.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+34444 = {
+	name = "华驰成"
+	country = CHC
+	type = air
+	skill = 4
+	max_skill = 7
+	loyalty = 1.00
+	picture = L34444
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+34445 = {
+	name = "陈志杰"
+	country = CHC
+	type = air
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L34445
+	add_trait = tank_buster
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+34446 = {
+	name = "梁桥"
+	country = CHC
+	type = air
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L34446
+	add_trait = tank_buster
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+34447 = {
+	name = "孙仲文"
+	country = CHC
+	type = air
+	skill = 2
+	max_skill = 6
+	loyalty = 0.00
+	picture = L34447
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+34448 = {
+	name = "宋琨"
+	country = CHC
+	type = air
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L34448
+	add_trait = carpet_bomber
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+34449 = {
+	name = "徐云"
+	country = CHC
+	type = air
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L34449
+	add_trait = fleet_destroyer
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+34450 = {
+	name = "李之宏"
+	country = CHC
+	type = sea
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = L34450
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34451 = {
+	name = "刘长春"
+	country = CHC
+	type = sea
+	skill = 2
+	max_skill = 6
+	loyalty = 0.00
+	picture = L34451
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34452 = {
+	name = "王建伟"
+	country = CHC
+	type = sea
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L34452
+	add_trait = seawolf
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34453 = {
+	name = "王琦"
+	country = CHC
+	type = sea
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L34453
+	add_trait = blockade_runner
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34454 = {
+	name = "王泽明"
+	country = CHC
+	type = sea
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L34454
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34455 = {
+	name = "于洪超"
+	country = CHC
+	type = sea
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L34455
+	add_trait = superior_tactician
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34005 = {
+	name = "常云义"
+	country = CHC
+	type = land
+	skill = 0
+	max_skill = 4
+	loyalty = 0.00
+	picture = CHC5
+	history = {
+	2000.1.1 = { rank = 1 }
+	}
+}
+34006 = {
+	name = "赵志盛"
+	country = CHC
+	type = land
+	skill = 0
+	max_skill = 4
+	loyalty = 0.00
+	picture = CHC6
+	history = {
+	2000.1.1 = { rank = 1 }
+	}
+}
+34007 = {
+	name = "赵毅"
+	country = CHC
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = CHC7
+	history = {
+	2000.1.1 = { rank = 1 }
+	}
+}
+34008 = {
+	name = "陈浩昌"
+	country = CHC
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = CHC8
+	history = {
+	2000.1.1 = { rank = 2 }
+	}
+}
+34009 = {
+	name = "冯伟"
+	country = CHC
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = CHC9
+	history = {
+	2000.1.1 = { rank = 1 }
+	}
+}
+34010 = {
+	name = "陈广"
+	country = CHC
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = CHC10
+	add_trait = winter_specialist
+	history = {
+	2000.1.1 = { rank = 1 }
+	}
+}
+34011 = {
+	name = "陈应"
+	country = CHC
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = CHC11
+	add_trait = offensive_doctrine
+	add_trait = fortress_buster
+	history = {
+	2000.1.1 = { rank = 1 }
+	}
+}
+34012 = {
+	name = "周翔宇"
+	country = CHC
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = CHC12
+	add_trait = logistics_wizard
+	history = {
+	2000.1.1 = { rank = 1 }
+	}
+}
+34013 = {
+	name = "胡书贤"
+	country = CHC
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = CHC13
+	history = {
+	2000.1.1 = { rank = 1 }
+	}
+}
+34014 = {
+	name = "刘连华"
+	country = CHC
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = CHC14
+	history = {
+	2000.1.1 = { rank = 1 }
+	}
+}
+34015 = {
+	name = "刘俊章"
+	country = CHC
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = CHC15
+	history = {
+	2000.1.1 = { rank = 1 }
+	}
+}
+34016 = {
+	name = "戚采辰"
+	country = CHC
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 0.00
+	picture = CHC16
+	history = {
+	2000.1.1 = { rank = 1 }
+	}
+}
+34017 = {
+	name = "李世林"
+	country = CHC
+	type = land
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = CHC17
+	history = {
+	2000.1.1 = { rank = 2 }
+	}
+}
+34018 = {
+	name = "徐东光"
+	country = CHC
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = CHC18
+	add_trait = panzer_leader
+				history = {
+	2000.1.1 = { rank = 1 }
+	}
+}
+34019 = {
+	name = "黄毅诚"
+	country = CHC
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 1.00
+	picture = CHC19
+	history = {
+	2008.1.1 = { rank = 1 }
+	}
+}
+34020 = {
+	name = "高光"
+	country = CHC
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = CHC20
+	add_trait = trickster
+	history = {
+	2000.1.1 = { rank = 1 }
+	}
+}
+34021 = {
+	name = "金维温"
+	country = CHC
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = CHC21
+	history = {
+	2000.1.1 = { rank = 1 }
+	}
+}
+34022 = {
+	name = "康晴"
+	country = CHC
+	type = land
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = CHC22
+	add_trait = panzer_leader
+	history = {
+	2000.1.1 = { rank = 1 }
+	}
+}
+34023 = {
+	name = "杜材"
+	country = CHC
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = CHC23
+	history = {
+	2000.1.1 = { rank = 1 }
+	}
+}
+34024 = {
+	name = "李佑邦"
+	country = CHC
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = CHC24
+	add_trait = logistics_wizard
+	history = {
+	2000.1.1 = { rank = 1 }
+	}
+}
+34025 = {
+	name = "闵旭德"
+	country = CHC
+	type = land
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = CHC25
+	add_trait = defensive_doctrine
+	add_trait = trickster
+	history = {
+	2000.1.1 = { rank = 2 }
+	}
+}
+34026 = {
+	name = "刘志同"
+	country = CHC
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = CHC26
+	add_trait = logistics_wizard
+	history = {
+	2000.1.1 = { rank = 1 }
+	}
+}
+34027 = {
+	name = "迟浩田"
+	country = CHC
+	type = land
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = CHC27
+	add_trait = logistics_wizard
+	add_trait = offensive_doctrine
+	history = {
+	2000.1.1 = { rank = 3 }
+	}
+}
+34028 = {
+	name = "李景瑞"
+	country = CHC
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = CHC28
+	add_trait = engineer 
+				history = {
+	2000.1.1 = { rank = 1 }
+	}
+}
+34029 = {
+	name = "冯焕荣"
+	country = CHC
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = CHC29
+	history = {
+	2000.1.1 = { rank = 1 }
+	}
+}
+34030 = {
+	name = "罗炳勋"
+	country = CHC
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = CHC30
+	history = {
+	2000.1.1 = { rank = 1 }
+	}
+}
+34031 = {
+	name = "金驰"
+	country = CHC
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = CHC31
+	add_trait = commando
+				history = {
+	2000.1.1 = { rank = 1 }
+	}
+}
+34032 = {
+	name = "张芜澜"
+	country = CHC
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = CHC32
+	add_trait = trickster
+	history = {
+	2000.1.1 = { rank = 1 }
+	}
+}
+34033 = {
+	name = "冯延龄"
+	country = CHC
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = CHC33
+	add_trait = fortress_buster
+	history = {
+	2000.1.1 = { rank = 1 }
+	}
+}
+34034 = {
+	name = "刘源"
+	country = CHC
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 0.00
+	picture = CHC34
+	add_trait = offensive_doctrine
+	history = {
+	2000.1.1 = { rank = 1 }
+	}
+}
+34035 = {
+	name = "张志国"
+	country = CHC
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = CHC35
+	add_trait = trickster
+	history = {
+	2000.1.1 = { rank = 1 }
+	}
+}
+34036 = {
+	name = "孙大发"
+	country = CHC
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = CHC36
+	add_trait = defensive_doctrine
+	history = {
+	2000.1.1 = { rank = 1 }
+	}
+}
+34037 = {
+	name = "刘利"
+	country = CHC
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = CHC37
+	add_trait = commando
+	history = {
+	2000.1.1 = { rank = 1 }
+	}
+}
+34038 = {
+	name = "苏闻成"
+	country = CHC
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = CHC38
+	add_trait = offensive_doctrine
+	history = {
+	2000.1.1 = { rank = 2 }
+	}
+}
+34039 = {
+	name = "汤济"
+	country = CHC
+	type = land
+	skill = 0
+	max_skill = 6
+	loyalty = 1.00
+	picture = CHC39
+	add_trait = trickster
+	history = {
+	2003.1.1 = { rank = 1 }
+	}
+}
+34040 = {
+	name = "陈先锋"
+	country = CHC
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = CHC40
+	add_trait = defensive_doctrine 
+				history = {
+	2000.1.1 = { rank = 2 }
+	}
+}
+34041 = {
+	name = "钟胜青"
+	country = CHC
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = CHC41
+	add_trait = panzer_leader
+	history = {
+	2000.1.1 = { rank = 1 }
+	}
+}
+34042 = {
+	name = "徐根初"
+	country = CHC
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = CHC42
+	add_trait = logistics_wizard
+	history = {
+	2000.1.1 = { rank = 1 }
+	}
+}
+34043 = {
+	name = "温熙森"
+	country = CHC
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = CHC43
+	history = {
+	2000.1.1 = { rank = 1 }
+	}
+}
+34044 = {
+	name = "张建业"
+	country = CHC
+	type = land
+	skill = 0
+	max_skill = 6
+	loyalty = 0.00
+	picture = CHC44
+	history = {
+	2000.1.1 = { rank = 1 }
+	}
+}
+34045 = {
+	name = "吴佳"
+	country = CHC
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = CHC45
+	add_trait = offensive_doctrine
+	history = {
+	2008.1.1 = { rank = 1 }
+	}
+}
+34046 = {
+	name = "熊自仁"
+	country = CHC
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = CHC46
+	history = {
+	2000.1.1 = { rank = 1 }
+	}
+}
+34047 = {
+	name = "王建明"
+	country = CHC
+	type = land
+	skill = 0
+	max_skill = 6
+	loyalty = 0.00
+	picture = CHC47
+	history = {
+	2003.1.1 = { rank = 1 }
+	}
+}
+34048 = {
+	name = "魏国庆"
+	country = CHC
+	type = land
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = CHC48
+	add_trait = panzer_leader
+	history = {
+	2000.1.1 = { rank = 1 }
+	}
+}
+34049 = {
+	name = "刘永治"
+	country = CHC
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = CHC49
+	add_trait = engineer 
+	history = {
+	2000.1.1 = { rank = 1 }
+	}
+}
+34050 = {
+	name = "朱文泉"
+	country = CHC
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = CHC50
+	history = {
+	2000.1.1 = { rank = 1 }
+	}
+}
+34051 = {
+	name = "丁岳涛"
+	country = CHC
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 0.00
+	picture = CHC51
+	history = {
+	2000.1.1 = { rank = 1 }
+	}
+}
+34052 = {
+	name = "毕惠义"
+	country = CHC
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = CHC52
+	history = {
+	2000.1.1 = { rank = 1 }
+	}
+}
+34053 = {
+	name = "刘卫东"
+	country = CHC
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 0.00
+	picture = CHC53
+	add_trait = panzer_leader
+				history = {
+	2000.1.1 = { rank = 1 }
+	}
+}
+34054 = {
+	name = "张学思"
+	country = CHC
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 0.00
+	picture = CHC54
+	history = {
+	2000.1.1 = { rank = 1 }
+	}
+}
+34055 = {
+	name = "郑道吉"
+	country = CHC
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 0.00
+	picture = CHC55
+	add_trait = fortress_buster
+	history = {
+	2000.1.1 = { rank = 1 }
+	}
+}
+34056 = {
+	name = "张荣"
+	country = CHC
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 0.00
+	picture = CHC56
+	history = {
+	2000.1.1 = { rank = 1 }
+	}
+}
+34057 = {
+	name = "罗啸天"
+	country = CHC
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 0.00
+	picture = CHC57
+	history = {
+	2000.1.1 = { rank = 1 }
+	}
+}
+34058 = {
+	name = "童远"
+	country = CHC
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = CHC58
+	history = {
+	2000.1.1 = { rank = 1 }
+	}
+}
+34059 = {
+	name = "谭震林"
+	country = CHC
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 0.00
+	picture = CHC59
+	history = {
+	2000.1.1 = { rank = 1 }
+	}
+}
+34060 = {
+	name = "刘振奇"
+	country = CHC
+	type = land
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = CHC60
+	add_trait = trickster
+	history = {
+	2000.1.1 = { rank = 1 }
+	}
+}
+34061 = {
+	name = "叶飞"
+	country = CHC
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 0.00
+	picture = CHC61
+	history = {
+	2000.1.1 = { rank = 1 }
+	}
+}
+34062 = {
+	name = "孙志强"
+	country = CHC
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 0.00
+	picture = CHC62
+	history = {
+	2000.1.1 = { rank = 1 }
+	}
+}
+34063 = {
+	name = "常乾坤"
+	country = CHC
+	type = land
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = CHC63
+	add_trait = logistics_wizard 
+				history = {
+	2000.1.1 = { rank = 1 }
+	}
+}
+34064 = {
+	name = "陈曦"
+	country = CHC
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = CHC64
+	history = {
+	2000.1.1 = { rank = 1 }
+	}
+}
+34065 = {
+	name = "郭伯雄"
+	country = CHC
+	type = land
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = CHC65
+	history = {
+	2000.1.1 = { rank = 1 }
+	}
+}
+34066 = {
+	name = "方子怡"
+	country = CHC
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = CHC66
+	history = {
+	2000.1.1 = { rank = 1 }
+	}
+}
+34067 = {
+	name = "汪致远"
+	country = CHC
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = CHC67
+	history = {
+	2003.1.1 = { rank = 1 }
+	}
+}
+34068 = {
+	name = "李振"
+	country = CHC
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = CHC68
+	add_trait = offensive_doctrine 
+				history = {
+	2000.1.1 = { rank = 1 }
+	}
+}
+34069 = {
+	name = "张瑞"
+	country = CHC
+	type = land
+	skill = 1
+	max_skill = 7
+	loyalty = 0.00
+	picture = CHC69
+	history = {
+	2000.1.1 = { rank = 1 }
+	}
+}
+34070 = {
+	name = "林立平"
+	country = CHC
+	type = land
+	skill = 3
+	max_skill = 7
+	loyalty = 0.00
+	picture = CHC70
+	add_trait = fortress_buster
+	add_trait = engineer
+	history = {
+	2000.1.1 = { rank = 2 }
+	}
+}
+34071 = {
+	name = "赵国钧"
+	country = CHC
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 0.00
+	picture = CHC71
+	history = {
+	2001.1.1 = { rank = 1 }
+	}
+}
+34072 = {
+	name = "段双泉"
+	country = CHC
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 1.00
+	picture = CHC72
+	add_trait = trickster
+	history = {
+	2001.1.1 = { rank = 1 }
+	}
+}
+34073 = {
+	name = "桂全智"
+	country = CHC
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = CHC73
+	add_trait = winter_specialist
+	history = {
+	2001.1.1 = { rank = 1 }
+	}
+}
+34074 = {
+	name = "黄新"
+	country = CHC
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = CHC74
+	add_trait = trickster
+	history = {
+	2001.1.1 = { rank = 1 }
+	}
+}
+34075 = {
+	name = "张斌杰"
+	country = CHC
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = CHC75
+	history = {
+	2001.1.1 = { rank = 1 }
+	}
+}
+34076 = {
+	name = "蔡侯珍"
+	country = CHC
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = CHC76
+	history = {
+	2001.1.1 = { rank = 1 }
+	}
+}
+34077 = {
+	name = "张祁祐"
+	country = CHC
+	type = land
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = CHC77
+	history = {
+	2001.1.1 = { rank = 1 }
+	}
+}
+34078 = {
+	name = "谭越新"
+	country = CHC
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 0.00
+	picture = CHC78
+	history = {
+	2002.1.1 = { rank = 1 }
+	}
+}
+34079 = {
+	name = "常全辉"
+	country = CHC
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = CHC79
+	history = {
+	2002.1.1 = { rank = 1 }
+	}
+}
+34080 = {
+	name = "于林祥"
+	country = CHC
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = CHC80
+	add_trait = defensive_doctrine
+	history = {
+	2002.1.1 = { rank = 1 }
+	}
+}
+34081 = {
+	name = "陶方"
+	country = CHC
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = CHC81
+	add_trait = panzer_leader
+	add_trait = commando
+	history = {
+	2002.1.1 = { rank = 1 }
+	}
+}
+34082 = {
+	name = "张旭行"
+	country = CHC
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 0.00
+	picture = CHC82
+	history = {
+	2002.1.1 = { rank = 1 }
+	}
+}
+34083 = {
+	name = "张强"
+	country = CHC
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = CHC83
+	add_trait = commando
+	history = {
+	2003.1.1 = { rank = 1 }
+	}
+}
+34084 = {
+	name = "闵雪忠"
+	country = CHC
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = CHC84
+	add_trait = panzer_leader
+	history = {
+	2003.1.1 = { rank = 1 }
+	}
+}
+34085 = {
+	name = "张晓天"
+	country = CHC
+	type = land
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = CHC85
+	add_trait = offensive_doctrine
+	history = {
+	2003.1.1 = { rank = 1 }
+	}
+}
+34086 = {
+	name = "张洋"
+	country = CHC
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = CHC86
+	history = {
+	2003.1.1 = { rank = 1 }
+	}
+}
+34087 = {
+	name = "张继天"
+	country = CHC
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = CHC87
+	history = {
+	2003.1.1 = { rank = 1 }
+	}
+}
+34088 = {
+	name = "张扬"
+	country = CHC
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = CHC88
+	add_trait = offensive_doctrine
+	history = {
+	2003.1.1 = { rank = 1 }
+	}
+}
+34089 = {
+	name = "张世熙"
+	country = CHC
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = CHC89
+	history = {
+	2003.1.1 = { rank = 1 }
+	}
+}
+34090 = {
+	name = "张裕辰"
+	country = CHC
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 0.00
+	picture = CHC90
+	add_trait = offensive_doctrine
+	history = {
+	2003.1.1 = { rank = 1 }
+	}
+}
+34091 = {
+	name = "刘熙"
+	country = CHC
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = CHC91
+	add_trait = logistics_wizard
+	history = {
+	2003.1.1 = { rank = 1 }
+	}
+}
+34092 = {
+	name = "朱云"
+	country = CHC
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 0.00
+	picture = CHC92
+	add_trait = offensive_doctrine
+	history = {
+	2003.1.1 = { rank = 1 }
+	}
+}
+34093 = {
+	name = "王耀民"
+	country = CHC
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = CHC93
+	history = {
+	2004.1.1 = { rank = 1 }
+	}
+}
+34094 = {
+	name = "丁一平"
+	country = CHC
+	type = land
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = CHC94
+	history = {
+	2004.1.1 = { rank = 2 }
+	}
+}
+34095 = {
+	name = "王文瑞"
+	country = CHC
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = CHC95
+	add_trait = engineer 
+	history = {
+	2003.1.1 = { rank = 1 }
+	}
+}
+34096 = {
+	name = "赵启"
+	country = CHC
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = CHC96
+	add_trait = commando
+	history = {
+	2003.1.1 = { rank = 1 }
+	}
+}
+34097 = {
+	name = "苏皖"
+	country = CHC
+	type = land
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = CHC97
+	add_trait = panzer_leader
+				history = {
+	2003.1.1 = { rank = 1 }
+	}
+}
+34098 = {
+	name = "刘虎杰"
+	country = CHC
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = CHC98
+	add_trait = trickster
+	history = {
+	2003.1.1 = { rank = 1 }
+	}
+}
+34099 = {
+	name = "李文超"
+	country = CHC
+	type = land
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = CHC99
+	add_trait = panzer_leader
+	add_trait = fortress_buster
+	history = {
+	2003.1.1 = { rank = 1 }
+	}
+}
+34100 = {
+	name = "赵善守"
+	country = CHC
+	type = air
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = CHC100
+	history = {
+	2000.1.1 = { rank = 1 }
+	}
+}
+34101 = {
+	name = "王守业"
+	country = CHC
+	type = air
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = CHC101
+	add_trait = tank_buster
+	history = {
+	2000.1.1 = { rank = 1 }
+	}
+}
+34102 = {
+	name = "陈博"
+	country = CHC
+	type = air
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = CHC102
+	add_trait = night_flyer 
+	history = {
+	2000.1.1 = { rank = 1 }
+	}
+}
+34103 = {
+	name = "陈昌杰"
+	country = CHC
+	type = air
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = CHC103
+	history = {
+	2000.1.1 = { rank = 2 }
+	}
+}
+34104 = {
+	name = "张召忠"
+	country = CHC
+	type = sea
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = CHC104
+	add_trait = superior_tactician
+	history = {
+	2000.1.1 = { rank = 2 }
+	}
+}
+34105 = {
+	name = "吴华阳"
+	country = CHC
+	type = air
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = CHC105
+	add_trait = superior_air_tactician
+	history = {
+	2000.1.1 = { rank = 1 }
+	}
+}
+34106 = {
+	name = "陈进熙"
+	country = CHC
+	type = air
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = CHC106
+	history = {
+	2000.1.1 = { rank = 1 }
+	}
+}
+34107 = {
+	name = "李玉"
+	country = CHC
+	type = air
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = CHC107
+	history = {
+	2000.1.1 = { rank = 1 }
+	}
+}
+34108 = {
+	name = "李殿仁"
+	country = CHC
+	type = air
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = CHC108
+	add_trait = tank_buster
+	history = {
+	2000.1.1 = { rank = 1 }
+	}
+}
+34109 = {
+	name = "陈长清"
+	country = CHC
+	type = air
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = CHC109
+	history = {
+	2000.1.1 = { rank = 1 }
+	}
+}
+34110 = {
+	name = "刘思澜"
+	country = CHC
+	type = air
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = CHC110
+	history = {
+	2000.1.1 = { rank = 1 }
+	}
+}
+34111 = {
+	name = "陈万仁"
+	country = CHC
+	type = air
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = CHC111
+	add_trait = night_flyer 
+				history = {
+	2000.1.1 = { rank = 1 }
+	}
+}
+34112 = {
+	name = "陈文琦"
+	country = CHC
+	type = air
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = CHC112
+	history = {
+	2000.1.1 = { rank = 1 }
+	}
+}
+34113 = {
+	name = "邓昌友"
+	country = CHC
+	type = air
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = CHC113
+	add_trait = tank_buster 
+				history = {
+	2000.1.1 = { rank = 3 }
+	}
+}
+34114 = {
+	name = "郑庭集"
+	country = CHC
+	type = air
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = CHC114
+	add_trait = fleet_destroyer
+	history = {
+	2000.1.1 = { rank = 1 }
+	}
+}
+34115 = {
+	name = "刘成军"
+	country = CHC
+	type = air
+	skill = 3
+	max_skill = 6
+	loyalty = 1.00
+	picture = CHC115
+	add_trait = carpet_bomber
+	add_trait = superior_air_tactician
+	history = {
+	2000.1.1 = { rank = 3 }
+	}
+}
+34116 = {
+	name = "郑作民"
+	country = CHC
+	type = air
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = CHC116
+	history = {
+	2001.1.1 = { rank = 1 }
+	}
+}
+34117 = {
+	name = "郑东国"
+	country = CHC
+	type = air
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = CHC117
+	add_trait = night_flyer
+	history = {
+	2001.1.1 = { rank = 1 }
+	}
+}
+34118 = {
+	name = "计志恒"
+	country = CHC
+	type = air
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = CHC118
+	add_trait = carpet_bomber
+	history = {
+	2001.1.1 = { rank = 1 }
+	}
+}
+34119 = {
+	name = "汪超群"
+	country = CHC
+	type = air
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = CHC119
+	add_trait = night_flyer
+	history = {
+	2001.1.1 = { rank = 1 }
+	}
+}
+34120 = {
+	name = "刘瑜"
+	country = CHC
+	type = air
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = CHC120
+	history = {
+	2001.1.1 = { rank = 1 }
+	}
+}
+34121 = {
+	name = "蒋子仁"
+	country = CHC
+	type = air
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = CHC121
+	history = {
+	2001.1.1 = { rank = 1 }
+	}
+}
+34122 = {
+	name = "曾琦"
+	country = CHC
+	type = air
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = CHC122
+	add_trait = tank_buster
+	add_trait = night_flyer
+	history = {
+	2001.1.1 = { rank = 2 }
+	}
+}
+34123 = {
+	name = "陈章远"
+	country = CHC
+	type = air
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = CHC123
+	history = {
+	2002.1.1 = { rank = 1 }
+	}
+}
+34124 = {
+	name = "焦安昌"
+	country = CHC
+	type = air
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = CHC124
+	history = {
+	2002.1.1 = { rank = 2 }
+	}
+}
+34125 = {
+	name = "蒋普"
+	country = CHC
+	type = air
+	skill = 3
+	max_skill = 6
+	loyalty = 1.00
+	picture = CHC125
+	history = {
+	2002.1.1 = { rank = 1 }
+	}
+}
+34126 = {
+	name = "解诚达"
+	country = CHC
+	type = air
+	skill = 0
+	max_skill = 4
+	loyalty = 1.00
+	picture = CHC126
+	add_trait = tank_buster
+	history = {
+	2002.1.1 = { rank = 1 }
+	}
+}
+34127 = {
+	name = "刘峰成"
+	country = CHC
+	type = air
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = CHC127
+	history = {
+	2002.1.1 = { rank = 2 }
+	}
+}
+34128 = {
+	name = "秦鸿彦"
+	country = CHC
+	type = air
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = CHC128
+	history = {
+	2002.1.1 = { rank = 1 }
+	}
+}
+34129 = {
+	name = "栾佳斌"
+	country = CHC
+	type = air
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = CHC129
+	add_trait = tank_buster 
+				history = {
+	2003.1.1 = { rank = 2 }
+	}
+}
+34130 = {
+	name = "周庆生"
+	country = CHC
+	type = air
+	skill = 1
+	max_skill = 4
+	loyalty = 1.00
+	picture = CHC130
+	history = {
+	2003.1.1 = { rank = 1 }
+	}
+}
+34131 = {
+	name = "周启亮"
+	country = CHC
+	type = air
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = CHC131
+	history = {
+	2003.1.1 = { rank = 1 }
+	}
+}
+34132 = {
+	name = "周甫"
+	country = CHC
+	type = sea
+	skill = 1
+	max_skill = 4
+	loyalty = 1.00
+	picture = CHC132
+	history = {
+	2000.1.1 = { rank = 1 }
+	}
+}
+34133 = {
+	name = "周辅成"
+	country = CHC
+	type = sea
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = CHC133
+	history = {
+	2000.1.1 = { rank = 1 }
+	}
+}
+34134 = {
+	name = "周岚"
+	country = CHC
+	type = sea
+	skill = 3
+	max_skill = 6
+	loyalty = 1.00
+	picture = CHC134
+	add_trait = superior_tactician
+	history = {
+	2000.1.1 = { rank = 2 }
+	}
+}
+34135 = {
+	name = "周岩"
+	country = CHC
+	type = sea
+	skill = 3
+	max_skill = 6
+	loyalty = 1.00
+	picture = CHC135
+	history = {
+	2000.1.1 = { rank = 2 }
+	}
+}
+34136 = {
+	name = "周澜"
+	country = CHC
+	type = sea
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = CHC136
+	history = {
+	2000.1.1 = { rank = 1 }
+	}
+}
+34137 = {
+	name = "张定发"
+	country = CHC
+	type = sea
+	skill = 4
+	max_skill = 7
+	loyalty = 1.00
+	picture = CHC137
+	history = {
+	2000.1.1 = { rank = 4 }
+	}
+}
+34138 = {
+	name = "王诗铭"
+	country = CHC
+	type = sea
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = CHC138
+	history = {
+	2000.1.1 = { rank = 1 }
+	}
+}
+34139 = {
+	name = "朱绍忠"
+	country = CHC
+	type = sea
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = CHC139
+	history = {
+	2000.1.1 = { rank = 1 }
+	}
+}
+34140 = {
+	name = "林炳尧"
+	country = CHC
+	type = sea
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = CHC140
+	history = {
+	2000.1.1 = { rank = 1 }
+	}
+}
+34141 = {
+	name = "朱定清"
+	country = CHC
+	type = sea
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = CHC141
+	history = {
+	2000.1.1 = { rank = 1 }
+	}
+}
+34142 = {
+	name = "朱启"
+	country = CHC
+	type = sea
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = CHC142
+	history = {
+	2001.1.1 = { rank = 1 }
+	}
+}
+34143 = {
+	name = "陶方桂"
+	country = CHC
+	type = sea
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = CHC143
+	add_trait = seawolf
+	history = {
+	2001.1.1 = { rank = 1 }
+	}
+}
+34144 = {
+	name = "孙忠同"
+	country = CHC
+	type = sea
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = CHC144
+	history = {
+	2001.1.1 = { rank = 1 }
+	}
+}
+34145 = {
+	name = "苏忠"
+	country = CHC
+	type = sea
+	skill = 0
+	max_skill = 5
+	loyalty = 1.00
+	picture = CHC145
+	history = {
+	2001.1.1 = { rank = 1 }
+	}
+}
+34146 = {
+	name = "宁峥"
+	country = CHC
+	type = sea
+	skill = 3
+	max_skill = 6
+	loyalty = 1.00
+	picture = CHC146
+	add_trait = blockade_runner
+				history = {
+	2001.1.1 = { rank = 2 }
+	}
+}
+34147 = {
+	name = "周则盛"
+	country = CHC
+	type = sea
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = CHC147
+	add_trait = spotter
+	history = {
+	2001.1.1 = { rank = 1 }
+	}
+}
+34148 = {
+	name = "范汉杰"
+	country = CHC
+	type = sea
+	skill = 0
+	max_skill = 5
+	loyalty = 1.00
+	picture = CHC148
+	history = {
+	2002.1.1 = { rank = 1 }
+	}
+}
+34149 = {
+	name = "吴敬"
+	country = CHC
+	type = sea
+	skill = 3
+	max_skill = 6
+	loyalty = 1.00
+	picture = CHC149
+	add_trait = superior_tactician
+	history = {
+	2002.1.1 = { rank = 2 }
+	}
+}
+34150 = {
+	name = "方先珏"
+	country = CHC
+	type = sea
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = CHC150
+	add_trait = seawolf
+	history = {
+	2002.1.1 = { rank = 1 }
+	}
+}
+34151 = {
+	name = "王玉成"
+	country = CHC
+	type = sea
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = CHC151
+	history = {
+	2008.1.1 = { rank = 1 }
+	}
+}
+34152 = {
+	name = "冯天安"
+	country = CHC
+	type = sea
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = CHC152
+	history = {
+	2002.1.1 = { rank = 1 }
+	}
+}
+34153 = {
+	name = "高春翔"
+	country = CHC
+	type = sea
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = CHC153
+	add_trait = spotter
+	history = {
+	2002.1.1 = { rank = 1 }
+	}
+}
+34154 = {
+	name = "冯志安"
+	country = CHC
+	type = sea
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = CHC154
+	history = {
+	2003.1.1 = { rank = 1 }
+	}
+}
+34155 = {
+	name = "冯廷贵"
+	country = CHC
+	type = sea
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = CHC155
+	history = {
+	2003.1.1 = { rank = 1 }
+	}
+}
+34156 = {
+	name = "童世平"
+	country = CHC
+	type = sea
+	skill = 4
+	max_skill = 7
+	loyalty = 1.00
+	picture = CHC156
+	history = {
+	2003.1.1 = { rank = 3 }
+	}
+}
+34157 = {
+	name = "孔瑛"
+	country = CHC
+	type = sea
+	skill = 0
+	max_skill = 4
+	loyalty = 1.00
+	picture = CHC157
+	add_trait = spotter
+	history = {
+	2003.1.1 = { rank = 1 }
+	}
+}
+34158 = {
+	name = "刘晓江"
+	country = CHC
+	type = air
+	skill = 4
+	max_skill = 8
+	loyalty = 1.00
+	picture = CHC158
+	history = {
+	2003.1.1 = { rank = 3 }
+	}
+}
+34159 = {
+	name = "王谦"
+	country = CHC
+	type = sea
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = CHC159
+	add_trait = seawolf
+	history = {
+	2003.1.1 = { rank = 1 }
+	}
+}
+34160 = {
+	name = "韩俊"
+	country = CHC
+	type = sea
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = CHC160
+	history = {
+	2003.1.1 = { rank = 1 }
+	}
+}
+34161 = {
+	name = "张定发"
+	country = CHC
+	type = sea
+	skill = 3
+	max_skill = 6
+	loyalty = 1.00
+	picture = CHC161
+	add_trait = seawolf
+	add_trait = blockade_runner
+	history = {
+	2003.1.1 = { rank = 3 }
+	}
+}
+34162 = {
+	name = "韩连成"
+	country = CHC
+	type = sea
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = CHC162
+	history = {
+	2003.1.1 = { rank = 1 }
+	}
+}
+34163 = {
+	name = "叶爱群"
+	country = CHC
+	type = sea
+	skill = 3
+	max_skill = 6
+	loyalty = 1.00
+	picture = CHC163
+	history = {
+	2003.1.1 = { rank = 2 }
+	}
+}
+34164 = {
+	name = "冯骥才"
+	country = CHC
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 0.00
+	picture = L34164
+	add_trait = frontline_soldier
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34165 = {
+	name = "刘亚红"
+	country = CHC
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L34165
+	add_trait = trickster
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34166 = {
+	name = "丁林"
+	country = CHC
+	type = land
+	skill = 1
+	max_skill = 7
+	loyalty = 1.00
+	picture = L34166
+	add_trait = learners_will
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34167 = {
+	name = "李文华"
+	country = CHC
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L34167
+	add_trait = improvisation
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34168 = {
+	name = "严珂"
+	country = CHC
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L34168
+	add_trait = improvisation
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34169 = {
+	name = "张孝忠"
+	country = CHC
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L34169
+	add_trait = frontline_soldier
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34170 = {
+	name = "马建"
+	country = CHC
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L34170
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34171 = {
+	name = "张海阳"
+	country = CHC
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L34171
+	add_trait = engineer
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34172 = {
+	name = "苏通"
+	country = CHC
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L34172
+	add_trait = improvisation
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34173 = {
+	name = "王皓"
+	country = CHC
+	type = land
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L34173
+	add_trait = hard_defender
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+34174 = {
+	name = "宗璞"
+	country = CHC
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L34174
+	add_trait = hard_defender
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34175 = {
+	name = "郭建越"
+	country = CHC
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L34175
+	add_trait = frontline_soldier
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34176 = {
+	name = "肖恩"
+	country = CHC
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L34176
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34177 = {
+	name = "周晨"
+	country = CHC
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L34177
+	add_trait = offensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34178 = {
+	name = "单楚江"
+	country = CHC
+	type = land
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L34178
+	add_trait = panzer_leader
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34179 = {
+	name = "耿彦盛"
+	country = CHC
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L34179
+	add_trait = offensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34180 = {
+	name = "郭峰冬"
+	country = CHC
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L34180
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34181 = {
+	name = "胡长明"
+	country = CHC
+	type = land
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L34181
+	add_trait = logistics_wizard
+	add_trait = panzer_leader
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34182 = {
+	name = "何雪平"
+	country = CHC
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L34182
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34183 = {
+	name = "韩江平"
+	country = CHC
+	type = land
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L34183
+	add_trait = landing_specialist
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34184 = {
+	name = "胡全亮"
+	country = CHC
+	type = land
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L34184
+	add_trait = offensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34185 = {
+	name = "方殿荣"
+	country = CHC
+	type = land
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L34185
+	add_trait = landing_specialist
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34186 = {
+	name = "孙连"
+	country = CHC
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L34186
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34187 = {
+	name = "林熙诚"
+	country = CHC
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L34187
+	add_trait = improvisation
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34188 = {
+	name = "朱谦之"
+	country = CHC
+	type = land
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L34188
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34189 = {
+	name = "刘德峰"
+	country = CHC
+	type = land
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L34189
+	add_trait = landing_specialist
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34190 = {
+	name = "刘光明"
+	country = CHC
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 0.00
+	picture = L34190
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34191 = {
+	name = "刘国梁"
+	country = CHC
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L34191
+	add_trait = frontline_soldier
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34192 = {
+	name = "刘铭符"
+	country = CHC
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L34192
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34193 = {
+	name = "刘玉东"
+	country = CHC
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L34193
+	add_trait = landing_specialist
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34194 = {
+	name = "刘兴永"
+	country = CHC
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L34194
+	add_trait = panzer_leader
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34195 = {
+	name = "孟向青"
+	country = CHC
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 0.00
+	picture = L34195
+	add_trait = engineer
+	add_trait = trickster
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34196 = {
+	name = "任磊"
+	country = CHC
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L34196
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34197 = {
+	name = "全海仁"
+	country = CHC
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L34197
+	add_trait = offensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34198 = {
+	name = "李乾元"
+	country = CHC
+	type = land
+	skill = 2
+	max_skill = 8
+	loyalty = 1.00
+	picture = L34198
+	add_trait = trainer
+	add_trait = assaulter
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34199 = {
+	name = "温炳"
+	country = CHC
+	type = land
+	skill = 1
+	max_skill = 7
+	loyalty = 1.00
+	picture = L34199
+	add_trait = frontline_soldier
+	add_trait = learners_will
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34200 = {
+	name = "晓东"
+	country = CHC
+	type = land
+	skill = 2
+	max_skill = 8
+	loyalty = 1.00
+	picture = L34200
+	add_trait = trainer
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34201 = {
+	name = "徐宏盛"
+	country = CHC
+	type = land
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L34201
+	add_trait = landing_specialist
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34202 = {
+	name = "薛庆宇"
+	country = CHC
+	type = land
+	skill = 2
+	max_skill = 9
+	loyalty = 1.00
+	picture = L34202
+	add_trait = trainer
+	add_trait = landing_specialist
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34203 = {
+	name = "闫爱轩"
+	country = CHC
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L34203
+	add_trait = panzer_leader
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34204 = {
+	name = "朱学勤"
+	country = CHC
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L34204
+	add_trait = landing_specialist
+	add_trait = assaulter
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34205 = {
+	name = "许志功"
+	country = CHC
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L34205
+	add_trait = landing_specialist
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34206 = {
+	name = "陈炳德"
+	country = CHC
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L34206
+	add_trait = improvisation
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34207 = {
+	name = "范长龙"
+	country = CHC
+	type = land
+	skill = 4
+	max_skill = 8
+	loyalty = 1.00
+	picture = L34207
+	history = {
+		1995.1.1 = { rank = 1 }
+		1998.1.1 = { rank = 2 }
+		2001.1.1 = { rank = 3 }
+		2003.1.1 = { rank = 4 }
+	}
+}
+34208 = {
+	name = "李新亮"
+	country = CHC
+	type = land
+	skill = 4
+	max_skill = 9
+	loyalty = 1.00
+	picture = L34208
+	add_trait = logistics_wizard
+	add_trait = panzer_leader
+	history = {
+		1995.1.1 = { rank = 1 }
+		1998.1.1 = { rank = 2 }
+		2001.1.1 = { rank = 3 }
+		2003.1.1 = { rank = 4 }
+	}
+}
+34209 = {
+	name = "梁光烈"
+	country = CHC
+	type = land
+	skill = 4
+	max_skill = 7
+	loyalty = 1.00
+	picture = L34209
+	add_trait = hard_defender
+	history = {
+		1995.1.1 = { rank = 1 }
+		1998.1.1 = { rank = 2 }
+		2001.1.1 = { rank = 3 }
+		2003.1.1 = { rank = 4 }
+	}
+}
+34210 = {
+	name = "刘永治"
+	country = CHC
+	type = land
+	skill = 5
+	max_skill = 8
+	loyalty = 1.00
+	picture = L34210
+	add_trait = logistics_wizard
+	add_trait = offensive_doctrine
+	history = {
+		1995.1.1 = { rank = 1 }
+		1998.1.1 = { rank = 2 }
+		2001.1.1 = { rank = 3 }
+		2003.1.1 = { rank = 4 }
+	}
+}
+34211 = {
+	name = "杜金才"
+	country = CHC
+	type = land
+	skill = 4
+	max_skill = 7
+	loyalty = 1.00
+	picture = L34211
+	add_trait = commando
+	history = {
+		1998.1.1 = { rank = 1 }
+		2001.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+34212 = {
+	name = "雷鸣球"
+	country = CHC
+	type = land
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L34212
+	history = {
+		1998.1.1 = { rank = 1 }
+		2001.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+34213 = {
+	name = "李世明"
+	country = CHC
+	type = land
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L34213
+	add_trait = assaulter
+	history = {
+		1998.1.1 = { rank = 1 }
+		2001.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+34214 = {
+	name = "苏荣"
+	country = CHC
+	type = land
+	skill = 3
+	max_skill = 6
+	loyalty = 1.00
+	picture = L34214
+	history = {
+		1998.1.1 = { rank = 1 }
+		2001.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+34215 = {
+	name = "刘志军"
+	country = CHC
+	type = land
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L34215
+	add_trait = offensive_doctrine
+	history = {
+		1998.1.1 = { rank = 1 }
+		2001.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+34216 = {
+	name = "张海阳"
+	country = CHC
+	type = land
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L34216
+	add_trait = landing_specialist
+	history = {
+		1998.1.1 = { rank = 1 }
+		2001.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+34217 = {
+	name = "张汝成"
+	country = CHC
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L34217
+	add_trait = commando
+	history = {
+		1998.1.1 = { rank = 1 }
+		2001.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+34218 = {
+	name = "李双江"
+	country = CHC
+	type = land
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L34218
+	add_trait = logistics_wizard
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+34219 = {
+	name = "戴长友"
+	country = CHC
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L34219
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+34220 = {
+	name = "范茂武"
+	country = CHC
+	type = land
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L34220
+	add_trait = defensive_doctrine
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+34221 = {
+	name = "刘亮凯"
+	country = CHC
+	type = land
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L34221
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+34222 = {
+	name = "罗援"
+	country = CHC
+	type = land
+	skill = 4
+	max_skill = 8
+	loyalty = 1.00
+	picture = L34222
+	add_trait = hard_defender
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+34223 = {
+	name = "毛兴宇"
+	country = CHC
+	type = land
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L34223
+	add_trait = offensive_doctrine
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+34224 = {
+	name = "王继堂"
+	country = CHC
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 0.00
+	picture = L34224
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+34225 = {
+	name = "王西欣"
+	country = CHC
+	type = land
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L34225
+	add_trait = panzer_leader
+	add_trait = assaulter
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+34226 = {
+	name = "江伟友"
+	country = CHC
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L34226
+	add_trait = offensive_doctrine
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+34227 = {
+	name = "严旭"
+	country = CHC
+	type = land
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L34227
+	add_trait = frontline_soldier
+	add_trait = improvisation
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+34228 = {
+	name = "岳世鑫"
+	country = CHC
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L34228
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+34229 = {
+	name = "杨利伟"
+	country = CHC
+	type = land
+	skill = 3
+	max_skill = 9
+	loyalty = 1.00
+	picture = L34229
+	add_trait = commando
+	add_trait = learners_will
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+34230 = {
+	name = "伊熙"
+	country = CHC
+	type = land
+	skill = 3
+	max_skill = 7
+	loyalty = 0.00
+	picture = L34230
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+34231 = {
+	name = "程雨桐"
+	country = CHC
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 0.00
+	picture = L34231
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34232 = {
+	name = "李凯善"
+	country = CHC
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L34232
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34301 = {
+	name = "冯飞"
+	country = CHC
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L34301
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34302 = {
+	name = "刘炳炎"
+	country = CHC
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L34302
+	add_trait = offensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34303 = {
+	name = "刘晓波"
+	country = CHC
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 0.00
+	picture = L34303
+	add_trait = engineer
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34304 = {
+	name = "刘伟峰"
+	country = CHC
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 0.00
+	picture = L34304
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34305 = {
+	name = "李成江"
+	country = CHC
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L34305
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34306 = {
+	name = "王浩"
+	country = CHC
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L34306
+	add_trait = offensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34307 = {
+	name = "范晓光"
+	country = CHC
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L34307
+	add_trait = hard_defender
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34308 = {
+	name = "贾永胜"
+	country = CHC
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 1.00
+	picture = L34308
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34309 = {
+	name = "赵克石"
+	country = CHC
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L34309
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34310 = {
+	name = "贾廷安"
+	country = CHC
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L34310
+	add_trait = landlubber
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34311 = {
+	name = "白晓智"
+	country = CHC
+	type = land
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L34311
+	add_trait = panzer_leader
+	add_trait = trickster
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34312 = {
+	name = "林树森"
+	country = CHC
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L34312
+	add_trait = landing_specialist
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34313 = {
+	name = "霍毅"
+	country = CHC
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L34313
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34314 = {
+	name = "金人庆"
+	country = CHC
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 0.00
+	picture = L34314
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34315 = {
+	name = "费俊龙"
+	country = CHC
+	type = land
+	skill = 1
+	max_skill = 8
+	loyalty = 1.00
+	picture = L34315
+	add_trait = trainer
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34316 = {
+	name = "田修思"
+	country = CHC
+	type = land
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L34316
+	add_trait = offensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34317 = {
+	name = "江建曾"
+	country = CHC
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L34317
+	add_trait = assaulter
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34318 = {
+	name = "金睛"
+	country = CHC
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L34318
+	add_trait = logistics_wizard
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34319 = {
+	name = "孙建国"
+	country = CHC
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L34319
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34320 = {
+	name = "李晓澜"
+	country = CHC
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 0.00
+	picture = L34320
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34321 = {
+	name = "郑宝华"
+	country = CHC
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L34321
+	add_trait = improvisation
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34322 = {
+	name = "刘语熙"
+	country = CHC
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L34322
+	add_trait = offensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34323 = {
+	name = "高鸿"
+	country = CHC
+	type = land
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L34323
+	add_trait = landing_specialist
+	add_trait = logistics_wizard
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34324 = {
+	name = "马金峰"
+	country = CHC
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 0.00
+	picture = L34324
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34325 = {
+	name = "高玉峰"
+	country = CHC
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L34325
+	add_trait = defensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34326 = {
+	name = "杜威"
+	country = CHC
+	type = land
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L34326
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34327 = {
+	name = "杨陆川"
+	country = CHC
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L34327
+	add_trait = engineer
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34328 = {
+	name = "方立军"
+	country = CHC
+	type = land
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L34328
+	add_trait = landing_specialist
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34329 = {
+	name = "严复"
+	country = CHC
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 0.00
+	picture = L34329
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34330 = {
+	name = "景文春"
+	country = CHC
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L34330
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34331 = {
+	name = "李岩"
+	country = CHC
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 0.00
+	picture = L34331
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34332 = {
+	name = "陈国令"
+	country = CHC
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L34332
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34333 = {
+	name = "郑晓宇"
+	country = CHC
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L34333
+	add_trait = offensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34334 = {
+	name = "黄晓靖"
+	country = CHC
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L34334
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34335 = {
+	name = "刘明康"
+	country = CHC
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L34335
+	add_trait = panzer_leader
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34336 = {
+	name = "张杰"
+	country = CHC
+	type = land
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L34336
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34337 = {
+	name = "田厚威"
+	country = CHC
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L34337
+	add_trait = frontline_soldier
+	add_trait = offensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34338 = {
+	name = "顾恺之"
+	country = CHC
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 0.00
+	picture = L34338
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34339 = {
+	name = "薛福成"
+	country = CHC
+	type = land
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L34339
+	history = {
+		1995.1.1 = { rank = 1 }
+		2001.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+34340 = {
+	name = "孙思瑾"
+	country = CHC
+	type = land
+	skill = 3
+	max_skill = 6
+	loyalty = 1.00
+	picture = L34340
+	add_trait = frontline_soldier
+	history = {
+		1995.1.1 = { rank = 1 }
+		2001.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+34341 = {
+	name = "孙思敬"
+	country = CHC
+	type = land
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L34341
+	add_trait = commando
+	history = {
+		1995.1.1 = { rank = 1 }
+		2001.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+34342 = {
+	name = "黄作兴"
+	country = CHC
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 0.00
+	picture = L34342
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34343 = {
+	name = "韩延林"
+	country = CHC
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L34343
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34344 = {
+	name = "陈驰"
+	country = CHC
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L34344
+	add_trait = panzer_leader
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34345 = {
+	name = "卢耀晨"
+	country = CHC
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 0.00
+	picture = L34345
+	add_trait = engineer
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34346 = {
+	name = "丁俊晖"
+	country = CHC
+	type = land
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L34346
+	add_trait = trickster
+	add_trait = assaulter
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34347 = {
+	name = "徐建中"
+	country = CHC
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L34347
+	add_trait = landlubber
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34348 = {
+	name = "陈琳"
+	country = CHC
+	type = land
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L34348
+	add_trait = offensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34349 = {
+	name = "川江"
+	country = CHC
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L34349
+	add_trait = offensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34350 = {
+	name = "胡长明"
+	country = CHC
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L34350
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34351 = {
+	name = "胡晓龙"
+	country = CHC
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L34351
+	add_trait = commando
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34352 = {
+	name = "雷明"
+	country = CHC
+	type = land
+	skill = 2
+	max_skill = 8
+	loyalty = 1.00
+	picture = L34352
+	add_trait = learners_will
+	add_trait = panzer_leader
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34353 = {
+	name = "谭志明"
+	country = CHC
+	type = land
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L34353
+	add_trait = commando
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34354 = {
+	name = "汪涛"
+	country = CHC
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L34354
+	add_trait = offensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34355 = {
+	name = "魏文涛"
+	country = CHC
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L34355
+	add_trait = logistics_wizard
+	add_trait = panzer_leader
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34356 = {
+	name = "杨利伟"
+	country = CHC
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L34356
+	add_trait = assaulter
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34357 = {
+	name = "杨宇军"
+	country = CHC
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L34357
+	add_trait = fortress_buster
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34358 = {
+	name = "迟万春"
+	country = CHC
+	type = land
+	skill = 5
+	max_skill = 9
+	loyalty = 1.00
+	picture = L34358
+	add_trait = offensive_doctrine
+	add_trait = engineer
+	history = {
+		1995.1.1 = { rank = 1 }
+		1998.1.1 = { rank = 2 }
+		2001.1.1 = { rank = 3 }
+		2003.1.1 = { rank = 4 }
+	}
+}
+34359 = {
+	name = "梁光烈"
+	country = CHC
+	type = land
+	skill = 5
+	max_skill = 8
+	loyalty = 1.00
+	picture = L34359
+	add_trait = defensive_doctrine
+	history = {
+		1995.1.1 = { rank = 1 }
+		1998.1.1 = { rank = 2 }
+		2001.1.1 = { rank = 3 }
+		2003.1.1 = { rank = 4 }
+	}
+}
+34360 = {
+	name = "张阳"
+	country = CHC
+	type = land
+	skill = 4
+	max_skill = 8
+	loyalty = 1.00
+	picture = L34360
+	add_trait = fortress_buster
+	add_trait = frontline_soldier
+	history = {
+		1995.1.1 = { rank = 1 }
+		1998.1.1 = { rank = 2 }
+		2001.1.1 = { rank = 3 }
+		2003.1.1 = { rank = 4 }
+	}
+}
+34361 = {
+	name = "刘亚洲"
+	country = CHC
+	type = land
+	skill = 4
+	max_skill = 7
+	loyalty = 1.00
+	picture = L34361
+	add_trait = trickster
+	history = {
+		1998.1.1 = { rank = 1 }
+		2001.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+34362 = {
+	name = "陈炳德"
+	country = CHC
+	type = land
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L34362
+	add_trait = frontline_soldier
+	add_trait = offensive_doctrine
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+34363 = {
+	name = "杜金才"
+	country = CHC
+	type = land
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L34363
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+34364 = {
+	name = "房峰辉"
+	country = CHC
+	type = land
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L34364
+	add_trait = panzer_leader
+	add_trait = trickster
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+34365 = {
+	name = "郭玉成"
+	country = CHC
+	type = land
+	skill = 3
+	max_skill = 6
+	loyalty = 1.00
+	picture = L34365
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+34366 = {
+	name = "余江庭"
+	country = CHC
+	type = land
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L34366
+	add_trait = offensive_doctrine
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+34367 = {
+	name = "朱益清"
+	country = CHC
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L34367
+	add_trait = defensive_doctrine
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+34368 = {
+	name = "李道忠"
+	country = CHC
+	type = land
+	skill = 4
+	max_skill = 7
+	loyalty = 1.00
+	picture = L34368
+	add_trait = panzer_leader
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+34369 = {
+	name = "彭广"
+	country = CHC
+	type = land
+	skill = 3
+	max_skill = 6
+	loyalty = 1.00
+	picture = L34369
+	add_trait = old_guard
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+34370 = {
+	name = "秦玉山"
+	country = CHC
+	type = land
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L34370
+	add_trait = hard_defender
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+34371 = {
+	name = "王韬"
+	country = CHC
+	type = land
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L34371
+	add_trait = logistics_wizard
+	add_trait = assaulter
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+34372 = {
+	name = "许怀文"
+	country = CHC
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L34372
+	add_trait = offensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34373 = {
+	name = "范晔"
+	country = CHC
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L34373
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34374 = {
+	name = "侯树森"
+	country = CHC
+	type = land
+	skill = 2
+	max_skill = 8
+	loyalty = 1.00
+	picture = L34374
+	add_trait = landing_specialist
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34375 = {
+	name = "钱洪"
+	country = CHC
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 0.00
+	picture = L34375
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34376 = {
+	name = "范宏斌"
+	country = CHC
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L34376
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34377 = {
+	name = "杨建亭"
+	country = CHC
+	type = land
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L34377
+	add_trait = panzer_leader
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34378 = {
+	name = "关凯"
+	country = CHC
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L34378
+	add_trait = improvisation
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34379 = {
+	name = "洪森"
+	country = CHC
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 0.00
+	picture = L34379
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34380 = {
+	name = "刘海粟"
+	country = CHC
+	type = land
+	skill = 2
+	max_skill = 8
+	loyalty = 1.00
+	picture = L34380
+	add_trait = trainer
+	add_trait = defensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34381 = {
+	name = "郭宏超"
+	country = CHC
+	type = land
+	skill = 2
+	max_skill = 8
+	loyalty = 1.00
+	picture = L34381
+	add_trait = panzer_leader
+	add_trait = trickster
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34382 = {
+	name = "周大观"
+	country = CHC
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 0.00
+	picture = L34382
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34383 = {
+	name = "冯正虎"
+	country = CHC
+	type = land
+	skill = 2
+	max_skill = 8
+	loyalty = 1.00
+	picture = L34383
+	add_trait = commando
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34384 = {
+	name = "朱晨"
+	country = CHC
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L34384
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34385 = {
+	name = "张焕"
+	country = CHC
+	type = land
+	skill = 1
+	max_skill = 7
+	loyalty = 1.00
+	picture = L34385
+	add_trait = landing_specialist
+	add_trait = learners_will
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34386 = {
+	name = "杜恒言"
+	country = CHC
+	type = land
+	skill = 1
+	max_skill = 7
+	loyalty = 1.00
+	picture = L34386
+	add_trait = frontline_soldier
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34387 = {
+	name = "吴建仁"
+	country = CHC
+	type = land
+	skill = 0
+	max_skill = 6
+	loyalty = 1.00
+	picture = L34387
+	add_trait = defensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34388 = {
+	name = 李博远"
+	country = CHC
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 0.00
+	picture = L34388
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34389 = {
+	name = "王洪光"
+	country = CHC
+	type = land
+	skill = 2
+	max_skill = 8
+	loyalty = 1.00
+	picture = L34389
+	add_trait = panzer_leader
+	add_trait = engineer
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34390 = {
+	name = "王建平"
+	country = CHC
+	type = land
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L34390
+	add_trait = offensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34391 = {
+	name = "刘亚梓"
+	country = CHC
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L34391
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34392 = {
+	name = "王晓亮"
+	country = CHC
+	type = land
+	skill = 2
+	max_skill = 8
+	loyalty = 1.00
+	picture = L34392
+	add_trait = logistics_wizard
+	add_trait = offensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34393 = {
+	name = "刘亮凯"
+	country = CHC
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L34393
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34394 = {
+	name = "刘继贤"
+	country = CHC
+	type = land
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L34394
+	add_trait = hard_defender
+	add_trait = winter_specialist
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34395 = {
+	name = "李少军"
+	country = CHC
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L34395
+	add_trait = assaulter
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34396 = {
+	name = "吴昌德"
+	country = CHC
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L34396
+	add_trait = frontline_soldier
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34397 = {
+	name = "冯致凯"
+	country = CHC
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L34397
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34398 = {
+	name = "王冠中"
+	country = CHC
+	type = land
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L34398
+	add_trait = improvisation
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34399 = {
+	name = "许耀元"
+	country = CHC
+	type = land
+	skill = 2
+	max_skill = 8
+	loyalty = 1.00
+	picture = L34399
+	add_trait = learners_will
+	add_trait = offensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34400 = {
+	name = "丁继业"
+	country = CHC
+	type = land
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L34400
+	add_trait = defensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34401 = {
+	name = "沈从文"
+	country = CHC
+	type = land
+	skill = 2
+	max_skill = 8
+	loyalty = 1.00
+	picture = L34401
+	add_trait = offensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34499 = {
+	name = "郑熙廷"
+	country = CHC
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L34499
+	add_trait = engineer
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+34500 = {
+	name = "罗骥良"
+	country = CHC
+	type = land
+	skill = 4
+	max_skill = 8
+	loyalty = 1.00
+	picture = L34500
+	add_trait = logistics_wizard
+	add_trait = panzer_leader
+	history = {
+		2000.1.1 = { rank = 1 }
+		2000.1.1 = { rank = 2 }
+		2000.1.1 = { rank = 3 }
+	}
+}
+34456 = {
+	name = "张国伟"
+	country = CHC
+	type = sea
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L34456
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34457 = {
+	name = "张成林"
+	country = CHC
+	type = sea
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L34457
+	add_trait = seawolf
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34458 = {
+	name = "朱红俊"
+	country = CHC
+	type = sea
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L34458
+	add_trait = blockade_runner
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34459 = {
+	name = "朱建华"
+	country = CHC
+	type = sea
+	skill = 1
+	max_skill = 6
+	loyalty = 0.00
+	picture = L34459
+	add_trait = seawolf
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34460 = {
+	name = "张骁平"
+	country = CHC
+	type = sea
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L34460
+	add_trait = spotter
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34461 = {
+	name = "陈宝达"
+	country = CHC
+	type = sea
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L34461
+	add_trait = superior_tactician
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34462 = {
+	name = "陈定楠"
+	country = CHC
+	type = sea
+	skill = 2
+	max_skill = 6
+	loyalty = 0.00
+	picture = L34462
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34463 = {
+	name = "刘少亮"
+	country = CHC
+	type = sea
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L34463
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34464 = {
+	name = "曹清"
+	country = CHC
+	type = sea
+	skill = 2
+	max_skill = 5
+	loyalty = 0.00
+	picture = L34464
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34465 = {
+	name = "曾毅"
+	country = CHC
+	type = sea
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L34465
+	add_trait = superior_tactician
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34466 = {
+	name = "柴绍良"
+	country = CHC
+	type = sea
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L34466
+	add_trait = spotter
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34467 = {
+	name = "柏耀平"
+	country = CHC
+	type = sea
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L34467
+	add_trait = seawolf
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34468 = {
+	name = "春明"
+	country = CHC
+	type = sea
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L34468
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34469 = {
+	name = "江磊"
+	country = CHC
+	type = sea
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L34469
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34470 = {
+	name = "李潇岩"
+	country = CHC
+	type = sea
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L34470
+	add_trait = blockade_runner
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34471 = {
+	name = "李华"
+	country = CHC
+	type = sea
+	skill = 2
+	max_skill = 6
+	loyalty = 0.00
+	picture = L34471
+	add_trait = superior_tactician
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34472 = {
+	name = "汪达忠"
+	country = CHC
+	type = sea
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L34472
+	add_trait = old_guard
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34473 = {
+	name = "张征"
+	country = CHC
+	type = sea
+	skill = 3
+	max_skill = 6
+	loyalty = 1.00
+	picture = L34473
+	add_trait = seawolf
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+34474 = {
+	name = "郑辽宁"
+	country = CHC
+	type = sea
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L34474
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}

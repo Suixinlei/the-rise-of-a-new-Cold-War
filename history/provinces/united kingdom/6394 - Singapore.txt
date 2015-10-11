@@ -1,0 +1,11 @@
+owner = SIN
+controller = SIN
+add_core = SIN
+infra = 6
+industry = 5
+manpower = 0.80
+energy = 5.00
+air_base = 10
+naval_base = 10 #Singapor port
+leadership = 3.50
+points = 1

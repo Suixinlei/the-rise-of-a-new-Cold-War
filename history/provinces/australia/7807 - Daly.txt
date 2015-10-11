@@ -1,0 +1,5 @@
+owner = AST
+controller = AST
+add_core = AST
+rare_materials = 19.00
+infra = 2

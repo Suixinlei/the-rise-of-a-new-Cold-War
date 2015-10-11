@@ -1,0 +1,41 @@
+capital = 9760
+government = autocratic_democracy
+ideology = left_wing_radical
+alignment = { x = 0 y = 50 }
+neutrality = 80
+national_unity = 70
+oob = "BUF_2000.txt"
+
+popularity = { 
+	national_socialist = 0
+	fascistic = 0
+	paternal_autocrat = 4
+	social_conservative = 4
+	market_liberal = 2
+	social_liberal = 13
+	social_democrat = 2
+	left_wing_radical = 50
+	leninist = 7
+	stalinist = 0
+}
+
+organization = { 
+	national_socialist = 0
+	fascistic = 0
+	paternal_autocrat = 12
+	social_conservative = 12
+	market_liberal = 6
+	social_liberal = 39
+	social_democrat = 6
+	left_wing_radical = 150
+	leninist = 21
+	stalinist = 0
+}
+
+conscription_policy = volunteer_army
+press_laws = free_press
+mobilisation_level = peace_time
+civil_laws = open_society
+economic_policy = lais_fair
+service_length = six_months
+

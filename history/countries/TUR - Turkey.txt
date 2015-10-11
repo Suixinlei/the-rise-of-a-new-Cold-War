@@ -1,0 +1,45 @@
+capital = 4619
+government = republic
+ideology = social_conservative
+alignment = { x = 0 y = -7.6 }
+neutrality = 80
+national_unity = 70
+2008.1.1 = { join_faction = allies } 
+head_of_state = 27580
+head_of_government = 27580
+
+oob = "TUR_2000.txt"
+
+popularity = { 
+	national_socialist = 1
+	fascistic = 8
+	paternal_autocrat = 7
+	social_conservative = 34
+	market_liberal = 6
+	social_liberal = 19
+	social_democrat = 1
+	left_wing_radical = 0
+	leninist = 1
+	stalinist = 0
+}
+
+organization = { 
+	national_socialist = 3
+	fascistic = 24
+	paternal_autocrat = 21
+	social_conservative = 102
+	market_liberal = 18
+	social_liberal = 57
+	social_democrat = 3
+	left_wing_radical = 0
+	leninist = 3
+	stalinist = 0
+}
+
+conscription_policy = military_service
+press_laws = limited_censorship
+mobilisation_level = low_mobilisation
+civil_laws = open_society
+service_length = twelve_months
+economic_policy = limit_intervention
+

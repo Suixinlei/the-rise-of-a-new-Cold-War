@@ -1,0 +1,8 @@
+owner = JAM
+controller = JAM
+add_core = JAM
+
+infra = 6
+manpower = 1.0
+naval_base = 2 #Kingston port
+points = 1

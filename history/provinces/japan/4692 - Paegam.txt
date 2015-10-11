@@ -1,0 +1,6 @@
+owner = PRK
+controller = PRK
+add_core = PRK
+infra = 6
+air_base = 2 #Chongjin airbase
+points = 1

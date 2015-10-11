@@ -1,0 +1,7 @@
+owner = IND
+controller = IND
+add_core = IND
+infra = 4
+naval_base = 6 #Mangalore port
+leadership = 2.50
+points = 1

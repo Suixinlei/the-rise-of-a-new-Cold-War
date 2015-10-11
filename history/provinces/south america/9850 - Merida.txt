@@ -1,0 +1,6 @@
+owner = VEN
+controller = VEN
+add_core = VEN
+
+infra = 6
+air_base = 3 #Vivas airbase

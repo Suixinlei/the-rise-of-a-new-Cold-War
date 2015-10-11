@@ -1,0 +1,458 @@
+179001 = {
+	name = "al-Hamid"
+	country = YEM
+	type = land
+	skill = 1
+	max_skill = 4
+	loyalty = 1.00
+	picture = L179001
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+179002 = {
+	name = "Ali"
+	country = YEM
+	type = land
+	skill = 4
+	max_skill = 7
+	loyalty = 1.00
+	picture = L179002
+	add_trait = hard_defender
+	add_trait = trickster
+	history = {
+		1995.1.1 = { rank = 1 }
+		2000.1.1 = { rank = 2 }
+		2002.1.1 = { rank = 3 }
+		2003.1.1 = { rank = 4 }
+	}
+}
+179003 = {
+	name = "al-Husseini"
+	country = YEM
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L179003
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+179004 = {
+	name = "al-Zakari"
+	country = YEM
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L179004
+	add_trait = defensive_doctrine
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+179005 = {
+	name = "al-Kaukji"
+	country = YEM
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 1.00
+	picture = L179005
+	add_trait = improvisation
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+179006 = {
+	name = "al-Badr"
+	country = YEM
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L179006
+	add_trait = commando
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+179007 = {
+	name = "al-Ahmar"
+	country = YEM
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L179007
+	add_trait = panzer_leader
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+179008 = {
+	name = "Ahmed"
+	country = YEM
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 1.00
+	picture = L179008
+	add_trait = fortress_buster
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+179009 = {
+	name = "Shuqeri"
+	country = YEM
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L179009
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+179010 = {
+	name = "Halukeh"
+	country = YEM
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 1.00
+	picture = L179010
+	add_trait = commando
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+179011 = {
+	name = "al-Salih"
+	country = YEM
+	type = land
+	skill = 3
+	max_skill = 6
+	loyalty = 1.00
+	picture = L179011
+	add_trait = frontline_soldier
+	add_trait = logistics_wizard
+	history = {
+		1995.1.1 = { rank = 1 }
+		2000.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+179012 = {
+	name = "A. Saleh"
+	country = YEM
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L179012
+	add_trait = commando
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+179013 = {
+	name = "J. Abdullah"
+	country = YEM
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L179013
+	add_trait = learners_will
+	add_trait = trickster
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+179014 = {
+	name = "Qatan"
+	country = YEM
+	type = land
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L179014
+	add_trait = improvisation
+	history = {
+		1995.1.1 = { rank = 1 }
+		2000.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+179015 = {
+	name = "al-Shaqqaf"
+	country = YEM
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L179015
+	add_trait = defensive_doctrine
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+179016 = {
+	name = "al-Assadi"
+	country = YEM
+	type = land
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = L179016
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+179017 = {
+	name = "al-Attas"
+	country = YEM
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L179017
+	add_trait = panzer_leader
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+179018 = {
+	name = "al-Khaiwani"
+	country = YEM
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 1.00
+	picture = L179018
+	add_trait = assaulter
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+179019 = {
+	name = "al-Sarary"
+	country = YEM
+	type = land
+	skill = 0
+	max_skill = 4
+	loyalty = 1.00
+	picture = L179019
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+179020 = {
+	name = "al-Hawati"
+	country = YEM
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L179020
+	add_trait = panzer_leader
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+179021 = {
+	name = "Zein"
+	country = YEM
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L179021
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+179022 = {
+	name = "al-Qushri"
+	country = YEM
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L179022
+	add_trait = engineer
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+179023 = {
+	name = "al-Saana"
+	country = YEM
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L179023
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+179024 = {
+	name = "al-Hamid"
+	country = YEM
+	type = air
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = L179024
+	add_trait = carpet_bomber
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+179025 = {
+	name = "Malouf"
+	country = YEM
+	type = air
+	skill = 0
+	max_skill = 5
+	loyalty = 1.00
+	picture = L179025
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+179026 = {
+	name = "al-Arab"
+	country = YEM
+	type = air
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = L179026
+	add_trait = superior_air_tactician
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+179027 = {
+	name = "Murat"
+	country = YEM
+	type = air
+	skill = 0
+	max_skill = 5
+	loyalty = 1.00
+	picture = L179027
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+179028 = {
+	name = "al-Badr"
+	country = YEM
+	type = air
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L179028
+	add_trait = night_flyer
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+179029 = {
+	name = "al-Balawi"
+	country = YEM
+	type = sea
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L179029
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+179030 = {
+	name = "al-Ahdal"
+	country = YEM
+	type = sea
+	skill = 0
+	max_skill = 5
+	loyalty = 1.00
+	picture = L179030
+	add_trait = spotter
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+179031 = {
+	name = "Chakroun"
+	country = YEM
+	type = sea
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = L179031
+	add_trait = superior_tactician
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+179032 = {
+	name = "al-Farooq"
+	country = YEM
+	type = sea
+	skill = 0
+	max_skill = 5
+	loyalty = 1.00
+	picture = L179032
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+179033 = {
+	name = "Jabr"
+	country = YEM
+	type = sea
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L179033
+	add_trait = seawolf
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+179034 = {
+	name = "Ghannouchi"
+	country = YEM
+	type = sea
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L179034
+	add_trait = seawolf
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+179035 = {
+	name = "Issawi"
+	country = YEM
+	type = sea
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L179035
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}

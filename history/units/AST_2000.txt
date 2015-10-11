@@ -1,0 +1,185 @@
+theatre = {
+	name = "Australian Defence Force"
+	location = 8007
+	regiment = { type = hq_brigade name = "Defence Force HQ" historical_model = 2 }
+	armygroup = {
+		name = "Australian Army"
+		location = 8007
+		regiment = { type = hq_brigade name = "Army HQ" historical_model = 2 }
+		army = {
+			name = "Forces Command"
+			location = 7989
+			regiment = { type = hq_brigade name = "Forces Command" historical_model = 2 }
+			division = {
+				is_reserve = yes
+				name = "1st Brigade"
+				location = 6596
+				regiment = { type = armor_brigade name = "1st Armoured Regiment" historical_model = 0 }
+				regiment = { type = mechanized_brigade name = "2nd Cavalry Regiment" historical_model = 0 }
+				regiment = { type = mechanized_brigade name = "5th Battalion" historical_model = 0 }
+				regiment = { type = mechanized_brigade name = "7th Battalion" historical_model = 0 }
+			}
+			division = {
+				is_reserve = yes
+				name = "3rd Brigade"
+				location = 7842
+				regiment = { type = infantry_brigade name = "1st Battalion" historical_model = 2 }
+				regiment = { type = infantry_brigade name = "2nd Battalion" historical_model = 2 }
+				regiment = { type = infantry_brigade name = "3rd Battalion" historical_model = 2 }
+			}
+			division = {
+				is_reserve = yes
+				name = "7th Brigade"
+				location = 7923
+				regiment = { type = mechanized_brigade name = "2nd/14th Light Horse Regiment" historical_model = 0 }
+				regiment = { type = mechanized_brigade name = "6th Battalion" historical_model = 0 }
+				regiment = { type = mechanized_brigade name = "8th/9th Battalion" historical_model = 0 }
+				regiment = { type = attack_helicopter_brigade name = "16th Aviation Brigade" historical_model = 0 }
+			}
+			corps = {
+				name = "2nd Division"
+				location = 7989
+				regiment = { type = hq_brigade name = "2nd Division HQ" historical_model = 2 }
+				division = {
+					is_reserve = yes
+					name = "4th Brigade"
+					location = 8057
+					regiment = { type = mechanized_brigade name = "4th/19th Prince of Wales' Light Horse" historical_model = 0 }
+					regiment = { type = infantry_brigade name = "5th/6th Battalion" historical_model = 2 }
+					regiment = { type = infantry_brigade name = "7th/8th Battalion" historical_model = 2 }
+				}
+				division = {
+					is_reserve = yes
+					name = "5th Brigade"
+					location = 7989
+					regiment = { type = mechanized_brigade name = "1st/15th Royal New South Wales Lancers" historical_model = 0 }
+					regiment = { type = infantry_brigade name = "1st/19th Battalion" historical_model = 2 }
+					regiment = { type = infantry_brigade name = "4th/3rd Battalion" historical_model = 2 }
+				}
+				division = {
+					is_reserve = yes
+					name = "8th Brigade"
+					location = 7989
+					regiment = { type = mechanized_brigade name = "12th/16th Hunter River Lancers" historical_model = 0 }
+					regiment = { type = infantry_brigade name = "2nd/17th Battalion" historical_model = 2 }
+					regiment = { type = infantry_brigade name = "41st Battalion" historical_model = 2 }
+				}
+				division = {
+					is_reserve = yes
+					name = "9th Brigade"
+					location = 10438
+					regiment = { type = mechanized_brigade name = "3rd/9th Light Horse" historical_model = 0 }
+					regiment = { type = infantry_brigade name = "10th/27th Battalion" historical_model = 2 }
+					regiment = { type = infantry_brigade name = "12th/40th Battalion" historical_model = 2 }
+				}
+				division = {
+					is_reserve = yes
+					name = "11th Brigade"
+					location = 7842
+					regiment = { type = infantry_brigade name = "9th Battalion" historical_model = 2 }
+					regiment = { type = infantry_brigade name = "25th/49th Battalion" historical_model = 2 }
+					regiment = { type = infantry_brigade name = "31st/42nd Battalion" historical_model = 2 }
+				}
+				division = {
+					is_reserve = yes
+					name = "13th Brigade"
+					location = 7950
+					regiment = { type = infantry_brigade name = "11th/28th Battalion" historical_model = 2 }
+					regiment = { type = infantry_brigade name = "16th Battalion" historical_model = 2 }
+				}
+			}
+		}
+		corps = {
+			name = "SpecOps Command"
+			location = 7989
+			regiment = { type = hq_brigade name = "SpecOps Command" historical_model = 2 }
+			division = {
+				is_reserve = yes
+				name = "Special Air Service Regiment"
+				location = 7989
+				regiment = { type = special_forces_brigade name = "Special Air Service Regiment" historical_model = 2 }
+			}
+			division = {
+				is_reserve = yes
+				name = "1st Commando Regiment"
+				location = 7989
+				regiment = { type = special_forces_brigade name = "1st Commando Regiment" historical_model = 2 }
+			}
+			division = {
+				is_reserve = yes
+				name = "2nd Commando Regiment"
+				location = 7989
+				regiment = { type = special_forces_brigade name = "2nd Commando Regiment" historical_model = 2 }
+			}
+		}
+	}
+		
+	air = {
+	name = "No. 3 Squadron"
+	base = 7967
+	location = 7967
+	wing = { type = multi_role name = "No. 3 Squadron" historical_model = 0 }
+	}
+	
+	air = {
+	name = "No. 75 Squadron"
+	base = 7811
+	location = 7811
+	wing = { type = multi_role name = "No. 75 Squadron" historical_model = 0 }
+	}
+	
+	air = {
+	name = "No. 1 Squadron"
+	base = 7923
+	location = 7923
+	wing = { type = multi_role name = "No. 1 Squadron" historical_model = 0 }
+	}
+	
+	air = {
+	name = "No. 37 Squadron"
+	base = 8057
+	location = 8057
+	wing = { type = transport_plane name = "No. 37 Squadron" historical_model = 0 }
+	}
+	
+	navy = {
+	name = "Fleet Base East"
+	base = 7989
+	location = 7989
+	ship = { type = heavy_cruiser name = "HMAS Anzac" historical_model = 1 }
+	ship = { type = heavy_cruiser name = "HMAS Sydney" historical_model = 0 }
+	ship = { type = heavy_cruiser name = "HMAS Darwin" historical_model = 0 }
+	ship = { type = heavy_cruiser name = "HMAS Melbourne" historical_model = 0 }
+	ship = { type = heavy_cruiser name = "HMAS Newcastle" historical_model = 0 }
+	ship = { type = transport_ship name = "HMAS Tobruk" historical_model = 0 }
+	}
+	
+	navy = {
+	name = "Fleet Base West"
+	base = 7950
+	location = 7950
+	ship = { type = heavy_cruiser name = "HMAS Arunta" historical_model = 1 }
+	ship = { type = heavy_cruiser name = "HMAS Warramunga" historical_model = 1 }
+	ship = { type = heavy_cruiser name = "HMAS Stuart" historical_model = 1 }
+	ship = { type = submarine name = "HMAS Collins" historical_model = 1 }
+	ship = { type = submarine name = "HMAS Farncomb" historical_model = 1 }
+	ship = { type = submarine name = "HMAS Waller" historical_model = 1 }
+	ship = { type = submarine name = "HMAS Dechaineux" historical_model = 1 }
+	ship = { type = submarine name = "HMAS Sheean" historical_model = 1 }
+	}
+		
+	navy = {
+	name = "HMAS Cairns"
+	base = 7842
+	location = 7842
+	ship = { type = invasion_transport_ship name = "HMAS Salamua" historical_model = 0 }
+	ship = { type = invasion_transport_ship name = "HMAS Balikpapan" historical_model = 0 }
+	ship = { type = invasion_transport_ship name = "HMAS Wewak" historical_model = 0 }
+	ship = { type = invasion_transport_ship name = "HMAS Brunei" historical_model = 0 }
+	ship = { type = invasion_transport_ship name = "HMAS Labuan" historical_model = 0 }
+	ship = { type = invasion_transport_ship name = "HMAS Tarakan" historical_model = 0 }
+	}
+
+}
+		
+			

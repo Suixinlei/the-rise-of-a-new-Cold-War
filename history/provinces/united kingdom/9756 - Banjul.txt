@@ -1,0 +1,7 @@
+owner = GAM
+controller = GAM
+add_core = GAM
+manpower = 0.7
+infra = 5
+naval_base = 1
+points = 1

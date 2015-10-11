@@ -1,0 +1,9 @@
+owner = MEX
+controller = MEX
+add_core = MEX
+
+
+
+infra = 6
+air_base = 5 #Torreon  and General Escobedo airbase
+points = 1

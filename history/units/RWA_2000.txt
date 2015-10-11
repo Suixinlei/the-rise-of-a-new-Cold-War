@@ -1,0 +1,45 @@
+theatre = {
+	name = "Forces Rwandaises de Défense"
+	location = 2066
+	regiment = { type = hq_brigade name = "Forces Rwandaises de Défense" historical_model = 0 }
+	division = {
+		is_reserve = yes
+		name = "402nd Brigade"
+		location = 2066
+		regiment = { type = infantry_brigade name = "1st Battalion" historical_model = 0 }
+		regiment = { type = infantry_brigade name = "2nd Battalion" historical_model = 0 }
+		regiment = { type = infantry_brigade name = "3rd Battalion" historical_model = 0 }
+	}
+	division = {
+		is_reserve = yes
+		name = "201st Brigade"
+		location = 2066
+		regiment = { type = infantry_brigade name = "4th Battalion" historical_model = 0 }
+		regiment = { type = infantry_brigade name = "5th Battalion" historical_model = 0 }
+		regiment = { type = infantry_brigade name = "6th Battalion" historical_model = 0 }
+	}
+	division = {
+		is_reserve = yes
+		name = "301st Brigade"
+		location = 2066
+		regiment = { type = infantry_brigade name = "7th Battalion" historical_model = 0 }
+		regiment = { type = infantry_brigade name = "8th Battalion" historical_model = 0 }
+		regiment = { type = infantry_brigade name = "9th Battalion" historical_model = 0 }
+	}
+	division = {
+		is_reserve = yes
+		name = "305th Brigade"
+		location = 2066
+		regiment = { type = infantry_brigade name = "10th Battalion" historical_model = 0 }
+		regiment = { type = infantry_brigade name = "11th Battalion" historical_model = 0 }
+		regiment = { type = infantry_brigade name = "12th Battalion" historical_model = 0 }
+	}
+	division = {
+		is_reserve = yes
+		name = "211th Brigade"
+		location = 2066
+		regiment = { type = infantry_brigade name = "13th Battalion" historical_model = 0 }
+		regiment = { type = infantry_brigade name = "14th Battalion" historical_model = 0 }
+		regiment = { type = infantry_brigade name = "15th Battalion" historical_model = 0 }
+	}
+}

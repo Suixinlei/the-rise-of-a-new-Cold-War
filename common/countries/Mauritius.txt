@@ -1,0 +1,123 @@
+color = { 142  208  173 }
+graphical_culture = Generic
+last_election = 2000.9.11
+duration = 60
+
+default_templates = {
+	generic_infantry = {
+		infantry_brigade
+		infantry_brigade
+		infantry_brigade
+	}
+	generic_milita = {
+		militia_brigade
+		militia_brigade
+		militia_brigade
+	}
+}
+
+
+
+
+ministers = {
+	51501 = {
+		name = "Karl Offmann"
+		ideology = left_wing_radical
+		loyalty = 1.00
+		picture = M51501
+		head_of_state = research_specialist
+		start_date = 2000.1.1
+	}
+	51502 = {
+		name = "Anerood Jugnauth"
+		ideology = left_wing_radical
+		loyalty = 1.00
+		picture = M51502
+		head_of_state = pig_headed_isolationist
+		head_of_government = good_connections
+		armament_minister = economic_expert
+		minister_of_security = crime_fighter
+		start_date = 2003.1.1
+	}
+	51503 = {
+		name = "Kailash Purryag"
+		ideology = social_democrat
+		loyalty = 1.00
+		picture = M51503
+		head_of_state = scandalous
+		start_date = 2000.1.1
+	}
+	51504 = {
+		name = "Paul Bérenger"
+		ideology = leninist
+		loyalty = 1.00
+		picture = M51504
+		head_of_government = responsive_industrialist
+		armament_minister = crooked_kleptocrat
+		minister_of_security = compassionate_gentleman
+		start_date = 2000.1.1
+	}
+	51505 = {
+		name = "Navin Ramgoolam"
+		ideology = social_democrat
+		loyalty = 1.00
+		picture = M51505
+		head_of_government = back_stabber
+		armament_minister = air_reformer
+		minister_of_security = sympathetic
+		start_date = 2000.1.1
+	}
+	51506 = {
+		name = "Ali Gayan"
+		ideology = left_wing_radical
+		loyalty = 1.00
+		picture = M51506
+		foreign_minister = laissez_faires_capitalist
+		start_date = 2000.1.1
+	}
+	51507 = {
+		name = "Madan Dulloo"
+		ideology = leninist
+		loyalty = 1.00
+		picture = M51507
+		foreign_minister = sympathetic
+		start_date = 2000.1.1
+	}
+	51508 = {
+		name = "Arvin Boolell"
+		ideology = social_democrat
+		loyalty = 1.00
+		picture = M51508
+		foreign_minister = crooked_kleptocrat
+		start_date = 2000.1.1
+	}
+	51509 = {
+		name = "Alan Ganoo"
+		ideology = leninist
+		loyalty = 1.00
+		picture = M51509
+		head_of_state = untalented_nerd
+		start_date = 2000.1.1
+	}
+	51510 = {
+		name = "Cehl Meeah"
+		ideology = national_socialist
+		loyalty = 1.00
+		picture = M51510
+		head_of_state = sympathetic
+		start_date = 2000.1.1
+	}
+	51511 = {
+		name = "Dhun Iswar Rampersad"
+		ideology = left_wing_radical
+		loyalty = 1.00
+		picture = M51511
+		minister_of_intelligence = industrial_spy
+		chief_of_staff = school_of_psychology
+		chief_of_army = tank_proponent
+		chief_of_air = old_air_marshal
+		chief_of_navy = air_to_sea_proponent
+		start_date = 2000.1.1
+	}
+	
+}

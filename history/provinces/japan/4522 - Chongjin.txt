@@ -1,0 +1,6 @@
+owner = PRK
+controller = PRK
+add_core = PRK
+
+infra = 6
+naval_base = 3 #Rason port

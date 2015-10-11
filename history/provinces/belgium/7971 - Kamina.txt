@@ -1,0 +1,8 @@
+owner = DRC
+controller = DRC
+add_core = DRC
+
+infra = 6
+
+air_base = 4 #Kamina airbase
+points = 1

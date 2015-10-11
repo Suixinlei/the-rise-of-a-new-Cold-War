@@ -1,0 +1,11 @@
+owner = BOS
+controller = BOS
+add_core = BOS
+manpower = 0.5
+
+infra = 7
+
+
+air_base = 1 #Sarajevo airbase
+leadership = 2.50
+points = 1

@@ -1,0 +1,897 @@
+75700 = {
+	name = "武元甲"
+	country = VIE
+	type = land
+	skill = 4
+	max_skill = 5
+	loyalty = 1.00
+	picture = VIE1
+	add_trait = fortress_buster
+	add_trait = old_guard
+	history = {
+		2003.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+		2003.1.1 = { rank = 4 }
+	}
+}
+75701 = {
+	name = "朱辉珉"
+	country = VIE
+	type = land
+	skill = 4
+	max_skill = 7
+	loyalty = 1.00
+	picture = VIE2
+	add_trait = frontline_soldier
+	add_trait = old_guard
+	history = {
+		2003.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+		2003.1.1 = { rank = 4 }
+	}
+}
+75702 = {
+	name = "黎德英"
+	country = VIE
+	type = land
+	skill = 3
+	max_skill = 6
+	loyalty = 1.00
+	picture = VIE3
+	add_trait = commando
+	add_trait = old_guard
+	history = {
+		2003.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+75703 = {
+	name = "范文茶"
+	country = VIE
+	type = land
+	skill = 3
+	max_skill = 5
+	loyalty = 1.00
+	picture = VIE4
+	add_trait = commando
+	add_trait = old_guard
+	history = {
+		2003.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+		2003.1.1 = { rank = 4 }
+	}
+}
+75704 = {
+	name = "黎文勇"
+	country = VIE
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = VIE5
+	add_trait = engineer
+	add_trait = trickster
+	add_trait = old_guard
+	history = {
+		2003.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+		2003.1.1 = { rank = 4 }
+	}
+}
+75705 = {
+	name = "冯光青"
+	country = VIE
+	type = land
+	skill = 4
+	max_skill = 6
+	loyalty = 1.00
+	picture = VIE6
+	add_trait = commando
+	add_trait = trickster
+	history = {
+		2003.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+75706 = {
+	name = "朱文晋"
+	country = VIE
+	type = land
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = VIE7
+	add_trait = engineer
+	history = {
+		2003.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+75707 = {
+	name = "黎可漂"
+	country = VIE
+	type = land
+	skill = 1
+	max_skill = 4
+	loyalty = 1.00
+	picture = VIE8
+	add_trait = frontline_soldier
+	add_trait = hard_defender
+	history = {
+		2003.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+75708 = {
+	name = "陈文茶"
+	country = VIE
+	type = land
+	skill = 1
+	max_skill = 3
+	loyalty = 1.00
+	picture = VIE9
+	add_trait = frontline_soldier
+	history = {
+		2003.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+75709 = {
+	name = "双豪"
+	country = VIE
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = VIE10
+	add_trait = fortress_buster
+	history = {
+		2003.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+75710 = {
+	name = "阮文荣"
+	country = VIE
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = VIE11
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+75711 = {
+	name = "阮敦"
+	country = VIE
+	type = land
+	skill = 0
+	max_skill = 3
+	loyalty = 1.00
+	picture = VIE12
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+75712 = {
+	name = "冯光清"
+	country = VIE
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = VIE13
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+75713 = {
+	name = "沅华"
+	country = VIE
+	type = land
+	skill = 0
+	max_skill = 3
+	loyalty = 1.00
+	picture = VIE14
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+75714 = {
+	name = "乔木"
+	country = VIE
+	type = land
+	skill = 0
+	max_skill = 3
+	loyalty = 1.00
+	picture = VIE15
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+75715 = {
+	name = "陈森"
+	country = VIE
+	type = land
+	skill = 0
+	max_skill = 3
+	loyalty = 1.00
+	picture = VIE16
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+75716 = {
+	name = "阮友安"
+	country = VIE
+	type = land
+	skill = 1
+	max_skill = 3
+	loyalty = 1.00
+	picture = VIE17
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+75717 = {
+	name = "阮协"
+	country = VIE
+	type = air
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = VIE18
+	add_trait = trickster
+	add_trait = fortress_buster
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+75718 = {
+	name = "黎光道"
+	country = VIE
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 1.00
+	picture = VIE19
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+75719 = {
+	name = "丁德善"
+	country = VIE
+	type = land
+	skill = 0
+	max_skill = 4
+	loyalty = 1.00
+	picture = VIE20
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+75720 = {
+	name = "黎光和"
+	country = VIE
+	type = land
+	skill = 1
+	max_skill = 3
+	loyalty = 1.00
+	picture = VIE21
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+75721 = {
+	name = "朱辉珉"
+	country = VIE
+	type = land
+	skill = 1
+	max_skill = 3
+	loyalty = 1.00
+	picture = VIE22
+	add_trait = trickster
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+75722 = {
+	name = "黄明草"
+	country = VIE
+	type = land
+	skill = 1
+	max_skill = 2
+	loyalty = 1.00
+	picture = VIE23
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+75723 = {
+	name = "黎德英"
+	country = VIE
+	type = land
+	skill = 0
+	max_skill = 3
+	loyalty = 1.00
+	picture = VIE24
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+75724 = {
+	name = "陶文张"
+	country = VIE
+	type = land
+	skill = 0
+	max_skill = 3
+	loyalty = 1.00
+	picture = VIE25
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+75725 = {
+	name = "凭江"
+	country = VIE
+	type = land
+	skill = 0
+	max_skill = 3
+	loyalty = 1.00
+	picture = VIE26
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+75726 = {
+	name = "陈文光"
+	country = VIE
+	type = land
+	skill = 0
+	max_skill = 3
+	loyalty = 1.00
+	picture = VIE27
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+75727 = {
+	name = "童士元"
+	country = VIE
+	type = land
+	skill = 1
+	max_skill = 3
+	loyalty = 1.00
+	picture = VIE28
+	add_trait = trickster
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+75728 = {
+	name = "陈南忠"
+	country = VIE
+	type = land
+	skill = 1
+	max_skill = 4
+	loyalty = 1.00
+	picture = VIE29
+	add_trait = hard_defender
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+75729 = {
+	name = "阮氏定"
+	country = VIE
+	type = land
+	skill = 0
+	max_skill = 3
+	loyalty = 1.00
+	picture = VIE30
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+75730 = {
+	name = "陈度"
+	country = VIE
+	type = land
+	skill = 0
+	max_skill = 4
+	loyalty = 1.00
+	picture = VIE31
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+75731 = {
+	name = "陈文名"
+	country = VIE
+	type = land
+	skill = 0
+	max_skill = 1
+	loyalty = 1.00
+	picture = VIE32
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+75732 = {
+	name = "陈大义"
+	country = VIE
+	type = land
+	skill = 1
+	max_skill = 3
+	loyalty = 1.00
+	picture = VIE33
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+75733 = {
+	name = "陈决"
+	country = VIE
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = VIE34
+	add_trait = hard_defender
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+75734 = {
+	name = "高登占"
+	country = VIE
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 1.00
+	picture = VIE35
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+75735 = {
+	name = "黎广波"
+	country = VIE
+	type = land
+	skill = 0
+	max_skill = 1
+	loyalty = 1.00
+	picture = VIE36
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+75736 = {
+	name = "陶山西"
+	country = VIE
+	type = land
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = VIE37
+	add_trait = old_guard
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+75737 = {
+	name = "潘仲慧"
+	country = VIE
+	type = land
+	skill = 0
+	max_skill = 3
+	loyalty = 1.00
+	picture = VIE38
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+75738 = {
+	name = "苏记"
+	country = VIE
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = VIE39
+	add_trait = trainer
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+75739 = {
+	name = "高文庆"
+	country = VIE
+	type = land
+	skill = 0
+	max_skill = 4
+	loyalty = 1.00
+	picture = VIE40
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+75740 = {
+	name = "武立"
+	country = VIE
+	type = land
+	skill = 0
+	max_skill = 2
+	loyalty = 1.00
+	picture = VIE41
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+75741 = {
+	name = "段奎"
+	country = VIE
+	type = land
+	skill = 1
+	max_skill = 3
+	loyalty = 1.00
+	picture = VIE42
+	add_trait = frontline_soldier
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+75742 = {
+	name = "冯世才"
+	country = VIE
+	type = land
+	skill = 1
+	max_skill = 3
+	loyalty = 1.00
+	picture = VIE43
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+75743 = {
+	name = "裴逢"
+	country = VIE
+	type = land
+	skill = 0
+	max_skill = 3
+	loyalty = 1.00
+	picture = VIE44
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+75744 = {
+	name = "甲文纲"
+	country = VIE
+	type = land
+	skill = 1
+	max_skill = 4
+	loyalty = 1.00
+	picture = VIE45
+	add_trait = learners_will
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+75745 = {
+	name = "武凌"
+	country = VIE
+	type = land
+	skill = 1
+	max_skill = 2
+	loyalty = 1.00
+	picture = VIE46
+	add_trait = logistics_wizard
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+75746 = {
+	name = "陈伯清"
+	country = VIE
+	type = land
+	skill = 0
+	max_skill = 4
+	loyalty = 1.00
+	picture = VIE47
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+75747 = {
+	name = "武春苫"
+	country = VIE
+	type = land
+	skill = 2
+	max_skill = 4
+	loyalty = 1.00
+	picture = VIE48
+	add_trait = trickster
+	history = {
+		2003.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+75748 = {
+	name = "谭光忠"
+	country = VIE
+	type = land
+	skill = 0
+	max_skill = 2
+	loyalty = 1.00
+	picture = VIE49
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+75749 = {
+	name = "黎灵"
+	country = VIE
+	type = land
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = VIE50
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+75750 = {
+	name = "阮决"
+	country = VIE
+	type = land
+	skill = 0
+	max_skill = 2
+	loyalty = 1.00
+	picture = VIE51
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+75751 = {
+	name = "黄琴"
+	country = VIE
+	type = air
+	skill = 0
+	max_skill = 2
+	loyalty = 1.00
+	picture = VIE52
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+75752 = {
+	name = "阮明洲"
+	country = VIE
+	type = land
+	skill = 1
+	max_skill = 4
+	loyalty = 1.00
+	picture = VIE53
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+75753 = {
+	name = "童文贡"
+	country = VIE
+	type = land
+	skill = 0
+	max_skill = 2
+	loyalty = 1.00
+	picture = VIE54
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+75754 = {
+	name = "单文公"
+	country = VIE
+	type = sea
+	skill = 1
+	max_skill = 3
+	loyalty = 1.00
+	picture = VIE55
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+75755 = {
+	name = "黎玉贤"
+	country = VIE
+	type = land
+	skill = 0
+	max_skill = 2
+	loyalty = 1.00
+	picture = VIE56
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+75756 = {
+	name = "黎光武"
+	country = VIE
+	type = land
+	skill = 0
+	max_skill = 1
+	loyalty = 1.00
+	picture = VIE57
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+75757 = {
+	name = "黎绪同"
+	country = VIE
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = VIE58
+	add_trait = trickster
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+75758 = {
+	name = "黄世善"
+	country = VIE
+	type = air
+	skill = 2
+	max_skill = 3
+	loyalty = 1.00
+	picture = VIE59
+	add_trait = fleet_destroyer
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+75759 = {
+	name = "阮南庆"
+	country = VIE
+	type = air
+	skill = 1
+	max_skill = 2
+	loyalty = 1.00
+	picture = VIE60
+	add_trait = carpet_bomber
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+75760 = {
+	name = "黎文知"
+	country = VIE
+	type = air
+	skill = 0
+	max_skill = 3
+	loyalty = 1.00
+	picture = VIE61
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+75761 = {
+	name = "黄文泰"
+	country = VIE
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = VIE62
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+75762 = {
+	name = "范洪山"
+	country = VIE
+	type = sea
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = VIE63
+	add_trait = seawolf
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+75763 = {
+	name = "邓武协"
+	country = VIE
+	type = land
+	skill = 0
+	max_skill = 2
+	loyalty = 1.00
+	picture = VIE64
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+75764 = {
+	name = "陶庭练"
+	country = VIE
+	type = land
+	skill = 0
+	max_skill = 3
+	loyalty = 1.00
+	picture = VIE65
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+75765 = {
+	name = "阮世奔"
+	country = VIE
+	type = sea
+	skill = 0
+	max_skill = 5
+	loyalty = 1.00
+	picture = VIE66
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+75766 = {
+	name = "黄文庆"
+	country = VIE
+	type = sea
+	skill = 1
+	max_skill = 3
+	loyalty = 1.00
+	picture = VIE67
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+75767 = {
+	name = "阮伯发"
+	country = VIE
+	type = sea
+	skill = 3
+	max_skill = 5
+	loyalty = 1.00
+	picture = VIE68
+	add_trait = blockade_runner
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+75768 = {
+	name = "丁文绥"
+	country = VIE
+	type = land
+	skill = 1
+	max_skill = 3
+	loyalty = 1.00
+	picture = VIE69
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+75769 = {
+	name = "范青银"
+	country = VIE
+	type = air
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = VIE70
+	add_trait = tank_buster
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}

@@ -1,0 +1,41 @@
+capital = 10336
+government = republic
+ideology = social_conservative
+alignment = { x = 0 y = 50 }
+neutrality = 80
+national_unity = 70
+oob = "CHL_2000.txt"
+
+
+popularity = { 
+	national_socialist = 0
+	fascistic = 0
+	paternal_autocrat = 0
+	social_conservative = 21
+	market_liberal = 14
+	social_liberal = 15
+	social_democrat = 10
+	left_wing_radical = 4
+	leninist = 0
+	stalinist = 5
+}
+
+organization = { 
+	national_socialist = 0
+	fascistic = 0
+	paternal_autocrat = 0
+	social_conservative = 63
+	market_liberal = 42
+	social_liberal = 45
+	social_democrat = 30
+	left_wing_radical = 12
+	leninist = 0
+	stalinist = 15
+}
+
+conscription_policy = volunteer_army
+press_laws = free_press
+mobilisation_level = peace_time
+civil_laws = open_society
+economic_policy = lais_fair
+service_length = twelve_months

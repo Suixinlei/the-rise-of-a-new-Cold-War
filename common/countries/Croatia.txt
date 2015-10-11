@@ -1,0 +1,122 @@
+color = { 77  103  174 }
+graphical_culture = Italian
+last_election = 2000.1.3
+duration = 48
+
+default_templates = {
+	generic_infantry = {
+		infantry_brigade
+		infantry_brigade
+		infantry_brigade
+	}
+	generic_milita = {
+		militia_brigade
+		militia_brigade
+		militia_brigade
+	}
+	generic_armoured = {
+		armor_brigade
+		motorized_brigade
+		motorized_brigade
+	}
+	generic_cavalry = {
+		cavalry_brigade
+		cavalry_brigade
+	}
+}
+
+unit_names = {
+	infantry_brigade = {
+		"1. pjesacka divizija" "2. pjesacka divizija" "3. pjesacka divizija" "4. pjesacka divizija" "5. pjesacka divizija" "6. pjesacka divizija" "Poglavnikova tjelesna divizija" "1. hrvatska udarna divizija" "2. hrvatska divizija" "3. hrvatska divizija" "4. hrvatska divizija" 
+		"5. hrvatska divizija" "6. hrvatska divizija" "8. hrvatska divizija" "10. hrvatska divizija" "11. hrvatska divizija" "12. hrvatska divizija" "13. hrvatska divizija" "14. hrvatska divizija" "15. hrvatska divizija" "16. hrvatska doknadna divizija" "17. hrvatska divizija" 
+		"18. hrvatska udarna divizija" "19. hrvatska divizija" "20. hrvatska divizija" "21. hrvatska divizija" "22. hrvatska divizija" "23. hrvatska divizija" "24. hrvatska divizija" "25. hrvatska divizija" 
+	}
+	cavalry_brigade = {
+		"1. konjanicka divizija" "2. konjanicka divizija" "3. konjanicka divizija" "4. konjanicka divizija" "5. konjanicka divizija" 
+	}
+	motorized_brigade = {
+		"1. samovozna divizija" "2. samovozna divizija" "3. samovozna divizija" "1. brza divizija" "2. brza divizija" "3. brza divizija" 
+	}
+	mechanized_brigade = {
+		"1. mehanizirana divizija" "2. mehanizirana divizija" 
+	}
+	light_armor_brigade = {
+		"1. oklopna divizija" "2. oklopna divizija" "3. oklopna divizija" "4. oklopna divizija" "5. oklopna divizija" "6. oklopna divizija" "7. oklopna divizija" "8. oklopna divizija" "9. oklopna divizija" "10. oklopna divizija" "11. oklopna divizija" 
+			}
+	armor_brigade = {
+		"1. oklopna divizija" "2. oklopna divizija" "3. oklopna divizija" "4. oklopna divizija" "5. oklopna divizija" "6. oklopna divizija" "7. oklopna divizija" "8. oklopna divizija" "9. oklopna divizija" "10. oklopna divizija" "11. oklopna divizija" 
+			}
+	paratrooper_brigade = {
+		"1. padobranska lovacka divzija" "2. padobranska lovacka divzija" "3. padobranska lovacka divzija" "4. padobranska lovacka divzija" "5. padobranska lovacka divzija" "6. padobranska lovacka divzija" 
+	}
+	marine_brigade = {
+		"1. mornaricka divizija" "2. mornaricka divizija" 
+	}
+	bergsjaeger_brigade = {
+		"1. gorska divizija" "7. hrvatska (gorska) divizija" "9. hrvatska (gorska) divizija" "2. gorska divizija" "3. gorska divizija" "4. gorska divizija" "5. gorska divizija" "30. hrvatska (gorska) divizija" "31. hrvatska (gorska) divizija" "32. hrvatska (gorska) divizija" "33. hrvatska (gorska) divizija" 
+		"34. hrvatska (gorska) divizija" "35. hrvatska (gorska) divizija" 
+	}
+	garrison_brigade = {
+		"1. hrvatska udarna divizija" "2. hrvatska divizija" "3. hrvatska divizija" "4. hrvatska divizija" "5. hrvatska divizija" "6. hrvatska divizija" "8. hrvatska divizija" "10. hrvatska divizija" "11. hrvatska divizija" "12. hrvatska divizija" "13. hrvatska divizija" 
+		"14. hrvatska divizija" "15. hrvatska divizija" "16. hrvatska doknadna divizija" "17. hrvatska divizija" "18. hrvatska udarna divizija" "19. hrvatska divizija" "20. hrvatska divizija" "21. hrvatska divizija" "22. hrvatska divizija" "23. hrvatska divizija" "24. hrvatska divizija" 
+		"25. hrvatska divizija" 
+	}
+	hq_brigade = {
+		"Hrvati glavni štab" "1. hrvatska armija" "2. hrvatska armija" "3. hrvatska armija" "4. hrvatska armija" "5. hrvatska armija" 
+	}
+	militia_brigade = {
+		"Hrvatsko oruznistvo" "Ustaska vojnica" "Pucko ustaski sbor" "Huskina legija" "Hadziefendica legija" "Deutsch-Kroatische Polizei" 
+	}
+	multi_role = {
+		"4. legionarska skupina" "1. Lovaèka legionarska skupina" "11. zrakoplovna skupina" "26. zrakoplovna skupina" "27. zrakoplovna skupina" "28. zrakoplovna skupina" "29. zrakoplovna skupina" "30. zrakoplovna skupina" "31. zrakoplovna skupina" "32. zrakoplovna skupina" "33. zrakoplovna skupina" 
+		"34. zrakoplovna skupina" "35. zrakoplovna skupina" "36. zrakoplovna skupina" "37. zrakoplovna skupina" "38. zrakoplovna skupina" "39. zrakoplovna skupina" "40. zrakoplovna skupina" 
+	}
+	interceptor = {
+		"4. legionarska skupina" "1. Lovaèka legionarska skupina" "11. zrakoplovna skupina" "26. zrakoplovna skupina" "27. zrakoplovna skupina" "28. zrakoplovna skupina" "29. zrakoplovna skupina" "30. zrakoplovna skupina" "31. zrakoplovna skupina" "32. zrakoplovna skupina" "33. zrakoplovna skupina" 
+		"34. zrakoplovna skupina" "35. zrakoplovna skupina" "36. zrakoplovna skupina" "37. zrakoplovna skupina" "38. zrakoplovna skupina" "39. zrakoplovna skupina" "40. zrakoplovna skupina" 
+	}
+	strategic_bomber = {
+		"2. zrakoplovna skupina" "3. skupina" "5. legionarska skupina" "6. skupina" "15. Bombardersko-legionarska skupina" "skupina Cenic" 
+	}
+	tactical_bomber = {
+		"26. zrakoplovna skupina" "27. zrakoplovna skupina" "28. zrakoplovna skupina" "29. zrakoplovna skupina" "30. zrakoplovna skupina" "31. zrakoplovna skupina" "32. zrakoplovna skupina" "33. zrakoplovna skupina" "34. zrakoplovna skupina" "35. zrakoplovna skupina" "36. zrakoplovna skupina" 
+		"37. zrakoplovna skupina" "38. zrakoplovna skupina" "39. zrakoplovna skupina" "40. zrakoplovna skupina" 
+	}
+	naval_bomber = {
+		"26. zrakoplovna skupina" "27. zrakoplovna skupina" "28. zrakoplovna skupina" "29. zrakoplovna skupina" "30. zrakoplovna skupina" "31. zrakoplovna skupina" "32. zrakoplovna skupina" "33. zrakoplovna skupina" "34. zrakoplovna skupina" "35. zrakoplovna skupina" "36. zrakoplovna skupina" 
+		"37. zrakoplovna skupina" "38. zrakoplovna skupina" "39. zrakoplovna skupina" "40. zrakoplovna skupina" 
+	}
+	cas = {
+		"26. zrakoplovna skupina" "27. zrakoplovna skupina" "28. zrakoplovna skupina" "29. zrakoplovna skupina" "30. zrakoplovna skupina" "31. zrakoplovna skupina" "32. zrakoplovna skupina" "33. zrakoplovna skupina" "34. zrakoplovna skupina" "35. zrakoplovna skupina" "36. zrakoplovna skupina" 
+		"37. zrakoplovna skupina" "38. zrakoplovna skupina" "39. zrakoplovna skupina" "40. zrakoplovna skupina" 
+	}
+	transport_plane = {
+		"19. skupinaza vezu" "20. prijenosna skupina" 
+	}
+	battleship = {
+		"HRM Zabreb" "HRM Dubrovnik" "HRM Sarajevo" "HRM Mostar" "HRM Ogulin" 
+	}
+	light_cruiser = {
+		"HRM Zagreb" "HRM Dubrovnik" "HRM Split" "HRM Bjelovar" "HRM Rovinj" "HRM Rab" "HRM Zadar" "HRM Karlovac" "HRM Sarajevo" "HRM Mostar" "HRM Ogulin" 
+		"HRM Sisak" "HRM Sibenik" "HRM Solin" "HRM Korcula" "HRM Mljet" 
+	}
+	heavy_cruiser = {
+		"HRM Zagreb" "HRM Dubrovnik" "HRM Split" "HRM Bjelovar" "HRM Rovinj" "HRM Rab" "HRM Zadar" "HRM Karlovac" "HRM Sarajevo" "HRM Mostar" "HRM Ogulin" 
+		"HRM Sisak" "HRM Sibenik" "HRM Solin" "HRM Korcula" "HRM Mljet" 
+	}
+	battlecruiser = {
+		"HRM Zagreb" "HRM Rab" "HRM Zadar" "HRM Karlovac" "HRM Sarajevo" "HRM Mostar" "HRM Ogulin" 
+	}
+	carrier = {
+		"HRM Mostar" "HRM Ogulin" "HRM Mljet" 
+	}
+	escort_carrier = {
+		"HRM Mostar" "HRM Ogulin" "HRM Mljet" 
+	}
+
+}
+
+
+ministers = {
+
+}

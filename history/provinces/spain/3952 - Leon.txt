@@ -1,0 +1,8 @@
+owner = SPR
+controller = SPR
+add_core = SPR
+
+infra = 7
+
+air_base = 1 #Leon airbase
+points = 1

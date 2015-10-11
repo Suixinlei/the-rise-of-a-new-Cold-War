@@ -1,0 +1,10 @@
+owner = BAN
+controller = BAN
+add_core = BAN
+infra = 6
+industry = 5
+manpower = 22.20
+energy = 4.00
+air_base = 3 #Dhaka airport and Tejgaon airbase
+leadership = 2.50
+points = 1

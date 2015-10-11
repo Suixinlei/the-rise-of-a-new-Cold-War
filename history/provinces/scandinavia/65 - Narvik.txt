@@ -1,0 +1,10 @@
+owner = NOR
+controller = NOR
+add_core = NOR
+
+industry = 1
+infra = 7
+
+naval_base = 9 #Narvik port
+leadership = 2.50
+points = 1

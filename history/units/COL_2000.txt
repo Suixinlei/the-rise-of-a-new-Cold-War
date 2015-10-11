@@ -1,0 +1,487 @@
+theatre = {
+	name = "Fuerzas Militares de Colombia"
+	location = 9930
+	regiment = { type = hq_brigade name = "Fuerzas Militares de Colombia" historical_model = 2 }
+	army = {
+		name = "Ejército Nacional de Colombia"
+		location = 9930
+		regiment = { type = hq_brigade name = "Ejército Nacional de Colombia" historical_model = 2 }
+		division = {
+			is_reserve  = yes
+			name = "Special Forces Brigade"
+			location = 9930
+			regiment = { type = special_forces_brigade name = "1st Special Forces Battalion" historical_model = 2 }
+			regiment = { type = special_forces_brigade name = "2nd Special Forces Battalion" historical_model = 2 }
+			regiment = { type = special_forces_brigade name = "3rd Special Forces Battalion" historical_model = 2 }
+			regiment = { type = special_forces_brigade name = "4th Special Forces Battalion" historical_model = 2 }
+		}
+		division = {
+			is_reserve = yes
+			name = "Counter Narcotics Brigade"
+			location = 9964
+			regiment = { type = special_forces_brigade name = "1st 'Rodolfo Luna' Counter Narcotics Battalion" historical_model = 2 }
+			regiment = { type = special_forces_brigade name = "2nd Counter Narcotics Battalion" historical_model = 2 }
+			regiment = { type = special_forces_brigade name = "3rd Counter Narcotics Battalion" historical_model = 2 }
+		}
+		division = {
+			is_reserve = yes
+			name = "Anti-Subversion Group 'Matamoros'"
+			location = 9790
+			regiment = { type = special_forces_brigade name = "2nd 'Jose Maria Cancino' Special Mobile Battalion" historical_model = 2 }
+			regiment = { type = special_forces_brigade name = "3rd 'Pedro Codazzi' Special Mobile Battalion" historical_model = 2 }
+		}
+		division = {
+			is_reserve = yes
+			name = "Colombian Army Commando Battalion"
+			location = 9930
+			regiment = { type = special_forces_brigade name = "Colombian Army Commando Battalion" historical_model = 2 }
+		}
+		division = {
+			is_reserve = yes
+			name = "1st Marine Special Forces Battalion"
+			location = 9930
+			regiment = { type = special_forces_brigade name = "1st Marine Special Forces Battalion" historical_model = 2 }
+		}
+		division = {
+			is_reserve = yes
+			name = "Colombian Army Lancero Battalion"
+			location = 9930
+			regiment = { type = special_forces_brigade name = "Colombian Army Lancero Battalion" historical_model = 2 }
+		}
+		corps = {
+			name = "Rapid Deployment Force"
+			location = 9930
+			regiment = { type = hq_brigade name = "Deployment Force HQ" historical_model = 2 }
+			division = {
+				is_reserve = yes
+				name = "1st Mobile Brigade"
+				location = 9930
+				regiment = { type = infantry_brigade name = "19th 'Cacique Calima' Counter Insurgency Battallion" historical_model = 2 }
+				regiment = { type = infantry_brigade name = "20th Counter Insurgency Battallion" historical_model = 2 }
+				regiment = { type = infantry_brigade name = "21st 'Lanceros del Llano' Counter Insurgency Battallion" historical_model = 2 }
+				regiment = { type = infantry_brigade name = "22nd Counter Insurgency Battallion" historical_model = 2 }
+			}
+			division = {
+				is_reserve = yes
+				name = "2nd Mobile Brigade"
+				location = 9930
+				regiment = { type = infantry_brigade name = "15th Counter Insurgency Battallion" historical_model = 2 }
+				regiment = { type = infantry_brigade name = "16th Counter Insurgency Battallion" historical_model = 2 }
+				regiment = { type = infantry_brigade name = "17th Counter Insurgency Battallion" historical_model = 2 }
+				regiment = { type = infantry_brigade name = "18th Counter Insurgency Battallion" historical_model = 2 }
+			}
+			division = {
+				is_reserve = yes
+				name = "3rd Mobile Brigade"
+				location = 9930
+				regiment = { type = infantry_brigade name = "51st Counter Insurgency Battallion" historical_model = 2 }
+				regiment = { type = infantry_brigade name = "52nd Counter Insurgency Battallion" historical_model = 2 }
+				regiment = { type = infantry_brigade name = "53rd Counter Insurgency Battallion" historical_model = 2 }
+				regiment = { type = infantry_brigade name = "54th Counter Insurgency Battallion" historical_model = 2 }
+			}
+			division = {
+				is_reserve = yes
+				name = "7th Mobile Brigade"
+				location = 9949
+				regiment = { type = infantry_brigade name = "61st 'Héroes de Mit? Counter Insurgency Battallion" historical_model = 2 }
+				regiment = { type = infantry_brigade name = "62nd 'Prócer Antonio' Counter Insurgency Battallion" historical_model = 2 }
+				regiment = { type = infantry_brigade name = "63rd 'Jos?Cornelio Borda' Counter Insurgency Battallion" historical_model = 2 }
+				regiment = { type = infantry_brigade name = "64th 'Alvaro Ruiz Holguin' Counter Insurgency Battallion" historical_model = 2 }
+			}
+			division = {
+				is_reserve = yes
+				name = "10th Mobile Brigade"
+				location = 9930
+				regiment = { type = infantry_brigade name = "75th Counter Insurgency Battallion" historical_model = 2 }
+				regiment = { type = infantry_brigade name = "76th Counter Insurgency Battallion" historical_model = 2 }
+				regiment = { type = infantry_brigade name = "77th Counter Insurgency Battallion" historical_model = 2 }
+				regiment = { type = infantry_brigade name = "78th Counter Insurgency Battallion" historical_model = 2 }
+			}
+		}
+		corps = {
+			name = "1st Division"
+			location = 9790
+			regiment = { type = hq_brigade name = "1st Division HQ" historical_model = 2 }
+			division = {
+				is_reserve = yes
+				name = "2nd Mechanized Brigade"
+				location = 9790
+				regiment = { type = mechanized_brigade name = "4th Mechanized Battalion" historical_model = 0 }
+				regiment = { type = mechanized_brigade name = "5th Mechanized Battalion" historical_model = 0 }
+				regiment = { type = infantry_brigade name = "6th Mountain Infantry Battalion" historical_model = 2 }
+			}
+			division = {
+				is_reserve = yes
+				name = "10th Armoured Brigade"
+				location = 9790
+				regiment = { type = armor_brigade name = "Medium Tank Squadron 'D'Costa'" historical_model = 0 }
+				regiment = { type = mechanized_brigade name = "2nd Mechanized Cavalry Squadron" historical_model = 0 }
+				regiment = { type = mechanized_brigade name = "6th Mechanized Infantry Battalion" historical_model = 0 }
+				regiment = { type = infantry_brigade name = "7th Mountain Infantry Battalion" historical_model = 2 }
+			}
+		}
+		corps = {
+			name = "2nd Division"
+			location = 9849
+			regiment = { type = hq_brigade name = "2nd Division HQ" historical_model = 2 }
+			division = {
+				is_reserve = yes
+				name = "7th Special Forces Group"
+				location = 9849
+				regiment = { type = special_forces_brigade name = "7th Special Forces Group" historical_model = 2 }
+			}
+			division = {
+				is_reserve = yes
+				name = "8th Special Forces Group"
+				location = 9849
+				regiment = { type = special_forces_brigade name = "8th Special Forces Group" historical_model = 2 }
+			}
+			division = {
+				is_reserve = yes
+				name = "5th Brigade"
+				location = 9849
+				regiment = { type = infantry_brigade name = "14th Infantry Battalion" historical_model = 2 }
+				regiment = { type = infantry_brigade name = "40th Infantry Battalion" historical_model = 2 }
+				regiment = { type = infantry_brigade name = "41st Infantry Battalion" historical_model = 2 }
+				regiment = { type = infantry_brigade name = "48th Jungle Infantry Battalion" historical_model = 2 }
+			}
+			division = {
+				is_reserve = yes
+				name = "23rd Mobile Brigade"
+				location = 9849
+				regiment = { type = infantry_brigade name = "125th Counter Insurgency Battalion" historical_model = 2 }
+				regiment = { type = infantry_brigade name = "126th Counter Insurgency Battalion" historical_model = 2 }
+				regiment = { type = infantry_brigade name = "127th Counter Insurgency Battalion" historical_model = 2 }
+				regiment = { type = infantry_brigade name = "128th Counter Insurgency Battalion" historical_model = 2 }
+			}
+			division = {
+				is_reserve = yes
+				name = "30th Brigade"
+				location = 9849
+				regiment = { type = mechanized_brigade name = "5th Mechanized Cavalry Squadron" historical_model = 0 }
+				regiment = { type = infantry_brigade name = "13th Infantry Battalion" historical_model = 2 }
+				regiment = { type = infantry_brigade name = "15th Infantry Battalion" historical_model = 2 }
+				regiment = { type = infantry_brigade name = "46th Counter Insurgency Battalion" historical_model = 2 }
+			}
+		}
+		corps = {
+			name = "3rd Division"
+			location = 9929
+			regiment = { type = hq_brigade name = "3rd Division HQ" historical_model = 2 }
+			division = {
+				is_reserve = yes
+				name = "3rd Brigade"
+				location = 9929
+				regiment = { type = infantry_brigade name = "3rd Mountain Infantry Battalion" historical_model = 2 }
+				regiment = { type = infantry_brigade name = "3rd Counter Insurgency Battalion" historical_model = 2 }
+				regiment = { type = infantry_brigade name = "23rd Infantry Battalion" historical_model = 2 }
+			}
+			division = {
+				is_reserve = yes
+				name = "8th Brigade"
+				location = 9910
+				regiment = { type = infantry_brigade name = "5th Mountain Infantry Battalion" historical_model = 2 }
+				regiment = { type = infantry_brigade name = "22nd Infantry Battalion" historical_model = 2 }
+			}
+			division = {
+				is_reserve = yes
+				name = "23rd Brigade"
+				location = 9929
+				regiment = { type = mechanized_brigade name = "3rd Cavalry Squadron" historical_model = 0 }
+				regiment = { type = infantry_brigade name = "9th Infantry Battalion" historical_model = 2 }
+				regiment = { type = infantry_brigade name = "93rd Counter Insurgency Battalion" historical_model = 2 }
+				regiment = { type = infantry_brigade name = "Joint Task Force 'Palmarez'" historical_model = 2 }
+			}
+			division = {
+				is_reserve = yes
+				name = "29th Brigade"
+				location = 9849
+				regiment = { type = infantry_brigade name = "4th Mountain Infantry Battalion" historical_model = 2 }
+				regiment = { type = infantry_brigade name = "37th Counter Insurgency Battalion" historical_model = 2 }
+				regiment = { type = infantry_brigade name = "7th Infantry Battalion" historical_model = 2 }
+				regiment = { type = infantry_brigade name = "8th Infantry Battalion" historical_model = 2 }
+			}
+		}
+		corps = {
+			name = "4th Division"
+			location = 9930
+			regiment = { type = hq_brigade name = "4th Division HQ" historical_model = 2 }
+			division = {
+				is_reserve = yes
+				name = "7th Brigade"
+				location = 9930
+				regiment = { type = infantry_brigade name = "7th Counter Insurgency Battalion" historical_model = 2 }
+				regiment = { type = air_cavalry_brigade name = "20th Air Mobile Infantry Battalion" historical_model = 0 }
+				regiment = { type = air_cavalry_brigade name = "21st Air Mobile Infantry Battalion" historical_model = 0 }
+				regiment = { type = infantry_brigade name = "29th Infantry Battalion" historical_model = 2 }
+			}
+			division = {
+				is_reserve = yes
+				name = "22nd Brigade"
+				location = 9949
+				regiment = { type = air_cavalry_brigade name = "19th Air Mobile Infantry Battalion" historical_model = 0 }
+				regiment = { type = infantry_brigade name = "24th Infantry Battalion" historical_model = 2 }
+				regiment = { type = infantry_brigade name = "51st Jungle Infantry Battalion" historical_model = 2 }
+				regiment = { type = infantry_brigade name = "120th Counter Insurgency Battalion" historical_model = 2 }
+			}
+			division = {
+				is_reserve = yes
+				name = "31st Jungle Brigade"
+				location = 9949
+				regiment = { type = infantry_brigade name = "30th Infantry Battalion" historical_model = 2 }
+				regiment = { type = infantry_brigade name = "52nd Jungle Infantry Battalion" historical_model = 2 }
+			}
+		}
+		corps = {
+			name = "5th Division"
+			location = 9930
+			regiment = { type = hq_brigade name = "5th Division HQ" historical_model = 2 }
+			division = {
+				is_reserve = yes
+				name = "Urban Anti Terror Battalion"
+				location = 9930
+				regiment = { type = special_forces_brigade name = "Urban Anti Terror Battalion" historical_model = 2 }
+			}
+			division = {
+				is_reserve = yes
+				name = "1st Brigade"
+				location = 9911
+				regiment = { type = mechanized_brigade name = "1st Mechanized Cavalry Squadron" historical_model = 0 }
+				regiment = { type = infantry_brigade name = "1st 'Gen. Bolivar' Infantry Battalion" historical_model = 2 }
+				regiment = { type = infantry_brigade name = "1st 'Gen. Prieto' Mountain Infantry Battalion" historical_model = 2 }
+				regiment = { type = infantry_brigade name = "2nd 'Gen. Sucre' Infantry Battalion" historical_model = 2 }
+			}
+			division = {
+				is_reserve = yes
+				name = "6th Brigade"
+				location = 9910
+				regiment = { type = infantry_brigade name = "6th Counter Insurgency Battalion" historical_model = 2 }
+				regiment = { type = infantry_brigade name = "16th Infantry Battalion" historical_model = 2 }
+				regiment = { type = infantry_brigade name = "17th Infantry Battalion" historical_model = 2 }
+				regiment = { type = infantry_brigade name = "18th Infantry Battalion" historical_model = 2 }
+				regiment = { type = infantry_brigade name = "31st Counter Insurgency Battalion" historical_model = 2 }
+				regiment = { type = infantry_brigade name = "34th Counter Insurgency Battalion" historical_model = 2 }
+			}
+			division = {
+				is_reserve = yes
+				name = "8th Mobile Brigade"
+				location = 9948
+				regiment = { type = infantry_brigade name = "66th 'Valentin Garcia' Counter Insurgency Battallion" historical_model = 2 }
+				regiment = { type = infantry_brigade name = "67th 'Antonio Morales Galavis' Counter Insurgency Battallion" historical_model = 2 }
+				regiment = { type = infantry_brigade name = "68th 'Jos?María Ayala' Counter Insurgency Battallion" historical_model = 2 }
+				regiment = { type = infantry_brigade name = "69th 'Mariano Barreneche Escobar' Counter Insurgency Battallion" historical_model = 2 }
+			}
+			division = {
+				is_reserve = yes
+				name = "9th Brigade"
+				location = 9948
+				regiment = { type = infantry_brigade name = "9th Counter Insurgency Battalion" historical_model = 2 }
+				regiment = { type = infantry_brigade name = "26th Infantry Battalion" historical_model = 2 }
+				regiment = { type = infantry_brigade name = "27th Infantry Battalion" historical_model = 2 }
+				regiment = { type = infantry_brigade name = "28th Counter Insurgency Battalion" historical_model = 2 }
+			}
+			division = {
+				is_reserve = yes
+				name = "13th Brigade"
+				location = 9930
+				regiment = { type = mechanized_brigade name = "10th Cavalry Squadron" historical_model = 0 }
+				regiment = { type = mechanized_brigade name = "13th Mechanized Cavalry Squadron" historical_model = 0 }
+				regiment = { type = infantry_brigade name = "13th Counter Insurgency Battalion" historical_model = 2 }
+				regiment = { type = air_cavalry_brigade name = "28th Air Mobile Infantry Battalion" historical_model = 0 }
+				regiment = { type = infantry_brigade name = "37th 'Guardia Presidencial' Infantry Battalion" historical_model = 2 }
+				regiment = { type = infantry_brigade name = "38th Infantry Battalion" historical_model = 2 }
+				regiment = { type = infantry_brigade name = "39th Infantry Battalion" historical_model = 2 }
+			}
+		}
+		corps = {
+			name = "6th Division"
+			location = 9964
+			regiment = { type = hq_brigade name = "6th Division HQ" historical_model = 2 }
+			division = {
+				is_reserve = yes
+				name = "12th Brigade"
+				location = 9964
+				regiment = { type = infantry_brigade name = "12th Counter Insurgency Battalion" historical_model = 2 }
+				regiment = { type = infantry_brigade name = "34th Infantry Battalion" historical_model = 2 }
+				regiment = { type = infantry_brigade name = "35th Infantry Battalion" historical_model = 2 }
+				regiment = { type = infantry_brigade name = "36th Infantry Battalion" historical_model = 2 }
+			}
+			division = {
+				is_reserve = yes
+				name = "13th Mobile Brigade"
+				location = 9964
+				regiment = { type = infantry_brigade name = "87th Counter Insurgency Battallion" historical_model = 2 }
+				regiment = { type = infantry_brigade name = "88th Counter Insurgency Battallion" historical_model = 2 }
+				regiment = { type = infantry_brigade name = "89th Counter Insurgency Battallion" historical_model = 2 }
+				regiment = { type = infantry_brigade name = "90th Counter Insurgency Battallion" historical_model = 2 }
+			}
+			division = {
+				is_reserve = yes
+				name = "26th Jungle Brigade"
+				location = 9984
+				regiment = { type = infantry_brigade name = "50th Jungle Infantry Battalion" historical_model = 2 }
+				regiment = { type = infantry_brigade name = "74th Counter Insurgency Battalion" historical_model = 2 }
+			}
+			division = {
+				is_reserve = yes
+				name = "27th Jungle Brigade"
+				location = 9975
+				regiment = { type = infantry_brigade name = "25th Jungle Infantry Battalion" historical_model = 2 }
+				regiment = { type = infantry_brigade name = "49th Counter Insurgency Battalion" historical_model = 2 }
+			}
+		}
+		corps = {
+			name = "7th Division"
+			location = 9869
+			regiment = { type = hq_brigade name = "7th Division HQ" historical_model = 2 }
+			division = {
+				is_reserve = yes
+				name = "5th Urban Anti Terror Group"
+				location = 9869
+				regiment = { type = special_forces_brigade name = "5th Urban Anti Terror Group" historical_model = 2 }
+			}
+			division = {
+				is_reserve = yes
+				name = "4th Brigade"
+				location = 9869
+				regiment = { type = mechanized_brigade name = "4th Mechanized Cavalry Squadron" historical_model = 0 }
+				regiment = { type = infantry_brigade name = "10th Infantry Battalion" historical_model = 2 }
+				regiment = { type = infantry_brigade name = "11th Infantry Battalion" historical_model = 2 }
+				regiment = { type = infantry_brigade name = "32nd Infantry Battalion" historical_model = 2 }
+			}
+			division = {
+				is_reserve = yes
+				name = "11th Brigade"
+				location = 9829
+				regiment = { type = infantry_brigade name = "11th Counter Insurgency Battalion" historical_model = 2 }
+				regiment = { type = infantry_brigade name = "33th Infantry Battalion" historical_model = 2 }
+				regiment = { type = air_cavalry_brigade name = "31st Air Mobile Infantry Battalion" historical_model = 0 }
+			}
+			division = {
+				is_reserve = yes
+				name = "14th Brigade"
+				location = 9869
+				regiment = { type = infantry_brigade name = "3rd Infantry Battalion" historical_model = 2 }
+				regiment = { type = infantry_brigade name = "42nd Infantry Battalion" historical_model = 2 }
+			}
+			division = {
+				is_reserve = yes
+				name = "15th Brigade"
+				location = 9869
+				regiment = { type = infantry_brigade name = "12th Infantry Battalion" historical_model = 2 }
+				regiment = { type = infantry_brigade name = "94th Counter Insurgency Battalion" historical_model = 2 }
+				regiment = { type = infantry_brigade name = "100th Counter Insurgency Battalion" historical_model = 2 }
+			}
+			division = {
+				is_reserve = yes
+				name = "17th Brigade"
+				location = 9829
+				regiment = { type = infantry_brigade name = "46th Infantry Battalion" historical_model = 2 }
+				regiment = { type = infantry_brigade name = "47th Infantry Battalion" historical_model = 2 }
+			}
+		}
+		corps = {
+			name = "Joint Task Force 'Paramillo'"
+			location = 9869
+			regiment = { type = hq_brigade name = "Deployment Force HQ" historical_model = 2 }
+			division = {
+				is_reserve = yes
+				name = "11th Mobile Brigade"
+				location = 9869
+				regiment = { type = infantry_brigade name = "79th Counter Insurgency Battallion" historical_model = 2 }
+				regiment = { type = infantry_brigade name = "80th Counter Insurgency Battallion" historical_model = 2 }
+				regiment = { type = infantry_brigade name = "81st Counter Insurgency Battallion" historical_model = 2 }
+				regiment = { type = infantry_brigade name = "82nd Counter Insurgency Battallion" historical_model = 2 }
+			}
+			division = {
+				is_reserve = yes
+				name = "24th Mobile Brigade"
+				location = 9869
+				regiment = { type = infantry_brigade name = "2nd Counter Insurgency Battallion" historical_model = 2 }
+				regiment = { type = infantry_brigade name = "4th Counter Insurgency Battallion" historical_model = 2 }
+				regiment = { type = infantry_brigade name = "10th Counter Insurgency Battallion" historical_model = 2 }
+				regiment = { type = infantry_brigade name = "33rd Counter Insurgency Battallion" historical_model = 2 }
+			}
+			division = {
+				is_reserve = yes
+				name = "25th Mobile Brigade"
+				location = 9869
+				regiment = { type = infantry_brigade name = "129th Counter Insurgency Battallion" historical_model = 2 }
+				regiment = { type = infantry_brigade name = "130th Counter Insurgency Battallion" historical_model = 2 }
+				regiment = { type = infantry_brigade name = "131st Counter Insurgency Battallion" historical_model = 2 }
+				regiment = { type = infantry_brigade name = "132nd Counter Insurgency Battallion" historical_model = 2 }
+			}
+		}
+		corps = {
+			name = "8th Division"
+			location = 9911
+			regiment = { type = hq_brigade name = "8th Division HQ" historical_model = 2 }
+			division = {
+				is_reserve = yes
+				name = "5th Mobile Brigade"
+				location = 9911
+				regiment = { type = infantry_brigade name = "43rd Counter Insurgency Battallion" historical_model = 2 }
+				regiment = { type = infantry_brigade name = "44th Counter Insurgency Battallion" historical_model = 2 }
+				regiment = { type = infantry_brigade name = "45th Counter Insurgency Battallion" historical_model = 2 }
+				regiment = { type = infantry_brigade name = "47th Counter Insurgency Battallion" historical_model = 2 }
+			}
+			division = {
+				is_reserve = yes
+				name = "16th Brigade"
+				location = 9911
+				regiment = { type = mechanized_brigade name = "16th Cavalry Squadron" historical_model = 0 }
+				regiment = { type = infantry_brigade name = "23rd Counter Insurgency Battallion" historical_model = 2 }
+				regiment = { type = infantry_brigade name = "29th Counter Insurgency Battallion" historical_model = 2 }
+				regiment = { type = infantry_brigade name = "65th Counter Insurgency Battallion" historical_model = 2 }
+				regiment = { type = infantry_brigade name = "44th Infantry Battallion" historical_model = 2 }
+			}
+			division = {
+				is_reserve = yes
+				name = "18th Brigade"
+				location = 9911
+				regiment = { type = air_cavalry_brigade name = "18th Air Mobile Cavalry Squadron" historical_model = 0 }
+				regiment = { type = infantry_brigade name = "24th Counter Insurgency Battallion" historical_model = 2 }
+				regiment = { type = infantry_brigade name = "30th Counter Insurgency Battallion" historical_model = 2 }
+				regiment = { type = infantry_brigade name = "31st Counter Insurgency Battallion" historical_model = 2 }
+			}
+			division = {
+				is_reserve = yes
+				name = "28th Brigade"
+				location = 9911
+				regiment = { type = infantry_brigade name = "43rd Infantry Battallion" historical_model = 2 }
+				regiment = { type = infantry_brigade name = "45th Infantry Battallion" historical_model = 2 }
+				regiment = { type = infantry_brigade name = "38th Counter Insurgency Battallion" historical_model = 2 }
+				regiment = { type = infantry_brigade name = "58th Counter Insurgency Battallion" historical_model = 2 }
+			}
+		}
+	}
+	
+	air = {
+	name = "Escuadrón de Combate 211 'Grifos'"
+	base = 9930
+	location = 9930
+	wing = { type = cas name = "Escuadrón de Combate 211 'Grifos'" historical_model = 0 }
+	}
+	
+	air = {
+	name = "Escuadrón de Transporte 811"
+	base = 9930
+	location = 9930
+	wing = { type = transport_plane name = "Escuadrón de Transporte 811" historical_model = 0 }
+	}
+	
+	navy = {
+	name = "Armada de la República de Colombia"
+	base = 9772
+	location = 9772
+	ship = { type = heavy_cruiser name = "ARC Almirante Padilla" historical_model = 0 }
+	ship = { type = heavy_cruiser name = "ARC Caldas" historical_model = 0 }
+	ship = { type = heavy_cruiser name = "ARC Antioquia" historical_model = 0 }
+	ship = { type = heavy_cruiser name = "ARC Independiente" historical_model = 0 }
+	ship = { type = submarine name = "ARC Pijao" historical_model = 0 }
+	ship = { type = submarine name = "ARC Tayrona" historical_model = 0 }
+	ship = { type = submarine name = "ARC Intrépido" historical_model = 0 }
+	ship = { type = submarine name = "ARC Indomable" historical_model = 0 }
+	}
+
+}

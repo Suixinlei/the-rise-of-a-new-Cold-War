@@ -1,0 +1,7 @@
+owner = BRA
+controller = BRA
+add_core = BRA
+
+infra = 6
+air_base = 2 #Campo Grande airbase
+points = 1

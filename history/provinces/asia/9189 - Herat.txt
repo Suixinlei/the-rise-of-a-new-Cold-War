@@ -1,0 +1,6 @@
+owner = AFG
+controller = AFG
+add_core = AFG
+infra = 4
+air_base = 2 #Herat airport
+points = 1

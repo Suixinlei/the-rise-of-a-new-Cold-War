@@ -1,0 +1,1272 @@
+75600 = {
+	name = "坎瓦尔"
+	country =IND
+	type = land
+	skill = 1
+	max_skill = 4
+	loyalty = 1.00
+	picture = IND1
+	add_trait = logistics_wizard
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}				
+75601 = {
+	name = "杰特莱"
+	country =IND
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 1.00
+	picture = IND2
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+75602 = {
+	name = "根来"
+	country =IND
+	type = land
+	skill = 0
+	max_skill = 6
+	loyalty = 1.00
+	picture = IND3
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+75603 = {
+	name = "达瓦尔"
+	country =IND
+	type = land
+	skill = 2
+	max_skill = 4
+	loyalty = 1.00
+	picture = IND4
+	add_trait = logistics_wizard
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+75604 = {
+	name = "维吉"
+	country =IND
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 1.00
+	picture = IND5
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+75605 = {
+	name = "沙阿"
+	country =IND
+	type = land
+	skill = 3
+	max_skill = 5
+	loyalty = 1.00
+	picture = IND6
+	add_trait = defensive_doctrine
+	add_trait = logistics_wizard
+	history = {
+		2000.1.1 = { rank = 1 }
+		2000.1.1 = { rank = 2 }
+		2000.1.1 = { rank = 3 }
+	}
+}
+75606 = {
+	name = "辛格"
+	country =IND
+	type = land
+	skill = 1
+	max_skill = 4
+	loyalty = 1.00
+	picture = IND7
+	add_trait = logistics_wizard
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+75607 = {
+	name = "清莱"
+	country =IND
+	type = sea
+	skill = 0
+	max_skill = 3
+	loyalty = 1.00
+	picture = IND8
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+75608 = {
+	name = "乔普拉"
+	country =IND
+	type = sea
+	skill = 1
+	max_skill = 4
+	loyalty = 1.00
+	picture = IND9
+	add_trait = superior_tactician
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+75609 = {
+	name = "卜"
+	country =IND
+	type = sea
+	skill = 0
+	max_skill = 3
+	loyalty = 1.00
+	picture = IND10
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+75610 = {
+	name = "咪巴"
+	country =IND
+	type = land
+	skill = 1
+	max_skill = 4
+	loyalty = 1.00
+	picture = IND11
+	add_trait = assaulter
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+75611 = {
+	name = "库马尔"
+	country = IND
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = IND12
+	add_trait = logistics_wizard
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+75612 = {
+	name = "塞西"
+	country = IND
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = IND13
+	add_trait = assaulter
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+75613 = {
+	name = "班达里"
+	country = IND
+	type = land
+	skill = 0
+	max_skill = 2
+	loyalty = 1.00
+	picture = IND14
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+75614 = {
+	name = "瓦米"
+	country =IND
+	type = air
+	skill = 1
+	max_skill = 3
+	loyalty = 1.00
+	picture = IND15
+	add_trait = night_flyer
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+75615 = {
+	name = "辛格"
+	country =IND
+	type = land
+	skill = 1
+	max_skill = 4
+	loyalty = 1.00
+	picture = IND16
+	add_trait = assaulter
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+75616 = {
+	name = "瓦苏德瓦"
+	country =IND
+	type = land
+	skill = 1
+	max_skill = 3
+	loyalty = 1.00
+	picture = IND17
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+75617 = {
+	name = "夏尔马"
+	country =IND
+	type = air
+	skill = 0
+	max_skill = 2
+	loyalty = 1.00
+	picture = IND18
+	add_trait = night_flyer
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+75618 = {
+	name = "河辛格"
+	country =IND
+	type = land
+	skill = 1
+	max_skill = 3
+	loyalty = 1.00
+	picture = IND19
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+75619 = {
+	name = "米辛格"
+	country =IND
+	type = land
+	skill = 0
+	max_skill = 3
+	loyalty = 1.00
+	picture = IND20
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+75620 = {
+	name = "库马尔"
+	country =IND
+	type = land
+	skill = 0
+	max_skill = 2
+	loyalty = 1.00
+	picture = IND21
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+75621 = {
+	name = "库马"
+	country =IND
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 1.00
+	picture = IND21
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+75622 = {
+	name = "辛格E"
+	country =IND
+	type = land
+	skill = 1
+	max_skill = 3
+	loyalty = 1.00
+	picture = IND23
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+75623 = {
+	name = "纳格拉"
+	country =IND
+	type = land
+	skill = 0
+	max_skill = 3
+	loyalty = 1.00
+	picture = IND24
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+75624 = {
+	name = "帕坦卡 "
+	country =IND
+	type = land
+	skill = 1
+	max_skill = 3
+	loyalty = 1.00
+	picture = IND25
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+75625 = {
+	name = "生署"
+	country =IND
+	type = land
+	skill = 1
+	max_skill = 3
+	loyalty = 1.00
+	picture = IND26
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+75626 = {
+	name = "甘地"
+	country =IND
+	type = sea
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = IND27
+	add_trait = superior_tactician
+	history = {
+		2000.1.1 = { rank = 1 }
+		2000.1.1 = { rank = 2 }
+	}
+}
+75627 = {
+	name = "尼加"
+	country =IND
+	type = land
+	skill = 1
+	max_skill = 3
+	loyalty = 1.00
+	picture = IND28
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+75628 = {
+	name = "阿斯特"
+	country =IND
+	type = air
+	skill = 1
+	max_skill = 4
+	loyalty = 1.00
+	picture = IND29
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+75629 = {
+	name = "阪东"
+	country =IND
+	type = air
+	skill = 1
+	max_skill = 3
+	loyalty = 1.00
+	picture = IND30
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+75630 = {
+	name = "马东"
+	country =IND
+	type = sea
+	skill = 1
+	max_skill = 3
+	loyalty = 1.00
+	picture = IND31
+	add_trait = seawolf
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+75631 = {
+	name = "伊纳姆"
+	country =IND
+	type = air
+	skill = 0
+	max_skill = 3
+	loyalty = 1.00
+	picture = IND32
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+75632 = {
+	name = "平加"
+	country =IND
+	type = air
+	skill = 1
+	max_skill = 3
+	loyalty = 1.00
+	picture = IND33
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+75633 = {
+	name = "拉库玛"
+	country =IND
+	type = sea
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = IND34
+	add_trait = blockade_runner
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+75634 = {
+	name = "麦克马洪"
+	country =IND
+	type = land
+	skill = 5
+	max_skill = 8
+	loyalty = 1.00
+	picture = IND35
+	add_trait = defensive_doctrine
+	add_trait = offensive_doctrine
+	add_trait = trickster
+	history = {
+		2000.1.1 = { rank = 1 }
+		2000.1.1 = { rank = 2 }
+		2000.1.1 = { rank = 3 }
+		2000.1.1 = { rank = 4 }
+	}
+}
+75635 = {
+	name = "特姆"
+	country =IND
+	type = land
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = IND36
+	add_trait = offensive_doctrine
+	add_trait = commando
+	history = {
+		2000.1.1 = { rank = 1 }
+		2000.1.1 = { rank = 2 }
+	}
+}
+75636 = {
+	name = "纱丽"
+	country =IND
+	type = air
+	skill = 1
+	max_skill = 4
+	loyalty = 1.00
+	picture = IND37
+	add_trait = tank_buster
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+75637 = {
+	name = "潘迪"
+	country =IND
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 1.00
+	picture = IND38
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+75638 = {
+	name = "阿胡贾"
+	country =IND
+	type = land
+	skill = 0
+	max_skill = 2
+	loyalty = 1.00
+	picture = IND39
+	add_trait = commando
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+75639 = {
+	name = "亚朱尔"
+	country =IND
+	type = land
+	skill = 0
+	max_skill = 2
+	loyalty = 1.00
+	picture = IND40
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+75640 = {
+	name = "戈提"
+	country =IND
+	type = land
+	skill = 3
+	max_skill = 6
+	loyalty = 1.00
+	picture = IND41
+	add_trait = offensive_doctrine
+	history = {
+		2000.1.1 = { rank = 1 }
+		2000.1.1 = { rank = 2 }
+	}
+}
+75641 = {
+	name = "辛格L"
+	country =IND
+	type = air
+	skill = 1
+	max_skill = 3
+	loyalty = 1.00
+	picture = IND42
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+75642 = {
+	name = "德席尔瓦"
+	country =IND
+	type = sea
+	skill = 1
+	max_skill = 3
+	loyalty = 1.00
+	picture = IND43
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+75643 = {
+	name = "戈帕拉查里"
+	country =IND
+	type = sea
+	skill = 0
+	max_skill = 4
+	loyalty = 1.00
+	picture = IND44
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+75644 = {
+	name = "帕斯里恰"
+	country =IND
+	type = land
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = IND45
+	add_trait = commando
+	add_trait = defensive_doctrine
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+75645 = {
+	name = "辛格I"
+	country =IND
+	type = land
+	skill = 0
+	max_skill = 2
+	loyalty = 1.00
+	picture = IND46
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+75646 = {
+	name = "普拉卡什"
+	country =IND
+	type = land
+	skill = 1
+	max_skill = 4
+	loyalty = 1.00
+	picture = IND47
+	add_trait = defensive_doctrine
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+75647 = {
+	name = "苏希尔"
+	country =IND
+	type = sea
+	skill = 1
+	max_skill = 3
+	loyalty = 1.00
+	picture = IND48
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+75648 = {
+	name = "比奇"
+	country =IND
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = IND49
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+75649 = {
+	name = "贝迪"
+	country =IND
+	type = land
+	skill = 1
+	max_skill = 4
+	loyalty = 1.00
+	picture = IND50
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+75650 = {
+	name = "阪东G"
+	country =IND
+	type = land
+	skill = 1
+	max_skill = 4
+	loyalty = 1.00
+	picture = IND51
+	add_trait = learners_will
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+75651 = {
+	name = "巴尔"
+	country =IND
+	type = land
+	skill = 1
+	max_skill = 3
+	loyalty = 1.00
+	picture = IND52
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+75652 = {
+	name = "普里河"
+	country =IND
+	type = land
+	skill = 1
+	max_skill = 3
+	loyalty = 1.00
+	picture = IND53
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+75653 = {
+	name = "梅塔"
+	country =IND
+	type = land
+	skill = 0
+	max_skill = 3
+	loyalty = 1.00
+	picture = IND54
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+75654 = {
+	name = "梅塔"
+	country = air
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.20
+	picture = IND54
+	add_trait = learners_will
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+75655 = {
+	name = "澳邦萨尔"
+	country =IND
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = IND56
+	add_trait = frontline_soldier
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+75555 = {
+	name = "澳邦萨尔"
+	country = IND
+	type = sea
+	skill = 1
+	max_skill = 4
+	loyalty = 1.00
+	picture = IND56
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+75656 = {
+	name = "雷尔"
+	country =IND
+	type = land
+	skill = 0
+	max_skill = 3
+	loyalty = 1.00
+	picture = IND57
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+75657 = {
+	name = "辛格S"
+	country =IND
+	type = land
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = IND58
+	add_trait = frontline_soldier
+	history = {
+		2000.1.1 = { rank = 1 }
+		2000.1.1 = { rank = 2 }
+	}
+}
+75658 = {
+	name = "社康纳"
+	country =IND
+	type = land
+	skill = 0
+	max_skill = 3
+	loyalty = 1.00
+	picture = IND59
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+75659 = {
+	name = "考尔"
+	country =IND
+	type = land
+	skill = 0
+	max_skill = 3
+	loyalty = 1.00
+	picture = IND60
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+75660 = {
+	name = "辛德"
+	country =IND
+	type = land
+	skill = 0
+	max_skill = 3
+	loyalty = 1.00
+	picture = IND60
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+75661 = {
+	name = "强生"
+	country =IND
+	type = land
+	skill = 0
+	max_skill = 3
+	loyalty = 1.00
+	picture = IND62
+	add_trait = landlubber
+	history = {
+		2000.1.1 = { rank = 1 }
+		2000.1.1 = { rank = 2 }
+	}
+}
+75662 = {
+	name = "马伊尼"
+	country =IND
+	type = land
+	skill = 3
+	max_skill = 6
+	loyalty = 1.00
+	picture = IND63
+	add_trait = improvisation
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+75663 = {
+	name = "格雷瓦尔"
+	country =IND
+	type = land
+	skill = 1
+	max_skill = 2
+	loyalty = 1.00
+	picture = IND64
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+75664 = {
+	name = "萨达"
+	country =IND
+	type = land
+	skill = 0
+	max_skill = 2
+	loyalty = 1.00
+	picture = IND65
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+75665 = {
+	name = "格罗弗"
+	country =IND
+	type = land
+	skill = 0
+	max_skill = 1
+	loyalty = 1.00
+	picture = IND66
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+75666 = {
+	name = "乔普拉F"
+	country =IND
+	type = sea
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = IND67
+	add_trait = spotter
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+75667 = {
+	name = "扎哈"
+	country =IND
+	type = air
+	skill = 1
+	max_skill = 2
+	loyalty = 1.00
+	picture = IND68
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+75668 = {
+	name = "辛格I.K"
+	country =IND
+	type = land
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = IND69
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+75669 = {
+	name = "得得"
+	country =IND
+	type = land
+	skill = 0
+	max_skill = 3
+	loyalty = 1.00
+	picture = IND70
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+75670 = {
+	name = "得得"
+	country =IND
+	type = sea
+	skill = 1
+	max_skill = 2
+	loyalty = 1.00
+	picture = IND70
+	add_trait = seawolf
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+75671 = {
+	name = "拉吉"
+	country =IND
+	type = air
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = IND72
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+75672 = {
+	name = "乔拉"
+	country =IND
+	type = land
+	skill = 0
+	max_skill = 3
+	loyalty = 1.00
+	picture = IND73
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+75673 = {
+	name = "昆杜"
+	country =IND
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = IND74
+	add_trait = defensive_doctrine
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+75674 = {
+	name = "锡半田"
+	country =IND
+	type = land
+	skill = 0
+	max_skill = 3
+	loyalty = 1.00
+	picture = IND75
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+75675 = {
+	name = "马斯洛加德雷"
+	country =IND
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 1.00
+	picture = IND76
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+75676 = {
+	name = "贾格帕兰"
+	country =IND
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = IND77
+	add_trait = defensive_doctrine
+	history = {
+		2000.1.1 = { rank = 1 }
+		2000.1.1 = { rank = 2 }
+	}
+}
+75677 = {
+	name = "纳加"
+	country =IND
+	type = sea
+	skill = 0
+	max_skill = 3
+	loyalty = 1.00
+	picture = IND78
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+75678 = {
+	name = "纳加"
+	country =IND
+	type = land
+	skill = 0
+	max_skill = 3
+	loyalty = 1.00
+	picture = IND78
+	history = {
+		2000.1.1 = { rank = 1 }
+		2000.1.1 = { rank = 2 }
+	}
+}
+75679 = {
+	name = "辛格K.N"
+	country =IND
+	type = land
+	skill = 0
+	max_skill = 3
+	loyalty = 1.00
+	picture = IND80
+	history = {
+		2000.1.1 = { rank = 1 }
+		2000.1.1 = { rank = 2 }
+	}
+}
+75680 = {
+	name = "卡特卡夏尔马"
+	country =IND
+	type = land
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = IND81
+	add_trait = defensive_doctrine
+	history = {
+		2000.1.1 = { rank = 1 }
+		2000.1.1 = { rank = 2 }
+	}
+}
+75681 = {
+	name = "普里"
+	country =IND
+	type = land
+	skill = 1
+	max_skill = 2
+	loyalty = 1.00
+	picture = IND82
+	add_trait = offensive_doctrine
+	history = {
+		2000.1.1 = { rank = 1 }
+		2000.1.1 = { rank = 2 }
+	}
+}
+75682 = {
+	name = "施伟辛格 "
+	country =IND
+	type = land
+	skill = 4
+	max_skill = 8
+	loyalty = 1.00
+	picture = IND83
+	add_trait = offensive_doctrine
+	history = {
+		2000.1.1 = { rank = 1 }
+		2000.1.1 = { rank = 2 }
+		2000.1.1 = { rank = 3 }
+		2000.1.1 = { rank = 4 }
+	}
+}
+75683 = {
+	name = "施伟辛格 "
+	country =IND
+	type = sea
+	skill = 2
+	max_skill = 4
+	loyalty = 1.00
+	picture = IND83
+	history = {
+		2000.1.1 = { rank = 1 }
+		2000.1.1 = { rank = 2 }
+		2000.1.1 = { rank = 3 }
+		2000.1.1 = { rank = 4 }
+	}
+}
+75684 = {
+	name = "阿谀斯"
+	country =IND
+	type = land
+	skill = 0
+	max_skill = 3
+	loyalty = 1.00
+	picture = IND99
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+75685 = {
+	name = "赖世邦德"
+	country =IND
+	type = land
+	skill = 0
+	max_skill = 3
+	loyalty = 1.00
+	picture = IND98
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+75686 = {
+	name = "乔杜斯"
+	country =IND
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = IND97
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+75687 = {
+	name = "世邦卡"
+	country =IND
+	type = land
+	skill = 0
+	max_skill = 3
+	loyalty = 1.00
+	picture = IND96
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+75688 = {
+	name = "齐妙卡"
+	country =IND
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = IND95
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+75689 = {
+	name = "杜宇"
+	country =IND
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 1.00
+	picture = IND84
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+75690 = {
+	name = "西格斯"
+	country =IND
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 1.00
+	picture = IND85
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+75691 = {
+	name = "费罗兹"
+	country =IND
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 1.00
+	picture = IND86
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+75692 = {
+	name = "阿尼铝"
+	country =IND
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 1.00
+	picture = IND87
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+75693 = {
+	name = "艾力"
+	country =IND
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 1.00
+	picture = IND88
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+75694 = {
+	name = "德尔平"
+	country =IND
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 1.00
+	picture = IND89
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+75695 = {
+	name = "噶呢社"
+	country =IND
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 1.00
+	picture = IND90
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+75696 = {
+	name = "穆克上"
+	country =IND
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 1.00
+	picture = IND91
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+75697 = {
+	name = "旷日哂纳"
+	country =IND
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 1.00
+	picture = IND92
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+75698 = {
+	name = "莫和三"
+	country =IND
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 1.00
+	picture = IND93
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}
+75699 = {
+	name = "恩卡特啥"
+	country =IND
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 1.00
+	picture = IND94
+	history = {
+		2000.1.1 = { rank = 1 }
+	}
+}

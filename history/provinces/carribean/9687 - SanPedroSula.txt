@@ -1,0 +1,7 @@
+owner = HON
+controller = HON
+add_core = HON
+rare_materials = 1.00
+infra = 6
+air_base = 7 #Airbases of Honduras
+naval_base = 3 #Puerto Cortes port

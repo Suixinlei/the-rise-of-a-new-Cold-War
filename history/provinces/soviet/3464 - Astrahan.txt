@@ -1,0 +1,8 @@
+owner = SOV
+controller = SOV
+add_core = SOV
+crude_oil = 13.00
+infra = 5
+points = 1
+energy = 10.00
+industry = 10.00

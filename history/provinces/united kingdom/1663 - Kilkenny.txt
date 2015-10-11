@@ -1,0 +1,6 @@
+owner = IRE
+controller = IRE
+add_core = IRE
+
+infra = 8
+rare_materials = 4.00

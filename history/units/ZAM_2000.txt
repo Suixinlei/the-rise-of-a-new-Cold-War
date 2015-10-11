@@ -1,0 +1,35 @@
+theatre = {
+	name = "Zambian Defence Force"
+	location = 8020
+	regiment = { type = hq_brigade name = "Zambian Defence Force" historical_model = 0 }
+	division = {
+		is_reserve = yes
+		name = "1st Brigade"
+		location = 8020
+		regiment = { type = infantry_brigade name = "11th Battalion" historical_model = 0 }
+		regiment = { type = infantry_brigade name = "12th Battalion" historical_model = 0 }
+		regiment = { type = infantry_brigade name = "13th Battalion" historical_model = 0 }
+	}
+	division = {
+		is_reserve = yes
+		name = "2nd Brigade"
+		location = 10228
+		regiment = { type = infantry_brigade name = "21st Battalion" historical_model = 0 }
+		regiment = { type = infantry_brigade name = "22nd Battalion" historical_model = 0 }
+		regiment = { type = infantry_brigade name = "23rd Battalion" historical_model = 0 }
+	}
+	division = {
+		is_reserve = yes
+		name = "3rd Brigade"
+		location = 8012
+		regiment = { type = infantry_brigade name = "31st Battalion" historical_model = 0 }
+		regiment = { type = infantry_brigade name = "32nd Battalion" historical_model = 0 }
+		regiment = { type = infantry_brigade name = "33rd Battalion" historical_model = 0 }
+	}
+	division = {
+		is_reserve = yes
+		name = "Armoured Battalion"
+		location = 8014
+		regiment = { type = armor_brigade name = "Armoured Battalion" historical_model = 0 }
+	}
+}

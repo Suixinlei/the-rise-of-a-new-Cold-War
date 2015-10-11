@@ -1,0 +1,390 @@
+Spy_tech;窃取科技机密;;;;;;;;;;X
+Spy_tech2;在外国研究机构的我国间谍窃取了一些有趣的机密。尽管我们没能偷到成品，这些概念技术还是可以加速我国的科研。;;;;;;;;;;X
+Spy_prod;窃取生产机密;;;;;;;;;;X
+Spy_prod2;在外国工厂的我国间谍窃取了一些有趣的机密。尽管我们没能偷到成品，这些概念技术还是可以加速我国的工业生产。;;;;;;;;;;X
+Spy_prod3;数量本身就是质量!;;;;;;;;;;X
+spy_party_good;支持度增长;;;;;;;;;;X
+spy_party_good2;提高我党支持度的努力获得成效，大众的支持声一浪高过一浪。每当党政要员发表演讲时，总会出现万人空巷的场面。;;;;;;;;;;X
+spy_party_good3;你们得到了我的选票!;;;;;;;;;;X
+spy_party_bad;政治宣传事与愿违;;;;;;;;;;X
+spy_party_bad2;提高我党支持度的努力事与愿违，大众的嘲讽声一浪高过一浪。每当党政要员发表演讲时，总会收到很多烂水果。;;;;;;;;;;X
+spy_party_bad3;滚开！;;;;;;;;;;X
+spy_threat;<$TARGET$>威胁度提升;;;;;;;;;;X
+spy_threat2;<$TARGET$>对我国的威胁使越来越多的年轻人报名参军。;;;;;;;;;;X
+spy_threat2b;他们必须被阻止，不论代价;;;;;;;;;;X
+spy_threat3;<$TARGET$>对我国的威胁过大，人民反对采取任何可能使<$TARGET$>向我们倾泻怒火的举动。;;;;;;;;;;X
+spy_threat3b;也许我们应该静观其变?;;;;;;;;;;X
+amphibious_invasion_technology;两栖入侵战术;;;;;;;;;;X
+amphibious_invasion_technology_desc;通过研究过去的两栖入侵，我们能加速部队卸载速度。;;;;;;;;;;X
+amphibious_invasion_craft;两栖登陆艇;;;;;;;;;;X
+amphibious_invasion_craft_desc;平底，首开门驳，这些登陆艇可以迅速在滩头卸下登陆部队。;;;;;;;;;;X
+advanced_invasion_craft;两栖突击舰;;;;;;;;;;X
+advanced_invasion_craft_desc;比起登陆艇来体积更大，防护更充分，两栖突击舰可以向滩头运送坦克，增加两栖行动成功的可能性。;;;;;;;;;;X
+amphibious_assault_units;火力支援艇;;;;;;;;;;X
+amphibious_assault_units_desc;通过提供火力支援和防空艇支援登陆，我们可以为登陆部队提供更周全的保护，;;;;;;;;;;X
+DESTROY;摧毁;;;;;;;;;;X
+DIVISIONS_TO_BUILD;待组建的师;;;;;;;;;;X
+BRIGADES_TO_BUILD;待组建的旅;;;;;;;;;;X
+AIRS_TO_BUILD;待建造飞机;;;;;;;;;;X
+NAVIES_TO_BUILD;待建造舰船;;;;;;;;;;X
+CGM_IC_COST;IC*天 花费;;;;;;;;;;X
+AMPH_INVASION_COMBAT_PROGRESS_DESC;这支部队正在两栖登陆舰中。其攻击能力下降，防御能力则由于登陆舰的装甲而增强.?;;;;;;;;;;X
+AMPH_INVASION_SPEED_BONUS;两栖登陆速度;;;;;;;;;;X
+AMPH_INVASION_DEFENCE_BONUS;两栖登陆舰防御;;;;;;;;;;X
+AMPH_INVASION_PROGRESS;两栖登陆进度： $PERC$%;;;;;;;;;;X
+AMPH_INVASION_ATTACK_SCALE;总攻击能力： $PERC$%;;;;;;;;;;X
+AMPH_INVASION_DEFEND_SCALE;总防御能力： $PERC$%;;;;;;;;;;X
+SCENARIO_SCW;西班牙内战;;;;;;;;;;X
+SCENARIO_SCW_DESC;出于对激进的执政党控制整个国家的恐惧，军队中的反动分子发动兵变以夺取西班牙的统治权。然而，叛乱并没有如计划般成功，政府依然掌控着超过半数的领土。一场血腥的内战将会是重新统一西班牙的唯一途径。;;;;;;;;;;X
+SCENARIO_winter;冬季战争;;;;;;;;;;X
+SCENARIO_winter_DESC;在签署苏德互不侵犯条约并鲸吞东波兰后，苏联将注意力转向了北方的弱小邻居芬兰，期望重演一次轻松的占领行动。苏联人很快惊讶于红军面对固守家园的芬兰军队是如此准备不足与不堪一击。尽管苏联很可能取得最终胜利，代价也必然会异常高昂。;;;;;;;;;;X
+DEPLOYMENT;部署;;;;;;;;;;X
+MULTI_SEL_PRIO_DESC;$NUM$? /$MAX$被选择部队开启了升级和补充的 优先权?.;;;;;;;;;;X
+MULTI_SEL_PRIO_REINF_DESC;$NUM$ /$MAX$ selected units will receive reinforcements ENABLED?.;;;;;;;;;;X
+MULTI_SEL_PRIO_UPG_DESC;$NUM$ / $MAX$ selected units will receive upgrades ENABLED?.;;;;;;;;;;X
+MULTI_SEL_UPGRADE_DESC;$NUM$个旅可以升级.;;;;;;;;;;X
+UNIT_UPG_PROGRESS;升级进度$PROG$%;;;;;;;;;;X
+CLEAR_ALL;清除所有;;;;;;;;;;X
+SPIES_INFILTRATED_LESS;Grk;;;;;;;;;;X
+SPIES_INFILTRATED_MORE;Grk;;;;;;;;;;X
+TECH_AT_MAX;(最大);;;;;;;;;;X
+COV_OPS_COST;改变行动花费: ;;;;;;;;;;X
+COV_OPS_COST_LACKING;花费 $COST$?行动点数。我们只有 $CURRENT$? ;;;;;;;;;;X
+COV_OPS_EXECUTE;\n\n效果:\n;;;;;;;;;;X
+ALLOCATED_SPIES_FOR_MISSION_TRIGGER_LESS; $MISSION$的间谍至少有 $VALUE$个;;;;;;;;;;X
+ALLOCATED_SPIES_FOR_MISSION_TRIGGER_MORE; $MISSION$的间谍少于 $VALUE$个;;;;;;;;;;X
+HAS_NO_HOSTILE_MISSION;没有正在执行的敌意间谍任务;;;;;;;;;;X
+HAS_HOSTILE_MISSION;正在执行敌意间谍任务;;;;;;;;;;X
+CGM_CONTINUE_PROMPT;确定要继续到下一阶段吗？\n之后将无法返回上一阶段。;;;;;;;;;;X
+CGM_RESET_PROMPT;确定要重置当前阶段吗？;;;;;;;;;;X
+CGM_TOOLTIP_DIPLOMACY_STAGE;在这个阶段你可以编辑外交。\n你可以花费外交点数离开阵营并退出战争，转投另一阵营，甚至改变中立等级。;;;;;;;;;;X
+CGM_TOOLTIP_TECHNOLOGY_STAGE;在这个阶段你可以花费科技点数研究科技，或者取消已研究的科技以获得点数。;;;;;;;;;;X
+CGM_TOOLTIP_DEPLOYMENT_STAGE;在这个阶段你可以IC*天点数组建部队或建造设施。\n点击建造按钮可以组建部队。\n解散部队可以收回点数和人力。\n设施可以再生分界面建造或拆除。;;;;;;;;;;X
+CGM_TOOLTIP_STAGE_MULTI;一旦所有玩家确认改变，就可以进入下一阶段。;;;;;;;;;;X
+CGM_TOOLTIP_CONTINUE;确认改变以进入下一阶段。;;;;;;;;;;X
+CGM_TOOLTIP_RESET;还原你的改变。;;;;;;;;;;X
+CGM_TOOLTIP_MENU;打开游戏菜单。;;;;;;;;;;X
+CGM_TOOLTIP_PROGRESS_DIPLOMACY;可用的 外交? 点数.;;;;;;;;;;X
+CGM_TOOLTIP_PROGRESS_TECHNOLOGY;可用的 科技? 点数.;;;;;;;;;;X
+CGM_TOOLTIP_PROGRESS_DEPLOYMENT;可用的 IC*天? 点数.;;;;;;;;;;X
+CGM_TOOLTIP_BUILD;设计，组建并部署部队;;;;;;;;;;X
+CGM_TOOLTIP_CONVOY;建造或摧毁 运输船?.;;;;;;;;;;X
+CGM_TOOLTIP_ESCORT;建造或摧毁 护航舰?.;;;;;;;;;;X
+CGM_TOOLTIP_CONVOY_ESCORT_COST;每个单位花费：\n$IC$? IC*天;;;;;;;;;;X
+CGM_TOOLTIP_CONVOY_ESCORT_DELAYED;Shift+鼠标左键? - +$NUM$? 一起按下.\nCtrl+鼠标左键? - 重置? 回默认值.;;;;;;;;;;X
+CGM_TOOLTIP_NEUTRALITY;你可以花费外交点数改变中立度.;;;;;;;;;;X
+CGM_TOOLTIP_FACTION_ALIGN;你可以花费外交点数改变阵营倾向;;;;;;;;;;X
+CGM_TOOLTIP_ALREADY_IN_FACTION;你不能改变阵营倾向。\n你应该先离开现阵营。?;;;;;;;;;;X
+CGM_TOOLTIP_LEAVE_FACTION_LEADER;你不能离开阵营，因为你是阵营领袖。?;;;;;;;;;;X
+CGM_TOOLTIP_LEAVE_FACTION_NON_FACTIONED;你不是阵营成员?;;;;;;;;;;X
+CGM_TOOLTIP_LEAVE_FACTION;点击离开阵营。\n所有你参加的阵营战争将达成无条件和平。\n(确认将会使你离开现阵营)?;;;;;;;;;;X
+CGM_TOOLTIP_LEAVE_FACTION_PUPPET;你是阵营成员 $COUNTRY$ 的傀儡国。\n如果该国离开阵营，我们将自动脱离阵营。?;;;;;;;;;;X
+CGM_TOOLTIP_REJOIN_FACTION;点击重新加入阵营。\n点数将被退回。?;;;;;;;;;;X
+CGM_TOOLTIP_COST;点数花费： $COST$;;;;;;;;;;X
+CGM_TOOLTIP_CLEAR_ALL;清除所有科技到0级。\n你可以点击顶部的 还原? 按钮恢复默认，或 Ctrl+鼠标双击? 特定种类的科技。;;;;;;;;;;X
+CGM_TOOLTIP_TECH_PLUS;提高科技等级。;;;;;;;;;;X
+CGM_TOOLTIP_TECH_MINUS;降低科技等级。\n点数将被退回。?;;;;;;;;;;X
+CGM_TOOLTIP_TECH_RESET;重置科技等级为默认值。;;;;;;;;;;X
+CGM_TOOLTIP_TECH_PLUS_SHORTCUT;鼠标双击? 以提高等级.;;;;;;;;;;X
+CGM_TOOLTIP_TECH_MINUS_SHORTCUT;Shift + 鼠标双击 以降低等级.;;;;;;;;;;X
+CGM_TOOLTIP_TECH_RESET_SHORTCUT;Ctrl + 鼠标双击 以恢复默认.;;;;;;;;;;X
+CGM_TOOLTIP_THEORY_PRACTICE;理论? 和 实践? 等级将在设置结束后重新计算.;;;;;;;;;;X
+CGM_TOOLTIP_BUILDING_SHORTCUT;鼠标左键单击? 提高等级。\n鼠标右键单击? 降低等级。\nCtrl+鼠标左键? 恢复默认。;;;;;;;;;;X
+CGM_TOOLTIP_UNDERGROUND_BUILD_DESTROY;建造或摧毁地下抵抗基地。;;;;;;;;;;X
+CGM_WAITING_FOR_PLAYERS;等待其他玩家;;;;;;;;;;X
+CGM_PLAYER_STATUS;状态： ;;;;;;;;;;X
+CGM_STATUS_DISCONNECTED;断开连接?;;;;;;;;;;X
+CGM_STATUS_WAITING_CONFIRM;等待确认?;;;;;;;;;;X
+CGM_STATUS_CONFIRMED;已确认?;;;;;;;;;;X
+PARATROOPEDUS_SETUP;当敌军伞兵空降我国领土.;;;;;;;;;;X
+PARATROOPEDUS_HEADER;$minister_of_defence$报告;;;;;;;;;;X
+PARATROOPEDUS_1;$ENEMY$的伞兵;;;;;;;;;;X
+PARATROOPEDUS_2;正在$PROV$空投.;;;;;;;;;;X
+PARATROOPEDUS_3;*;;;;;;;;;;X
+PARATROOPEDUS_4;*;;;;;;;;;;X
+PARATROOPEDUS_5;*;;;;;;;;;;X
+PARATROOPEDUS_6;*;;;;;;;;;;X
+PARATROOPEDUS_LOG;$ENEMY$在$PROV$空投伞兵.;;;;;;;;;;X
+PARATROOPEDUS_BTN1;好的;;;;;;;;;;X
+PARATROOPEDUS_BTN2;好的;;;;;;;;;;X
+PARATROOPEDUS_BTN3;转到;;;;;;;;;;X
+PARATROOPEDUS_MAP;伞兵;;;;;;;;;;X
+INVADEDUS_SETUP;当敌军发动两栖登陆.;;;;;;;;;;X
+INVADEDUS_HEADER;$minister_of_defence$报告;;;;;;;;;;X
+INVADEDUS_1;$ENEMY$的登陆部队;;;;;;;;;;X
+INVADEDUS_2;正在$PROV$抢滩.;;;;;;;;;;X
+INVADEDUS_3;*;;;;;;;;;;X
+INVADEDUS_4;*;;;;;;;;;;X
+INVADEDUS_5;*;;;;;;;;;;X
+INVADEDUS_6;*;;;;;;;;;;X
+INVADEDUS_LOG;$ENEMY$正在$PROV$发动两栖登陆.;;;;;;;;;;X
+INVADEDUS_BTN1;好的;;;;;;;;;;X
+INVADEDUS_BTN2;好的;;;;;;;;;;X
+INVADEDUS_BTN3;转到;;;;;;;;;;X
+INVADEDUS_MAP;两栖登陆;;;;;;;;;;X
+BUILD_ADD_REM_BUNDLE;Ctrl + 鼠标左键? 来增加或减少 $NUM$?;;;;;;;;;;X
+OOB_MATCH_VIEWS;指挥链图;;;;;;;;;;X
+DISBAND_ALL_TITLE;解散所有部队;;;;;;;;;;X
+DISBAND_ALL_DESC;你确定要解散$NUM$支部队？;;;;;;;;;;X
+CANCEL_MULTI_CONSTRUCTIONS_PROMPT;你确定要取消$NUM$个设施？;;;;;;;;;;X
+CANCEL_MULTI_CONSTRUCTIONS_DESC;CTRL + 鼠标左键 以取消与被选中设施建造进度相同或更慢的所有同类设施。;;;;;;;;;;X
+NO_MULTILOAD_AIR;没有运输机能装载这些部队.;;;;;;;;;;X
+UNMOUNT_MULTILOAD;从运输船和运输机上卸载$NUM$支部队。;;;;;;;;;;X
+UNMOUNT_MULTILOAD_NONE;运输船和运输机上没有部队可卸载。;;;;;;;;;;X
+HIGHER_COMMAND_MULTI_UNITS;创建一个更高级的指挥部，并将所有选中单位纳入其麾下（除了战区）。;;;;;;;;;;X
+DETACH_ALL;将所有选中单位脱离指挥链。\n战区不在此列。;;;;;;;;;;X
+ENEMY_IC_RATIO_DESC;与敌人的IC数量比为$RATIO$%.;;;;;;;;;;X
+ENEMY_IC_RATIO_NOT_DESC;与敌人的IC数量比不少于$RATIO$%.;;;;;;;;;;X
+SPLIT_UNITS_DESC;CTRL + 鼠标左键? 以分割成 $NUM$? 支部队。;;;;;;;;;;X
+desert_fox;沙漠之狐;;;;;;;;;;X
+swamp_fox;沼泽之狐;;;;;;;;;;X
+mountaineer;山地战专家;;;;;;;;;;X
+hill_fighter;丘陵战专家;;;;;;;;;;X
+jungle_rat;丛林之鼠;;;;;;;;;;X
+ranger;林地战专家;;;;;;;;;;X
+urban_assault_specialist;巷战大师;;;;;;;;;;X
+TRAIT_TERRAIN_SPEED;在$TYPE$地形的速度加成;;;;;;;;;;X
+TRAIT_TERRAIN_ATTACK;在$TYPE$地形的攻击加成;;;;;;;;;;X
+TRAIT_GAIN_PROGRESS;获得$TRAIT$的进度为$PROG$%?;;;;;;;;;;X
+ACTUAL_TRAITS_DESC;实际特性：;;;;;;;;;;X
+TO_GAIN_TRAITS_DESC;可获得特性：;;;;;;;;;;X
+NO_TRAIT_TO_GAIN_DESC;现在没有特性可获得;;;;;;;;;;X
+TRAIT_FILTER_DESC;按特性过滤将领。\n勾掉你不想看到的特性。\n鼠标右键? - 重置所有过滤条件。;;;;;;;;;;X
+TRAIT_FILTER_ENTRY_DESC;鼠标右键? - 选择所有特性。;;;;;;;;;;X
+TRAIT_FILTER;过滤:;;;;;;;;;;X
+NO_TRAIT_FILTER;无特性;;;;;;;;;;X
+BP_TAB_CURRENT;现有计划;;;;;;;;;;X
+BP_TAB_HISTORICAL;历史计划;;;;;;;;;;X
+BP_TOOL_COLOR_RED;红色;;;;;;;;;;X
+BP_TOOL_COLOR_GREEN;绿色;;;;;;;;;;X
+BP_TOOL_COLOR_BLUE;蓝色;;;;;;;;;;X
+BP_TOOL_COLOR_YELLOW;黄色;;;;;;;;;;X
+BP_TOOL_ARROW_SLIM;细箭头;;;;;;;;;;X
+BP_TOOL_ARROW_MEDIUM_1;中等箭头1;;;;;;;;;;X
+BP_TOOL_ARROW_MEDIUM_2;中等箭头2;;;;;;;;;;X
+BP_TOOL_ARROW_MEDIUM_3;中等箭头3;;;;;;;;;;X
+BP_TOOL_ARROW_THICK;粗箭头;;;;;;;;;;X
+BP_TOOL_BORDER_1;边界类型1;;;;;;;;;;X
+BP_TOOL_BORDER_2;边界类型2;;;;;;;;;;X
+BP_TOOL_BORDER_3;边界类型3;;;;;;;;;;X
+BP_TOOL_BORDER_4;边界类型4;;;;;;;;;;X
+BP_TOOL_BORDER_5;边界类型5;;;;;;;;;;X
+BP_TOOL_ICON_AIRPLANE;飞机标志;;;;;;;;;;X
+BP_TOOL_ICON_TANK;坦克标志;;;;;;;;;;X
+BP_TOOL_ICON_BOMB_1;小炸弹标志;;;;;;;;;;X
+BP_TOOL_ICON_BOMB_2;大炸弹标志;;;;;;;;;;X
+BP_SAVE_PLAN_CONFIRM;保存计划;;;;;;;;;;X
+BP_SAVE_PLAN_CANCEL;取消;;;;;;;;;;X
+BP_SAVE_PLAN_PROMPT;战役计划已存在！\n你确定要覆盖吗？;;;;;;;;;;X
+BP_DELETE_SAVED_PLAN_PROMPT;你确定要删除已保存的战役计划吗？;;;;;;;;;;X
+BP_DELETE_CURRENT_PLAN_PROMPT;你确定要删除现有战役计划吗？;;;;;;;;;;X
+BP_SHARED_WITH;分享者:;;;;;;;;;;X
+BP_NEW_PLAN;新计划;;;;;;;;;;X
+BP_TOOLTIP_TAB_CURRENT;现有战役计划列表。;;;;;;;;;;X
+BP_TOOLTIP_TAB_HISTORICAL;历史战役计划列表。\n点击导入?可以将选中的计划添加进现有计划列表。;;;;;;;;;;X
+BP_TOOLTIP_TAB_SAVED;已保存战役计划列表。\n点击导入?可以将选中的计划添加进现有计划列表。;;;;;;;;;;X
+BP_TOOLTIP_NEW_PLAN;创建新计划;;;;;;;;;;X
+BP_TOOLTIP_REMOVE_PLAN;删除选中计划。;;;;;;;;;;X
+BP_TOOLTIP_SHARE_PLAN;点击分享?按钮可以将选中计划展示给盟友?.;;;;;;;;;;X
+BP_TOOLTIP_SAVE_PLAN;保存选中计划为文档。;;;;;;;;;;X
+BP_TOOLTIP_RENAME_PLAN;重命名选中计划;;;;;;;;;;X
+BP_TOOLTIP_IMPORT_PLAN;添加选中计划到现有战役计划列表。;;;;;;;;;;X
+BP_TOOLTIP_TOOL_SELECT;点击一个可选对象;;;;;;;;;;X
+BP_TOOLTIP_TOOL_ARROW;选择箭头类型，然后用鼠标左键?拖到地图上。\n按住 Shift? + 鼠标左键?将箭头与其他箭头对齐。;;;;;;;;;;X
+BP_TOOLTIP_TOOL_BORDER;选择边界类型，然后用鼠标左键?拖到地图上。;;;;;;;;;;X
+BP_TOOLTIP_TOOL_ICON;选择图标类型，然后用鼠标左键?拖到地图上。\n按住 Shift? + 鼠标滚轮?可以翻转图标。;;;;;;;;;;X
+BP_TOOLTIP_TOOL_COLOR;选择现有颜色为箭头和图标上色。\n颜色还将被应用在所有当前选中的箭头或图标上。;;;;;;;;;;X
+BP_TOOLTIP_TOOL_TEXT;在地图上设置文字标志。\n如果什么都没有选择，将创建一个新文本。\n如果选中一个箭头，文字将写在箭头上。\n如果选中一个文本，将编辑这个文本。\nShift? + 鼠标滚轮?可以翻转文本。\nCtrl? + 鼠标滚轮?可以调整文本大小。;;;;;;;;;;X
+BP_TOOLTIP_TOOL_ERASE;删除选中对象。;;;;;;;;;;X
+BP_TOOLTIP_VISIBILITY;切换地图上的计划透明度。;;;;;;;;;;X
+SWM_BUTTON_SHOW;战略界面;;;;;;;;;;X
+SWM_RECORDS_BEGIN_DATE;开始日期：$DATE$?;;;;;;;;;;X
+SWM_RECORDS_END_DATE;截止日期：$DATE$?;;;;;;;;;;X
+SWM_RECORDS_TODAY;今天;;;;;;;;;;X
+SWM_SELECT_ALL;所有;;;;;;;;;;X
+SWM_SELECT_PRESENT;现在的;;;;;;;;;;X
+SWM_SELECT_NONE;没有;;;;;;;;;;X
+SWM_DURATION_1;上个月;;;;;;;;;;X
+SWM_DURATION_2;去年;;;;;;;;;;X
+SWM_DURATION_3;整个冲突;;;;;;;;;;X
+SWM_GRAPH_MAX_IC_VAL;最大IC：\n$MAX$;;;;;;;;;;X
+SWM_GRAPH_MAX_MAN_VAL;最大人力：\n$MAX$;;;;;;;;;;X
+SWM_GRAPH_MAX_TONS_VAL;最大吨位： $MAX$;;;;;;;;;;X
+SWM_GRAPH_AVG_VAL;平均： $AVG$;;;;;;;;;;X
+SWM_GRAPH_HEADER_US;我方损失;;;;;;;;;;X
+SWM_GRAPH_HEADER_THEM;对方损失;;;;;;;;;;X
+SWM_GRAPH_HEADER_CONVOYS;运输船;;;;;;;;;;X
+SWM_GRAPH_HEADER_NAVIES;海军;;;;;;;;;;X
+SWM_GRAPH_HEADER_IC;IC;;;;;;;;;;X
+SWM_GRAPH_HEADER_MANPOWER;人力;;;;;;;;;;X
+SWM_CARGO_LOST_DESC_1;本月我们损失了$NUM$?吨货物。;;;;;;;;;;X
+SWM_CARGO_LOST_DESC_2;今年我们损失了$NUM$?吨货物。;;;;;;;;;;X
+SWM_CARGO_LOST_DESC_3;我们一共损失了$NUM$?吨货物。;;;;;;;;;;X
+SWM_CARGO_SUNK_DESC_1;本月我们击沉了$NUM$?吨货物。;;;;;;;;;;X
+SWM_CARGO_SUNK_DESC_2;今年我们击沉了$NUM$?吨货物。;;;;;;;;;;X
+SWM_CARGO_SUNK_DESC_3;我们一共击沉了$NUM$?吨货物。;;;;;;;;;;X
+SWM_OUR_PROV_DAMAGE_DESC_1;本月大约$PERC$%?的我国城市遭到轰炸。;;;;;;;;;;X
+SWM_OUR_PROV_DAMAGE_DESC_2;今年大约$PERC$%?的我国城市遭到轰炸。;;;;;;;;;;X
+SWM_OUR_PROV_DAMAGE_DESC_3;总共大约$PERC$%?的我国城市遭到轰炸。;;;;;;;;;;X
+SWM_THEIR_PROV_DAMAGE_DESC_1;本月大约 $PERC$%?的该国城市遭到轰炸。;;;;;;;;;;X
+SWM_THEIR_PROV_DAMAGE_DESC_2;今年大约 $PERC$%?的该国城市遭到轰炸。;;;;;;;;;;X
+SWM_THEIR_PROV_DAMAGE_DESC_3;总共大约 $PERC$%?的该国城市遭到轰炸。;;;;;;;;;;X
+SWM_OUR_BOMBERS_DAMAGE_DESC_1;本月敌军轰炸机损失了$DAM$?。;;;;;;;;;;X
+SWM_OUR_BOMBERS_DAMAGE_DESC_2;今年敌军轰炸机损失了$DAM$?。;;;;;;;;;;X
+SWM_OUR_BOMBERS_DAMAGE_DESC_3;敌军轰炸机总共损失了$DAM$?。;;;;;;;;;;X
+SWM_THEIR_BOMBERS_DAMAGE_DESC_1;本月我军轰炸机损失了$DAM$?。;;;;;;;;;;X
+SWM_THEIR_BOMBERS_DAMAGE_DESC_2;今年我军轰炸机损失了$DAM$?。;;;;;;;;;;X
+SWM_THEIR_BOMBERS_DAMAGE_DESC_3;我军轰炸机总共损失了$DAM$?。;;;;;;;;;;X
+SWM_LOSSES_PROVINCE;省份;;;;;;;;;;X
+SWM_LOSSES_BOMBERS;轰炸机;;;;;;;;;;X
+SWM_MAX_DAMAGE;最大伤害: $DAM$;;;;;;;;;;X
+SWM_TOOLTIP_TAB_NAVAL;比较敌我双方与猎杀运输船?有关的海军?损失。;;;;;;;;;;X
+SWM_TOOLTIP_TAB_AIR;比较敌我双方与战略轰炸?有关的空军?损失。;;;;;;;;;;X
+SWM_TOOLTIP_TAB_LAND;比较敌我双方与陆战?和非正常损耗?有关的陆军?损失。;;;;;;;;;;X
+SWM_TOOLTIP_NAVAL_OUR_CONVOYS;我方?运输船损失的IC估计值。;;;;;;;;;;X
+SWM_TOOLTIP_NAVAL_OUR_ATTACKERS;敌方?海军在猎杀我国运输船期间的损失的IC估计值（修复费用和补充沉没舰船费用）。;;;;;;;;;;X
+SWM_TOOLTIP_NAVAL_OUR_CARGO;我方?运输船损失的货物的IC估计值。;;;;;;;;;;X
+SWM_TOOLTIP_NAVAL_THEIR_CONVOYS;敌方?运输船损失的IC估计值。;;;;;;;;;;X
+SWM_TOOLTIP_NAVAL_THEIR_ATTACKERS;我方?海军在猎杀敌国运输船期间的损失的IC估计值（修复费用和补充沉没舰船费用）。;;;;;;;;;;X
+SWM_TOOLTIP_NAVAL_THEIR_CARGO;敌方?运输船损失的货物的IC估计值。;;;;;;;;;;X
+SWM_TOOLTIP_AIR_OUR_PROVINCE;敌方轰炸机对我方?省份造成损失的估计值。\n包括损毁的建筑，被毁的货物与补给，以及陆军伤亡。;;;;;;;;;;X
+SWM_TOOLTIP_AIR_OUR_BOMBERS;敌方?轰炸机的损失的估计值。;;;;;;;;;;X
+SWM_TOOLTIP_AIR_THEIR_PROVINCE;我方轰炸机对敌方?省份造成损失的估计值。\n包括损毁的建筑，被毁的货物与补给，以及陆军伤亡。;;;;;;;;;;X
+SWM_TOOLTIP_AIR_THEIR_BOMBERS;我方?轰炸机的损失的估计值。;;;;;;;;;;X
+SWM_TOOLTIP_LAND_IC_US;补充我方?在战斗中遭到损失部队的费用的估计值。;;;;;;;;;;X
+SWM_TOOLTIP_LAND_IC_THEM;补充敌方?在战斗中遭到损失部队的费用的估计值。;;;;;;;;;;X
+SWM_TOOLTIP_LAND_MAN_US;补充我方?在战斗中遭到损失部队的人力的估计值。;;;;;;;;;;X
+SWM_TOOLTIP_LAND_MAN_THEM;补充敌方?在战斗中遭到损失部队的人力的估计值。;;;;;;;;;;X
+UNIT_REPAIR_COST_MULT;修理花费修正;;;;;;;;;;X
+SPY_PRODUCTION_LABEL;生产;;;;;;;;;;X
+LEAVE_FACTION;脱离阵营;;;;;;;;;;X
+REJOIN_FACTION;重返阵营;;;;;;;;;;X
+LEAVE_FACTION_INTENTION;$COUNTRY$? 将脱离阵营?;;;;;;;;;;X
+COVERT_OPS_POINTS;秘密行动点数:;;;;;;;;;;X
+SPYMISSION_COVERT_OPS_TITLE;秘密行动;;;;;;;;;;X
+SPYMISSION_COVERT_OPS_DESC;准备实施秘密行动，破坏和特种部队渗透。;;;;;;;;;;X
+COVERT_MISSIONS_LABEL;秘密任务;;;;;;;;;;X
+COVERT_OPS_SORT;秘密;;;;;;;;;;X
+MODIFIER_LAND_INTEL_BOOST;陆军情报加成;;;;;;;;;;X
+MODIFIER_NAVAL_INTEL_BOOST;海军情报加成;;;;;;;;;;X
+MODIFIER_LOCAL_UNIT_SPEED;其他本地速度影响;;;;;;;;;;X
+MODIFIER_STRATEGIC_RESOURCE_EFFICIENCY;战略物资损失;;;;;;;;;;X
+FE_CUSTOM_GAMES;自定义游戏;;;;;;;;;;X
+EVTNAME18000;摧毁间谍组织;;;;;;;;;;X
+EVTDESC18000;我国特工成功逮捕了敌国间谍，并摧毁了整个间谍组织。这将在一定时间内提高我国的反间谍效率。;;;;;;;;;;X
+EVTOPTA18000;好消息!;;;;;;;;;;X
+EVTNAME18001;密码被窃;;;;;;;;;;X
+EVTDESC18001;最近我国的反间谍工作遭遇重大挫折，我国特工的最新密码被敌人窃取。这将在一定时间内降低我国的反间谍效率。;;;;;;;;;;X
+EVTOPTA18001;灾难!;;;;;;;;;;X
+EVTNAME18002;意外收获的情报;;;;;;;;;;X
+EVTDESC18002;通过一系列机智的密谋和一次大胆的行动，我们的一名间谍窃取了敌国的密码本。我们的情报等级将获得提高，直到他们下一次改变密码。;;;;;;;;;;X
+sabotage_strategic_resource;破坏战略物资;;;;;;;;;;X
+steal_battle_plans;窃取本地战役计划;;;;;;;;;;X
+scout_area;侦察区域;;;;;;;;;;X
+sabotage_area;破坏区域;;;;;;;;;;X
+sabotage_strategic_resource_desc;破坏本地战略物资。;;;;;;;;;;X
+steal_battle_plans_desc;渗透并窃取本地战役计划。;;;;;;;;;;X
+scout_area_desc;派遣间谍提前侦察区域。;;;;;;;;;;X
+sabotage_area_desc;破坏桥梁，涂改路标，阻滞敌军的行动。;;;;;;;;;;X
+covertopsmod_sabotage;破坏区域;;;;;;;;;;X
+covertopsmod_scout;侦察区域;;;;;;;;;;X
+covertopsmod_damage_resource;破坏战略物资;;;;;;;;;;X
+DISTRIBUTE_LENDLEASE;工业援助;;;;;;;;;;X
+DISTRIBUTE;分发;;;;;;;;;;X
+ACT_LENDLEASE_WE_GOI;当我国处于流亡状态时不能获得工业援助。;;;;;;;;;;X
+ACT_LENDLEASE_THEM_GOI;我们不能向流亡政府提供工业援助。;;;;;;;;;;X
+PROV_DISTANCE_FROM;距$FROM$$DIST$千米?;;;;;;;;;;X
+ADD_SPIES_EFFECT;派遣$VAL$?名间谍去$TARGET$?;;;;;;;;;;X
+REMOVE_SPIES_EFFECT;撤回$VAL$?名间谍去$TARGET$?;;;;;;;;;;X
+ADD_PRACTICAL_EFFECT;$TARGET$?可用数增加$VAL$?;;;;;;;;;;X
+REDUCE_PRACTICAL_EFFECT;$TARGET$?可用数减少$VAL$?;;;;;;;;;;X
+tactic_basic_attack;攻击;;;;;;;;;;X
+tactic_basic_defend;防御;;;;;;;;;;X
+tactic_assault;突击;;;;;;;;;;X
+tactic_reckless_assault;鲁莽突袭;;;;;;;;;;X
+tactic_encirclement;包围;;;;;;;;;;X
+tactic_delay;阻滞;;;;;;;;;;X
+tactic_slower_delay;巧妙阻滞;;;;;;;;;;X
+tactic_shock;冲击;;;;;;;;;;X
+tactic_counterattack;反击;;;;;;;;;;X
+tactic_tactical_withdrawal;战术撤退;;;;;;;;;;X
+tactic_breakthrough;突破;;;;;;;;;;X
+tactic_superior_breakthrough;快速突破;;;;;;;;;;X
+tactic_ambush;伏击;;;;;;;;;;X
+tactic_blitz;闪电战;;;;;;;;;;X
+tactic_super_blitz;闪电突击;;;;;;;;;;X
+tactic_elastic_defence;弹性防御;;;;;;;;;;X
+tactic_backhand_blow;回击;;;;;;;;;;X
+TACTIC_COUNTERED_BY;反制者: $NAME$?\n;;;;;;;;;;X
+TACTIC_COUNTERS;反制:;;;;;;;;;;X
+DEFENDER_COUNTERED;防御方的战术被攻击方反制了。等级高的将领更容易反制对手的战术。;;;;;;;;;;X
+ATTACKER_COUNTERED;攻击方的战术被防御方反制了。等级高的将领更容易反制对手的战术。;;;;;;;;;;X
+NONE_COUNTERED;没有人的战术可以反制对手的战术。战斗正常进行。;;;;;;;;;;X
+LEADER_INITIATIVE;\n这名将领等级更高，选择能反制对手的战术的可能性比较高?;;;;;;;;;;X
+CHAT_CHANNEL_GENERAL;全体频道;;;;;;;;;;X
+CHAT_SYSTEM;系统;;;;;;;;;;X
+CHAT_ERROR_UNKNOWNSLASH;未知命令，输入 '/help' 或 '/?' 展开命令列表;;;;;;;;;;X
+CHAT_ERROR_UNKNOWNCHANNELUSER;频道中找不到用户 '$NAME$' ;;;;;;;;;;X
+CHAT_ERROR_UNKNOWNUSER;找不到用户 '$NAME$';;;;;;;;;;X
+CHAT_SLAP;$FIRST$用大猎豹猛击$SECOND$;;;;;;;;;;X
+CHAT_ERROR_SLAP_MISSINGARG;Invalid syntax, expected: /slap <username>;;;;;;;;;;X
+CHAT_ERROR_ME_MISSINGARG;Invalid syntax, expected: /me <message>;;;;;;;;;;X
+CHAT_ERROR_CREATE_MISSINGARG;Invalid syntax, expected: /create <channel name>;;;;;;;;;;X
+CHAT_ERROR_INVITE_MISSINGARG;Invalid syntax, expected: /invite <username>;;;;;;;;;;X
+CHAT_ERROR_INVITE_NOTOPERATOR;Only channel creator can invite users;;;;;;;;;;X
+CHAT_ERROR_INVITE_ALREADYTHERE;User is already in channel;;;;;;;;;;X
+CHAT_ERROR_KICK_MISSINGARG;Invalid syntax, expected: /kick <username>;;;;;;;;;;X
+CHAT_ERROR_KICK_NOTOPERATOR;Only channel creator can kick users;;;;;;;;;;X
+CHAT_ERROR_KICK_NOTTHERE;User is not in channel;;;;;;;;;;X
+CHAT_ERROR_WHISPER_MISSINGARG;Invalid syntax, expected: /whisper <username> <message>;;;;;;;;;;X
+CHAT_ERROR_REPLY_MISSINGARG;Invalid syntax, expected: /reply <message>;;;;;;;;;;X
+CHAT_ERROR_REPLY_MISSINGUSER;No connected user to reply to;;;;;;;;;;X
+CHAT_WHISPER_TO;To $NAME$;;;;;;;;;;X
+CHAT_ROLL;$USER$ rolls a d$DIE$, Computer says '$NUMBER$';;;;;;;;;;X
+CHAT_YES;Yes;;;;;;;;;;X
+CHAT_NO;No;;;;;;;;;;X
+CHAT_BETWEEN_X_AND_Y;Chat between $X$ and $Y$;;;;;;;;;;X
+CHAT_USERJOINEDCHANNEL;$NAME$ joined channel;;;;;;;;;;X
+CHAT_USERLEFTCHANNEL;$NAME$ left channel;;;;;;;;;;X
+CHAT_USERDISCONNECTED;$NAME$ disconnected;;;;;;;;;;X
+CHAT_USERWASBANNED;$NAME$ was kicked by $OP$;;;;;;;;;;X
+CHAT_YOUWEREBANNED;You were kicked by $OP$ from $CHANNEL$;;;;;;;;;;X
+CHAT_AXIS;Axis;;;;;;;;;;X
+CHAT_ALLIES;Allies;;;;;;;;;;X
+CHAT_COMINTERN;Comintern;;;;;;;;;;X
+CHAT_NEUTRAL;Neutral;;;;;;;;;;X
+infantry_unit_type;步兵;;;;;;;;;;X
+direct_fire_unit_type;直瞄火力;;;;;;;;;;X
+support_unit_type;支援;;;;;;;;;;X
+artillery_unit_type;炮兵;;;;;;;;;;X
+armor_unit_type;装甲;;;;;;;;;;X
+infantry_unit_type_desc;步兵是多兵种混合部队的基础。步兵与其他部队混编可以得到战斗加成。;;;;;;;;;;X
+direct_fire_unit_type_desc;直瞄火力部队可以对视野范围内的敌军开火。;;;;;;;;;;X
+support_unit_type_desc;支援部队可以为一个师提供多种用途或某种特殊能力，使部队能负担各种任务。;;;;;;;;;;X
+artillery_unit_type_desc;炮兵可以越过其他部队或障碍物，在远距离对敌军造成杀伤。;;;;;;;;;;X
+armor_unit_type_desc;装甲部队为一个师提供突击能力，机动性和防护能力。合成兵种科技可以增加这些部队带来的战斗效率加成。;;;;;;;;;;X
+INTEL_PRODUCTION;生产;;;;;;;;;;X
+BP_TOOL_ICON_PARADROP;伞兵图标;;;;;;;;;;X
+BP_TOOL_ICON_CARRIER;航母图标;;;;;;;;;;X
+BP_TOOL_ICON_BATTLESHIP;战列舰图标;;;;;;;;;;X
+BP_TOOL_ICON_SUB;潜艇图标;;;;;;;;;;X
+BP_TOOL_ICON_LANDING;登陆艇图标;;;;;;;;;;X
+ARMOR_VALUE;装甲;;;;;;;;;;X
+AP_ATTACK;穿甲攻击;;;;;;;;;;X
+BUILD_PIERCING_IRO;穿甲攻击;;;;;;;;;;X
+BUILD_PIERCING_DRO;这个旅的穿甲能力。;;;;;;;;;;X
+BUILD_ARMOR_IRO;装甲;;;;;;;;;;X
+BUILD_ARMOR_DRO;这个旅的防穿甲能力。;;;;;;;;;;X
+BM_ARMOR_ADVANTAGE;装甲优势;;;;;;;;;;X
+BM_ARMOR_ADVANTAGE_desc;拥有远胜于敌军穿甲能力的装甲部队的师不仅可以遭受更少的伤亡，还能对敌方造成更大的组织度打击。;;;;;;;;;;X
+AGGRESSION_ON;战术控制开启。调节滑块以控制各师采取的战术的攻击性。;;;;;;;;;;X
+AGGRESSION_OFF;战术控制关闭。设置将取决于上级指挥部或保持适中状态。;;;;;;;;;;X
+AGGRESSION_AGGRESSIVE;攻击性;;;;;;;;;;X
+AGGRESSION_DEFENSIVE;防御性;;;;;;;;;;X
+AGGRESSION_NEUTRAL;适中;;;;;;;;;;X
+AGGRESSION_LEVEL;这个等级决定了将领在战斗中采取何种战术。攻击性越强，战斗进行得越快，但也会造成更大风险。\n现在的状态：$STATUS$?;;;;;;;;;;X
+REQLENDTITLE;请求工业援助;;;;;;;;;;X
+CANCELLENDTITLE;取消工业援助;;;;;;;;;;X
+BP_TOOL_ICON_INFANTRY;步兵图标;;;;;;;;;;X
+BP_TOOL_ICON_COMBAT;战斗图标;;;;;;;;;;X
+SWM_STRATEGIC_WARFARE_OVERVIEW;战略界面概览;;;;;;;;;;X

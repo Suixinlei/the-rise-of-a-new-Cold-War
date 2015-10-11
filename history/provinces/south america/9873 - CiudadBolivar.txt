@@ -1,0 +1,6 @@
+owner = VEN
+controller = VEN
+add_core = VEN
+infra = 4
+metal = 11.00
+rare_materials = 7.00

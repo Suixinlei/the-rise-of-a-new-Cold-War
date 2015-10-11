@@ -1,0 +1,9 @@
+owner = ECU
+controller = ECU
+add_core = ECU
+
+infra = 6
+
+air_base = 2 #Galapagos airbase
+naval_base = 1
+points = 1

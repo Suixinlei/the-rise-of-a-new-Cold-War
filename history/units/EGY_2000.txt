@@ -1,0 +1,776 @@
+theatre = {
+	name = "Egyptian Armed Forces"
+	location = 5611
+	regiment = { type = hq_brigade name = "Egyptian Armed Forces HQ" historical_model = 1 }
+	armygroup = {
+		name = "First Field Army"
+		location = 5611
+		regiment = { type = hq_brigade name = "First Field Army HQ" historical_model = 1 }
+		army = {
+			name = "1st Corps"
+			location = 5611
+			regiment = { type = hq_brigade name = "1st Corps HQ" historical_model = 1 }
+			corps = {
+				name = "1st Republican Guard Armor Division"
+				location = 5611
+				regiment = { type = hq_brigade name = "1st Republican Armor Division HQ" historical_model = 1 }
+				division = {
+					is_reserve = yes
+					name = "33rd Armoured Brigade"
+					location = 5611
+					regiment = { type = armor_brigade name = "118th Armoured Battalion" historical_model = 0 }
+					regiment = { type = armor_brigade name = "119th Armoured Battalion" historical_model = 0 }
+					regiment = { type = mechanized_brigade name = "41st Mechanized Battalion" historical_model = 1 }
+					regiment = { type = sp_artillery_brigade name = "10th S/P Artillery Brigade" historical_model = 0 }
+				}
+				division = {
+					is_reserve = yes
+					name = "35th Armoured Brigade"
+					location = 5611
+					regiment = { type = armor_brigade name = "120th Armoured Battalion" historical_model = 0 }
+					regiment = { type = armor_brigade name = "121st Armoured Battalion" historical_model = 0 }
+					regiment = { type = mechanized_brigade name = "42nd Mechanized Battalion" historical_model = 1 }
+				}
+				division = {
+					is_reserve = yes
+					name = "510th Mechanized Brigade"
+					location = 5611
+					regiment = { type = armor_brigade name = "116th Armoured Battalion" historical_model = 0 }
+					regiment = { type = mechanized_brigade name = "41st Mechanized Battalion" historical_model = 1 }
+					regiment = { type = mechanized_brigade name = "42nd Mechanized Battalion" historical_model = 1 }
+					regiment = { type = mechanized_brigade name = "43rd Mechanized Battalion" historical_model = 1 }
+				}
+				division = {
+					is_reserve = yes
+					name = "512th Mechanized Brigade"
+					location = 5611
+					regiment = { type = armor_brigade name = "117th Armoured Battalion" historical_model = 0 }
+					regiment = { type = mechanized_brigade name = "44th Mechanized Battalion" historical_model = 1 }
+					regiment = { type = mechanized_brigade name = "45th Mechanized Battalion" historical_model = 1 }
+					regiment = { type = mechanized_brigade name = "46th Mechanized Battalion" historical_model = 1 }
+				}
+			}
+			division = {
+				is_reserve = yes
+				name = "24th Independent Mechanized Brigade"
+				location = 5611
+				regiment = { type = armor_brigade name = "96th Armoured Battalion" historical_model = 0 }
+				regiment = { type = mechanized_brigade name = "33rd Mechanized Battalion" historical_model = 1 }
+				regiment = { type = mechanized_brigade name = "34th Mechanized Battalion" historical_model = 1 }
+				regiment = { type = mechanized_brigade name = "35th Mechanized Battalion" historical_model = 1 }
+			}
+			division = {
+				is_reserve = yes
+				name = "135th Special Forces Regiment"
+				location = 5611
+				regiment = { type = special_forces_brigade name = "230th Commandos Battalion" historical_model = 1 }
+				regiment = { type = special_forces_brigade name = "231st Commandos Battalion" historical_model = 1 }
+				regiment = { type = special_forces_brigade name = "232nd Commandos Battalion" historical_model = 1 }
+			}
+		}
+		army = {
+			name = "2nd Corps"
+			location = 5586
+			regiment = { type = hq_brigade name = "2nd Corps HQ" historical_model = 1 }
+			corps = {
+				name = "6th Mechanized Division"
+				location = 5586
+				regiment = { type = hq_brigade name = "6th Mechanized Division HQ" historical_model = 1 }
+				division = {
+					is_reserve = yes
+					name = "712th Mechanized Brigade"
+					location = 5586
+					regiment = { type = armor_brigade name = "30th Armoured Battalion" historical_model = 0 }
+					regiment = { type = mechanized_brigade name = "111th Mechanized Battalion" historical_model = 1 }
+					regiment = { type = mechanized_brigade name = "112th Mechanized Battalion" historical_model = 1 }
+					regiment = { type = sp_artillery_brigade name = "101st S/P Artillery Brigade" historical_model = 0 }
+				}
+				division = {
+					is_reserve = yes
+					name = "713th Mechanized Brigade"
+					location = 5586
+					regiment = { type = armor_brigade name = "31st Armoured Battalion" historical_model = 0 }
+					regiment = { type = mechanized_brigade name = "113th Mechanized Battalion" historical_model = 1 }
+					regiment = { type = mechanized_brigade name = "114th Mechanized Battalion" historical_model = 1 }
+				}
+				division = {
+					is_reserve = yes
+					name = "10th Armoured Brigade"
+					location = 5586
+					regiment = { type = armor_brigade name = "65th Armoured Battalion" historical_model = 0 }
+					regiment = { type = armor_brigade name = "66th Mechanized Battalion" historical_model = 0 }
+					regiment = { type = armor_brigade name = "67th Mechanized Battalion" historical_model = 0 }
+					regiment = { type = mechanized_brigade name = "41st Mechanized Battalion" historical_model = 1 }
+				}
+			}
+			division = {
+				is_reserve = yes
+				name = "18th Independent Armoured Brigade"
+				location = 5586
+				regiment = { type = armor_brigade name = "77th Armoured Battalion" historical_model = 0 }
+				regiment = { type = armor_brigade name = "78th Mechanized Battalion" historical_model = 0 }
+				regiment = { type = armor_brigade name = "79th Mechanized Battalion" historical_model = 0 }
+				regiment = { type = mechanized_brigade name = "91st Mechanized Battalion" historical_model = 1 }
+			}
+			division = {
+				is_reserve = yes
+				name = "218th Independent Infantry Brigade"
+				location = 5586
+				regiment = { type = infantry_brigade name = "712th Infantry Battalion" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "713th Infantry Battalion" historical_model = 1 }
+				regiment = { type = mechanized_brigade name = "100th Mechanized Battalion" historical_model = 1 }
+				regiment = { type = mechanized_brigade name = "101st Mechanized Battalion" historical_model = 1 }
+				regiment = { type = armor_brigade name = "17th Armor Battalion" historical_model = 0 }
+			}
+			division = {
+				is_reserve = yes
+				name = "129th Special Forces Regiment"
+				location = 5611
+				regiment = { type = special_forces_brigade name = "233rd Commandos Battalion" historical_model = 1 }
+				regiment = { type = special_forces_brigade name = "234th Commandos Battalion" historical_model = 1 }
+				regiment = { type = special_forces_brigade name = "235th Commandos Battalion" historical_model = 1 }
+			}
+		}
+		army = {
+			name = "3rd Corps"
+			location = 5704
+			regiment = { type = hq_brigade name = "3rd Corps HQ" historical_model = 1 }
+			corps = {
+				name = "8th Mechanized Division"
+				location = 5704
+				regiment = { type = hq_brigade name = "8th Mechanized Division HQ" historical_model = 1 }
+				division = {
+					is_reserve = yes
+					name = "714th Mechanized Brigade"
+					location = 5704
+					regiment = { type = armor_brigade name = "32nd Armoured Battalion" historical_model = 0 }
+					regiment = { type = mechanized_brigade name = "115th Mechanized Battalion" historical_model = 1 }
+					regiment = { type = mechanized_brigade name = "116th Mechanized Battalion" historical_model = 1 }
+					regiment = { type = sp_artillery_brigade name = "102nd S/P Artillery Brigade" historical_model = 0 }
+				}
+				division = {
+					is_reserve = yes
+					name = "715th Mechanized Brigade"
+					location = 5704
+					regiment = { type = armor_brigade name = "33rd Armoured Battalion" historical_model = 0 }
+					regiment = { type = mechanized_brigade name = "117th Mechanized Battalion" historical_model = 1 }
+					regiment = { type = mechanized_brigade name = "118th Mechanized Battalion" historical_model = 1 }
+				}
+				division = {
+					is_reserve = yes
+					name = "11th Armoured Brigade"
+					location = 5704
+					regiment = { type = armor_brigade name = "68th Armoured Battalion" historical_model = 0 }
+					regiment = { type = armor_brigade name = "69th Mechanized Battalion" historical_model = 0 }
+					regiment = { type = armor_brigade name = "70th Mechanized Battalion" historical_model = 0 }
+					regiment = { type = mechanized_brigade name = "42nd Mechanized Battalion" historical_model = 1 }
+				}
+			}
+			division = {
+				is_reserve = yes
+				name = "36th Independent Armoured Brigade"
+				location = 5704
+				regiment = { type = armor_brigade name = "80th Armoured Battalion" historical_model = 0 }
+				regiment = { type = armor_brigade name = "81st Mechanized Battalion" historical_model = 0 }
+				regiment = { type = armor_brigade name = "82nd Mechanized Battalion" historical_model = 0 }
+				regiment = { type = mechanized_brigade name = "92nd Mechanized Battalion" historical_model = 1 }
+			}
+			division = {
+				is_reserve = yes
+				name = "222nd Airmobile Brigade"
+				location = 5704
+				regiment = { type = air_cavalry_brigade name = "5th Airmobile Battalion" historical_model = 0 }
+				regiment = { type = air_cavalry_brigade name = "6th Airmobile Battalion" historical_model = 0 }
+				regiment = { type = air_cavalry_brigade name = "7th Airmobile Battalion" historical_model = 0 }
+				regiment = { type = air_cavalry_brigade name = "56th Airmobile Battalion" historical_model = 0 }
+			}
+		}
+	}
+	armygroup = {
+		name = "Second Field Army"
+		location = 5612
+		regiment = { type = hq_brigade name = "Second Field Army HQ" historical_model = 1 }
+		army = {
+			name = "1st Corps"
+			location = 5563
+			regiment = { type = hq_brigade name = "1st Corps HQ" historical_model = 1 }
+			corps = {
+				name = "2nd Armoured Division"
+				location = 5563
+				regiment = { type = hq_brigade name = "2nd Armoured Division HQ" historical_model = 1 }
+				division = {
+					is_reserve = yes
+					name = "312th Armoured Brigade"
+					location = 5563
+					regiment = { type = armor_brigade name = "1st Armoured Battalion" historical_model = 0 }
+					regiment = { type = armor_brigade name = "2nd Mechanized Battalion" historical_model = 0 }
+					regiment = { type = armor_brigade name = "3rd Mechanized Battalion" historical_model = 0 }
+					regiment = { type = mechanized_brigade name = "1st Mechanized Battalion" historical_model = 1 }
+					regiment = { type = sp_artillery_brigade name = "102nd S/P Artillery Brigade" historical_model = 0 }
+				} 
+				division = {
+					is_reserve = yes
+					name = "314th Armoured Brigade"
+					location = 5563
+					regiment = { type = armor_brigade name = "4th Armoured Battalion" historical_model = 0 }
+					regiment = { type = armor_brigade name = "5th Mechanized Battalion" historical_model = 0 }
+					regiment = { type = armor_brigade name = "6th Mechanized Battalion" historical_model = 0 }
+					regiment = { type = mechanized_brigade name = "2nd Mechanized Battalion" historical_model = 1 }
+				}
+				division = {
+					is_reserve = yes
+					name = "512th Mechanized Brigade"
+					location = 5563
+					regiment = { type = armor_brigade name = "25th Armoured Battalion" historical_model = 0 }
+					regiment = { type = mechanized_brigade name = "13th Mechanized Battalion" historical_model = 1 }
+					regiment = { type = mechanized_brigade name = "14th Mechanized Battalion" historical_model = 1 }
+				}
+			}
+			corps = {
+				name = "7th Mechanized Division"
+				location = 5563
+				regiment = { type = hq_brigade name = "7th Mechanized Division HQ" historical_model = 1 }
+				division = {
+					is_reserve = yes
+					name = "716th Mechanized Brigade"
+					location = 5563
+					regiment = { type = armor_brigade name = "34th Armoured Battalion" historical_model = 0 }
+					regiment = { type = mechanized_brigade name = "119th Mechanized Battalion" historical_model = 1 }
+					regiment = { type = mechanized_brigade name = "120th Mechanized Battalion" historical_model = 1 }
+					regiment = { type = sp_artillery_brigade name = "103rd S/P Artillery Brigade" historical_model = 0 }
+				}
+				division = {
+					is_reserve = yes
+					name = "717th Mechanized Brigade"
+					location = 5563
+					regiment = { type = armor_brigade name = "35th Armoured Battalion" historical_model = 0 }
+					regiment = { type = mechanized_brigade name = "121st Mechanized Battalion" historical_model = 1 }
+					regiment = { type = mechanized_brigade name = "122nd Mechanized Battalion" historical_model = 1 }
+				}
+				division = {
+					is_reserve = yes
+					name = "12th Armoured Brigade"
+					location = 5563
+					regiment = { type = armor_brigade name = "71st Armoured Battalion" historical_model = 0 }
+					regiment = { type = armor_brigade name = "72nd Mechanized Battalion" historical_model = 0 }
+					regiment = { type = armor_brigade name = "73rd Mechanized Battalion" historical_model = 0 }
+					regiment = { type = mechanized_brigade name = "43rd Mechanized Battalion" historical_model = 1 }
+				}
+			}
+			division = {
+				is_reserve = yes
+				name = "412th Paratroops Brigade"
+				location = 5563
+				regiment = { type = paratrooper_brigade name = "224th Paratroops Battalion" historical_model = 1 }
+				regiment = { type = paratrooper_brigade name = "225th Paratroops Battalion" historical_model = 1 }
+				regiment = { type = paratrooper_brigade name = "226th Paratroops Battalion" historical_model = 1 }
+				regiment = { type = paratrooper_brigade name = "176th Paratroops Battalion" historical_model = 1 }
+			}
+			division = {
+				is_reserve = yes
+				name = "117th Special Forces Regiment"
+				location = 5563
+				regiment = { type = special_forces_brigade name = "236th Commandos Battalion" historical_model = 1 }
+				regiment = { type = special_forces_brigade name = "237th Commandos Battalion" historical_model = 1 }
+				regiment = { type = special_forces_brigade name = "238th Commandos Battalion" historical_model = 1 }
+			}
+		}
+		army = {
+			name = "2nd Corps"
+			location = 5612
+			regiment = { type = hq_brigade name = "2nd Corps HQ" historical_model = 1 }
+			corps = {
+				name = "4th Armoured Division"
+				location = 5612
+				regiment = { type = hq_brigade name = "4th Armoured Division HQ" historical_model = 1 }
+				division = {
+					is_reserve = yes
+					name = "315th Armoured Brigade"
+					location = 5612
+					regiment = { type = armor_brigade name = "7th Armoured Battalion" historical_model = 0 }
+					regiment = { type = armor_brigade name = "8th Mechanized Battalion" historical_model = 0 }
+					regiment = { type = armor_brigade name = "9th Mechanized Battalion" historical_model = 0 }
+					regiment = { type = mechanized_brigade name = "3rd Mechanized Battalion" historical_model = 1 }
+					regiment = { type = sp_artillery_brigade name = "103rd S/P Artillery Brigade" historical_model = 0 }
+				} 
+				division = {
+					is_reserve = yes
+					name = "316th Armoured Brigade"
+					location = 5612
+					regiment = { type = armor_brigade name = "10th Armoured Battalion" historical_model = 0 }
+					regiment = { type = armor_brigade name = "11th Mechanized Battalion" historical_model = 0 }
+					regiment = { type = armor_brigade name = "12th Mechanized Battalion" historical_model = 0 }
+					regiment = { type = mechanized_brigade name = "4th Mechanized Battalion" historical_model = 1 }
+				}
+				division = {
+					is_reserve = yes
+					name = "513th Mechanized Brigade"
+					location = 5612
+					regiment = { type = armor_brigade name = "26th Armoured Battalion" historical_model = 0 }
+					regiment = { type = mechanized_brigade name = "15th Mechanized Battalion" historical_model = 1 }
+					regiment = { type = mechanized_brigade name = "16th Mechanized Battalion" historical_model = 1 }
+				}
+			}
+			corps = {
+				name = "17th Mechanized Division"
+				location = 5612
+				regiment = { type = hq_brigade name = "17th Mechanized Division HQ" historical_model = 1 }
+				division = {
+					is_reserve = yes
+					name = "718th Mechanized Brigade"
+					location = 5612
+					regiment = { type = armor_brigade name = "36th Armoured Battalion" historical_model = 0 }
+					regiment = { type = mechanized_brigade name = "123rd Mechanized Battalion" historical_model = 1 }
+					regiment = { type = mechanized_brigade name = "124th Mechanized Battalion" historical_model = 1 }
+					regiment = { type = sp_artillery_brigade name = "104th S/P Artillery Brigade" historical_model = 0 }
+				}
+				division = {
+					is_reserve = yes
+					name = "719th Mechanized Brigade"
+					location = 5612
+					regiment = { type = armor_brigade name = "37th Armoured Battalion" historical_model = 0 }
+					regiment = { type = mechanized_brigade name = "125th Mechanized Battalion" historical_model = 1 }
+					regiment = { type = mechanized_brigade name = "126th Mechanized Battalion" historical_model = 1 }
+				}
+				division = {
+					is_reserve = yes
+					name = "13th Armoured Brigade"
+					location = 5612
+					regiment = { type = armor_brigade name = "74th Armoured Battalion" historical_model = 0 }
+					regiment = { type = armor_brigade name = "75th Mechanized Battalion" historical_model = 0 }
+					regiment = { type = armor_brigade name = "76th Mechanized Battalion" historical_model = 0 }
+					regiment = { type = mechanized_brigade name = "44th Mechanized Battalion" historical_model = 1 }
+				}
+			}
+			division = {
+				is_reserve = yes
+				name = "123rd Special Forces Regiment"
+				location = 5563
+				regiment = { type = special_forces_brigade name = "239th Commandos Battalion" historical_model = 1 }
+				regiment = { type = special_forces_brigade name = "240th Commandos Battalion" historical_model = 1 }
+				regiment = { type = special_forces_brigade name = "241st Commandos Battalion" historical_model = 1 }
+			}
+		}
+		army = {
+			name = "3rd Corps"
+			location = 5588
+			regiment = { type = hq_brigade name = "3rd Corps HQ" historical_model = 1 }
+			corps = {
+				name = "7th Armoured Division"
+				location = 5588
+				regiment = { type = hq_brigade name = "7th Armoured Division HQ" historical_model = 1 }
+				division = {
+					is_reserve = yes
+					name = "317th Armoured Brigade"
+					location = 5588
+					regiment = { type = armor_brigade name = "14th Armoured Battalion" historical_model = 0 }
+					regiment = { type = armor_brigade name = "15th Mechanized Battalion" historical_model = 0 }
+					regiment = { type = armor_brigade name = "16th Mechanized Battalion" historical_model = 0 }
+					regiment = { type = mechanized_brigade name = "5th Mechanized Battalion" historical_model = 1 }
+					regiment = { type = sp_artillery_brigade name = "104th S/P Artillery Brigade" historical_model = 0 }
+				} 
+				division = {
+					is_reserve = yes
+					name = "318th Armoured Brigade"
+					location = 5588
+					regiment = { type = armor_brigade name = "17th Armoured Battalion" historical_model = 0 }
+					regiment = { type = armor_brigade name = "18th Mechanized Battalion" historical_model = 0 }
+					regiment = { type = armor_brigade name = "19th Mechanized Battalion" historical_model = 0 }
+					regiment = { type = mechanized_brigade name = "6th Mechanized Battalion" historical_model = 1 }
+				}
+				division = {
+					is_reserve = yes
+					name = "514th Mechanized Brigade"
+					location = 5588
+					regiment = { type = armor_brigade name = "27th Armoured Battalion" historical_model = 0 }
+					regiment = { type = mechanized_brigade name = "17th Mechanized Battalion" historical_model = 1 }
+					regiment = { type = mechanized_brigade name = "18th Mechanized Battalion" historical_model = 1 }
+				}
+			}
+			corps = {
+				name = "19th Mechanized Division"
+				location = 5588
+				regiment = { type = hq_brigade name = "19th Mechanized Division HQ" historical_model = 1 }
+				division = {
+					is_reserve = yes
+					name = "720th Mechanized Brigade"
+					location = 5588
+					regiment = { type = armor_brigade name = "38th Armoured Battalion" historical_model = 0 }
+					regiment = { type = mechanized_brigade name = "127th Mechanized Battalion" historical_model = 1 }
+					regiment = { type = mechanized_brigade name = "128th Mechanized Battalion" historical_model = 1 }
+					regiment = { type = sp_artillery_brigade name = "105th S/P Artillery Brigade" historical_model = 0 }
+				}
+				division = {
+					is_reserve = yes
+					name = "721st Mechanized Brigade"
+					location = 5588
+					regiment = { type = armor_brigade name = "39th Armoured Battalion" historical_model = 0 }
+					regiment = { type = mechanized_brigade name = "129th Mechanized Battalion" historical_model = 1 }
+					regiment = { type = mechanized_brigade name = "130th Mechanized Battalion" historical_model = 1 }
+				}
+				division = {
+					is_reserve = yes
+					name = "14th Armoured Brigade"
+					location = 5588
+					regiment = { type = armor_brigade name = "77th Armoured Battalion" historical_model = 0 }
+					regiment = { type = armor_brigade name = "78th Mechanized Battalion" historical_model = 0 }
+					regiment = { type = armor_brigade name = "79th Mechanized Battalion" historical_model = 0 }
+					regiment = { type = mechanized_brigade name = "45th Mechanized Battalion" historical_model = 1 }
+				}
+			}
+			division = {
+				is_reserve = yes
+				name = "219th Independent Infantry Brigade"
+				location = 5588
+				regiment = { type = infantry_brigade name = "714th Infantry Battalion" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "715th Infantry Battalion" historical_model = 1 }
+				regiment = { type = mechanized_brigade name = "102nd Mechanized Battalion" historical_model = 1 }
+				regiment = { type = mechanized_brigade name = "103rd Mechanized Battalion" historical_model = 1 }
+				regiment = { type = armor_brigade name = "18th Armor Battalion" historical_model = 0 }
+			}
+			division = {
+				is_reserve = yes
+				name = "153rd Special Forces Regiment"
+				location = 5588
+				regiment = { type = special_forces_brigade name = "242nd Commandos Battalion" historical_model = 1 }
+				regiment = { type = special_forces_brigade name = "243rd Commandos Battalion" historical_model = 1 }
+				regiment = { type = special_forces_brigade name = "244th Commandos Battalion" historical_model = 1 }
+			}
+		}
+	}
+	armygroup = {
+		name = "Third Field Army"
+		location = 5644
+		regiment = { type = hq_brigade name = "Third Field Army HQ" historical_model = 1 }
+		army = {
+			name = "1st Corps"
+			location = 5630
+			regiment = { type = hq_brigade name = "1st Corps HQ" historical_model = 1 }
+			corps = {
+				name = "9th Armoured Division"
+				location = 5630
+				regiment = { type = hq_brigade name = "9th Armoured Division HQ" historical_model = 1 }
+				division = {
+					is_reserve = yes
+					name = "319th Armoured Brigade"
+					location = 5630
+					regiment = { type = armor_brigade name = "20th Armoured Battalion" historical_model = 0 }
+					regiment = { type = armor_brigade name = "21st Mechanized Battalion" historical_model = 0 }
+					regiment = { type = armor_brigade name = "22nd Mechanized Battalion" historical_model = 0 }
+					regiment = { type = mechanized_brigade name = "7th Mechanized Battalion" historical_model = 1 }
+					regiment = { type = sp_artillery_brigade name = "105th S/P Artillery Brigade" historical_model = 0 }
+				} 
+				division = {
+					is_reserve = yes
+					name = "320th Armoured Brigade"
+					location = 5630
+					regiment = { type = armor_brigade name = "23rd Armoured Battalion" historical_model = 0 }
+					regiment = { type = armor_brigade name = "24th Mechanized Battalion" historical_model = 0 }
+					regiment = { type = armor_brigade name = "25th Mechanized Battalion" historical_model = 0 }
+					regiment = { type = mechanized_brigade name = "8th Mechanized Battalion" historical_model = 1 }
+				}
+				division = {
+					is_reserve = yes
+					name = "515th Mechanized Brigade"
+					location = 5630
+					regiment = { type = armor_brigade name = "28th Armoured Battalion" historical_model = 0 }
+					regiment = { type = mechanized_brigade name = "19th Mechanized Battalion" historical_model = 1 }
+					regiment = { type = mechanized_brigade name = "20th Mechanized Battalion" historical_model = 1 }
+				}
+			}
+			corps = {
+				name = "23rd Mechanized Division"
+				location = 5630
+				regiment = { type = hq_brigade name = "23rd Mechanized Division HQ" historical_model = 1 }
+				division = {
+					is_reserve = yes
+					name = "722nd Mechanized Brigade"
+					location = 5630
+					regiment = { type = armor_brigade name = "40th Armoured Battalion" historical_model = 0 }
+					regiment = { type = mechanized_brigade name = "131st Mechanized Battalion" historical_model = 1 }
+					regiment = { type = mechanized_brigade name = "132nd Mechanized Battalion" historical_model = 1 }
+					regiment = { type = sp_artillery_brigade name = "106th S/P Artillery Brigade" historical_model = 0 }
+				}
+				division = {
+					is_reserve = yes
+					name = "723rd Mechanized Brigade"
+					location = 5630
+					regiment = { type = armor_brigade name = "41st Armoured Battalion" historical_model = 0 }
+					regiment = { type = mechanized_brigade name = "133rd Mechanized Battalion" historical_model = 1 }
+					regiment = { type = mechanized_brigade name = "134th Mechanized Battalion" historical_model = 1 }
+				}
+				division = {
+					is_reserve = yes
+					name = "15th Armoured Brigade"
+					location = 5630
+					regiment = { type = armor_brigade name = "80th Armoured Battalion" historical_model = 0 }
+					regiment = { type = armor_brigade name = "81st Mechanized Battalion" historical_model = 0 }
+					regiment = { type = armor_brigade name = "82nd Mechanized Battalion" historical_model = 0 }
+					regiment = { type = mechanized_brigade name = "46th Mechanized Battalion" historical_model = 1 }
+				}
+			}
+			division = {
+				is_reserve = yes
+				name = "94th Independent Mechanized Brigade"
+				location = 5630
+				regiment = { type = armor_brigade name = "97th Armoured Battalion" historical_model = 0 }
+				regiment = { type = mechanized_brigade name = "36th Mechanized Battalion" historical_model = 1 }
+				regiment = { type = mechanized_brigade name = "37th Mechanized Battalion" historical_model = 1 }
+				regiment = { type = mechanized_brigade name = "38th Mechanized Battalion" historical_model = 1 }
+			}
+			division = {
+				is_reserve = yes
+				name = "224th Airmobile Brigade"
+				location = 5630
+				regiment = { type = air_cavalry_brigade name = "8th Airmobile Battalion" historical_model = 0 }
+				regiment = { type = air_cavalry_brigade name = "9th Airmobile Battalion" historical_model = 0 }
+				regiment = { type = air_cavalry_brigade name = "10th Airmobile Battalion" historical_model = 0 }
+				regiment = { type = air_cavalry_brigade name = "57th Airmobile Battalion" historical_model = 0 }
+			}
+			division = {
+				is_reserve = yes
+				name = "159th Special Forces Regiment"
+				location = 5630
+				regiment = { type = special_forces_brigade name = "245th Commandos Battalion" historical_model = 1 }
+				regiment = { type = special_forces_brigade name = "246th Commandos Battalion" historical_model = 1 }
+				regiment = { type = special_forces_brigade name = "247th Commandos Battalion" historical_model = 1 }
+			}
+		}
+		army = {
+			name = "2nd Corps"
+			location = 5644
+			regiment = { type = hq_brigade name = "2nd Corps HQ" historical_model = 1 }
+			corps = {
+				name = "36th Mechanized Division"
+				location = 5644
+				regiment = { type = hq_brigade name = "36th Mechanized Division HQ" historical_model = 1 }
+				division = {
+					is_reserve = yes
+					name = "724th Mechanized Brigade"
+					location = 5644
+					regiment = { type = armor_brigade name = "42nd Armoured Battalion" historical_model = 0 }
+					regiment = { type = mechanized_brigade name = "135th Mechanized Battalion" historical_model = 1 }
+					regiment = { type = mechanized_brigade name = "136th Mechanized Battalion" historical_model = 1 }
+					regiment = { type = sp_artillery_brigade name = "107th S/P Artillery Brigade" historical_model = 0 }
+				}
+				division = {
+					is_reserve = yes
+					name = "725th Mechanized Brigade"
+					location = 5644
+					regiment = { type = armor_brigade name = "43rd Armoured Battalion" historical_model = 0 }
+					regiment = { type = mechanized_brigade name = "137th Mechanized Battalion" historical_model = 1 }
+					regiment = { type = mechanized_brigade name = "138th Mechanized Battalion" historical_model = 1 }
+				}
+				division = {
+					is_reserve = yes
+					name = "16th Armoured Brigade"
+					location = 5644
+					regiment = { type = armor_brigade name = "83rd Armoured Battalion" historical_model = 0 }
+					regiment = { type = armor_brigade name = "84th Mechanized Battalion" historical_model = 0 }
+					regiment = { type = armor_brigade name = "85th Mechanized Battalion" historical_model = 0 }
+					regiment = { type = mechanized_brigade name = "47th Mechanized Battalion" historical_model = 1 }
+				}
+			}
+			division = {
+				is_reserve = yes
+				name = "44th Independent Armoured Brigade"
+				location = 5704
+				regiment = { type = armor_brigade name = "83rd Armoured Battalion" historical_model = 0 }
+				regiment = { type = armor_brigade name = "84th Mechanized Battalion" historical_model = 0 }
+				regiment = { type = armor_brigade name = "85th Mechanized Battalion" historical_model = 0 }
+				regiment = { type = mechanized_brigade name = "93rd Mechanized Battalion" historical_model = 1 }
+			}
+			division = {
+				is_reserve = yes
+				name = "141st Special Forces Regiment"
+				location = 5630
+				regiment = { type = special_forces_brigade name = "515th Marine Commandos Battalion" historical_model = 1 }
+				regiment = { type = special_forces_brigade name = "616th Marine Commandos Battalion" historical_model = 1 }
+				regiment = { type = special_forces_brigade name = "818th Marine Commandos Battalion" historical_model = 1 }
+			}
+		}
+		army = {
+			name = "3rd Corps"
+			location = 5688
+			regiment = { type = hq_brigade name = "3rd Corps HQ" historical_model = 1 }
+			corps = {
+				name = "16th Mechanized Division"
+				location = 5688
+				regiment = { type = hq_brigade name = "16th Mechanized Division HQ" historical_model = 1 }
+				division = {
+					is_reserve = yes
+					name = "726th Mechanized Brigade"
+					location = 5688
+					regiment = { type = armor_brigade name = "44th Armoured Battalion" historical_model = 0 }
+					regiment = { type = mechanized_brigade name = "139th Mechanized Battalion" historical_model = 1 }
+					regiment = { type = mechanized_brigade name = "140th Mechanized Battalion" historical_model = 1 }
+					regiment = { type = sp_artillery_brigade name = "108th S/P Artillery Brigade" historical_model = 0 }
+				}
+				division = {
+					is_reserve = yes
+					name = "727th Mechanized Brigade"
+					location = 5688
+					regiment = { type = armor_brigade name = "45th Armoured Battalion" historical_model = 0 }
+					regiment = { type = mechanized_brigade name = "141st Mechanized Battalion" historical_model = 1 }
+					regiment = { type = mechanized_brigade name = "142nd Mechanized Battalion" historical_model = 1 }
+				}
+				division = {
+					is_reserve = yes
+					name = "17th Armoured Brigade"
+					location = 5688
+					regiment = { type = armor_brigade name = "86th Armoured Battalion" historical_model = 0 }
+					regiment = { type = armor_brigade name = "87th Mechanized Battalion" historical_model = 0 }
+					regiment = { type = armor_brigade name = "88th Mechanized Battalion" historical_model = 0 }
+					regiment = { type = mechanized_brigade name = "48th Mechanized Battalion" historical_model = 1 }
+				}
+			}
+			division = {
+				is_reserve = yes
+				name = "82nd Independent Armoured Brigade"
+				location = 5688
+				regiment = { type = armor_brigade name = "86th Armoured Battalion" historical_model = 0 }
+				regiment = { type = armor_brigade name = "87th Mechanized Battalion" historical_model = 0 }
+				regiment = { type = armor_brigade name = "88th Mechanized Battalion" historical_model = 0 }
+				regiment = { type = mechanized_brigade name = "94th Mechanized Battalion" historical_model = 1 }
+			}
+			division = {
+				is_reserve = yes
+				name = "110th Independent Mechanized Brigade"
+				location = 5688
+				regiment = { type = armor_brigade name = "98th Armoured Battalion" historical_model = 0 }
+				regiment = { type = mechanized_brigade name = "39th Mechanized Battalion" historical_model = 1 }
+				regiment = { type = mechanized_brigade name = "40th Mechanized Battalion" historical_model = 1 }
+				regiment = { type = mechanized_brigade name = "41st Mechanized Battalion" historical_model = 1 }
+			}
+			division = {
+				is_reserve = yes
+				name = "111th Independent Mechanized Brigade"
+				location = 5688
+				regiment = { type = armor_brigade name = "99th Armoured Battalion" historical_model = 0 }
+				regiment = { type = mechanized_brigade name = "42nd Mechanized Battalion" historical_model = 1 }
+				regiment = { type = mechanized_brigade name = "43rd Mechanized Battalion" historical_model = 1 }
+				regiment = { type = mechanized_brigade name = "44th Mechanized Battalion" historical_model = 1 }
+			}
+		}
+	}
+	
+	air = {
+	name = "111 FGA Brigade"
+	base = 5559
+	location = 5559
+	wing = { type = interceptor name = "63 Squadron" historical_model = 0 }
+	wing = { type = interceptor name = "65 Squadron" historical_model = 0 }
+	wing = { type = cas name = "75 Squadron" historical_model = 0 }
+	}
+	
+	air = {
+	name = "104 Fighter Brigade"
+	base = 5611
+	location = 5611
+	wing = { type = interceptor name = "45 Squadron" historical_model = 0 }
+	wing = { type = interceptor name = "49 Squadron" historical_model = 0 }
+	}
+	
+	air = {
+	name = "222 Tact Fighter Brigade"
+	base = 5611
+	location = 5611
+	wing = { type = interceptor name = "76 Squadron" historical_model = 0 }
+	}
+	
+	air = {
+	name = "272 Tact Fighter Brigade"
+	base = 5611
+	location = 5611
+	wing = { type = multi_role name = "75 Squadron" historical_model = 0 }
+	wing = { type = multi_role name = "77 Squadron" historical_model = 0 }
+	}
+	
+	air = {
+	name = "Recon Brigade"
+	base = 5611
+	location = 5611
+	wing = { type = cas name = "69 Squadron" historical_model = 0 }
+	}
+	
+	air = {
+	name = "232 Tact Fighter Brigade"
+	base = 5611
+	location = 5611
+	wing = { type = multi_role name = "72 Squadron" historical_model = 0 }
+	wing = { type = multi_role name = "74 Squadron" historical_model = 0 }
+	} 
+	
+	air = {
+	name = "242 Tact Fighter Brigade"
+	base = 5611
+	location = 5611
+	wing = { type = multi_role name = "68 Squadron" historical_model = 0 }
+	wing = { type = multi_role name = "70 Squadron" historical_model = 0 }
+	} 
+	
+	air = {
+	name = "252 Tact Fighter Brigade"
+	base = 5611
+	location = 5611
+	wing = { type = multi_role name = "82 Squadron" historical_model = 0 }
+	} 
+	
+	air = {
+	name = "262 Tact Fighter Brigade"
+	base = 5611
+	location = 5611
+	wing = { type = multi_role name = "60 Squadron" historical_model = 0 }
+	wing = { type = multi_role name = "64 Squadron" historical_model = 0 }
+	} 
+	
+	air = {
+	name = "516 Transport Brigade"
+	base = 5611
+	location = 5611
+	wing = { type = transport_plane name = "4 Squadron" historical_model = 0 }
+	wing = { type = transport_plane name = "16 Squadron" historical_model = 0 }
+	wing = { type = transport_plane name = "2 Squadron" historical_model = 0 }
+	}
+	
+	navy = {
+	name = "Egyptian Navy"
+	base = 5586
+	location = 5586
+	ship = { type = patrol_boat name = "October I" historical_model = 0 }
+	ship = { type = patrol_boat name = "October II" historical_model = 0 }
+	ship = { type = light_cruiser name = "El Suez" historical_model = 0 }
+	ship = { type = light_cruiser name = "Aboukir" historical_model = 0 }
+	ship = { type = patrol_boat name = "Al Hadi" historical_model = 0 }
+	ship = { type = patrol_boat name = "Al Gatar" historical_model = 0 }
+	ship = { type = patrol_boat name = "Al Saddam" historical_model = 0 }
+	ship = { type = patrol_boat name = "Al Salam" historical_model = 0 }
+	ship = { type = heavy_cruiser name = "Najim al Zafir" historical_model = 0 }
+	ship = { type = heavy_cruiser name = "Al Nasser" historical_model = 0 }
+	ship = { type = heavy_cruiser name = "Domyat" historical_model = 0 }
+	ship = { type = heavy_cruiser name = "Rasheed" historical_model = 0 }
+	ship = { type = heavy_cruiser name = "Alexandria" historical_model = 0 }
+	ship = { type = heavy_cruiser name = "Taba" historical_model = 0 }
+	ship = { type = heavy_cruiser name = "Toushka" historical_model = 0 }
+	ship = { type = heavy_cruiser name = "Sharm El-Sheikh" historical_model = 0 }
+	ship = { type = assault_ship name = "Polnocny I" historical_model = 0 }
+	ship = { type = assault_ship name = "Polnocny II" historical_model = 0 }
+	ship = { type = assault_ship name = "Polnocny III" historical_model = 0 }
+	ship = { type = patrol_boat name = "Ramadan" historical_model = 0 }
+	ship = { type = patrol_boat name = "Khybar" historical_model = 0 }
+	ship = { type = patrol_boat name = "El Kadesseya" historical_model = 0 }
+	ship = { type = patrol_boat name = "El yarmouk" historical_model = 0 }
+	ship = { type = patrol_boat name = "Badr" historical_model = 0 }
+	ship = { type = patrol_boat name = "Hetteen" historical_model = 0 }
+	ship = { type = submarine name = "831" historical_model = 0 }
+	ship = { type = submarine name = "842" historical_model = 0 }
+	ship = { type = submarine name = "852" historical_model = 0 }
+	ship = { type = submarine name = "858" historical_model = 0 }
+	ship = { type = patrol_boat name = "Tiger I" historical_model = 0 }
+	ship = { type = patrol_boat name = "Tiger II" historical_model = 0 }
+	ship = { type = patrol_boat name = "Tiger III" historical_model = 0 }
+	ship = { type = patrol_boat name = "Tiger IV" historical_model = 0 }
+	ship = { type = patrol_boat name = "Tiger V" historical_model = 0 }
+	}
+}
+	

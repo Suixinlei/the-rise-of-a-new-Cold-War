@@ -1,0 +1,11 @@
+theatre = {
+	name = "People's Revolutionary Armed Forces"
+	location = 10631
+	regiment = { type = hq_brigade name = "People's Revolutionary Armed Forces HQ" historical_model = 1 }
+	division = {
+		is_reserve = yes
+		name = "National Guard"
+		location = 10631
+		regiment = { type = garrison_brigade name = "National Guard" historical_model = 1 }
+	}
+}

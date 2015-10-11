@@ -1,0 +1,253 @@
+color = { 63  35  108 }
+graphical_culture = Generic
+last_election = 2001.12.5
+duration = 48
+
+default_templates = {
+	generic_infantry = {
+		infantry_brigade
+		infantry_brigade
+		infantry_brigade
+	}
+	generic_milita = {
+		militia_brigade
+		militia_brigade
+		militia_brigade
+	}
+}
+
+
+
+
+ministers = {
+	71501 = {
+		name = "John Lapli"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M71501
+		head_of_state = biased_intellectual
+		start_date = 2000.1.1
+	}
+	71502 = {
+		name = "Nathaniel Waena"
+		ideology = social_liberal
+		loyalty = 1.00
+		picture = M71502
+		head_of_state = iron_fisted_brute
+		start_date = 2000.1.1
+	}
+	71503 = {
+		name = "Frank Kabui"
+		ideology = market_liberal
+		loyalty = 1.00
+		picture = M71503
+		head_of_state = political_specialist
+		start_date = 2000.1.1
+	}
+	71504 = {
+		name = "Allan Kemakeza"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M71504
+		head_of_government = planning_representative
+		start_date = 2000.1.1
+	}
+	71505 = {
+		name = "Snyder Rini"
+		ideology = market_liberal
+		loyalty = 1.00
+		picture = M71505
+		head_of_government = technical_specialist
+		start_date = 2000.1.1
+	}
+	71506 = {
+		name = "Manasseh Sogavare"
+		ideology = left_wing_radical
+		loyalty = 1.00
+		picture = M71506
+		head_of_government = anti_imperialist
+		start_date = 2000.1.1
+	}
+	71507 = {
+		name = "Derek Sikua"
+		ideology = social_liberal
+		loyalty = 1.00
+		picture = M71507
+		head_of_government = technical_specialist
+		start_date = 2000.1.1
+	}
+	71508 = {
+		name = "Danny Philip"
+		ideology = paternal_autocrat
+		loyalty = 1.00
+		picture = M71508
+		head_of_government = advertising_figure
+		start_date = 2000.1.1
+	}
+	71509 = {
+		name = "Gordon Darcy Lilo"
+		ideology = market_liberal
+		loyalty = 1.00
+		picture = M71509
+		head_of_government = talented_liar
+		start_date = 2011.1.1
+	}
+	71510 = {
+		name = "Laurie Chan"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M71510
+		foreign_minister = popular_figurehead
+		start_date = 2000.1.1
+	}
+	71511 = {
+		name = "Patteson Oti"
+		ideology = paternal_autocrat
+		loyalty = 1.00
+		picture = M71511
+		foreign_minister = scandalous
+		start_date = 2000.1.1
+	}
+	71512 = {
+		name = "William Haomae"
+		ideology = social_liberal
+		loyalty = 1.00
+		picture = M71512
+		foreign_minister = iron_fisted_brute
+		armament_minister = battle_fleet_proponent
+		start_date = 2000.1.1
+	}
+	71513 = {
+		name = "Peter Shannel Agovaka"
+		ideology = market_liberal
+		loyalty = 1.00
+		picture = M71513
+		foreign_minister = political_protege
+		start_date = 2000.1.1
+	}
+	71514 = {
+		name = "Manasseh Maelanga"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M71514
+		minister_of_security = corrupt_kleptocrat
+		start_date = 2000.1.1
+	}
+	71515 = {
+		name = "Simeon Bouro"
+		ideology = market_liberal
+		loyalty = 1.00
+		picture = M71515
+		armament_minister = service_enforcer
+		start_date = 2000.1.1
+	}
+	71516 = {
+		name = "Samuel Manetoali"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M71516
+		armament_minister = logistics_specialist
+		start_date = 2000.1.1
+	}
+	71517 = {
+		name = "Clay Forau Soalaoi"
+		ideology = left_wing_radical
+		loyalty = 1.00
+		picture = M71517
+		armament_minister = man_of_the_people
+		start_date = 2000.1.1
+	}
+	71518 = {
+		name = "David Tome"
+		ideology = paternal_autocrat
+		loyalty = 1.00
+		picture = M71518
+		armament_minister = sympathetic
+		start_date = 2000.1.1
+	}
+	71519 = {
+		name = "Christopher Laore"
+		ideology = social_democrat
+		loyalty = 1.00
+		picture = M71519
+		armament_minister = armoured_spearhead_doctrine
+		start_date = 2000.1.1
+	}
+	71520 = {
+		name = "Francis Billy Hilly"
+		ideology = paternal_autocrat
+		loyalty = 1.00
+		picture = M71520
+		head_of_state = industrial_beast
+		start_date = 2000.1.1
+	}
+	71521 = {
+		name = "Tommy Chan"
+		ideology = market_liberal
+		loyalty = 1.00
+		picture = M71521
+		minister_of_security = crime_fighter
+		start_date = 2000.1.1
+	}
+	71522 = {
+		name = "Bill Morrell"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M71522
+		minister_of_intelligence = research_specialist
+		chief_of_staff = service_enforcer
+		chief_of_army = elastic_defence_doctrine
+		chief_of_navy = base_control_doctrine
+		chief_of_air = organisation_genius
+		start_date = 2000.1.1
+	}
+	71523 = {
+		name = "Shane Castles"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M71523
+		minister_of_intelligence = political_specialist
+		chief_of_staff = corrupt_kleptocrat
+		chief_of_army = school_of_mass_combat
+		chief_of_navy = power_projection_doctrine
+		chief_of_air = carpet_bombing_doctrine
+		start_date = 2005.1.1
+	}
+	71524 = {
+		name = "Mohammed Jahir Khan"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M71524
+		minister_of_intelligence = tempered_speaker
+		chief_of_staff = guns_and_butter_doctrine
+		chief_of_army = school_of_mass_combat
+		chief_of_navy = decisive_naval_battle_doctrine
+		chief_of_air = air_reformer
+		start_date = 2007.1.1
+	}
+	71525 = {
+		name = "Peter Marshall"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M71525
+		minister_of_intelligence = tempered_speaker
+		chief_of_staff = naval_intelligence_specialist
+		chief_of_army = static_defence_doctrine
+		chief_of_navy = base_control_doctrine
+		chief_of_air = death_from_above
+		start_date = 2008.1.1
+	}
+	71526 = {
+		name = "Walter Kola"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M71526
+		minister_of_intelligence = scandalous
+		chief_of_staff = military_custom_breaker
+		chief_of_army = school_of_mass_combat
+		chief_of_navy = old_admiral
+		chief_of_air = vertical_envelopment_doctrine
+		start_date = 2011.1.1
+	}
+	
+}

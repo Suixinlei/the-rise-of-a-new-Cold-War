@@ -1,0 +1,8 @@
+owner = ENG
+controller = ENG
+add_core = WAL
+add_core = ENG
+energy = 5.00
+infra = 6
+air_base = 1 #RAF Mona
+points = 1

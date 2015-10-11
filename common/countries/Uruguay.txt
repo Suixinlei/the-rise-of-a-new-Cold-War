@@ -1,0 +1,126 @@
+color = { 110  113  179 }
+graphical_culture = Generic
+last_election = 1999.10.13
+duration = 60
+
+default_templates = {
+	generic_infantry = {
+		infantry_brigade
+		infantry_brigade
+		infantry_brigade
+	}
+	generic_milita = {
+		militia_brigade
+		militia_brigade
+		militia_brigade
+	}
+	generic_armoured = {
+		armor_brigade
+		motorized_brigade
+		motorized_brigade
+	}
+	generic_cavalry = {
+		cavalry_brigade
+		cavalry_brigade
+	}
+}
+
+unit_names = {
+	infantry_brigade = {
+		"1a División de Infantería" "2a División de Infantería" "3a División de Infantería" "4a División de Inf. 'Don Claudio'" "5a División de Infantería" "6a División de Infantería" "7a División de Infantería" "8a División de Infantería" "9a División de Infantería" "10a División de Infantería" "11a División de Infantería" 
+		"12a División de Infantería" "13a División de Infantería" "14a División de Infantería" "15a División de Infantería" "16a División de Infantería" "17a División de Infantería" "18a División de Infantería" "19a División de Infantería" "20a División de Infantería" 
+	}
+	cavalry_brigade = {
+		"Caballería 'Gen. José Artigas'" "2a División de Caballería" "3a División de Caballería" "4a División de Caballería" "5a División de Caballería" "6a División de Caballería" "7a División de Caballería" "8a División de Caballería" "9a División de Caballería" "10a División de Caballería" 
+	}
+	motorized_brigade = {
+		"1a División Móvil" "2a División Móvil" "3a División Móvil" "4a División Móvil" "5a División Móvil" "6a División Móvil" "7a División Móvil" "8a División Móvil" "9a División Móvil" "10a División Móvil" "11a División Móvil" 
+		"12a División Móvil" "13a División Móvil" "14a División Móvil" "15a División Móvil" 
+	}
+	mechanized_brigade = {
+		"1a División Mecanizada" "2a División Mecanizada" "3a División Mecanizada" "4a División Mecanizada" "5a División Mecanizada" "6a División Mecanizada" "7a División Mecanizada" "8a División Mecanizada" "9a División Mecanizada" "10a División Mecanizada" "11a División Mecanizada" 
+		"12a División Mecanizada" "13a División Mecanizada" "14a División Mecanizada" "15a División Mecanizada" 
+	}
+	light_armor_brigade = {
+		"1a División Blindada de Uruguay" "2a División Blindada de Uruguay" "3a División Blindada de Uruguay" "4a División Blindada de Uruguay" "5a División Blindada de Uruguay" "6a División Blindada de Uruguay" "7a División Blindada de Uruguay" "8a División Blindada de Uruguay" "9a División Blindada de Uruguay" "10a División Blindada de Uruguay" "11a División Blindada de Uruguay" 
+		"12a División Blindada de Uruguay" "13a División Blindada de Uruguay" "14a División Blindada de Uruguay" "15a División Blindada de Uruguay" 
+	}
+	armor_brigade = {
+		"1a División Blindada de Uruguay" "2a División Blindada de Uruguay" "3a División Blindada de Uruguay" "4a División Blindada de Uruguay" "5a División Blindada de Uruguay" "6a División Blindada de Uruguay" "7a División Blindada de Uruguay" "8a División Blindada de Uruguay" "9a División Blindada de Uruguay" "10a División Blindada de Uruguay" "11a División Blindada de Uruguay" 
+		"12a División Blindada de Uruguay" "13a División Blindada de Uruguay" "14a División Blindada de Uruguay" "15a División Blindada de Uruguay" 
+	}
+	paratrooper_brigade = {
+		"1a División de Paracaidistas" "2a División de Paracaidistas" "3a División de Paracaidistas" "4a División de Paracaidistas" "5a División de Paracaidistas" "6a División de Paracaidistas" "7a División de Paracaidistas" "8a División de Paracaidistas" "9a División de Paracaidistas" "10a División de Paracaidistas" 
+	}
+	marine_brigade = {
+		"1a División de la Marina" "2a División de la Marina" "3a División de la Marina" "4a División de la Marina" "5a División de la Marina" "6a División de la Marina" "7a División de la Marina" "8a División de la Marina" "9a División de la Marina" "10a División de la Marina" 
+	}
+	bergsjaeger_brigade = {
+		"1a División de Montaña 'Los Orientales'" "2a División de Montaña" "3a División de Montaña" "4a División de Montaña" "5a División de Montaña" "6a División de Montaña" "7a División de Montaña" "8a División de Montaña" "9a División de Montaña" "10a División de Montaña" 
+	}
+	garrison_brigade = {
+		"2a División de Infantería" "3a División de Infantería" "4a División de Inf. 'Don Claudio'" "5a División de Infantería" "6a División de Infantería" "7a División de Infantería" "8a División de Infantería" "9a División de Infantería" "10a División de Infantería" "11a División de Infantería" "12a División de Infantería" 
+		"13a División de Infantería" "14a División de Infantería" "15a División de Infantería" "16a División de Infantería" "17a División de Infantería" "18a División de Infantería" "19a División de Infantería" "20a División de Infantería" 
+	}
+	hq_brigade = {
+		"Cuartel General 1er Ejército" "Cuartel General 2o Ejército" "Cuartel General 3er Ejército" "Cuartel General 4o Ejército" "Cuartel General 5o Ejército" "Cuartel General 6o Ejército" "Cuartel General 7o Ejército" "Cuartel General 8o Ejército" "Cuartel General 9o Ejército" "Cuartel General 10o Ejército" 
+	}
+	militia_brigade = {
+		"1a División de Policia Militár" "2a División de Policia Militár" "3a División de Policia Militár" "4a División de Policia Militár" "5a División de Policia Militár" "6a División de Policia Militár" "7a División de Policia Militár" "8a División de Policia Militár" "9a División de Policia Militár" "10a División de Policia Militár" "11a División de Policia Militár" 
+		"12a División de Policia Militár" "13a División de Policia Militár" "14a División de Policia Militár" "15a División de Policia Militár" "16a División de Policia Militár" "17a División de Policia Militár" "18a División de Policia Militár" "19a División de Policia Militár" "20a División de Policia Militár" 
+	}
+	multi_role = {
+		"1. Grupo Aéreo de Caza" "2. Grupo Aéreo de Caza" "3. Grupo Aéreo de Caza" "4. Grupo Aéreo de Caza" "5. Grupo Aéreo de Caza" "6. Grupo Aéreo de Caza" "7. Grupo Aéreo de Caza" "8. Grupo Aéreo de Caza" "9. Grupo Aéreo de Caza" "10. Grupo Aéreo de Caza" 
+	}
+	interceptor = {
+		"1. Grupo Aéreo de Caza" "2. Grupo Aéreo de Caza" "3. Grupo Aéreo de Caza" "4. Grupo Aéreo de Caza" "5. Grupo Aéreo de Caza" "6. Grupo Aéreo de Caza" "7. Grupo Aéreo de Caza" "8. Grupo Aéreo de Caza" "9. Grupo Aéreo de Caza" "10. Grupo Aéreo de Caza" 
+	}
+	strategic_bomber = {
+		"1. Grupo Aéreo Estratégico" "2. Grupo Aéreo Estratégico" "3. Grupo Aéreo Estratégico" "4. Grupo Aéreo Estratégico" "5. Grupo Aéreo Estratégico" "6. Grupo Aéreo Estratégico" "7. Grupo Aéreo Estratégico" "8. Grupo Aéreo Estratégico" "9. Grupo Aéreo Estratégico" "10. Grupo Aéreo Estratégico" 
+	}
+	tactical_bomber = {
+		"1. Grupo Aéreo Táctico" "2. Grupo Aéreo Táctico" "3. Grupo Aéreo Táctico" "4. Grupo Aéreo Táctico" "5. Grupo Aéreo Táctico" "6. Grupo Aéreo Táctico" "7. Grupo Aéreo Táctico" "8. Grupo Aéreo Táctico" "9. Grupo Aéreo Táctico" "10. Grupo Aéreo Táctico" 
+	}
+	naval_bomber = {
+		"1. Grupo Aéreo de la Marina" "2. Grupo Aéreo de la Marina" "3. Grupo Aéreo de la Marina" "4. Grupo Aéreo de la Marina" "5. Grupo Aéreo de la Marina" "6. Grupo Aéreo de la Marina" "7. Grupo Aéreo de la Marina" "8. Grupo Aéreo de la Marina" "9. Grupo Aéreo de la Marina" "10. Grupo Aéreo de la Marina" "1. Grupo Aéreo Torpedero" 
+		"2. Grupo Aéreo Torpedero" "3. Grupo Aéreo Torpedero" "4. Grupo Aéreo Torpedero" "5. Grupo Aéreo Torpedero" "6. Grupo Aéreo Torpedero" "7. Grupo Aéreo Torpedero" "8. Grupo Aéreo Torpedero" "9. Grupo Aéreo Torpedero" "10. Grupo Aéreo Torpedero" 
+	}
+	cas = {
+		"1. Grupo Aéreo de Asalto" "2. Grupo Aéreo de Asalto" "3. Grupo Aéreo de Asalto" "4. Grupo Aéreo de Asalto" "5. Grupo Aéreo de Asalto" "6. Grupo Aéreo de Asalto" "7. Grupo Aéreo de Asalto" "8. Grupo Aéreo de Asalto" "9. Grupo Aéreo de Asalto" "10. Grupo Aéreo de Asalto" 
+	}
+	transport_plane = {
+		"Lineas Orientales nro. 1" "Lineas Orientales nro. 2" "Lineas Orientales nro. 3" "Lineas Orientales nro. 4" "Lineas Orientales nro. 5" 
+	}
+	battleship = {
+		"ROU General Artigas" "ROU General Don Claudio" 
+	}
+	light_cruiser = {
+		"ROU Uruguay" "ROU Minas" "ROU Castillos" "ROU Piraraje" "ROU San Carlos" "ROU San José de Mayo" 
+	}
+	heavy_cruiser = {
+		"ROU Uruguay" "ROU Minas" "ROU Castillos" "ROU Piraraje" "ROU San Carlos" "ROU San José de Mayo" 
+	}
+	battlecruiser = {
+		"ROU General Artigas" "ROU General Don Claudio" 
+	}
+	destroyer = {
+		"Flotilla T1" "Flotilla T6" "Flotilla T11" "Flotilla T16" "Flotilla T21" "Flotilla T26" "Flotilla T31" "Flotilla T36" "Flotilla T41" "Flotilla T46" 
+	}
+	carrier = {
+		"ROU República Oriental" "ROU Montevideo" 
+	}
+	escort_carrier = {
+		"ROU Paysandu" "ROU Negro" "ROU Salto" 
+	}
+	submarine = {
+		"Flotilla S1" "Flotilla S6" "Flotilla S11" "Flotilla S16" "Flotilla S21" "Flotilla S26" "Flotilla S31" "Flotilla S36" "Flotilla S41" "Flotilla S46" 
+	}
+	transport_ship = {
+		"1. Transporte Naval" "2. Transporte Naval" "3. Transporte Naval" "4. Transporte Naval" "5. Transporte Naval" "6. Transporte Naval" "7. Transporte Naval" "8. Transporte Naval" "9. Transporte Naval" "10. Transporte Naval" 
+	}
+
+}
+
+ministers = {
+	
+}

@@ -1,0 +1,46 @@
+multi_role = {
+	type = air
+	active = no
+	sprite = Fighter
+
+	#Size Definitions
+	max_strength = 100
+	default_organisation = 30
+	default_morale = 0.30
+	officers = 0
+
+	#Building Costs
+	build_cost_ic = 11
+	build_cost_manpower = 0.30
+	build_time = 230
+	repair_cost_multiplier = 0.05
+
+	#Misc Abilities
+	maximum_speed = 850.00
+	transport_capability = 0.00
+	supply_consumption = 0.55
+	fuel_consumption = 3.11
+	range = 900.00
+	radio_strength = 1
+
+	#Detection Abilities
+	surface_detection = 2.00
+	air_detection = 2.00
+
+	#Defensive Abilities
+	surface_defence = 2.00
+	air_defence = 4.00
+
+	#Offensive Abilities
+	soft_attack = 2.50
+	hard_attack = 2.50
+	sea_attack = 0.50
+	air_attack = 2.50
+	strategic_attack = 0.00
+	sub_attack = 0.00
+
+	completion_size = 0.8
+	on_completion = single_engine_aircraft_practical
+	
+	priority = 10
+}

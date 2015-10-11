@@ -1,0 +1,49 @@
+theatre = {
+	name = "Armed Forces of Kyrgyzstan"
+	location = 8839
+	regiment = { type = hq_brigade name = "Armed Forces HQ" historical_model = 1 }
+	division = {
+		is_reserve = yes
+		name = "1st Motor Rifle Brigade"
+		location = 8976
+		regiment = { type = infantry_brigade name = "11th Motor Rifle Battalion" historical_model = 1 }
+		regiment = { type = infantry_brigade name = "12th Motor Rifle Battalion" historical_model = 1 }
+		regiment = { type = infantry_brigade name = "13th Motor Rifle Battalion" historical_model = 1 }
+	}
+	division = {
+		is_reserve = yes
+		name = "89th Motor Rifle Brigade"
+		location = 8861
+		regiment = { type = infantry_brigade name = "891st Motor Rifle Battalion" historical_model = 1 }
+		regiment = { type = infantry_brigade name = "892nd Motor Rifle Battalion" historical_model = 1 }
+		regiment = { type = infantry_brigade name = "893rd Motor Rifle Battalion" historical_model = 1 }
+	}
+	division = {
+		is_reserve = yes
+		name = "25th Special Forces Brigade"
+		location = 8839
+		regiment = { type = special_forces_brigade name = "251st Special Forces Battalion" historical_model = 1 }
+		regiment = { type = special_forces_brigade name = "252nd Special Forces Battalion" historical_model = 1 }
+		regiment = { type = special_forces_brigade name = "253rd Special Forces Battalion" historical_model = 1 }
+	}
+	division = {
+		is_reserve = yes
+		name = "67th Independent Battalion"
+		location = 8863
+		regiment = { type = infantry_brigade name = "67th Independent Battalion" historical_model = 1 }
+	}
+	division = {
+		is_reserve = yes
+		name = "83rd Independent Battalion"
+		location = 8927
+		regiment = { type = infantry_brigade name = "83rd Independent Battalion" historical_model = 1 }
+	}
+	division = {
+		is_reserve = yes
+		name = "35th Motor Rifle Brigade"
+		location = 8839
+		regiment = { type = infantry_brigade name = "351st Motor Rifle Battalion" historical_model = 1 }
+		regiment = { type = infantry_brigade name = "352nd Motor Rifle Battalion" historical_model = 1 }
+		regiment = { type = infantry_brigade name = "353rd Motor Rifle Battalion" historical_model = 1 }
+	}
+}

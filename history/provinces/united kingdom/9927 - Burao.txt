@@ -1,0 +1,6 @@
+owner = SOM
+controller = REB
+add_core = SOM
+
+infra = 4
+

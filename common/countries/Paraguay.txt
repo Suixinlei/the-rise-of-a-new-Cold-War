@@ -1,0 +1,117 @@
+color = { 208  200  224 }
+graphical_culture = Generic
+last_election = 1998.8.16
+duration = 60
+
+default_templates = {
+	generic_infantry = {
+		infantry_brigade
+		infantry_brigade
+		infantry_brigade
+	}
+	generic_milita = {
+		militia_brigade
+		militia_brigade
+		militia_brigade
+	}
+	generic_armoured = {
+		armor_brigade
+		motorized_brigade
+		motorized_brigade
+	}
+	generic_cavalry = {
+		cavalry_brigade
+		cavalry_brigade
+	}
+}
+
+unit_names = {
+	infantry_brigade = {
+		"I División de Infantería" "II División de Infantería" "III División de Infantería" "IV División de Infantería" "V División de Infantería" "VI División de Infantería" "VII División de Infantería" "VIII División de Infantería" "IX División de Infantería" "X División de Infantería" "XI División de Infantería" 
+		"XII División de Infantería" "XIII División de Infantería" "XIV División de Infantería" "XV División de Infantería" "XVI División de Infantería" "XVII División de Infantería" "XVIII División de Infantería" "XIX División de Infantería" "XX División de Infantería" 
+	}
+	cavalry_brigade = {
+		"XXI División de Caballería" "XXII División de Caballería" "XXIII División de Caballería" "XXIV División de Caballería" "XXV División de Caballería" 
+	}
+	motorized_brigade = {
+		"XXXI División Motorizada" "XXXII División Motorizada" "XXXIII División Motorizada" "XXXIV División Motorizada" "XXXV División Motorizada" "XXXVI División Motorizada" 
+	}
+	mechanized_brigade = {
+		"XLVI División Mecanizada" "XLVII División Mecanizada" "XLVIII División Mecanizada" "XLIX División Mecanizada" "L División Mecanizada" 
+	}
+	light_armor_brigade = {
+		"LXI División Acorazada" "LXII División Acorazada" "LXIII División Acorazada" "LXIV División Acorazada" "LXV División Acorazada" "LXVI División Acorazada" 
+	}
+	armor_brigade = {
+		"LXI División Acorazada" "LXII División Acorazada" "LXIII División Acorazada" "LXIV División Acorazada" "LXV División Acorazada" "LXVI División Acorazada" "LXVII División Acorazada" 
+	}
+	paratrooper_brigade = {
+		"LXVI División de Paracaidistas" "LXVII División de Paracaidistas" "LXVIII División de Paracaidistas" "LXIX División de Paracaidistas" 
+	}
+	marine_brigade = {
+		"LXXXVI División de Infantería Naval" "LXXXVII División de Infantería Naval" "LXXXVIII División de Infantería Naval" "LXXXIX División de Infantería Naval" "XC División de Infantería Naval" 
+	}
+	bergsjaeger_brigade = {
+		"XCVI División de Montaña 'Cchaco'" "XCVII División de Montaña" "XCVIII División de Montaña" 
+	}
+	garrison_brigade = {
+		"XIV División de Infantería" "XV División de Infantería" "XVI División de Infantería" "XVII División de Infantería" "XVIII División de Infantería" "XIX División de Infantería" "XX División de Infantería" 
+	}
+	hq_brigade = {
+		"Cuartel General 1er Ejército" "Cuartel General 2o Ejército" "Cuartel General 3er Ejército" "Cuartel General 4o Ejército" "Cuartel General 5o Ejército" "Cuartel General 6o Ejército" 
+	}
+	militia_brigade = {
+		"CVI División de Policia Nacional" "CVII División de Policia Nacional" "CVIII División de Policia Nacional" "CIX División de Policia Nacional" "CX División de Policia Nacional" "CXI División de Policia Nacional" "CXII División de Policia Nacional" "CXIII División de Policia Nacional" "CXIV División de Policia Nacional" "CXV División de Policia Nacional" "CXVI División de Policia Nacional" 
+		"CXVII División de Policia Nacional" 
+	}
+	multi_role = {
+		"1. Grupo Aéreo de Caza" "2. Grupo Aéreo de Caza" "3. Grupo Aéreo de Caza" "4. Grupo Aéreo de Caza" "5. Grupo Aéreo de Caza" 
+	}
+	interceptor = {
+		"1. Grupo Aéreo de Caza" "2. Grupo Aéreo de Caza" "3. Grupo Aéreo de Caza" "4. Grupo Aéreo de Caza" "5. Grupo Aéreo de Caza" 
+	}
+	strategic_bomber = {
+		"1. Grupo Aéreo Estratégico" "2. Grupo Aéreo Estratégico" "3. Grupo Aéreo Estratégico" "4. Grupo Aéreo Estratégico" "5. Grupo Aéreo Estratégico" 
+	}
+	tactical_bomber = {
+		"1. Grupo Aéreo Táctico" "2. Grupo Aéreo Táctico" "3. Grupo Aéreo Táctico" "4. Grupo Aéreo Táctico" "5. Grupo Aéreo Táctico" 
+	}
+	naval_bomber = {
+		"1. Grupo Aéreo de la Marina" "2. Grupo Aéreo de la Marina" "3. Grupo Aéreo de la Marina" "4. Grupo Aéreo de la Marina" "5. Grupo Aéreo de la Marina" "1. Grupo Aéreo Torpedero" "2. Grupo Aéreo Torpedero" "3. Grupo Aéreo Torpedero" "4. Grupo Aéreo Torpedero" "5. Grupo Aéreo Torpedero" 
+	}
+	cas = {
+		"1. Grupo Aéreo de Asalto" "2. Grupo Aéreo de Asalto" "3. Grupo Aéreo de Asalto" "4. Grupo Aéreo de Asalto" "5. Grupo Aéreo de Asalto" 
+	}
+	transport_plane = {
+		"1. Grupo Aéreo del Ejército" "2. Grupo Aéreo del Ejército" "3. Grupo Aéreo del Ejército" "4. Grupo Aéreo del Ejército" "5. Grupo Aéreo del Ejército" 
+	}
+	battleship = {
+		"ARP Asunción" "ARP Coronel Oviedo" 
+	}
+	light_cruiser = {
+		"ARP Caaquaza" "ARP Coronel Oviedo" "ARP Arrica" "ARP Yuty" "ARP San Pedro" 
+	}
+	heavy_cruiser = {
+		"ARP Caaquaza" "ARP Coronel Oviedo" "ARP Arrica" "ARP Yuty" "ARP San Pedro" 
+	}
+	battlecruiser = {
+		"ARP Asunción" "ARP Coronel Oviedo" 
+	}
+	destroyer = {
+		"Flotilla de Destructores nro. 1" "Flotilla de Destructores nro. 2" "Flotilla de Destructores nro. 3" "Flotilla de Destructores nro. 4" "Flotilla de Destructores nro. 5" 
+	}
+	carrier = {
+		"ARP República de Paraguay" "ARP Luque" 
+	}
+	submarine = {
+		"Flotilla de Submarinos nro. 1" "Flotilla de Submarinos nro. 2" "Flotilla de Submarinos nro. 3" 
+	}
+	transport_ship = {
+		"1a Flotilla de Transporte" "2a Flotilla de Transporte" "3a Flotilla de Transporte" "4a Flotilla de Transporte" "5a Flotilla de Transporte" 
+	}
+
+}
+
+ministers = {
+	
+}

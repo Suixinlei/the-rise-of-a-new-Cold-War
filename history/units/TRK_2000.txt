@@ -1,0 +1,103 @@
+theatre = {
+	name = "Armed forces of Turkmenistan"
+	location = 7335
+	regiment = { type = hq_brigade name = "Armed Forces HQ" historical_model = 1 }
+	army = {	
+		name = "Land Forces"
+		location = 7335
+		regiment = { type = hq_brigade name = "Land Forces HQ" historical_model = 1 }
+		corps = {
+			name = "2nd Motor Rifle Division"
+			location = 7357
+			regiment = { type = hq_brigade name = "2nd Division HQ" historical_model = 1 }
+			division = {
+				is_reserve = yes
+				name = "21st Motor Rifle Brigade"
+				location = 7357
+				regiment = { type = infantry_brigade name = "211th Motor Rifle Battalion" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "212th Motor Rifle Battalion" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "213th Motor Rifle Battalion" historical_model = 1 }
+			}
+			division = {
+				is_reserve = yes
+				name = "22nd Motor Rifle Brigade"
+				location = 7347
+				regiment = { type = infantry_brigade name = "221st Motor Rifle Battalion" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "222nd Motor Rifle Battalion" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "223rd Motor Rifle Battalion" historical_model = 1 }
+			}
+		}
+		corps = {
+			name = "3rd Motor Rifle Division"
+			location = 7108
+			regiment = { type = hq_brigade name = "3rd Division HQ" historical_model = 1 }
+			division = {
+				is_reserve = yes
+				name = "31st Motor Rifle Brigade"
+				location = 7108
+				regiment = { type = infantry_brigade name = "311th Motor Rifle Battalion" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "312th Motor Rifle Battalion" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "313th Motor Rifle Battalion" historical_model = 1 }
+			}
+			division = {
+				is_reserve = yes
+				name = "32nd Motor Rifle Brigade"
+				location = 7335
+				regiment = { type = infantry_brigade name = "321st Motor Rifle Battalion" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "322nd Motor Rifle Battalion" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "323rd Motor Rifle Battalion" historical_model = 1 }
+			}
+		}
+		corps = {
+			name = "11th Motor Rifle Division"
+			location = 9106
+			regiment = { type = hq_brigade name = "11th Division HQ" historical_model = 1 }
+			division = {
+				is_reserve = yes
+				name = "111th Motor Rifle Brigade"
+				location = 9106
+				regiment = { type = infantry_brigade name = "1111th Motor Rifle Battalion" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "1112th Motor Rifle Battalion" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "1113th Motor Rifle Battalion" historical_model = 1 }
+			}
+			division = {
+				is_reserve = yes
+				name = "112th Motor Rifle Brigade"
+				location = 9132
+				regiment = { type = infantry_brigade name = "1121st Motor Rifle Battalion" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "1122nd Motor Rifle Battalion" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "1123rd Motor Rifle Battalion" historical_model = 1 }
+			}
+		}
+		corps = {
+			name = "22nd Motor Rifle Division"
+			location = 9107
+			regiment = { type = hq_brigade name = "22nd Division HQ" historical_model = 1 }
+			division = {
+				is_reserve = yes
+				name = "221st Motor Rifle Brigade"
+				location = 9107
+				regiment = { type = infantry_brigade name = "2211th Motor Rifle Battalion" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "2212th Motor Rifle Battalion" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "2213th Motor Rifle Battalion" historical_model = 1 }
+			}
+			division = {
+				is_reserve = yes
+				name = "222nd Motor Rifle Brigade"
+				location = 9079
+				regiment = { type = infantry_brigade name = "2221st Motor Rifle Battalion" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "2222nd Motor Rifle Battalion" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "2223rd Motor Rifle Battalion" historical_model = 1 }
+			}
+		}
+	}
+	
+	air = {
+	name = "99th Aviation Base"
+	base = 9078
+	location = 9078
+	wing = { type = interceptor name = "1st Fighter Wing" historical_model = 0 }
+	wing = { type = cas name = "2nd Attack Wing" historical_model = 0 }
+	}
+	
+}

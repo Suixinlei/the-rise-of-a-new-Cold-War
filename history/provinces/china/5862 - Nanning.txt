@@ -1,0 +1,11 @@
+owner = CHC
+controller = CHC
+ 
+add_core = CHC
+
+infra = 6
+
+air_base = 1 #Nanning airbase
+points = 1
+energy = 20
+rare_materials = 1.0

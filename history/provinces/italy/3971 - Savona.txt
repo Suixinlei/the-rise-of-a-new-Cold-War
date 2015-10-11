@@ -1,0 +1,10 @@
+owner = ITA
+controller = ITA
+add_core = ITA
+
+
+infra = 10
+
+naval_base = 10 #Genoa port
+points = 1
+industry = 2

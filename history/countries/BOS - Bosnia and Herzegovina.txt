@@ -1,0 +1,49 @@
+capital = 4174
+government = federation
+ideology = social_conservative
+alignment = { x = 0 y = -20 }
+neutrality = 80
+national_unity = 70
+
+oob = "BOS_2000.txt"
+
+popularity = { 
+	national_socialist = 0
+	fascistic = 0
+	paternal_autocrat = 9
+	social_conservative = 19
+	market_liberal = 1
+	social_liberal = 9
+	social_democrat = 9
+	left_wing_radical = 9
+	leninist = 0
+	stalinist = 0
+}
+
+organization = { 
+	national_socialist = 0
+	fascistic = 0
+	paternal_autocrat = 27
+	social_conservative = 57
+	market_liberal = 3
+	social_liberal = 27
+	social_democrat = 27
+	left_wing_radical = 27
+	leninist = 0
+	stalinist = 0
+}
+
+conscription_policy = military_service
+press_laws = free_press
+mobilisation_level = peace_time
+civil_laws = open_society
+service_length = six_months
+economic_policy = lais_fair
+
+industrial_facilities = 1
+industral_production = 1
+industral_efficiency = 1
+weapon_design = 1
+the_fuselage_design = 1
+main_battle_tank = 1
+ship_hull = 1

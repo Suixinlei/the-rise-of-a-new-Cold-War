@@ -1,0 +1,7 @@
+owner = HUN
+controller = HUN
+add_core = HUN
+
+energy = 4.00
+infra = 8
+

@@ -1,0 +1,121 @@
+color = { 153  116  93 }
+graphical_culture = Generic
+
+last_election = 2001.11.20
+duration = 48
+
+default_templates = {
+	generic_infantry = {
+		infantry_brigade
+		infantry_brigade
+		infantry_brigade
+	}
+	generic_milita = {
+		militia_brigade
+		militia_brigade
+		militia_brigade
+	}
+	generic_armoured = {
+		armor_brigade
+		motorized_brigade
+		motorized_brigade
+	}
+	generic_cavalry = {
+		cavalry_brigade
+		cavalry_brigade
+	}
+}
+
+unit_names = {
+	infantry_brigade = {
+		"1. Jydske Division" "2. Sjællandske Division" "3. Fynske Division" "Prinsens Division" "Livgarden" "Dronningens Livgardedivision" "4. Sønderjydske Division" "5. Nørrejydske Division" "6. Slesvigske Division" "7. Bornholmske Forsvars Division" 
+	}
+	cavalry_brigade = {
+		"Livgarden til Hest" "1. Sjællandske Dragondivision" "2. Jydske Dragondivision" "3. Jydske Dragondivision" "4. Sjællandske Dragondivision" "5. Fynske Dragondivision" "6. Sjællandske Dragondivision" "7. Jydske Dragondivision" "8. Sønderjydske Dragondivision" "9. Nørrejydske Dragondivision" 
+	}
+	motorized_brigade = {
+		"1. Sjællandske Motor Division" "2. Jydske Motor Division" "3. Fynske Motor Division" "Motorregiment 'København'" "5. Sjællandske Motor Division" "6. Jydske Motor Division" "7. Fynske Motor Division" "8. Sønderjydske Motor Division" "9. Nørrejydske Motor Division" "10. Motoriserede Hær Korps" 
+	}
+	mechanized_brigade = {
+		"1. Sjællandske Bælte Division" "2. Jydske Bælte Division" "3. Fynske Bælte Division" "Livgardens Armerede Korps" "5. Sjællandske Bælte Division" "6. Jydske Bælte Division" "7. Jydske Bælte Division" "8. Sønderjydske Bælte Division" "9. Nørrejydske Bælte Division" "10.Armerede Korps 'Christian IV'" 
+	}
+	light_armor_brigade = {
+		"1. Panser Korps" "2. Panser Korps" "3. Panser Korps" "4. Panser Korps" "5. Panser Korps" "6. Panser Korps" "7. Panser Korps" "8. Panser Korps" "9. Panser Korps" "10. Panser Korps" 
+	}
+	armor_brigade = {
+		"1. Panser Korps" "2. Panser Korps" "3. Panser Korps" "4. Panser Korps" "5. Panser Korps" "6. Panser Korps" "7. Panser Korps" "8. Panser Korps" "9. Panser Korps" "10. Panser Korps" 
+	}
+	paratrooper_brigade = {
+		"Faldskærmsdivisionen 'Ørnene'" "1. Faldskærmsdivision" "2. Faldskærmsdivision" "3. Faldskærmsdivision" "4. Faldskærmsdivision" "5. Faldskærmsdivision" "6. Faldskærmsdivision" "7. Faldskærmsdivision" "8. Faldskærmsdivision" "9. Faldskærmsdivision" 
+	}
+	marine_brigade = {
+		"Frømandskorpset" "1. Marinedivision" "2. Marinedivision" "3. Marinedivision" "4. Marinedivision" "5. Marinedivision" "6. Marinedivision" "7. Marinedivision" "8. Marinedivision" "9. Marinedivision" 
+	}
+	bergsjaeger_brigade = {
+		"Jægerkorpset" "Sirius" "1. Bjergjægerdivision" "2. Bjergjægerdivision" "3. Bjergjægerdivision" "4. Bjergjægerdivision" "5. Bjergjægerdivision" "6. Bjergjægerdivision" "7. Bjergjægerdivision" "8. Bjergjægerdivision" 
+	}
+	garrison_brigade = {
+		"1. Jydske Division" "2. Sjællandske Division" "3. Fynske Division" "Prinsens Division" "Livgarden" "Dronningens Livgardedivision" "4. Sønderjydske Division" "5. Nørrejydske Division" "6. Slesvigske Division" "7. Bornholmske Forsvars Division" 
+	}
+	hq_brigade = {
+		"General Kommandoen" "Jyske Hær" "Sjællandske Hær" "Fynske Hær" 
+	}
+	militia_brigade = {
+		"Hjemmeværnsregion 'Nordjylland'" "Hjemmeværnsregion 'Midtjylland'" "Hjemmeværnsregion 'Sønderjylland'" "Hjemmeværnsregion 'Fyn'" "Hjemmeværnsregion 'Sjælland'" "Hjemmeværnsregion 'Bornholm'" "Hjemmeværnsregion 'Øerne'" "Hjemmeværnsregion 'Lolland-Falster'" "Hjemmeværnsregion 'Storkøbenhavn'" "Hjemmeværnsregion 'Grønland'" 
+	}
+	multi_role = {
+		"1. Jagerafdeling" "2. Jagerafdeling" "3. Jagerafdeling" "4. Jagerafdeling" "5. Jagerafdeling" "6. Jagerafdeling" "7. Jagerafdeling" "8. Jagerafdeling" "9. Jagerafdeling" "10.Jagerafdeling" 
+	}
+	interceptor = {
+		"1. Jagerafdeling" "2. Jagerafdeling" "3. Jagerafdeling" "4. Jagerafdeling" "5. Jagerafdeling" "6. Jagerafdeling" "7. Jagerafdeling" "8. Jagerafdeling" "9. Jagerafdeling" "10.Jagerafdeling" 
+	}
+	strategic_bomber = {
+		"1. Strategiske Flyveafdeling" "2. Strategiske Flyveafdeling" "3. Strategiske Flyveafdeling" "4. Strategiske Flyveafdeling" "5. Strategiske Flyveafdeling" "6. Strategiske Flyveafdeling" "7. Strategiske Flyveafdeling" "8. Strategiske Flyveafdeling" "9. Strategiske Flyveafdeling" "10.Strategiske Flyveafdeling" 
+	}
+	tactical_bomber = {
+		"1. Taktiske Flyveafdeling" "2. Taktiske Flyveafdeling" "3. Taktiske Flyveafdeling" "4. Taktiske Flyveafdeling" "5. Taktiske Flyveafdeling" "6. Taktiske Flyveafdeling" "7. Taktiske Flyveafdeling" "8. Taktiske Flyveafdeling" "9. Taktiske Flyveafdeling" "10.Taktiske Flyveafdeling" 
+	}
+	naval_bomber = {
+		"Flådens 1.Bombeafdeling" "Flådens 2.Bombeafdeling" "Flådens 3.Bombeafdeling" "Flådens 4.Bombeafdeling" "Flådens 5.Bombeafdeling" "Flådens 6.Bombeafdeling" "Flådens 7.Bombeafdeling" "Flådens 8.Bombeafdeling" "Flådens 9.Bombeafdeling" "Flådens 10.Bombeafdeling" "Flådens 1.Torpedobombeafd." 
+		"Flådens 2.Torpedobombeafd." "Flådens 3.Torpedobombeafd." "Flådens 4.Torpedobombeafd." "Flådens 5.Torpedobombeafd." "Flådens 6.Torpedobombeafd." "Flådens 7.Torpedobombeafd." "Flådens 8.Torpedobombeafd." "Flådens 9.Torpedobombeafd." "Flådens 10.Torpedobombeafd." 
+	}
+	cas = {
+		"1. Dykbombe Afdeling" "2. Dykbombe Afdeling" "3. Dykbombe Afdeling" "4. Dykbombe Afdeling" "5. Dykbombe Afdeling" "6. Dykbombe Afdeling" "7. Dykbombe Afdeling" "8. Dykbombe Afdeling" "9. Dykbombe Afdeling" "10. Dykbombe Afdeling" 
+	}
+	transport_plane = {
+		"Hærens 1.Transportkommando" "Hærens 2.Transportkommando" "Hærens 3.Transportkommando" "Hærens 4.Transportkommando" "Hærens 5.Transportkommando" "Hærens 6.Transportkommando" "Hærens 7.Transportkommando" "Hærens 8.Transportkommando" "Hærens 9.Transportkommando" "Hærens 10.Transportkommando" 
+	}
+	battleship = {
+		"HDMS Tordenskiold" "HDMS Ivar Huitfeldt" "HDMS Olfert Fischer" "HDMS Ulrik Gyldenløve" "HDMS Markor Rodsteen" 
+	}
+	light_cruiser = {
+		"HDMS Flynderen" "HDMS Mågen" "HDMS Ørnen" "HDMS Falken" "HDMS Ulken" "HDMS Olfert Fischer" "HDMS Fyen" "HDMS Hekla" 
+	}
+	heavy_cruiser = {
+		"HDMS Niels Juel" "HDMS Peder Skram" "HDMS Vitus Bering" "HDMS Sælen" "HDMS Hvalrossen" "HDMS Isbjørn" "HDMS Flynderen" "HDMS Mågen" "HDMS Ørnen" "HDMS Falken" "HDMS Ulken" 
+		"HDMS Olfert Fischer" "HDMS Fyen" "HDMS Hekla" 
+	}
+	battlecruiser = {
+		"HDMS Tordenskiold" "HDMS Ivar Huitfeldt" "HDMS Olfert Fischer" "HDMS Ulrik Gyldenløve" "HDMS Markor Rodsteen" 
+	}
+	destroyer = {
+		"1. Destroyer Flotille" "2. Destroyer Flotille" "3. Destroyer Flotille" "4. Destroyer Flotille" "5. Destroyer Flotille" "6. Destroyer Flotille" "7. Destroyer Flotille" "8. Destroyer Flotille" "9. Destroyer Flotille" "10. Destroyer Flotille" "11. Destroyer Flotille" 
+		"12. Destroyer Flotille" "13. Destroyer Flotille" "14. Destroyer Flotille" "15. Destroyer Flotille" "16. Destroyer Flotille" "17. Destroyer Flotille" "18. Destroyer Flotille" "19. Destroyer Flotille" "20. Destroyer Flotille" 
+	}
+	carrier = {
+		"HDMS Danske Løve" "HDMS Peter Willemoes" "HDMS Steen Bille" "HDMS Peder Marsvin" 
+	}
+	escort_carrier = {
+		"HDMS Dannebrog" "HDMS Peder Skram" "HDMS Rolf Krake" "HDMS Lindormen" "HDMS Gorm" "HDMS Odin" 
+	}
+	submarine = {
+		"1. Ubåds Flotille" "2. Ubåds Flotille" "3. Ubåds Flotille" "4. Ubåds Flotille" "5. Ubåds Flotille" "6. Ubåds Flotille" "7. Ubåds Flotille" "8. Ubåds Flotille" "9. Ubåds Flotille" "10. Ubåds Flotille" 
+	}
+	transport_ship = {
+		"Flådens 1.Troppetransport" "Flådens 2.Troppetransport" "Flådens 3.Troppetransport" "Flådens 4.Troppetransport" "Flådens 5.Troppetransport" "Flådens 6.Troppetransport" "Flådens 7.Troppetransport" "Flådens 8.Troppetransport" "Flådens 9.Troppetransport" "Flådens 10.Troppetransport" 
+	}
+
+}
+
+ministers = { }
+

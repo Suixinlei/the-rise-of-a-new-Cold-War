@@ -1,0 +1,6 @@
+owner = JAP
+controller = JAP
+add_core = JAP
+energy = 30.00
+infra = 8
+air_base = 7 #Narita airport

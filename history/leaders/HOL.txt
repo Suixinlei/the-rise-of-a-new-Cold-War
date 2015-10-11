@@ -1,0 +1,664 @@
+112001 = {
+	name = "Bakker"
+	country = HOL
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L112001
+								add_trait = commando
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+112002 = {
+	name = "Aardsma"
+	country = HOL
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L112002
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+112003 = {
+	name = "Drost"
+	country = HOL
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 0.00
+	picture = L112003
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+112004 = {
+	name = "Broeks"
+	country = HOL
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L112004
+	add_trait = frontline_soldier
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+112005 = {
+	name = "Cammaert"
+	country = HOL
+	type = land
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L112005
+	add_trait = landing_specialist
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+112006 = {
+	name = "Coopmans"
+	country = HOL
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L112006
+	add_trait = offensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+112007 = {
+	name = "de Jonge"
+	country = HOL
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L112007
+	add_trait = commando
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+112008 = {
+	name = "Geerts"
+	country = HOL
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L112008
+	add_trait = trickster
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+112009 = {
+	name = "Middendorp"
+	country = HOL
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L112009
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+112010 = {
+	name = "Morsink"
+	country = HOL
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L112010
+	add_trait = offensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+112011 = {
+	name = "van Baal"
+	country = HOL
+	type = land
+	skill = 1
+	max_skill = 7
+	loyalty = 1.00
+	picture = L112011
+	add_trait = trainer
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+112012 = {
+	name = "Herrema"
+	country = HOL
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 0.00
+	picture = L112012
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+112013 = {
+	name = "van de Water"
+	country = HOL
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L112013
+	add_trait = learners_will
+	add_trait = hard_defender
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+112014 = {
+	name = "van den Heuvel"
+	country = HOL
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L112014
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+112015 = {
+	name = "van der Laan"
+	country = HOL
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L112015
+	add_trait = improvisation
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+112016 = {
+	name = "van Griensven"
+	country = HOL
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L112016
+	add_trait = assaulter
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+112017 = {
+	name = "van Keulen"
+	country = HOL
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L112017
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+112018 = {
+	name = "van Osch"
+	country = HOL
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L112018
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+112019 = {
+	name = "van Uhm"
+	country = HOL
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L112019
+	add_trait = engineer
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+112020 = {
+	name = "van Wiggen"
+	country = HOL
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L112020
+	add_trait = defensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+112021 = {
+	name = "Vermeij"
+	country = HOL
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L112021
+	add_trait = panzer_leader
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+112022 = {
+	name = "Vleugels"
+	country = HOL
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L112022
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+112023 = {
+	name = "P. van Uhm"
+	country = HOL
+	type = land
+	skill = 4
+	max_skill = 8
+	loyalty = 1.00
+	picture = L112023
+	history = {
+		1995.1.1 = { rank = 1 }
+		1998.1.1 = { rank = 2 }
+		2001.1.1 = { rank = 3 }
+		2003.1.1 = { rank = 4 }
+	}
+}
+112024 = {
+	name = "Hanset"
+	country = HOL
+	type = land
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L112024
+	add_trait = landing_specialist
+	history = {
+		1998.1.1 = { rank = 1 }
+		2001.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+112025 = {
+	name = "Karremans"
+	country = HOL
+	type = land
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L112025
+	add_trait = offensive_doctrine
+	history = {
+		1998.1.1 = { rank = 1 }
+		2001.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+112026 = {
+	name = "van Loon"
+	country = HOL
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L112026
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+112027 = {
+	name = "Vandingenen"
+	country = HOL
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L112027
+	add_trait = old_guard
+	history = {
+		1998.1.1 = { rank = 1 }
+		2001.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+112028 = {
+	name = "Compernol"
+	country = HOL
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L112028
+	add_trait = commando
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+112029 = {
+	name = "de Kruif"
+	country = HOL
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L112029
+	add_trait = panzer_leader
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+112030 = {
+	name = "De Vos"
+	country = HOL
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L112030
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+112031 = {
+	name = "Dijcks"
+	country = HOL
+	type = land
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L112031
+	add_trait = defensive_doctrine
+	add_trait = improvisation
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+112032 = {
+	name = "Messerschmidt"
+	country = HOL
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L112032
+	add_trait = offensive_doctrine
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+112033 = {
+	name = "Roozendaal"
+	country = HOL
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L112033
+	add_trait = old_guard
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+112034 = {
+	name = "Tieskens"
+	country = HOL
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L112034
+	add_trait = landlubber
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+112035 = {
+	name = "Brouwer"
+	country = HOL
+	type = air
+	skill = 0
+	max_skill = 5
+	loyalty = 0.00
+	picture = L112035
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+112036 = {
+	name = "Dobbelaere"
+	country = HOL
+	type = air
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L112036
+	add_trait = night_flyer
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+112037 = {
+	name = "Lambert"
+	country = HOL
+	type = air
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L112037
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+112038 = {
+	name = "Lenselink"
+	country = HOL
+	type = air
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L112038
+	add_trait = fleet_destroyer
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+112039 = {
+	name = "Westerbeek"
+	country = HOL
+	type = air
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L112039
+	add_trait = superior_air_tactician
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+112040 = {
+	name = "Singele"
+	country = HOL
+	type = air
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L112040
+	add_trait = tank_buster
+	history = {
+		1998.1.1 = { rank = 1 }
+		2001.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+112041 = {
+	name = "Schnitger"
+	country = HOL
+	type = air
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L112041
+	add_trait = tank_buster
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+112042 = {
+	name = "van Groningen"
+	country = HOL
+	type = air
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L112042
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+112043 = {
+	name = "Vogelspoel"
+	country = HOL
+	type = air
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L112043
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+112044 = {
+	name = "Bindt"
+	country = HOL
+	type = sea
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L112044
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+112045 = {
+	name = "Minderhoud"
+	country = HOL
+	type = sea
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L112045
+	add_trait = spotter
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+112046 = {
+	name = "Borsboom"
+	country = HOL
+	type = sea
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L112046
+	history = {
+		1998.1.1 = { rank = 1 }
+		2001.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+112047 = {
+	name = "Kelder"
+	country = HOL
+	type = sea
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L112047
+	add_trait = superior_tactician
+	history = {
+		1998.1.1 = { rank = 1 }
+		2001.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+112048 = {
+	name = "Kopp"
+	country = HOL
+	type = sea
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L112048
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+112049 = {
+	name = "Nagtegaal"
+	country = HOL
+	type = sea
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L112049
+	add_trait = spotter
+	add_trait = seawolf
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+112050 = {
+	name = "van Weezelenburg"
+	country = HOL
+	type = sea
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L112050
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}

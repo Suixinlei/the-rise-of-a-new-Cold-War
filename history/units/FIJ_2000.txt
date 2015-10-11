@@ -1,0 +1,13 @@
+theatre = {
+	name = "Republic of Fiji Military Forces"
+	location = 6622
+	regiment = { type = hq_brigade name = "Military Forces HQ" historical_model = 1 }
+	division = {
+		is_reserve = yes
+		name = "Fiji Infantry Regiment"
+		location = 6622
+		regiment = { type = infantry_brigade name = "1st Battalion" historical_model = 1 }
+		regiment = { type = infantry_brigade name = "2nd Battalion" historical_model = 1 }
+		regiment = { type = infantry_brigade name = "3rd Battalion" historical_model = 1 }
+	}
+}

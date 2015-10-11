@@ -1,0 +1,6 @@
+owner = BAN
+controller = BAN
+add_core = BAN
+manpower = 10.00
+infra = 4 
+naval_base = 5 #Mongla port

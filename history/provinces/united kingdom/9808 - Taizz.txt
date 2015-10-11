@@ -1,0 +1,8 @@
+owner = YEM
+
+controller = YEM
+
+add_core = YEM
+
+infra = 5
+manpower = 3.00

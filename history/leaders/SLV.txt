@@ -1,0 +1,414 @@
+142001 = {
+	name = "Bozic"
+	country = SLV
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L142001
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+142002 = {
+	name = "Humar"
+	country = SLV
+	type = land
+	skill = 1
+	max_skill = 7
+	loyalty = 1.00
+	picture = L142002
+	add_trait = trainer
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+142003 = {
+	name = "Juras"
+	country = SLV
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L142003
+	add_trait = defensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+142004 = {
+	name = "Kavar"
+	country = SLV
+	type = land
+	skill = 3
+	max_skill = 6
+	loyalty = 1.00
+	picture = L142004
+	add_trait = old_guard
+	history = {
+		1998.1.1 = { rank = 1 }
+		2001.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+142005 = {
+	name = "Lipic"
+	country = SLV
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L142005
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+142006 = {
+	name = "Avsenik"
+	country = SLV
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L142006
+	add_trait = commando
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+142007 = {
+	name = "Drnovšek"
+	country = SLV
+	type = land
+	skill = 1
+	max_skill = 7
+	loyalty = 1.00
+	picture = L142007
+	add_trait = trainer
+	add_trait = offensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+142008 = {
+	name = "Gregoric"
+	country = SLV
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 0.00
+	picture = L142008
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+142009 = {
+	name = "Horvat"
+	country = SLV
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L142009
+	add_trait = landing_specialist
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+142010 = {
+	name = "Jakopin"
+	country = SLV
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 0.00
+	picture = L142010
+	add_trait = fortress_buster
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+142011 = {
+	name = "Javornik"
+	country = SLV
+	type = land
+	skill = 1
+	max_skill = 7
+	loyalty = 1.00
+	picture = L142011
+	add_trait = frontline_soldier
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+142012 = {
+	name = "Kopitar"
+	country = SLV
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 1.00
+	picture = L142012
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+142013 = {
+	name = "Krajnc"
+	country = SLV
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L142013
+	add_trait = commando
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+142014 = {
+	name = "Mlakar"
+	country = SLV
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 0.00
+	picture = L142014
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+142015 = {
+	name = "Okrslar"
+	country = SLV
+	type = land
+	skill = 1
+	max_skill = 7
+	loyalty = 1.00
+	picture = L142015
+	add_trait = assaulter
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+142016 = {
+	name = "Osterman"
+	country = SLV
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L142016
+	add_trait = panzer_leader
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+142017 = {
+	name = "Pas"
+	country = SLV
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L142017
+	add_trait = frontline_soldier
+	add_trait = learners_will
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+142018 = {
+	name = "Pograjc"
+	country = SLV
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L142018
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+142019 = {
+	name = "Praznik"
+	country = SLV
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L142019
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+142020 = {
+	name = "Ribnikar"
+	country = SLV
+	type = land
+	skill = 1
+	max_skill = 7
+	loyalty = 1.00
+	picture = L142020
+	add_trait = offensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+142021 = {
+	name = "Turk"
+	country = SLV
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L142021
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+142022 = {
+	name = "Villaplana"
+	country = SLV
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L142022
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+142023 = {
+	name = "Gutman"
+	country = SLV
+	type = land
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L142023
+	add_trait = defensive_doctrine
+	add_trait = logistics_wizard
+	history = {
+		1996.1.1 = { rank = 1 }
+		1998.1.1 = { rank = 2 }
+		2001.1.1 = { rank = 3 }
+		2003.1.1 = { rank = 4 }
+	}
+}
+142024 = {
+	name = "Geder"
+	country = SLV
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L142024
+	add_trait = panzer_leader
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+142025 = {
+	name = "Šteiner"
+	country = SLV
+	type = land
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L142025
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+142026 = {
+	name = "Mate"
+	country = SLV
+	type = air
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L142026
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+142027 = {
+	name = "Hrovat"
+	country = SLV
+	type = air
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L142027
+	add_trait = superior_air_tactician
+	history = {
+		1998.1.1 = { rank = 1 }
+		2001.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+142028 = {
+	name = "Novak"
+	country = SLV
+	type = air
+	skill = 1
+	max_skill = 5
+	loyalty = 0.00
+	picture = L142028
+	add_trait = night_flyer
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+142029 = {
+	name = "Pirjevec"
+	country = SLV
+	type = air
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L142029
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+142030 = {
+	name = "Pecarja"
+	country = SLV
+	type = sea
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L142030
+	add_trait = superior_tactician
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+142031 = {
+	name = "Saksida"
+	country = SLV
+	type = sea
+	skill = 1
+	max_skill = 5
+	loyalty = 0.00
+	picture = L142031
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+142032 = {
+	name = "Trubar"
+	country = SLV
+	type = sea
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L142032
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}

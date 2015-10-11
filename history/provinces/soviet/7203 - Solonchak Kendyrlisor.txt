@@ -1,0 +1,8 @@
+owner = UZB
+
+controller = UZB
+
+add_core = UZB
+
+
+infra = 4

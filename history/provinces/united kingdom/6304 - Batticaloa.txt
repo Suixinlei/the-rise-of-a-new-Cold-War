@@ -1,0 +1,6 @@
+owner = SRI
+controller = SRI
+add_core = SRI
+
+infra = 6
+

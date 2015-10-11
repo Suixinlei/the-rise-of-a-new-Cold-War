@@ -1,0 +1,10 @@
+owner = HOL
+controller = HOL
+add_core = HOL
+manpower = 0.6
+crude_oil = 1.00
+infra = 9
+
+air_base = 1 #Eindhoven airport
+leadership = 2.50
+points = 1

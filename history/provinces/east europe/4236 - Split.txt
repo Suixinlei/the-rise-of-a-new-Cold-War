@@ -1,0 +1,9 @@
+owner = CRO
+controller = CRO
+add_core = CRO
+manpower = 0.2
+
+
+infra = 7
+
+

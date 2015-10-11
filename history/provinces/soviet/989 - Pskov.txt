@@ -1,0 +1,11 @@
+owner = SOV
+controller = SOV
+add_core = SOV
+
+infra = 7
+
+
+energy = 20
+air_base = 2 #Pskov airbase
+points = 1
+industry = 10

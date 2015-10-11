@@ -1,0 +1,114 @@
+song = {
+	name = "sovietsuite_part1.mp3"
+	
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = { tag = SOV }
+		}
+		modifier = {
+			factor = 3
+			tag = SOV
+		}
+	}
+}
+
+
+
+
+
+
+
+song = {
+	name = "sovietsuite_part2.mp3"
+	
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = { tag = SOV }
+		}
+		modifier = {
+			factor = 3
+			tag = SOV
+		}
+	}
+}
+
+
+
+
+
+
+
+
+song = {
+	name = "sovietsuite_part3.mp3"
+	
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = { tag = SOV }
+		}
+		modifier = {
+			factor = 3
+			tag = SOV
+		}
+	}
+}
+
+
+
+
+
+
+song = {
+	name = "sovietsuite_part4.mp3"
+	
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = { tag = SOV }
+		}
+		modifier = {
+			factor = 3
+			tag = SOV
+		}
+	}
+}
+
+
+
+
+song = {
+	name = "soviet_march.mp3"
+	
+	chance = {
+		modifier = {
+			factor = 0
+			war = no
+		}
+		modifier = {
+			factor = 4
+			war = yes
+			tag = SOV
+		}
+	}
+}
+
+
+
+song = {
+	name = "sszz.mp3"
+	
+	chance = {
+		modifier = {
+			factor = 0
+			war = no
+		}
+		modifier = {
+			factor = 4
+			war = yes
+			tag = SOV
+		}
+	}
+}

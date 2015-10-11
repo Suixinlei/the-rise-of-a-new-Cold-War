@@ -1,0 +1,13 @@
+owner = USA
+controller = USA
+add_core = USA
+infra = 8
+industry = 10
+manpower = 10.00
+energy = 40.00
+rare_materials = 5.00
+metal = 5.00
+air_base = 2 #San Diego airport
+naval_base = 10 #San Diego port
+leadership = 1.00
+points = 1

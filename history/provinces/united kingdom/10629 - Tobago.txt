@@ -1,0 +1,8 @@
+owner = TAT
+
+controller = TAT
+
+add_core = TAT
+
+
+infra = 6

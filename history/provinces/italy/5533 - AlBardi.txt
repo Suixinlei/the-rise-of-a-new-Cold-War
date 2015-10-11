@@ -1,0 +1,7 @@
+owner = LBY
+controller = LBY
+add_core = LBY
+infra = 3
+naval_base = 2 #Bardia port
+leadership = 0.50
+points = 1

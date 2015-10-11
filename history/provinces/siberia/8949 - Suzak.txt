@@ -1,0 +1,5 @@
+owner = UZB
+controller = UZB
+add_core = UZB
+energy = 6.00
+infra = 6

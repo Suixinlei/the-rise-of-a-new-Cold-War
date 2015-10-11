@@ -1,0 +1,7 @@
+owner = TRK
+controller = TRK
+add_core = TRK
+
+infra = 6
+
+infra = 6

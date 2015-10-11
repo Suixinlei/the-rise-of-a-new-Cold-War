@@ -1,0 +1,5 @@
+theatre = {
+	name = "St Lucia Defence Force"
+	location = 1480
+	regiment = { type = hq_brigade name = "St Lucia Defence Force" historical_model = 0 }
+}

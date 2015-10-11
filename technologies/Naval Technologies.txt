@@ -1,0 +1,1583 @@
+shipborne_antiship_missile = {
+
+	allow = {
+		ship_hull = 1
+		marines = 1
+	}
+	
+	research_bonus_from = {
+		naval_engineering = 1.0
+	}
+
+	
+	on_completion = naval_engineering
+	
+	difficulty = 40
+	start_year = 2000
+	folder = smallship_folder
+}
+
+short-range_anti-ship_missile = {
+
+	patrol_boat = {
+		sea_attack = 1.00
+	}
+	light_cruiser = {
+		sea_attack = 0.80
+	}
+	heavy_cruiser = {
+		sea_attack = 0.80
+	}
+	destroyer = {
+		sea_attack = 0.80
+	}
+	battleship = {
+		sea_attack = 0.60
+	}
+	battlecruiser = {
+		sea_attack = 1.00
+	}
+
+	allow = {
+		shipborne_antiship_missile = 1
+	}
+	
+	research_bonus_from = {
+		naval_engineering = 1.0
+	}
+	
+	on_completion = naval_engineering
+	
+	difficulty = 20
+	start_year = 2000
+	first_offset = 2003
+	additional_offset = 5
+	max_level = 6
+	folder = smallship_folder
+	can_upgrade = no
+}
+
+medium_range_anti-ship_missile = {
+
+	patrol_boat = {
+		sea_attack = 1.00
+	}
+	light_cruiser = {
+		sea_attack = 1.00
+	}
+	destroyer = {
+		sea_attack = 1.00
+	}
+	heavy_cruiser = {
+		sea_attack = 1.00
+	}
+	battleship = {
+		sea_attack = 1.20
+	}
+	super_battleship = {
+		sea_attack = 1.00
+	}
+	battlecruiser = {
+		sea_attack = 1.20
+	}
+
+
+	allow = {
+		shipborne_antiship_missile = 1
+	}
+	
+	research_bonus_from = {
+		naval_engineering = 1.0
+	}
+	
+	on_completion = naval_engineering
+	
+	difficulty = 20
+	start_year = 2000
+	first_offset = 2003
+	additional_offset = 5
+	max_level = 6
+	folder = smallship_folder
+	can_upgrade = no
+}
+
+long-range_anti-ship_missile = {
+
+	destroyer = {
+		sea_attack = 1.50
+	}
+	battleship = {
+		sea_attack = 1.80
+	}
+	battlecruiser = {
+		sea_attack = 1.80
+	}
+	super_battleship = {
+		sea_attack = 1.50
+	}
+
+	allow = {
+		shipborne_antiship_missile = 1
+	}
+	
+	research_bonus_from = {
+		naval_engineering = 1.0
+	}
+	
+	on_completion = naval_engineering
+	
+	difficulty = 20
+	start_year = 2000
+	first_offset = 2003
+	additional_offset = 5
+	max_level = 6
+	folder = smallship_folder
+	can_upgrade = no
+}
+
+shipboard_cruise_missile = {
+
+	battleship = {
+	        shore_bombardment = 1.50
+	}
+	battlecruiser = {
+	        shore_bombardment = 1.50
+	}
+	super_battleship = {
+	        shore_bombardment = 2.00
+	}
+
+	allow = {
+		shipborne_antiship_missile = 1
+	}
+	
+	research_bonus_from = {
+		naval_engineering = 1.0
+	}
+	
+	on_completion = naval_engineering
+	
+	difficulty = 20
+	start_year = 2000
+	first_offset = 2003
+	additional_offset = 5
+	max_level = 6
+	folder = smallship_folder
+	can_upgrade = no
+}
+
+submarine_launched_torpedo = {
+
+	submarine = {
+		sea_attack = 1.50
+		convoy_attack = 2.00
+	}
+	ANAS = {
+		sea_attack = 2.00
+		convoy_attack = 1.20
+	}
+
+	allow = {
+		shipborne_antiship_missile = 1
+	}
+	
+	research_bonus_from = {
+		naval_engineering = 1.0
+	}
+	
+	on_completion = naval_engineering
+	
+	difficulty = 20
+	start_year = 2000
+	first_offset = 2003
+	additional_offset = 5
+	max_level = 6
+	folder = smallship_folder
+	can_upgrade = no
+}
+
+antisubmarine_missile = {
+
+	destroyer = {
+		sub_attack = 1.00
+	}
+	light_cruiser = {
+		sub_attack = 1.50
+	}
+	heavy_cruiser = {
+		sub_attack = 1.00
+	}
+	battlecruiser = {
+		sub_attack = 1.50
+	}
+	helicopter_carriers = {
+		sub_attack = 2.00
+	}
+	ANAS = {
+		sub_attack = 1.50
+	}
+
+	allow = {
+		shipborne_antiship_missile = 1
+	}
+	
+	research_bonus_from = {
+		naval_engineering = 1.0
+	}
+	
+	on_completion = naval_engineering
+	
+	difficulty = 20
+	start_year = 2000
+	first_offset = 2003
+	additional_offset = 5
+	max_level = 6
+	folder = smallship_folder
+	can_upgrade = no
+}
+
+shipboard_air_defense_missile = {
+
+	allow = {
+		shipborne_antiship_missile = 1
+	}	
+
+	research_bonus_from = {
+		naval_engineering = 1.0
+	}
+
+	
+	on_completion = naval_engineering
+	
+	difficulty = 40
+	start_year = 2000
+	folder = smallship_folder
+}
+
+short_range_air_defence_missile = {
+		
+        heavy_cruiser = {
+		air_attack = 0.50
+		air_defence = 0.5
+	}
+        destroyer = {
+		air_attack = 0.50
+		air_defence = 0.5
+	}
+        battlecruiser = {
+		air_attack = 0.50
+		air_defence = 0.5
+	}
+        battleship = {
+		air_attack = 0.50
+		air_defence = 0.5
+	}
+        super_battleship = {
+		air_attack = 0.50
+		air_defence = 0.5
+	}
+        helicopter_carriers = {
+		air_attack = 0.50
+		air_defence = 0.5
+	}
+        escort_carrier = {
+		air_attack = 0.50
+		air_defence = 0.5
+	}
+        carrier = {
+		air_attack = 0.50
+		air_defence = 0.5
+	}
+
+	allow = {
+		shipboard_air_defense_missile = 1
+	}
+	
+	research_bonus_from = {
+		naval_engineering = 1.0
+	}
+	
+	on_completion = naval_engineering
+	
+	difficulty = 20
+	start_year = 2000
+	first_offset = 2003
+	additional_offset = 5
+	max_level = 6
+	folder = smallship_folder
+	can_upgrade = no
+}
+
+area_air_defense_missile = {
+
+        heavy_cruiser = {
+		air_attack = 0.80
+		air_defence = 0.80
+	}
+        destroyer = {
+		air_attack = 0.80
+		air_defence = 0.80
+	}
+        battlecruiser = {
+		air_attack = 0.80
+		air_defence = 0.80
+	}
+        battleship = {
+		air_attack = 0.80
+		air_defence = 0.80
+	}
+
+
+	allow = {
+		shipboard_air_defense_missile = 1
+	}
+	
+	research_bonus_from = {
+		naval_engineering = 1.0
+	}
+	
+	on_completion = naval_engineering
+	
+	difficulty = 20
+	start_year = 2000
+	first_offset = 2003
+	additional_offset = 5
+	max_level = 6
+	folder = smallship_folder
+	can_upgrade = no
+}
+
+theater_air_defense_missile = {
+
+        battlecruiser = {
+		air_attack = 1.00
+		air_defence = 1.00
+	}
+        battleship = {
+		air_attack = 1.00
+		air_defence = 1.00
+	}
+
+	allow = {
+		shipboard_air_defense_missile = 1
+	}
+	
+	research_bonus_from = {
+		naval_engineering = 1.0
+	}
+	
+	on_completion = naval_engineering
+	
+	difficulty = 20
+	start_year = 2000
+	first_offset = 2003
+	additional_offset = 5
+	max_level = 6
+	folder = smallship_folder
+	can_upgrade = no
+}
+
+shipborne_radar = {
+
+
+	allow = {
+		marines = 1
+		ship_hull = 1
+	}
+	
+	research_bonus_from = {
+		naval_engineering = 1.00
+	}
+	
+	on_completion = naval_engineering
+	
+	difficulty = 40
+	start_year = 2000
+	folder = smallship_folder
+}
+
+the_small_ship_borne_radar = {
+
+	patrol_boat = {
+		surface_detection = 1.00
+	}
+	light_cruiser = {
+		surface_detection = 1.00
+	}
+	heavy_cruiser = {
+		air_detection = 1.00
+		surface_detection = 1.00
+	}
+	destroyer = {
+		air_detection = 1.00
+		surface_detection = 1.00
+	}
+
+	allow = {
+		shipborne_radar = 1
+	}
+	
+	research_bonus_from = {
+		naval_engineering = 0.3
+		cruiser_practical = 0.7
+	}
+	
+	on_completion = naval_engineering
+	
+	difficulty = 20
+	start_year = 2000
+	first_offset = 2003
+	additional_offset = 5
+	max_level = 6
+	folder = smallship_folder
+	can_upgrade = no
+}
+
+the_small_ship_borne_radars = {
+
+	battlecruiser = {
+		air_detection = 1.00
+		surface_detection = 1.00
+	}
+	battleship = {
+		air_detection = 1.50
+		surface_detection = 1.50
+	}
+	helicopter_carriers = {
+		air_detection = 1.00
+		surface_detection = 1.00
+	}
+	escort_carrier = {
+		air_detection = 1.00
+		surface_detection = 1.00
+	}
+	carrier = {
+		air_detection = 1.00
+		surface_detection = 1.00
+	}
+
+	allow = {
+		shipborne_radar = 1
+	}
+	
+	research_bonus_from = {
+		naval_engineering = 0.3
+                destroyer_practical = 0.7
+	}
+	
+	on_completion = naval_engineering
+	
+	difficulty = 20
+	start_year = 2000
+	first_offset = 2003
+	additional_offset = 5
+	max_level = 6
+	folder = smallship_folder
+	can_upgrade = no
+}
+
+sonar = {
+
+	battlecruiser = {
+		sub_detection = 1.50
+	}
+	destroyer = {
+		sub_detection = 1.00
+	}
+	heavy_cruiser = {
+		sub_detection = 1.00
+	}
+	battleship = {
+		sub_detection = 0.80
+	}
+
+	allow = {
+		shipborne_radar = 1
+	}
+	
+	research_bonus_from = {
+		naval_engineering = 0.3
+		cruiser_practical = 0.7
+                destroyer_practical = 0.7
+	}
+	
+	on_completion = naval_engineering
+	
+	difficulty = 20
+	start_year = 2000
+	first_offset = 2003
+	additional_offset = 5
+	max_level = 6
+	folder = smallship_folder
+	can_upgrade = no
+}
+
+shipboard_systems = {
+	
+	allow = {
+		ship_hull = 1
+		marine = 1
+		warships_defense_weapon = 1
+		shipborne_antiship_missile = 1
+		shipboard_air_defense_missile = 1
+		shipborne_radar = 1
+	}
+
+	research_bonus_from = {
+		naval_engineering = 0.3
+		cruiser_practical = 0.7
+                destroyer_practical = 0.7
+	}
+	
+	on_completion = naval_engineering
+	
+	difficulty = 40
+	start_year = 2000
+	folder = smallship_folder
+}
+
+shipborne_Combat_System = {
+
+	heavy_cruiser = {
+		sea_attack = 1.00
+		sub_attack = 0.8
+	}
+	light_cruiser = {
+		sea_attack = 1.00
+	}
+	destroyer = {
+		sea_attack = 1.00
+		sub_attack = 0.8
+	}
+	battleship = {
+		sea_attack = 1.00
+		sub_attack = 0.8
+	}
+
+	allow = {
+		shipboard_systems = 1
+	}
+	
+	research_bonus_from = {
+		naval_engineering = 0.3
+		cruiser_practical = 0.7
+                destroyer_practical = 0.7
+	}
+	
+	on_completion = naval_engineering
+	
+	difficulty = 20
+	start_year = 2000
+	first_offset = 2003
+	additional_offset = 5
+	max_level = 6
+	folder = smallship_folder
+	can_upgrade = no
+}
+
+shipboard_air_defense_system = {
+
+	heavy_cruiser = {
+		air_attack = 1.00
+		air_defence = 1.00
+	}
+	light_cruiser = {
+		air_attack = 1.00
+		air_defence = 1.00
+	}
+	destroyer = {
+		air_attack = 1.00
+		air_defence = 1.00
+	}
+	battleship = {
+		air_attack = 1.00
+		air_defence = 1.00
+	}
+	helicopter_carriers = {
+		air_attack = 1.00
+		air_defence = 1.00
+	}
+
+	allow = {
+		shipboard_systems = 1
+	}
+	
+	research_bonus_from = {
+		naval_engineering = 0.3
+		cruiser_practical = 0.7
+                destroyer_practical = 0.7
+	}
+	
+	on_completion = naval_engineering
+	
+	difficulty = 20
+	start_year = 2000
+	first_offset = 2003
+	additional_offset = 5
+	max_level = 6
+	folder = smallship_folder
+	can_upgrade = no
+}
+
+a_new_Shipborne_Combat_System = {
+
+	battlecruiser = {
+		air_attack = 1.20
+		air_defence = 1.20
+		sea_attack = 1.20
+		sub_attack = 1.00
+	}
+
+	allow = {
+		shipboard_systems = 1
+                promotion_of_information_technology = 1
+	}
+	
+	research_bonus_from = {
+		naval_engineering = 0.3
+                destroyer_practical = 0.7
+	}
+	
+	on_completion = naval_engineering
+	
+	difficulty = 20
+	start_year = 2000
+	first_offset = 2003
+	additional_offset = 5
+	max_level = 6
+	folder = smallship_folder
+	can_upgrade = no
+}
+
+Aegis_destroyer = {
+
+	activate_unit = battlecruiser
+	
+	allow = {
+		destroyers = 1
+		a_new_Shipborne_Combat_System = 1
+	}
+
+	research_bonus_from = {
+		naval_engineering = 0.3
+                destroyer_practical = 0.7
+	}
+	
+	on_completion = naval_engineering
+	
+	difficulty = 40
+	start_year = 2000
+	folder = smallship_folder
+}
+
+landing_craft_defense = {
+
+	transport_ship = {
+		amphibious_invasion_defence = 0.10
+	}
+	invasion_transport_ship = {
+		amphibious_invasion_defence = 0.10
+	}
+	assault_ship = {
+		amphibious_invasion_defence = 0.10
+	}
+
+	allow = {
+		OR = {
+		landing_craft = 1
+                amphibious_assault_ship = 1
+	    }
+	}
+	
+	research_bonus_from = {
+		naval_engineering = 0.3
+		cruiser_practical = 0.7
+	}
+	
+	allow = {
+		industrialization = 1.0
+	}
+
+	on_completion = naval_engineering
+	
+	difficulty = 20
+	start_year = 2000
+	first_offset = 2003
+	additional_offset = 5
+	max_level = 6
+	folder = smallship_folder
+}
+
+landing_craft_tactics = {
+
+	transport_ship = {
+		amphibious_invasion_speed = 0.10
+	}
+	invasion_transport_ship = {
+		amphibious_invasion_speed = 0.10
+	}
+	assault_ship = {
+		amphibious_invasion_speed = 0.10
+	}
+
+	allow = {
+		OR = {
+		landing_craft = 1
+                amphibious_assault_ship = 1
+	    }
+	}
+	
+	research_bonus_from = {
+		naval_engineering = 0.3
+		cruiser_practical = 0.7
+	}
+	
+	allow = {
+		industrialization = 1.0
+	}
+
+	on_completion = naval_engineering
+	
+	difficulty = 20
+	start_year = 2000
+	first_offset = 2003
+	additional_offset = 5
+	max_level = 6
+	folder = smallship_folder
+}
+
+
+ship_hull = {
+	
+	research_bonus_from = {
+		naval_engineering = 0.3
+		cruiser_practical = 0.7
+	}
+
+	allow = {
+		industrialization = 1.0
+	}
+	
+	on_completion = naval_engineering
+	
+	difficulty = 40
+	start_year = 2000
+	folder = capitalship_folder
+}
+
+the_small_ship = {
+
+	patrol_boat = {
+		sea_defence = 1.0
+		hull = 0.1
+	}
+
+	allow = {
+		ship_hull = 1
+	}
+	
+	research_bonus_from = {
+		naval_engineering = 0.3
+		cruiser_practical = 0.7
+	}
+	
+	on_completion = naval_engineering
+	
+	difficulty = 20
+	start_year = 2000
+	first_offset = 2003
+	additional_offset = 5
+	max_level = 6
+	folder = capitalship_folder
+	can_upgrade = no
+}
+
+medium_sized_ship = {
+
+	light_cruiser = {
+		sea_defence = 1.5
+		hull = 0.15
+	}
+	heavy_cruiser = {
+		sea_defence = 1.5
+		hull = 0.15
+	}
+	battlecruiser = {
+		sea_defence = 1.5
+		hull = 0.15
+	}
+	destroyer = {
+		sea_defence = 1.5
+		hull = 0.15
+	}
+
+	allow = {
+		ship_hull = 1
+                the_small_ship = 1
+	}
+	
+	research_bonus_from = {
+		naval_engineering = 0.3
+		cruiser_practical = 0.7
+	}
+	
+	on_completion = naval_engineering
+	
+	difficulty = 20
+	start_year = 2000
+	first_offset = 2003
+	additional_offset = 5
+	max_level = 6
+	folder = capitalship_folder
+	can_upgrade = no
+}
+
+the_large_ship = {
+
+	battleship = {
+		sea_defence = 3.0
+		hull = 0.25
+	}
+	helicopter_carriers = {
+		sea_defence = 3.0
+		hull = 0.25
+	}
+	escort_carrier = {
+		sea_defence = 3.00
+		hull = 0.25
+	}
+	super_battleship = {
+		sea_defence = 3.00
+		hull = 0.25
+	}
+
+	allow = {
+		ship_hull = 1
+                medium_sized_ship = 1
+	}
+	
+	research_bonus_from = {
+		naval_engineering = 0.3
+		destroyer_practical = 0.7
+	}
+	
+	on_completion = naval_engineering
+	
+	difficulty = 20
+	start_year = 2000
+	first_offset = 2003
+	additional_offset = 5
+	max_level = 6
+	folder = capitalship_folder
+	can_upgrade = no
+}
+
+super_large_hull = {
+
+	carrier = {
+		sea_defence = 4.00
+		hull = 0.3
+	}
+
+	allow = {
+		ship_hull = 1
+                the_large_ship = 1
+	}
+	
+	research_bonus_from = {
+		naval_engineering = 0.3
+		carrier_practical = 0.7
+	}
+	
+	on_completion = naval_engineering
+	
+	difficulty = 20
+	start_year = 2000
+	first_offset = 2003
+	additional_offset = 5
+	max_level = 6
+	folder = capitalship_folder
+	can_upgrade = no
+}
+
+submarine_hull = {
+
+	submarine = {
+		sea_defence = 1.00
+		visibility = -1
+	}
+
+	allow = {
+		ship_hull = 1
+	}
+	
+	research_bonus_from = {
+		naval_engineering = 0.3
+		submarine_practical = 0.7
+	}
+	
+	on_completion = naval_engineering
+	
+	difficulty = 20
+	start_year = 2000
+	first_offset = 2003
+	additional_offset = 5
+	max_level = 6
+	folder = capitalship_folder
+	can_upgrade = no
+}
+
+nuclear_submarine_hull = {
+
+	ANAS = {
+		sea_defence = 1.00
+		visibility = -1
+	}
+
+	allow = {
+		ship_hull = 1
+                submarine_hull = 2
+	}
+	
+	research_bonus_from = {
+		naval_engineering = 0.3
+		submarine_practical = 0.7
+	}
+	
+	on_completion = naval_engineering
+	
+	difficulty = 20
+	start_year = 2000
+	first_offset = 2003
+	additional_offset = 5
+	max_level = 6
+	folder = capitalship_folder
+	can_upgrade = no
+}
+
+marines = {
+
+	allow = {
+		ship_hull = 1
+	}
+	
+	research_bonus_from = {
+		naval_engineering = 0.3
+		cruiser_practical = 0.7
+	}
+	
+	on_completion = naval_engineering
+	
+	difficulty = 40
+	start_year = 2000
+	folder = capitalship_folder
+}
+
+small_turbine = {
+
+	patrol_boat = {
+		fuel_consumption = 0.01
+		range = 100
+		maximum_speed = 10
+	}
+
+	allow = {
+		marines = 1
+	}
+	
+	research_bonus_from = {
+		naval_engineering = 0.3
+		cruiser_practical = 0.7
+	}
+	
+	on_completion = naval_engineering
+	
+	difficulty = 20
+	start_year = 2000
+	first_offset = 2003
+	additional_offset = 5
+	max_level = 6
+	folder = capitalship_folder
+	can_upgrade = no
+}
+
+medium_sized_turbine = {
+
+	light_cruiser = {
+		fuel_consumption = 0.01
+		range = 100
+		maximum_speed = 10
+	}
+	heavy_cruiser = {
+		fuel_consumption = 0.01
+		range = 500
+		maximum_speed = 3
+	}
+
+	allow = {
+		marines = 1
+                small_turbine = 1
+	}
+	
+	research_bonus_from = {
+		naval_engineering = 0.3
+		cruiser_practical = 0.7
+	}
+	
+	on_completion = naval_engineering
+	
+	difficulty = 20
+	start_year = 2000
+	first_offset = 2003
+	additional_offset = 5
+	max_level = 6
+	folder = capitalship_folder
+	can_upgrade = no
+}
+
+large_turbine = {
+
+	destroyer = {
+		fuel_consumption = 0.01
+		range = 800
+		maximum_speed = 2
+	}
+	battlecruiser = {
+		fuel_consumption = 0.01
+		range = 1000
+		maximum_speed = 3
+	}
+	battleship = {
+		fuel_consumption = 0.01
+		range = 1000
+		maximum_speed = 2
+	}
+	helicopter_carriers = {
+		fuel_consumption = 0.01
+		range = 1000
+		maximum_speed = 2
+	}
+	escort_carrier = {
+		fuel_consumption = 0.01
+		range = 1000
+		maximum_speed = 2
+	}
+
+	allow = {
+		marines = 1
+                medium_sized_turbine = 1
+	}
+	
+	research_bonus_from = {
+		naval_engineering = 0.3
+		destroyer_practical = 0.7
+	}
+	
+	on_completion = naval_engineering
+	
+	difficulty = 20
+	start_year = 2000
+	first_offset = 2003
+	additional_offset = 5
+	max_level = 6
+	folder = capitalship_folder
+	can_upgrade = no
+}
+
+nuclear_power_turbine = {
+
+	carrier = {
+		fuel_consumption = 0.01
+		range = 1200
+		maximum_speed = 2
+	}
+
+	allow = {
+		marines = 1
+                nuclear_reactors = 1
+	}
+	
+	research_bonus_from = {
+		naval_engineering = 0.3
+		nuclear_bomb = 0.7
+		submarine_practical = 0.7
+	}
+	
+	on_completion = naval_engineering
+	
+	difficulty = 20
+	start_year = 2000
+	first_offset = 2003
+	additional_offset = 5
+	max_level = 6
+	folder = capitalship_folder
+	can_upgrade = no
+}
+
+the_submarine_propeller = {
+
+	submarine = {
+		fuel_consumption = 0.01
+		range = 500
+		maximum_speed = 1.5
+	}
+
+	allow = {
+		marines = 1
+	}
+	
+	research_bonus_from = {
+		naval_engineering = 0.3
+		submarine_practical = 0.7
+	}
+	
+	on_completion = naval_engineering
+	
+	difficulty = 20
+	start_year = 2000
+	first_offset = 2003
+	additional_offset = 5
+	max_level = 6
+	folder = capitalship_folder
+	can_upgrade = no
+}
+
+nuclear_submarine_propeller = {
+
+	ANAS = {
+		fuel_consumption = 0.01
+		range = 1000
+		maximum_speed = 3
+	}
+
+	allow = {
+		marine = 1
+                nuclear_reactors = 1
+                nuclear_power_turbine = 1
+	}
+	
+	research_bonus_from = {
+		naval_engineering = 0.3
+		nuclear_bomb = 0.7
+		submarine_practical = 0.7
+	}
+	
+	on_completion = naval_engineering
+	
+	difficulty = 20
+	start_year = 2000
+	first_offset = 2003
+	additional_offset = 5
+	max_level = 6
+	folder = capitalship_folder
+	can_upgrade = no
+}
+
+warships_defense_weapon = {
+	
+	allow = {
+		ship_hull = 1
+	}
+
+	research_bonus_from = {
+		naval_engineering = 1.00
+	}
+	
+	on_completion = naval_engineering
+	
+	difficulty = 40
+	start_year = 2000
+	folder = capitalship_folder
+}
+
+recent_anti_gun = {
+
+	destroyer = {
+		air_attack = 0.2
+		air_defence = 0.5
+	}
+	battleship = {
+		air_attack = 0.2
+		air_defence = 0.5
+	}
+	battlecruiser = {
+		air_attack = 0.2
+		air_defence = 0.5
+	}
+	light_cruiser = {
+		air_attack = 0.2
+		air_defence = 0.5
+	}
+	heavy_cruiser = {
+		air_attack = 0.2
+		air_defence = 0.5
+	}
+	helicopter_carriers = {
+		air_attack = 0.2
+		air_defence = 0.5
+	}
+	escort_carrier = {
+		air_attack = 0.2
+		air_defence = 0.5
+	}
+	carrier = {
+		air_attack = 0.2
+		air_defence = 0.5
+	}
+	super_battleship = {
+		air_attack = 0.2
+		air_defence = 0.5
+	}
+
+	allow = {
+		warships_defense_weapon = 1
+	}
+	
+	research_bonus_from = {
+		naval_engineering = 1.00
+	}
+	
+	on_completion = naval_engineering
+	
+	difficulty = 20
+	start_year = 2000
+	first_offset = 2003
+	additional_offset = 5
+	max_level = 6
+	folder = capitalship_folder
+	can_upgrade = no
+}
+
+the_small_caliber_gun = {
+
+	patrol_boat = {
+		convoy_attack = 1.0
+		sea_attack = 0.5
+		shore_bombardment = 0.50
+	}
+	destroyer = {
+		convoy_attack = 1.0
+		sea_attack = 0.5
+		shore_bombardment = 0.50
+	}
+	battleship = {
+		convoy_attack = 1.0
+		sea_attack = 0.5
+		shore_bombardment = 0.50
+	}
+	battlecruiser = {
+		convoy_attack = 1.0
+		sea_attack = 0.5
+		shore_bombardment = 0.50
+	}
+	light_cruiser = {
+		convoy_attack = 1.0
+		sea_attack = 0.5
+		shore_bombardment = 0.50
+	}
+	heavy_cruiser = {
+		convoy_attack = 1.0
+		sea_attack = 0.5
+		shore_bombardment = 0.50
+	}
+
+	allow = {
+		warships_defense_weapon = 1
+	}
+	
+	research_bonus_from = {
+		naval_engineering = 1.00
+	}
+	
+	on_completion = naval_engineering
+	
+	difficulty = 20
+	start_year = 2000
+	first_offset = 2003
+	additional_offset = 5
+	max_level = 6
+	folder = capitalship_folder
+	can_upgrade = no
+}
+
+large_caliber_gun = {
+
+	super_battleship = {
+		convoy_attack = 1.00
+		sea_attack = 1.00
+		shore_bombardment = 3.50
+	}
+
+	allow = {
+		warships_defense_weapon = 1
+	}
+	
+	research_bonus_from = {
+		naval_engineering = 1.00
+	}
+	
+	on_completion = naval_engineering
+	
+	difficulty = 20
+	start_year = 2000
+	first_offset = 2003
+	additional_offset = 5
+	max_level = 6
+	folder = capitalship_folder
+	can_upgrade = no
+}
+
+missile_boat = {
+
+	activate_unit = patrol_boat
+
+	allow = {
+		the_small_ship = 2
+                small_turbine = 1
+	}
+	
+	research_bonus_from = {
+		naval_engineering = 0.3
+		cruiser_practical = 1.0
+	}
+	
+	on_completion = naval_engineering
+	
+	difficulty = 40
+	start_year = 2000
+	folder = capitalship_folder
+}
+
+frequency_sea_combat_ship = {
+	
+	activate_unit = light_cruiser
+
+	allow = {
+		medium_sized_ship = 2
+                medium_sized_turbine = 1
+	}
+
+	research_bonus_from = {
+		naval_engineering = 0.3
+		cruiser_practical = 1.0
+	}
+	
+	on_completion = naval_engineering
+	
+	difficulty = 40
+	start_year = 2000
+	folder = capitalship_folder
+}
+
+submarines = {
+
+	activate_unit = submarine
+
+	allow = {
+		submarine_hull = 2
+                the_submarine_propeller = 1
+	}
+
+	research_bonus_from = {
+		naval_engineering = 0.3
+		submarine_practical = 1.0
+	}
+	
+	on_completion = naval_engineering
+	
+	difficulty = 40
+	start_year = 2000
+	folder = capitalship_folder
+}
+
+nuclear-powered_submarine = {
+
+	activate_unit = ANAS
+
+	allow = {
+		nuclear_submarine_hull = 2
+                nuclear_submarine_propeller = 1
+	}
+	
+	research_bonus_from = {
+		naval_engineering = 0.3
+		submarine_practical = 1.0
+		nuclear_bomb = 1.0
+	}
+	
+	on_completion = naval_engineering
+	
+	difficulty = 40
+	start_year = 2000
+	folder = capitalship_folder
+}
+
+landing_craft = {
+
+	activate_unit = invasion_transport_ship
+
+	allow = {
+		marine = 1
+                ship_hull = 1
+	}
+
+	research_bonus_from = {
+		naval_engineering = 0.3
+		cruiser_practical = 0.7
+	}
+	
+	on_completion = naval_engineering
+	
+	difficulty = 40
+	start_year = 2000
+	folder = capitalship_folder
+}
+
+frigate = {
+
+	activate_unit = heavy_cruiser
+
+	allow = {
+		medium_sized_ship = 2
+                medium_sized_turbine = 1
+	}		
+
+	research_bonus_from = {
+		naval_engineering = 0.3
+		cruiser_practical = 1.0
+	}
+	
+	on_completion = naval_engineering
+	
+	difficulty = 40
+	start_year = 2000
+	folder = capitalship_folder
+}
+
+destroyers = {
+
+	activate_unit = destroyer
+
+	allow = {
+		medium_sized_ship = 2
+                large_turbine = 1
+	}	
+
+	research_bonus_from = {
+		naval_engineering = 0.3
+		destroyer_practical = 1.00
+	}
+	
+	on_completion = naval_engineering
+	
+	difficulty = 40
+	start_year = 2000
+	folder = capitalship_folder
+}
+
+cruiser = {
+
+	activate_unit = battleship
+
+	allow = {
+		the_large_ship = 2
+                large_turbine = 1
+	}	
+
+	research_bonus_from = {
+		naval_engineering = 0.3
+		destroyer_practical = 1.0
+	}
+	
+	on_completion = naval_engineering
+	
+	difficulty = 40
+	start_year = 2000
+	folder = capitalship_folder
+}
+
+helicopter_carrier = {
+
+	activate_unit = helicopter_carriers
+
+	allow = {
+		the_large_ship = 2
+                large_turbine = 1
+	}
+	
+	research_bonus_from = {
+		naval_engineering = 0.3
+		carrier_practical = 1.0
+	}
+	
+	on_completion = naval_engineering
+	
+	difficulty = 40
+	start_year = 2000
+	folder = capitalship_folder
+}
+
+amphibious_assault_ship = {
+
+	activate_unit = assault_ship
+
+	allow = {
+		marine = 1
+                ship_hull = 1
+                landing_craft = 1
+	}
+	
+	research_bonus_from = {
+		naval_engineering = 0.3
+		cruiser_practical = 1.00
+	}
+	
+	on_completion = naval_engineering
+	
+	difficulty = 40
+	start_year = 2000
+	folder = capitalship_folder
+}
+
+aircraft_carrier = {
+
+	activate_unit = escort_carrier
+
+	allow = {
+		the_large_ship = 2
+                large_turbine = 2
+	}
+
+	research_bonus_from = {
+		naval_engineering = 0.3
+		carrier_practical = 1.0
+	}
+	
+	on_completion = naval_engineering
+	
+	difficulty = 40
+	start_year = 2000
+	folder = capitalship_folder
+}
+
+the_nuclear_powered_aircraft_carrier = {
+
+	activate_unit = carrier
+
+	allow = {
+		super_large_hull = 2
+                nuclear_power_turbine = 2
+	}
+	
+	research_bonus_from = {
+		naval_engineering = 0.3
+		carrier_practical = 1.0
+                nuclear_bomb = 1
+	}
+	
+	on_completion = naval_engineering
+	
+	difficulty = 50
+	start_year = 2000
+	folder = capitalship_folder
+}

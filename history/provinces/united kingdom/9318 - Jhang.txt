@@ -1,0 +1,5 @@
+owner = PAK
+controller = PAK
+add_core = PAK
+manpower = 10.00
+infra = 6

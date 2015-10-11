@@ -1,0 +1,29 @@
+theatre = {
+	name = "Malawian Defence Force"
+	location = 10229
+	regiment = { type = hq_brigade name = "Malawian Defence Force" historical_model = 0 }
+	division = {
+		is_reserve = yes
+		name = "1st Malawi Rifles Regiment"
+		location = 10229
+		regiment = { type = infantry_brigade name = "1st Battalion" historical_model = 0 }
+		regiment = { type = infantry_brigade name = "2nd Battalion" historical_model = 0 }
+		regiment = { type = infantry_brigade name = "3rd Battalion" historical_model = 0 }
+	}
+	division = {
+		is_reserve = yes
+		name = "2nd Malawi Rifles Regiment"
+		location = 10229
+		regiment = { type = infantry_brigade name = "4th Battalion" historical_model = 0 }
+		regiment = { type = infantry_brigade name = "5th Battalion" historical_model = 0 }
+		regiment = { type = infantry_brigade name = "6th Battalion" historical_model = 0 }
+	}
+	division = {
+		is_reserve = yes
+		name = "1st Paratrooper Regiment"
+		location = 10229
+		regiment = { type = paratrooper_brigade name = "1st Para Battalion" historical_model = 0 }
+		regiment = { type = paratrooper_brigade name = "2nd Para Battalion" historical_model = 0 }
+		regiment = { type = paratrooper_brigade name = "3rd Para Battalion" historical_model = 0 }
+	}
+}

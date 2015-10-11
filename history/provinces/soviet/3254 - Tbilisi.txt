@@ -1,0 +1,9 @@
+owner = GEO
+controller = GEO
+add_core = GEO
+infra = 7
+
+manpower = 0.5
+air_base = 3 #Airbases in Tbilisi
+leadership = 2.50
+points = 1

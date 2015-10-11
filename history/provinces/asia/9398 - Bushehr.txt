@@ -1,0 +1,11 @@
+owner = PER
+controller = PER
+add_core = PER
+infra = 6
+energy = 10.00
+air_base = 10 #Bushehr airbase
+naval_base = 6 #Bushehr port
+points = 1
+industry = 4
+leadership = 2
+crude_oil = 80.00

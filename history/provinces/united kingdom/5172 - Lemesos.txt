@@ -1,0 +1,6 @@
+owner = CYP
+controller = CYP
+add_core = CYP
+
+infra = 6
+naval_base = 2 #Larnaca port

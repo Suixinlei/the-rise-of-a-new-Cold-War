@@ -1,0 +1,8 @@
+owner = PAK
+controller = PAK
+add_core = PAK
+
+infra = 4
+naval_base = 1 #Gwadar port
+points = 1
+industry = 2

@@ -1,0 +1,71 @@
+theatre = {
+	name = "Sak’art’velos Sheiaraghebuli Dzalebi"
+	location = 3254
+	regiment = { type = hq_brigade name = "Sak’art’velos Sheiaraghebuli Dzalebi" historical_model = 1 }
+	corps = {
+		name = "Georgian Land Forces"
+		location = 3254
+		regiment = { type = hq_brigade name = "Land Forces HQ" historical_model = 1 }
+		division = {
+			is_reserve = yes
+			name = "1st Infantry Brigade"
+			location = 3458
+			regiment = { type = infantry_brigade name = "11th Telavi Light Infantry Battalion" historical_model = 1 }
+			regiment = { type = infantry_brigade name = "12th Light Infantry Battalion" historical_model = 1 }
+			regiment = { type = infantry_brigade name = "13th 'Shavnabada' Light Infantry Battalion" historical_model = 1 }
+			regiment = { type = engineer_brigade name = "Engineer Brigade" historical_model = 0 }
+		}
+		division = {
+			is_reserve = yes
+			name = "2nd Infantry Brigade"
+			location = 3849
+			regiment = { type = infantry_brigade name = "21st Light Infantry Battalion" historical_model = 1 }
+			regiment = { type = infantry_brigade name = "22nd Light Infantry Battalion" historical_model = 1 }
+			regiment = { type = infantry_brigade name = "23rd Light Infantry Battalion" historical_model = 1 }
+			regiment = { type = anti_air_brigade name = "Air Defence Brigade" historical_model = 0 }
+		}
+		division = {
+			is_reserve = yes
+			name = "3rd Infantry Brigade 'The Mamelukes'"
+			location = 3851
+			regiment = { type = infantry_brigade name = "31st Light Infantry Battalion" historical_model = 1 }
+			regiment = { type = infantry_brigade name = "32nd Light Infantry Battalion" historical_model = 1 }
+			regiment = { type = infantry_brigade name = "33rd Light Infantry Battalion" historical_model = 1 }
+			regiment = { type = artillery_brigade name = "1st Artillery Brigade" historical_model = 0 }
+		}
+		division = {
+			is_reserve = yes
+			name = "4th Infantry Brigade"
+			location = 3254
+			regiment = { type = infantry_brigade name = "41st Light Infantry Battalion" historical_model = 1 }
+			regiment = { type = infantry_brigade name = "42nd Light Infantry Battalion" historical_model = 1 }
+			regiment = { type = infantry_brigade name = "43rd Light Infantry Battalion" historical_model = 1 }
+			regiment = { type = artillery_brigade name = "2nd Artillery Brigade" historical_model = 0 }
+		}
+		division = {
+			is_reserve = yes
+			name = "5th Infantry Brigade"
+			location = 3458
+			regiment = { type = infantry_brigade name = "51st Light Infantry Battalion" historical_model = 1 }
+			regiment = { type = infantry_brigade name = "52nd Light Infantry Battalion" historical_model = 1 }
+			regiment = { type = infantry_brigade name = "53rd Light Infantry Battalion" historical_model = 1 }
+		}
+	}
+	
+	division = {
+		is_reserve = yes
+		name = "Special Forces Brigade"
+		location = 3254
+		regiment = { type = special_forces_brigade name = "Special Operations Battalion" historical_model = 1 }
+	}
+	
+	navy = {
+		name = "Georgian Navy"
+		base = 3849
+		location = 3849
+		ship = { type = patrol_boat name = "Giorgi Toreli" historical_model = 0 }
+		ship = { type = patrol_boat name = "Tbilisi" historical_model = 0 }
+	}
+}
+	
+	

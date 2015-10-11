@@ -1,0 +1,10 @@
+owner = CAM
+controller = CAM
+add_core = CAM
+
+
+infra = 6
+
+
+air_base = 3 #Douala and Yaounde airbase
+naval_base = 2 #Douala port

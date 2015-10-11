@@ -1,0 +1,10 @@
+owner = INO
+controller = INO
+add_core = INO
+industry = 10
+infra = 6
+manpower = 23.5
+air_base = 10 #Jakarta airport
+naval_base = 10 #Jakarta port
+leadership = 2.50
+points = 1

@@ -1,0 +1,7 @@
+owner = DRC
+controller = DRC
+add_core = DRC
+infra = 6
+
+air_base = 3 #Kotakoli and Kisangani airbase
+points = 1

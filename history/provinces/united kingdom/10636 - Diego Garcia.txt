@@ -1,0 +1,11 @@
+owner = ENG
+
+controller = ENG
+
+add_core = ENG
+add_core = MUR
+infra = 6
+
+air_base = 2 #Diego Garcia tracking station
+naval_base = 1
+points = 1

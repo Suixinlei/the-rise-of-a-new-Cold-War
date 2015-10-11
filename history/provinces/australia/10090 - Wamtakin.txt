@@ -1,0 +1,7 @@
+owner = PNG
+controller = PNG
+add_core = PNG
+rare_materials = 4.00
+infra = 2
+
+

@@ -1,0 +1,8 @@
+owner = VEN
+controller = VEN
+add_core = VEN
+
+infra = 6
+naval_base = 5 #Puerto Cabello port
+leadership = 2.50
+points = 1

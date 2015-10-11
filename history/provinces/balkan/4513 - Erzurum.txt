@@ -1,0 +1,8 @@
+owner = TUR
+controller = TUR
+add_core = TUR
+
+infra = 7
+air_base = 10 #Ersurum and Erzincan airbase
+points = 1
+industry = 2

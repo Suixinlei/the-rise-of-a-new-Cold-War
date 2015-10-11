@@ -1,0 +1,9 @@
+owner = TUR
+controller = TUR
+add_core = TUR
+add_core = KUR
+infra = 7
+crude_oil = 1.00
+air_base = 9 #Batman, Mus and Diyarbakir airbase
+leadership = 2.50
+points = 1

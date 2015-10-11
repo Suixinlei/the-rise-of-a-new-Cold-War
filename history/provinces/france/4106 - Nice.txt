@@ -1,0 +1,9 @@
+owner = FRA
+controller = FRA
+add_core = FRA
+industry = 10
+infra = 9
+manpower = 1.00
+
+air_base = 2 #Nice airport
+points = 1

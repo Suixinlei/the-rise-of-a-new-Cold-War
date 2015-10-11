@@ -1,0 +1,11 @@
+owner = GER
+controller = GER
+add_core = GER
+crude_oil = 3.00
+
+infra = 10
+
+
+air_base = 3 #Jever and Wittmundhafen airbase
+naval_base = 10 #Wilhelmshaven port
+points = 1

@@ -1,0 +1,7 @@
+owner = ARG
+controller = ARG
+add_core = ARG
+rare_materials = 8.00
+infra = 6
+air_base = 6 #Francisco Gabrielli, Doming Faustino and Ojeda airbase
+points = 1

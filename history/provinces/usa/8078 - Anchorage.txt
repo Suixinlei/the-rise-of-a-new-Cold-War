@@ -1,0 +1,7 @@
+owner = USA
+controller = USA
+add_core = USA
+infra = 6
+air_base = 5 #Elmendorf-Richardson airbase
+naval_base = 5 #Anchorage port
+points = 1

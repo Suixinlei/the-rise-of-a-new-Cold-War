@@ -1,0 +1,10 @@
+owner = CAN
+controller = CAN
+add_core = CAN
+infra = 6
+metal = 30.00
+rare_materials = 30.00
+air_base = 4 #CFB Greenwood
+naval_base = 4 #Halifax harbour
+leadership = 2.50
+points = 1

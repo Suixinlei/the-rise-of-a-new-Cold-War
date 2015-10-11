@@ -1,0 +1,8 @@
+owner = ARG
+controller = ARG
+add_core = ARG
+infra = 6
+air_base = 5 #Comandante Espora airbase
+naval_base = 6 #Bahia Blanca port
+leadership = 2.50
+points = 1

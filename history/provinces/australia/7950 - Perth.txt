@@ -1,0 +1,7 @@
+owner = AST
+controller = AST
+add_core = AST
+infra = 6
+air_base = 8 #RAAF Pearce and Gingin and Perth airport
+naval_base = 2 #Perth port
+points = 1

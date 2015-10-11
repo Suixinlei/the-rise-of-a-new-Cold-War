@@ -1,0 +1,3690 @@
+81001 = {
+	name = "Aoki"
+	country = JAP
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L81001
+	add_trait = marine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+81002 = {
+	name = "Bansho"
+	country = JAP
+	type = land
+	skill = 2
+	max_skill = 8
+	loyalty = 1.00
+	picture = L81002
+	add_trait = landing_specialist
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+81003 = {
+	name = "Anzai"
+	country = JAP
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 0.00
+	picture = L81003
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+81004 = {
+	name = "Yoshida"
+	country = JAP
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L81004
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+81005 = {
+	name = "Matsumoto"
+	country = JAP
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L81005
+	add_trait = engineer
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+81006 = {
+	name = "Komatsu"
+	country = JAP
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L81006
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+81007 = {
+	name = "Shimizu"
+	country = JAP
+	type = land
+	skill = 2
+	max_skill = 8
+	loyalty = 1.00
+	picture = L81007
+	add_trait = offensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+81008 = {
+	name = "Takahashi"
+	country = JAP
+	type = land
+	skill = 1
+	max_skill = 7
+	loyalty = 1.00
+	picture = L81008
+	add_trait = learners_will
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+81009 = {
+	name = "Nakamura"
+	country = JAP
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L81009
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+81010 = {
+	name = "Bansyouk"
+	country = JAP
+	type = land
+	skill = 2
+	max_skill = 8
+	loyalty = 1.00
+	picture = L81010
+	add_trait = frontline_soldier
+	add_trait = landing_specialist
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+81011 = {
+	name = "Haga"
+	country = JAP
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L81011
+	add_trait = logistics_wizard
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+81012 = {
+	name = "Mori"
+	country = JAP
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 0.00
+	picture = L81012
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+81013 = {
+	name = "Makoto"
+	country = JAP
+	type = land
+	skill = 2
+	max_skill = 8
+	loyalty = 1.00
+	picture = L81013
+	add_trait = trickster
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+81014 = {
+	name = "Higashi"
+	country = JAP
+	type = land
+	skill = 1
+	max_skill = 8
+	loyalty = 1.00
+	picture = L81014
+	add_trait = landing_specialist
+	add_trait = learners_will
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+81015 = {
+	name = "Wakayama"
+	country = JAP
+	type = land
+	skill = 1
+	max_skill = 7
+	loyalty = 1.00
+	picture = L81015
+	add_trait = improvisation
+	add_trait = learners_will
+	history = {
+		2006.1.1 = { rank = 1 }
+	}
+}
+81016 = {
+	name = "Tanimura"
+	country = JAP
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L81016
+	add_trait = commando
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+81017 = {
+	name = "Chiba"
+	country = JAP
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 0.00
+	picture = L81017
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+81018 = {
+	name = "Takashita"
+	country = JAP
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L81018
+	add_trait = landing_specialist
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+81019 = {
+	name = "Nakashima"
+	country = JAP
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L81019
+	add_trait = defensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+81020 = {
+	name = "Kobayashi"
+	country = JAP
+	type = land
+	skill = 1
+	max_skill = 7
+	loyalty = 1.00
+	picture = L81020
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+81021 = {
+	name = "Yamada"
+	country = JAP
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L81021
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+81022 = {
+	name = "Satake"
+	country = JAP
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L81022
+	add_trait = commando
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+81023 = {
+	name = "Yamaguchi"
+	country = JAP
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L81023
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+81024 = {
+	name = "Yamamoto"
+	country = JAP
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 0.00
+	picture = L81024
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+81025 = {
+	name = "Fukunaga"
+	country = JAP
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L81025
+	add_trait = landing_specialist
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+81026 = {
+	name = "Reika"
+	country = JAP
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L81026
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+81027 = {
+	name = "Sarutobi"
+	country = JAP
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L81027
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+81028 = {
+	name = "Naito"
+	country = JAP
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L81028
+	add_trait = logistics_wizard
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+81029 = {
+	name = "Nakagawa"
+	country = JAP
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 0.00
+	picture = L81029
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+81030 = {
+	name = "Sirei"
+	country = JAP
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L81030
+	add_trait = offensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+81031 = {
+	name = "Satou"
+	country = JAP
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L81031
+	add_trait = improvisation
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+81032 = {
+	name = "Yamauchi"
+	country = JAP
+	type = land
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L81032
+	add_trait = panzer_leader
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+81033 = {
+	name = "Fukuyama"
+	country = JAP
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L81033
+	add_trait = improvisation
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+81034 = {
+	name = "Katsuragi"
+	country = JAP
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L81034
+	add_trait = trickster
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+81035 = {
+	name = "Zukino"
+	country = JAP
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L81035
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+81036 = {
+	name = "Itami"
+	country = JAP
+	type = land
+	skill = 2
+	max_skill = 8
+	loyalty = 1.00
+	picture = L81036
+	add_trait = frontline_soldier
+	add_trait = commando
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+81037 = {
+	name = "Inuzuka"
+	country = JAP
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 0.00
+	picture = L81037
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+81038 = {
+	name = "Inanba"
+	country = JAP
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L81038
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+81039 = {
+	name = "Hayashi"
+	country = JAP
+	type = land
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = L81039
+	add_trait = landlubber
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+81040 = {
+	name = "Akimoto"
+	country = JAP
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L81040
+	add_trait = assaulter
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+81041 = {
+	name = "Koda"
+	country = JAP
+	type = air
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L81041
+	add_trait = night_flyer
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+81042 = {
+	name = "Nakahara"
+	country = JAP
+	type = air
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L81042
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+81043 = {
+	name = "Kawaguchi"
+	country = JAP
+	type = air
+	skill = 2
+	max_skill = 5
+	loyalty = 0.00
+	picture = L81043
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+81044 = {
+	name = "Hashimoto"
+	country = JAP
+	type = air
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L81044
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+81045 = {
+	name = "Kaya"
+	country = JAP
+	type = air
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = L81045
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+81046 = {
+	name = "Oshiro"
+	country = JAP
+	type = air
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = L81046
+	add_trait = fleet_destroyer
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+81047 = {
+	name = "Himura"
+	country = JAP
+	type = air
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L81047
+	add_trait = night_flyer
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+81048 = {
+	name = "Tamogami"
+	country = JAP
+	type = air
+	skill = 2
+	max_skill = 6
+	loyalty = 0.00
+	picture = L81048
+	add_trait = superior_air_tactician
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+81049 = {
+	name = "Nishimura"
+	country = JAP
+	type = air
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = L81049
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+81050 = {
+	name = "Onoda"
+	country = JAP
+	type = air
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L81050
+	add_trait = carpet_bomber
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+81051 = {
+	name = "Komatsubara"
+	country = JAP
+	type = air
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L81051
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+81052 = {
+	name = "Kunikata"
+	country = JAP
+	type = air
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L81052
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+81053 = {
+	name = "Yokoyama"
+	country = JAP
+	type = air
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = L81053
+	add_trait = old_guard
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+81054 = {
+	name = "Nakashima"
+	country = JAP
+	type = air
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L81054
+	add_trait = tank_buster
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+81055 = {
+	name = "Kuwahara"
+	country = JAP
+	type = sea
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L81055
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+81056 = {
+	name = "Matsuda"
+	country = JAP
+	type = sea
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = L81056
+	add_trait = seawolf
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+81057 = {
+	name = "Kiyashita"
+	country = JAP
+	type = sea
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L81057
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+81058 = {
+	name = "Goto"
+	country = JAP
+	type = sea
+	skill = 1
+	max_skill = 5
+	loyalty = 0.00
+	picture = L81058
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+81059 = {
+	name = "Genji"
+	country = JAP
+	type = sea
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L81059
+	add_trait = blockade_runner
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+81060 = {
+	name = "Hosokaya"
+	country = JAP
+	type = sea
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L81060
+	add_trait = old_guard
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+81061 = {
+	name = "Imagawa"
+	country = JAP
+	type = sea
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L81061
+	add_trait = seawolf
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+81062 = {
+	name = "Ito"
+	country = JAP
+	type = sea
+	skill = 2
+	max_skill = 6
+	loyalty = 0.00
+	picture = L81062
+	add_trait = spotter
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+81063 = {
+	name = "Fuji"
+	country = JAP
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L81063
+	add_trait = hard_defender
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+81064 = {
+	name = "Fujita"
+	country = JAP
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L81064
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+81065 = {
+	name = "Higashi"
+	country = JAP
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L81065
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+81066 = {
+	name = "Hirano"
+	country = JAP
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L81066
+	add_trait = offensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+81067 = {
+	name = "Ichikawa"
+	country = JAP
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L81067
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+81068 = {
+	name = "Imazu"
+	country = JAP
+	type = land
+	skill = 2
+	max_skill = 8
+	loyalty = 1.00
+	picture = L81068
+	add_trait = frontline_soldier
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+81069 = {
+	name = "Joshida"
+	country = JAP
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 0.00
+	picture = L81069
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+81070 = {
+	name = "Kaita"
+	country = JAP
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L81070
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+81071 = {
+	name = "Kajisaki"
+	country = JAP
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L81071
+	add_trait = assaulter
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+81072 = {
+	name = "Kurosawa"
+	country = JAP
+	type = land
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L81072
+	add_trait = commando
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+81073 = {
+	name = "Kuroyanagi"
+	country = JAP
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L81073
+	add_trait = engineer
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+81074 = {
+	name = "Kusumi"
+	country = JAP
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L81074
+	add_trait = assaulter
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+81075 = {
+	name = "Makomanai"
+	country = JAP
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 0.00
+	picture = L81075
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+81076 = {
+	name = "Maruyama"
+	country = JAP
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L81076
+	add_trait = offensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+81077 = {
+	name = "Meng"
+	country = JAP
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L81077
+	add_trait = panzer_leader
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+81078 = {
+	name = "Miyagi"
+	country = JAP
+	type = land
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L81078
+	add_trait = logistics_wizard
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+81079 = {
+	name = "Moriwaki"
+	country = JAP
+	type = land
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L81079
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+81080 = {
+	name = "Namatame"
+	country = JAP
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L81080
+	add_trait = landing_specialist
+	add_trait = trickster
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+81081 = {
+	name = "Nozawa"
+	country = JAP
+	type = land
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L81081
+	add_trait = offensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+81082 = {
+	name = "Oda"
+	country = JAP
+	type = land
+	skill = 2
+	max_skill = 8
+	loyalty = 1.00
+	picture = L81082
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+81083 = {
+	name = "Osagi"
+	country = JAP
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L81083
+	add_trait = offensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+81084 = {
+	name = "Rikushi"
+	country = JAP
+	type = land
+	skill = 1
+	max_skill = 7
+	loyalty = 1.00
+	picture = L81084
+	add_trait = learners_will
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+81085 = {
+	name = "Sapporo"
+	country = JAP
+	type = land
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L81085
+	add_trait = defensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+81086 = {
+	name = "Sasaki"
+	country = JAP
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 0.00
+	picture = L81086
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+81087 = {
+	name = "Seikyo"
+	country = JAP
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L81087
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+81088 = {
+	name = "Seki"
+	country = JAP
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L81088
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+81089 = {
+	name = "Shigemura"
+	country = JAP
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L81089
+	add_trait = panzer_leader
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+81090 = {
+	name = "Shirakawa"
+	country = JAP
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L81090
+	add_trait = winter_specialist
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+81091 = {
+	name = "Suzuki"
+	country = JAP
+	type = land
+	skill = 2
+	max_skill = 8
+	loyalty = 1.00
+	picture = L81091
+	add_trait = hard_defender
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+81092 = {
+	name = "Tagajo"
+	country = JAP
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L81092
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+81093 = {
+	name = "Takahashi"
+	country = JAP
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L81093
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+81094 = {
+	name = "Tsuge"
+	country = JAP
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L81094
+	add_trait = offensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+81095 = {
+	name = "Tsukamoto"
+	country = JAP
+	type = land
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L81095
+	add_trait = commando
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+81096 = {
+	name = "Tsuyoshi"
+	country = JAP
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L81096
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+81097 = {
+	name = "Urakami"
+	country = JAP
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L81097
+	add_trait = commando
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+81098 = {
+	name = "Yamamoto"
+	country = JAP
+	type = land
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L81098
+	add_trait = offensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+81099 = {
+	name = "Abeno"
+	country = JAP
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L81099
+	add_trait = frontline_soldier
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+81100 = {
+	name = "Agatsuma"
+	country = JAP
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L81100
+	add_trait = panzer_leader
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+81101 = {
+	name = "Ahane"
+	country = JAP
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L81101
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+81102 = {
+	name = "Aihara"
+	country = JAP
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L81102
+	add_trait = defensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+81103 = {
+	name = "Aikoh"
+	country = JAP
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L81103
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+81104 = {
+	name = "Akamatsu"
+	country = JAP
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 0.00
+	picture = L81104
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+81105 = {
+	name = "Akesaka"
+	country = JAP
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L81105
+	add_trait = trickster
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+81106 = {
+	name = "Akitomi"
+	country = JAP
+	type = land
+	skill = 2
+	max_skill = 8
+	loyalty = 1.00
+	picture = L81106
+	add_trait = assaulter
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+81107 = {
+	name = "Amachi"
+	country = JAP
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 0.00
+	picture = L81107
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+81108 = {
+	name = "Amuro"
+	country = JAP
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 0.00
+	picture = L81108
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+81109 = {
+	name = "Aomatsu"
+	country = JAP
+	type = land
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L81109
+	add_trait = commando
+	add_trait = assaulter
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+81110 = {
+	name = "Aramaki"
+	country = JAP
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L81110
+	add_trait = defensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+81111 = {
+	name = "Asahina"
+	country = JAP
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L81111
+	add_trait = improvisation
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+81112 = {
+	name = "Asoshina"
+	country = JAP
+	type = land
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = L81112
+	add_trait = old_guard
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+81113 = {
+	name = "Atsuzawa"
+	country = JAP
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L81113
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+81114 = {
+	name = "Ayahana"
+	country = JAP
+	type = land
+	skill = 1
+	max_skill = 7
+	loyalty = 1.00
+	picture = L81114
+	add_trait = defensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+81115 = {
+	name = "Azumaya"
+	country = JAP
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L81115
+	add_trait = panzer_leader
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+81116 = {
+	name = "Banno"
+	country = JAP
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L81116
+	add_trait = offensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+81117 = {
+	name = "Beppu"
+	country = JAP
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L81117
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+81118 = {
+	name = "Chiaki"
+	country = JAP
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L81118
+	add_trait = winter_specialist
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+81119 = {
+	name = "Chijimatsu"
+	country = JAP
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L81119
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+81120 = {
+	name = "Chikanari"
+	country = JAP
+	type = land
+	skill = 2
+	max_skill = 8
+	loyalty = 1.00
+	picture = L81120
+	add_trait = trainer
+	add_trait = offensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+81121 = {
+	name = "Chiyotanda"
+	country = JAP
+	type = land
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L81121
+	add_trait = commando
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+81122 = {
+	name = "Chiziwa"
+	country = JAP
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 0.00
+	picture = L81122
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+81123 = {
+	name = "Coda"
+	country = JAP
+	type = land
+	skill = 2
+	max_skill = 8
+	loyalty = 1.00
+	picture = L81123
+	add_trait = panzer_leader
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+81124 = {
+	name = "Daigo"
+	country = JAP
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L81124
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+81125 = {
+	name = "Daimon"
+	country = JAP
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L81125
+	add_trait = improvisation
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+81126 = {
+	name = "Deguchi"
+	country = JAP
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L81126
+	add_trait = old_guard
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+81127 = {
+	name = "Demura"
+	country = JAP
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L81127
+	add_trait = panzer_leader
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+81128 = {
+	name = "Dewa"
+	country = JAP
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L81128
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+81129 = {
+	name = "Domon"
+	country = JAP
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 0.00
+	picture = L81129
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+81130 = {
+	name = "Domori"
+	country = JAP
+	type = land
+	skill = 2
+	max_skill = 8
+	loyalty = 1.00
+	picture = L81130
+	add_trait = commando
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+81131 = {
+	name = "Edamura"
+	country = JAP
+	type = land
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L81131
+	add_trait = offensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+81132 = {
+	name = "Egawa"
+	country = JAP
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L81132
+	add_trait = panzer_leader
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+81133 = {
+	name = "Egusa"
+	country = JAP
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 0.00
+	picture = L81133
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+81134 = {
+	name = "Enami"
+	country = JAP
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L81134
+	add_trait = commando
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+81135 = {
+	name = "Enokida"
+	country = JAP
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L81135
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+81136 = {
+	name = "Esumi"
+	country = JAP
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L81136
+	add_trait = offensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+81137 = {
+	name = "Fuchigami"
+	country = JAP
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L81137
+	add_trait = improvisation
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+81138 = {
+	name = "Fuchizaki"
+	country = JAP
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L81138
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+81139 = {
+	name = "Fueki"
+	country = JAP
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L81139
+	add_trait = landing_specialist
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+81140 = {
+	name = "Fujibayashi"
+	country = JAP
+	type = land
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L81140
+	add_trait = panzer_leader
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+81141 = {
+	name = "Fujihara"
+	country = JAP
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L81141
+	add_trait = engineer
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+81142 = {
+	name = "Fujimaki"
+	country = JAP
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L81142
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+81143 = {
+	name = "Fujimoto"
+	country = JAP
+	type = land
+	skill = 1
+	max_skill = 8
+	loyalty = 1.00
+	picture = L81143
+	add_trait = trainer
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+81144 = {
+	name = "Fujishima"
+	country = JAP
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L81144
+	add_trait = logistics_wizard
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+81145 = {
+	name = "Fukada"
+	country = JAP
+	type = land
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L81145
+	add_trait = commando
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+81146 = {
+	name = "Genryusai"
+	country = JAP
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L81146
+	add_trait = frontline_soldier
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+81147 = {
+	name = "Gushiken"
+	country = JAP
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L81147
+	add_trait = assaulter
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+81148 = {
+	name = "Hagimori"
+	country = JAP
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L81148
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+81149 = {
+	name = "Hajikano"
+	country = JAP
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 0.00
+	picture = L81149
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+81150 = {
+	name = "Iwata"
+	country = JAP
+	type = land
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L81150
+	history = {
+		1998.1.1 = { rank = 1 }
+		2001.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+81151 = {
+	name = "Nomura"
+	country = JAP
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L81151
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+81152 = {
+	name = "Okabe"
+	country = JAP
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L81152
+	add_trait = offensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+81153 = {
+	name = "Tomi"
+	country = JAP
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 0.00
+	picture = L81153
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+81154 = {
+	name = "Yoshihiko"
+	country = JAP
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L81154
+	add_trait = improvisation
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+81155 = {
+	name = "Fukumura"
+	country = JAP
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L81155
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+81156 = {
+	name = "Haraguchi"
+	country = JAP
+	type = land
+	skill = 2
+	max_skill = 8
+	loyalty = 1.00
+	picture = L81156
+	add_trait = fortress_buster
+	add_trait = commando
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+81157 = {
+	name = "Hatoyama"
+	country = JAP
+	type = land
+	skill = 2
+	max_skill = 8
+	loyalty = 1.00
+	picture = L81157
+	add_trait = frontline_soldier
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+81158 = {
+	name = "Hirajima"
+	country = JAP
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L81158
+	add_trait = improvisation
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+81159 = {
+	name = "Hishikawa"
+	country = JAP
+	type = land
+	skill = 2
+	max_skill = 9
+	loyalty = 1.00
+	picture = L81159
+	add_trait = trainer
+	add_trait = hard_defender
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+81160 = {
+	name = "Hosokawa"
+	country = JAP
+	type = land
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L81160
+	add_trait = commando
+	add_trait = assaulter
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+81161 = {
+	name = "Hozumi"
+	country = JAP
+	type = land
+	skill = 0
+	max_skill = 6
+	loyalty = 1.00
+	picture = L81161
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+81162 = {
+	name = "Ichihashi"
+	country = JAP
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 0.00
+	picture = L81162
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+81163 = {
+	name = "Ichimada"
+	country = JAP
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L81163
+	add_trait = engineer
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+81164 = {
+	name = "Igarashi"
+	country = JAP
+	type = land
+	skill = 2
+	max_skill = 8
+	loyalty = 1.00
+	picture = L81164
+	add_trait = commando
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+81165 = {
+	name = "Ikariya"
+	country = JAP
+	type = land
+	skill = 2
+	max_skill = 8
+	loyalty = 1.00
+	picture = L81165
+	add_trait = offensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+81166 = {
+	name = "Inuzuka"
+	country = JAP
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 0.00
+	picture = L81166
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+81167 = {
+	name = "Izumikawa"
+	country = JAP
+	type = land
+	skill = 1
+	max_skill = 7
+	loyalty = 1.00
+	picture = L81167
+	add_trait = trickster
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+81168 = {
+	name = "Kakehashi"
+	country = JAP
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L81168
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+81169 = {
+	name = "Kamimachi"
+	country = JAP
+	type = land
+	skill = 1
+	max_skill = 7
+	loyalty = 1.00
+	picture = L81169
+	add_trait = engineer
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+81170 = {
+	name = "Kanasawa"
+	country = JAP
+	type = land
+	skill = 1
+	max_skill = 7
+	loyalty = 1.00
+	picture = L81170
+	add_trait = landlubber
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+81171 = {
+	name = "Karashima"
+	country = JAP
+	type = land
+	skill = 1
+	max_skill = 7
+	loyalty = 1.00
+	picture = L81171
+	add_trait = improvisation
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+81172 = {
+	name = "Kawaguchi"
+	country = JAP
+	type = land
+	skill = 2
+	max_skill = 8
+	loyalty = 1.00
+	picture = L81172
+	add_trait = assaulter
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+81173 = {
+	name = "Kawazoe"
+	country = JAP
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 0.00
+	picture = L81173
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+81174 = {
+	name = "Kibayashi"
+	country = JAP
+	type = land
+	skill = 1
+	max_skill = 7
+	loyalty = 1.00
+	picture = L81174
+	add_trait = learners_will
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+81175 = {
+	name = "Kidokoro"
+	country = JAP
+	type = land
+	skill = 2
+	max_skill = 8
+	loyalty = 1.00
+	picture = L81175
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+81176 = {
+	name = "Komatsu"
+	country = JAP
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 0.00
+	picture = L81176
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+81177 = {
+	name = "Kishinouyei"
+	country = JAP
+	type = land
+	skill = 2
+	max_skill = 8
+	loyalty = 1.00
+	picture = L81177
+	add_trait = commando
+	add_trait = logistics_wizard
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+81178 = {
+	name = "Miyawaki"
+	country = JAP
+	type = land
+	skill = 2
+	max_skill = 8
+	loyalty = 1.00
+	picture = L81178
+	add_trait = logistics_wizard
+	add_trait = hard_defender
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+81179 = {
+	name = "Koji"
+	country = JAP
+	type = land
+	skill = 2
+	max_skill = 8
+	loyalty = 1.00
+	picture = L81179
+	add_trait = offensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+81180 = {
+	name = "Kuriki"
+	country = JAP
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L81180
+	add_trait = panzer_leader
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+81181 = {
+	name = "Iwasaki"
+	country = JAP
+	type = land
+	skill = 4
+	max_skill = 8
+	loyalty = 1.00
+	picture = L81181
+	add_trait = defensive_doctrine
+	history = {
+		1995.1.1 = { rank = 1 }
+		1998.1.1 = { rank = 2 }
+		2001.1.1 = { rank = 3 }
+		2003.1.1 = { rank = 4 }
+	}
+}
+81182 = {
+	name = "Tachibana"
+	country = JAP
+	type = land
+	skill = 4
+	max_skill = 9
+	loyalty = 1.00
+	picture = L81182
+	add_trait = logistics_wizard
+	add_trait = offensive_doctrine
+	history = {
+		1995.1.1 = { rank = 1 }
+		1998.1.1 = { rank = 2 }
+		2001.1.1 = { rank = 3 }
+		2003.1.1 = { rank = 4 }
+	}
+}
+81183 = {
+	name = "Kiyoshi"
+	country = JAP
+	type = land
+	skill = 4
+	max_skill = 8
+	loyalty = 1.00
+	picture = L81183
+	add_trait = fortress_buster
+	history = {
+		1995.1.1 = { rank = 1 }
+		1998.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+81184 = {
+	name = "Banjo"
+	country = JAP
+	type = land
+	skill = 3
+	max_skill = 7
+	loyalty = 0.00
+	picture = L81184
+	history = {
+		1998.1.1 = { rank = 1 }
+		2001.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+81185 = {
+	name = "Chiba"
+	country = JAP
+	type = land
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L81185
+	add_trait = panzer_leader
+	history = {
+		1998.1.1 = { rank = 1 }
+		2001.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+81186 = {
+	name = "Hibako"
+	country = JAP
+	type = land
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L81186
+	add_trait = commando
+	history = {
+		1998.1.1 = { rank = 1 }
+		2001.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+81187 = {
+	name = "Kikuchi"
+	country = JAP
+	type = land
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L81187
+	history = {
+		1995.1.1 = { rank = 1 }
+		2001.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+81188 = {
+	name = "Kimizuka"
+	country = JAP
+	type = land
+	skill = 4
+	max_skill = 9
+	loyalty = 1.00
+	picture = L81188
+	add_trait = logistics_wizard
+	add_trait = hard_defender
+	history = {
+		1998.1.1 = { rank = 1 }
+		2001.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+81189 = {
+	name = "Mori"
+	country = JAP
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L81189
+	add_trait = defensive_doctrine
+	history = {
+		1998.1.1 = { rank = 1 }
+		2001.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+81190 = {
+	name = "Ogawa"
+	country = JAP
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L81190
+	add_trait = panzer_leader
+	history = {
+		1998.1.1 = { rank = 1 }
+		2001.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+81191 = {
+	name = "Oriki"
+	country = JAP
+	type = land
+	skill = 4
+	max_skill = 8
+	loyalty = 1.00
+	picture = L81191
+	add_trait = commando
+	history = {
+		1998.1.1 = { rank = 1 }
+		2001.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+81192 = {
+	name = "Shiiba"
+	country = JAP
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L81192
+	history = {
+		1998.1.1 = { rank = 1 }
+		2001.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+81193 = {
+	name = "Tahara"
+	country = JAP
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 0.00
+	picture = L81193
+	history = {
+		1998.1.1 = { rank = 1 }
+		2001.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+81194 = {
+	name = "Yanagisawa"
+	country = JAP
+	type = land
+	skill = 4
+	max_skill = 8
+	loyalty = 1.00
+	picture = L81194
+	add_trait = engineer
+	add_trait = assaulter
+	history = {
+		1998.1.1 = { rank = 1 }
+		2001.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+81195 = {
+	name = "Yoshifumi"
+	country = JAP
+	type = land
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L81195
+	add_trait = offensive_doctrine
+	history = {
+		1998.1.1 = { rank = 1 }
+		2001.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+81196 = {
+	name = "Uchida"
+	country = JAP
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L81196
+	history = {
+		1995.1.1 = { rank = 1 }
+		2001.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+81197 = {
+	name = "Arakawa"
+	country = JAP
+	type = land
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L81197
+	add_trait = engineer
+	history = {
+		1998.1.1 = { rank = 1 }
+		2001.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+81198 = {
+	name = "Eguchi"
+	country = JAP
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L81198
+	add_trait = panzer_leader
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+81199 = {
+	name = "Fukatsu"
+	country = JAP
+	type = land
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L81199
+	add_trait = commando
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+81200 = {
+	name = "Hidetoshi"
+	country = JAP
+	type = land
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L81200
+	add_trait = offensive_doctrine
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+81201 = {
+	name = "Horiguchi"
+	country = JAP
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L81201
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+81202 = {
+	name = "Itano"
+	country = JAP
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L81202
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+81203 = {
+	name = "Kakegawa"
+	country = JAP
+	type = land
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L81203
+	add_trait = commando
+	add_trait = learners_will
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+81204 = {
+	name = "Kitazawa"
+	country = JAP
+	type = land
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L81204
+	add_trait = landing_specialist
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+81205 = {
+	name = "Kobayashi"
+	country = JAP
+	type = land
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L81205
+	add_trait = offensive_doctrine
+	add_trait = assaulter
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+81206 = {
+	name = "Koichiro"
+	country = JAP
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 0.00
+	picture = L81206
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+81207 = {
+	name = "Matsudo"
+	country = JAP
+	type = land
+	skill = 2
+	max_skill = 8
+	loyalty = 1.00
+	picture = L81207
+	add_trait = improvisation
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+81208 = {
+	name = "Miyaji"
+	country = JAP
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L81208
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+81209 = {
+	name = "Muneo"
+	country = JAP
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L81209
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+81210 = {
+	name = "Nakahara"
+	country = JAP
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L81210
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+81211 = {
+	name = "Nakano"
+	country = JAP
+	type = land
+	skill = 2
+	max_skill = 8
+	loyalty = 1.00
+	picture = L81211
+	add_trait = panzer_leader
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+81212 = {
+	name = "Naoki"
+	country = JAP
+	type = land
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L81212
+	add_trait = offensive_doctrine
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+81213 = {
+	name = "Obuchi"
+	country = JAP
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L81213
+	add_trait = improvisation
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+81214 = {
+	name = "Onozuka"
+	country = JAP
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 0.00
+	picture = L81214
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+81215 = {
+	name = "Osamu"
+	country = JAP
+	type = land
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L81215
+	add_trait = assaulter
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+81216 = {
+	name = "Sayama"
+	country = JAP
+	type = land
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L81216
+	add_trait = defensive_doctrine
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+81217 = {
+	name = "Takeda"
+	country = JAP
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L81217
+	add_trait = landlubber
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+81218 = {
+	name = "Takemoto"
+	country = JAP
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 0.00
+	picture = L81218
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+81219 = {
+	name = "Takeo"
+	country = JAP
+	type = land
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L81219
+	add_trait = frontline_soldier
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+81220 = {
+	name = "Takeuchi"
+	country = JAP
+	type = land
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L81220
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+81221 = {
+	name = "Tanaka"
+	country = JAP
+	type = land
+	skill = 2
+	max_skill = 8
+	loyalty = 1.00
+	picture = L81221
+	add_trait = assaulter
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+81222 = {
+	name = "Tetsuro"
+	country = JAP
+	type = land
+	skill = 3
+	max_skill = 9
+	loyalty = 1.00
+	picture = L81222
+	add_trait = commando
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+81223 = {
+	name = "Tomobe"
+	country = JAP
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L81223
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+81224 = {
+	name = "Toshiyuki"
+	country = JAP
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L81224
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+81225 = {
+	name = "Yamane"
+	country = JAP
+	type = land
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L81225
+	add_trait = panzer_leader
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+81226 = {
+	name = "Yamanouchi"
+	country = JAP
+	type = land
+	skill = 4
+	max_skill = 9
+	loyalty = 1.00
+	picture = L81226
+	add_trait = commando
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+81227 = {
+	name = "Yamazawa"
+	country = JAP
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L81227
+	add_trait = winter_specialist
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+81228 = {
+	name = "Miyazawa"
+	country = JAP
+	type = air
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L81228
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+81229 = {
+	name = "Inoue"
+	country = JAP
+	type = air
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L81229
+	add_trait = superior_air_tactician
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+81230 = {
+	name = "Iwanami"
+	country = JAP
+	type = air
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L81230
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+81231 = {
+	name = "Kashiwabara"
+	country = JAP
+	type = air
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L81231
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+81232 = {
+	name = "Matsui"
+	country = JAP
+	type = air
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L81232
+	add_trait = fleet_destroyer
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+81233 = {
+	name = "Ohura"
+	country = JAP
+	type = air
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L81233
+	add_trait = tank_buster
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+81234 = {
+	name = "Osaka"
+	country = JAP
+	type = air
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L81234
+	add_trait = night_flyer
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+81235 = {
+	name = "Rikimaru"
+	country = JAP
+	type = air
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L81235
+	add_trait = tank_buster
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+81236 = {
+	name = "Suzuki"
+	country = JAP
+	type = air
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L81236
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+81237 = {
+	name = "Tamogami"
+	country = JAP
+	type = air
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L81237
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+81238 = {
+	name = "Watanabe"
+	country = JAP
+	type = air
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L81238
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+81239 = {
+	name = "Yamamoto"
+	country = JAP
+	type = air
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = L81239
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+81240 = {
+	name = "Kataoka"
+	country = JAP
+	type = air
+	skill = 4
+	max_skill = 7
+	loyalty = 1.00
+	picture = L81240
+	history = {
+		1995.1.1 = { rank = 1 }
+		1998.1.1 = { rank = 2 }
+		2001.1.1 = { rank = 3 }
+		2003.1.1 = { rank = 4 }
+	}
+}
+81241 = {
+	name = "Tamogami"
+	country = JAP
+	type = air
+	skill = 4
+	max_skill = 9
+	loyalty = 1.00
+	picture = L81241
+	add_trait = superior_air_tactician
+	history = {
+		1995.1.1 = { rank = 1 }
+		1998.1.1 = { rank = 2 }
+		2001.1.1 = { rank = 3 }
+		2003.1.1 = { rank = 4 }
+	}
+}
+81242 = {
+	name = "Tanaka"
+	country = JAP
+	type = air
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L81242
+	add_trait = night_flyer
+	history = {
+		1998.1.1 = { rank = 1 }
+		2001.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+81243 = {
+	name = "Yamaguchi"
+	country = JAP
+	type = air
+	skill = 4
+	max_skill = 9
+	loyalty = 1.00
+	picture = L81243
+	add_trait = tank_buster
+	history = {
+		1995.1.1 = { rank = 1 }
+		1998.1.1 = { rank = 2 }
+		2001.1.1 = { rank = 3 }
+		2003.1.1 = { rank = 4 }
+	}
+}
+81244 = {
+	name = "Ironaka"
+	country = JAP
+	type = air
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L81244
+	add_trait = superior_air_tactician
+	history = {
+		1998.1.1 = { rank = 1 }
+		2001.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+81245 = {
+	name = "Araki"
+	country = JAP
+	type = air
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = L81245
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+81246 = {
+	name = "Arima"
+	country = JAP
+	type = air
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L81246
+	add_trait = carpet_bomber
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+81247 = {
+	name = "Chitosekichi"
+	country = JAP
+	type = air
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L81247
+	add_trait = tank_buster
+	add_trait = superior_air_tactician
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+81248 = {
+	name = "Fujiwara"
+	country = JAP
+	type = air
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L81248
+	add_trait = superior_air_tactician
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+81249 = {
+	name = "Kidono"
+	country = JAP
+	type = air
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L81249
+	add_trait = tank_buster
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+81250 = {
+	name = "Noriyuk"
+	country = JAP
+	type = air
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L81250
+	add_trait = superior_air_tactician
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+81251 = {
+	name = "Tamba"
+	country = JAP
+	type = air
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L81251
+	add_trait = fleet_destroyer
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+81252 = {
+	name = "Yamashita"
+	country = JAP
+	type = sea
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L81252
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+81253 = {
+	name = "Hokkaido"
+	country = JAP
+	type = sea
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L81253
+	add_trait = superior_tactician
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+81254 = {
+	name = "Kitagawa"
+	country = JAP
+	type = sea
+	skill = 2
+	max_skill = 8
+	loyalty = 1.00
+	picture = L81254
+	add_trait = seawolf
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+81255 = {
+	name = "Maruyama"
+	country = JAP
+	type = sea
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L81255
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+81256 = {
+	name = "Nagahata"
+	country = JAP
+	type = sea
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L81256
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+81257 = {
+	name = "Rokuda"
+	country = JAP
+	type = sea
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L81257
+	add_trait = blockade_runner
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+81258 = {
+	name = "Saionji"
+	country = JAP
+	type = sea
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L81258
+	add_trait = seawolf
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+81259 = {
+	name = "Yaginuma"
+	country = JAP
+	type = sea
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L81259
+	add_trait = spotter
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+81260 = {
+	name = "Maehara"
+	country = JAP
+	type = sea
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L81260
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+81261 = {
+	name = "Morita"
+	country = JAP
+	type = sea
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L81261
+	add_trait = spotter
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+81262 = {
+	name = "Murakawa"
+	country = JAP
+	type = sea
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L81262
+	add_trait = superior_tactician
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+81263 = {
+	name = "Nishikawa"
+	country = JAP
+	type = sea
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L81263
+	add_trait = seawolf
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+81264 = {
+	name = "Takenaka"
+	country = JAP
+	type = sea
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = L81264
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+81265 = {
+	name = "Tokumaru"
+	country = JAP
+	type = sea
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = L81265
+	add_trait = spotter
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+81266 = {
+	name = "Tsutsumi"
+	country = JAP
+	type = sea
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L81266
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+81267 = {
+	name = "Wada"
+	country = JAP
+	type = sea
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L81267
+	add_trait = blockade_runner
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+81268 = {
+	name = "Yamamura"
+	country = JAP
+	type = sea
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L81268
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+81269 = {
+	name = "Yamazaki"
+	country = JAP
+	type = sea
+	skill = 2
+	max_skill = 8
+	loyalty = 1.00
+	picture = L81269
+	add_trait = seawolf
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+81270 = {
+	name = "Yuasa"
+	country = JAP
+	type = sea
+	skill = 2
+	max_skill = 7
+	loyalty = 0.00
+	picture = L81270
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+81271 = {
+	name = "Sato"
+	country = JAP
+	type = sea
+	skill = 5
+	max_skill = 9
+	loyalty = 1.00
+	picture = L81271
+	add_trait = spotter
+	add_trait = superior_tactician
+	history = {
+		1995.1.1 = { rank = 1 }
+		1998.1.1 = { rank = 2 }
+		2001.1.1 = { rank = 3 }
+		2003.1.1 = { rank = 4 }
+	}
+}
+81272 = {
+	name = "Fukumoto"
+	country = JAP
+	type = sea
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L81272
+	history = {
+		1998.1.1 = { rank = 1 }
+		2001.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+81273 = {
+	name = "Saito"
+	country = JAP
+	type = sea
+	skill = 4
+	max_skill = 8
+	loyalty = 1.00
+	picture = L81273
+	add_trait = superior_tactician
+	history = {
+		1998.1.1 = { rank = 1 }
+		2001.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+81274 = {
+	name = "Iwasaki"
+	country = JAP
+	type = sea
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L81274
+	add_trait = seawolf
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+81275 = {
+	name = "Kawasaki"
+	country = JAP
+	type = sea
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L81275
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+81276 = {
+	name = "Komatsu"
+	country = JAP
+	type = sea
+	skill = 2
+	max_skill = 6
+	loyalty = 0.00
+	picture = L81276
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+81277 = {
+	name = "Masakazu"
+	country = JAP
+	type = sea
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L81277
+	add_trait = superior_tactician
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+81278 = {
+	name = "Morita"
+	country = JAP
+	type = sea
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L81278
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+81279 = {
+	name = "Nakahata"
+	country = JAP
+	type = sea
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L81279
+	add_trait = seawolf
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+81280 = {
+	name = "Nara"
+	country = JAP
+	type = sea
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L81280
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+81281 = {
+	name = "Noguchi"
+	country = JAP
+	type = sea
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L81281
+	add_trait = blockade_runner
+	add_trait = superior_tactician
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+81282 = {
+	name = "Sakai"
+	country = JAP
+	type = sea
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L81282
+	add_trait = seawolf
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}

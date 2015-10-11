@@ -1,0 +1,40 @@
+capital = 9969
+government = republic
+ideology = social_conservative
+alignment = { x = -40 y = 80 }
+neutrality = 80
+national_unity = 70
+oob = "GHA_2000.txt"
+
+popularity = { 
+	national_socialist = 0
+	fascistic = 0
+	paternal_autocrat = 0
+	social_conservative = 45
+	market_liberal = 0
+	social_liberal = 1
+	social_democrat = 41
+	left_wing_radical = 3
+	leninist = 1
+	stalinist = 0
+}
+
+organization = { 
+	national_socialist = 0
+	fascistic = 0
+	paternal_autocrat = 0
+	social_conservative = 135
+	market_liberal = 0
+	social_liberal = 3
+	social_democrat = 123
+	left_wing_radical = 9
+	leninist = 3
+	stalinist = 0
+}
+
+conscription_policy = volunteer_army
+press_laws = free_press
+mobilisation_level = peace_time
+civil_laws = open_society
+economic_policy = lais_fair
+service_length = six_months

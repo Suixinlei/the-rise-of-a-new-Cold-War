@@ -1,0 +1,46 @@
+capital = 9840
+government = federation
+ideology = market_liberal
+alignment = { x = -20 y = 90 }
+neutrality = 80
+national_unity = 70
+head_of_state = 58001
+head_of_government = 58006
+chief_of_staff = 58036
+chief_of_army = 58037
+chief_of_air = 58046
+chief_of_navy = 58049
+oob = "NIG_2000.txt"
+
+popularity = { 
+	national_socialist = 0
+	fascistic = 0
+	paternal_autocrat = 0
+	social_conservative = 31
+	market_liberal = 56
+	social_liberal = 12
+	social_democrat = 0
+	left_wing_radical = 0
+	leninist = 0
+	stalinist = 0
+}
+
+organization = { 
+	national_socialist = 0
+	fascistic = 0
+	paternal_autocrat = 0
+	social_conservative = 93
+	market_liberal = 168
+	social_liberal = 36
+	social_democrat = 0
+	left_wing_radical = 0
+	leninist = 0
+	stalinist = 0
+}
+
+conscription_policy = volunteer_army
+press_laws = free_press
+mobilisation_level = peace_time
+civil_laws = restrictions
+economic_policy = limit_intervention
+service_length = six_months

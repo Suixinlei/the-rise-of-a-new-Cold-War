@@ -1,0 +1,10 @@
+owner = INO
+controller = INO
+add_core = INO
+
+
+infra = 6
+
+
+air_base = 1 #Yogyakarta airport
+industry = 1

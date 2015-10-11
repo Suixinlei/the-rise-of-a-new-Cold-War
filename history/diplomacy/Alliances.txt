@@ -1,0 +1,88 @@
+#USA + Australia
+alliance = {
+	first = USA
+	second = AST
+	start_date = 1111.1.1
+	end_date = 9999.9.9
+}
+#USA + New Zealand
+alliance = {
+	first = USA
+	second = NZL
+	start_date = 1111.1.1
+	end_date = 9999.9.9
+}
+alliance = {
+	first = USA
+	second = KOR
+	start_date = 1111.1.1
+	end_date = 9999.9.9
+}
+alliance = {
+	first = USA
+	second = ISR
+	start_date = 1111.1.1
+	end_date = 9999.9.9
+}
+alliance = {
+	first = USA
+	second = SIN
+	start_date = 1111.1.1
+	end_date = 9999.9.9
+}
+alliance = {
+	first = USA
+	second = SIN
+	start_date = 1111.1.1
+	end_date = 9999.9.9
+}
+alliance = {
+	first = USA
+	second = PHI
+	start_date = 1111.1.1
+	end_date = 9999.9.9
+}
+alliance = {
+	first = USA
+	second = PAK
+	start_date = 1111.1.1
+	end_date = 9999.9.9
+}
+alliance = {
+	first = USA
+	second = MEX
+	start_date = 1111.1.1
+	end_date = 9999.9.9
+}
+alliance = {
+	first = CHC
+	second = PRK
+	start_date = 1111.1.1
+	end_date = 9999.9.9
+}
+alliance = {
+	first = CHC
+	second = PAK
+	start_date = 1111.1.1
+	end_date = 9999.9.9
+}
+alliance = {
+	first = CHC
+	second = BUR
+	start_date = 1111.1.1
+	end_date = 9999.9.9
+}
+#UK + Australia
+alliance = {
+	first = ENG
+	second = AST
+	start_date = 1111.1.1
+	end_date = 9999.9.9
+}
+#UK + New Zealand
+alliance = {
+	first = ENG
+	second = NZL
+	start_date = 1111.1.1
+	end_date = 9999.9.9
+}

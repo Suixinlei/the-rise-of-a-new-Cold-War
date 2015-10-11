@@ -1,0 +1,120 @@
+color = { 152  130  191 }
+graphical_culture = Italian
+last_election = 2001.6.24
+duration = 48
+
+default_templates = {
+	generic_infantry = {
+		infantry_brigade
+		infantry_brigade
+		infantry_brigade
+	}
+	generic_milita = {
+		militia_brigade
+		militia_brigade
+		militia_brigade
+	}
+	generic_armoured = {
+		armor_brigade
+		motorized_brigade
+		motorized_brigade
+	}
+	generic_cavalry = {
+		cavalry_brigade
+		cavalry_brigade
+	}
+}
+
+unit_names = {
+	infantry_brigade = {
+		"I Këmbësori Pjesëtim" "II Këmbësori Pjesëtim" "III Këmbësori Pjesëtim" "IV Këmbësori Pjesëtim" "V Këmbësori Pjesëtim" "VI Këmbësori Pjesëtim" "VII Këmbësori Pjesëtim" "VIII Këmbësori Pjesëtim" "IX Këmbësori Pjesëtim" "X Këmbësori Pjesëtim" "XI Këmbësori Pjesëtim" 
+		"XII Këmbësori Pjesëtim" 
+	}
+	cavalry_brigade = {
+		"I Kavaleri Pjesëtim" "II Kavaleri Pjesëtim" "III Kavaleri Pjesëtim" "IV Kavaleri Pjesëtim" "V Kavaleri Pjesëtim" "VI Kavaleri Pjesëtim" "VII Kavaleri Pjesëtim" "VIII Kavaleri Pjesëtim" 
+	}
+	motorized_brigade = {
+		"I Këmbësori Pje. përdor Kamion" "II Këmbësori Pje. përdor Kamion" "III Këmbësori Pje. përdor Kamion" "IV Këmbësori Pje. përdor Kamion" "V Këmbësori Pje. përdor Kamion" 
+	}
+	mechanized_brigade = {
+		"I Këmb. Pje. për. Kamion Mekanik" "II Këmb. Pje. për. Kamion Mekanik" "III Këmb. Pje. për. Kamion Mekanik" "IV Këmb. Pje. për. Kamion Mekanik" "V Këmb. Pje. për. Kamion Mekanik" 
+	}
+	light_armor_brigade = {
+		"I Koracë Pjesëtim" "II Koracë Pjesëtim" "III Koracë Pjesëtim" "IV Koracë Pjesëtim" "V Koracë Pjesëtim" 
+	}
+	armor_brigade = {
+		"I Koracë Pjesëtim" "II Koracë Pjesëtim" "III Koracë Pjesëtim" "IV Koracë Pjesëtim" "V Koracë Pjesëtim" 
+	}
+	paratrooper_brigade = {
+		"I Ushtar përdor Aviacion Pjesëtim" "II Ushtar përdor Aviacion Pjesëtim" "III Ushtar përdor Aviacion Pjesëtim" "IV Ushtar përdor Aviacion Pjesëtim" "V Ushtar përdor Aviacion Pjesëtim" 
+	}
+	marine_brigade = {
+		"I Marinë Këmbësori Pjesëtim" "II Marinë Këmbësori Pjesëtim" "III Marinë Këmbësori Pjesëtim" "IV Marinë Këmbësori Pjesëtim" "V Marinë Këmbësori Pjesëtim" 
+	}
+	bergsjaeger_brigade = {
+		"I Bjeshkë Këmbësori Pjesëtim" "II Bjeshkë Këmbësori Pjesëtim" "III Bjeshkë Këmbësori Pjesëtim" "IV Bjeshkë Këmbësori Pjesëtim" "V Bjeshkë Këmbësori Pjesëtim" 
+	}
+	garrison_brigade = {
+		"I Këmbësori Pjesëtim" "II Këmbësori Pjesëtim" "III Këmbësori Pjesëtim" "IV Këmbësori Pjesëtim" "V Këmbësori Pjesëtim" "VI Këmbësori Pjesëtim" "VII Këmbësori Pjesëtim" "VIII Këmbësori Pjesëtim" "IX Këmbësori Pjesëtim" "X Këmbësori Pjesëtim" "XI Këmbësori Pjesëtim" 
+		"XII Këmbësori Pjesëtim" 
+	}
+	hq_brigade = {
+		"I. Shqiperia Armé" "II. Shqiperia Armé" "III. Shqiperia Armé" "IV. Shqiperia Armé" "V. Shqiperia Armé" "VI. Shqiperia Armé" "VII. Shqiperia Armé" "VIII. Shqiperia Armé" "IX. Shqiperia Armé" "X. Shqiperia Armé" 
+	}
+	militia_brigade = {
+		"I Polici Këmbësori Pjesëtim" "II Polici Këmbësori Pjesëtim" "III Polici Këmbësori Pjesëtim" "IV Polici Këmbësori Pjesëtim" "V Polici Këmbësori Pjesëtim" "VI Polici Këmbësori Pjesëtim" "VII Polici Këmbësori Pjesëtim" "VIII Polici Këmbësori Pjesëtim" "IX Polici Këmbësori Pjesëtim" "X Polici Këmbësori Pjesëtim" 
+	}
+	multi_role = {
+		"1. Avion Luftarak Grup" "2. Avion Luftarak Grup" "3. Avion Luftarak Grup" "4. Avion Luftarak Grup" "5. Avion Luftarak Grup" 
+	}
+	interceptor = {
+		"1. Avion Luftarak Grup" "2. Avion Luftarak Grup" "3. Avion Luftarak Grup" "4. Avion Luftarak Grup" "5. Avion Luftarak Grup" 
+	}
+	strategic_bomber = {
+		"1. Grup Avion Luftarak Strategejik" "2. Grup Avion Luftarak Strategejik" "3. Grup Avion Luftarak Strategejik" "4. Grup Avion Luftarak Strategejik" "5. Grup Avion Luftarak Strategejik" 
+	}
+	tactical_bomber = {
+		"1. Grup Avion Luftarak Taktikë" "2. Grup Avion Luftarak Taktikë" "3. Grup Avion Luftarak Taktikë" "4. Grup Avion Luftarak Taktikë" "5. Grup Avion Luftarak Taktikë" 
+	}
+	naval_bomber = {
+		"1. Naval Bombardoj Avion Grup" "2. Naval Bombardoj Avion Grup" "3. Naval Bombardoj Avion Grup" "4. Naval Bombardoj Avion Grup" "5. Naval Bombardoj Avion Grup" "1. Naval Torpetz Avion Grup" "2. Naval Torpetz Avion Grup" "3. Naval Torpetz Avion Grup" "4. Naval Torpetz Avion Grup" "5. Naval Torpetz Avion Grup" 
+	}
+	cas = {
+		"1. Zhujtem Bombardoj Avion Grup" "2. Zhujtem Bombardoj Avion Grup" "3. Zhujtem Bombardoj Avion Grup" "4. Zhujtem Bombardoj Avion Grup" "5. Zhujtem Bombardoj Avion Grup" 
+	}
+	transport_plane = {
+		"1. Transportoj Avion Grup" "2. Transportoj Avion Grup" "3. Transportoj Avion Grup" 
+	}
+	battleship = {
+		"Shqipëri" "Tiranë" 
+	}
+	light_cruiser = {
+		"Vlora" "Korca" "Berati" "Durresi" "Elbasani" 
+	}
+	heavy_cruiser = {
+		"Vlora" "Korca" "Berati" "Durresi" "Elbasani" 
+	}
+	battlecruiser = {
+		"Shqipëri" "Tiranë" 
+	}
+	destroyer = {
+		"Gjirokastra edhe Grup" "Corovoda edhe Grup" "Cakrani edhe Grup" "Vithkuni edhe Grup" "Pogradeci edhe Grup" "Oriku edhe Grup" "Himara edhe Grup" 
+	}
+	carrier = {
+		"Skanderbej" 
+	}
+	submarine = {
+		"Delfin edhe Grup" "Salmon edhe Grup" "Ngjalë edhe Grup" "Troftë edhe Grup" "Midhje edhe Grup" "Gaforre edhe Grup" "1. Nendetëse Flöte" "2. Nendetëse Flöte" 
+	}
+	transport_ship = {
+		"1. Transportoj Marinë Naval" "2. Transportoj Marinë Naval" "3. Transportoj Marinë Naval" "4. Transportoj Marinë Naval" "5. Transportoj Marinë Naval" "6. Transportoj Marinë Naval" 
+	}
+
+}
+
+
+ministers = {
+	
+}
+
+

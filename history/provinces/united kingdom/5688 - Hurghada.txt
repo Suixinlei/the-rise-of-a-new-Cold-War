@@ -1,0 +1,8 @@
+owner = EGY
+controller = EGY
+add_core = EGY
+infra = 6
+
+air_base = 2 #Hurghada airport
+naval_base = 3 #Hurghada port
+points = 1

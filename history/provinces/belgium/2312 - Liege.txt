@@ -1,0 +1,12 @@
+owner = BEL
+controller = BEL
+add_core = BEL
+energy = 5.00
+terrain = woods
+
+
+
+
+infra = 9
+
+

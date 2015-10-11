@@ -1,0 +1,6 @@
+owner = TUR
+controller = TUR
+add_core = TUR
+manpower = 2.00
+infra = 7
+

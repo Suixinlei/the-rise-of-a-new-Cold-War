@@ -1,0 +1,63 @@
+capital = 5916
+government = dictatorship
+ideology = stalinist
+alignment = { x = -200 y = 200 }
+neutrality = 80
+national_unity = 70
+head_of_state = 72200 
+head_of_government = 72201 
+foreign_minister = 72202 
+armament_minister = 72204 
+minister_of_security = 72205 
+minister_of_intelligence = 72205 
+chief_of_staff = 72207 
+chief_of_army = 72208 
+chief_of_navy = 72209 
+chief_of_air = 72208 
+oob = "VIE_2000.txt"
+
+popularity = { 
+	national_socialist = 0
+	fascistic = 0
+	paternal_autocrat = 0
+	social_conservative = 10
+	market_liberal = 0
+	social_liberal = 0
+	social_democrat = 0
+	left_wing_radical = 10
+	leninist = 10
+	stalinist = 70
+}
+
+organization = { 
+	national_socialist = 0
+	fascistic = 0
+	paternal_autocrat = 0
+	social_conservative = 0
+	market_liberal = 0
+	social_liberal = 0
+	social_democrat = 0
+	left_wing_radical = 50
+	leninist = 100
+	stalinist = 150
+}
+
+conscription_policy = military_service
+press_laws = state_press
+mobilisation_level = peace_time
+civil_laws = restrictions
+service_length = twelve_months
+economic_policy = partial_control
+
+
+
+agriculture_machinery = 1
+industrial_facilities = 1
+weapon_design = 1
+automatic_weapons = 1
+helmet_improvement = 1
+anti_tank_rocket = 1
+the_police_force = 1
+forest_equipment = 1
+artillery_troops = 1
+air_defence_forces = 1

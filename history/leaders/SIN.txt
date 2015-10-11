@@ -1,0 +1,307 @@
+75800 = {
+	name = "黄永宏"
+	country = SIN
+	type = land
+	skill = 4
+	max_skill = 7
+	loyalty = 1.00
+	picture = SIN1
+	add_trait = fortress_buster
+	add_trait = versatile
+	history = {
+		2003.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+		2003.1.1 = { rank = 4 }
+	}
+}
+75801 = {
+	name = "戴荣利"
+	country = SIN
+	type = sea
+	skill = 2
+	max_skill = 4
+	loyalty = 1.00
+	picture = SIN2
+	add_trait = seawolf
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+75802 = {
+	name = "黄维彬"
+	country = SIN
+	type = land
+	skill = 1
+	max_skill = 4
+	loyalty = 1.00
+	picture = SIN3
+	add_trait = engineer
+	history = {
+		2003.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+75803 = {
+	name = "拉文德·星"
+	country = SIN
+	type = land
+	skill = 0
+	max_skill = 3
+	loyalty = 1.00
+	picture = SIN4
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+75804 = {
+	name = "符策谋"
+	country = SIN
+	type = air
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = SIN5
+	add_trait = logistics_wizard
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+75805 = {
+	name = "梁建鸿"
+	country = SIN
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = SIN6
+	history = {
+		2003.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+75806 = {
+	name = "伍逸松"
+	country = SIN
+	type = land
+	skill = 1
+	max_skill = 3
+	loyalty = 1.00
+	picture = SIN7
+	history = {
+		2003.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+75807 = {
+	name = "郭木财"
+	country = SIN
+	type = land
+	skill = 1
+	max_skill = 4
+	loyalty = 1.00
+	picture = SIN8
+	add_trait = learners_will
+	history = {
+		2003.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+75808 = {
+	name = "林泉宝"
+	country = SIN
+	type = land
+	skill = 1
+	max_skill = 4
+	loyalty = 1.00
+	picture = SIN9
+	add_trait = trainer
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+75809 = {
+	name = "林清耀"
+	country = SIN
+	type = land
+	skill = 0
+	max_skill = 4
+	loyalty = 1.00
+	picture = SIN10
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+75810 = {
+	name = "林金春"
+	country = SIN
+	type = air
+	skill = 0
+	max_skill = 3
+	loyalty = 1.00
+	picture = SIN11
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+75811 = {
+	name = "黄志勤"
+	country = SIN
+	type = air
+	skill = 1
+	max_skill = 4
+	loyalty = 1.00
+	picture = SIN12
+	add_trait = tank_buster
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+75812 = {
+	name = "黄志平"
+	country = SIN
+	type = sea
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = SIN13
+	add_trait = blockade_runner
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+75813 = {
+	name = "黄志明"
+	country = SIN
+	type = air
+	skill = 1
+	max_skill = 4
+	loyalty = 1.00
+	picture = SIN14
+	add_trait = carpet_bomber
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+75814 = {
+	name = "马士强"
+	country = SIN
+	type = land
+	skill = 0
+	max_skill = 3
+	loyalty = 1.00
+	picture = SIN15
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+75815 = {
+	name = "赵文良"
+	country = SIN
+	type = sea
+	skill = 1
+	max_skill = 3
+	loyalty = 1.00
+	picture = SIN16
+	add_trait = superior_tactician
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+75816 = {
+	name = "朱维良"
+	country = SIN
+	type = land
+	skill = 0
+	max_skill = 3
+	loyalty = 1.00
+	picture = SIN17
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+75817 = {
+	name = "李显龙"
+	country = SIN
+	type = land
+	skill = 0
+	max_skill = 3
+	loyalty = 1.00
+	picture = SIN18
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+75818 = {
+	name = "札记昊"
+	country = SIN
+	type = land
+	skill = 0
+	max_skill = 4
+	loyalty = 1.00
+	picture = SIN19
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+75819 = {
+	name = "维文"
+	country = SIN
+	type = land
+	skill = 0
+	max_skill = 5
+	loyalty = 1.00
+	picture = SIN20
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+75820 = {
+	name = "谢建平"
+	country = SIN
+	type = land
+	skill = 0
+	max_skill = 2
+	loyalty = 1.00
+	picture = SIN21
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+75821 = {
+	name = "潘黎平"
+	country = SIN
+	type = land
+	skill = 0
+	max_skill = 2
+	loyalty = 1.00
+	picture = SIN22
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+75822 = {
+	name = "潘雅阁"
+	country = SIN
+	type = land
+	skill = 0
+	max_skill = 2
+	loyalty = 1.00
+	picture = SIN23
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+75823 = {
+	name = "马亚清"
+	country = SIN
+	type = land
+	skill = 1
+	max_skill = 3
+	loyalty = 1.00
+	picture = SIN24
+	add_trait = assaulter
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}

@@ -1,0 +1,49 @@
+capital  = 812
+government = constitutional_monarchy
+ideology = social_democrat
+alignment = { x = 0 y = -146 }
+neutrality = 80
+national_unity = 90
+2008.1.1 = { join_faction = allies } 
+
+oob = "NOR_2000.txt"
+
+
+popularity = { 
+	national_socialist = 0
+	fascistic = 0
+	paternal_autocrat = 0
+	social_conservative = 30
+	market_liberal = 9
+	social_liberal = 6
+	social_democrat = 35
+	left_wing_radical = 19
+	leninist = 0
+	stalinist = 1
+}
+
+organization = { 
+	national_socialist = 0
+	fascistic = 0
+	paternal_autocrat = 0
+	social_conservative = 90
+	market_liberal = 27
+	social_liberal = 18
+	social_democrat = 105
+	left_wing_radical = 57
+	leninist = 0
+	stalinist = 3
+}
+
+conscription_policy = military_service
+press_laws = free_press
+mobilisation_level = peace_time
+civil_laws = open_society
+service_length = twelve_months
+economic_policy = limit_intervention
+
+
+weapon_design = 1
+the_fuselage_design = 1
+ship_hull = 1
+industrial_facilities = 1

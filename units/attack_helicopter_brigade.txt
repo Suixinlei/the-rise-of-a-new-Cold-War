@@ -1,0 +1,96 @@
+attack_helicopter_brigade = {
+	type = land
+	sprite = Infantry
+	unit_group = direct_fire_unit_type
+	active = no
+	is_mobile = yes
+
+	#Size Definitions
+	max_strength = 3
+	default_organisation = 30
+	default_morale = 0.30
+	officers = 100
+
+	#Building Costs
+	build_cost_ic = 6.0
+	build_cost_manpower = 0.36
+	build_time = 220
+	repair_cost_multiplier = 0.05
+
+	#Misc Abilities
+	maximum_speed = 30.00
+	transport_weight = 10.00
+	supply_consumption = 0.30
+	fuel_consumption = 0.45
+	radio_strength = 1
+
+	#Defensive Abilities
+	defensiveness = 1.00
+	toughness = 0.50
+	softness = 0.10 
+	air_defence = 1.00
+
+	#Offensive Abilities
+	suppression = 0.40
+	soft_attack = 2.50
+	hard_attack = 2.20
+	air_attack = 0.20
+	ap_attack = 5
+
+	amphibious = { attack = 0.10 }
+	river = { 
+		attack = 0.10 
+		movement = 0.05
+	}
+	fort = { attack = 0.10 }
+	urban = {
+		movement = -0.05
+		attack = -0.60
+		defence = -0.30
+	}
+	marsh = {
+		movement = -0.20
+		attack = -0.70
+		defence = -0.30
+	}
+	jungle = {
+		movement = -0.15
+		attack = -0.80
+		defence = -0.30
+	}
+	forest = {
+		movement = -0.05
+		attack = -0.60
+		defence = -0.30
+	}
+	woods = {
+		movement = -0.05
+		attack = -0.60
+		defence = -0.30
+	}
+	mountain = {
+		movement = -0.10
+		attack = -0.50
+		defence = -0.20
+	}
+	hills = {
+		attack = 0.20
+		defence = -0.10
+	}
+	desert = {
+		attack = 0.40
+	}
+	arctic = {
+		movement = -0.10
+		attack = 0.30
+	}
+
+
+	combat_width = 0
+
+	completion_size = 0.3
+	on_completion = four_engine_aircraft_practical
+	
+	priority = 10
+
+}

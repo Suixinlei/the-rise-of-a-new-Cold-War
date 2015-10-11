@@ -1,0 +1,8 @@
+owner = CUB
+controller = CUB
+add_core = CUB
+
+infra = 6
+naval_base = 4 #Santiago de Cuba port
+leadership = 2.50
+points = 1

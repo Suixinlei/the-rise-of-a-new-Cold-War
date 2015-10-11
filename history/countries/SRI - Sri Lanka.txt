@@ -1,0 +1,40 @@
+capital = 6320
+government = republic
+ideology = social_conservative
+alignment = { x = 0 y = 50 }
+neutrality = 80
+national_unity = 70
+oob = "SRI_2000.txt"
+
+popularity = { 
+	national_socialist = 1
+	fascistic = 0
+	paternal_autocrat = 0
+	social_conservative = 15
+	market_liberal = 15
+	social_liberal = 15
+	social_democrat = 19
+	left_wing_radical = 1
+	leninist = 9
+	stalinist = 18
+}
+
+organization = { 
+	national_socialist = 3
+	fascistic = 0
+	paternal_autocrat = 0
+	social_conservative = 45
+	market_liberal = 45
+	social_liberal = 45
+	social_democrat = 57
+	left_wing_radical = 3
+	leninist = 27
+	stalinist = 54
+}
+
+conscription_policy = volunteer_army
+press_laws = free_press
+mobilisation_level = low_mobilisation
+civil_laws = open_society
+service_length = eighteen_months
+economic_policy = lais_fair

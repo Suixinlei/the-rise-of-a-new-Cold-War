@@ -1,0 +1,6 @@
+owner = MEX
+controller = MEX
+add_core = MEX
+industry = 7
+infra = 7
+manpower = 10.00

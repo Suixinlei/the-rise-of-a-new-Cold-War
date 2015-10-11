@@ -1,0 +1,6 @@
+owner = NAM
+controller = NAM
+add_core = NAM
+
+infra = 6
+leadership = 0.10

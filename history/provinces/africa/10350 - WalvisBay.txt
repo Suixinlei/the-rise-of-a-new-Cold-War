@@ -1,0 +1,8 @@
+owner = NAM
+controller = NAM
+add_core = NAM
+
+infra = 6
+
+naval_base = 2 #Walvis Bay port
+points = 1

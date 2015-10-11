@@ -1,0 +1,2286 @@
+172001 = {
+	name = "Sir Dannatt"
+	country = ENG
+	type = land
+	skill = 4
+	max_skill = 8
+	loyalty = 1.00
+	picture = L172001
+	add_trait = marine	
+	add_trait = commando	
+	history = {
+																1998.1.1 = { rank = 1 }
+									2000.1.1 = { rank = 2 }
+									2003.1.1 = { rank = 3 }
+         }
+}
+172002 = {
+	name = "Thornton"
+	country = ENG
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L172002
+	add_trait = panzer_leader
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+172003 = {
+	name = "Carter"
+	country = ENG
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L172003
+	add_trait = engineer
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+172004 = {
+	name = "Arons"
+	country = ENG
+	type = land
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = L172004
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+172005 = {
+	name = "Thomas"
+	country = ENG
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L172005
+	add_trait = panzer_leader
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+172006 = {
+	name = "Healey"
+	country = ENG
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L172006
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+172007 = {
+	name = "Jones"
+	country = ENG
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L172007
+	add_trait = engineer
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+172008 = {
+	name = "Wheeler"
+	country = ENG
+	type = land
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L172008
+	add_trait = offensive_doctrine
+	add_trait = panzer_leader
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+172009 = {
+	name = "Nicklas"
+	country = ENG
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L172009
+	add_trait = landing_specialist
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+172010 = {
+	name = "Olbrycht"
+	country = ENG
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L172010
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+172011 = {
+	name = "Peters"
+	country = ENG
+	type = land
+	skill = 3
+	max_skill = 6
+	loyalty = 1.00
+	picture = L172011
+	add_trait = hard_defender
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+172012 = {
+	name = "Miller"
+	country = ENG
+	type = land
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = L172012
+	add_trait = old_guard
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+172013 = {
+	name = "Terrence"
+	country = ENG
+	type = land
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L172013
+	add_trait = panzer_leader
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+172014 = {
+	name = "Nigel"
+	country = ENG
+	type = land
+	skill = 2
+	max_skill = 8
+	loyalty = 1.00
+	picture = L172014
+	add_trait = panzer_leader
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+172015 = {
+	name = "Adbourne"
+	country = ENG
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L172015
+	add_trait = landing_specialist
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+172016 = {
+	name = "Butler"
+	country = ENG
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L172016
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+172017 = {
+	name = "Rankin"
+	country = ENG
+	type = land
+	skill = 2
+	max_skill = 8
+	loyalty = 1.00
+	picture = L172017
+	add_trait = landing_specialist
+	add_trait = learners_will
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+172018 = {
+	name = "Hannson"
+	country = ENG
+	type = land
+	skill = 1
+	max_skill = 7
+	loyalty = 1.00
+	picture = L172018
+	add_trait = trickster
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+172019 = {
+	name = "Sutbyrne"
+	country = ENG
+	type = land
+	skill = 1
+	max_skill = 7
+	loyalty = 1.00
+	picture = L172019
+	add_trait = engineer
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+172020 = {
+	name = "Lancer"
+	country = ENG
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L172020
+	add_trait = logistics_wizard
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+172021 = {
+	name = "Gregory"
+	country = ENG
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L172021
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+172022 = {
+	name = "Cuthbert"
+	country = ENG
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L172022
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+172023 = {
+	name = "Davies"
+	country = ENG
+	type = land
+	skill = 1
+	max_skill = 7
+	loyalty = 1.00
+	picture = L172023
+	add_trait = learners_will
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+172024 = {
+	name = "Carleton-Smith"
+	country = ENG
+	type = land
+	skill = 2
+	max_skill = 8
+	loyalty = 1.00
+	picture = L172024
+	add_trait = commando
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+172025 = {
+	name = "Dutton"
+	country = ENG
+	type = land
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L172025
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+172026 = {
+	name = "Burt"
+	country = ENG
+	type = land
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L172026
+	add_trait = offensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+172027 = {
+	name = "Harrison"
+	country = ENG
+	type = land
+	skill = 1
+	max_skill = 7
+	loyalty = 1.00
+	picture = L172027
+	add_trait = improvisation
+	add_trait = learners_will
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+172028 = {
+	name = "Birchall"
+	country = ENG
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L172028
+	add_trait = engineer
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+172029 = {
+	name = "Harris"
+	country = ENG
+	type = land
+	skill = 1
+	max_skill = 7
+	loyalty = 1.00
+	picture = L172029
+	add_trait = landing_specialist
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+172030 = {
+	name = "Howes"
+	country = ENG
+	type = land
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L172030
+	add_trait = logistics_wizard
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+172031 = {
+	name = "Salmon"
+	country = ENG
+	type = land
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L172031
+	add_trait = trainer
+	add_trait = landing_specialist
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+172032 = {
+	name = "Roberts"
+	country = ENG
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L172032
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+172033 = {
+	name = "Stephenson"
+	country = ENG
+	type = land
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L172033
+	add_trait = panzer_leader
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+172034 = {
+	name = "Denaro"
+	country = ENG
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L172034
+	add_trait = assaulter
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+172035 = {
+	name = "Dudley"
+	country = ENG
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L172035
+	add_trait = commando
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+172036 = {
+	name = "McDonald"
+	country = ENG
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L172036
+	add_trait = commando
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+172037 = {
+	name = "Bower"
+	country = ENG
+	type = land
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L172037
+	add_trait = defensive_doctrine
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+172038 = {
+	name = "Kingsley"
+	country = ENG
+	type = land
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = L172038
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+172039 = {
+	name = "Sir Browne"
+	country = ENG
+	type = land
+	skill = 4
+	max_skill = 8
+	loyalty = 1.00
+	picture = L172039
+	add_trait = commando
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+172040 = {
+	name = "Hughes"
+	country = ENG
+	type = land
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L172040
+	add_trait = commando
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+172041 = {
+	name = "Broad"
+	country = ENG
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L172041
+	add_trait = offensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+172042 = {
+	name = "Smith"
+	country = ENG
+	type = land
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L172042
+	add_trait = panzer_leader
+	add_trait = trickster
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+172043 = {
+	name = "Irwin"
+	country = ENG
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L172043
+	add_trait = commando
+	add_trait = trickster
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+172044 = {
+	name = "Bruce"
+	country = ENG
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L172044
+	add_trait = winter_specialist
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+172045 = {
+	name = "Bucknall"
+	country = ENG
+	type = land
+	skill = 1
+	max_skill = 8
+	loyalty = 1.00
+	picture = L172045
+	add_trait = commando
+	add_trait = learners_will
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+172046 = {
+	name = "Gray"
+	country = ENG
+	type = land
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L172046
+	add_trait = panzer_leader
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+172047 = {
+	name = "Carter"
+	country = ENG
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L172047
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+172048 = {
+	name = "Garden"
+	country = ENG
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L172048
+	add_trait = landing_specialist
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+172049 = {
+	name = "Crown"
+	country = ENG
+	type = land
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L172049
+	add_trait = commando
+	add_trait = engineer
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+172050 = {
+	name = "Barnaby"
+	country = ENG
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L172050
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+172051 = {
+	name = "Richard"
+	country = ENG
+	type = land
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L172051
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+172052 = {
+	name = "G. Thompson"
+	country = ENG
+	type = land
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L172052
+	add_trait = panzer_leader
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+172053 = {
+	name = "Wales"
+	country = ENG
+	type = land
+	skill = 3
+	max_skill = 9
+	loyalty = 1.00
+	picture = L172053
+	add_trait = trainer
+	add_trait = offensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+172054 = {
+	name = "Sir Dourban"
+	country = ENG
+	type = land
+	skill = 4
+	max_skill = 7
+	loyalty = 1.00
+	picture = L172054
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+172055 = {
+	name = "Filton"
+	country = ENG
+	type = land
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = L172055
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+172056 = {
+	name = "Mackay"
+	country = ENG
+	type = land
+	skill = 2
+	max_skill = 8
+	loyalty = 1.00
+	picture = L172056
+	add_trait = trainer
+	add_trait = offensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+172057 = {
+	name = "Guthrie"
+	country = ENG
+	type = land
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L172057
+	add_trait = commando
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+172058 = {
+	name = "Charrington"
+	country = ENG
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L172058
+	add_trait = panzer_leader
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+172059 = {
+	name = "Leakey"
+	country = ENG
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L172059
+	add_trait = fortress_buster
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+172060 = {
+	name = "Christison"
+	country = ENG
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L172060
+	add_trait = assaulter
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+172061 = {
+	name = "Palin"
+	country = ENG
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L172061
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+172062 = {
+	name = "Clark"
+	country = ENG
+	type = land
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L172062
+	add_trait = fortress_buster
+	add_trait = assaulter
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+172063 = {
+	name = "Sir Richards"
+	country = ENG
+	type = land
+	skill = 4
+	max_skill = 9
+	loyalty = 1.00
+	picture = L172063
+	add_trait = offensive_doctrine
+	history = {
+		1995.1.1 = { rank = 1 }
+		2000.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+172064 = {
+	name = "Clutterbuck"
+	country = ENG
+	type = land
+	skill = 1
+	max_skill = 7
+	loyalty = 1.00
+	picture = L172064
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+172065 = {
+	name = "Cox"
+	country = ENG
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L172065
+	add_trait = frontline_soldier
+	add_trait = commando
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+172066 = {
+	name = "Crocker"
+	country = ENG
+	type = land
+	skill = 2
+	max_skill = 8
+	loyalty = 1.00
+	picture = L172066
+	add_trait = panzer_leader
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+172067 = {
+	name = "Cunningham"
+	country = ENG
+	type = land
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L172067
+	add_trait = defensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+172068 = {
+	name = "Welsh"
+	country = ENG
+	type = land
+	skill = 2
+	max_skill = 8
+	loyalty = 1.00
+	picture = L172068
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+172069 = {
+	name = "Curtis"
+	country = ENG
+	type = land
+	skill = 1
+	max_skill = 7
+	loyalty = 1.00
+	picture = L172069
+	add_trait = commando
+	add_trait = learners_will
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+172070 = {
+	name = "Custance"
+	country = ENG
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L172070
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+172071 = {
+	name = "Kinsella"
+	country = ENG
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L172071
+	add_trait = trickster
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+172072 = {
+	name = "Prince Harry"
+	country = ENG
+	type = land
+	skill = 2
+	max_skill = 8
+	loyalty = 1.00
+	picture = L172072
+	add_trait = learners_will
+	history = {
+		2015.1.1 = { rank = 1 }
+	}
+}
+172073 = {
+	name = "Wood"
+	country = ENG
+	type = land
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L172073
+	add_trait = engineer
+	add_trait = hard_defender
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+172074 = {
+	name = "Dickinson"
+	country = ENG
+	type = land
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = L172074
+	add_trait = old_guard
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+172075 = {
+	name = "Lanfield"
+	country = ENG
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L172075
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+172076 = {
+	name = "Bell"
+	country = ENG
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L172076
+	add_trait = landing_specialist
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+172077 = {
+	name = "Scott"
+	country = ENG
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L172077
+	add_trait = defensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+172078 = {
+	name = "Sir Jackson"
+	country = ENG
+	type = land
+	skill = 5
+	max_skill = 9
+	loyalty = 1.00
+	picture = L172078
+	add_trait = hard_defender
+	add_trait = trickster
+	history = {
+		1995.1.1 = { rank = 1 }
+		1998.1.1 = { rank = 2 }
+		2001.1.1 = { rank = 3 }
+		2003.1.1 = { rank = 4 }
+	}
+}
+172079 = {
+	name = "Harbottle"
+	country = ENG
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L172079
+	add_trait = old_guard
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+172080 = {
+	name = "Sir Beach"
+	country = ENG
+	type = land
+	skill = 4
+	max_skill = 7
+	loyalty = 1.00
+	picture = L172080
+	add_trait = defensive_doctrine
+	add_trait = frontline_soldier
+	history = {
+		1995.1.1 = { rank = 1 }
+		2000.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+172081 = {
+	name = "Sir Walker"
+	country = ENG
+	type = land
+	skill = 4
+	max_skill = 8
+	loyalty = 1.00
+	picture = L172081
+	add_trait = logistics_wizard
+	history = {
+		1998.1.1 = { rank = 1 }
+		2000.1.1 = { rank = 2 }
+									2003.1.1 = { rank = 3 }
+        }
+}
+172082 = {
+	name = "Sir Wall"
+	country = ENG
+	type = land
+	skill = 4
+	max_skill = 9
+	loyalty = 1.00
+	picture = L172082
+	add_trait = improvisation
+	add_trait = offensive_doctrine
+	history = {
+		1998.1.1 = { rank = 1 }
+		2000.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+172083 = {
+	name = "Trousdell"
+	country = ENG
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L172083
+	add_trait = commando
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+172084 = {
+	name = "Sir Bill"
+	country = ENG
+	type = land
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L172084
+	add_trait = offensive_doctrine
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+172085 = {
+	name = "Barrons"
+	country = ENG
+	type = land
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L172085
+	add_trait = panzer_leader
+	history = {
+		2003.1.1 = { rank = 2 }
+	}
+}
+172086 = {
+	name = "Davis"
+	country = ENG
+	type = land
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L172086
+	add_trait = landing_specialist
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+172087 = {
+	name = "Messenger"
+	country = ENG
+	type = land
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L172087
+	add_trait = frontline_soldier
+	add_trait = commando
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+172088 = {
+	name = "Riddell-Webster"
+	country = ENG
+	type = land
+	skill = 2
+	max_skill = 8
+	loyalty = 1.00
+	picture = L172088
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+172089 = {
+	name = "Sir Lamb"
+	country = ENG
+	type = land
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L172089
+	add_trait = offensive_doctrine
+	add_trait = engineer
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+172090 = {
+	name = "White-Spunner"
+	country = ENG
+	type = land
+	skill = 3
+	max_skill = 6
+	loyalty = 1.00
+	picture = L172090
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+172091 = {
+	name = "Moffat"
+	country = ENG
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L172091
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+172092 = {
+	name = "Poole"
+	country = ENG
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L172092
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+172093 = {
+	name = "Levey"
+	country = ENG
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L172093
+	add_trait = engineer
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+172094 = {
+	name = "G. Wheeler"
+	country = ENG
+	type = land
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L172094
+	add_trait = offensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+172095 = {
+	name = "Aldridge"
+	country = ENG
+	type = land
+	skill = 3
+	max_skill = 9
+	loyalty = 1.00
+	picture = L172095
+	add_trait = landing_specialist
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+172096 = {
+	name = "Jackson"
+	country = ENG
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L172096
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+172097 = {
+	name = "A. Smith"
+	country = ENG
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L172097
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+172098 = {
+	name = "Mayall"
+	country = ENG
+	type = land
+	skill = 2
+	max_skill = 8
+	loyalty = 1.00
+	picture = L172098
+	add_trait = offensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+172099 = {
+	name = "G. Hill"
+	country = ENG
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L172099
+	add_trait = frontline_soldier
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+172100 = {
+	name = "Aitken"
+	country = ENG
+	type = land
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L172100
+	add_trait = commando
+	add_trait = assaulter
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+172101 = {
+	name = "Norton"
+	country = ENG
+	type = land
+	skill = 3
+	max_skill = 9
+	loyalty = 1.00
+	picture = L172101
+	add_trait = panzer_leader
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+172102 = {
+	name = "Bruce"
+	country = ENG
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L172102
+	add_trait = offensive_doctrine
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+172103 = {
+	name = "Felton"
+	country = ENG
+	type = land
+	skill = 2
+	max_skill = 9
+	loyalty = 1.00
+	picture = L172103
+	add_trait = landing_specialist
+	add_trait = learners_will
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+172104 = {
+	name = "Weighill"
+	country = ENG
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L172104
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+172105 = {
+	name = "Napier"
+	country = ENG
+	type = land
+	skill = 3
+	max_skill = 9
+	loyalty = 1.00
+	picture = L172105
+	add_trait = trainer
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+172106 = {
+	name = "Lane"
+	country = ENG
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L172106
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+172107 = {
+	name = "Wade"
+	country = ENG
+	type = land
+	skill = 3
+	max_skill = 9
+	loyalty = 1.00
+	picture = L172107
+	add_trait = panzer_leader
+	add_trait = trickster
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+172108 = {
+	name = "Dempsey"
+	country = ENG
+	type = land
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L172108
+	add_trait = commando
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+172109 = {
+	name = "Hutchings"
+	country = ENG
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L172109
+	add_trait = hard_defender
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+172110 = {
+	name = "Wilson"
+	country = ENG
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L172110
+	add_trait = old_guard
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+172111 = {
+	name = "Sir Stirrup"
+	country = ENG
+	type = air
+	skill = 4
+	max_skill = 9
+	loyalty = 1.00
+	picture = L172111
+	add_trait = tank_buster
+	add_trait = superior_air_tactician
+	history = {
+		1995.1.1 = { rank = 1 }
+		2000.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+172112 = {
+	name = "Burridge"
+	country = ENG
+	type = air
+	skill = 3
+	max_skill = 6
+	loyalty = 1.00
+	picture = L172112
+	add_trait = night_flyer
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+172113 = {
+	name = "Newsome"
+	country = ENG
+	type = air
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L172113
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+172114 = {
+	name = "Brandon"
+	country = ENG
+	type = air
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L172114
+	add_trait = carpet_bomber
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+172115 = {
+	name = "Wilcox"
+	country = ENG
+	type = air
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L172115
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+172116 = {
+	name = "Sephton"
+	country = ENG
+	type = air
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L172116
+	add_trait = superior_air_tactician
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+172117 = {
+	name = "Langrish"
+	country = ENG
+	type = air
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L172117
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+172118 = {
+	name = "Green"
+	country = ENG
+	type = air
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L172118
+	add_trait = superior_air_tactician
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+172119 = {
+	name = "Sir Graydon"
+	country = ENG
+	type = air
+	skill = 4
+	max_skill = 9
+	loyalty = 1.00
+	picture = L172119
+	add_trait = carpet_bomber
+	history = {
+		1998.1.1 = { rank = 1 }
+		2000.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+172120 = {
+	name = "Sir Torpy"
+	country = ENG
+	type = air
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L172120
+	add_trait = night_flyer
+	add_trait = superior_air_tactician
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+172121 = {
+	name = "Sir Squire"
+	country = ENG
+	type = air
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L172121
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+172122 = {
+	name = "Sir Dalton"
+	country = ENG
+	type = air
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L172122
+	add_trait = fleet_destroyer
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+172123 = {
+	name = "Calver"
+	country = ENG
+	type = air
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = L172123
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+172124 = {
+	name = "Ford"
+	country = ENG
+	type = air
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = L172124
+	add_trait = fleet_destroyer
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+172125 = {
+	name = "Rutherford"
+	country = ENG
+	type = air
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = L172125
+	add_trait = night_flyer
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+172126 = {
+	name = "Renuart"
+	country = ENG
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L172126
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+172127 = {
+	name = "Sir Johns"
+	country = ENG
+	type = air
+	skill = 4
+	max_skill = 8
+	loyalty = 1.00
+	picture = L172127
+	add_trait = carpet_bomber
+	add_trait = tank_buster
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+172128 = {
+	name = "Ingram"
+	country = ENG
+	type = air
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L172128
+	add_trait = night_flyer
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+172129 = {
+	name = "Bryant"
+	country = ENG
+	type = land
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L172129
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+172130 = {
+	name = "Collins"
+	country = ENG
+	type = air
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L172130
+	add_trait = tank_buster
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+172131 = {
+	name = "Renly"
+	country = ENG
+	type = air
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L172131
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+172132 = {
+	name = "Granger"
+	country = ENG
+	type = air
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L172132
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+172133 = {
+	name = "Garwood"
+	country = ENG
+	type = air
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L172133
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+172134 = {
+	name = "Pettipas"
+	country = ENG
+	type = air
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L172134
+	add_trait = superior_air_tactician
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+172135 = {
+	name = "Aspen"
+	country = ENG
+	type = air
+	skill = 1
+	max_skill = 7
+	loyalty = 1.00
+	picture = L172135
+	add_trait = night_flyer
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+172136 = {
+	name = "Bamford"
+	country = ENG
+	type = air
+	skill = 1
+	max_skill = 6
+	loyalty = 1.00
+	picture = L172136
+	add_trait = carpet_bomber
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+172137 = {
+	name = "Bennington"
+	country = ENG
+	type = sea
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L172137
+	add_trait = seawolf
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+172138 = {
+	name = "Paulson"
+	country = ENG
+	type = sea
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L172138
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+172139 = {
+	name = "Bradshaw"
+	country = ENG
+	type = air
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L172139
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+172140 = {
+	name = "Drysdale"
+	country = ENG
+	type = sea
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L172140
+	add_trait = spotter
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+172141 = {
+	name = "Bennett"
+	country = ENG
+	type = sea
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = L172141
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+172142 = {
+	name = "Norberts"
+	country = ENG
+	type = sea
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L172142
+	add_trait = blockade_runner
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+172143 = {
+	name = "Davis-Marks"
+	country = ENG
+	type = sea
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L172143
+	add_trait = blockade_runner
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+172144 = {
+	name = "Collings"
+	country = ENG
+	type = sea
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L172144
+	add_trait = superior_tactician
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+172145 = {
+	name = "Smith"
+	country = ENG
+	type = sea
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L172145
+	add_trait = seawolf
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+172146 = {
+	name = "Sir Slater"
+	country = ENG
+	type = sea
+	skill = 4
+	max_skill = 8
+	loyalty = 1.00
+	picture = L172146
+	add_trait = spotter
+	add_trait = superior_tactician
+	history = {
+		1998.1.1 = { rank = 1 }
+		2000.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+172147 = {
+	name = "Sir Stanhope"
+	country = ENG
+	type = sea
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L172147
+	add_trait = seawolf
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+172148 = {
+	name = "Rickson"
+	country = ENG
+	type = sea
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L172148
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+172149 = {
+	name = "Sir Band"
+	country = ENG
+	type = sea
+	skill = 4
+	max_skill = 7
+	loyalty = 1.00
+	picture = L172149
+	add_trait = superior_tactician
+	history = {
+		1998.1.1 = { rank = 1 }
+		2000.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+172150 = {
+	name = "Kallgren"
+	country = ENG
+	type = sea
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L172150
+	add_trait = seawolf
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+172151 = {
+	name = "Nailer"
+	country = ENG
+	type = sea
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = L172151
+	add_trait = blockade_runner
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+172152 = {
+	name = "Hudson"
+	country = ENG
+	type = sea
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L172152
+	add_trait = superior_tactician
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+172153 = {
+	name = "Fraser"
+	country = ENG
+	type = land
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L172153
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+172154 = {
+	name = "John"
+	country = ENG
+	type = sea
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = L172154
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+172155 = {
+	name = "Wood"
+	country = ENG
+	type = sea
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L172155
+	add_trait = superior_tactician
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+172156 = {
+	name = "Sir Boyce"
+	country = ENG
+	type = sea
+	skill = 4
+	max_skill = 8
+	loyalty = 1.00
+	picture = L172156
+	add_trait = seawolf
+	history = {
+		1998.1.1 = { rank = 1 }
+		2000.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}
+172157 = {
+	name = "Everett"
+	country = ENG
+	type = sea
+	skill = 2
+	max_skill = 6
+	loyalty = 1.00
+	picture = L172157
+	add_trait = seawolf
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+172158 = {
+	name = "Morse"
+	country = ENG
+	type = land
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L172158
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+172159 = {
+	name = "Sir Granville-Chapman"
+	country = ENG
+	type = sea
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L172159
+	add_trait = superior_tactician
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+172160 = {
+	name = "Edward"
+	country = ENG
+	type = sea
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L172160
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+172161 = {
+	name = "Sir Essenhigh"
+	country = ENG
+	type = sea
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L172161
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+172162 = {
+	name = "Sir West"
+	country = ENG
+	type = sea
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L172162
+	add_trait = superior_tactician
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+172163 = {
+	name = "Ballantyne"
+	country = ENG
+	type = sea
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L172163
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+172164 = {
+	name = "Reacher"
+	country = ENG
+	type = sea
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L172164
+	add_trait = seawolf
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+172165 = {
+	name = "Sally"
+	country = ENG
+	type = sea
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L172165
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+172166 = {
+	name = "Clark"
+	country = ENG
+	type = sea
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L172166
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+172167 = {
+	name = "Huxley-Waller"
+	country = ENG
+	type = sea
+	skill = 2
+	max_skill = 5
+	loyalty = 1.00
+	picture = L172167
+	add_trait = spotter
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+172168 = {
+	name = "Brims"
+	country = ENG
+	type = land
+	skill = 3
+	max_skill = 8
+	loyalty = 1.00
+	picture = L172168
+	add_trait = panzer_leader
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+172169 = {
+	name = "Lorimer"
+	country = ENG
+	type = land
+	skill = 4
+	max_skill = 8
+	loyalty = 1.00
+	picture = L172169
+	add_trait = commando
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+172170 = {
+	name = "Viggers"
+	country = ENG
+	type = land
+	skill = 4
+	max_skill = 8
+	loyalty = 1.00
+	picture = L172170
+	add_trait = trickster
+	history = {
+		2000.1.1 = { rank = 1 }
+		2003.1.1 = { rank = 2 }
+	}
+}
+172171 = {
+	name = "Clink"
+	country = ENG
+	type = sea
+	skill = 1
+	max_skill = 5
+	loyalty = 1.00
+	picture = L172171
+	add_trait = seawolf
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+172172 = {
+	name = "Morse"
+	country = ENG
+	type = sea
+	skill = 2
+	max_skill = 7
+	loyalty = 1.00
+	picture = L172172
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+172173 = {
+	name = "Morgans"
+	country = ENG
+	type = sea
+	skill = 3
+	max_skill = 7
+	loyalty = 1.00
+	picture = L172173
+	history = {
+		2003.1.1 = { rank = 1 }
+	}
+}
+172174 = {
+	name = "Sir Garnett"
+	country = ENG
+	type = sea
+	skill = 4
+	max_skill = 8
+	loyalty = 1.00
+	picture = L172174
+	add_trait = spotter
+	add_trait = superior_tactician
+	history = {
+		1995.1.1 = { rank = 1 }
+		2000.1.1 = { rank = 2 }
+		2003.1.1 = { rank = 3 }
+	}
+}

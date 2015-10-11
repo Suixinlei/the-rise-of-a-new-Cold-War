@@ -1,0 +1,7 @@
+owner = DRC
+controller = DRC
+add_core = DRC
+infra = 3
+manpower = 10.00
+
+points = 1

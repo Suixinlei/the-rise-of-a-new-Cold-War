@@ -1,0 +1,12 @@
+owner = IND
+controller = IND
+add_core = IND
+industry = 10
+infra = 6
+manpower = 30.00
+energy = 50.00
+metal = 40.00
+rare_materials = 20.00
+air_base = 10 #Hindon airforce station and Indira Gandhi airport
+leadership = 3.00
+points = 1

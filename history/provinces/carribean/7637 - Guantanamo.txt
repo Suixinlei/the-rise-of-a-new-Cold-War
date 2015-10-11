@@ -1,0 +1,8 @@
+owner = USA
+controller = USA
+add_core = CUB
+points = 2
+infra = 6
+leadership = 0.10
+air_base = 2
+naval_base = 5 #Guantanamo naval base

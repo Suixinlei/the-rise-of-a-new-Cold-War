@@ -1,0 +1,41 @@
+capital = 9756
+government = republic
+ideology = fascistic
+alignment = { x = 20 y = 70 }
+neutrality = 80
+national_unity = 70
+oob = "GAM_2000.txt"
+
+popularity = { 
+	national_socialist = 0
+	fascistic = 85
+	paternal_autocrat = 2
+	social_conservative = 0
+	market_liberal = 0
+	social_liberal = 0
+	social_democrat = 0
+	left_wing_radical = 0
+	leninist = 4
+	stalinist = 0
+}
+
+organization = { 
+	national_socialist = 0
+	fascistic = 150
+	paternal_autocrat = 6
+	social_conservative = 0
+	market_liberal = 0
+	social_liberal = 0
+	social_democrat = 0
+	left_wing_radical = 0
+	leninist = 12
+	stalinist = 0
+}
+
+conscription_policy = volunteer_army
+press_laws = limited_censorship
+mobilisation_level = peace_time
+civil_laws = open_society
+economic_policy = lais_fair
+service_length = six_months
+

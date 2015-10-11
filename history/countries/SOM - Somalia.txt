@@ -1,0 +1,40 @@
+capital = 10004
+government = federation
+ideology = social_conservative
+alignment = { x = 0 y = 50 }
+neutrality = 80
+national_unity = 40
+oob = "SOM_2000.txt"
+
+popularity = { 
+	national_socialist = 50
+	fascistic = 0
+	paternal_autocrat = 0
+	social_conservative = 20
+	market_liberal = 0
+	social_liberal = 10
+	social_democrat = 0
+	left_wing_radical = 10
+	leninist = 5
+	stalinist = 5
+}
+
+organization = { 
+	national_socialist = 150
+	fascistic = 0
+	paternal_autocrat = 0
+	social_conservative = 150
+	market_liberal = 0
+	social_liberal = 30
+	social_democrat = 0
+	left_wing_radical = 30
+	leninist = 15
+	stalinist = 15
+}
+
+conscription_policy = abolished_military
+press_laws = limited_censorship
+mobilisation_level = high_alert
+civil_laws = restrictions
+service_length = six_months
+economic_policy = lais_fair

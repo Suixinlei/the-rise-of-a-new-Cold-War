@@ -1,0 +1,9 @@
+owner = EGY
+controller = EGY
+add_core = EGY
+industry = 8
+infra = 7
+manpower = 3.4
+air_base = 5 #Cairo airport and airbase
+leadership = 1.00
+points = 1

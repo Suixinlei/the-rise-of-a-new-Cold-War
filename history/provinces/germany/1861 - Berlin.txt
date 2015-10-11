@@ -1,0 +1,12 @@
+owner = GER
+controller = GER
+add_core = GER
+industry = 10.00
+infra = 10
+energy = 60.00
+metal = 45.00
+rare_materials = 25.00
+manpower = 2.00
+air_base = 10 #Berlin airfield
+leadership = 3.00
+points = 1

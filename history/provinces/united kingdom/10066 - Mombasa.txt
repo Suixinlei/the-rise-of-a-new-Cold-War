@@ -1,0 +1,11 @@
+owner = KEN
+controller = KEN
+add_core = KEN
+manpower = 4.7
+infra = 6
+
+
+
+naval_base = 6 #Mombasa port
+leadership = 2.50
+points = 1

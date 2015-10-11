@@ -1,0 +1,8 @@
+owner = KOR
+
+controller = KOR
+
+add_core = KOR
+energy = 5.00
+infra = 6
+air_base = 2 #Pohang airport

@@ -1,0 +1,8 @@
+owner = PAN
+controller = PAN
+add_core = PAN
+infra = 6
+manpower = 1.00
+
+air_base = 2 #Tocumen airport
+points = 1

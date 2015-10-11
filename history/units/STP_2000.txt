@@ -1,0 +1,5 @@
+theatre = {
+	name = "Defence Forces of Sao Tome and Principe"
+	location = 10632
+	regiment = { type = hq_brigade name = "Defence Forces of Sao Tome and Principe" historical_model = 0 }
+}

@@ -1,0 +1,8 @@
+owner = IND
+controller = IND
+add_core = IND
+
+infra = 4
+
+air_base = 2 #Badgora airbase
+points = 1

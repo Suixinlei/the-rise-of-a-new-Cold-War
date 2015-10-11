@@ -1,0 +1,13 @@
+owner = POL
+controller = POL
+add_core = POL
+manpower = 1.00
+
+
+infra = 10
+
+air_base = 8 #Lech Walesa airport and surrounding airbase
+naval_base = 7 #Gdansk port
+leadership = 2.50
+points = 1
+energy = 35.00

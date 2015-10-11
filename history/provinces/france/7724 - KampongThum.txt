@@ -1,0 +1,4 @@
+owner = CMB
+controller = CMB
+add_core = CMB
+infra = 4

@@ -1,0 +1,8 @@
+owner = COM
+controller = COM
+add_core = COM
+manpower = 0.3
+infra = 2
+
+naval_base = 1
+points = 1

@@ -1,0 +1,96 @@
+99001 = {
+	name = "Shahid"
+	country = MLD
+	type = sea
+	skill = 0
+	max_skill = 8
+	loyalty = 1.00
+	picture = L99001
+	history = {
+		2000.1.1 = { rank = 1 } 
+	}
+}
+99002 = {
+	name = "Jaleel"
+	country = MLD
+	type = land
+	skill = 2
+	max_skill = 8
+	loyalty = 1.00
+	picture = L99002
+	history = {
+		2000.1.1 = { rank = 1 } 
+	}
+}
+99003 = {
+	name = "Zahir"
+	country = MLD
+	type = land
+	skill = 1
+	max_skill = 8
+	loyalty = 1.00
+	picture = L99003
+	history = {
+		2000.1.1 = { rank = 2 } 
+	}
+}
+99004 = {
+	name = "Shiyam"
+	country = MLD
+	type = land
+	skill = 1
+	max_skill = 8
+	loyalty = 1.00
+	picture = L99004
+	history = {
+		2000.1.1 = { rank = 2 } 
+	}
+}
+99005 = {
+	name = "Mohamed"
+	country = MLD
+	type = land
+	skill = 1
+	max_skill = 8
+	loyalty = 1.00
+	picture = L99005
+	history = {
+		2000.1.1 = { rank = 2 } 
+	}
+}
+99006 = {
+	name = "Nilam"
+	country = MLD
+	type = land
+	skill = 0
+	max_skill = 8
+	loyalty = 1.00
+	picture = L99006
+	history = {
+		2000.1.1 = { rank = 1 } 
+	}
+}
+99007 = {
+	name = "Mansoor"
+	country = MLD
+	type = land
+	skill = 0
+	max_skill = 8
+	loyalty = 1.00
+	picture = L99007
+	history = {
+		2000.1.1 = { rank = 1 } 
+	}
+}
+99008 = {
+	name = "Shamaal"
+	country = MLD
+	type = land
+	skill = 0
+	max_skill = 8
+	loyalty = 1.00
+	picture = L99008
+	history = {
+		2000.1.1 = { rank = 1 } 
+	}
+}

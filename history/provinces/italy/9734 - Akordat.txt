@@ -1,0 +1,4 @@
+owner = ERI
+controller = ERI
+add_core = ERI
+infra = 5

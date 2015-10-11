@@ -1,0 +1,137 @@
+color = { 155  101  107 }
+graphical_culture = Generic
+last_election = 2001.10.25
+duration = 48
+
+default_templates = {
+	generic_infantry = {
+		infantry_brigade
+		infantry_brigade
+		infantry_brigade
+	}
+	generic_milita = {
+		militia_brigade
+		militia_brigade
+		militia_brigade
+	}
+	generic_armoured = {
+		armor_brigade
+		motorized_brigade
+		motorized_brigade
+	}
+	generic_cavalry = {
+		cavalry_brigade
+		cavalry_brigade
+	}
+}
+
+unit_names = {
+	infantry_brigade = {
+		"1. División de Infantería" "2. División de Infantería" "3. División de Infantería" "4. División de Infantería" "5. División de Infantería" "6. División de Infantería" "7. División de Infantería" "8. División de Infantería" "9. División de Infantería" "10. División de Infantería" "11. División de Infantería" 
+		"12. División de Infantería" "13. División de Infantería" "14. División de Infantería" "15. División de Infantería" "16. División de Infantería" "17. División de Infantería" "18. División de Infantería" "19. División de Infantería" "20. División de Infantería" "21. División de Infantería" "22. División de Infantería" 
+		"23. División de Infantería" "24. División de Infantería" "25. División de Infantería" "26. División de Infantería" "27. División de Infantería" "28. División de Infantería" "29. División de Infantería" "30. División de Infantería" 
+	}
+	cavalry_brigade = {
+		"División Caballería nro. 1" "División Caballería nro. 2" "División Caballería nro. 3" "División Caballería nro. 4" "División Caballería nro. 5" "División Caballería nro. 6" "División Caballería nro. 7" "División Caballería nro. 8" "División Caballería nro. 9" "División Caballería nro. 10" 
+	}
+	motorized_brigade = {
+		"1. División Infantería Motorizada" "2. División Infantería Motorizada" "3. División Infantería Motorizada" "4. División Infantería Motorizada" "5. División Infantería Motorizada" "6. División Infantería Motorizada" "7. División Infantería Motorizada" "8. División Infantería Motorizada" "9. División Infantería Motorizada" "10. División Infantería Motorizada" "11. División Infantería Motorizada" 
+		"12. División Infantería Motorizada" "13. División Infantería Motorizada" "14. División Infantería Motorizada" "15. División Infantería Motorizada" "16. División Infantería Motorizada" "17. División Infantería Motorizada" "18. División Infantería Motorizada" "19. División Infantería Motorizada" "20. División Infantería Motorizada" 
+	}
+	mechanized_brigade = {
+		"1. División Infantería Mecanizada" "2. División Infantería Mecanizada" "3. División Infantería Mecanizada" "4. División Infantería Mecanizada" "5. División Infantería Mecanizada" "6. División Infantería Mecanizada" "7. División Infantería Mecanizada" "8. División Infantería Mecanizada" "9. División Infantería Mecanizada" "10. División Infantería Mecanizada" "11. División Infantería Mecanizada" 
+		"12. División Infantería Mecanizada" "13. División Infantería Mecanizada" "14. División Infantería Mecanizada" "15. División Infantería Mecanizada" "16. División Infantería Mecanizada" "17. División Infantería Mecanizada" "18. División Infantería Mecanizada" "19. División Infantería Mecanizada" "20. División Infantería Mecanizada" 
+	}
+	light_armor_brigade = {
+		"I División de Blindados" "II División de Blindados" "III División de Blindados" "IV División de Blindados" "V División de Blindados" "VI División de Blindados" "VII División de Blindados" "VIII División de Blindados" "IX División de Blindados" "X División de Blindados" "XI División de Blindados" 
+		"XII División de Blindados" "XIII División de Blindados" "XIV División de Blindados" "XV División de Blindados" "XVI División de Blindados" "XVII División de Blindados" "XVIII División de Blindados" "XIX División de Blindados" "XX División de Blindados" 
+	}
+	armor_brigade = {
+		"I División de Blindados" "II División de Blindados" "III División de Blindados" "IV División de Blindados" "V División de Blindados" "VI División de Blindados" "VII División de Blindados" "VIII División de Blindados" "IX División de Blindados" "X División de Blindados" "XI División de Blindados" 
+		"XII División de Blindados" "XIII División de Blindados" "XIV División de Blindados" "XV División de Blindados" "XVI División de Blindados" "XVII División de Blindados" "XVIII División de Blindados" "XIX División de Blindados" "XX División de Blindados" 
+	}
+	paratrooper_brigade = {
+		"División Paracaidista nro. 1" "División Paracaidista nro. 2" "División Paracaidista nro. 3" "División Paracaidista nro. 4" "División Paracaidista nro. 5" "División Paracaidista nro. 6" "División Paracaidista nro. 7" "División Paracaidista nro. 8" "División Paracaidista nro. 9" "División Paracaidista nro. 10" 
+	}
+	marine_brigade = {
+		"1. División de Infantería de Marina" "2. División de Infantería de Marina" "3. División de Infantería de Marina" "4. División de Infantería de Marina" "5. División de Infantería de Marina" "6. División de Infantería de Marina" "7. División de Infantería de Marina" "8. División de Infantería de Marina" "9. División de Infantería de Marina" "10. División de Infantería de Marina" 
+	}
+	bergsjaeger_brigade = {
+		"1. División de Montaña de Chile" "2. División de Montaña de Chile" "3. División de Montaña de Chile" "4. División de Montaña de Chile" "5. División de Montaña de Chile" "6. División de Montaña de Chile" "7. División de Montaña de Chile" "8. División de Montaña de Chile" "9. División de Montaña de Chile" "10. División de Montaña de Chile" 
+	}
+	garrison_brigade = {
+		"10. División de Infantería" "11. División de Infantería" "12. División de Infantería" "13. División de Infantería" "14. División de Infantería" "15. División de Infantería" "16. División de Infantería" "17. División de Infantería" "18. División de Infantería" "19. División de Infantería" "20. División de Infantería" 
+		"21. División de Infantería" "22. División de Infantería" "23. División de Infantería" "24. División de Infantería" "25. División de Infantería" "26. División de Infantería" "27. División de Infantería" "28. División de Infantería" "29. División de Infantería" "30. División de Infantería" 
+	}
+	hq_brigade = {
+		"Cuartel General 1er Ejército" "Cuartel General 2o Ejército" "Cuartel General 3er Ejército" "Cuartel General 4o Ejército" "Cuartel General 5o Ejército" "Cuartel General 6o Ejército" "Cuartel General 7o Ejército" "Cuartel General 8o Ejército" "Cuartel General 9o Ejército" "Cuartel General 10o Ejército" 
+	}
+	militia_brigade = {
+		"I Carabineros de Chile" "II Carabineros de Chile" "III Carabineros de Chile" "IV Carabineros de Chile" "V Carabineros de Chile" "VI Carabineros de Chile" "VII Carabineros de Chile" "VIII Carabineros de Chile" "IX Carabineros de Chile" "X Carabineros de Chile" "XI Carabineros de Chile" 
+		"XII Carabineros de Chile" "XIII Carabineros de Chile" "XIV Carabineros de Chile" "XV Carabineros de Chile" "XVI Carabineros de Chile" "XVII Carabineros de Chile" "XVIII Carabineros de Chile" "XIX Carabineros de Chile" "XX Carabineros de Chile" "XXI Carabineros de Chile" "XXII Carabineros de Chile" 
+		"XXIII Carabineros de Chile" "XXIV Carabineros de Chile" "XXV Carabineros de Chile" "XXVI Carabineros de Chile" "XXVII Carabineros de Chile" "XXVIII Carabineros de Chile" "XXIX Carabineros de Chile" "XXX Carabineros de Chile" 
+	}
+	multi_role = {
+		"1. Grupo Aéreo de Caza" "2. Grupo Aéreo de Caza" "3. Grupo Aéreo de Caza" "4. Grupo Aéreo de Caza" "5. Grupo Aéreo de Caza" "6. Grupo Aéreo de Caza" "7. Grupo Aéreo de Caza" "8. Grupo Aéreo de Caza" "9. Grupo Aéreo de Caza" "10. Grupo Aéreo de Caza" "11. Grupo Aéreo de Caza" 
+		"12. Grupo Aéreo de Caza" "13. Grupo Aéreo de Caza" "14. Grupo Aéreo de Caza" "15. Grupo Aéreo de Caza" "16. Grupo Aéreo de Caza" "17. Grupo Aéreo de Caza" "18. Grupo Aéreo de Caza" "19. Grupo Aéreo de Caza" "20. Grupo Aéreo de Caza" 
+	}
+	interceptor = {
+		"1. Grupo Aéreo de Caza" "2. Grupo Aéreo de Caza" "3. Grupo Aéreo de Caza" "4. Grupo Aéreo de Caza" "5. Grupo Aéreo de Caza" "6. Grupo Aéreo de Caza" "7. Grupo Aéreo de Caza" "8. Grupo Aéreo de Caza" "9. Grupo Aéreo de Caza" "10. Grupo Aéreo de Caza" "11. Grupo Aéreo de Caza" 
+		"12. Grupo Aéreo de Caza" "13. Grupo Aéreo de Caza" "14. Grupo Aéreo de Caza" "15. Grupo Aéreo de Caza" "16. Grupo Aéreo de Caza" "17. Grupo Aéreo de Caza" "18. Grupo Aéreo de Caza" "19. Grupo Aéreo de Caza" "20. Grupo Aéreo de Caza" 
+	}
+	strategic_bomber = {
+		"1. Grupo Aéreo Estratégico" "2. Grupo Aéreo Estratégico" "3. Grupo Aéreo Estratégico" "4. Grupo Aéreo Estratégico" "5. Grupo Aéreo Estratégico" "6. Grupo Aéreo Estratégico" "7. Grupo Aéreo Estratégico" "8. Grupo Aéreo Estratégico" "9. Grupo Aéreo Estratégico" "10. Grupo Aéreo Estratégico" 
+	}
+	tactical_bomber = {
+		"1. Grupo Aéreo Táctico" "2. Grupo Aéreo Táctico" "3. Grupo Aéreo Táctico" "4. Grupo Aéreo Táctico" "5. Grupo Aéreo Táctico" "6. Grupo Aéreo Táctico" "7. Grupo Aéreo Táctico" "8. Grupo Aéreo Táctico" "9. Grupo Aéreo Táctico" "10. Grupo Aéreo Táctico" "11. Grupo Aéreo Táctico" 
+		"12. Grupo Aéreo Táctico" "13. Grupo Aéreo Táctico" "14. Grupo Aéreo Táctico" "15. Grupo Aéreo Táctico" 
+	}
+	naval_bomber = {
+		"1. Grupo Aéreo de la Marina" "2. Grupo Aéreo de la Marina" "3. Grupo Aéreo de la Marina" "4. Grupo Aéreo de la Marina" "5. Grupo Aéreo de la Marina" "6. Grupo Aéreo de la Marina" "7. Grupo Aéreo de la Marina" "8. Grupo Aéreo de la Marina" "9. Grupo Aéreo de la Marina" "10. Grupo Aéreo de la Marina" "11. Grupo Aéreo de la Marina" 
+		"12. Grupo Aéreo de la Marina" "13. Grupo Aéreo de la Marina" "14. Grupo Aéreo de la Marina" "15. Grupo Aéreo de la Marina" "1. Grupo Aéreo Torpedero" "2. Grupo Aéreo Torpedero" "3. Grupo Aéreo Torpedero" "4. Grupo Aéreo Torpedero" "5. Grupo Aéreo Torpedero" "6. Grupo Aéreo Torpedero" "7. Grupo Aéreo Torpedero" 
+		"8. Grupo Aéreo Torpedero" "9. Grupo Aéreo Torpedero" "10. Grupo Aéreo Torpedero" "11. Grupo Aéreo Torpedero" "12. Grupo Aéreo Torpedero" "13. Grupo Aéreo Torpedero" "14. Grupo Aéreo Torpedero" "15. Grupo Aéreo Torpedero" 
+	}
+	cas = {
+		"1. Grupo Aéreo de Asalto" "2. Grupo Aéreo de Asalto" "3. Grupo Aéreo de Asalto" "4. Grupo Aéreo de Asalto" "5. Grupo Aéreo de Asalto" "6. Grupo Aéreo de Asalto" "7. Grupo Aéreo de Asalto" "8. Grupo Aéreo de Asalto" "9. Grupo Aéreo de Asalto" "10. Grupo Aéreo de Asalto" "11. Grupo Aéreo de Asalto" 
+		"12. Grupo Aéreo de Asalto" "13. Grupo Aéreo de Asalto" "14. Grupo Aéreo de Asalto" "15. Grupo Aéreo de Asalto" "16. Grupo Aéreo de Asalto" "17. Grupo Aéreo de Asalto" "18. Grupo Aéreo de Asalto" "19. Grupo Aéreo de Asalto" "20. Grupo Aéreo de Asalto" 
+	}
+	transport_plane = {
+		"Lineas Aéreas del Ejército nro. 1" "Lineas Aéreas del Ejército nro. 2" "Lineas Aéreas del Ejército nro. 3" "Lineas Aéreas del Ejército nro. 4" "Lineas Aéreas del Ejército nro. 5" "Lineas Aéreas del Ejército nro. 6" "Lineas Aéreas del Ejército nro. 7" "Lineas Aéreas del Ejército nro. 8" "Lineas Aéreas del Ejército nro. 9" "Lineas Aéreas del Ejército nro. 10" 
+	}
+	battleship = {
+		"BACH Almirante Latorre" "BACH República de Chile" "BACH Lima" 
+	}
+	light_cruiser = {
+		"BACH Araucano" "BACH Santiago de Chile" "BACH Valparaiso" "BACH Valdivia" "BACH Osorno" "BACH Punta Arenas" "BACH Chillán" "BACH Talcahuano" "BACH Rancagua" "BACH Coquimbo" 
+	}
+	heavy_cruiser = {
+		"BACH Araucano" "BACH Santiago de Chile" "BACH Valparaiso" "BACH Valdivia" "BACH Osorno" "BACH Punta Arenas" "BACH Chillán" "BACH Talcahuano" "BACH Rancagua" "BACH Coquimbo" 
+	}
+	battlecruiser = {
+		"BACH Almirante Latorre" "BACH República de Chile" "BACH Lima" 
+	}
+	destroyer = {
+		"Flotilla de Destructores nro. 1" "Flotilla de Destructores nro. 2" "Flotilla de Destructores nro. 3" "Flotilla de Destructores nro. 4" "Flotilla de Destructores nro. 5" "Flotilla de Destructores nro. 6" "Flotilla de Destructores nro. 7" "Flotilla de Destructores nro. 8" "Flotilla de Destructores nro. 9" "Flotilla de Destructores nro. 10" "Flotilla de Destructores nro. 11" 
+		"Flotilla de Destructores nro. 12" "Flotilla de Destructores nro. 13" "Flotilla de Destructores nro. 14" "Flotilla de Destructores nro. 15" 
+	}
+	carrier = {
+		"BACH Los Andes de Chile" "BACH Pacífico" 
+	}
+	escort_carrier = {
+		"BACH Los Andes de Chile" "BACH Pacífico" 
+	}
+	submarine = {
+		"Flotilla de Submarinos nro. 1" "Flotilla de Submarinos nro. 2" "Flotilla de Submarinos nro. 3" "Flotilla de Submarinos nro. 4" "Flotilla de Submarinos nro. 5" "Flotilla de Submarinos nro. 6" "Flotilla de Submarinos nro. 7" "Flotilla de Submarinos nro. 8" "Flotilla de Submarinos nro. 9" "Flotilla de Submarinos nro. 10" "Flotilla de Submarinos nro. 11" 
+		"Flotilla de Submarinos nro. 12" "Flotilla de Submarinos nro. 13" "Flotilla de Submarinos nro. 14" "Flotilla de Submarinos nro. 15" 
+	}
+	transport_ship = {
+		"Transporte Naval del Ejército 1" "Transporte Naval del Ejército 2" "Transporte Naval del Ejército 3" "Transporte Naval del Ejército 4" "Transporte Naval del Ejército 5" "Transporte Naval del Ejército 6" "Transporte Naval del Ejército 7" "Transporte Naval del Ejército 8" "Transporte Naval del Ejército 9" "Transporte Naval del Ejército 10" "Transporte Naval del Ejército 11" 
+		"Transporte Naval del Ejército 12" "Transporte Naval del Ejército 13" "Transporte Naval del Ejército 14" "Transporte Naval del Ejército 15" 
+	}
+
+}
+
+
+ministers = {
+	
+}

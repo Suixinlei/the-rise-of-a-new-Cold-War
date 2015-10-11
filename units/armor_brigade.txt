@@ -1,0 +1,98 @@
+armor_brigade = {
+	type = land
+	sprite = Tank
+	active = no
+	unit_group = armor_unit_type
+	
+	is_mobile = yes
+	is_armor = yes
+
+	#Size Definitions
+	max_strength = 20
+	default_organisation = 30
+	default_morale = 0.30
+	officers = 100
+
+	#Building Costs
+	build_cost_ic = 7.00
+	build_cost_manpower = 1.20
+	build_time = 260
+	repair_cost_multiplier = 0.05
+
+	#Misc Abilities
+	maximum_speed = 15.00
+	transport_weight = 20.00
+	supply_consumption = 0.55
+	fuel_consumption = 1.70
+	radio_strength = 1
+
+	#Defensive Abilities
+	defensiveness = 4.50	
+	toughness = 4.00
+	softness = 0.05 
+	air_defence = 0.80
+	armor_value = 5
+
+	#Offensive Abilities
+	suppression = 0.10
+	soft_attack = 3.0
+	hard_attack = 2.00
+	air_attack = 0.20
+	ap_attack = 5
+
+	amphibious = { attack = -0.70 }
+	river = { 
+		attack = -0.15
+		movement = -0.10
+	}
+	fort = { attack = 0.10 }
+	urban = {
+		attack = -0.50
+		defence = 0.15
+	}
+	marsh = {
+		movement = -0.60
+		attack = -0.40
+		defence = -0.20
+	}
+	jungle = {
+		movement = -0.70
+		attack = -0.80
+		defence = -0.40
+	}
+	forest = {
+		movement = -0.30
+		attack = -0.40
+		defence = 0.10
+	}
+	woods = {
+		movement = -0.30
+		attack = -0.40
+		defence = 0.10
+	}
+	mountain = {
+		movement = -0.70
+		attack = -0.60
+		defence = -0.30
+	}
+	hills = { 
+		defence = 0.05 
+	}
+	desert = {
+		movement = -0.10
+		attack = 0.20
+		defence = -0.10
+	}
+	arctic = {
+		movement = -0.20
+		attack = 0.10
+		defence = -0.20
+	}
+
+	combat_width = 1
+
+	completion_size = 1.2
+	on_completion = armour_practical
+
+	priority = 20
+}

@@ -1,0 +1,7 @@
+owner = CHC
+controller = CHC
+ 
+add_core = CHC
+infra = 4
+air_base = 6 #Diqing airbase
+points = 1

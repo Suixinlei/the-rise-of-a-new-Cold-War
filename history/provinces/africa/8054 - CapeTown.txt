@@ -1,0 +1,11 @@
+owner = SAF
+controller = SAF
+add_core = SAF
+industry = 4
+infra = 6
+manpower = 5.00
+metal = 10.00
+air_base = 10 #Cape town airport and AFB Ysterplaat and AFB Overberg
+naval_base = 7 #Cape Town port
+leadership = 0.10
+points = 1

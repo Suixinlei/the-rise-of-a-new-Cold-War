@@ -1,0 +1,25 @@
+theatre = {
+	name = "Armed Forces of Paraguay"
+	location = 10254
+	regiment = { type = hq_brigade name = "Armed Forces HQ" historical_model = 1 }
+	division = {
+		is_reserve = yes
+		name = "Presidential Escort Regiment"
+		location = 10254
+		regiment = { type = infantry_brigade name = "1st Escort Battalion" historical_model = 1 }
+		regiment = { type = infantry_brigade name = "2nd Escort Battalion" historical_model = 1 }
+		regiment = { type = infantry_brigade name = "3rd Escort Battalion" historical_model = 1 }
+	}
+	division = {
+		is_reserve = yes
+		name = "1st Infantry Battalion"
+		location = 10254
+		regiment = { type = infantry_brigade name = "1st Infantry Battalion" historical_model = 1 }
+	}
+	division = {
+		is_reserve = yes
+		name = "Special Forces Battalion"
+		location = 10254
+		regiment = { type = special_forces_brigade name = "Special Forces Battalion" historical_model = 1 }
+	}
+}

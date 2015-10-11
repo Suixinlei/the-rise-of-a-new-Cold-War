@@ -1,0 +1,8 @@
+owner = CHC
+controller = CHC
+
+ 
+add_core = CHC
+infra = 6
+metal = 400.00
+rare_materials = 50.00

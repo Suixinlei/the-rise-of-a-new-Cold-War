@@ -1,0 +1,7 @@
+owner = ALG
+controller = ALG
+add_core = ALG
+industry = 2
+infra = 6
+manpower = 2.00
+leadership = 0.50

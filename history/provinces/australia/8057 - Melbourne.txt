@@ -1,0 +1,10 @@
+owner = AST
+controller = AST
+add_core = AST
+infra = 10
+industry = 4
+energy = 9.00
+air_base = 10 #RAAF Williams and Melbourne airport
+naval_base = 10 #Melbourne port
+leadership = 2.50
+points = 1

@@ -1,0 +1,10 @@
+owner = YEM
+
+controller = YEM
+
+add_core = YEM
+
+infra = 5
+manpower = 1.00
+naval_base = 2 #Al Mukalla port
+points = 1

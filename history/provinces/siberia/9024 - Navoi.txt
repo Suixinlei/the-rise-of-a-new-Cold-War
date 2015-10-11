@@ -1,0 +1,7 @@
+owner = UZB
+controller = UZB
+add_core = UZB
+infra = 4
+air_base = 2 #Karshi-Khanabad airbase
+leadership = 2.50
+points = 1

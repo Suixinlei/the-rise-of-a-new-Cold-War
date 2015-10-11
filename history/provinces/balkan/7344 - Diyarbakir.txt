@@ -1,0 +1,8 @@
+owner = TUR
+controller = TUR
+add_core = TUR
+add_core = KUR
+
+infra = 7
+manpower = 2.00
+rare_materials = 3.00

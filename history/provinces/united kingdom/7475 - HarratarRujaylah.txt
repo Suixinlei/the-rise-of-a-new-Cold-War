@@ -1,0 +1,7 @@
+owner = JOR
+controller = JOR
+add_core = JOR
+
+infra = 6
+air_base = 2 #Shaheed Mwaffaq airbase
+industry = 1

@@ -1,0 +1,8 @@
+owner = USA
+controller = USA
+add_core = USA
+infra = 6
+
+air_base = 1 #Puerto Rico airport
+naval_base = 3 #San Juan port
+points = 1

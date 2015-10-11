@@ -1,0 +1,8 @@
+ owner = USA
+
+ controller = USA
+
+add_core = IRQ
+
+infra = 7
+manpower = 2.00

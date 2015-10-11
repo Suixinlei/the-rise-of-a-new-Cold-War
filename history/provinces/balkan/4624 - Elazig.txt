@@ -1,0 +1,7 @@
+owner = TUR
+controller = TUR
+add_core = TUR
+add_core = KUR
+infra = 7
+air_base = 6 #Elazig and Malatya airbase
+points = 1

@@ -1,0 +1,7 @@
+owner = LIT
+controller = LIT
+add_core = LIT
+infra = 8
+manpower = 0.5
+leadership = 3.00
+points = 1

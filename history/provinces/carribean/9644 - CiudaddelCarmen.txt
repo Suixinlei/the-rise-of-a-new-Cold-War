@@ -1,0 +1,10 @@
+owner = MEX
+controller = MEX
+add_core = MEX
+crude_oil = 34.00
+infra = 2
+
+terrain = marsh
+naval_base = 5 #Ciudad del Carmen port
+points = 1
+energy = 20.00

@@ -1,0 +1,12 @@
+theatre = {
+	name = "Gambian National Army"
+	location = 9756
+	regiment = { type = hq_brigade name = "National Army HQ" historical_model = 0 }
+	division = {
+		is_reserve = yes
+		name = "Infantry Battalions 1&2"
+		location = 9756
+		regiment = { type = infantry_brigade name = "1st Infantry Battalion" historical_model = 0 }
+		regiment = { type = infantry_brigade name = "2nd Infantry Battalion" historical_model = 0 }
+	}
+}

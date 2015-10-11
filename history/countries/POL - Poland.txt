@@ -1,0 +1,61 @@
+capital = 1928
+government = republic
+ideology = paternal_autocrat
+alignment = { x = 40 y = 27.0 }
+neutrality = 70
+national_unity = 70
+head_of_state = 000001 
+head_of_government = 000002 
+foreign_minister = 000003 
+armament_minister = 000005 
+minister_of_security = 000007 
+minister_of_intelligence = 000008 
+chief_of_staff = 000009 
+chief_of_army = 000010 
+chief_of_navy = 000011 
+chief_of_air = 000012 
+2008.1.1 = { join_faction = allies } 
+
+oob = "POL_2000.txt"
+
+popularity = { 
+	national_socialist = 0
+	fascistic = 0
+	paternal_autocrat = 10
+	social_conservative = 10
+	market_liberal = 13
+	social_liberal = 3
+	social_democrat = 20
+	left_wing_radical = 20
+	leninist = 0
+	stalinist = 0
+}
+
+organization = { 
+	national_socialist = 0
+	fascistic = 0
+	paternal_autocrat = 30
+	social_conservative = 30
+	market_liberal = 39
+	social_liberal = 9
+	social_democrat = 50
+	left_wing_radical = 50
+	leninist = 0
+	stalinist = 0
+}
+
+conscription_policy = military_service
+press_laws = free_press
+mobilisation_level = peace_time
+civil_laws = open_society
+economic_policy = lais_fair
+service_length = six_months
+
+
+industrial_facilities = 1
+industral_production = 1
+industral_efficiency = 1
+weapon_design = 1
+the_fuselage_design = 1
+main_battle_tank = 1
+ship_hull = 1

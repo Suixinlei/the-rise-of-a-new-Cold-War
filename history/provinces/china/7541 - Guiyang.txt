@@ -1,0 +1,10 @@
+owner = CHC
+controller = CHC
+ 
+add_core = CHC
+
+infra = 7
+
+air_base = 4 #Guiyang airbase
+points = 1
+leadership = 0.50

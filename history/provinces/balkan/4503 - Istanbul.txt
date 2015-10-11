@@ -1,0 +1,11 @@
+owner = TUR
+controller = TUR
+add_core = TUR
+industry = 5
+manpower = 2.70
+infra = 10
+
+air_base = 10 #Istanbul airport
+naval_base = 10 #Istanbul port
+leadership = 2.50
+points = 1

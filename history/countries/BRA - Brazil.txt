@@ -1,0 +1,40 @@
+capital = 10110
+government = federation
+ideology = left_wing_radical
+alignment = { x = 40 y = 50 }
+neutrality = 80
+national_unity = 70
+oob = "BRA_2000.txt"
+
+popularity = { 
+	national_socialist = 0
+	fascistic = 2
+	paternal_autocrat = 5
+	social_conservative = 13
+	market_liberal = 0
+	social_liberal = 13
+	social_democrat = 14
+	left_wing_radical = 18
+	leninist = 0
+	stalinist = 3
+}
+
+organization = { 
+	national_socialist = 0
+	fascistic = 6
+	paternal_autocrat = 15
+	social_conservative = 39
+	market_liberal = 0
+	social_liberal = 39
+	social_democrat = 42
+	left_wing_radical = 54
+	leninist = 0
+	stalinist = 9
+}
+
+conscription_policy = military_service
+press_laws = free_press
+mobilisation_level = peace_time
+civil_laws = open_society
+service_length = twelve_months
+economic_policy = limit_intervention

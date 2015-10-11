@@ -1,0 +1,7 @@
+owner = BUL
+controller = BUL
+add_core = BUL
+
+infra = 8
+air_base = 1 #Balchik airbase
+points = 1

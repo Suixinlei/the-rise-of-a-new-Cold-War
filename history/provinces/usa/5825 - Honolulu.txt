@@ -1,0 +1,8 @@
+owner = USA
+controller = USA
+add_core = USA
+
+infra = 8
+air_base = 10 #Pearl Harbor
+naval_base = 10 #Pearl Harbor
+points = 1

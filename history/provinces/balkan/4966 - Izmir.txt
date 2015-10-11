@@ -1,0 +1,12 @@
+owner = TUR
+controller = TUR
+add_core = TUR
+industry = 2
+infra = 8
+manpower = 2.00
+energy = 5.00
+air_base = 5 #Adnan airport and Cikli and Gaziermir airbase
+naval_base = 5 #Izmir port
+  
+leadership = 2.50
+points = 1

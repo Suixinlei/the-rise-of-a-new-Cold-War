@@ -1,0 +1,4 @@
+owner = PRK
+controller = PRK
+add_core = PRK
+infra = 6

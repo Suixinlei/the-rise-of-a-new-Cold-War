@@ -1,0 +1,174 @@
+color = { 225  131  148 }
+graphical_culture = Japanese
+
+default_templates = {
+	generic_infantry = {
+		infantry_brigade
+		infantry_brigade
+		infantry_brigade
+	}
+	generic_milita = {
+		militia_brigade
+		militia_brigade
+		militia_brigade
+	}
+	generic_armoured = {
+		armor_brigade
+		motorized_brigade
+		motorized_brigade
+	}
+}
+
+unit_names = {
+	
+}
+
+
+ministers = {
+	9001 = {
+		name = "Jigme Singye Wangchuck"
+		ideology = social_liberal
+		loyalty = 1.00
+		picture = M9001
+		head_of_state = die_hard_reformer
+		start_date = 2000.1.1
+	}
+	9002 = {
+		name = "Jigme Khesar Namgyel Wangchuck"
+		ideology = market_liberal
+		loyalty = 1.00
+		picture = M9002
+		head_of_state = die_hard_reformer
+		start_date = 2000.1.1
+	}
+	9003 = {
+		name = "Kinzang Dorji"
+		ideology = social_liberal
+		loyalty = 1.00
+		picture = M9003
+		head_of_government = ideological_crusader
+		start_date = 2000.1.1
+	}
+	9004 = {
+		name = "Jigme Thinley"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M9004
+		head_of_government = political_specialist
+		foreign_minister = prince_of_terror
+		minister_of_security = research_specialist
+		start_date = 2000.1.1
+	}
+	9005 = {
+		name = "Tshering Tobgay"
+		ideology = social_liberal
+		loyalty = 1.00
+		picture = M9005
+		head_of_government = efficient_sociopath
+		start_date = 2000.1.1
+	}
+	9006 = {
+		name = "Khandu Wangchuk"
+		ideology = market_liberal
+		loyalty = 1.00
+		picture = M9006
+		foreign_minister = administrative_genius
+		armament_minister = talented_liar
+		start_date = 2000.1.1
+	}
+	9007 = {
+		name = "Ugyen Tshering"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M9007
+		foreign_minister = ideological_crusader
+		start_date = 2005.1.1
+	}
+	9008 = {
+		name = "Thinley Gyamtsho"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M9008
+		minister_of_security = general_staffer
+		start_date = 2000.1.1
+	}
+	9009 = {
+		name = "Minjur Dorji"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M9009
+		minister_of_security = apologetic_clerk
+		start_date = 2007.1.1
+	}
+	9010 = {
+		name = "Sangay Ngedup"
+		ideology = social_liberal
+		loyalty = 1.00
+		picture = M9010
+		head_of_state = administrative_genius
+		start_date = 2000.1.1
+	}
+	9011 = {
+		name = "Yeshey Zimba"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M9011
+		head_of_state = weary_stiff_neck
+		start_date = 2000.1.1
+	}
+	9012 = {
+		name = "Sigay Dorji"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M9012
+		armament_minister = military_slob
+		start_date = 2000.1.1
+	}
+	9013 = {
+		name = "Balaram Poudyal"
+		ideology = social_democrat
+		loyalty = 1.00
+		picture = M9013
+		head_of_government = ruthless_powermonger
+		start_date = 2000.1.1
+	}
+	9014 = {
+		name = "Kipchu Namgyel"
+		ideology = social_liberal
+		loyalty = 1.00
+		picture = M9014
+		minister_of_intelligence = industrial_spy
+		start_date = 2000.1.1
+	}
+	9015 = {
+		name = "Lam Dorji"
+		ideology = social_liberal
+		loyalty = 1.00
+		picture = M9015
+		chief_of_staff = industry_servant
+		chief_of_army = weary_stiff_neck
+		chief_of_air = air_to_ground_proponent
+		chief_of_navy = power_projection_doctrine
+		start_date = 2000.1.1
+	}
+	9016 = {
+		name = "Batoo Tshering"
+		ideology = social_liberal
+		loyalty = 1.00
+		picture = M9016
+		chief_of_staff = popular_figurehead
+		chief_of_army = army_reformer
+		chief_of_air = service_enforcer
+		chief_of_navy = naval_intelligence_specialist
+		start_date = 2005.1.1
+	}
+	9017 = {
+		name = "Dhendup Tshering"
+		ideology = social_liberal
+		loyalty = 1.00
+		picture = M9017
+		chief_of_army = army_reformer
+		start_date = 2000.1.1
+	}
+	
+}

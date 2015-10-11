@@ -1,0 +1,11 @@
+owner = PHI
+
+controller = PHI
+
+add_core = PHI
+
+infra = 4
+air_base = 3 #Edwin Andrews and Sibutu airbase
+naval_base = 2 #Zamboanga port
+leadership = 2.50
+points = 1

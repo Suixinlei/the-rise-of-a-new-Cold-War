@@ -1,0 +1,13 @@
+owner = IRE
+controller = IRE
+add_core = IRE
+
+energy = 3.00
+industry = 3
+infra = 9
+manpower = 0.5
+
+air_base = 6 #Dublin airport and Casement Aerodrome
+naval_base = 6 #Dublin port
+leadership = 2.50
+points = 1

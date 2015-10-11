@@ -1,0 +1,375 @@
+theatre = {
+	name = "British Armed Forces"
+	location = 1964
+	regiment = { type = hq_brigade name = "British Armed Forces High Command" historical_model = 2 }
+	armygroup = {
+		name = "British Army"
+		location = 2019
+		regiment = { type = hq_brigade name = "Army Command" historical_model = 2 }
+		army = { 
+			name = "Support Command"
+			location = 2077
+			regiment = { type = hq_brigade name = "Support Command HQ" historical_model = 2 }
+			division = {
+				is_reserve = yes
+				name = "2 (South East) Brigade"
+				location = 2021
+				regiment = { type = infantry_brigade name = "1st Battalion" historical_model = 2 }
+				regiment = { type = infantry_brigade name = "2nd Battalion" historical_model = 2 }
+				regiment = { type = infantry_brigade name = "3rd Battalion" historical_model = 2 }
+			}
+			corps = {
+				name = "15 (North East) Brigade"
+				location = 1433
+				regiment = { type = hq_brigade name = "North East Brigade HQ" historical_model = 2 }
+				division = {
+					is_reserve = yes
+					name = "Queen's Own Yeomanry"
+					location = 1255
+					regiment = { type = mechanized_brigade name = "Ayrshire (Earl of Carrick's Own) Yeomanry" historical_model = 0 }
+					regiment = { type = mechanized_brigade name = "North Irish Horse" historical_model = 0 }
+					regiment = { type = mechanized_brigade name = "Fife and Forfar Yeomanry/Scottish Horse" historical_model = 0 }
+					regiment = { type = mechanized_brigade name = "Northumberland Hussars" historical_model = 0 }
+					regiment = { type = mechanized_brigade name = "Yorkshire Yeomanry" historical_model = 0 }
+				}
+				division = {
+					is_reserve = yes
+					name = "Royal Regiment of Fusiliers"
+					location = 1964
+					regiment = { type = mechanized_brigade name = "1st Battalion" historical_model = 0 }
+					regiment = { type = infantry_brigade name = "2nd Battalion" historical_model = 2 }
+				}
+				division = {
+					is_reserve = yes
+					name = "The Light Infantry"
+					location = 1128
+					regiment = { type = mechanized_brigade name = "1st Battalion" historical_model = 0 }
+					regiment = { type = infantry_brigade name = "2nd Battalion" historical_model = 2 }
+				}
+			}
+			division = {
+				is_reserve = yes 
+				name = "Duke of Lancaster's Regiment"
+				location = 1477
+				regiment = { type = infantry_brigade name = "1st Battalion" historical_model = 2 }
+				regiment = { type = infantry_brigade name = "2nd Battalion" historical_model = 2 }
+				regiment = { type = engineer_brigade name = "75th Engineer Regiment" historical_model = 2 }
+				regiment = { type = artillery_brigade name = "103rd Regiment Royal Artillery" historical_model = 0 }
+			}
+			division = {
+				is_reserve = yes 
+				name = "The Royal Wessex Yeomanry"
+				location = 1962
+				regiment = { type = armor_brigade name = "Royal Wiltshire Yeomanry" historical_model = 2 }
+				regiment = { type = armor_brigade name = "Dorset Yeomanry" historical_model = 2 }
+				regiment = { type = armor_brigade name = "Royal Gloucestershire Hussars" historical_model = 2 }
+				regiment = { type = armor_brigade name = "Royal Devon Yeomanry" historical_model = 2 }
+			}
+			division = {
+				is_reserve = yes 
+				name = "3rd Battalion, Royal Anglian Regiment"
+				location = 1615
+				regiment = { type = infantry_brigade name = "3rd Battalion" historical_model = 2 }
+				regiment = { type = artillery_brigade name = "100 (Yeomanry) Regiment, Royal Artillery" historical_model = 0 }
+			}
+			division = {
+				is_reserve = yes 
+				name = "51 (Scottish) Brigade"
+				location = 1016
+				regiment = { type = infantry_brigade name = "52nd Lowland" historical_model = 2 }
+				regiment = { type = infantry_brigade name = "51st Highland" historical_model = 2 }
+				regiment = { type = artillery_brigade name = "105th Regiment Royal Artillery" historical_model = 0 }
+			}
+			corps = {
+				name = "143 (West Midlands) Brigade"
+				location = 1727
+				regiment = { type = hq_brigade name = "West Midlands Brigade HQ" historical_model = 2 }
+				division = {
+					is_reserve = yes 
+					name = "Royal Mercian and Lancastrian Yeomanry"
+					location = 1727
+					regiment = { type = armor_brigade name = "Staffordshire, Warwickshire and Worcestershire Yeomanry" historical_model = 2 }
+					regiment = { type = armor_brigade name = "Shropshire Yeomanry" historical_model = 2 }
+					regiment = { type = armor_brigade name = "Cheshire Yeomanry" historical_model = 2 }
+					regiment = { type = armor_brigade name = "Duke of Lancaster's Own Yeomanry" historical_model = 2 }
+				}
+				division = {
+					is_reserve = yes 
+					name = "4th Battalion Mercian Regiment"
+					location = 1727
+					regiment = { type = infantry_brigade name = "4th Battalion" historical_model = 2 }
+				}	
+			}
+			division = {
+				is_reserve = yes 
+				name = "160 (Wales) Brigade"
+				location = 1845
+				regiment = { type = infantry_brigade name = "4th Battalion" historical_model = 2 }
+				regiment = { type = artillery_brigade name = "104th Regiment Royal Artillery" historical_model = 0 }
+			}
+		}
+		army = {
+			name = "British Forces Germany"
+			location = 2028
+			regiment = { type = hq_brigade name = "British Forces Germany HQ" historical_model = 2 }
+			corps = {
+				name = "7th Brigade 'Desert Rats'"
+				location = 1857
+				regiment = { type = hq_brigade name = "7th Armoured Brigade Headquarters" historical_model = 2 }
+				division = {
+					is_reserve = yes 
+					name = "32 (Armoured) Regiment Royal Engineers"
+					location = 1857
+					regiment = { type = armor_brigade name = "1st Battalion" historical_model = 2 }
+					regiment = { type = armor_brigade name = "2nd Battalion" historical_model = 2 }
+					regiment = { type = armor_brigade name = "3rd Battalion" historical_model = 2 }
+				}
+				division = {
+					is_reserve = yes 
+					name = "3rd Regiment Royal Horse Artillery"
+					location = 1857
+					regiment = { type = infantry_brigade name = "1st Battalion" historical_model = 2 }
+					regiment = { type = infantry_brigade name = "2nd Battalion" historical_model = 2 }
+					regiment = { type = artillery_brigade name = "3rd Battalion" historical_model = 0 }
+				}
+			}
+			corps = {
+				name = "20th Armoured Brigade 'Iron Fist'"
+				location = 1857
+				regiment = { type = hq_brigade name = "20th Armoured Brigade Headquarters" historical_model = 2 }
+				division = {
+					is_reserve = yes 
+					name = "The Queen's Royal Hussars"
+					location = 1857
+					regiment = { type = armor_brigade name = "1st Battalion" historical_model = 2 }
+					regiment = { type = armor_brigade name = "2nd Battalion" historical_model = 2 }
+					regiment = { type = armor_brigade name = "3rd Battalion" historical_model = 2 }
+					regiment = { type = mechanized_brigade name = "The Queen's Dragoon Guards" historical_model = 0 }
+				}
+				division = {
+					is_reserve = yes 
+					name = "20th Armoured Support Regiment"
+					location = 1857
+					regiment = { type = armor_brigade name = "1st Battalion" historical_model = 2 }
+					regiment = { type = armor_brigade name = "5th Battalion" historical_model = 2 }
+					regiment = { type = infantry_brigade name = "1st Battalion" historical_model = 2 }
+				}
+			}
+		}
+		army = {
+			name = "3rd Mechanized Division"
+			location = 1962
+			regiment = { type = hq_brigade name = "3rd Mechanized Division HQ" historical_model = 2 }
+			corps = {
+				name = "1st Mechanized Brigade"
+				location = 1962
+				regiment = { type = hq_brigade name = "1st Mechanized Brigade HQ" historical_model = 2 }
+				division = {
+					is_reserve = yes
+					name = "Household Cavalry Regiment"
+					location = 1908
+					regiment = { type = mechanized_brigade name = "1st Battalion" historical_model = 0 }
+					regiment = { type = mechanized_brigade name = "2nd Battalion" historical_model = 0 }
+					regiment = { type = mechanized_brigade name = "3rd Battalion" historical_model = 0 }
+				}
+				division = {
+					is_reserve = yes
+					name = "2nd Royal Tank Regiment"
+					location = 1962
+					regiment = { type = armor_brigade name = "1st Battalion" historical_model = 2 }
+					regiment = { type = armor_brigade name = "2nd Battalion" historical_model = 2 }
+					regiment = { type = armor_brigade name = "3rd Battalion" historical_model = 2 }
+				}
+			}
+			corps = {
+				name = "4th Mechanized Brigade"
+				location = 1388
+				regiment = { type = hq_brigade name = "4th Mechanized Brigade HQ" historical_model = 2 }
+				division = {
+					is_reserve = yes
+					name = "The Queen's Royal Lancers"
+					location = 1388
+					regiment = { type = mechanized_brigade name = "1st Battalion" historical_model = 0 }
+					regiment = { type = mechanized_brigade name = "2nd Battalion" historical_model = 0 }
+					regiment = { type = mechanized_brigade name = "3rd Battalion" historical_model = 0 }
+				}
+				division = {
+					is_reserve = yes
+					name = "The Royal Dragoon Guards"
+					location = 1388
+					regiment = { type = armor_brigade name = "The Blue Horse" historical_model = 2 }
+					regiment = { type = armor_brigade name = "The Black Horse" historical_model = 2 }
+					regiment = { type = armor_brigade name = "The Black Dragoons" historical_model = 2 }
+					regiment = { type = armor_brigade name = "The Green Horse" historical_model = 2 }
+				}	
+			}
+			corps = {
+				name = "12th Mechanized Brigade"
+				location = 1962
+				regiment = { type = hq_brigade name = "12th Mechanized Brigade HQ" historical_model = 2 }
+				division = {
+					is_reserve = yes
+					name = "The Light Dragoons"
+					location = 1255
+					regiment = { type = mechanized_brigade name = "The Empire" historical_model = 0 }
+					regiment = { type = mechanized_brigade name = "The Guards" historical_model = 0 }
+					regiment = { type = mechanized_brigade name = "The Legion" historical_model = 0 }
+					regiment = { type = mechanized_brigade name = "The Enemy" historical_model = 0 }
+				}
+				division = {
+					is_reserve = yes
+					name = "The King's Royal Hussars"
+					location = 1962
+					regiment = { type = armor_brigade name = "The Eleventh Hussar Squadron" historical_model = 2 }
+					regiment = { type = armor_brigade name = "The Twentieth Hussar Squadron" historical_model = 2 }
+					regiment = { type = armor_brigade name = "The Fourteenth Hussar Squadron" historical_model = 2 }
+					regiment = { type = armor_brigade name = "The Tenth Hussar Squadron" historical_model = 2 }
+				}	
+			}
+		}
+		corps = {
+			name = "16 Air Assault Brigade"
+			location = 1850
+			regiment = { type = hq_brigade name = "16 Air Assault Brigade HQ" historical_model = 2 }
+			division = {
+				is_reserve = yes
+				name = "1 Royal Irish Regiment"
+				location = 1666
+				regiment = { type = air_cavalry_brigade name = "1st Battalion" historical_model = 0 }
+				regiment = { type = air_cavalry_brigade name = "2nd Battalion" historical_model = 0 }
+				regiment = { type = air_cavalry_brigade name = "3rd Battalion" historical_model = 0 }
+			}
+			division = {
+				is_reserve = yes
+				name = "Argyll and Sutherland Highlanders"
+				location = 2021
+				regiment = { type = air_cavalry_brigade name = "1st Battalion" historical_model = 0 }
+				regiment = { type = air_cavalry_brigade name = "2nd Battalion" historical_model = 0 }
+				regiment = { type = air_cavalry_brigade name = "3rd Battalion" historical_model = 0 }
+			}
+			division = {
+				is_reserve = yes
+				name = "2 Parachute Regiment"
+				location = 1850
+				regiment = { type = paratrooper_brigade name = "1st Battalion" historical_model = 2 }
+				regiment = { type = paratrooper_brigade name = "2nd Battalion" historical_model = 2 }
+				regiment = { type = paratrooper_brigade name = "3rd Battalion" historical_model = 2 }
+			}	
+			division = {
+				is_reserve = yes
+				name = "3 Parachute Regiment"
+				location = 1850
+				regiment = { type = paratrooper_brigade name = "1st Battalion" historical_model = 2 }
+				regiment = { type = paratrooper_brigade name = "2nd Battalion" historical_model = 2 }
+				regiment = { type = paratrooper_brigade name = "3rd Battalion" historical_model = 2 }
+			}
+		}
+		division = {
+			is_reserve = yes
+			name = "Special Air Service"
+			location = 1964
+			regiment = { type = special_forces_brigade name = "22nd SAS Regiment" historical_model = 2 }
+		}
+	}
+	
+	division = {
+		is_reserve = yes
+		name = "3 Commando Brigade"
+		location = 2250
+		regiment = { type = marine_brigade name = "40 Commando" historical_model = 2 }
+		regiment = { type = marine_brigade name = "42 Commando" historical_model = 2 }
+		regiment = { type = marine_brigade name = "43 Commando" historical_model = 2 }
+		regiment = { type = marine_brigade name = "45 Commando" historical_model = 2 }
+	}
+	
+	navy = {
+		name = "Submarine Fleet"
+		base = 2021
+		location = 2021
+		ship = { type = submarine name = "HMS Tireless" historical_model = 0 }
+		ship = { type = submarine name = "HMS Torbay" historical_model = 0 }
+		ship = { type = submarine name = "HMS Trenchant" historical_model = 0 }
+		ship = { type = submarine name = "HMS Talent" historical_model = 0 }
+		ship = { type = submarine name = "HMS Triumph" historical_model = 0 }
+		ship = { type = submarine name = "HMS Vanguard" historical_model = 1 }
+		ship = { type = submarine name = "HMS Victorious" historical_model = 1 }
+		ship = { type = submarine name = "HMS Vigilant" historical_model = 1 }
+		ship = { type = submarine name = "HMS Vengeance" historical_model = 1 }
+	}
+	
+	navy = {
+		name = "Assault Ships"
+		base = 2079
+		location = 2079
+		ship = { type = assault_ship name = "HMS Albion" historical_model = 3 }
+		ship = { type = assault_ship name = "HMS Bulwark" historical_model = 3 }
+		ship = { type = assault_ship name = "HMS Ocean" historical_model = 2 }
+		ship = { type = escort_carrier name = "HMS Invincible" historical_model = 0 pride = yes 
+			air = {
+				location = 2079
+				wing = { type = cag name = "HMS Invincible Air Wing" historical_model = 0 }
+			}
+		}
+		ship = { type = escort_carrier name = "HMS Illustrious" historical_model = 0 
+			air = {
+				location = 2079
+				wing = { type = cag name = "HMS Illustrious Air Wing" historical_model = 0 }
+			}
+		}
+		ship = { type = escort_carrier name = "HMS Ark Royal" historical_model = 0 
+			air = {
+				location = 2079
+				wing = { type = cag name = "HMS Ark Royal Air Wing" historical_model = 0 }
+			}
+		}
+	}
+	
+	navy = {
+		name = "Frigates and Destroyers"
+		base = 2078
+		location = 2078
+		ship = { type = heavy_cruiser name = "HMS Argyll" historical_model = 0 }
+		ship = { type = heavy_cruiser name = "HMS Lancaster" historical_model = 0 }
+		ship = { type = heavy_cruiser name = "HMS Iron Duke" historical_model = 0 }
+		ship = { type = heavy_cruiser name = "HMS Monmouth" historical_model = 0 }
+		ship = { type = heavy_cruiser name = "HMS Montrose" historical_model = 0 }
+		ship = { type = heavy_cruiser name = "HMS Westminster" historical_model = 0 }
+		ship = { type = heavy_cruiser name = "HMS Northumberland" historical_model = 0 }
+		ship = { type = heavy_cruiser name = "HMS Richmond" historical_model = 0 }
+		ship = { type = heavy_cruiser name = "HMS Somerset" historical_model = 0 }
+		ship = { type = heavy_cruiser name = "HMS Sutherland" historical_model = 0 }
+		ship = { type = heavy_cruiser name = "HMS Kent" historical_model = 0 }
+		ship = { type = heavy_cruiser name = "HMS Portland" historical_model = 0 }
+		ship = { type = heavy_cruiser name = "HMS St Albans" historical_model = 0 }
+		ship = { type = destroyer name = "HMS Edinburgh" historical_model = 0 }
+	}
+	
+	air = {
+		name = "Eurofighter Typhoon Group"
+		base = 2307
+		location = 2307
+		wing = { type = interceptor name = "1st Eurofighter Wing" historical_model = 2 }
+		wing = { type = interceptor name = "2nd Eurofighter Wing" historical_model = 2 }
+		wing = { type = interceptor name = "3rd Eurofighter Wing" historical_model = 2 }
+	}
+	
+	air = {
+		name = "Panavia Tornado Group"
+		base = 2076
+		location = 2076
+		wing = { type = cas name = "1st Panavia Tornado Wing" historical_model = 0 }
+		wing = { type = cas name = "2nd Panavia Tornado Wing" historical_model = 0 }
+		wing = { type = cas name = "3rd Panavia Tornado Wing" historical_model = 0 }
+		wing = { type = cas name = "4th Panavia Tornado Wing" historical_model = 0 }
+	}
+	
+	air = {
+		name = "Transport Group"
+		base = 1962
+		location = 1962
+		wing = { type = transport_plane name = "1st Transport Wing" historical_model = 0 }
+		wing = { type = transport_plane name = "2nd Transport Wing" historical_model = 0 }
+		wing = { type = transport_plane name = "3rd Transport Wing" historical_model = 0 }
+	}
+}
+		

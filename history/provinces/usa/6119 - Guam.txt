@@ -1,0 +1,9 @@
+owner = USA
+controller = USA
+add_core = USA
+infra = 6
+
+
+air_base = 6 #Andersen airbase
+naval_base = 4
+points = 1

@@ -1,0 +1,9 @@
+owner = HOL
+controller = HOL
+add_core = HOL
+manpower = 0.6
+
+infra = 9
+naval_base = 3 #Eemshaven port
+leadership = 2.50
+points = 1

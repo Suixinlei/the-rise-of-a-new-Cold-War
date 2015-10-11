@@ -1,0 +1,8 @@
+owner = ARG
+controller = ARG
+add_core = ARG
+
+infra = 6
+
+air_base = 4 #Almirante Marcos airbase
+points = 1

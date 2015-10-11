@@ -1,0 +1,152 @@
+color = { 57  143  97 }
+graphical_culture = British
+last_election = 2001.11.10
+duration = 36
+
+
+default_templates = {
+	ENG_infantry = {
+		motorized_brigade
+		motorized_brigade
+		motorized_brigade
+	}
+	ENG_motorized = {
+		motorized_brigade
+		motorized_brigade
+	}
+	ENG_armoured_1936 = {
+		armor_brigade
+		light_armor_brigade
+		light_armor_brigade
+		motorized_brigade
+	}
+	ENG_armoured_1940 = {
+		armor_brigade
+		armor_brigade
+		motorized_brigade
+	}
+	ENG_airborne = {
+		paratrooper_brigade
+		paratrooper_brigade
+		paratrooper_brigade
+	}
+}
+
+unit_names = {
+	infantry_brigade = {
+		"6th Australian Infantry Div." "7th Australian Infantry Div." "9th Australian Infantry Div." "8th Australian Infantry Div." "23rd Australian Infantry Div." "1st Australian Infantry Div." "2nd Australian Infantry Div." "3rd Australian Infantry Div." "4th Australian Infantry Div." "5th Australian Infantry Div." "11th Australian Infantry Div." 
+		"10th Australian Infantry Div." "12th Australian Infantry Div." "14th Australian Infantry Div." "15th Australian Infantry Div." "16th Australian Infantry Div." "17th Australian Infantry Div." "18st Australian Infantry Div." "19th Australian Infantry Div." "20th Australian Infantry Div." "21st Australian Infantry Div." "22nd Australian Infantry Div." 
+		"24th Australian Infantry Div." "25th Australian Infantry Div." "26th Australian Infantry Div." "27th Australian Infantry Div." "28th Australian Infantry Div." "29th Australian Infantry Div." "30th Australian Infantry Div." "31st Australian Infantry Div." "32nd Australian Infantry Div." "33rd Australian Infantry Div." "34th Australian Infantry Div." 
+		"35th Australian Infantry Div." "36th Australian Infantry Div." "37th Australian Infantry Div." "38th Australian Infantry Div." "39th Australian Infantry Div." "40th Australian Infantry Div." 
+	}
+	cavalry_brigade = {
+		"1st Australian Cavalry Div." "2nd Australian Cavalry Div." "3rd Australian Cavalry Div." "4th Australian Cavalry Div." "5th Australian Cavalry Div." "6th Australian Cavalry Div." "7th Australian Cavalry Div." "8th Australian Cavalry Div." "9th Australian Cavalry Div." "10th Australian Cavalry Div." 
+	}
+	motorized_brigade = {
+		"6th Australian Motorized Div." "7th Australian Motorized Div." "9th Australian Motorized Div." "1st Australian Motorized Div." "2nd Australian Motorized Div." "3rd Australian Motorized Div." "4th Australian Motorized Div." "5th Australian Motorized Div." "6th Australian Motorized Div." "10th Australian Motorized Div." "11th Australian Motorized Div." 
+		"12th Australian Motorized Div." "13th Australian Motorized Div." "14th Australian Motorized Div." "15th Australian Motorized Div." 
+	}
+	mechanized_brigade = {
+		"6th Australian Half Track Div." "7th Australian Half Track Div." "9th Australian Half Track Div." "1st Australian Half Track Div." "2nd Australian Half Track Div." "3rd Australian Half Track Div." "4th Australian Half Track Div." "5th Australian Half Track Div." "8th Australian Half Track Div." "10th Australian Half Track Div." 
+	}
+	light_armor_brigade = {
+		"1st Australian Armoured Div." "2nd Australian Armoured Div." "3rd Australian Armoured Div." "4th Australian Armoured Div." "5th Australian Armoured Div." "6th Australian Armoured Div." "7th Australian Armoured Div." "8th Australian Armoured Div." "9th Australian Armoured Div." "10th Australian Armoured Div." "11th Australian Armoured Div." 
+		"12th Australian Armoured Div." "14th Australian Armoured Div." "15th Australian Armoured Div." 
+	}
+	armor_brigade = {
+		"1st Australian Armoured Div." "2nd Australian Armoured Div." "3rd Australian Armoured Div." "4th Australian Armoured Div." "5th Australian Armoured Div." "6th Australian Armoured Div." "7th Australian Armoured Div." "8th Australian Armoured Div." "9th Australian Armoured Div." "10th Australian Armoured Div." "11th Australian Armoured Div." 
+		"12th Australian Armoured Div." "14th Australian Armoured Div." "15th Australian Armoured Div." 
+	}
+	paratrooper_brigade = {
+		"1st Australian Airborne Div." "2nd Australian Airborne Div." "3rd Australian Airborne Div." "4th Australian Airborne Div." "5th Australian Airborne Div." "6th Australian Airborne Div." "7th Australian Airborne Div." "8th Australian Airborne Div." 
+	}
+	marine_brigade = {
+		"1st Royal Australian Marines Div." "2nd Royal Australian Marines Div." "3rd Royal Australian Marines Div." "4th Royal Australian Marines Div." "5th Royal Australian Marines Div." "6th Royal Australian Marines Div." "7th Royal Australian Marines Div." "8th Royal Australian Marines Div." "9th Royal Australian Marines Div." "10th Royal Australian Marines Div." 
+	}
+	bergsjaeger_brigade = {
+		"1st Australian Mountain Div." "2nd Australian Mountain Div." "3rd Australian Mountain Div." "4th Australian Mountain Div." "5th Australian Mountain Div." "6th Australian Mountain Div." "7th Australian Mountain Div." "8th Australian Mountain Div." "9th Australian Mountain Div." "10th Australian Mountain Div." "11th Australian Mountain Div." 
+		"12th Australian Mountain Div." 
+	}
+	garrison_brigade = {
+		"4th Australian Infantry Div." "5th Australian Infantry Div." "11th Australian Infantry Div." "10th Australian Infantry Div." "12th Australian Infantry Div." "14th Australian Infantry Div." "15th Australian Infantry Div." "16th Australian Infantry Div." "17th Australian Infantry Div." "18st Australian Infantry Div." "19th Australian Infantry Div." 
+		"20th Australian Infantry Div." 
+	}
+	hq_brigade = {
+		"2nd A.I.F." "1st Australian Army" "2nd Australian Army" "1st Australian Army Group" "3rd Australian Army" "4th Australian Army" "2nd Australian Army Group" 
+	}
+	militia_brigade = {
+		"Darwin Garrison" "1st Citizen Militia Division" "2nd Citizen Militia Division" "3rd Citizen Militia Division" "4th Citizen Militia Division" "5th Citizen Militia Division" "6th Citizen Militia Division" "7th Citizen Militia Division" "8th Citizen Militia Division" "9th Citizen Militia Division" "10th Citizen Militia Division" 
+		"11th Citizen Militia Division" "12th Citizen Militia Division" "13th Citizen Militia Division" "14th Citizen Militia Division" "15th Citizen Militia Division" "16th Citizen Militia Division" "17th Citizen Militia Division" "18th Citizen Militia Division" "19th Citizen Militia Division" "20th Citizen Militia Division" "21st Citizen Militia Division" 
+		"22nd Citizen Militia Division" "23rd Citizen Militia Division" "24th Citizen Militia Division" "25th Citizen Militia Division" "26th Citizen Militia Division" "27th Citizen Militia Division" "28th Citizen Militia Division" "29th Citizen Militia Division" "30th Citizen Militia Division" 
+	}
+	multi_role = {
+		"No.1 RAAF Fighter Group" "No.2 RAAF Fighter Group" "No.3 RAAF Fighter Group" "No.4 RAAF Fighter Group" "No.5 RAAF Fighter Group" "No.7 RAAF Fighter Group" "No.8 RAAF Fighter Group" "No.9 RAAF Fighter Group" "No.10 RAAF Fighter Group" "No.11 RAAF Fighter Group" "No.12 RAAF Fighter Group" 
+		"No.13 RAAF Fighter Group" "No.14 RAAF Fighter Group" "No.15 RAAF Fighter Group" "No.16 RAAF Fighter Group" "No.17 RAAF Fighter Group" "No.18 RAAF Fighter Group" "No.19 RAAF Fighter Group" "No.20 RAAF Fighter Group" 
+	}
+	interceptor = {
+		"No.1 RAAF Fighter Group" "No.2 RAAF Fighter Group" "No.3 RAAF Fighter Group" "No.4 RAAF Fighter Group" "No.5 RAAF Fighter Group" "No.7 RAAF Fighter Group" "No.8 RAAF Fighter Group" "No.9 RAAF Fighter Group" "No.10 RAAF Fighter Group" "No.11 RAAF Fighter Group" "No.12 RAAF Fighter Group" 
+		"No.13 RAAF Fighter Group" "No.14 RAAF Fighter Group" "No.15 RAAF Fighter Group" "No.16 RAAF Fighter Group" "No.17 RAAF Fighter Group" "No.18 RAAF Fighter Group" "No.19 RAAF Fighter Group" "No.20 RAAF Fighter Group" 
+	}
+	strategic_bomber = {
+		"No.1 RAAF Strategic Group" "No.2 RAAF Strategic Group" "No.6 RAAF Strategic Group" "No.3 RAAF Strategic Group" "No.4 RAAF Strategic Group" "No.7 RAAF Strategic Group" "No.8 RAAF Strategic Group" "No.9 RAAF Strategic Group" "No.10 RAAF Strategic Group" "No.11 RAAF Strategic Group" "No.12 RAAF Strategic Group" 
+		"No.13 RAAF Strategic Group" "No.14 RAAF Strategic Group" "No.15 RAAF Strategic Group" "No.16 RAAF Strategic Group" "No.17 RAAF Strategic Group" "No.18 RAAF Strategic Group" "No.19 RAAF Strategic Group" "No.20 RAAF Strategic Group" 
+	}
+	tactical_bomber = {
+		"No.1 RAAF Tactical Group" "No.2 RAAF Tactical Group" "No.6 RAAF Tactical Group" "No.3 RAAF Tactical Group" "No.4 RAAF Tactical Group" "No.7 RAAF Tactical Group" "No.8 RAAF Tactical Group" "No.9 RAAF Tactical Group" "No.10 RAAF Tactical Group" "No.11 RAAF Tactical Group" "No.12 RAAF Tactical Group" 
+		"No.13 RAAF Tactical Group" "No.14 RAAF Tactical Group" "No.15 RAAF Tactical Group" "No.16 RAAF Tactical Group" "No.17 RAAF Tactical Group" "No.18 RAAF Tactical Group" "No.19 RAAF Tactical Group" "No.20 RAAF Tactical Group" 
+	}
+	naval_bomber = {
+		"No.1 RAAF Naval Bomber Group" "No.2 RAAF Naval Bomber Group" "No.3 RAAF Naval Bomber Group" "No.4 RAAF Naval Bomber Group" "No.5 RAAF Naval Bomber Group" "No.7 RAAF Naval Bomber Group" "No.8 RAAF Naval Bomber Group" "No.9 RAAF Naval Bomber Group" "No.10 RAAF Naval Bomber Group" "No.11 RAAF Naval Bomber Group" "No.12 RAAF Naval Bomber Group" 
+		"No.13 RAAF Naval Bomber Group" "No.14 RAAF Naval Bomber Group" "No.15 RAAF Naval Bomber Group" "No.16 RAAF Naval Bomber Group" "No.17 RAAF Naval Bomber Group" "No.18 RAAF Naval Bomber Group" "No.19 RAAF Naval Bomber Group" "No.20 RAAF Naval Bomber Group" "No.1 RAAF Torpedo Attack Group" "No.2 RAAF Torpedo Attack Group" "No.3 RAAF Torpedo Attack Group" 
+		"No.4 RAAF Torpedo Attack Group" "No.5 RAAF Torpedo Attack Group" "No.7 RAAF Torpedo Attack Group" "No.8 RAAF Torpedo Attack Group" "No.9 RAAF Torpedo Attack Group" "No.10 RAAF Torpedo Attack Group" "No.11 RAAF Torpedo Attack Group" "No.12 RAAF Torpedo Attack Group" "No.13 RAAF Torpedo Attack Group" "No.14 RAAF Torpedo Attack Group" "No.15 RAAF Torpedo Attack Group" 
+		"No.16 RAAF Torpedo Attack Group" "No.17 RAAF Torpedo Attack Group" "No.18 RAAF Torpedo Attack Group" "No.19 RAAF Torpedo Attack Group" "No.20 RAAF Torpedo Attack Group" 
+	}
+	cas = {
+		"No.1 RAAF Dive Bomb Group" "No.2 RAAF Dive Bomb Group" "No.6 RAAF Dive Bomb Group" "No.3 RAAF Dive Bomb Group" "No.4 RAAF Dive Bomb Group" "No.7 RAAF Dive Bomb Group" "No.8 RAAF Dive Bomb Group" "No.9 RAAF Dive Bomb Group" "No.10 RAAF Dive Bomb Group" "No.11 RAAF Dive Bomb Group" "No.12 RAAF Dive Bomb Group" 
+		"No.13 RAAF Dive Bomb Group" "No.14 RAAF Dive Bomb Group" "No.15 RAAF Dive Bomb Group" "No.16 RAAF Dive Bomb Group" "No.17 RAAF Dive Bomb Group" "No.18 RAAF Dive Bomb Group" "No.19 RAAF Dive Bomb Group" "No.20 RAAF Dive Bomb Group" 
+	}
+	transport_plane = {
+		"No.1 RAAF Air Transport Group" "No.2 RAAF Air Transport Group" "No.3 RAAF Air Transport Group" "No.4 RAAF Air Transport Group" "No.5 RAAF Air Transport Group" "No.7 RAAF Air Transport Group" "No.8 RAAF Air Transport Group" "No.9 RAAF Air Transport Group" "No.10 RAAF Air Transport Group" "No.11 RAAF Air Transport Group" "No.12 RAAF Air Transport Group" 
+		"No.13 RAAF Air Transport Group" "No.14 RAAF Air Transport Group" "No.15 RAAF Air Transport Group" "No.16 RAAF Air Transport Group" "No.17 RAAF Air Transport Group" "No.18 RAAF Air Transport Group" "No.19 RAAF Air Transport Group" "No.20 RAAF Air Transport Group" 
+	}
+	battleship = {
+		"HMAS Princess Elizabeth" "HMAS New South Wales" "HMAS Queensland" "HMAS South Australia" "HMAS Tasmania" "HMAS Victoria" "HMAS Western Australia" 
+	}
+	light_cruiser = {
+		"HMAS Perth" "HMAS Sydney" "HMAS Hobart" "HMAS Brisbane" "HMAS Adelaide" "HMAS Darwin" "HMAS NewCLstle" "HMAS Christmas Island" "HMAS Coral Sea" "HMAS Norfolk Island" "HMAS Australia" 
+		"HMAS CLnberra" "HMAS Sydney" "HMAS Alice Springs" "HMAS Cooktown" "HMAS Broome" "HMAS Wagga Wagga" 
+	}
+	heavy_cruiser = {
+		"HMAS Perth" "HMAS Sydney" "HMAS Hobart" "HMAS Brisbane" "HMAS Adelaide" "HMAS Darwin" "HMAS Newcastle" "HMAS Christmas Island" "HMAS Coral Sea" "HMAS Norfolk Island" "HMAS Australia" 
+		"HMAS Canberra" "HMAS Sydney" "HMAS Alice Springs" "HMAS Cooktown" "HMAS Broome" "HMAS Wagga Wagga" 
+	}
+	battlecruiser = {
+		"HMAS New South Wales" "HMAS Queensland" "HMAS South Australia" "HMAS Tasmania" "HMAS Victoria" "HMAS Western Australia" 
+	}
+	destroyer = {
+		"1st Destroyer Flotilla" "2nd Destroyer Flotilla" "3rd Destroyer Flotilla" "4th Destroyer Flotilla" "5th Destroyer Flotilla" "6th Destroyer Flotilla" "7th Destroyer Flotilla" "8th Destroyer Flotilla" "9th Destroyer Flotilla" "10th Destroyer Flotilla" "11th Destroyer Flotilla" 
+		"12th Destroyer Flotilla" "13th Destroyer Flotilla" "14th Destroyer Flotilla" "15th Destroyer Flotilla" "16th Destroyer Flotilla" "17th Destroyer Flotilla" "18th Destroyer Flotilla" "19th Destroyer Flotilla" "20th Destroyer Flotilla" "21th Destroyer Flotilla" "22th Destroyer Flotilla" 
+		"23th Destroyer Flotilla" "24th Destroyer Flotilla" "25th Destroyer Flotilla" "26th Destroyer Flotilla" "27th Destroyer Flotilla" "28th Destroyer Flotilla" "29th Destroyer Flotilla" 
+	}
+	carrier = {
+		"HMAS Captain Cook" "HMAS Captain Bligh" "HMAS Shark Bay" "HMAS Geographe Bay" "HMAS Carpentaria" "HMAS King Sound" 
+	}
+	escort_carrier = {
+		"HMAS Sydney" "HMAS Vengeance" "HMAS Melbourne" 
+	}
+	submarine = {
+		"1st Submarine Flotilla" "2nd Submarine Flotilla" "3rd Submarine Flotilla" "4th Submarine Flotilla" "5th Submarine Flotilla" "6th Submarine Flotilla" "7th Submarine Flotilla" "8th Submarine Flotilla" "9th Submarine Flotilla" "10th Submarine Flotilla" "11th Submarine Flotilla" 
+		"12th Submarine Flotilla" "13th Submarine Flotilla" "14th Submarine Flotilla" "15th Submarine Flotilla" "16th Submarine Flotilla" "17th Submarine Flotilla" "18th Submarine Flotilla" "19th Submarine Flotilla" "20th Submarine Flotilla" 
+	}
+	transport_ship = {
+		"HMAS Kanimbla Flotilla" "1st Transport Flotilla" "2nd Transport Flotilla" "3rd Transport Flotilla" "4th Transport Flotilla" "5th Transport Flotilla" "6th Transport Flotilla" "7th Transport Flotilla" "8th Transport Flotilla" "9th Transport Flotilla" "10th Transport Flotilla" 
+		"11th Transport Flotilla" "12th Transport Flotilla" "13th Transport Flotilla" "14th Transport Flotilla" "15th Transport Flotilla" "16th Transport Flotilla" "17th Transport Flotilla" "18th Transport Flotilla" "19th Transport Flotilla" "20th Transport Flotilla" "21th Transport Flotilla" 
+		"22th Transport Flotilla" "23th Transport Flotilla" "24th Transport Flotilla" "25th Transport Flotilla" "26th Transport Flotilla" "27th Transport Flotilla" "28th Transport Flotilla" "29th Transport Flotilla" 
+	}
+
+}
+
+
+ministers = {
+	
+}

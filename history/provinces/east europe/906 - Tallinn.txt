@@ -1,0 +1,13 @@
+owner = EST
+controller = EST
+add_core = EST
+
+
+infra = 8
+energy = 1.00
+
+manpower = 0.2
+air_base = 2 #Ämari airbase
+naval_base = 7 #Tallinn port
+leadership = 3.00
+points = 1

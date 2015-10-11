@@ -1,0 +1,10 @@
+owner = AUS
+controller = AUS
+add_core = AUS
+
+manpower = 0.2
+infra = 8
+
+air_base = 1 #Frundsberg Kaserne
+leadership = 2.50
+points = 1

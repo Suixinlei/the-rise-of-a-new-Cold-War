@@ -1,0 +1,8 @@
+owner = CAN
+controller = CAN
+add_core = CAN
+infra = 6
+energy = 30.00
+metal = 20.00
+air_base = 5 #CFB Goose Bay
+rare_materials = 15.00

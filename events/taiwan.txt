@@ -1,0 +1,272 @@
+#服贸审查通过
+country_event = {
+
+	id = 18000
+	title = "服贸审查通过"
+	desc = "FMSCTG"
+	picture = "FMSCTG"
+	
+	major = yes
+	
+	trigger = {
+                tag = CHI
+		date = 2014.3.17
+                NOT = { year = 2015 }
+	        NOT = { war_with = CHI }
+                war = no
+                exists = CHC
+                CHC = { government_in_exile = no }
+	}
+
+	fire_only_once = yes
+
+	mean_time_to_happen =  { days = 1 }
+	
+	option = {
+		name = "这会促进我们的经济发展"
+		ai_chance = { factor = 100 }
+                dissent = 1
+                add_country_modifier = {
+		name = "令人不满的服贸审查"
+		duration = 360      } 
+	}
+}
+
+#占领立法院
+country_event = {
+
+	id = 18001
+	title = "我们的立法院被学生占领"
+	desc = "ZLLFY"
+	picture = "ZLLFY"
+	
+	major = yes
+	
+	trigger = {
+                tag = CHI
+		date = 2014.3.18
+                NOT = { year = 2015 }
+                has_country_modifier = "令人不满的服贸审查"
+	}
+
+	fire_only_once = yes
+
+	mean_time_to_happen =  { days = 1 }
+	
+	option = {
+		name = "这帮该死的学生"
+		ai_chance = { factor = 100 }
+                dissent = 3
+                CHC = { country_event = 18002 }
+                add_country_modifier = {
+		name = "占领立法院"
+		duration = 360      } 
+	}
+}
+
+#中国国台办发言人回应
+country_event = {
+
+	is_triggered_only = yes
+
+	id = 18002
+	title = "国台办发言人回应"
+	desc = "GTBFYRHY"
+	picture = "GTBFYRHY"
+	
+	option = {
+		name = "这世道，送钱都有人反对了"
+		ai_chance = { factor = 100 }
+	}
+}
+
+#学生指挥召开记者会
+country_event = {
+
+	id = 18003
+	title = "学生指挥召开记者会"
+	desc = "XSZHZKJZH"
+	picture = "XSZHZKJZH"
+	
+	major = yes
+	
+	trigger = {
+                tag = CHI
+		date = 2014.3.21
+                NOT = { year = 2015 }
+                has_country_modifier = "令人不满的服贸审查"
+                has_country_modifier = "占领立法院"
+	}
+
+	fire_only_once = yes
+
+	mean_time_to_happen =  { days = 1 }
+	
+	option = {
+		name = "这是要闹那般啊？"
+		ai_chance = { factor = 100 }
+                dissent = 5
+                popularity = -5
+                organisation = -5
+	}
+}
+
+#抗议学生转战行政院
+country_event = {
+
+	id = 18004
+	title = "抗议学生转战行政院"
+	desc = "KYXSZZXZY"
+	picture = "KYXSZZXZY"
+	
+	major = yes
+	
+	trigger = {
+                tag = CHI
+		date = 2014.3.22
+                NOT = { year = 2015 }
+                has_country_modifier = "令人不满的服贸审查"
+                has_country_modifier = "占领立法院"
+	}
+
+	fire_only_once = yes
+
+	mean_time_to_happen =  { days = 1 }
+	
+	option = {
+		name = "闷声作大死的学生们"
+		ai_chance = { factor = 100 }
+                add_country_modifier = {
+		name = "冲击行政院"
+		duration = 360      } 
+	}
+}
+
+#警民发生冲突
+country_event = {
+
+	id = 18005
+	title = "警民发生冲突"
+	desc = "JMFSCT"
+	picture = "JMFSCT"
+	
+	major = yes
+	
+	trigger = {
+                tag = CHI
+		date = 2014.3.24
+                NOT = { year = 2015 }
+                has_country_modifier = "令人不满的服贸审查"
+                has_country_modifier = "占领立法院"
+                has_country_modifier = "冲击行政院"
+	}
+
+	fire_only_once = yes
+
+	mean_time_to_happen =  { days = 1 }
+	
+	option = {
+		name = "逮捕相关责任人"
+		ai_chance = { factor = 100 }
+                popularity = -10
+                organisation = -10
+	}
+}
+
+#学生向马英九宣战
+country_event = {
+
+	id = 18006
+	title = "各大院校声援学生"
+	desc = "XSXMYJXZ"
+	picture = "XSXMYJXZ"
+	
+	major = yes
+	
+	trigger = {
+                tag = CHI
+		date = 2014.3.27
+                NOT = { year = 2015 }
+                has_country_modifier = "令人不满的服贸审查"
+                has_country_modifier = "占领立法院"
+                has_country_modifier = "冲击行政院"
+	}
+
+	fire_only_once = yes
+
+	mean_time_to_happen =  { days = 1 }
+	
+	option = {
+		name = "这要干嘛"
+		ai_chance = { factor = 100 }
+                add_country_modifier = {
+		name = "台湾学运"
+		duration = 620       } 
+	}
+}
+
+#是否签署服贸协议
+country_event = {
+
+	id = 18007
+	title = "是否签署服贸协议"
+	desc = "SFQSFMXD"
+	picture = "SFQSFMXD"
+	
+	major = yes
+	
+	trigger = {
+                tag = CHI
+		date = 2014.3.30
+                NOT = { year = 2015 }
+                has_country_modifier = "令人不满的服贸审查"
+                has_country_modifier = "占领立法院"
+                has_country_modifier = "冲击行政院"
+                has_country_modifier = "台湾学运"
+	}
+
+	fire_only_once = yes
+
+	mean_time_to_happen =  { days = 1 }
+	
+	option = {
+		name = "绝不取消服贸协定"
+		ai_chance = { factor = 100 }
+                CHC = { country_event = 18008 }
+	}
+}
+
+#大陆的回应
+country_event = {
+
+	is_triggered_only = yes
+
+	id = 18008
+	title = "大陆的决定"
+	desc = "FYDLDJD"
+	picture = "FYDLDJD"
+	
+	option = {
+		name = "我们没有必要拿热脸去贴别人的冷屁股"
+		ai_chance = { factor = 100 }
+		relation = { who = CHI value = -10 }
+                CHI = { set_country_flag = Recession }
+                CHI = { country_event = 18009 }
+	}
+}
+
+#台湾的回应
+country_event = {
+
+	is_triggered_only = yes
+
+	id = 18009
+	title = "大陆决定暂停协议"
+	desc = "DLJDZTXY"
+	picture = "DLJDZTXY"
+	
+	option = {
+		name = "该死的学生们"
+		ai_chance = { factor = 100 }
+	}
+}

@@ -1,0 +1,6 @@
+owner = ENG
+controller = ENG
+add_core = ENG
+infra = 9
+manpower = 0.5
+air_base = 3 #RAF Syerston

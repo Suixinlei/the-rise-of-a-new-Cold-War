@@ -1,0 +1,40 @@
+capital = 7978
+government = republic
+ideology = paternal_autocrat
+alignment = { x = -30 y = 30 }
+neutrality = 80
+national_unity = 80
+oob = "SAF_2000.txt"
+
+popularity = { 
+	national_socialist = 0
+	fascistic = 1
+	paternal_autocrat = 66
+	social_conservative = 7
+	market_liberal = 1
+	social_liberal = 10
+	social_democrat = 3
+	left_wing_radical = 0
+	leninist = 0
+	stalinist = 0
+}
+
+organization = { 
+	national_socialist = 0
+	fascistic = 3
+	paternal_autocrat = 150
+	social_conservative = 21
+	market_liberal = 3
+	social_liberal = 30
+	social_democrat = 9
+	left_wing_radical = 0
+	leninist = 0
+	stalinist = 0
+}
+
+conscription_policy = volunteer_army
+press_laws = free_press
+mobilisation_level = peace_time
+civil_laws = open_society
+service_length = eighteen_months
+economic_policy = limit_intervention

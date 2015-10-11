@@ -1,0 +1,8 @@
+owner = JAP
+controller = JAP
+add_core = JAP
+
+infra = 8
+air_base = 2 #Hachinohe airbase
+naval_base = 2
+points = 1

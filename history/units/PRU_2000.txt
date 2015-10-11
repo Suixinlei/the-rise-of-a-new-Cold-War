@@ -1,0 +1,235 @@
+theatre = {
+	name = "Fuerzas Armadas del Perú"
+	location = 10079
+	regiment = { type = hq_brigade name = "Fuerzas Armadas del Perú" historical_model = 1 }
+	army = {
+		name = "Ejército del Perú"
+		location = 10079
+		regiment = { type = hq_brigade name = "Ejército del Perú" historical_model = 1 }
+		corps = {
+			name = "Región Militar del Norte"
+			location = 10030
+			regiment = { type = hq_brigade name = "Región Militar del Norte" historical_model = 1 }
+			division = {
+				is_reserve = yes
+				name = "1st Cavalry Brigade"
+				location = 10030
+				regiment = { type = mechanized_brigade name = "5th Mechanized Cavalry Regiment" historical_model = 0 }
+				regiment = { type = mechanized_brigade name = "6th Mechanized Cavalry Regiment" historical_model = 0 }
+				regiment = { type = mechanized_brigade name = "7th Mechanized Cavalry Regiment" historical_model = 0 }
+				regiment = { type = mechanized_brigade name = "31st Mechanized Cavalry Regiment" historical_model = 0 }
+			}
+			division = {
+				is_reserve = yes
+				name = "1st Infantry Brigade"
+				location = 10016
+				regiment = { type = infantry_brigade name = "3rd Infantry Battalion" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "5th Infantry Battalion" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "51st Infantry Battalion" historical_model = 1 }
+				regiment = { type = armor_brigade name = "223rd Tank Battalion" historical_model = 0 }
+			}
+			division = {
+				is_reserve = yes
+				name = "7th Infantry Brigade"
+				location = 10042
+				regiment = { type = infantry_brigade name = "13th Infantry Battalion" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "17th Infantry Battalion" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "20th Infantry Battalion" historical_model = 1 }
+			}
+			division = {
+				is_reserve = yes
+				name = "32nd Infantry Brigade"
+				location = 10051
+				regiment = { type = infantry_brigade name = "321st Infantry Battalion" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "322nd Infantry Battalion" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "323rd Infantry Battalion" historical_model = 1 }
+			}
+			division = {
+				is_reserve = yes
+				name = "6th Jungle Brigade"
+				location = 10042
+				regiment = { type = infantry_brigade name = "25th Jungle Infantry Battalion" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "69th Jungle Infantry Battalion" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "85th Jungle Infantry Battalion" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "111th Jungle Infantry Battalion" historical_model = 1 }
+			}
+		}
+		corps = {
+			name = "Región Militar del Centro"
+			location = 10079
+			regiment = { type = hq_brigade name = "Región Militar del Centro" historical_model = 1 }
+			division = {
+				is_reserve = yes
+				name = "1st 'Húsares de Junín' Mechanized Cavalry Regiment"
+				location = 10079
+				regiment = { type = mechanized_brigade name = "1st 'Húsares de Junín' Mechanized Cavalry Regiment" historical_model = 0 }
+				regiment = { type = attack_helicopter_brigade name = "1st Army Aviation Brigade" historical_model = 0 }
+			}
+			division = {
+				is_reserve = yes
+				name = "1st 'Legion Peruana' Infantry Battalion"
+				location = 10079
+				regiment = { type = infantry_brigade name = "1st 'Legion Peruana' Infantry Battalion" historical_model = 1 }
+			}
+			division = {
+				is_reserve = yes
+				name = "18th Armoured Brigade"
+				location = 10079
+				regiment = { type = armor_brigade name = "181st Tank Battalion" historical_model = 0 }
+				regiment = { type = armor_brigade name = "182nd Tank Battalion" historical_model = 0 }
+				regiment = { type = mechanized_brigade name = "18th Armoured Infantry Battalion" historical_model = 0 }
+			}
+			division = {
+				is_reserve = yes
+				name = "2nd Infantry Brigade"
+				location = 10092
+				regiment = { type = infantry_brigade name = "33rd Infantry Battalion" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "43rd Infantry Battalion" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "53rd Infantry Battalion" historical_model = 1 }
+			}
+			division = {
+				is_reserve = yes
+				name = "31st Infantry Brigade"
+				location = 10070
+				regiment = { type = infantry_brigade name = "312th Infantry Battalion" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "313th Infantry Battalion" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "314th Infantry Battalion" historical_model = 1 }
+			}
+			division = {
+				is_reserve = yes
+				name = "1st Special Forces Brigade"
+				location = 10079
+				regiment = { type = special_forces_brigade name = "19th Commando Infantry Battalion" historical_model = 1 }
+				regiment = { type = special_forces_brigade name = "29th Commando Infantry Battalion" historical_model = 1 }
+				regiment = { type = special_forces_brigade name = "61st Commando Infantry Battalion" historical_model = 1 }
+			}
+			division = {
+				is_reserve = yes
+				name = "3rd Special Forces Brigade"
+				location = 10043
+				regiment = { type = special_forces_brigade name = "7th Commando Infantry Battalion" historical_model = 1 }
+				regiment = { type = special_forces_brigade name = "8th Commando Infantry Battalion" historical_model = 1 }
+				regiment = { type = special_forces_brigade name = "31st Commando Infantry Battalion" historical_model = 1 }
+			}
+		}
+		corps = {
+			name = "Región Militar del Sur"
+			location = 10150
+			regiment = { type = hq_brigade name = "Región Militar del Sur" historical_model = 1 }
+			division = {
+				is_reserve = yes
+				name = "14th Infantry Battalion"
+				location = 10150
+				regiment = { type = infantry_brigade name = "14th Infantry Battalion" historical_model = 1 }
+			}
+			division = {
+				is_reserve = yes
+				name = "57th Armoured Infantry Battalion"
+				location = 10150
+				regiment = { type = mechanized_brigade name = "57th Armoured Infantry Battalion" historical_model = 0 }
+			}
+			division = {
+				is_reserve = yes
+				name = "Special Forces Group 'Puma'"
+				location = 10150
+				regiment = { type = special_forces_brigade name = "Special Forces Group 'Puma'" historical_model = 1 }
+			}
+			division = {
+				is_reserve = yes
+				name = "3rd Armoured Brigade"
+				location = 10150
+				regiment = { type = armor_brigade name = "211th Tank Battalion" historical_model = 0 }
+				regiment = { type = armor_brigade name = "311th Tank Battalion" historical_model = 0 }
+				regiment = { type = mechanized_brigade name = "41st Armoured Infantry Battalion" historical_model = 0 }
+			}
+			division = {
+				is_reserve = yes
+				name = "3rd Armoured Cavalry Brigade"
+				location = 10030
+				regiment = { type = armor_brigade name = "3rd Armoured Cavalry Regiment" historical_model = 0 }
+				regiment = { type = armor_brigade name = "113th Armoured Cavalry Regiment" historical_model = 0 }
+				regiment = { type = armor_brigade name = "211th Armoured Cavalry Regiment" historical_model = 0 }
+				regiment = { type = infantry_brigade name = "35th Infantry Battalion" historical_model = 1 }
+			}
+			division = {
+				is_reserve = yes
+				name = "4th 'Tarapacá' Mountain Brigade"
+				location = 10140
+				regiment = { type = infantry_brigade name = "21st Infantry Battalion" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "55th Infantry Battalion" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "59th Infantry Battalion" historical_model = 1 }
+				regiment = { type = armor_brigade name = "9th Armoured Cavalry Regiment" historical_model = 0 }
+			}
+			division = {
+				is_reserve = yes
+				name = "5th Mountain Brigade"
+				location = 10106
+				regiment = { type = infantry_brigade name = "9th Infantry Battalion" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "15th Infantry Battalion" historical_model = 1 }
+				regiment = { type = armor_brigade name = "123rd Armoured Cavalry Regiment" historical_model = 0 }
+			}
+		}
+		corps = {
+			name = "Región Militar del Oriente"
+			location = 9999
+			regiment = { type = hq_brigade name = "Región Militar del Oriente" historical_model = 1 }
+			division = {
+				is_reserve = yes
+				name = "26th Special Forces Group 'Quevedo'"
+				location = 9999
+				regiment = { type = special_forces_brigade name = "26th Special Forces Group 'Quevedo'" historical_model = 1 }
+			}
+			division = {
+				is_reserve = yes
+				name = "5th Jungle Brigade"
+				location = 10042
+				regiment = { type = infantry_brigade name = "23rd Jungle Infantry Battalion" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "25th Jungle Infantry Battalion" historical_model = 1 }
+				regiment = { type = infantry_brigade name = "27th Jungle Infantry Battalion" historical_model = 1 }
+			}
+		}
+	}
+	
+	air = {
+	name = "Escuadrón Aéreo 711"
+	base = 10016
+	location = 10016
+	wing = { type = cas name = "Escuadrón Aéreo 711" historical_model = 0 }
+	}
+	
+	air = {
+	name = "Escuadrón Aéreo 112"
+	base = 10016
+	location = 10016
+	wing = { type = cas name = "Escuadrón Aéreo 112" historical_model = 0 }
+	}
+	
+	navy = {
+	name = "Marina de Guerra del Perú"
+	base = 10079
+	location = 10079
+	ship = { type = battlecruiser name = "BAP Almirante Grau" historical_model = 0 }
+	ship = { type = destroyer name = "BAP Ferré" historical_model = 0 }
+	ship = { type = submarine name = "BAP Angamos" historical_model = 0 }
+	ship = { type = submarine name = "BAP Antofagasta" historical_model = 0 }
+	ship = { type = submarine name = "BAP Pisagua" historical_model = 0 }
+	ship = { type = submarine name = "BAP Chipana" historical_model = 0 }
+	ship = { type = submarine name = "BAP Islay" historical_model = 0 }
+	ship = { type = submarine name = "BAP Arica" historical_model = 0 }
+	ship = { type = heavy_cruiser name = "BAP Carvajal" historical_model = 0 }
+	ship = { type = heavy_cruiser name = "BAP Villavisencio" historical_model = 0 }
+	ship = { type = heavy_cruiser name = "BAP Montero" historical_model = 0 }
+	ship = { type = heavy_cruiser name = "BAP Mariátegui" historical_model = 0 }
+	ship = { type = light_cruiser name = "BAP Velarde" historical_model = 0 }
+	ship = { type = light_cruiser name = "BAP Santillana" historical_model = 0 }
+	ship = { type = light_cruiser name = "BAP De Ios Heros" historical_model = 0 }
+	ship = { type = light_cruiser name = "BAP Herrera" historical_model = 0 }
+	ship = { type = light_cruiser name = "BAP Larrea" historical_model = 0 }
+	ship = { type = light_cruiser name = "BAP Sánchez Carrión" historical_model = 0 }
+	ship = { type = transport_ship name = "BAP Pisco" historical_model = 0 }
+	ship = { type = transport_ship name = "BAP Callao" historical_model = 0 }
+	ship = { type = transport_ship name = "BAP Eten" historical_model = 0 }
+	ship = { type = transport_ship name = "BAP Paita" historical_model = 0 }
+	}
+	
+}

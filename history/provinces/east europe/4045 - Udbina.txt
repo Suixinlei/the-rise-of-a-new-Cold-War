@@ -1,0 +1,8 @@
+owner = CRO
+controller = CRO
+add_core = CRO
+
+infra = 7
+air_base = 1 #Udbina airbase
+leadership = 2.50
+points = 1
